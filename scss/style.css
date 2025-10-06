@@ -215,7 +215,7 @@ img {
 }
 
 .theme1 {
-  color: #fdc703 !important;
+  color: #96c43f !important;
 }
 
 .theme2 {
@@ -247,7 +247,7 @@ img {
 }
 
 .bg-theme1 {
-  background: #fdc703 !important;
+  background: #96c43f !important;
 }
 
 .bg-theme2 {
@@ -980,7 +980,7 @@ button {
   height: 100%;
   top: 0;
   content: "";
-  background: #fdc703;
+  background: #96c43f;
   color: #fff !important;
   transition: all ease-in-out 0.5s;
   z-index: -1;
@@ -1005,7 +1005,7 @@ button {
   color: #3f3f3f;
 }
 .nir-btn-black:hover:before {
-  color: #fdc703;
+  color: #96c43f;
 }
 
 input#submit {
@@ -1048,7 +1048,7 @@ input#submit:hover {
 }
 
 .banner-slider .slick-prev, .banner-slider .slick-next {
-  background: #fdc703;
+  background: #96c43f;
   border-radius: 50%;
   width: 50px;
   height: 50px;
@@ -1168,7 +1168,7 @@ input#submit:hover {
   display: block;
   width: 225px;
   padding: 10px 0;
-  background-color: #fdc703;
+  background-color: #96c43f;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
   color: #fff;
   font-size: 18px;
@@ -2873,7 +2873,7 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
   border-radius: 50%;
 }
 .banner .swiper-button-next:hover:after, .banner .swiper-button-prev:hover:after {
-  background: #fdc703;
+  background: #96c43f;
   color: #fff;
   transition: all ease-in-out 0.5s;
 }
@@ -2969,7 +2969,7 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
     top: 50% !important;
   }
   .banner .slider .swiper-container .slider-before:before {
-    background: #fdc703;
+    background: #96c43f;
     width: 100%;
     opacity: 0.7;
   }
@@ -5711,7 +5711,7 @@ section.comingsoon .comingsoon-content .counter-box span {
   transition: all ease-in-out 0.5s;
 }
 .newsletter .newsletter-form form button:hover {
-  background: #fdc703 !important;
+  background: #96c43f !important;
   transition: all ease-in-out 0.5s;
   color: #fff;
   opacity: 0.8;
@@ -6116,10 +6116,10 @@ footer.footermain .footer-upper {
   background: #fff;
 }
 .list-results .change-list.f-active i, .list-results .change-grid.f-active i {
-  background: #fdc703;
+  background: #96c43f;
   color: #fff;
   transition: all ease-in-out 0.5s;
-  border-color: #fdc703;
+  border-color: #96c43f;
 }
 
 .form-find .nice-select {

@@ -203,7 +203,7 @@ img {
 }
 
 .theme1 {
-  color: #fdc703 !important;
+  color: #96c43f !important;
 }
 
 .theme2 {
@@ -235,7 +235,7 @@ img {
 }
 
 .bg-theme1 {
-  background: #fdc703 !important;
+  background: #96c43f !important;
 }
 
 .bg-theme2 {
@@ -1058,7 +1058,7 @@ button {
   height: 100%;
   top: 0;
   content: "";
-  background: #fdc703;
+  background: #96c43f;
   color: #fff !important;
   transition: all ease-in-out 0.5s;
   z-index: -1;
@@ -1083,7 +1083,7 @@ button {
   color: #3f3f3f;
 }
 .nir-btn-black:hover:before {
-  color: #fdc703;
+  color: #96c43f;
 }
 
 .nir-btn-white {
@@ -1098,7 +1098,7 @@ button {
   color: #3f3f3f;
 }
 .nir-btn-white:hover:before {
-  color: #fdc703;
+  color: #96c43f;
 }
 
 input#submit {
@@ -1141,7 +1141,7 @@ input#submit:hover {
 }
 
 .banner-slider .slick-prev, .banner-slider .slick-next {
-  background: #fdc703;
+  background: #96c43f;
   border-radius: 50%;
   width: 50px;
   height: 50px;
@@ -1275,7 +1275,7 @@ input#submit:hover {
   display: block;
   width: 225px;
   padding: 10px 0;
-  background-color: #fdc703;
+  background-color: #96c43f;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
   color: #fff;
   font-size: 18px;
@@ -2738,7 +2738,7 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
   border-radius: 50%;
 }
 .banner .swiper-button-next:hover:after, .banner .swiper-button-prev:hover:after {
-  background: #fdc703;
+  background: #96c43f;
   color: #fff;
   transition: all ease-in-out 0.5s;
 }
@@ -2834,7 +2834,7 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
     top: 50% !important;
   }
   .banner .slider .swiper-container .slider-before:before {
-    background: #fdc703;
+    background: #96c43f;
     width: 100%;
     opacity: 0.7;
   }
@@ -5577,7 +5577,7 @@ section.comingsoon .comingsoon-content .counter-box span {
   transition: all ease-in-out 0.5s;
 }
 .newsletter .newsletter-form form button:hover {
-  background: #fdc703 !important;
+  background: #96c43f !important;
   transition: all ease-in-out 0.5s;
   color: #fff;
   opacity: 0.8;
@@ -5981,10 +5981,10 @@ footer.footermain .footer-upper {
   background: #fff;
 }
 .list-results .change-list.f-active i, .list-results .change-grid.f-active i {
-  background: #fdc703;
+  background: #96c43f;
   color: #fff;
   transition: all ease-in-out 0.5s;
-  border-color: #fdc703;
+  border-color: #96c43f;
 }
 
 .form-find .nice-select {
@@ -7114,7 +7114,7 @@ ul.sidebar-tags li a:hover {
 .about_us__ot .dot-pattern {
   width: 100px;
   height: 120px;
-  background: radial-gradient(circle, #fdc703 10%, transparent 10%) 0 0/15px 15px;
+  background: radial-gradient(circle, #96c43f 10%, transparent 10%) 0 0/15px 15px;
   position: absolute;
   bottom: -5%;
   left: 10%;
@@ -7168,7 +7168,7 @@ ul.sidebar-tags li a:hover {
 .offer_banner .content {
   position: relative;
   width: 60%;
-  background: linear-gradient(to right, #fdc703, rgba(255, 255, 0, 0));
+  background: linear-gradient(to right, #96c43f, rgba(255, 255, 0, 0));
   color: white;
   padding: 30px;
   border-top-left-radius: 10px;
@@ -7563,7 +7563,7 @@ ul.sidebar-tags li a:hover {
   border-radius: 10px;
 }
 .faq-section .faq-accordion .accordion-button:not(.collapsed) {
-  background-color: #fdc703;
+  background-color: #96c43f;
   color: #17233e;
 }
 .faq-section .faq-accordion .accordion-button:focus, .faq-section .faq-accordion .accordion-button:active {
