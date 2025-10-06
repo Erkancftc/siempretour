@@ -30,200 +30,308 @@
     <!-- Preloader Ends -->
 
     <!-- header starts -->
-    <header class="main_header_area">
-        <div class="header-content py-1 bg-theme">
-            <div class="container d-flex align-items-center justify-content-between">
-                <div class="links">
-                    <ul>
-                        <li><a href="#" class="white"><i class="icon-calendar white"></i> Thursday, Mar 26, 2021</a></li>
-                        <li><a href="#" class="white"><i class="icon-location-pin white"></i>  Hollywood, America</a></li>
-                        <li><a href="#" class="white"><i class="icon-clock white"></i> Mon-Fri: 10 AM – 5 PM</a></li>
+    <header class="main_header_area position-absolute">
+      <!-- <div class="header-content py-1">
+        <div class="container d-flex align-items-center justify-content-between">
+          <div class="links">
+            <ul>
+              <li>
+                <a href="#" class="white"><i class="icon-calendar white"></i> Thursday, Mar 26, 2021</a>
+              </li>
+              <li>
+                <a href="#" class="white"><i class="icon-location-pin white"></i> Hollywood, America</a>
+              </li>
+              <li>
+                <a href="#" class="white"><i class="icon-clock white"></i> Mon-Fri: 10 AM – 5 PM</a>
+              </li>
+            </ul>
+          </div>
+          <div class="links">
+            <ul>
+              <li>
+                <a href="#" class="white"><i class="fab fa-facebook" aria-hidden="true"></i></a>
+              </li>
+              <li>
+                <a href="#" class="white"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+              </li>
+              <li>
+                <a href="#" class="white"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+              </li>
+              <li>
+                <a href="#" class="white"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div> -->
+      <!-- Navigation Bar -->
+      <div class="header_menu" id="header_menu">
+        <nav class="navbar navbar-default">
+          <div class="container">
+            <div class="navbar-flex d-flex align-items-center justify-content-between w-100 pb-3 pt-3">
+              <!-- Brand and toggle get grouped for better mobile display -->
+              <div class="navbar-header">
+                <a class="navbar-brand" href="index.html">
+                  <img src="images/Logo.svg" alt="Siempre Logo" />
+                </a>
+              </div>
+              <!-- Collect the nav links, forms, and other content for toggling -->
+              <div class="navbar-collapse1 d-flex align-items-center" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav" id="responsive-menu">
+                  <li class="dropdown submenu active">
+                    <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"
+                      >Anasayfa </a>
+                  </li>
+
+                  <li><a href="about.html">Hakkımızda</a></li>
+                  <li class="submenu dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"
+                      >Bölgeler <i class="icon-arrow-down" aria-hidden="true"></i
+                    ></a>
+                    <ul class="dropdown-menu">
+                      <li class="submenu dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"
+                          >Avrupa<i class="fa fa-angle-right" aria-hidden="true"></i
+                        ></a>
+                          <ul class="dropdown-menu">
+                            <li><a href="tour-list.html">Avusturya</a></li>
+                            <li><a href="tour-list.html">Hırvatistan</a></li>
+                            <li><a href="tour-list.html">Çek Cumhuriyeti</a></li>
+                            <li><a href="tour-list.html">İngiltere</a></li>
+                            <li><a href="tour-list.html">Finlandiya</a></li>
+                            <li><a href="tour-list.html">Fransa</a></li>
+                            <li><a href="tour-list.html">Almanya</a></li>
+                            <li><a href="tour-list.html">Yunanistan</a></li>
+                            <li><a href="tour-list.html">İzlanda</a></li>
+                            <li><a href="tour-list.html">İrlanda</a></li>
+                            <li><a href="tour-list.html">İtalya</a></li>
+                            <li><a href="tour-list.html">Karadağ</a></li>
+                            <li><a href="tour-list.html">Norveç</a></li>
+                            <li><a href="tour-list.html">Portekiz</a></li>
+                            <li><a href="tour-list.html">İskoçya</a></li>
+                            <li><a href="tour-list.html">Slovenya</a></li>
+                            <li><a href="tour-list.html">İspanya</a></li>
+                            <li><a href="tour-list.html">İsveç</a></li>
+                            <li><a href="tour-list.html">İsviçre</a></li>
+                            <li><a href="tour-list.html">Birleşik Krallık</a></li>
+                            <li class="see-all"><a href="europa-tours.html">Tümünü Gör</a></li>
+                          </ul>
+                      </li>
+                      <li class="submenu dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"
+                          >Afrika<i class="fa fa-angle-right" aria-hidden="true"></i
+                        ></a>
+                        <ul class="dropdown-menu">
+                          <li><a href="tour-list.html">Botswana</a></li>
+                          <li><a href="tour-list.html">Kenya</a></li>
+                          <li><a href="tour-list.html">Namibiya</a></li>
+                          <li><a href="tour-list.html">Rwanda</a></li>
+                          <li><a href="tour-list.html">Güney Afrika</a></li>
+                          <li><a href="tour-list.html">Tanzanya</a></li>
+                          <li><a href="tour-list.html">Uganda</a></li>
+                          <li><a href="tour-list.html">Zambiya</a></li>
+                          <li><a href="tour-list.html">Zimbabwe</a></li>
+                          <li class="see-all"><a href="african-tours.html">Tümünü Gör</a></li>
+                        </ul>
+                      </li>
+                      <li class="submenu dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"
+                          >Latin Amerika<i class="fa fa-angle-right" aria-hidden="true"></i
+                        ></a>
+                        <ul class="dropdown-menu">
+                          <li><a href="tour-list.html">Arjantin</a></li>
+                          <li><a href="tour-list.html">Belize</a></li>
+                          <li><a href="tour-list.html">Brazilya</a></li>
+                          <li><a href="tour-list.html">Şili</a></li>
+                          <li><a href="tour-list.html">Kolombiya</a></li>
+                          <li><a href="tour-list.html">Kosta Rika</a></li>
+                          <li><a href="tour-list.html">Küba</a></li>
+                          <li><a href="tour-list.html">Ekvator</a></li>
+                          <li><a href="tour-list.html">Panama</a></li>
+                          <li><a href="tour-list.html">Peru</a></li>
+                          <li class="see-all"><a href="latinamerica-tours.html">Tümünü Gör</a></li>
+                        </ul>
+                      </li>
+                      <li class="submenu dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"
+                          >Güney Pasifik<i class="fa fa-angle-right" aria-hidden="true"></i
+                        ></a>
+                        <ul class="dropdown-menu">
+                          <li><a href="tour-list.html">Avusturalya</a></li>
+                          <li><a href="tour-list.html">Bora Bora</a></li>
+                          <li><a href="tour-list.html">Fiji</a></li>
+                          <li><a href="tour-list.html">Yeni Zelanda</a></li>
+                          <li><a href="tour-list.html">Tahiti</a></li>
+                          <li class="see-all"><a href="southpasific-tours.html">Tümünü Gör</a></li>
+                        </ul>
+                      </li>
+                      <li class="submenu dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"
+                          >Asya<i class="fa fa-angle-right" aria-hidden="true"></i
+                        ></a>
+                        <ul class="dropdown-menu">
+                          <li><a href="tour-list.html">Bali</a></li>
+                          <li><a href="tour-list.html">Bhutan</a></li>
+                          <li><a href="tour-list.html">Kamboçya</a></li>
+                          <li><a href="tour-list.html">Çin</a></li>
+                          <li><a href="tour-list.html">Hindistan</a></li>
+                          <li><a href="tour-list.html">Japonya</a></li>
+                          <li><a href="tour-list.html">Laos</a></li>
+                          <li><a href="tour-list.html">Maldivler</a></li>
+                          <li><a href="tour-list.html">Nepal</a></li>
+                          <li><a href="tour-list.html">Sri Lanka</a></li>
+                          <li><a href="tour-list.html">Tayland</a></li>
+                          <li><a href="tour-list.html">Vietnam</a></li>
+                          <li class="see-all"><a href="asia-tours.html">Tümünü Gör</a></li>
+                        </ul>
+                      </li>
+                      <li class="submenu dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"
+                          >Orta Doğu & Kuzey Afrika<i class="fa fa-angle-right" aria-hidden="true"></i
+                        ></a>
+                        <ul class="dropdown-menu">
+                          <li><a href="tour-list.html">Mısır</a></li>
+                          <li><a href="tour-list.html">İsrail</a></li>
+                          <li><a href="tour-list.html">Ürdün</a></li>
+                          <li><a href="tour-list.html">Fas</a></li>
+                          <li><a href="tour-list.html">Türkiye</a></li>
+                          <li class="see-all"><a href="middleeast-tours.html">Tümünü Gör</a></li>
+                        </ul>
+                      </li>
+                      <li class="submenu dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"
+                          >Antartika</i
+                        ></a>
+                      </li>
+                    </li>
                     </ul>
-                </div>
-                <div class="links float-right">
-                    <ul>  
-                        <li><a href="#" class="white"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
-                        <li><a href="#" class="white"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
-                        <li><a href="#" class="white"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
-                        <li><a href="#" class="white"><i class="fab fa-linkedin " aria-hidden="true"></i></a></li>
+                  </li>
+                  <li class="submenu dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"
+                      >Turlar <i class="icon-arrow-down" aria-hidden="true"></i
+                    ></a>
+                    <ul class="dropdown-menu">
+                      <li class="submenu dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"
+                          >Tur Listesi<i class="fa fa-angle-right" aria-hidden="true"></i
+                        ></a>
+                        <ul class="dropdown-menu">
+                          <li><a href="tour-list.html">Tour List Leftsidebar</a></li>
+                          <li><a href="tour-list1.html">Tour List Rightsidebar</a></li>
+                          <li><a href="tour-list2.html">Tour List Fullwidth</a></li>
+                        </ul>
+                      </li>
+                      <li class="submenu dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"
+                          >Tour Grid<i class="fa fa-angle-right" aria-hidden="true"></i
+                        ></a>
+                        <ul class="dropdown-menu">
+                          <li><a href="tour-grid.html">Tour Grid Leftsidebar</a></li>
+                          <li><a href="tour-grid1.html">Tour Grid Rightsidebar</a></li>
+                          <li><a href="tour-grid2.html">Tour Grid Fullwidth</a></li>
+                        </ul>
+                      </li>
+                      <li class="submenu dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"
+                          >Tour Single<i class="fa fa-angle-right" aria-hidden="true"></i
+                        ></a>
+                        <ul class="dropdown-menu">
+                          <li><a href="tour-single.html">Tour Single Leftsidebar</a></li>
+                          <li><a href="tour-single1.html">Tour Single Rightsidebar</a></li>
+                          <li><a href="tour-single2.html">Tour Single Fullwidth</a></li>
+                        </ul>
+                      </li>
                     </ul>
-                </div>
+                  </li>
+                  <li class="submenu dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"
+                      >Sayfalar <i class="icon-arrow-down" aria-hidden="true"></i
+                    ></a>
+                    <ul class="dropdown-menu">
+                      <li><a href="team.html">Rehber</a></li>
+                      <li><a href="booking.html">Rezervasyon</a></li>
+                      <li><a href="confirmation.html">Onay</a></li>
+                      <li class="submenu dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"
+                          >Hizmetler<i class="fa fa-angle-right" aria-hidden="true"></i
+                        ></a>
+                        <ul class="dropdown-menu">
+                          <li><a href="services.html">Services Lists</a></li>
+                          <li><a href="services-detail.html">Service Detail</a></li>
+                        </ul>
+                      </li>
+                      <li class="submenu dropdown">
+                        <a href="gallery.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"
+                          >Galeri</a>
+                      </li>
+                      <li class="submenu dropdown">
+                        <a href="404.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"
+                          >Hata<i class="fa fa-angle-right" aria-hidden="true"></i
+                        ></a>
+                        <ul class="dropdown-menu">
+                          <li><a href="404.html">Error Page 1</a></li>
+                          <li><a href="404-1.html">Error Page 2</a></li>
+                        </ul>
+                      </li>
+                      <li><a href="login.html">Giriş|Kaydol</a></li>
+                      <li><a href="comingsoon.html">Yakında</a></li>
+                      <li><a href="testimonials.html">Yorumlar</a></li>
+                      <li><a href="faq.html">S.S.S</a></li>
+                      <li><a href="contact.html">İletişim</a></li>
+                      <li><a href="dashboard/dashboard.html">Dashboard</a></li>
+                    </ul>
+                  </li>
+                  <li class="submenu dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"
+                      >Blog <i class="icon-arrow-down" aria-hidden="true"></i
+                    ></a>
+                    <ul class="dropdown-menu">
+                      <li class="submenu dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"
+                          >Blog Grid<i class="fa fa-angle-right" aria-hidden="true"></i
+                        ></a>
+                        <ul class="dropdown-menu">
+                          <li><a href="post-grid-1.html">Blog Grid 1</a></li>
+                          <li><a href="post-grid-2.html">Blog Grid 2</a></li>
+                          <li><a href="post-grid-3.html">Blog Grid 3</a></li>
+                        </ul>
+                      </li>
+                      <li class="submenu dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"
+                          >Blog List<i class="fa fa-angle-right" aria-hidden="true"></i
+                        ></a>
+                        <ul class="dropdown-menu">
+                          <li><a href="post-list-1.html">Blog List 1</a></li>
+                          <li><a href="post-list-2.html">Blog List 2</a></li>
+                          <li><a href="post-list-3.html">Blog List 3</a></li>
+                        </ul>
+                      </li>
+                      <li class="submenu dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"
+                          >Blog Single<i class="fa fa-angle-right" aria-hidden="true"></i
+                        ></a>
+                        <ul class="dropdown-menu">
+                          <li><a href="detail-1.html">Blog Single 1</a></li>
+                          <li><a href="detail-2.html">Blog Single 2</a></li>
+                          <li><a href="detail-3.html">Blog Single 3</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="search-main">
+                    <a href="#search1" class="mt_search"><i class="fa fa-search"></i></a>
+                  </li>
+                </ul>
+              </div>
+              <!-- /.navbar-collapse -->
+ 
+              <div id="slicknav-mobile"></div>
             </div>
-        </div>
-        <!-- Navigation Bar -->
-        <div class="header_menu" id="header_menu">
-            <nav class="navbar navbar-default">
-                <div class="container">
-                    <div class="navbar-flex d-flex align-items-center justify-content-between w-100 pb-3 pt-3">
-                        <!-- Brand and toggle get grouped for better mobile display -->
-                        <div class="navbar-header">
-                            <a class="navbar-brand" href="index.html">
-                                <img src="images/logo.png" alt="image">
-                            </a>
-                        </div>
-                        <!-- Collect the nav links, forms, and other content for toggling -->
-                        <div class="navbar-collapse1 d-flex align-items-center" id="bs-example-navbar-collapse-1">
-                            <ul class="nav navbar-nav" id="responsive-menu">
-                                <li class="dropdown submenu">
-                                    <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home <i class="icon-arrow-down" aria-hidden="true"></i></a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="index.html">Homepage Default</a></li>
-                                        <li><a href="index-1.html">Homepage 1</a></li>
-                                        <li><a href="index-2.html">Homepage 2</a></li>
-                                        <li><a href="index-3.html">Homepage 3</a></li>
-                                        <li><a href="index-4.html">Homepage 4</a></li>
-                                        <li><a href="index-5.html">Homepage 5</a></li>
-<li><a href="index-6.html">Homepage 6</a></li>
-<li><a href="index-7.html">Homepage 7</a></li>
-<li><a href="index-8.html">Homepage 8</a></li>
-                                        <li class="submenu dropdown">
-                                            <a href="#" class="dropdown-toggle d-flex align-items-center" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Flights <i class="fa fa-angle-right" aria-hidden="true"></i></a> 
-                                            <ul class="dropdown-menu">
-                                                <li><a href="index-flight.html">Flight Homepage</a></li>
-                                                <li><a href="flight-grid.html">Flight Grid</a></li>
-                                                <li><a href="flight-list.html">Flight List</a></li>
-                                                <li><a href="flight-detail.html">Flight Detail</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="submenu dropdown">
-                                            <a href="#" class="dropdown-toggle d-flex align-items-center" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Cars <i class="fa fa-angle-right" aria-hidden="true"></i></a> 
-                                            <ul class="dropdown-menu">
-                                                <li><a href="index-car.html">Car Homepage</a></li>
-                                                <li><a href="car-grid.html">Car Grid</a></li>
-                                                <li><a href="car-list.html">Car List</a></li>
-                                                <li><a href="car-detail.html">Car Detail</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="submenu dropdown">
-                                            <a href="#" class="dropdown-toggle d-flex align-items-center" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Cruise <i class="fa fa-angle-right" aria-hidden="true"></i></a> 
-                                            <ul class="dropdown-menu">
-                                                <li><a href="index-cruise.html">Cruise Homepage</a></li>
-                                                <li><a href="cruise-grid.html">Cruise Grid</a></li>
-                                                <li><a href="cruise-list.html">Cruise List</a></li>
-                                                <li><a href="cruise-detail.html">Cruise Detail</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
-
-                                <li><a href="about.html">About Us</a></li>
-
-                                <li class="submenu dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Destinations <i class="icon-arrow-down" aria-hidden="true"></i></a> 
-                                    <ul class="dropdown-menu">
-                                        <li><a href="destination-list.html">Destination List</a></li>
-                                        <li><a href="destination-detail.html">Destination Detail</a></li>
-                                    </ul> 
-                                </li>
-                                <li class="submenu dropdown active">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Tours <i class="icon-arrow-down" aria-hidden="true"></i></a> 
-                                    <ul class="dropdown-menu">
-                                        <li class="submenu dropdown">
-                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Tour List<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href="tour-list.html">Tour List Leftsidebar</a></li>
-                                                <li><a href="tour-list1.html">Tour List Rightsidebar</a></li>
-                                                <li><a href="tour-list2.html">Tour List Fullwidth</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="submenu dropdown">
-                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Tour Grid<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href="tour-grid.html">Tour Grid Leftsidebar</a></li>
-                                                <li><a href="tour-grid1.html">Tour Grid Rightsidebar</a></li>
-                                                <li><a href="tour-grid2.html">Tour Grid Fullwidth</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="submenu dropdown">
-                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Tour Single<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href="tour-single.html">Tour Single Leftsidebar</a></li>
-                                                <li><a href="tour-single1.html">Tour Single Rightsidebar</a></li>
-                                                <li><a href="tour-single2.html">Tour Single Fullwidth</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul> 
-                                </li>
-                                <li class="submenu dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pages <i class="icon-arrow-down" aria-hidden="true"></i></a> 
-                                    <ul class="dropdown-menu">
-                                        <li><a href="team.html">Our Guide</a></li>
-                                        <li><a href="booking.html">Booking</a></li>
-                                        <li><a href="confirmation.html">confirmation</a></li>
-                                        <li class="submenu dropdown">
-                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href="services.html">Services Lists</a></li>
-                                                <li><a href="services-detail.html">Service Detail</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="submenu dropdown">
-                                            <a href="gallery.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Gallery<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href="gallery.html">Gallery</a></li>
-                                                <li><a href="gallery1.html">Gallery Masonry</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="submenu dropdown">
-                                            <a href="404.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Error<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href="404.html">Error Page 1</a></li>
-                                                <li><a href="404-1.html">Error Page 2</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="login.html">Login|Register</a></li>
-                                        <li><a href="comingsoon.html">Coming Soon</a></li>
-                                        <li><a href="testimonials.html">Testimonials</a></li>
-                                        <li><a href="faq.html">Faq</a></li>
-                                        <li><a href="contact.html">Contact Us</a></li>
-                                        <li><a href="dashboard/dashboard.html">Dashboard</a></li>
-                                    </ul> 
-                                </li>
-                                <li class="submenu dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Blog <i class="icon-arrow-down" aria-hidden="true"></i></a> 
-                                    <ul class="dropdown-menu">
-                                        <li class="submenu dropdown">
-                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Blog Grid<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href="post-grid-1.html">Blog Grid 1</a></li>
-                                                <li><a href="post-grid-2.html">Blog Grid 2</a></li>
-                                                <li><a href="post-grid-3.html">Blog Grid 3</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="submenu dropdown">
-                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Blog List<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href="post-list-1.html">Blog List 1</a></li>
-                                                <li><a href="post-list-2.html">Blog List 2</a></li>
-                                                <li><a href="post-list-3.html">Blog List 3</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="submenu dropdown">
-                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Blog Single<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href="detail-1.html">Blog Single 1</a></li>
-                                                <li><a href="detail-2.html">Blog Single 2</a></li>
-                                                <li><a href="detail-3.html">Blog Single 3</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li class="search-main"><a href="#search1" class="mt_search"><i class="fa fa-search"></i></a></li>
-                            </ul>
-                        </div><!-- /.navbar-collapse -->   
-                        <div class="register-login d-flex align-items-center">
-                            <a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal" class="me-3">
-                                <i class="icon-user"></i> Login/Register
-                            </a>
-                            <a href="booking.html" class="nir-btn white">Book Now</a>
-                        </div> 
-
-                        <div id="slicknav-mobile"></div>
-                    </div>
-                </div><!-- /.container-fluid --> 
-            </nav>
-        </div>
-        <!-- Navigation Bar Ends -->
+          </div>
+          <!-- /.container-fluid -->
+        </nav>
+      </div>
+      <!-- Navigation Bar Ends -->
     </header>
     <!-- header ends -->
 
