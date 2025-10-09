@@ -284,7 +284,7 @@ img {
 }
 
 .border-b {
-  border-bottom: 1px dashed #f1f1f1 !important;
+  border-bottom: 0px dashed #f1f1f1 !important;
 }
 
 .border-all {
