@@ -35,28 +35,28 @@ body {
   font-family: "Satoshi", sans-serif;
   overflow-x: hidden;
   font-weight: 400;
-  color: #777;
+  color: rgb(0, 0, 0);
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 700;
+  font-weight: 400;
   font-family: "Satoshi", sans-serif;
   text-transform: capitalize;
   margin: 0 0 1rem;
   color: #17233e;
-  line-height: 1.4;
+  line-height: 36px;
 }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-  color: #17233e;
+  color: #000000;
   transition: all ease-in-out 0.5s;
   cursor: pointer;
   text-decoration: none;
 }
 h1 a:hover, h1 a:focus, h2 a:hover, h2 a:focus, h3 a:hover, h3 a:focus, h4 a:hover, h4 a:focus, h5 a:hover, h5 a:focus, h6 a:hover, h6 a:focus {
-  color: #215093;
+  color: #000000;
   transition: all ease-in-out 0.5s;
   outline: none;
   text-decoration: none !important;
@@ -6995,7 +6995,7 @@ ul.sidebar-tags li a:hover {
 .home-thh .main_header_area .navbar.navbar-default {
   border-bottom: 1px solid #656565;
 color: #000000; 
-background-color: white;
+background-color: #F9F6F2;
 
 
 }
