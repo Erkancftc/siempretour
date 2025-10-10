@@ -7068,7 +7068,13 @@ display: block;
   width: 65%;
 }
 .home-thh .banner .banner-main .banner-content h1 {
-  font-size: 44px;
+    color: #fff;
+    font-family: "The Seasons,sans-serif";
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 48px;
+    margin: 0;
+    text-shadow: 0 2px 2px #0000001f;
 }
 .home-thh .banner .banner-main .banner-content .banner-booking .form-content {
   background: rgba(255, 255, 255, 0.2);
