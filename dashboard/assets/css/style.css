@@ -188,7 +188,7 @@ blockquote {
 
 b,
 strong {
-  font-weight: 700;
+  font-weight: 400;
 }
 
 small, .small {
@@ -22652,7 +22652,7 @@ body {
   visibility: visible;
   -webkit-transition: opacity 0.5s ease;
   transition: opacity 0.5s ease;
-  font-weight: 700;
+  font-weight: 400;
   font-size: 25px;
   color: #232323865;
   direction: ltr/*rtl:ignore*/;
@@ -24648,7 +24648,7 @@ div.tox .btn-group-lg > .btn-icon-text.tox-button .btn-icon-append,
   font-weight: 500;
 }
 .email-list-item.email-list-item--unread .content .msg {
-  font-weight: 700;
+  font-weight: 400;
 }
 
 .ace_editor {

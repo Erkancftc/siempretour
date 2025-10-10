@@ -41,7 +41,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 700;
+  font-weight: 400;
   font-family: "Playfair Display", serif;
   text-transform: capitalize;
   margin: 0 0 1rem;
@@ -1123,7 +1123,7 @@ input#submit:hover {
   top: 50%;
   left: 50%;
   z-index: 1;
-  font-weight: 700;
+  font-weight: 400;
   transform: translate(-50%, -50%);
 }
 
@@ -2738,7 +2738,7 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
 }
 .banner .slider .swiper-container .swiper-slide .slide-inner .swiper-content > h1 {
   letter-spacing: 1px;
-  font-weight: 700;
+  font-weight: 400;
 }
 .banner .slider .swiper-container-horizontal > .swiper-pagination-bullets {
   bottom: 40px;
@@ -2840,7 +2840,7 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
 .banner .banner-main .banner-content > h1 {
   font-size: 58px;
   letter-spacing: 1px;
-  font-weight: 700;
+  font-weight: 400;
 }
 .banner .banner-main .banner-content p {
   font-size: 21px;
@@ -3385,7 +3385,7 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
   display: none;
 }
 .trending-topic-counter .trending-topic-counter-inner .section-title h2 {
-  font-weight: 700;
+  font-weight: 400;
 }
 .trending-topic-counter .trending-topic-counter-inner .counter-item {
   padding: 20px !important;
@@ -4577,7 +4577,7 @@ section.about-detail .about-detail-content {
   z-index: 1;
 }
 .call-to-action .call-content h2 {
-  font-weight: 700;
+  font-weight: 400;
   font-size: 42px;
   text-transform: uppercase;
   display: inline-block;
@@ -4593,7 +4593,7 @@ section.about-detail .about-detail-content {
 }
 .call-to-action .call-content p {
   font-size: 18px;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 section.call-to-action1 {
@@ -4611,7 +4611,7 @@ section.call-to-action1 .call-inner .call-content {
   z-index: 1;
 }
 section.call-to-action1 .call-inner .call-content h2 {
-  font-weight: 700;
+  font-weight: 400;
   font-size: 42px;
   text-transform: uppercase;
   display: inline-block;
@@ -5108,7 +5108,7 @@ section.call-to-action.maincounter .counter {
 }
 .news .news-item .news-image .news-date1 span {
   font-size: 28px;
-  font-weight: 700;
+  font-weight: 400;
   line-height: 1;
 }
 .news .news-item .news-image .news-content1 {
@@ -5224,7 +5224,7 @@ section.call-to-action.maincounter .counter {
   position: absolute;
   top: 0;
   right: 0;
-  font-weight: 700;
+  font-weight: 400;
   line-height: 1.2;
 }
 
@@ -5574,7 +5574,7 @@ section.comingsoon .comingsoon-content .counter-box span {
   font-size: 90px;
   color: #fff;
   display: block;
-  font-weight: 700;
+  font-weight: 400;
   line-height: 1.5;
 }
 
@@ -5856,7 +5856,7 @@ footer .footer-middle {
 footer .footer-middle .footer-nav ul li a {
   display: inline-block;
   margin: 0 5px;
-  font-weight: 700;
+  font-weight: 400;
 }
 footer .footer-copyright {
   position: relative;
@@ -6196,7 +6196,7 @@ footer.footermain .footer-upper {
   background: #fff;
   color: #215093;
   float: left;
-  font-weight: 700;
+  font-weight: 400;
   border-radius: 0px;
   padding: 16px 18px;
   font-size: 24px;
@@ -6640,7 +6640,7 @@ ul.sidebar-category1 li {
 .sidebar-tabs .s-content .blog-no {
   font-size: 32px;
   color: #ccc;
-  font-weight: 700;
+  font-weight: 400;
 }
 .sidebar-tabs .s-content .date {
   font-size: 14px;
