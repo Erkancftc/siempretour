@@ -7032,10 +7032,23 @@ background-color: #F9F6F2;
     padding: .5rem 1.5rem;
     text-transform: capitalize;
  }
- .home-thh .main_header_area .navbar.navbar-default .nav.navbar-nav li .trip-button:hover{
+ .header_menu .navbar.navbar-default .nav.navbar-nav li .trip-button:hover{
   background-color: #333;
  }
-
+ .header_menu .navbar.navbar-default .nav.navbar-nav li .phone-module-phone-icon{
+   display: none;
+  }
+ .home-thh .main_header_area .navbar.navbar-default .nav.navbar-nav li .phone-number{
+display: block;
+ }
+ @media( max-width: 1279px){
+ .home-thh .main_header_area .navbar.navbar-default .nav.navbar-nav li .phone-number{
+  display: none;}
+ }
+ @media( max-width: 1279px){
+ .header_menu .navbar.navbar-default .nav.navbar-nav li .phone-module-phone-icon{
+  display: block;}
+ }
 .home-thh .main_header_area .navbar.navbar-default.navbar-sticky-in {
   border-color: #eee;
 }
