@@ -1965,7 +1965,7 @@ header #navbar {
 }
 .header_menu .navbar.navbar-default .nav.navbar-nav li {
   float: none;
-  display: inline-block;
+  display: inline-flex;
   margin-right: 0;
   background: transparent;
 }
@@ -7040,6 +7040,7 @@ background-color: #F9F6F2;
   }
  .home-thh .main_header_area .navbar.navbar-default .nav.navbar-nav li .phone-number{
 display: block;
+
  }
  @media( max-width: 1279px){
  .home-thh .main_header_area .navbar.navbar-default .nav.navbar-nav li .phone-number{
@@ -7077,7 +7078,13 @@ display: block;
   width: 65%;
 }
 .home-thh .banner .banner-main .banner-content h1 {
-  font-size: 44px;
+    color: #fff;
+    font-family: "The Seasons,sans-serif";
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 48px;
+    margin: 0;
+    text-shadow: 0 2px 2px #0000001f;
 }
 .home-thh .banner .banner-main .banner-content .banner-booking .form-content {
   background: rgba(255, 255, 255, 0.2);
