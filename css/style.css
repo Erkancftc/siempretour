@@ -417,7 +417,9 @@ img {
 .mb-10, .my-10 {
   margin-bottom: 5rem !important;
 }
-
+.mb-15{
+  margin-bottom: 15% !important;
+}
 .mb-minus {
   margin-bottom: -5rem !important;
 }
@@ -7077,13 +7079,23 @@ display: block;
   top: 55%;
   width: 65%;
 }
+.home-thh .banner .banner-main .banner-content .entry-category{
+  color: #fff;
+    font-size: 22px;
+    font-weight: 200;
+    line-height: 24px;
+    margin: 0!important;
+    margin-bottom: 1.5rem;
+    text-shadow: 0 2px 2px #0000001f;
+
+}
 .home-thh .banner .banner-main .banner-content h1 {
     color: #fff;
-    font-family: "The Seasons,sans-serif";
-    font-size: 38px;
-    font-weight: 700;
-    line-height: 48px;
-    margin: 0;
+    font-family: "Playfair Display,serif";
+    font-size: 94px;
+    font-weight: 800;
+    line-height: 120px;
+    margin-bottom: 36px;
     text-shadow: 0 2px 2px #0000001f;
 }
 .home-thh .banner .banner-main .banner-content .banner-booking .form-content {
@@ -7098,7 +7110,11 @@ display: block;
   background: transparent;
   color: #fff;
 }
-
+@media (min-width: 768px){
+  .home-thh .banner .banner-main .banner-content span{
+    margin: 2rem 4rem;
+  }
+}
 @media (min-width: 992px) {
   .home-thh .header_menu .navbar.navbar-default .nav.navbar-nav li.submenu:hover ul {
     left: inherit;
@@ -7774,6 +7790,8 @@ display: block;
   }
   .home-thh .banner .banner-main .banner-content h1 {
     font-size: 16px;
+    margin: 0;
+    line-height: 1.2rem;
   }
   .row.offer-banner {
     margin: 0 15px;
