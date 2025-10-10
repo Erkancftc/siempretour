@@ -298,7 +298,7 @@ img {
 }
 
 .border-all {
-  border: 1px solid #f1f1f1 !important;
+  border: 0.1px solid #000000 !important;
 }
 
 .border-end {
@@ -3369,7 +3369,6 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
 .trending .trend-item .trend-image img, .trending .trend-item1 .trend-image img, .trending .trend-item2 .trend-image img {
   transition: all ease-in-out 0.5s;
   width: 100%;
-  
 }
 .trending .trend-item .trend-image .trend-content, .trending .trend-item1 .trend-image .trend-content, .trending .trend-item2 .trend-image .trend-content {
   z-index: 1;
@@ -3413,6 +3412,52 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
     pointer-events: auto;
   }
 }
+body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(5) > div{
+  z-index: 1;
+  box-shadow: 0 0 32px 0 #0707070a;
+  width: 200%;
+  left:64px;
+}
+body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(4) > div{
+  z-index: 2;
+  box-shadow: 0 0 32px 0 #0707070a;
+  width: 225%;
+  left:64px;
+
+}
+body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(3) > div{
+  z-index: 3;
+  box-shadow: 0 0 32px 0 #0707070a;
+  width: 250%;
+}
+body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(2) > div{
+  z-index: 2;
+  box-shadow: 0 0 32px 0 #0707070a;
+  width: 225%;
+  left:-64px;
+
+
+}
+body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(1) > div{
+  box-shadow: 0 0 32px 0 #0707070a;
+  width: 200%;
+ z-index: 1;
+  left:-64px;
+}
+
+
+
+body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(5) > div:hover,
+body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(4) > div:hover,
+body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(3) > div:hover,
+body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(2) > div:hover,
+body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(1) > div:hover{
+  transform: scale(1.1);
+  z-index: 5;
+  left:0;
+  transition: all ease-in-out 0.5s;
+}
+
 
 
 .trending .trend-item1 .trend-image .overlay-text:hover{
