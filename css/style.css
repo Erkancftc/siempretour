@@ -35,7 +35,7 @@ body {
   font-family: "Satoshi", sans-serif;
   overflow-x: hidden;
   font-weight: 400;
-  color: rgb(0, 0, 0);
+  color: #777;
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -50,13 +50,13 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 36px;
 }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-  color: #000000;
+  color: #17233e;
   transition: all ease-in-out 0.5s;
   cursor: pointer;
   text-decoration: none;
 }
 h1 a:hover, h1 a:focus, h2 a:hover, h2 a:focus, h3 a:hover, h3 a:focus, h4 a:hover, h4 a:focus, h5 a:hover, h5 a:focus, h6 a:hover, h6 a:focus {
-  color: #000000;
+  color: #215093;
   transition: all ease-in-out 0.5s;
   outline: none;
   text-decoration: none !important;
@@ -200,7 +200,7 @@ img {
 }
 
 .theme {
-  color: #215093 !important;
+  color: #000000 !important;
 }
 
 .theme1 {
@@ -7011,9 +7011,9 @@ background-color: #F9F6F2;
 .home-thh .main_header_area .navbar.navbar-default .nav.navbar-nav li a.mt_search i {
   font-size: 18px;
 }
-.home-thh .main_header_area .navbar.navbar-default .nav.navbar-nav li.active a, .home-thh .main_header_area .navbar.navbar-default .nav.navbar-nav li:hover a {
+/* .home-thh .main_header_area .navbar.navbar-default .nav.navbar-nav li.active a, .home-thh .main_header_area .navbar.navbar-default .nav.navbar-nav li:hover a {
   color: #96C43F;
-}
+} */
 .home-thh .main_header_area .navbar.navbar-default.navbar-sticky-in {
   border-color: #eee;
 }
