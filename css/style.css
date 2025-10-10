@@ -3334,6 +3334,7 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
 /* ========================================= */
 /*          Trending  CSS        */
 /* ======================================== */
+
 .trending {
   background-position: top right;
   background-size: contain;
@@ -3341,10 +3342,10 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
   position: relative;
 }
 .trending .trend-item, .trending .trend-item1, .trending .trend-item2 {
-  position: relative;
+  /* position: relative; */
   transition: all ease-in-out 0.5s;
   overflow: hidden;
-     height: 420px;
+     /* height: 420px; */
     width: 206px;
 }
 .trending .trend-item::before, .trending .trend-item1::before, .trending .trend-item2::before {
