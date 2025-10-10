@@ -3341,6 +3341,8 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
   position: relative;
   transition: all ease-in-out 0.5s;
   overflow: hidden;
+     height: 100%;
+    width: 100%;
 }
 .trending .trend-item::before, .trending .trend-item1::before, .trending .trend-item2::before {
   content: "";
@@ -3364,14 +3366,62 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
 .trending .trend-item .trend-image img, .trending .trend-item1 .trend-image img, .trending .trend-item2 .trend-image img {
   transition: all ease-in-out 0.5s;
   width: 100%;
+  
 }
 .trending .trend-item .trend-image .trend-content, .trending .trend-item1 .trend-image .trend-content, .trending .trend-item2 .trend-image .trend-content {
   z-index: 1;
+  opacity: 1;
+}
+
+
+
+/* Show overlay text only on hover */
+.trend-image { position: relative; overflow: hidden; }
+
+.trend-image .overlay-text {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity .3s ease, transform .3s ease, visibility .3s;
+  pointer-events: none;
+}
+
+.trend-image:hover .overlay-text,
+.trend-image:focus-within .overlay-text {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+}
+
+/* Fade the color overlay in with the text */
+
+
+/* On touch devices (no hover) show overlays by default */
+@media (hover: none) {
+  .trend-image .overlay-text,
+  .trend-image .color-overlay {
+    opacity: 1;
+    visibility: visible;
+    transform: none;
+    pointer-events: auto;
+  }
+}
+
+
+.trending .trend-item1 .trend-image .overlay-text:hover{
+    opacity: 1;
+    transition: all ease-in-out 0.5s;
 }
 .trending .trend-item .trend-image, .trending .trend-item .trend-image1, .trending .trend-item1 .trend-image, .trending .trend-item1 .trend-image1, .trending .trend-item2 .trend-image, .trending .trend-item2 .trend-image1 {
   transition: all ease-in-out 0.5s;
   overflow: hidden;
 }
+
+
 .trending .trend-item .trend-content1, .trending .trend-item1 .trend-content1, .trending .trend-item2 .trend-content1 {
   position: absolute;
   bottom: 0;
