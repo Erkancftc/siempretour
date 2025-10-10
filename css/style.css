@@ -735,11 +735,14 @@ table thead tr th {
 .color-overlay {
   top: inherit;
   bottom: 0;
-  background: linear-gradient(to bottom, transparent, #000000);
-  height: 50%;
-  opacity: 0.6;
+  background: #000000;
+  height: 100%;
+  opacity: 0;
 }
-
+.color-overlay:hover{
+  opacity: 0.6;
+  transition: all ease-in-out 0.5s;
+}
 .left-overlay {
   background: linear-gradient(to left, transparent, #fff);
   height: 100%;
@@ -3438,7 +3441,7 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
   width: 100%;
 }
 .trending .trend-item:hover .trend-image img, .trending .trend-item1:hover .trend-image img, .trending .trend-item2:hover .trend-image img {
-  transform: scale(1.1);
+  /* transform: scale(1.1); */
   transition: all ease-in-out 0.5s;
 }
 .trending .trend-item:hover .color-overlay, .trending .trend-item1:hover .color-overlay, .trending .trend-item2:hover .color-overlay {
