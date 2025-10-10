@@ -3407,7 +3407,7 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
 @media (hover: none) {
   .trend-image .overlay-text,
   .trend-image .color-overlay {
-    opacity: 1;
+    opacity: 0.5;
     visibility: visible;
     transform: none;
     pointer-events: auto;
@@ -3416,47 +3416,58 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
 body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(5) > div{
   z-index: 1;
   box-shadow: 0 0 32px 0 #0707070a;
-  width: 200%;
-  left:64px;
+  scale: 1.1;
 }
 body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(4) > div{
   z-index: 2;
   box-shadow: 0 0 32px 0 #0707070a;
-  width: 225%;
-  left:64px;
+  scale: 1.2;
 
 }
 body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(3) > div{
-  z-index: 3;
+  z-index: 5;
   box-shadow: 0 0 32px 0 #0707070a;
-  width: 250%;
+  scale: 1.3;
 }
 body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(2) > div{
   z-index: 2;
   box-shadow: 0 0 32px 0 #0707070a;
-  width: 225%;
-  left:-64px;
 
+  scale: 1.2;
 
 }
 body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(1) > div{
   box-shadow: 0 0 32px 0 #0707070a;
-  width: 200%;
  z-index: 1;
-  left:-64px;
+  scale: 1.1;
 }
 
 
 
-body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(5) > div:hover,
-body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(4) > div:hover,
-body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(3) > div:hover,
-body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(2) > div:hover,
+body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(5) > div:hover{
+z-index: 6;
+  transform:translateX(64px) scale(1.5);
+  transition: all cubic-bezier(0, 0, 0, 1) 0.5s;
+}
+body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(4) > div:hover{
+  z-index: 6;
+  transform:translateX(32px) scale(1.5);
+  transition: all cubic-bezier(0, 0, 0, 1) 0.5s;
+}
+body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(3) > div:hover{
+  z-index: 6;
+  transform:scale(1.5);
+  transition: all cubic-bezier(0, 0, 0, 1) 0.5s ;
+}
+body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(2) > div:hover{
+z-index: 6;
+  transform:translateX(-32px) scale(1.5);
+  transition: all cubic-bezier(0, 0, 0, 1) 0.5s;
+}
 body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(1) > div:hover{
-  transform: scale(1.1);
-  z-index: 99;
-  left:0;
-  transition: all ease-in-out 0.5s;
+  z-index: 6;
+  transform:translateX(-64px) scale(1.5);
+  transition: all cubic-bezier(0, 0, 0, 1) 0.5s;
 }
 
 
