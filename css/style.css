@@ -1955,7 +1955,7 @@ header #navbar {
 }
 .header_menu .navbar.navbar-default .nav.navbar-nav li {
   float: none;
-  display: inline-block;
+  display: inline-flex;
   margin-right: 0;
   background: transparent;
 }
@@ -7030,6 +7030,7 @@ background-color: #F9F6F2;
   }
  .home-thh .main_header_area .navbar.navbar-default .nav.navbar-nav li .phone-number{
 display: block;
+
  }
  @media( max-width: 1279px){
  .home-thh .main_header_area .navbar.navbar-default .nav.navbar-nav li .phone-number{
