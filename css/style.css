@@ -7235,9 +7235,9 @@ background-color: #F9F6F2;
 
 /* ---- Ayarlar (istersen değerleri değiştir) ---- */
 :root{
-  --u-h: 2px;          /* çizgi kalınlığı */
+  --u-h: 3px;          /* çizgi kalınlığı */
   --u-dur: .28s;       /* hız */
-  --u-gap: 2px;        /* yazı ile çizgi arası boşluk */
+  --u-gap: 0px;        /* yazı ile çizgi arası boşluk */
 }
 
 /* Tüm navbar linkleri (üst menü + dropdown) */
@@ -7246,7 +7246,7 @@ background-color: #F9F6F2;
   position: relative;
   display: inline-block;                 /* yazı kadar alan */
   padding-bottom: calc(.5rem + var(--u-gap));
-  color: inherit;                        /* currentColor kullanalım */
+  color: black;                        /* currentColor kullanalım */
   text-decoration: none;
 
   /* Alt çizgiyi arka planla çizeceğiz */
