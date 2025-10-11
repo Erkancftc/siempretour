@@ -7181,7 +7181,10 @@ background-color: #F9F6F2;
     border-color: #b1aeab;
     color: #070707;
 }
-
+.eye-icon{
+    width: 32px;
+    place-self: center;
+}
 
 /* Şeridi taşıyan şu eleman: <div class="row flex-nowrap align-items-center"> */
 .row.flex-nowrap.align-items-center {
