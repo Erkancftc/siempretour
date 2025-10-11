@@ -7210,11 +7210,29 @@ background-color: #F9F6F2;
 
 .img-beyond-dream{
   width: 50%;
-  aspect-ratio: 1/1;
+  /* aspect-ratio: 1/1; */
   place-self: start;
   padding-left: 0 !important;
   margin-left:0 !important;
 }
+/*buton efekti*/
+.tab-btn{
+  background-color: transparent;
+  border-bottom: none;
+  transition: scale(0);
+}
+.tab-btn{ position:relative; display:inline-block; padding:.75rem 1.25rem; color:#111; }
+.tab-btn::after{
+  content:"";
+  position:absolute; left:0; right:0; bottom:0; height:2px;
+  background: currentColor;
+  clip-path: inset(0 100% 0 0);           /* sağdan tamamen kes */
+  transition: clip-path .32s ease;
+}
+.tab-btn:hover::after{
+  clip-path: inset(0 0 0 0);              /* şeridi aç */
+}
+
 
  .header_menu .navbar.navbar-default .nav.navbar-nav li .phone-module-phone-icon{
    display: none;

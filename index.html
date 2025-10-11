@@ -675,15 +675,56 @@
         <!-- Steps Row -->
         <div class="row justify-content-center mt-5">
           <ul class="d-flex flex-row justify-content-center gap-5">
-            <li><a href="#">Yiyecek & İçecek</a> </li>
-            <li><a href="#">Tarih & Kültür</a> </li>
-            <li><a href="#">Sahiller & Adalar</a> </li>
-            <li><a href="#">Aktif Maceralar</a> </li>
-            <li><a href="#">Doğal Yaşam & Doğa </a> </li>
+            <button class="tab-btn" id="food-btn" role="tab" tabindex="0" aria-selected="true">Yiyecek & İçecek</button>
+            <button class="tab-btn" id="history-btn" role="tab" tabindex="0" aria-selected="false">Tarih & Kültür</button>
+            <button class="tab-btn" id="beach-btn" role="tab" tabindex="0" aria-selected="false">Sahiller & Adalar</button>
+            <button class="tab-btn" id="adventure-btn" role="tab" tabindex="0" aria-selected="false">Aktif Maceralar</button>
+            <button class="tab-btn" id="nature-btn" role="tab" tabindex="0" aria-selected="false">Doğal Yaşam & Doğa </button>
+            <!-- <li><a id="food-btn" href="#">Yiyecek & İçecek</a> </li>
+            <li><a id="history-btn" href="#">Tarih & Kültür</a> </li>
+            <li><a id="beach-btn" href="#">Sahiller & Adalar</a> </li>
+            <li><a id="adventure-btn" href="#">Aktif Maceralar</a> </li>
+            <li><a id="nature-btn" href="#">Doğal Yaşam & Doğa </a> </li> -->
           </ul>
-          <div class="col-lg-8 d-flex flex-row box-shadow mt-3 px-0">
-            <img class="img-beyond-dream" src="images/02-Tokyo-.jpg" alt="">
-          <p class="step-subtitle text-none gray p-4 align-content-center">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus ipsam voluptas nihil mollitia id aliquid quia reiciendis blanditiis illo dolores ullam placeat, sequi sapiente necessitatibus omnis enim voluptatum cupiditate! Vel.</p>
+          <div class="dream-caraousel col-lg-8 d-flex flex-row box-shadow mt-3 px-0" data-category="food">
+            <img class="img-beyond-dream" src="https://res.cloudinary.com/zicasso/image/fetch/c_fill,g_auto,h_460,w_480/e_sharpen:60/q_auto/dpr_auto/f_auto/https://images.zicasso.com/893070f3d1df0ba411fcea39a211dde2.jpg" alt="">
+            <div class="col-lg-6 align-self-center align-items-center d-flex flex-column p-4">
+              <h4 class="">Özel Yiyecek & İçecek Deneyimleri</h4 >
+            <p class="step-subtitle text-none gray p-4 align-content-center">Mutfak ufkunuzu genişletecek bir gastronomi yolculuğuna çıkın. Yüzyıllık şarap sırlarını keşfedin, 
+              ünlü şeflerle birlikte mutfak şaheserleri yaratın ve egzotik ile özenle seçilmiş mutfakların tatlarını deneyimleyin. Her lokma bir macera, her yudum bir keşif.</p>
+            </div>
+          </div>
+          <div class="dream-caraousel col-lg-8 d-flex flex-row box-shadow mt-3 px-0" data-category="history">
+            <img class="img-beyond-dream" src="https://res.cloudinary.com/zicasso/image/fetch/ar_1.3,c_fill,g_auto,w_auto/e_sharpen:60/q_auto/dpr_auto/f_auto/https://images.zicasso.com/303c5002e2fddd424e29c09e25a85489.jpg" alt="">
+            <div class="col-lg-6 align-self-center align-items-center d-flex flex-column p-4" >
+              <h4 class="">Sürükleyici, Otantik Turlar</h4 >
+            <p class="step-subtitle text-none gray p-4 align-content-center">Kadim sırları gün yüzüne çıkarın, efsanelerin izini sürün ve ikonik tabloları, heykelleri ile eskizleri yakından görün. Rengârenk festivallerde ritme katılın, 
+              zamanın yıprattığı harabeleri keşfedin ve dünyamızı büyüleyici kılan farklı kültür ve geleneklerin zenginliğini deneyimleyin.</p>
+            </div>
+          </div>
+          <div class="dream-caraousel col-lg-8 d-flex flex-row box-shadow mt-3 px-0" data-category="beach">
+            <img class="img-beyond-dream" src="https://res.cloudinary.com/zicasso/image/fetch/ar_1.3,c_fill,g_auto,w_auto/e_sharpen:60/q_auto/dpr_auto/f_auto/https://images.zicasso.com/16dbbac92e116598888dc92ed4299960.jpg" alt="">
+            <div class="col-lg-6 align-self-center align-items-center d-flex flex-column p-4" >
+              <h4 class="">Işıltılı Tropik Kaçamaklar</h4 >
+            <p class="step-subtitle text-none gray p-4 align-content-center">Güneşin öptüğü kıyıların panoramasında, dalgaların ritmine eşlik edin. Mercan bahçeleri arasında şnorkelle yüzün ya da kendinize ait cennetin sıcaklığında dinlenin.
+               Her an, adaların dingin lüksüyle yoğrulur; yavaşlamaya ve zihninizi gevşetmeye davet eder.</p>
+            </div>
+          </div>
+          <div class="dream-caraousel col-lg-8 d-flex flex-row box-shadow mt-3 px-0" data-category="adventure">
+            <img class="img-beyond-dream" src="https://res.cloudinary.com/zicasso/image/fetch/ar_1.3,c_fill,g_auto,w_auto/e_sharpen:60/q_auto/dpr_auto/f_auto/https://images.zicasso.com/ffcc85d6bd4ebe22b9eb8607c29059f1.jpg" alt="">
+            <div class="col-lg-6 align-self-center align-items-center d-flex flex-column p-4" >
+              <h4 class="">Aktif Maceralar</h4 >
+            <p class="step-subtitle text-none gray p-4 align-content-center">Bağcıklarını bağla, keşfe hazır ol. İster yumuşak bir başlangıç ister sınırlarını zorlayan bir rota olsun, senin için heyecan dolu bir aktif macera kurgulayalım. 
+              Sarp zirvelere tırman, billur fiyortlarda kano yap, dalgalı yollarda pedal çevir; her virajda nefes kesen manzaralar seni beklesin.</p>
+            </div>
+          </div>
+          <div class="dream-caraousel col-lg-8 d-flex flex-row box-shadow mt-3 px-0" data-category="nature">
+            <img class="img-beyond-dream" src="https://res.cloudinary.com/zicasso/image/fetch/ar_1.3,c_fill,g_auto,w_auto/e_sharpen:60/q_auto/dpr_auto/f_auto/https://images.zicasso.com/4f7a02dfec881c3117ffc11bbfd5c00a.jpg" alt="">
+            <div class="col-lg-6 align-self-center align-items-center d-flex flex-column p-4" >
+              <h4 class="">Doğa & Yaban Hayatı Safarileri</h4 >
+            <p class="step-subtitle text-none gray p-4 align-content-center">Afrika’nın vahşi kalbinde maceranın kurallarını yeniden yazın. Dünya standartlarında rehberlerle güneşin ışıdığı savanları ve sisli yağmur ormanlarını aşın.
+               Keşiflerinize kamp ateşi etrafında kadeh kaldırın; gün boyu yaşadığınız yaban hayatı karşılaşmalarının hikâyeleri, gecenin çağrılarından oluşan senfoniyle iç içe geçsin.</p>
+            </div>
           </div>
           </div>
         </div>
@@ -1219,5 +1260,7 @@
     <script src="js/main.js"></script>
     <script src="js/custom-swiper.js"></script>
     <script src="js/custom-nav.js"></script>
+    <script src="js/dream-carousel.js"></script>
+
   </body>
 </html>
