@@ -2059,7 +2059,7 @@ header #navbar {
   margin-right: 0px;
 }
 .header_menu .navbar.navbar-default.navbar-sticky-in .nav.navbar-nav li:hover > a, .header_menu .navbar.navbar-default.navbar-sticky-in .nav.navbar-nav li.active > a {
-  color: #215093;
+  color: #fff;
 }
 
 .main_header_area .header_mlogo .navbar.navbar-default .navbar-header {
