@@ -5741,7 +5741,7 @@ footer {
   position: relative;
   background-position: bottom right;
   background-repeat: no-repeat;
-  background-color: #000000;
+  background-color: #294772;
 }
 footer .overlay {
   opacity: 0.8;
@@ -7232,6 +7232,57 @@ background-color: #F9F6F2;
 .tab-btn:hover::after{
   clip-path: inset(0 0 0 0);              /* şeridi aç */
 }
+
+/* ---- Ayarlar (istersen değerleri değiştir) ---- */
+:root{
+  --u-h: 2px;          /* çizgi kalınlığı */
+  --u-dur: .28s;       /* hız */
+  --u-gap: 2px;        /* yazı ile çizgi arası boşluk */
+}
+
+/* Tüm navbar linkleri (üst menü + dropdown) */
+#responsive-menu .submenu.dropdown > a,
+#responsive-menu .dropdown-menu a {
+  position: relative;
+  display: inline-block;                 /* yazı kadar alan */
+  padding-bottom: calc(.5rem + var(--u-gap));
+  color: inherit;                        /* currentColor kullanalım */
+  text-decoration: none;
+
+  /* Alt çizgiyi arka planla çizeceğiz */
+  background-image: linear-gradient(currentColor, currentColor);
+  background-repeat: no-repeat;
+  background-position: left calc(100% - var(--u-gap)); /* altta, soldan başla */
+  background-size: 0% var(--u-h);                      /* başta görünmesin */
+  background-origin: content-box;                      /* yalnızca yazı genişliği */
+  background-clip: content-box;                        /* padding’i sayma */
+  transition: background-size var(--u-dur) ease;
+}
+
+
+
+/* Hover/Focus/Active → çizgi soldan sağa dolsun */
+#responsive-menu > .submenu.dropdown > a:hover,
+#responsive-menu > .submenu.dropdown > a:focus,
+#responsive-menu > .submenu.dropdown > a.active,
+#responsive-menu .dropdown-menu a:hover,
+#responsive-menu .dropdown-menu a:focus,
+#responsive-menu .dropdown-menu a.active {
+  background-size: 100% var(--u-h);
+}
+
+/* Klavye odağı için erişilebilirlik (opsiyonel) */
+#responsive-menu a:focus-visible{
+  outline: none;
+  text-decoration: none;
+}
+
+/* Hareket tercihine saygı (opsiyonel) */
+@media (prefers-reduced-motion: reduce){
+  #responsive-menu a{ transition: none; }
+}
+
+
 
 
  .header_menu .navbar.navbar-default .nav.navbar-nav li .phone-module-phone-icon{

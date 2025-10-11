@@ -6264,6 +6264,9 @@ fieldset:disabled .btn {
 .gap-6{
   gap: 5rem !important;
 }
+.gap-10{
+  gap: 10rem !important;
+}
 .justify-content-start {
   justify-content: flex-start !important;
 }
