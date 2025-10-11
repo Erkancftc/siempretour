@@ -2000,7 +2000,7 @@ header #navbar {
   display: none;
 }
 .header_menu .navbar.navbar-default .nav.navbar-nav li:hover a, .header_menu .navbar.navbar-default .nav.navbar-nav li.active a {
-  color: #215093;
+  color: #000;
   background: transparent;
 }
 .header_menu .navbar.navbar-default .nav.navbar-nav li.submenu {
