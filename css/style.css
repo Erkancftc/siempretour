@@ -7147,7 +7147,7 @@ background-color: #F9F6F2;
  .header_menu .navbar.navbar-default .nav.navbar-nav li .trip-button:hover{
   background-color: #333;
  }
-.trending .trip-button a{
+.trip-button a{
     background-color: #000;
     color: #fff;
     font-size: 14px;
@@ -7159,7 +7159,7 @@ background-color: #F9F6F2;
     justify-content: center;
     width: fit-content;
 }
-.trending .trip-button a:hover{
+.trip-button a:hover{
     background-color: #333;
     color: #fff;
 }
@@ -7229,11 +7229,10 @@ display: block;
   border-color: #eee;
 }
 .home-thh .main_header_area .navbar.navbar-default.navbar-sticky-in .nav.navbar-nav li a {
-  color: #fff;
   border-color: #eee;
 }
 .home-thh .main_header_area .register-login a {
-  color: #fff;
+  color: #000;
 }
 .home-thh .banner .slider {
   height: 100vh !important;
