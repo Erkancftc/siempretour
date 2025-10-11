@@ -2046,7 +2046,7 @@ header #navbar {
   justify-content: space-between;
 }
 .header_menu .navbar.navbar-default .nav.navbar-nav li.submenu .dropdown-menu li a:hover {
-  background: #215093;
+  background:transparent;
   color: #fff;
 }
 .header_menu .navbar.navbar-default .nav.navbar-nav li.submenu .dropdown-menu li:last-child {
