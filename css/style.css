@@ -7220,12 +7220,11 @@ background-color: #F9F6F2;
   background-color: transparent;
   text-transform: uppercase;
   border-bottom: none;
-  transition: scale(0);
 }
-.tab-btn{ position:relative; display:inline-block; padding:.75rem 1.25rem; color:#111; }
+.tab-btn{ position:relative; display:inline-block; padding:.0 0 0.5rem 0; color:#111; }
 .tab-btn::after{
   content:"";
-  position:absolute; left:0; right:0; bottom:0; height:2px;
+  position:absolute; left:0; right:0; bottom:0; height:4px;
   background: currentColor;
   clip-path: inset(0 100% 0 0);           /* sağdan tamamen kes */
   transition: clip-path .32s ease;
