@@ -22654,7 +22654,7 @@ body {
   transition: opacity 0.5s ease;
   font-weight: 400;
   font-size: 25px;
-  color: #232323865;
+  color: #232323;
   direction: ltr/*rtl:ignore*/;
 }
 .sidebar .sidebar-header .sidebar-brand span {
