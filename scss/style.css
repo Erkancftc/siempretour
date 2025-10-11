@@ -45,11 +45,11 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Playfair Display", serif;
   text-transform: capitalize;
   margin: 0 0 1rem;
-  color: #17233e;
+  color: #000000;
   line-height: 1.4;
 }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-  color: #17233e;
+  color: #000000;
   transition: all ease-in-out 0.5s;
   cursor: pointer;
   text-decoration: none;
@@ -219,7 +219,7 @@ img {
 }
 
 .theme2 {
-  color: #17233e !important;
+  color: #000000 !important;
 }
 
 .black {
@@ -231,7 +231,7 @@ img {
 }
 
 .title {
-  color: #17233e !important;
+  color: #000000 !important;
 }
 
 .bg-grey {
@@ -255,7 +255,7 @@ img {
 }
 
 .bg-title {
-  background: #17233e !important;
+  background: #000000 !important;
 }
 
 .bg-fblack {
@@ -995,7 +995,7 @@ button {
 }
 
 .nir-btn-black {
-  background: #17233e;
+  background: #000000;
 }
 .nir-btn-black:before {
   color: #fff;
@@ -1059,7 +1059,7 @@ input#submit:hover {
   line-height: 1.8;
 }
 .banner-slider .slick-prev:hover, .banner-slider .slick-prev:focus, .banner-slider .slick-next:hover, .banner-slider .slick-next:focus {
-  background: #17233e;
+  background: #000000;
 }
 .banner-slider .slick-prev {
   left: 30px;
@@ -4862,7 +4862,7 @@ section.call-to-action.maincounter .counter {
   line-height: 1.5;
 }
 .testimonial .review-slider .slick-prev:hover, .testimonial .review-slider .slick-prev:focus, .testimonial .review-slider .slick-next:hover, .testimonial .review-slider .slick-next:focus {
-  background: #17233e;
+  background: #000000;
 }
 .testimonial .review-slider .slick-prev:hover::before, .testimonial .review-slider .slick-prev:focus::before, .testimonial .review-slider .slick-next:hover::before, .testimonial .review-slider .slick-next:focus::before {
   color: #fff;
@@ -5752,7 +5752,7 @@ footer {
   position: relative;
   background-position: bottom right;
   background-repeat: no-repeat;
-  background-color: #17233e;
+  background-color: #000000;
 }
 footer .overlay {
   opacity: 0.8;

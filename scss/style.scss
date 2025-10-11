@@ -4434,7 +4434,7 @@ footer {
     position:relative;
     background-position: bottom right;
     background-repeat:no-repeat;
-    background-color:#17233e;
+    background-color:#000000;
     .overlay{opacity: 0.8;}
 	a, p, li{
 	    	color: $white;
@@ -6331,10 +6331,10 @@ ul.sidebar-tags {
 				top: 50px;
 				writing-mode: sideways-lr;
 				padding: 30px 10px;
-				// border-right: 7px solid #17233e;
+				// border-right: 7px solid #000000;
 				border-radius: 25px;
 				background: #d8f0ef;
-				color: #17233e;
+				color: #000000;
 				font-size: 18px;
 				font-weight: 600;
 				letter-spacing: 1px;
@@ -6510,7 +6510,7 @@ ul.sidebar-tags {
 			border-radius: 10px;
 			&:not(.collapsed) {
 				background-color: $themecolor1;
-				color: #17233e;
+				color: #000000;
 			}
 		}
 		.accordion-button:focus, .accordion-button:active {
