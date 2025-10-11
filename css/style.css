@@ -46,11 +46,11 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Satoshi", sans-serif;
   text-transform: capitalize;
   margin: 0 0 1rem;
-  color: #17233e;
-  line-height: 36px;
+  color: #000000;
+  line-height: 40px;
 }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-  color: #17233e;
+  color: #000000;
   transition: all ease-in-out 0.5s;
   cursor: pointer;
   text-decoration: none;
@@ -218,7 +218,7 @@ img {
 }
 
 .theme2 {
-  color: #17233e !important;
+  color: #000000 !important;
 }
 
 .black {
@@ -230,7 +230,7 @@ img {
 }
 
 .title {
-  color: #17233e !important;
+  color: #000000 !important;
 }
 
 .bg-grey {
@@ -254,7 +254,7 @@ img {
 }
 
 .bg-title {
-  background: #17233e !important;
+  background: #000000 !important;
 }
 
 .bg-fblack {
@@ -1089,7 +1089,7 @@ button {
 }
 
 .nir-btn-black {
-  background: #17233e;
+  background: #000000;
 }
 .nir-btn-black:before {
   color: #fff;
@@ -1168,7 +1168,7 @@ input#submit:hover {
   line-height: 50px;
 }
 .banner-slider .slick-prev:hover, .banner-slider .slick-prev:focus, .banner-slider .slick-next:hover, .banner-slider .slick-next:focus {
-  background: #17233e;
+  background: #000000;
 }
 .banner-slider .slick-prev {
   left: 30px;
@@ -4834,7 +4834,7 @@ section.call-to-action.maincounter .counter {
   line-height: 50px;
 }
 .testimonial .review-slider .slick-prev:hover, .testimonial .review-slider .slick-prev:focus, .testimonial .review-slider .slick-next:hover, .testimonial .review-slider .slick-next:focus {
-  background: #17233e;
+  background: #000000;
 }
 .testimonial .review-slider .slick-prev:hover::before, .testimonial .review-slider .slick-prev:focus::before, .testimonial .review-slider .slick-next:hover::before, .testimonial .review-slider .slick-next:focus::before {
   color: #fff;
@@ -5741,7 +5741,7 @@ footer {
   position: relative;
   background-position: bottom right;
   background-repeat: no-repeat;
-  background-color: #17233e;
+  background-color: #000000;
 }
 footer .overlay {
   opacity: 0.8;
@@ -7169,7 +7169,7 @@ background-color: #F9F6F2;
     color: #070707;
     font-size: 16px;
     line-height: 20px;
-    padding: .5rem 1.5rem;
+    padding: .75rem 2rem;
     text-transform: capitalize;
     align-items: center;
     justify-content: center;
@@ -7208,7 +7208,13 @@ background-color: #F9F6F2;
 
 /* Yazım hatasını düzelt: “cols-lg-6” sınıfı yoktur */
 
-
+.img-beyond-dream{
+  width: 50%;
+  aspect-ratio: 1/1;
+  place-self: start;
+  padding-left: 0 !important;
+  margin-left:0 !important;
+}
 
  .header_menu .navbar.navbar-default .nav.navbar-nav li .phone-module-phone-icon{
    display: none;
@@ -7636,7 +7642,7 @@ display: block;
   padding: 30px 10px;
   border-radius: 25px;
   background: #d8f0ef;
-  color: #17233e;
+  color: #000000;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 1px;
@@ -7800,7 +7806,7 @@ display: block;
 }
 .faq-section .faq-accordion .accordion-button:not(.collapsed) {
   background-color: #96c43f;
-  color: #17233e;
+  color: #000000;
 }
 .faq-section .faq-accordion .accordion-button:focus, .faq-section .faq-accordion .accordion-button:active {
   border-color: transparent;
