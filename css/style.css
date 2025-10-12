@@ -7310,6 +7310,17 @@ background-color: #F9F6F2;
 }
 
 
+.tour-desc-1,
+.tour-desc-2,
+.tour-desc-3{
+min-width: 300px;
+max-width: 960px;
+}
+.tour-desc .icon img{
+  aspect-ratio: 1/1;
+  min-width: 32px;
+}
+
 
 
  .header_menu .navbar.navbar-default .nav.navbar-nav li .phone-module-phone-icon{
