@@ -1943,7 +1943,7 @@ header #navbar {
 .header_menu .navbar.navbar-default {
   border-radius: 0px;
   margin-bottom: 0px;
-  background: transparent;
+  /* background: transparent; */
   border: none;
   width: 100%;
   z-index: 9;
