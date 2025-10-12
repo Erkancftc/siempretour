@@ -7239,6 +7239,30 @@ background-color: #F9F6F2;
 .tab-btn:hover::after{
   clip-path: inset(0 0 0 0);              /* şeridi aç */
 }
+.country-name-desc{
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    align-self: center;
+}
+.country-name{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    text-transform: uppercase;
+   
+}
+.country-name-btn{
+    background-color: #0000;
+    border: 1px solid #faf6f2;
+    color: #fff;
+}
+.month-selector .trend-content-title{
+  display: grid;
+  justify-items: stretch;  
+}
 
 /* ---- Ayarlar (istersen değerleri değiştir) ---- */
 :root{
