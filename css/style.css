@@ -712,6 +712,10 @@ table thead tr th {
   border-bottom: none !important;
 }
 
+element.style {
+  background-image: url(images/bg/bg1.jpg);
+}
+
 .overlay, .dot-overlay, .color-overlay, .white-overlay, .left-overlay, .soft-overlay {
   position: absolute;
   top: 0;
