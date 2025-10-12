@@ -7210,10 +7210,11 @@ background-color: #F9F6F2;
 
 .img-beyond-dream{
   width: 50%;
-  /* aspect-ratio: 1/1; */
+  aspect-ratio: 460/350;
   place-self: start;
   padding-left: 0 !important;
   margin-left:0 !important;
+  object-fit: cover;
 }
 /*buton efekti*/
 .tab-btn{
