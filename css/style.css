@@ -1078,7 +1078,7 @@ button {
   height: 100%;
   top: 0;
   content: "";
-  background: #96c43f;
+  background: #a8a8a8;
   color: #fff !important;
   transition: all ease-in-out 0.5s;
   z-index: -1;
@@ -1088,7 +1088,7 @@ button {
   transition: all ease-in-out 0.5s;
 }
 .nir-btn:hover, .nir-btn-black:hover, .nir-btn-white:hover {
-  color: rgb(4, 98, 198) !important;
+  color: rgb(53, 78, 104) !important;
   transition: all ease-in-out 0.5s;
 }
 
