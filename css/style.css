@@ -206,7 +206,7 @@ img {
 }
 
 .white {
-  color: #fff !important;
+  color: rgb(0, 0, 0) !important;
 }
 
 .theme {
@@ -5747,13 +5747,13 @@ footer {
   position: relative;
   background-position: bottom right;
   background-repeat: no-repeat;
-  background-color: #294772;
+  background-color: #F1ECE9;
 }
 footer .overlay {
   opacity: 0.8;
 }
 footer a, footer p, footer li {
-  color: #fff;
+  color: rgb(0, 0, 0);
   font-weight: 400;
 }
 footer a:hover {
@@ -5769,7 +5769,7 @@ footer h3:after {
   content: "";
   height: 2px;
   width: 50px;
-  background: #fff;
+  background: rgb(0, 0, 0);
   left: 0;
   bottom: 0;
 }
@@ -5783,12 +5783,12 @@ footer .footer-upper .footer-links ul.list li {
 }
 footer .footer-upper .footer-links ul li {
   margin-bottom: 20px;
-  color: #fff;
+  color: rgb(0, 0, 0);
   display: block;
 }
 footer .footer-upper .footer-links ul li a {
   transition: all ease-in-out 0.5s;
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 footer .footer-upper .footer-links ul li a:hover {
   color: #215093 !important;
@@ -5893,7 +5893,7 @@ footer .footer-listing-main .footer-listing i {
 }
 .social-links ul li a {
   background: rgba(255, 255, 255, 0.1490196078);
-  color: #fff;
+  color: rgb(0, 0, 0);
   width: 40px;
   height: 40px;
   display: inline-block;
@@ -5904,7 +5904,7 @@ footer .footer-listing-main .footer-listing i {
 }
 .social-links ul li a:hover {
   color: #fff;
-  background: #215093;
+  background: #628395;
 }
 
 footer.footer1 {
@@ -5915,7 +5915,7 @@ footer.footer1 h4:after {
   content: "";
   height: 2px;
   width: 50px;
-  background: #215093;
+  background: #F1ECE9;
   left: 0;
   bottom: 0;
 }
@@ -5929,14 +5929,14 @@ footer.footer1 .footer-upper .footer-links ul li a {
   color: #3f3f3f;
 }
 footer.footer1 .footer-upper .footer-links ul p span {
-  color: #215093;
+  color: #F1ECE9;
 }
 footer.footer1 .footer-upper .footer-links input.nir-btn {
   border: none;
 }
 footer.footer1 .footer-upper .footer-links input.nir-btn:hover {
   opacity: 0.8;
-  background: #215093 !important;
+  background: #F1ECE9 !important;
   color: #fff;
 }
 footer.footer1 .footer-upper .footer-links .post-list {
@@ -5961,7 +5961,7 @@ footer.footer1 .footer-copyright .social-links ul li {
   display: inline-block;
 }
 footer.footer1 .footer-copyright .social-links ul li a {
-  background: #215093;
+  background: #F1ECE9;
   color: #fff;
   width: 40px;
   height: 40px;
