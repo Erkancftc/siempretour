@@ -987,6 +987,7 @@ iframe {
   margin: 0;
   padding: 16px;
   display: inline-block;
+  font-size: 18px;
 }
 .breadcrumb li, .breadcrumb li.active {
   margin-bottom: 0;
