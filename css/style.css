@@ -712,9 +712,6 @@ table thead tr th {
   border-bottom: none !important;
 }
 
-element.style {
-  background-image: url(images/bg/bg1.jpg);
-}
 
 .overlay, .dot-overlay, .color-overlay, .white-overlay, .left-overlay, .soft-overlay {
   position: absolute;
@@ -960,6 +957,7 @@ iframe {
   background-size: cover;
   background-attachment: scroll;
   position: relative;
+  padding: 15vh 0 ;
 }
 .breadcrumb-main .breadcrumb-outer {
   background: transparent;
@@ -1021,6 +1019,9 @@ iframe {
   }
   .cover-content {
     margin-bottom: 2rem;
+  }
+  .breadcrumb-main {
+    padding: 48vh 0 ;
   }
 }
 @media (max-width: 811px) {
