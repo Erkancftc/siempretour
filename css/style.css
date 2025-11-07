@@ -742,10 +742,12 @@ element.style {
   background: #000000;
   height: 100%;
   opacity: 0;
+  z-index: 3;
 }
 .color-overlay:hover{
   opacity: 0.6;
   transition: all ease-in-out 0.5s;
+  z-index: 0;
 }
 .left-overlay {
   background: linear-gradient(to left, transparent, #fff);
@@ -758,6 +760,7 @@ element.style {
     height: 100%;
     opacity: 0.4;
     background: #000000;
+    z-index: 0;
   }
 }
 .white-overlay {
@@ -3405,6 +3408,7 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
   opacity: 0;
   transition: opacity .3s ease, transform .3s ease, visibility .3s;
   pointer-events: none;
+  z-index: 3;
 }
 
 .trend-image:hover .overlay-text,
@@ -7332,7 +7336,6 @@ max-width: 960px;
   aspect-ratio: 1/1;
   min-width: 48px;
 }
-
 
 
  .header_menu .navbar.navbar-default .nav.navbar-nav li .phone-module-phone-icon{
