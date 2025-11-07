@@ -210,11 +210,11 @@ img {
 }
 
 .theme {
-  color: #fffefe !important;
+  color: #989898 !important;
 }
 
 .theme1 {
-  color: #ffffff !important;
+  color: #989898 !important;
 }
 
 .theme2 {
@@ -728,7 +728,7 @@ element.style {
 }
 
 .dot-overlay {
-  background: #000000 url(../images/dot-overlay.png) repeat;
+  background: #000000 url(../images/about-banner.jpg) repeat; 
   opacity: 0.6;
 }
 
