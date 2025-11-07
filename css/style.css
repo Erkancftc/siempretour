@@ -3352,6 +3352,13 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
   transition: all ease-in-out 0.5s;
   overflow: hidden;
      /* height: 420px; */
+    /* width: 206px; */
+}
+.trend-item1-carousel{
+  /* position: relative; */
+  transition: all ease-in-out 0.5s;
+  overflow: hidden;
+     /* height: 420px; */
     width: 206px;
 }
 .trending .trend-item::before, .trending .trend-item1::before, .trending .trend-item2::before {
@@ -8159,3 +8166,4 @@ display: block;
     width: 35% !important;
   }
 }
+
