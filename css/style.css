@@ -728,7 +728,6 @@ element.style {
 }
 
 .dot-overlay {
-  background: #000000 url(../images/about-banner.jpg) repeat; 
   opacity: 0.6;
 }
 
@@ -3408,7 +3407,7 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
   opacity: 0;
   transition: opacity .3s ease, transform .3s ease, visibility .3s;
   pointer-events: none;
-  z-index: 3;
+  z-index: 2;
 }
 
 .trend-image:hover .overlay-text,
@@ -3425,10 +3424,14 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
 @media (hover: none) {
   .trend-image .overlay-text,
   .trend-image .color-overlay {
-    opacity: 0.5;
-    visibility: visible;
-    transform: none;
-    pointer-events: auto;
+  position: absolute;
+  inset: 0;
+  background: #000;            /* renk */
+  opacity: 0;                  /* gizleme = opacity */
+  transition: opacity .25s ease;
+  pointer-events: none;        /* hover yakalamasın → titreme biter */
+  z-index: 1;
+
   }
 }
 body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(5) > div{

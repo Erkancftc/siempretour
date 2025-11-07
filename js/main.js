@@ -578,3 +578,5 @@
          jQuery('.slider').css('height', `${bodyheight}px`);
      }
  }
+
+ 
