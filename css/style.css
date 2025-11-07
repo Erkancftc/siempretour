@@ -7372,6 +7372,10 @@ display: block;
 .home-thh .banner .banner-main {
   height: 95vh;
 }
+.video{
+  width: -webkit-fill-available;
+}
+
 .home-thh .banner .banner-main .banner-content {
   top: 55%;
   width: 65%;
