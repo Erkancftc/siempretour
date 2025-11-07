@@ -3348,7 +3348,7 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
   position: relative;
 }
 .trending .trend-item, .trending .trend-item1, .trending .trend-item2 {
-  /* position: relative; */
+  position: relative;
   transition: all ease-in-out 0.5s;
   overflow: hidden;
      /* height: 420px; */
@@ -3511,7 +3511,7 @@ body > section:nth-child(5) > div > div.row.align-items-center.justify-content-c
   width: 100%;
 }
 .trending .trend-item:hover .trend-image img, .trending .trend-item1:hover .trend-image img, .trending .trend-item2:hover .trend-image img {
-  /* transform: scale(1.1); */
+  transform: scale(1.1);
   transition: all ease-in-out 0.5s;
 }
 .trending .trend-item:hover .color-overlay, .trending .trend-item1:hover .color-overlay, .trending .trend-item2:hover .color-overlay {
