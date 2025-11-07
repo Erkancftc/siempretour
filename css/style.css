@@ -985,7 +985,7 @@ iframe {
 .breadcrumb {
   background: transparent;
   margin: 0;
-  padding: 0;
+  padding: 16px;
   display: inline-block;
 }
 .breadcrumb li, .breadcrumb li.active {
