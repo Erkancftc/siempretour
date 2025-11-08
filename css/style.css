@@ -997,6 +997,9 @@ iframe {
 .breadcrumb li a, .breadcrumb li.active a {
   color: #215093;
 }
+.breadcrumb li a:hover {
+  color: #ffffff;
+}
 .breadcrumb .breadcrumb-item + .breadcrumb-item:before {
   content: "|";
   color: #fff;
