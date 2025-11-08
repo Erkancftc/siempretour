@@ -3408,11 +3408,11 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
   visibility: hidden;
   opacity: 0;
   transition: opacity .3s ease, transform .3s ease, visibility .3s;
-  pointer-events: none;
+  pointer-events: auto;
   z-index: 2;
 }
 
-.trend-image:hover .overlay-text{ opacity:1; visibility:visible; pointer-events:auto; }
+.trend-image:hover .overlay-text{ opacity:1; visibility:visible; pointer-events: auto; }
 .trend-image:hover .color-overlay{ opacity:.45; }
 
 /* Fade the color overlay in with the text */
