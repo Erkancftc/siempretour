@@ -6100,7 +6100,9 @@ footer.footermain .footer-upper {
   margin-top: -80px;
   position: relative;
 }
-
+.container.dropdown {
+  z-index: 9;
+}
 .list-results {
   position: relative;
   margin-bottom: 2rem;
@@ -8183,3 +8185,10 @@ display: block;
   }
 }
 
+.tab-pane.fade {
+  opacity: 0 !important;
+}
+.tab-pane.fade.show {
+  opacity: 1 !important;
+  transition: all 0.3s ease-in-out;
+}

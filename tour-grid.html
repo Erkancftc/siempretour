@@ -372,7 +372,7 @@
     <section class="tabs">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-12">
+                    <div class="d-flex col-lg-12 justify-content-center">
                         <ul class="nav nav-tabs" id="myTab" role="tablist">
                         <li class="nav-item" role="presentation">
                             <button class="nav-link active" id="tour-tab" data-bs-toggle="tab" data-bs-target="#tour-tab-pane" type="button" role="tab" aria-controls="tour-tab-pane" aria-selected="true">Avusturya Turları</button>
@@ -403,9 +403,9 @@
             </div>
     <!-- top Destination starts -->
      <div class="tab-content" id="myTabContent">
-        <section class="trending pt-6 pb-0 bg-lgrey tab-pane fade show active" id="tour-tab-pane" role="tabpanel" aria-labelledby="tour-tab" tabindex="0">
+        <section class="trending pt-2 bg-lgrey tab-pane fade show active" id="tour-tab-pane" role="tabpanel" aria-labelledby="tour-tab" tabindex="0">
             <div class="container">
-            <div >
+            <div class="trending-title text-center">
                 <h2>Avusturya Turları</h2> <br>
 
             <div class="col-lg-12 d-flex mb-6">
@@ -419,14 +419,17 @@
               keşfederek Avusturya'nın sonsuz cazibesini kucaklayın.</div>
             </div>
             </div>
-            <div class="list-results d-flex align-items-center justify-content-between">
+            
+            </div>
+            <div class="container dropdown">
+                <div class="list-results d-flex align-items-center justify-content-between">
                 <div class="list-results-sort">
                     <p class="m-0">80 sonuçtan 1-6 gösteriliyor </p>
                 </div>
                 <div class="click-menu d-flex align-items-center justify-content-between">
-                    <div class="change-list me-2"><a href="tour-grid.html"><i class="fa fa-bars rounded"></i></a></div>
-                    <div class="change-grid f-active me-2"><a href="tour-grid.html"><i class="fa fa-th rounded"></i></a></div>
                     <div class="sortby d-flex align-items-center justify-content-between ml-2">
+                        <div class="change-list me-2"><a href="tour-grid.html"><i class="fa fa-bars rounded"></i></a></div>
+                        <div class="change-grid f-active me-2"><a href="tour-grid.html"><i class="fa fa-th rounded"></i></a></div>
                         <select class="niceSelect">
                             <option value="1" >Sırala</option>
                             <option value="2" >Çok Tercih Edilen</option>
@@ -436,7 +439,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+            </div>
             <div class="container">
                 <div class="row">
                     <div class="col-lg-4 pe-lg-4">
@@ -683,14 +686,10 @@
             
         </section>
         <!-- top Destination ends -->
-    
-    <section class="trending pt-6 pb-0 bg-lgrey tab-pane fade show active" id="tour-tab-pane" role="tabpanel" aria-labelledby="tour-tab" tabindex="0">
-        
-    </section>
-    <section class="tab-pane fade"  id="overview-tab-pane" role="tabpanel" aria-labelledby="overview-tab" tabindex="0" >
+    <section class="tab-pane fade pt-2"  id="overview-tab-pane" role="tabpanel" aria-labelledby="overview-tab" tabindex="0" >
         <div class="container">
             <div class="col-lg-12">
-                <h2>Our Austria holidays & tours</h2>
+                <h2 class="text-center mb-2">Our Austria holidays & tours</h2>
                 <p>With their photogenic painted shutters and historic onion-domed churches, many of Austria’s alpine towns are almost too pretty to bear. And beyond the buildings,
                      there’s a truly awe-inspiring landscape, where our holidays take you hiking into nature, snowshoeing into snowdrifts, and practising your yoga with fantastically fierce mountain views. Consider the waterside too. 
                      The Northern Lakes offer stillness and peace, and the River Danube weaves its way through the country, providing brilliant hiking and cycling routes along the way, through pretty villages and ancient byways. To enhance your Austrian alps experience, our holidays use local sources whenever they can – from accommodation to food, 
@@ -698,13 +697,13 @@
             </div>
         </div>
       </section>
-        <section class="tab-pane fade" id="guide-tab-pane" role="tabpanel" aria-labelledby="guide-tab" tabindex="0">
+        <section class="tab-pane fade pt-2" id="guide-tab-pane" role="tabpanel" aria-labelledby="guide-tab" tabindex="0">
     <!-- Tur Rehberi -->
      <div class="container">
         <div class="row">
             <div class="col-lg-12 d-flex">
                 <div class="col-lg-8"> 
-                    <h2>Austria travel guide </h2>
+                    <h2 class="mb-2">Austria travel guide </h2>
                     <p>Austria is most definitely about mountains and music. Just like a symphony, it has everything thrown into its musical mix: Alpine peaks, with Grossglockner the highest in Hohe Tauern National Park, boom out like a rousing brass section.
                      The serene lakes of the north are the strings section, a series of soothing, tranquil movements that you can walk or cycle through in total awe of their purity and pitch perfect beauty.</p>
                     </div>
@@ -717,16 +716,16 @@
      
         </section>
 
-        <section class="tab-pane fade" id="when-tab-pane" role="tabpanel" aria-labelledby="when-tab" tabindex="0">
+        <section class="tab-pane fade pt-2" id="when-tab-pane" role="tabpanel" aria-labelledby="when-tab" tabindex="0">
             <!-- Ne zaman gidilmeli -->
              <div class="container">
                 <div class="row">
+                    <h2 class="text-center mb-2"> Best time to visit Austria</h2>
                     <div class="col-lg-12 d-flex">
                         <div class="col-lg-6">
-                           <h2> Best time to visit Austria</h2>
                         <img src="https://www.responsibletravel.com/ImagesClient/dtg-cr1258-austria-snowy-mountains.jpg" alt="">
                        </div>
-                       <div class="col-lg-6 mt-6">
+                       <div class="col-lg-6">
                         <p>If snow is your thing, late Nov-April is, on average, perfect for frosty fun. Austria likes its rain, so always bring an umbrella just in case. June-Aug bring beautiful summer weather, particularly the further south you go, but never too scorching. Of course the high mountains are always cooler, but with risks of lightning in summer.
                              Christmas and New Year in Austria are magically festive, with glühwein and Christmas markets everywhere you go, no matter how remote. Hike in autumn to catch the wine harvest, with many festivals to accompany it.</p>
                        </div>
@@ -735,7 +734,7 @@
              </div>
         </section>
 
-        <section class="tab-pane fade" id="reviews-tab-pane" role="tabpanel" aria-labelledby="reviews-tab" tabindex="0">
+        <section class="tab-pane fade pt-2" id="reviews-tab-pane" role="tabpanel" aria-labelledby="reviews-tab" tabindex="0">
             <!-- Yorumlar -->
         </section>
             <!-- tab-contents-end -->
