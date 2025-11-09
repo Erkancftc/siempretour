@@ -3535,6 +3535,14 @@ button.swiper-pagination-bullet {
 @media(max-width:767px) {}
 @media(max-width:639px) {}
 /* Dots */
+.slider-thumbs .slick-slide {
+  margin: 0 3px; /* sağ-sol aralık */
+}
+
+.slider-thumbs .slick-list {
+  margin: 0 -3px; /* taşmaları önlemek için */
+}
+
 
 .slick-slider {
     margin: 0;
