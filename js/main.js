@@ -579,4 +579,43 @@
      }
  }
 
+/* Mega-Menu JS*/ 
+
+(function () {
+const trigger = document.getElementById('megaTrigger');
+const panel = document.getElementById('megaFull');
+const closeBt = panel.querySelector('.mega-close');
+const body = document.body;
+
+// NAVBAR yüksekliği → CSS değişkenine yaz
+function setNavHeight() {
+    // kendi navbar'ının seçicisini kullan: .header_menu veya .topbar vs.
+    const nav = document.querySelector('.header_menu, .topbar, .navbar, header');
+    const h = nav ? Math.ceil(nav.getBoundingClientRect().height) : 64;
+    document.documentElement.style.setProperty('--navH', h + 'px');
+}
+
+function openMega() { setNavHeight(); panel.classList.add('is-open'); body.classList.add('mega-lock'); }
+function closeMega() { panel.classList.remove('is-open'); body.classList.remove('mega-lock'); }
+function toggle(e) { e.preventDefault(); panel.classList.contains('is-open') ? closeMega() : openMega(); }
+
+trigger.addEventListener('click', toggle);
+closeBt.addEventListener('click', closeMega);
+document.addEventListener('keydown', e => { if (e.key === 'Escape' && panel.classList.contains('is-open')) closeMega(); });
+panel.addEventListener('click', e => { if (e.target === panel) closeMega(); });
+window.addEventListener('resize', () => { if (panel.classList.contains('is-open')) setNavHeight(); });
+
+// Sekmeler + alfabetik sıralama (aynı kalsın)
+const tabs = panel.querySelectorAll('.mega-cats a');
+const lists = panel.querySelectorAll('[data-mega-content]');
+function showTab(key) { lists.forEach(ul => ul.toggleAttribute('hidden', ul.dataset.megaContent !== key)); tabs.forEach(a => a.classList.toggle('is-active', a.dataset.megaTab === key)); }
+tabs.forEach(a => a.addEventListener('click', e => { e.preventDefault(); showTab(a.dataset.megaTab); }));
+showTab('eu');
+
+panel.querySelectorAll('.mega-list--grid').forEach(ul => {
+    const items = [...ul.querySelectorAll('li')].sort((a, b) => a.textContent.trim().localeCompare(b.textContent.trim(), 'tr'));
+    items.forEach(li => ul.appendChild(li));
+});
+})();
+
  
