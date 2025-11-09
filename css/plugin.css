@@ -3400,7 +3400,6 @@ button.swiper-pagination-bullet {
 {
     display: none;
     float: left;
-
     height: 100%;
     min-height: 1px;
 }
@@ -3538,7 +3537,7 @@ button.swiper-pagination-bullet {
 /* Dots */
 
 .slick-slider {
-    margin: 0
+    margin: 0;
 }
 .slick-dots {
     position: absolute;
@@ -3755,7 +3754,7 @@ Slicknav - a Mobile Menu
 /* IE6/7 support */
 
 .slicknav_menu {
-    *zoom: 1
+    zoom: 1
 }
 /* 
 User Default Style
@@ -5106,7 +5105,7 @@ Change the following styles to modify the appearance of the menu.
 }
 .lb-outerContainer {
     position: relative;
-    *zoom: 1;
+    zoom: 1;
     width: 250px;
     height: 250px;
     margin: 0 auto;
@@ -5191,7 +5190,7 @@ Change the following styles to modify the appearance of the menu.
 .lb-dataContainer {
     margin: 0 auto;
     padding-top: 5px;
-    *zoom: 1;
+    zoom: 1;
     width: 100%;
     border-bottom-left-radius: 4px;
     border-bottom-right-radius: 4px;
@@ -6928,4 +6927,3 @@ Change the following styles to modify the appearance of the menu.
     color: #49e;
     font-weight: 700
 }
-
