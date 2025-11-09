@@ -8192,3 +8192,10 @@ display: block;
   opacity: 1 !important;
   transition: all 0.3s ease-in-out;
 }
+
+.hover-zoom{
+  transition: all 0.4s ease;
+}
+.hover-zoom:hover{
+  transform: scale(1.05);
+}
