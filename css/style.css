@@ -6691,6 +6691,10 @@ ul.sidebar-tags li a:hover {
 .sidebar-videos button.slick-prev.slick-arrow, .sidebar-videos button.slick-next.slick-arrow {
   display: none !important;
 }
+.sidebar-info{
+  display: block;
+  width: clamp(20vh, 30vw, 40vh);
+}
 
 @media (max-width: 991px) {
   .sidebar-pomplet {
