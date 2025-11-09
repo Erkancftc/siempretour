@@ -1218,7 +1218,7 @@ input#submit:hover {
   width: 200px;
   height: 200px;
   margin: 0 auto;
-  background: url(../images/eye-icon.svg);
+  background: url(../images/eye-preloder.png);
   background-size: cover;
   background-position: center;
   opacity: 1;
