@@ -1215,10 +1215,10 @@ input#submit:hover {
   display: block;
   top: 50%;
   left: 50%;
-  width: 400px;
-  height: 300px;
+  width: 200px;
+  height: 200px;
   margin: 0 auto;
-  background: url(../images/loader.gif);
+  background: url(../images/eye-icon.svg);
   background-size: cover;
   background-position: center;
   opacity: 1;
@@ -1227,7 +1227,11 @@ input#submit:hover {
   transition: all ease-in-out 0.5s;
   z-index: 9999999999;
 }
-
+#preloader.fade-out {
+  opacity: 0;
+  visibility: hidden;
+  transition: all ease-in-out 0.5s;
+}
 /* End Preloader */
 #back-to-top {
   position: fixed;
