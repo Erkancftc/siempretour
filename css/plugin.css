@@ -3542,7 +3542,9 @@ button.swiper-pagination-bullet {
 .slider-thumbs .slick-list {
   margin: 0 -2px; /* taşmaları önlemek için */
 }
-
+.slider-store .slick-slide{
+    margin-bottom: -1px ;
+}
 
 .slick-slider {
     margin: 0;
