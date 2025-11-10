@@ -957,7 +957,8 @@ iframe {
   background-size: cover;
   background-attachment: scroll;
   position: relative;
-  padding: 15vh 0 ;
+  padding: 20% 0 ;
+  min-height: 40vw;
 }
 .breadcrumb-main .breadcrumb-outer {
   background: transparent;
