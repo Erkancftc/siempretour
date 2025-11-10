@@ -618,4 +618,88 @@ panel.querySelectorAll('.mega-list--grid').forEach(ul => {
 });
 })();
 
- 
+document.addEventListener('DOMContentLoaded', function () {
+  const mega = document.getElementById('megaFull');
+  if (!mega) return;
+
+  const catsNav = mega.querySelector('.mega-cats');
+  const catLinks = Array.from(catsNav.querySelectorAll('[data-mega-tab]'));
+  const lists = Array.from(mega.querySelectorAll('.mega-content .mega-list'));
+  const heroImg = mega.querySelector('#megaHero') || mega.querySelector('.mega-grid > img');
+
+  // HTML'de data-hero yoksa kullanılacak fallback eşlemesi
+  const HERO_MAP = {
+    eu: 'images/mega-menu-photo/europian.jpg',
+    af: 'images/mega-menu-photo/africansafari.jpg',
+    la: 'images/mega-menu-photo/latin-america.jpg',
+    sp: 'images/mega-menu-photo/guney-pasific.jpg',
+    as: 'images/mega-menu-photo/asia.jpg',         // Asya = Tokyo görselin
+    me: 'images/mega-menu-photo/midle-East.jpg',
+    an: 'images/mega-menu-photo/antartica.jpg',
+    afs:'images/mega-menu-photo/africansafari.jpg',
+    gt: 'images/mega-menu-photo/cruise.jpg'
+  };
+
+
+  function showTab(key) {
+    // Sol menü: aktif link sınıfı
+    catLinks.forEach(a => {
+      const isTarget = a.dataset.megaTab === key;
+      a.classList.toggle('is-active', isTarget);
+      a.setAttribute('aria-current', isTarget ? 'true' : 'false');
+    });
+
+    // Sağ listeler: sadece hedef UL görünür, diğerleri gizli
+    lists.forEach(ul => {
+      const match = ul.dataset.megaContent === key;
+      if (match) {
+        ul.hidden = false;
+        ul.setAttribute('aria-hidden', 'false');
+      } else {
+        ul.hidden = true;
+        ul.setAttribute('aria-hidden', 'true');
+      }
+    });
+
+    // Hero görsel: data-hero > HERO_MAP > mevcut src (fallback)
+    const activeLink = catLinks.find(a => a.dataset.megaTab === key);
+    if (heroImg && activeLink) {
+      const nextSrc = activeLink.dataset.hero || HERO_MAP[key] || heroImg.getAttribute('src');
+      if (nextSrc && heroImg.getAttribute('src') !== nextSrc) {
+        // Küçük bir geçiş efekti istersen:
+        heroImg.style.opacity = '0';
+        const altText = activeLink.textContent.trim();
+        const img = new Image();
+        img.onload = () => {
+          heroImg.src = nextSrc;
+          heroImg.alt = altText;
+          requestAnimationFrame(() => { heroImg.style.opacity = '1'; });
+        };
+        img.src = nextSrc;
+      } else {
+        heroImg.alt = activeLink.textContent.trim();
+      }
+    }
+  }
+
+  // Tıklama ve klavye (Enter/Space) ile sekme değiştir
+  catsNav.addEventListener('click', function (e) {
+    const a = e.target.closest('[data-mega-tab]');
+    if (!a) return;
+    e.preventDefault();
+    showTab(a.dataset.megaTab);
+  });
+
+  catsNav.addEventListener('keydown', function (e) {
+    const a = e.target.closest('[data-mega-tab]');
+    if (!a) return;
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      showTab(a.dataset.megaTab);
+    }
+  });
+
+  // Başlangıç durumu: .is-active varsa onu aç; yoksa ilkini
+  const initial = catLinks.find(a => a.classList.contains('is-active')) || catLinks[0];
+  if (initial) showTab(initial.dataset.megaTab);
+});
