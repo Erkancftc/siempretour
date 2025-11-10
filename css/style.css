@@ -8204,6 +8204,7 @@ display: block;
 .tab-pane.fade.show {
   opacity: 1 !important;
   transition: all 0.3s ease-in-out;
+  height: auto !important;
 }
 
 .hover-zoom {
@@ -8352,6 +8353,3 @@ body.mega-lock {
   }
 }
 
-.our-partner{
-  margin-top: 50rem;
-}
