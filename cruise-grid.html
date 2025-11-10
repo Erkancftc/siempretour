@@ -425,7 +425,7 @@
     <!-- header ends -->
 
     <!-- BreadCrumb Starts -->  
-    <section class="breadcrumb-main pb-20 pt-14" style="background-image: url(images/cruise/cruise-banner.jpg);">
+    <section class="breadcrumb-main" style="background-image: url(images/cruise/cruise-banner.jpg);">
         <div class="section-shape section-shape1 top-inherit bottom-0" style="background-image: url(images/shape8.png);"></div>
         <div class="breadcrumb-outer">
             <div class="container">
@@ -452,102 +452,78 @@
                     <div class="sidebar-sticky">
                         <div class="list-sidebar">
                             <div class="sidebar-item mb-4">
-                                <div class="book-form w-100 bg-white box-shadow p-4 pb-1 z-index1 rounded">
-                                    <div class="row d-flex align-items-center justify-content-between">
-                                        <div class="col-lg-12">
-                                            <h3>Tur Ara</h3>
-                                        </div>
-                                        <div class="col-lg-12 mb-2">
-                                            <div class="form-group">
-                                                <div class="input-box">
-                                                    <label>Kelime Girin</label>
-                                                    <input type="text" placeholder="Kelime Girin">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12 mb-2">
-                                            <div class="form-group">
-                                                <div class="input-box">
-                                                    <label>Nereye?</label>
-                                                    <select class="niceSelect">
-                                                        <option value="1">Arjantin</option>
-                                                        <option value="2">Belçika</option>
-                                                        <option value="3">Kanada</option>
-                                                    </select>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6 mb-2">
-                                            <div class="form-group">
-                                                <div class="input-box">
-                                                    <label>Tüm Seyir Hatları</label>
-                                                    <select class="niceSelect">
-                                                        <option value="1">İtalya</option>
-                                                        <option value="2">Norveç</option>
-                                                    </select>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6 mb-2">
-                                            <div class="form-group">
-                                                <div class="input-box">
-                                                    <label>Kalkış Tarihi</label>
-                                                    <input type="date" name="Kalkış">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6 mb-2">
-                                            <div class="form-group">
-                                                <div class="input-box">
-                                                    <label>Yolcu Sayısı</label>
-                                                    <select class="niceSelect">
-                                                        <option value="1">2</option>
-                                                        <option value="2">3</option>
-                                                        <option value="3">4</option>
-                                                    </select>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6 mb-2">
-                                            <div class="form-group">
-                                                <div class="input-box">
-                                                    <label>Oda</label>
-                                                    <select class="niceSelect">
-                                                        <option value="1">2</option>
-                                                        <option value="2">3</option>
-                                                        <option value="3">4</option>
-                                                    </select>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12">
-                                            <div class="form-group mb-0 text-center">
-                                                <a href="#" class="nir-btn w-100"><i class="fa fa-search mr-2"></i> Ara</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                                <h3 class="">Kategoriler</h3>
+                                <ul class="sidebar-category1">
+                                    <li><input type="checkbox" checked> Turlar <span class="float-end">92</span></li>
+                                    <li><input type="checkbox"> Turistik Yerler <span class="float-end">22</span></li>
+                                    <li><input type="checkbox"> Günlük Turlar <span class="float-end">35</span></li>
+                                    <li><input type="checkbox"> Açık Hava Etkinlikleri <span class="float-end">41</span></li>
+                                    <li><input type="checkbox"> Konserler <span class="float-end">11</span></li>
+                                    <li><input type="checkbox"> Kapalı Alan Etkinlikleri<span class="float-end">61</span></li>
+                                    <li><input type="checkbox"> Şehir Turları <span class="float-end">18</span></li>
+                                    <li><input type="checkbox"> Tatil <span class="float-end">88</span></li>
+                                </ul>
                             </div>
+                            
+                            <div class="sidebar-item mb-4">
+                                <h3 class="">Süre</h3>
+                                <ul class="sidebar-category1">
+                                    <li><input type="checkbox" checked> Günlük <span class="float-end">92</span></li>
+                                    <li><input type="checkbox"> 2 - 3 Gün <span class="float-end">22</span></li>
+                                    <li><input type="checkbox"> 4 - 5 Gün <span class="float-end">35</span></li>
+                                    <li><input type="checkbox"> 6 - 8 Gün <span class="float-end">41</span></li>
+                                </ul>
+                            </div>
+
                             <div class="sidebar-item mb-4">
                                 <h3 class="">Fiyat Aralığı</h3>
                                 <div class="range-slider mt-0">
-                                    <div data-min="0" data-max="20000" data-unit="$" data-min-name="min_price" data-max-name="max_price" class="range-slider-ui ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all" aria-disabled="false">
+                                    <p class="text-start mb-2">Fiyat</p>
+                                    <div data-min="0" data-max="10000" data-unit="$" data-min-name="min_price" data-max-name="max_price" class="range-slider-ui ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all" aria-disabled="false">
                                         <span class="min-value">0 $</span> 
-                                        <span class="max-value">20000 $</span>
+                                        <span class="max-value">10000 $</span>
                                         <div class="ui-slider-range ui-widget-header ui-corner-all full" style="left: 0%; width: 100%;"></div>
                                     </div>
                                     <div class="clearfix"></div>
                                 </div>
                             </div>
 
-                            <div class="sidebar-item mb-4">
-                                <h3 class="">Features</h3>
-                                <ul class="sidebar-category1">
-                                    <li><input type="checkbox" checked> Adaptive Cruise Control <span class="float-end">1192</span></li>
-                                    <li><input type="checkbox"> Cooled Seats <span class="float-end">2122</span></li>
-                                    <li><input type="checkbox"> Keyless Start <span class="float-end">1435</span></li>
-                                    <li><input type="checkbox"> avigation System <span class="float-end">2141</span></li>
-                                </ul>
+                            <div class="sidebar-item">
+                                <h3>Benzer Turlar</h3>
+                                <div class="sidebar-destination">
+                                    <div class="row about-slider">
+                                        <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
+                                            <div class="trend-item1">
+                                                <div class="trend-image position-relative rounded">
+                                                    <img src="images/destination/destination17.jpg" alt="image">
+                                                    <div class="trend-content d-flex align-items-center justify-content-between position-absolute bottom-0 p-4 w-100 z-index">
+                                                        <div class="trend-content-title">
+                                                            <h5 class="mb-0"><a href="tour-grid.html" class="theme1">Italy</a></h5>
+                                                            <h4 class="mb-0 white">Caspian Valley</h4>
+                                                        </div>
+                                                        <span class="white bg-theme p-1 px-2 rounded">18 Tours</span>
+                                                    </div>
+                                                    <div class="color-overlay"></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
+                                            <div class="trend-item1">
+                                                <div class="trend-image position-relative rounded">
+                                                    <img src="images/destination/destination14.jpg" alt="image">
+                                                    <div class="trend-content d-flex align-items-center justify-content-between position-absolute bottom-0 p-4 w-100 z-index">
+                                                        <div class="trend-content-title">
+                                                            <h5 class="mb-0"><a href="tour-grid.html" class="theme1">Tokyo</a></h5>
+                                                            <h4 class="mb-0 white">Japan</h4>
+                                                        </div>
+                                                        <span class="white bg-theme p-1 px-2 rounded">21 Tours</span>
+                                                    </div>
+                                                    <div class="color-overlay"></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
