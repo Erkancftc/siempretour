@@ -3359,6 +3359,7 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
   background-size: contain;
   background-repeat: no-repeat;
   position: relative;
+  height: 60vh;
 }
 .trending .trend-item, .trending .trend-item1, .trending .trend-item2 {
   position: relative;
@@ -6695,7 +6696,9 @@ ul.sidebar-tags li a:hover {
 .sidebar-info{
   display: block;
   width: clamp(20vh, 30vw, 40vh);
+  padding: 3rem 2rem;
 }
+
 
 @media (max-width: 991px) {
   .sidebar-pomplet {
@@ -8350,3 +8353,5 @@ body.mega-lock {
 }
 
                   
+
+
