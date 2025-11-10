@@ -1998,7 +1998,7 @@ header #navbar {
   background: transparent;
   font-size: 15px;
   font-weight: 400;
-  text-transform: uppercase;
+  text-transform: capitalize;
   padding: 0px;
   line-height: inherit;
   transition: all 150ms linear;
@@ -7310,6 +7310,7 @@ background-color: #F9F6F2;
   padding-bottom: calc(.5rem + var(--u-gap));
   color: black;                        /* currentColor kullanalım */
   text-decoration: none;
+  text-transform: uppercase;
 
   /* Alt çizgiyi arka planla çizeceğiz */
   background-image: linear-gradient(currentColor, currentColor);
@@ -8266,7 +8267,7 @@ body.mega-lock {
 
 .mega-grid {
   display: grid;
-  grid-template-columns: 220px 1fr;
+  grid-template-columns: 220px 1fr 1fr;
   gap: 24px;
   height: 100%
 }
@@ -8274,7 +8275,8 @@ body.mega-lock {
 .mega-cats {
   display: grid;
   align-content: start;
-  gap: 8px
+  gap: 8px;
+  text-align: start;
 }
 
 .mega-cats a {
@@ -8307,7 +8309,7 @@ body.mega-lock {
 /* Yeni grid yerleşimi */
 .mega-list--grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(180px, 1fr));
+  grid-template-columns: repeat(2, minmax(180px, 1fr));
   /* Masaüstü 3 sütun */
   gap: 8px 40px;
   /* satır / sütun boşluğu */
