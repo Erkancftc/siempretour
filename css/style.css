@@ -3359,7 +3359,7 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
   background-size: contain;
   background-repeat: no-repeat;
   position: relative;
-  height: 60vh;
+  height: auto;
 }
 .trending .trend-item, .trending .trend-item1, .trending .trend-item2 {
   position: relative;
