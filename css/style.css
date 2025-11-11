@@ -8368,3 +8368,28 @@ body.mega-lock {
   }
 }
 
+.feature-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.feature-list li {
+  display: flex;             /* yan yana hizalama */
+  align-items: flex-start;   /* ikon üst hizalı */
+  gap: 10px;                 /* ikonla yazı arası boşluk */
+  margin-bottom: 10px;       /* satırlar arası boşluk */
+}
+
+.feature-list img {
+  width: 24px;               /* ikon boyutu */
+  height: 24px;
+  flex-shrink: 0;            /* ikonun sıkışmasını engelle */
+  margin-top: 2px;           /* optik denge */
+}
+
+.feature-list span {
+  font-size: 0.9rem;
+  line-height: 1.4;
+  color: #333;
+}
