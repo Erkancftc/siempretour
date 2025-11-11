@@ -652,18 +652,28 @@
   // --- Var olan fonksiyonlarına entegre et ---
   function setNavHeight(){ /* sende zaten var, dokunmuyoruz */ }
 
-  function openMega(){
-    setNavHeight();
-    panel.classList.add('is-open');
-    body.classList.add('mega-lock'); // varsa kalsın, sadece class
-    lockScroll();                    // << kaydırmayı burada kilitle
+  function openMega() {
+  setNavHeight();
+  panel.classList.add('is-open');
+  panel.setAttribute('aria-hidden', 'false');
+  body.classList.add('mega-lock');
+  lockScroll();
+}
+
+
+  function closeMega() {
+  // önce odağı kaldır
+  if (document.activeElement && panel.contains(document.activeElement)) {
+    document.activeElement.blur();
   }
 
-  function closeMega(){
-    panel.classList.remove('is-open');
-    body.classList.remove('mega-lock');
-    unlockScroll();                  // << kaydırmayı burada aç
-  }
+  // sonra aria ve class işlemleri
+  panel.classList.remove('is-open');
+  panel.setAttribute('aria-hidden', 'true');
+  body.classList.remove('mega-lock');
+  unlockScroll();
+}
+
 
   function toggle(e){
     e.preventDefault();
