@@ -6692,9 +6692,12 @@ ul.sidebar-tags li a:hover {
   display: none !important;
 }
 .sidebar-info{
-  display: block;
-  padding: 3rem 2rem;
-  width: clamp(18vw, 400px, 20vw);
+    display: block;
+    padding: 3rem 2rem;
+    width: clamp(18vw, 400px, 20vw);
+    position: absolute;
+    margin-top: -25vh;
+    background-color: #fff;
 }
 
 

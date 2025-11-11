@@ -6268,6 +6268,9 @@ fieldset:disabled .btn {
 .gap-10{
   gap: 10rem !important;
 }
+.place-items-end{
+  place-items: end !important;
+}
 .justify-items-center{
   justify-items: center !important;
 }
