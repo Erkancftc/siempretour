@@ -7317,6 +7317,47 @@ background-color: #F9F6F2;
   justify-items: stretch;  
 }
 
+
+
+/* Fix month selector carousel overflow */
+.month-selector {
+  flex-wrap: wrap !important;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+}
+
+.month-selector .col-lg-2,
+.month-selector .col-md-4,
+.month-selector .col-4 {
+  flex: 0 0 calc(16.666% - 8px); /* Adjust for gap */
+  min-width: 150px;
+}
+
+/* Ensure trend-item doesn't overflow */
+.trend-item1-carousel {
+  height: auto;
+  overflow: hidden;
+}
+
+.trend-item1-carousel .trend-image {
+  width: 100%;
+  overflow: hidden;
+}
+
+.trend-item1-carousel img {
+  width: 100%;
+  height: fit-content;
+  object-fit: cover;
+}
+
+/* Remove flex-nowrap from inner rows */
+.row.flex-row.flex-nowrap {
+  flex-wrap: wrap !important;
+}
+
+
 /* ---- Ayarlar (istersen değerleri değiştir) ---- */
 :root{
   --u-h: 3px;          /* çizgi kalınlığı */
