@@ -648,7 +648,7 @@ label {
 blockquote {
   font-size: 14px;
   font-weight: 400;
-  background-color: #215093;
+  background-color: #000000;
   margin-bottom: 15px;
   border: 0;
   padding: 30px 70px 30px 70px;
@@ -6692,14 +6692,18 @@ ul.sidebar-tags li a:hover {
   display: none !important;
 }
 .sidebar-info{
-    display: block;
+    display: none;
     padding: 3rem 2rem;
     width: clamp(18vw, 400px, 20vw);
     position: absolute;
     margin-top: -25vh;
     background-color: #fff;
 }
-
+@media(min-width: 1800px){
+    .sidebar-info{
+         display: block;
+    }
+}
 
 @media (max-width: 991px) {
   .sidebar-pomplet {
@@ -8010,6 +8014,14 @@ display: block;
   background-image: url("../images/testimonial.png");
   background-size: cover;
   background-position: center;
+}
+.tour-bg__image{
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.tour-bg__text{
+  padding: 4rem 2rem ;
 }
 
 .why-choose-us {
