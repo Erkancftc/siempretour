@@ -3476,27 +3476,27 @@ body > section:nth-child(5) > div > div.row.align-items-center.justify-content-c
 
 body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(5) > div:hover{
 z-index: 6;
-  transform:translateX(64px) scale(1.5);
+  transform:translateX(64px) scale(1.3);
   transition: all cubic-bezier(0, 0, 0, 1) 0.5s;
 }
 body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(4) > div:hover{
   z-index: 6;
-  transform:translateX(32px) scale(1.5);
+  transform:translateX(32px) scale(1.3);
   transition: all cubic-bezier(0, 0, 0, 1) 0.5s;
 }
 body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(3) > div:hover{
   z-index: 6;
-  transform:scale(1.5);
+  transform:scale(1.3);
   transition: all cubic-bezier(0, 0, 0, 1) 0.5s ;
 }
 body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(2) > div:hover{
 z-index: 6;
-  transform:translateX(-32px) scale(1.5);
+  transform:translateX(-32px) scale(1.3);
   transition: all cubic-bezier(0, 0, 0, 1) 0.5s;
 }
 body > section:nth-child(5) > div > div.row.align-items-center.justify-content-center > div > div > div:nth-child(1) > div:hover{
   z-index: 6;
-  transform:translateX(-64px) scale(1.5);
+  transform:translateX(-64px) scale(1.3);
   transition: all cubic-bezier(0, 0, 0, 1) 0.5s;
 }
 
@@ -7268,12 +7268,34 @@ background-color: #F9F6F2;
 /* Yazım hatasını düzelt: “cols-lg-6” sınıfı yoktur */
 
 .img-beyond-dream{
-  width: 50%;
   aspect-ratio: 460/350;
   place-self: start;
-  padding-left: 0 !important;
-  margin-left:0 !important;
   object-fit: cover;
+}
+.text-beyond-dream{
+  justify-items: center;
+}
+@media (max-width: 992px){
+  .img-beyond-dream{
+    width: 100%;
+
+  }
+}
+.dream-caraousel{
+  display: flex;
+}
+@media (max-width: 992px){
+  .dream-caraousel{
+display: flex;
+flex-direction: column !important;
+gap: 2rem;
+  }
+}
+@media (min-width: 993px){
+  .dream-caraousel{
+display: flex;
+flex-direction: row !important;
+  }
 }
 /*buton efekti*/
 .tab-btn{
@@ -8461,3 +8483,7 @@ body.mega-lock {
   line-height: 1.4;
   color: #333;
 }
+@media(max-width:992px){
+  .tour-desc-container{
+  flex-wrap: wrap;
+}}
