@@ -3738,6 +3738,20 @@ body > section:nth-child(5) > div > div.row.align-items-center.justify-content-c
   top: 30px;
   box-shadow: none;
 }
+.sidebar-list__group{
+  height: max-content;
+}
+
+.text-link .text-dark{
+  display: inline-block;      
+  text-decoration: underline;
+  transition: transform .25s ease;  
+}
+
+.text-link .text-dark:hover{
+  transform: scale(1.1);
+  transform-origin: center;   
+}
 
 .tabs-navbar {
   border: 1px solid #f1f1f1;
@@ -8213,6 +8227,7 @@ display: block;
 
 .tab-pane.fade {
   opacity: 0 !important;
+  height: auto !important;
 }
 .tab-pane.fade.show {
   opacity: 1 !important;
