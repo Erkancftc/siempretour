@@ -3739,7 +3739,10 @@ body > section:nth-child(5) > div > div.row.align-items-center.justify-content-c
   box-shadow: none;
 }
 .sidebar-list__group{
+  position: sticky;
   height: max-content;
+  top: 10%;
+  z-index: 10;
 }
 
 .text-link .text-dark{
