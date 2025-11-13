@@ -8487,3 +8487,31 @@ body.mega-lock {
   .tour-desc-container{
   flex-wrap: wrap;
 }}
+
+.temp-cold { background-color: #cce5ff !important; }
+.temp-cool { background-color: #e3f2fd !important; }
+.temp-warm { background-color: #fff3cd !important; }
+.temp-hot  { background-color: #ffcccc !important; }
+
+.rain-low  { background-color: #7dcdde  !important; }
+.rain-mid  { background-color: #7dcdde !important; }
+.rain-high { background-color: #7dcdde !important; }
+
+/* Yağmur hücresi: padding’i azaltmak bar'ın tam oturması için */
+td.rain-cell {
+    padding: 0;
+}
+/* Bar’ın genel stili */
+.rain-bar {
+    display: block;
+    height: 100%;
+    min-height: 24px;      /* satır yüksekliği için */
+    line-height: 24px;     /* yazı ortalansın istersen */
+    text-align: left;
+    padding-left: 6px; 
+}
+
+/* Renkler – artık sadece bar’a uygulanıyor */
+.rain-bar.rain-low  { background-color: #d4edda; } /* az yağış */
+.rain-bar.rain-mid  { background-color: #fff3cd; } /* orta yağış */
+.rain-bar.rain-high { background-color: #f8d7da; } /* çok yağış */

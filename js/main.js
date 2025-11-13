@@ -776,3 +776,72 @@ document.addEventListener('DOMContentLoaded', function () {
   const initial = catLinks.find(a => a.classList.contains('is-active')) || catLinks[0];
   if (initial) showTab(initial.dataset.megaTab);
 });
+
+// Hava durumu JS
+
+
+document.addEventListener("DOMContentLoaded", function () {
+    const table = document.getElementById("havaTablosu");
+    const rows  = table.querySelectorAll("tbody tr");
+
+    rows.forEach(row => {
+        // 0: Ay, 1: Min, 2: Max, 3: Yağmur
+        const minCell  = row.children[1];
+        const maxCell  = row.children[2];
+        const rainCell = row.children[3];
+
+        const min  = parseFloat(minCell.textContent);
+        const max  = parseFloat(maxCell.textContent);
+        const rain = parseFloat(rainCell.textContent);
+
+        // --- Min sıcaklık ---
+        if (min < 0) {
+            minCell.classList.add("temp-cold");
+        } else if (min < 10) {
+            minCell.classList.add("temp-cool");
+        } else if (min < 20) {
+            minCell.classList.add("temp-warm");
+        } else {
+            minCell.classList.add("temp-hot");
+        }
+
+        // --- Max sıcaklık ---
+        if (max < 10) {
+            maxCell.classList.add("temp-cool");
+        } else if (max < 20) {
+            maxCell.classList.add("temp-warm");
+        } else {
+            maxCell.classList.add("temp-hot");
+        }
+
+        // --- Yağmur bar'ı ---
+        // Hücreyi işaretleyelim (CSS için)
+        rainCell.classList.add("rain-cell");
+
+        // Hücre içeriğini temizleyip bar ekleyelim
+        rainCell.textContent = ""; // "31" yazısını siliyoruz
+
+        const bar = document.createElement("div");
+        bar.classList.add("rain-bar");
+        bar.textContent = rain + " mm"; // istersen yazıyı da göster
+
+        // Renk sınıfını bar'a ekle
+        if (rain < 40) {
+            bar.classList.add("rain-low");
+        } else if (rain < 70) {
+            bar.classList.add("rain-mid");
+        } else {
+            bar.classList.add("rain-high");
+        }
+
+        // Genişlik (ör: 41 -> width: 41%)
+        bar.style.width = rain + "%";
+
+        rainCell.appendChild(bar);
+    });
+});
+
+
+
+
+
