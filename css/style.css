@@ -8505,10 +8505,11 @@ td.rain-cell {
 .rain-bar {
     display: block;
     height: 100%;
-    min-height: 24px;      /* satır yüksekliği için */
+    min-height: 3rem;      /* satır yüksekliği için */
     line-height: 24px;     /* yazı ortalansın istersen */
     text-align: left;
     padding-left: 6px; 
+    align-content: center;
 }
 
 /* Renkler – artık sadece bar’a uygulanıyor */
