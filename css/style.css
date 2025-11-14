@@ -3751,6 +3751,36 @@ body > section:nth-child(5) > div > div.row.align-items-center.justify-content-c
     overflow: hidden;
   }
 }
+@media (max-width: 426px) {
+  .sidebar-list__group{
+    display: none;
+  }
+  
+}
+@media (min-width: 426px){
+#addMenuButton{
+  display: none;
+}
+}
+@media (max-width: 425px){
+  #addMenuButton {
+    display: flex;
+  }
+}
+
+#list-item-1,
+#list-item-2,
+#list-item-3,
+#list-item-4, 
+#list-item-5, 
+#list-item-6, 
+#list-item-7, 
+#list-item-8, 
+#list-item-9, 
+#list-item-10 {
+  scroll-margin-top: 140px;
+}
+
 
 #addMenuButton a {
     position: fixed;
