@@ -3744,6 +3744,11 @@ body > section:nth-child(5) > div > div.row.align-items-center.justify-content-c
   top: 10%;
   z-index: 10;
 }
+@media (max-width: 1600px){
+  .sidebar-list__group {
+    position: inherit;
+  }
+}
 
 .text-link .text-dark{
   display: inline-block;      
