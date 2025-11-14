@@ -842,6 +842,45 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 
+// tour copy JS
+  document.addEventListener('DOMContentLoaded', function () {
+  // Üstteki kartları al
+  const topCards = document.querySelectorAll('#tourCards .tour-card');
+  // Alttaki container
+  const bottomContainer = document.querySelector('#copyTours .swiper-wrapper');
+
+  // Güvenlik
+  if (!bottomContainer || topCards.length === 0) return;
+
+  // İlk N kartı klonla (loop düzgün dönsün diye 3’ten fazlası iyi olur)
+  topCards.forEach((card, index) => {
+    if (index < 6) {                   // 6 tane almak güzel, 3’ten fazlası olsun
+      const clone = card.cloneNode(true);
+      clone.classList.add('swiper-slide'); // 🔴 Burası önemli
+      bottomContainer.appendChild(clone);
+    }
+  });
+
+  // Swiper'ı burada başlat
+  const toursSwiper = new Swiper('#copyTours', {
+    slidesPerView: 3,          // 🔴 Aynı anda en fazla 3 kart
+    spaceBetween: 24,
+    loop: true,                // sonsuz döngü
+    autoplay: {
+      delay: 2500,             // 2.5 saniyede bir kay
+      disableOnInteraction: false, // kullanıcı dokunsa bile devam etsin
+    },
+    speed: 600,                // slide animasyon süresi
+    grabCursor: true,
+    // responsive istersen:
+    breakpoints: {
+      576: { slidesPerView: 1 },
+      992: { slidesPerView: 2 },
+      1200: { slidesPerView: 3}
+    }
+  });
+});
+
 
 
 

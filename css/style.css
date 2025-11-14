@@ -8496,6 +8496,18 @@ body.mega-lock {
   flex-wrap: wrap;
 }}
 
+
+/* Alttaki listede daha küçük görünmesini istersen */
+.tour_cards__bottom .tour-card {
+  transform: scale(0.95);
+}
+#copyTours{
+  overflow: hidden;
+}
+#copyTours .swiper-slide{
+  flex-shrink: 0;
+}
+
 .temp-cold { background-color: #cce5ff !important; }
 .temp-cool { background-color: #e3f2fd !important; }
 .temp-warm { background-color: #fff3cd !important; }
