@@ -3757,16 +3757,6 @@ body > section:nth-child(5) > div > div.row.align-items-center.justify-content-c
   }
   
 }
-@media (min-width: 426px){
-#addMenuButton{
-  display: none;
-}
-}
-@media (max-width: 425px){
-  #addMenuButton {
-    display: flex;
-  }
-}
 
 #list-item-1,
 #list-item-2,
@@ -3780,34 +3770,6 @@ body > section:nth-child(5) > div > div.row.align-items-center.justify-content-c
 #list-item-10 {
   scroll-margin-top: 140px;
 }
-
-
-#addMenuButton a {
-    position: fixed;
-    left: 0;
-    top: 7%;
-    width: 50px;
-    height: 50px;
-    background: #215093;
-    z-index: 9999;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: all ease-in-out 0.5s;
-}
-
-#addMenuButton a:after {
-  position: absolute;
-  content: "\e607";
-  font-family: "simple-line-icons";
-  font-size: 18px;
-  color: #fff;
-  z-index: 1;
-  transform: rotate(90deg);
-  place-self: anchor-center;
-  
-}
-
 
 
 .text-link .text-dark{
