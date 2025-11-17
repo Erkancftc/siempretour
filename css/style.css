@@ -648,12 +648,11 @@ label {
 blockquote {
   font-size: 14px;
   font-weight: 400;
-  background-color: #000000;
   margin-bottom: 15px;
   border: 0;
   padding: 30px 70px 30px 70px;
   line-height: 1.5;
-  color: #fff;
+  color: #000;
   margin: 20 0;
   font-style: italic;
   position: relative;
@@ -3776,11 +3775,6 @@ body > section:nth-child(5) > div > div.row.align-items-center.justify-content-c
   display: inline-block;      
   text-decoration: underline;
   transition: transform .25s ease;  
-}
-
-.text-link .text-dark:hover{
-  transform: scale(1.1);
-  transform-origin: center;   
 }
 
 .tabs-navbar {
