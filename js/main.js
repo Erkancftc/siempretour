@@ -843,41 +843,47 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 // tour copy JS
-  document.addEventListener('DOMContentLoaded', function () {
-  // Üstteki kartları al
+ document.addEventListener('DOMContentLoaded', function () {
   const topCards = document.querySelectorAll('#tourCards .tour-card');
-  // Alttaki container
   const bottomContainer = document.querySelector('#copyTours .swiper-wrapper');
 
-  // Güvenlik
   if (!bottomContainer || topCards.length === 0) return;
 
-  // İlk N kartı klonla (loop düzgün dönsün diye 3’ten fazlası iyi olur)
   topCards.forEach((card, index) => {
-    if (index < 6) {                   // 6 tane almak güzel, 3’ten fazlası olsun
+    if (index < 6) {
       const clone = card.cloneNode(true);
-      clone.classList.add('swiper-slide'); // 🔴 Burası önemli
+      clone.classList.add('swiper-slide');
       bottomContainer.appendChild(clone);
     }
   });
 
-  // Swiper'ı burada başlat
+  // Swiper'ı BAŞLAT
   const toursSwiper = new Swiper('#copyTours', {
-    slidesPerView: 3,          // 🔴 Aynı anda en fazla 3 kart
+    slidesPerView: 3,
     spaceBetween: 24,
-    loop: true,                // sonsuz döngü
+    loop: true,
     autoplay: {
-      delay: 2500,             // 2.5 saniyede bir kay
-      disableOnInteraction: false, // kullanıcı dokunsa bile devam etsin
+      delay: 2500,
+      disableOnInteraction: false,
     },
-    speed: 600,                // slide animasyon süresi
+    speed: 600,
     grabCursor: true,
-    // responsive istersen:
+
+    // breakpoint'ler
     breakpoints: {
       576: { slidesPerView: 1 },
       992: { slidesPerView: 2 },
-      1200: { slidesPerView: 3}
-    }
+      1200: { slidesPerView: 3 },
+    },
+
+    // boyut değişimlerini otomatik izle
+    observer: true,
+    observeParents: true,
+  });
+
+  // Tüm sayfa + görseller yüklendikten sonra bir kez daha hesaplat
+  window.addEventListener('load', () => {
+    toursSwiper.update();
   });
 });
 
