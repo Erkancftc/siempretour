@@ -6222,6 +6222,12 @@ fieldset:disabled .btn {
 .vh-50 {
   height: 50vh !important;
 }
+.vh-25 {
+  height: 25vh !important;
+}
+.webkit-fill{
+  height: -webkit-fill-available !important;
+}
 .min-vh-100 {
   min-height: 100vh !important;
 }
