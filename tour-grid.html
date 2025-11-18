@@ -527,10 +527,10 @@
                     <div class="col-lg-12 text-start">
                         <ul class="nav nav-tabs" id="myTab" role="tablist">
                             <li class="nav-item" role="presentation">
-                                <button class="nav-link active" id="overview-tab" data-bs-toggle="tab" data-bs-target="#overview-tab-pane" type="button" role="tab" aria-controls="overview-tab-pane" aria-selected="true">Avusturya Genel Bakış</button>
+                                <button class="nav-link active" id="tour-tab" data-bs-toggle="tab" data-bs-target="#tour-tab-pane" type="button" role="tab" aria-controls="tour-tab-pane" aria-selected="false">Avusturya Genel Bakış</button>
                             </li>
                             <li class="nav-item" role="presentation">
-                                <button class="nav-link" id="tour-tab" data-bs-toggle="tab" data-bs-target="#tour-tab-pane" type="button" role="tab" aria-controls="tour-tab-pane" aria-selected="false">Avusturya Turları</button>
+                                <button class="nav-link" id="overview-tab" data-bs-toggle="tab" data-bs-target="#overview-tab-pane" type="button" role="tab" aria-controls="overview-tab-pane" aria-selected="true">Avusturya Turları</button>
                             </li>
                         <li class="nav-item" role="presentation">
                             <button class="nav-link" id="guide-tab" data-bs-toggle="tab" data-bs-target="#guide-tab-pane" type="button" role="tab" aria-controls="guide-tab-pane" aria-selected="false">Tur Rehberi</button>
@@ -546,11 +546,11 @@
                     </div>
                 </div>
     <!-- top Destination starts -->
-                <div class="tab-content" id="myTabContent">
+            <div class="tab-content" id="myTabContent">
                     <!-- tur tab starts -->
                     <div class="trending pt-2 bg-lgrey tab-pane fade" id="tour-tab-pane" role="tabpanel" aria-labelledby="tour-tab" tabindex="0">
                         <div class="row">
-                            <div class="col-lg-12">
+                            <div class="col-lg-12 p-0">
                                 <div class="row g-4 mt-4 trending-title ">
                                     <div class="col-lg-6 d-flex flex-column mb-2">
                                         <h2 class="text-dark">Avusturya Turları</h2> <br>
@@ -647,7 +647,7 @@
 
                     <!-- Tur genel bakış start-->
                     
-                    <div class="tab-pane fade show active pt-2 "  id="overview-tab-pane" role="tabpanel" aria-labelledby="overview-tab" tabindex="0" >
+                    <div class="tab-pane fade show active pt-2"  id="overview-tab-pane" role="tabpanel" aria-labelledby="overview-tab" tabindex="0" >
                             <div class="col-lg-12 mt-4">
                                 <h2 class="mb-2">Avusturya Turları ve Tatilleri</h2>
                                 <p>Renkli panjurları ve tarihi soğan kubbeli kiliseleriyle Avusturya’nın Alp kasabaları, neredeyse güzellikleriyle baş
@@ -836,8 +836,9 @@
                     <!-- Tur genel bakış end-->
 
                     <!-- Tur Rehberi start-->
-                    <div class="tab-pane fade show active pt-2" id="guide-tab-pane" role="tabpanel" aria-labelledby="guide-tab" tabindex="0">
+                    <div class="tab-pane fade show pt-2" id="guide-tab-pane" role="tabpanel" aria-labelledby="guide-tab" tabindex="0">
                              <div class="row gap-4">
+                                <!--Panel liste-->
                                 <div class="sidebar-list__group col-lg-2 shadow-lg border-0" id="sidebar-list">
                                     <div class="list-group" id="list-scroll" data-bs-spy="scroll" data-bs-target="#navbar-example3" data-bs-smooth-scroll="true" tabindex="0">
                                              <a class="list-group-item list-group-item-action border-0 text-decoration-underline" href="#list-item-1">2 min summary</a>
@@ -1858,40 +1859,240 @@
                                     </div>
                                 </div>
                                 <!--tips-->
+                                
+                                <!--responsible tourism-->
+                                <div class="row g-0" id="list-item-11">
+                                    <div class="col-lg-12 p-0">
+                                        <h2 class="text-center text-dark py-5 mt-65 lh-base">Responsible tourism in Austria</h2>
+                                        <p class="p-5">
+                                            Austria might conjure visions of pastoral bliss and alpine pasture, but not all of it is farmland by any means. In fact, with 50% of the county covered by trees, Austria is one of Europe’s most heavily wooded countries. It has six national parks and 50 nature parks, and its own ‘big five’ to match an African Safari – look out for ibex, chamois, snow grouse, golden eagles and bearded vultures. The Alps have resisted development for millennia – and have long been considered an area of beauty, rather than a region to be exploited. <br><br>
+                                            Some 980,000 Brits visit Austria every year, but that’s nothing. Domestic tourism in Austria accounts for nearly half of all visitors. The message is loud and clear: no one loves and appreciates Austria like the Austrians themselves. You only have to look down from the top of a mountain, down into a bowl-like valley filled with blue lakes and bijou villages, to see why the country is so dearly beloved. But this is not enough to protect Austria from threats to its natural world – climate change and biodiversity loss are disproportionately affecting the Alps. This is changing how we holiday in Austria, and the nature we enjoy when we’re there.
+                                            </p>
+                                        <h2 class="text-center text-dark py-5 mt-65 lh-base">How is climate change affecting Austria holidays?</h2>
+                                        <p class="p-5">
+                                            The Austrian Alps are being significantly affected by climate change. In 2014, the Austrian Climate Change Assessment Report stated that average temperatures in Austria had risen by close to 2°C since 1880, whilst global temperatures rose by only 0.85°C.
+                                        </p>
+                                        <div class="tour-bg__image vh-50" style="background-image: url(https://www.responsibletravel.com/ImagesClient/dtg-cr8313-austria-poor-snow-ski-slopes.jpg);"></div>
+                                        <div class="p-5">
+                                            <h4 class="mb-0">How is climate change affecting winter sports in Austria?</h4>
+                                            <p>
+                                                The change in temperature affects one of Austria’s biggest tourism industries: winter sports. The ski set are so crucial to business that some resorts generate a third of their annual profits in the five or so days between Christmas and New Year. Warmer winters mean that there isn’t necessarily enough snow in December to cover this valuable period. When the white stuff is thin on the ground, wasteful and expensive snow cannons are used to create artificial snow, and snow is even ‘harvested’ in good years and stored under mounds of sawdust, to be used in lean periods. <br><br>
+                                                The result is that anyone coming for a skiing holiday should be under no illusion that they are engaging with the natural world: with the expensive infrastructure and snow-making apparatus in play, downhill skiing resorts are disengaged from the reality of mountain life – until things get serious. Climate change doesn’t just mean no snow – it can also mean more extreme weather. Three off-piste skiers died in an avalanche in 2018, a year when heavy snow caused havoc. Lottie Joynes, from our partner WearActive, experienced the extremes first hand from their base in East Tyrol, “We are already experiencing extreme weather events across the Alps. The winter of 2018 was a really good example. Austria had the largest snowfall that it’s experienced in 50 years. You might have read about the avalanches that made the news. For people who live remotely, their way of life is becoming unfeasible. Even for us, it’s hard to get up and down the road to our lodge if we have extreme snowfalls.” Climate change brings unpredictability to the Alps. You’ll find that safe holidays are harder to plan, with more likelihood of disruption. <br><br>
+                                                Snowfall is decreasing, too. Austria’s lower-altitude resorts – such as famously swanky Kitzbühel – are already seeing meagre snowfall. Dachstein, a high-altitude glacier that is usually popular for autumn skiing, announced that it would close for the 2022/2023 ski season. The ice has melted, creating crevasses and destabilising the ski lifts, making skiing here too dangerous. As glaciers contract, and the snow season becomes ever more unpredictable, some tourists are already swapping their skis for hiking boots; winter hiking holidays are slowly increasing in popularity among German visitors, but the rate of change is too slow; most people are still coming to Austria for downhill skiing. Resorts bounced back after Covid-19, announcing, by April 2022, comparable visitor numbers to pre-pandemic figures. Those who come here to ski may increasingly find that their resorts are using a blend of last year’s snow, respread, and snow blasted out of costly snow cannons; two measures that place a strain on the environment as resorts strive to maintain the illusion of a winter wonderland. Skiers may also find their resorts’ heavy use of artificial snow reflected in the increasing cost of their holiday. <br><br>
+                                                <strong>What you can do:</strong>
+                                                Help Austria extend its tourist season by not just coming to the mountains for snow. In the summer, the Alps are amazing and a whole network of hiking trails open up beyond the pistes; some resorts are even turning their woodland ski routes into mountain bike trails. And find out what you can do to lower your carbon footprint whilst you’re on holiday. Studies of the emissions associated with winter sports holidays show that it’s still accommodation and food that make the biggest impact (58.3 percent), whilst ski-related emissions - piste grooming, lift operation, account for just 3.8 percent.
+                                            </p>
+                                        </div>
+                                        <h2 class="text-center text-dark py-5 mt-65 lh-base">Environment and wildlife</h2>
+                                        <div class="p-5">
+                                            <h4 class="mb-0">Austria’s Big Five</h4>
+                                            <p>
+                                                The Alpine ‘Big Five’ are the stars of the region – the golden eagle, bearded vulture, snow grouse, ibex and chamois. But this wasn’t always the case. In the 1950s, the ibex and the bearded vulture were extinct in Austria, and it was partly thanks to folklore. <br><br>
+                                                The bearded vulture was dogged by a gruesome reputation for centuries. It was rumoured to carry away children and, thanks to its red-rimmed eyes, was associated with the Devil. It was hunted by farmers until it became extinct. It’s only more recently that this amazing bird is getting the love it deserves. It has a powerful, bone-crushing beak and a wingspan of up to 2.9m. Sightings are still incredibly rare, but the Hohe Tauern National Park is a great place to keep your eyes peeled. The bird was reintroduced here back in 1989.
+                                            </p>
+                                        </div>
+                                        <div class="tour-bg__image vh-50" style="background-image: url(https://www.responsibletravel.com/ImagesClient/dtg-cr8313-austria-ibex-slopes.jpg);"></div>
+                                        <div class="p-5">
+                                            <p>
+                                                The vulture might have had an image rehaul, but the ibex finds itself on shaky ground. It has always been legal to hunt ibex in Austria, but climate change is a new, bigger threat which could cull their numbers. As glaciers recede, there is less water, less pasture, and less food in the Alps. As the Alps get hotter and drier, thick-coated goats suffer in the heat, and are forced to climb higher in search of food. Overall, Austria’s vertebrate populations have declined by 70% since 1986, and it’s human activity: putting pressure on resources, and destabilising the climate, that’s to blame. <br><br>
+                                                <strong>What you can do:</strong>You can donate to support parks like the Hohe Tauern National Park and visit the parks with responsible operators who treat wildlife and landscape with respect. Of course, on your home turf, you should vote in politicians who take climate change seriously, and get involved with local and national activism. Austrians already are.
+                                            </p>
+                                            <h4 class="mb-0">Are there lynx and wolves in Austria?</h4>
+                                            <p>Lynx were reintroduced into Austria a few years ago to great fanfare (despite the rehabilitation of the Alpine Big Five being a bigger deal for biodiversity). Lynx came slinking back into Austria, along with Slovenia, Croatia, France, Switzerland, and the Czech Republic, where they hunt roe deer and chamois. Austria’s central location in Europe makes it especially important as a breeding ground for the cats. Think of it as a mountain mingler, where they can meet, and eventually diversify and strengthen their gene pools. A Lynx Trail runs between Styria, Upper and Lower Austria, but there remain very few around. “The reintroduction of the ibex and the bearded vulture are really big success stories for the Alps,” says Lottie Joynes, from our partner WearActive, “but the lynx gets more press. There are very few lynx in the Alps – and they are found in the north, in upper Austria.” Alongside lynx, there are estimated to be between 20 and 40 wolves in Austria – not many compared to other European countries. There are a few, but not many, brown bears.</p>
+                                        </div>
+                                        <div class="tour-bg__image vh-50" style="background-image: url(https://www.responsibletravel.com/ImagesClient/dtg-cr8313-austria-lynx.jpg);"></div>
+                                        <p class="p-5">
+                                            There’s growing evidence that these predators do a lot of good for the environment. Big predators keep deer populations in check, which in turn allow vegetation to thrive. And when you get more trees on riverbanks, their roots help keep the banks intact and the water clearer of sediment, improving water quality for freshwater fish. The benefits of apex predators literally ‘trickle down’, visibly benefitting the whole alpine environment. However, the introduction of large predators, such as wolves, remains a delicate subject among alpine farmers, hunters, biologists and conservationists – as wolf numbers increase, a change in the law allowed wolves to be hunted. In 2022, farmers demonstrated outside a Hohe Tauern Carinthia National Park conference on wolf reintroduction. There are no easy answers when humans and animals compete in a shared space. <br><br>
+                                            <strong>What you can do:</strong>It’s unlikely you’ll have first-hand encounters with Austria’s shy carnivores, and that’s a good thing. Limiting human encounters with predators actually helps them thrive: a ‘live and let live’ policy, if you will.
+                                        </p>
+                                        <h2 class="text-center text-dark py-5 mt-65 lh-base">Responsible tourism tips in Austria</h2>
+                                        <div class="p-5">
+                                            <ul class="mylist-group">
+                                                <li class="list-group-item p-4">You can swim in many Alpine lakes, but it’s worth checking locally before you dive in. And be aware that there may be more naturists about than you’re used to: from saunas to the big wide world, people are quite relaxed about nudity in Austria.</li>
+                                                <li class="list-group-item p-4">Don’t go chasing waterfalls – unless you’re wearing a helmet. Canyoning can be very dangerous without proper equipment and a guide.</li>
+                                                <li class="list-group-item p-4">If you need Alpine Rescue, call 140. The European emergency number 112 is valid for the whole of Europe – Austria included. If you’re a member of the European Union, carry your European Health Insurance Card to show you don’t have to pay for medical treatment.</li>
+                                                <li class="list-group-item p-4">When you use public transport you must buy and then validate (stamp) your paper ticket before you actually step on the bus, the tram or the train, or you might have to pay a hefty fine.</li>
+                                            </ul>
+                                                    <div class="text-link text-center p-4 mb-4"><a class="text-dark fs-4" href="tour-grid.html">Tüm Avusturya turlarını görmek için tıklayın</a></div>
 
+                                        </div>
+
+
+
+                                    </div>
+                                </div>
+                                <!--responsible tourism-->
                             </div>
 
                         </div>
                     </div>
-                </div>
-                       
-                            
-            </div>
                     <!-- Tur Rehberi end-->
-                    
-                    <!-- Ne zaman gidilmeli start-->
-                    <!-- <div class="tab-pane pt-2" id="when-tab-pane" role="tabpanel" aria-labelledby="when-tab" tabindex="0">
-                            <div class="row mt-4 p-4">
-                                <h2 class="mb-4 text-center "> Best time to visit Austria</h2>
-                                <div class="col-lg-12 d-flex">
-                                    <div class="col-lg-6">
-                                    <div class="tour-bg__image vh-50" style="background-image: url(https://www.responsibletravel.com/ImagesClient/dtg-cr1258-austria-snowy-mountains.jpg);">
-                                    <h4 class="position-absolute p-4 justify-content-center text-uppercase fw-bold">"You may not be joining Ball Season in Vienna,<br> but you'll still have a ball snowshoeing <br>in East Tyrol in January."</h4>
+                       
+                      <!-- ne zaman gidilmeli start-->
+                    <div class="tab-pane fade show pt-2" id="when-tab-pane" role="tabpanel" aria-labelledby="when-tab-pane" tabindex="0">
+                        <p>text</p>
+                    </div>
+                    <!-- ne zaman gidilmeli end-->      
+                       
+                      <!-- Yorumlar start-->
+                    <div class="tab-pane fade show pt-2" id="reviews-tab-pane" role="tabpanel" aria-labelledby="reviews-tab" tabindex="0">
+                            <div class="container">
+
+                                <!-- Başlık -->
+                                <div class="text-center mb-4">
+                                <h2 class="lh-base">AUSTRIA HOLIDAY REVIEWS</h2>
+                                </div>
+
+                                <!-- Ortalama skor + toplam yorum -->
+                                <div class="d-flex align-items-center mb-3">
+                                <div class="text-warning fs-4 me-2">
+                                    ★★★★★
+                                </div>
+                                <span class="fs-5 fw-semibold me-3">4.8</span>
+                                <span class="text-muted">90 Austria holiday reviews</span>
+                                </div>
+
+                            <div class="row">
+                                <div class="col-md-2">
+                                    <p class="fw-semibold mb-2">Filter by rating</p>
+
+                                    <div class="form-check mb-1">
+                                    <input class="form-check-input" type="checkbox" checked>
+                                    <label class="form-check-label text-warning">★★★★★</label>
+                                    </div>
+
+                                    <div class="form-check mb-1">
+                                    <input class="form-check-input" type="checkbox" checked>
+                                    <label class="form-check-label text-warning">★★★★☆</label>
+                                    </div>
+
+                                    <div class="form-check mb-1">
+                                    <input class="form-check-input" type="checkbox" checked>
+                                    <label class="form-check-label text-warning">★★★☆☆</label>
+                                    </div>
+
+                                    <div class="form-check mb-1">
+                                    <input class="form-check-input" type="checkbox">
+                                    <label class="form-check-label text-warning">★★☆☆☆</label>
+                                    </div>
+
+                                    <div class="form-check mb-1">
+                                    <input class="form-check-input" type="checkbox">
+                                    <label class="form-check-label text-warning">★☆☆☆☆</label>
                                     </div>
                                 </div>
-                                <div class="col-lg-6 px-4">
-                                    <p>If snow is your thing, late Nov-April is, on average, perfect for frosty fun. Austria likes its rain, so always bring an umbrella just in case. June-Aug bring beautiful summer weather, particularly the further south you go, but never too scorching. Of course the high mountains are always cooler, but with risks of lightning in summer.
-                                        Christmas and New Year in Austria are magically festive, with glühwein and Christmas markets everywhere you go, no matter how remote. Hike in autumn to catch the wine harvest, with many festivals to accompany it.</p>
-                                </div>
-                                </div>
-                            </div>
-                    </div> -->
-                    <!-- Ne zaman gidilmeli end-->
 
-                    <!-- Yorumlar start-->
-                    <div class="tab-pane fade pt-2" id="reviews-tab-pane" role="tabpanel" aria-labelledby="reviews-tab" tabindex="0">
+                                <div class="col-md-4 mt-4">
+
+                                    <!-- 5 stars -->
+                                    <div class="d-flex align-items-center mb-2">
+                                    <span class="text-warning me-2">★★★★★</span>
+                                    <div class="progress flex-grow-1 mx-2" style="height: 12px;">
+                                        <div class="progress-bar bg-warning" style="width: 82%;"></div>
+                                    </div>
+                                    <span class="fw-semibold">74</span>
+                                    </div>
+
+                                    <!-- 4 stars -->
+                                    <div class="d-flex align-items-center mb-2">
+                                    <span class="text-warning me-2">★★★★☆</span>
+                                    <div class="progress flex-grow-1 mx-2" style="height: 12px;">
+                                        <div class="progress-bar bg-warning" style="width: 17%;"></div>
+                                    </div>
+                                    <span class="fw-semibold">15</span>
+                                    </div>
+
+                                    <!-- 3 stars -->
+                                    <div class="d-flex align-items-center mb-2">
+                                    <span class="text-warning me-2">★★★☆☆</span>
+                                    <div class="progress flex-grow-1 mx-2" style="height: 12px;">
+                                        <div class="progress-bar bg-warning" style="width: 1%;"></div>
+                                    </div>
+                                    <span class="fw-semibold">1</span>
+                                    </div>
+
+                                    <!-- 2 stars -->
+                                    <div class="d-flex align-items-center mb-2">
+                                    <span class="text-warning me-2">★★☆☆☆</span>
+                                    <div class="progress flex-grow-1 mx-2" style="height: 12px;">
+                                        <div class="progress-bar bg-warning" style="width: 0%;"></div>
+                                    </div>
+                                    <span class="fw-semibold">0</span>
+                                    </div>
+
+                                    <!-- 1 star -->
+                                    <div class="d-flex align-items-center mb-2">
+                                    <span class="text-warning me-2">★☆☆☆☆</span>
+                                    <div class="progress flex-grow-1 mx-2" style="height: 12px;">
+                                        <div class="progress-bar bg-warning" style="width: 0%;"></div>
+                                    </div>
+                                    <span class="fw-semibold">0</span>
+                                    </div>
+                                </div>
+                                <hr class="my-4">
+
+                                <!-- REVIEW ITEM -->
+                                <div class="col-lg-12 p-0">
+                                    <div class="mb-4 pb-4 border-bottom">
+                                <div class="text-warning mb-2">★★★★★</div>
+
+                                <h6 class="fw-bold mb-1">AUSTRIA HIKING AND YOGA HOLIDAY</h6>
+
+                                <div class="text-muted small mb-2">
+                                    Frances Black &nbsp;&nbsp; 27 Sep 2025
+                                </div>
+
+                                <p class="mb-0">
+                                    Absolutely outstanding in every way  
+                                    <a href="#" class="small">(read more)</a>
+                                </p>
+                                </div>
+
+                                <!-- REVIEW ITEM -->
+                                <div class="mb-4 pb-4 border-bottom">
+                                <div class="text-warning mb-2">★★★★★</div>
+
+                                <h6 class="fw-bold mb-1">AUSTRIA HIKING AND YOGA HOLIDAY</h6>
+
+                                <div class="text-muted small mb-2">
+                                    Lydia Watkinson &nbsp;&nbsp; 20 Sep 2025
+                                </div>
+
+                                <p class="mb-0">
+                                    We had a great time. The hiking is accessible for anyone with a small amount of experience, 
+                                    the accommodation is in a beautiful location and everything is taken care of.  
+                                    <a href="#" class="small">(read more)</a>
+                                </p>
+                                </div>
+
+                                <!-- REVIEW ITEM -->
+                                <div class="mb-4 pb-4 border-bottom">
+                                <div class="text-warning mb-2">★★★★★</div>
+
+                                <h6 class="fw-bold mb-1">AUSTRIA HIKING AND YOGA HOLIDAY</h6>
+
+                                <div class="text-muted small mb-2">
+                                    Ela Horoszko &nbsp;&nbsp; 8 Sep 2025
+                                </div>
+
+                                <p class="mb-0">
+                                    Amazing holiday, certainly recommended!  
+                                    <a href="#" class="small">(read more)</a>
+                                </p>
+                                </div>
+                                </div>
+
+
+                            </div>
+
+                        </div>
+
                     </div>
-                    <!-- Yorumlar end-->
+                    <!-- Yorumlar end-->      
+             </div>
+            </div>
+
+                    
                         <!-- tab-contents-end -->
     </section>
     <!-- top Destination ends -->
