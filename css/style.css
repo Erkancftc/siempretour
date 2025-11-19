@@ -6729,17 +6729,26 @@ ul.sidebar-tags li a:hover {
 .sidebar-videos button.slick-prev.slick-arrow, .sidebar-videos button.slick-next.slick-arrow {
   display: none !important;
 }
-.sidebar-info{
-    display: none;
-    padding: 3rem 2rem;
-    width: clamp(18vw, 400px, 20vw);
+.sidebar-sticky-1{
+    align-items: center;
+    flex-direction: column;
+    margin: 0;
     position: absolute;
-    margin-top: -25vh;
-    background-color: #fff;
+    top: -220px;
+    right: 0;
+    display: none;
+}
+.sidebar-info{
+    background: #fff;
+    box-shadow: 0 6px 16px 0 #0000001f;
+    box-sizing: border-box;
+    padding: 2rem;
+    width: 360px;
+
 }
 @media(min-width: 1800px){
     .sidebar-info{
-         display: block;
+         display: flex;
     }
 }
 
@@ -8117,12 +8126,18 @@ display: block;
   background-position: center;
 }
 .tour-bg__image{
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+     position: relative;
+     aspect-ratio: 16/9;
+    width: 100%;
+    float: none;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+    box-sizing: border-box;
 }
 .tour-bg__text{
-  padding: 4rem 2rem ;
+  padding: 4rem 0 !important;
 }
 
 .why-choose-us {

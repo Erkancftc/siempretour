@@ -4731,14 +4731,12 @@ fieldset:disabled .btn {
 }
 .mylist-group {
     list-style-type: disc !important;
-    padding-left: 1.5rem !important;   /* marker'ın görünebilmesi için gerekli */
 }
 
 .mylist-group li {
   border: none;
    display: list-item !important;
     list-style-type: disc !important;
-    margin-left: 1.2rem; /* marker boşluğu */
 }
 
 
