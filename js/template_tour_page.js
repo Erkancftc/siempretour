@@ -1,9 +1,9 @@
 function renderDayInfo(dayInfo) {
     const container = document.getElementById('daysAccordion');
-    container.innerHTML = ""; // Önce temizle
+    container.innerHTML = ""; 
 
     dayInfo.forEach((day, index) => {
-        const isActive = index === 0 ? " active" : ""; // İlk gün açık olsun
+        const isActive = index === 0 ? " active" : ""; 
         const display = index === 0 ? "block" : "none";
 
         const acc = document.createElement('div');
@@ -25,7 +25,7 @@ function renderDayInfo(dayInfo) {
         container.appendChild(acc);
     });
 
-    // Senin jQuery accordion kodun
+    
     initAccordions();
 }
 

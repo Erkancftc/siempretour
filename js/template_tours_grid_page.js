@@ -4,15 +4,15 @@ async function loadTours() {
   if (!container) return;
 
   try {
-    // tours.json'u sanki API'den geliyormuş gibi okuyacağız
+    
     const res = await fetch('data/tours.json');
     if (!res.ok) {
       throw new Error('HTTP hata: ' + res.status);
     }
 
-    const tours = await res.json(); // şu an sadece Avusturya turları var
+    const tours = await res.json(); 
 
-    container.innerHTML = ''; // eski içerik varsa temizle
+    container.innerHTML = ''; 
 
     tours.forEach(tour => {
       const image = tour.image1;
