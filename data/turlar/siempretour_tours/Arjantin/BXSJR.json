@@ -1,0 +1,75 @@
+{
+  "destination": "Arjantin",
+  "mainPhoto": "",
+  "id": "BXSJR",
+  "tourName": "Rio'ya Yolculuk",
+  "placesVisited": "Arjantin, Brezilya",
+  "generalInfo": "Eğer Güney Amerika’daki en renkli iki şehri karşılaştırmak isterseniz, bu tur tam size göre. Rio, Brezilya’ya seyahatimiz Buenos Aires’ten başlıyor. Bonito’ya gidip şnorkelle berrak mavi göllerin keyfini çıkarmadan önce, Devil’s Throat (Şeytan boğazından) suyun sesini hissedeceğiniz Iguazu şelalelerini ziyaret edeceksiniz. Buenos Aires’i Brezilya’nın ünlü karnaval şehriyle karşılaştırma şansı bulacaksınız.<br><br>Katılış için en yakın uluslararası havaalanı: Buenos Aires Ministro Pistarini Uluslararası Havaalanı (EZE)<br><br>Ayrılış için en yakın uluslararası havaalanı: Rio Galeao Antonio Carlos Jobim Uluslararası Havaalanı (GIG)",
+  "durationDays": "13",
+  "price": "769",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "34",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p>-Brezilya ve Arjantin’den Iguazu Şelaleleri</p>\n<p><strong>Konaklama</strong></p>\n<p>Hostelde 2 gece , kamp alanında 9 gece, otelde 1 gece</p>\n<p><strong>Ulaşım</strong></p>\n<p>Karayolundan kamyonetle</p>\n<p><strong>Yemekler</strong></p>\n<p>12 kahvaltı 9 öğle yemeği 9 akşam yemeği</p>\n<p><strong>Diğer</strong></p>\n<p>Tur lideri ve sürücü</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Buenos Aires'e Varış",
+      "description": "Buenos Aires şirin yeşil alanları,meydanları ve geniş bulvarları ile çok güzel bir şehir.Otelimizde görülmesi gereken yerlere,ki bunların büyük kısmı yürüme mesafesinde, ve şehrin kalan kısmına seyahat edilebilinen ulaşım ağlarına yakınlığı açısından eşsiz bir konumda.Başkanlık sarayı Casa Rosada(Pembe Saray) nın balkonu Eva Peron un birçok halk konuşmasını yaptığı yer olmasının yanı sıra Madonna’nın Evita filminde ‘Dont cry form e Argentina’ parçasını seslendirdiği balkondur.Eski yönetim binaları Cabildo,the Palacio Municipal’i ve katedrali Plaza de Mayo’nun hemen karşısında görebilirsiniz.Bu plazada her Salı öğleden sonra 70 lerdeki askeri yönetim döneminde kaybolan aile üyeleri akrabalar anısına Plaza de Mayo anneleri marşı söylenir.Puerto Madera bölgesinde muhteşem restoranlar yer alır,renkli binaları ve kültürel tarihi ile La Boca da görülmeye değer bir limandır.Bohem bir yer olan San Telmo yakınında her Pazar büyüleyici bir antika pazarı kurulur.Bir başka görülmesi gereken yer ise başta Eva Peron olmak üzere birçok ünlü ve zengin kişinin gömülü olduğu ve adeta kendi içinde bir kasaba görünümündeki Recoleta Mezarlığı.Geç saatlere kadar hizmet veren gece kulüpleri bar restoran ve sinema salonları nedeniyle Buenos Aires in gece hayatı konusundaki şöhreti hiçte abartılı değildir.Dışarıda harika bir akşam geçirmek için şehre özgü bir tango şovunu izleyin ve dünyanın en iyilerinden olan bifteğin tadına bakmadan Buenos Aires ten ayrılmayın."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Seyir Halinde",
+      "description": "Muazzam Iguazu Şelalelerine geçeceğimiz Puertu Iguazu ya doğru gün boyu uzun bir araç yolculuğumuz var."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Puerto Iguazú",
+      "description": "Devam ederek Puerto Iguazu ya varıyoruz.Yarın şelaleleri görmeye gitmeden bu gece otelimize yakın bar ve kulüpleri gezin."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Foz Do Iguacu",
+      "description": "Bu sabah yağmur ormanlarından geçerek dar köprüler boyunca üstlerinden yürüyeceğiniz Arjantin tarafındaki şelaleleri göreceğiz,ayrıca 14 şelalenin daima yoğun bir damlalar bulutu oluşturacak güçte döküldüğü İspanyolca’da Şeytan Boğazı anlamına gelen Garganta del Diablo da buradadır.Biraz daha sakinleşmek isterseniz, bu etkileyici şelaleleri farklı bir açıdan görmenin eğlenceli bir yolu olarak nehir de bir Zodyak turu yapabilirsiniz."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Foz Do Iguacu",
+      "description": "Bu sabah yağmur ormanlarından geçerek dar köprüler boyunca üstlerinden yürüyeceğiniz Arjantin tarafındaki şelaleleri göreceğiz,ayrıca 14 şelalenin daima yoğun bir damlalar bulutu oluşturacak güçte döküldüğü İspanyolca’da Şeytan Boğazı anlamına gelen Garganta del Diablo da buradadır.Biraz daha sakinleşmek isterseniz, bu etkileyici şelaleleri farklı bir açıdan görmenin eğlenceli bir yolu olarak nehir de bir Zodyak turu yapabilirsiniz."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Seyir halinde",
+      "description": "Kuzeye kıtanın içlerine,Bonito’ya doğru yola çıkıyoruz.Uzun bir yolumuz var ve yolculuğu tamamlamak için sadece bir gece durabileceğiz."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Bonito",
+      "description": "Bonito,Mato Grosso Do Sul eyaletinde yer alır ve nehirlerinin,mağara göllerinin inanılmaz mavisi ile ünlüdür.Sular yerdeki büyük miktarda kalkerlerin arasından süzülür ve tüm kirleri yatağının dibinde biriktirdiği nehirlere Dünya’nın en temiz görünümünü verir."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Parati",
+      "description": "Costa Verde’ye ilerleyerek özelliğini asla kaybetmemiş eski bir Portekiz koloni şehri(1500-1822) olan Parati’ye varıyoruz.Şehir tarihi merkezi sahili ve dağlarıyla ünlü. 17ve 19. Yüzyıllar arasında altın ve kahve ihracatının başlıca limanlarından birisi olan Parati de teknelerle körfez gezileri, yağmur ormanları ve altın patika yürüyüşleri önerilen turlardır."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Rio de Janeiro",
+      "description": "Rio de Janeiro,bilinen adıyla Rio ,Brezilya’nın 2. Büyük şehri ve tartışmasız Dünya’nın en güzel şehirlerinden biridir.17.yüzyılın sonlarında Portekizliler Minas Gerais’te altın ve elmas bulunca Rio bu hazinenin taşındığı başlıca liman haline geldi.1763-1815 yılları arasında Portekiz sömürge döneminde Rio ,Brezilya’nın başkentiydi."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Depart Rio de Janeiro",
+      "description": "Hayatınızın macerası bugün sona eriyor.Eğer geç saatte bir uçuşunuz varsa ya da konaklamanızı ve kalış sürenizi uzatırsanız şehri daha fazla gezmek için ekstra zamanınız olacak."
+    }
+  ],
+  "map": ""
+}

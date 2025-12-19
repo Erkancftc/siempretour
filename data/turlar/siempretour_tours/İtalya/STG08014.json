@@ -1,0 +1,90 @@
+{
+  "destination": "İtalya",
+  "mainPhoto": "",
+  "id": "STG08014",
+  "tourName": "MSC Poesia ile Kanarya Adaları - 14.11.2019",
+  "placesVisited": "İtalya, İspanya, Fransa, Fas, Portekiz",
+  "generalInfo": "Cenova, Marsilya, Barselona, Denizde Seyir, Kasablanka, Denizde Seyir, Santa Cruz de Tenerife, Funchal, Denizde Seyir, Malaga, Denizde Seyir, Civitavecchia, Cenova",
+  "durationDays": "13",
+  "price": "1030",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p>*  THY ile ekonomi sınıfı İstanbul - Milano (MXP) - İstanbul uçuşu</p>\n<p>*  Tercih etmiş olduğunuz kategorideki kabinde 12 gece tam pansiyon konaklama</p>\n<p>*  Havaalanı - liman - havaalanı transferleri.</p>\n<p>*  Grup doluluk oranı 50% ve üzeri olması durumunda Türkçe rehberlik hizmeti garanti edilmektedir.</p>\n<p>*  Her gün ve gece için düzenlenen eğlence, animasyon ve şovlar</p>\n<p>*  Gemideki sabah, öğle ve akşam yemekleri</p>\n<p>*  Kaptanın hoşgeldin partisi ve gala yemeği</p>\n<p>*  Fitness</p>\n<p>*  Havaalanı ve Liman vergileri</p>\n<p>*  Vize için gerekli teminatları da içeren MSC Cruises seyahat Seyahat ve sigorta paketi (70 yaş üzeri %100 sürprim uygulanır Sadece Türk vatandaşlarına sigorta yapılır)</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Cenova / Portofino (İtalya)",
+      "description": "Cenova / Portofino (İtalya)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "Marsilya, FRANSA",
+      "description": "Marsilya, FRANSA"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Barselona (İspanya)",
+      "description": "Barselona (İspanya)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 5,
+      "title": "Casablanca (Fas)",
+      "description": "Casablanca (Fas)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 7,
+      "title": "Santa Cruz de Tenerife (İspanya)",
+      "description": "Santa Cruz de Tenerife (İspanya)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "Funchal (Portekiz)",
+      "description": "Funchal (Portekiz)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 10,
+      "title": "Malaga (İspanya)",
+      "description": "Malaga (İspanya)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 12,
+      "title": "Civitavecchia/ROMA (İtalya)",
+      "description": "Civitavecchia/ROMA (İtalya)"
+    },
+    {
+      "dayNumber": 13,
+      "title": "Cenova / Portofino (İtalya)",
+      "description": "Cenova / Portofino (İtalya)"
+    }
+  ],
+  "map": ""
+}

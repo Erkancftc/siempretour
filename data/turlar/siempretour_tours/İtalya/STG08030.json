@@ -1,0 +1,65 @@
+{
+  "destination": "İtalya",
+  "mainPhoto": "",
+  "id": "STG08030",
+  "tourName": "MSC Fantasia ile Batı Akdeniz - 02.Ağustos.2020 (Kurban Bayramı)",
+  "placesVisited": "İtalya, İspanya, Fransa",
+  "generalInfo": "Civitavecchia, Palermo, Cagliari, Palma de Mallorca, Valenciya, Marsilya, Cenova, Civitavecchia",
+  "durationDays": "8",
+  "price": "1399",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p>* Türk Havayolları ile ekonomi sınıfı IST-ROMA-IST      Uçuşlar<br/>\r\n* Gemide   7 gece tam pansiyon konaklama<br/>\r\n* Havaalanı - liman - havaalanı transferleri<br/>\r\n* Türkçe rehberlik hizmeti<br/>\r\n* Gemide düzenlenen  ücretsiz animasyon ve şovlar<br/>\r\n* Kaptanın hoşgeldin partisi ve gala yemeği<br/>\r\n* Havalimanı ve liman vergileri<br/>\r\n* Yurtdışı Seyahat Sağlık ve İptal Sigortası</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Civitavecchia/ROMA (İtalya)",
+      "description": "Civitavecchia/ROMA (İtalya)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "Palermo (Sicilya)",
+      "description": "Palermo (Sicilya)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Cagliari (Sardinya)",
+      "description": "Cagliari (Sardinya)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "Palma de Mallorca (Balear Adaları)",
+      "description": "Palma de Mallorca (Balear Adaları)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "Valenciya (İspanya)",
+      "description": "Valenciya (İspanya)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Marsilya (Fransa)",
+      "description": "Marsilya (Fransa)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "Cenova / Portofino (İtalya)",
+      "description": "Cenova / Portofino (İtalya)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "Civitavecchia/ROMA (İtalya)",
+      "description": "Civitavecchia/ROMA (İtalya)"
+    }
+  ],
+  "map": ""
+}

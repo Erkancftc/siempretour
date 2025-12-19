@@ -1,0 +1,65 @@
+{
+  "destination": "Panama",
+  "mainPhoto": "",
+  "id": "romantic-panama-honeymoon-vacation-tropical-beaches-boat-excursion-wildlife-more",
+  "tourName": "Romantic Panama Honeymoon Vacation: Tropical Beaches, Boat Excursion, Wildlife & More",
+  "placesVisited": "Panama City, Gulf of Chiriqui, Isla Palenque, Monkey Island",
+  "generalInfo": "Your 8-day Panama honeymoon vacation is an immersion into a tropical fantasy. Relax on pristine beaches on a secluded island, embrace the treasured charms of colonial architecture, and bask in natural beauty during an island-hopping excursion. From coastal beauty to luxurious accommodations, secret hiking trails to dreamy coral gardens, you will create everlasting memories with your enchanting honeymoon in Panama.",
+  "durationDays": "8",
+  "price": "3,000",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Panama City - Arrive in a Tropical Romantic Ambiance",
+      "description": "Panama City has a romantic touch, with greenery thriving among the protected corners that edge the cityâs borders. Preserved colonial architecture offers colorful facades lining the streets of Casco Viejo, the historic neighborhood. Upon arrival, your transfer will meet you at the airport and escort you to the comforts of your centrally located accommodations. Settle into the city at your leisure and take your time getting comfortable, from visiting the shoreline to walking along the Paseo de las BÃ³vedas, the old seawall known for the briny scent of the sea breeze, the vibrant artisan crafts sold by vendors along the lane, and views of Downtownâs shimmering glass high-rises."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Panama City - Explore the Wonders of Panama City",
+      "description": "The tropical ambiance of Panama City can feel captivating, immersing you in the combination of natural beauty and civil wonder as you make your way to the Panama Canal at the Miraflores Locks. The engineering marvel spans over 50 miles long, with waters rising to nearly 65 feet, depending on the tides. You may board a vessel as it travels through the locks to experience a portion of the Panama Canal and see how it has made trade more accessible and faster between the Atlantic and Pacific. You may continue to Monkey Island and enjoy the lush foliage, quiet waters, and boisterous sounds of four species of monkeys populating the island. You may see white-faced capuchin monkeys moving through the trees or listen to the guttural call of howler monkeys hidden in the canopy."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Isla Palenque - Embrace Island Luxuries and Seclusio",
+      "description": "Isla Palenque promises the ideal romance on a secluded island as part of the Boca Chica archipelago. Your transfer will meet you at the hotel in the morning and escort you to the airport. The boat ride along the waters of the Gulf of Chiriqui will open your eyes to the crystal-clear azure waters of the Pacific before you change to a panorama of towering palm trees and golden sands of your tropical island paradise. Relax in the comforting breeze rustling the palm fronds and the aroma of the sea. The water laps at the coastline and sustainability becomes a luxurious practice with your accommodationâs position far from the bustle of more developed towns."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Isla Palenque - Delight in the Island at Your Leisure",
+      "description": "Embrace the dream-like beauty of your island paradise with a day at leisure. Spend time exploring the waters or lounging on the soft sands among the seven celebrated beaches for which the island is known. If you and your partner prefer the sound of crashing waves and the quiet of an isolated corner, you can visit the tidal pools at Cala Este or listen for toucans and parrots in the lush jungle canopy as you lounge on the warm sands. You may be able to partake in a romantic seaside picnic for an intimate and unforgettable oceanside moment. Dip your toes into the cool water for a refreshing change before returning to your resort or continuing on to Playa Catalina for a kayaking excursion on the islandâs calmest bay."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Isla Palenque - Search for Life Beneath the Waves",
+      "description": "You can return to the beach and venture further into the water with a guided snorkel tour around the Gulf of Chiriqui. The protected marine park spreads across more than 34,500 acres providing refuge for coral reefs, mangrove forests, sea turtles, and migrating whales. As you sail, the mixture of sunlight and sea breeze can create perfect conditions against the backdrop of passing islands. The boat may weigh anchor at the edge of a coral garden where you can dive into the water in search of sea turtles feeding on the waving sea grass or pods of dolphins passing in the distance."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Isla Palenque - Further Explore your Majestic Island",
+      "description": "The wonders of Isla Palenque will continue to mesmerize you with another day at your leisure to explore at your pace. You may choose to return to the beaches, take another kayak excursion along the shoreline, or set out into the island interior to follow the jungle trails that expose a secret side of the island. Enjoy a tour with a guide to travel through the maze of primary forests to reveal a different perspective of tropical beauty. Listen to stories of folklore, learning how the islands came into being as you uncover touches of community history dating back centuries while also finding stunning panoramas of the coastline."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Panama City - Return to Panama City",
+      "description": "With so many wonderful experiences to enjoy on Isla Palenque, it may be challenging to return to the faster pace of Panama City. If you have time, you may choose to enjoy a whale watching tour, setting out into the water with your guide, this time in search of some of the best places to glimpse the pods of humpback whales bursting clouds of spray up to three-feet high or breaching out of the water and crashing down with an incredible splash. When you return to the city, your transfer will escort you to your accommodation, where you can relax or explore at your pace for the remainder of the day."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Panama City - Depart for Home",
+      "description": "You may find the aromas of Panamanian coffee drifting out of the cafes in the morning or the scent of traditional cookies known as orejitas emerging from the bakeries around sunrise. Your transfer will greet you in the hotel lobby when you are ready and escort you to the international airport for your flight home. You can always extend your time in Panama or further explore Central America's charms, romance, and beauty."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,70 @@
+{
+  "destination": "Arjantin",
+  "mainPhoto": "",
+  "id": "TMNA",
+  "tourName": "Kuzey Arjantin",
+  "placesVisited": "Arjantin",
+  "generalInfo": "Kuzey Arjantin’ de alışılmışın dışında turistik bir macera. Seçkin üzüm bağlarını kuru çöl peyzajlarıyla bir araya getirin ve muhteşem yürüyüş fırsatlarının keyfini yaşayın.<br><br><strong>Önemli not:</strong>  Tur programı model bir programdır ve ihtiyaçlarınıza, bütçenize uygun hale getirilebilir.",
+  "durationDays": "10",
+  "price": "2329",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "<p><strong>Tur ve Aktiviteler</strong></p>\n<ul>\n<li>- Salta şehir turu</li>\n<li>- Cardones ulusal parkı</li>\n<li>- Isasmendi ve Miraluna şaraphane ziyareti</li>\n<li>- Tacuil şaraphanesi ve Colome bağları ziyareti</li>\n<li>- Quilmes kalıntıları ve Pachamama müzesi ziyareti</li>\n<li>- Puna Atacama bölgesinde geziler</li>\n</ul>\n<p><strong>Konaklama</strong></p>\n<p>Otelde 5 gece, kulübede 4  gece</p>\n<p><strong>Yemekler</strong></p>\n<p>9 kahvaltı</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Salta' ya Varış",
+      "description": "Salta kuzeybatı Arjantin’ de Andların etekleri ve bereketli yeşil vadilerle çevrili, İspanyol mimarisini oldukça iyi korumuş bir koloni şehridir. Salta havaalanına vardığınızda şehirdeki otele özel transferiniz için rehberinizle buluşacaksınız. Otele yerleştikten sonra Salta’ yı gezip şehrin bazı ilgi çekici yerlerini görebileceğiniz sakin bir yürüyüşe çıkacaksınız. Önce ana meydan Plaza 9 de Julio’ yu ziyaret edip ana katedral, fotojenik San Francisco kilisesi ve San Bernardo manastırı gibi şehirdeki tarihi koloni yapılarını göreceksiniz."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Cardones Ulusal Parkı, Cachı",
+      "description": "Dağların  yükseklerine Salta’ nın tarım bölgesi Cachi’ ye doğru seyahat ediyoruz. Kıvrımlı yollardan yukarı doğru eşsiz manzaralar eşliğinde yolculuğun keyfini yaşadıktan sonra deniz seviyesinden 3457 m yüksekteki bir patikadan geçeceğiz. Yol üzerinde bacaklarınızı açmak için dev kaktüslere ev sahipliği yapan Cardones ulusal parkında duracağız."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Molinos",
+      "description": "Yüksek bölge şaraplarının merkezi olarak bilinen sakin Molinos köyüne seyahat ediyoruz. 1810’ dan beri çalışan ve küçük bir aile şirketi olan şaraphaneyi ziyaret edeceğiniz Bodega Tacuil’ e gideceğiz. 2597 m.  yükseklikte yetişen üzümlerden üretilen bu şaraplar gerçekten eşsizdir. Öğleden sonra dünyanın en yüksek üzüm bağı olan Bodega Colome’ yi ziyaret edeceksiniz. Buradaki şarap mahzenini ziyaret edin, bazı farklı 1. kalite şarapları tadın ve James Turrell müzesinde sergilenen çarpıcı modern sanat koleksiyonunu görün."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Cafayate",
+      "description": "Yol boyunca küçük köylerden geçerek araçla Cafayate’ ye ilerliyoruz. Ayrıca güzel kaya oluşumları ve derin kanyonları görebileceğiniz Quebrada de las Flecas çölünden geçeceğiz. Cafayate’ ye vardıktan sonra farklı birçok şarabı tadıp nefis öğle yemeğinin keyfini çıkarmak için bazı bağları ziyaret edeceksiniz. Akşam Cafayate’ nin atmosferik şehir meydanını görmek üzere serbest olacaksınız ve zamanlamaya bağlı olarak şehirdeki harika şarap müzesini ziyaret edebilirsiniz."
+    },
+    {
+      "dayNumber": 6,
+      "title": "El Penon (Puna De Atacama)",
+      "description": "Puna de Atacama nın muhteşem yerleşkesi küçük vaha El Penon’ a alışılmışın dışında bir seyahat yapıyoruz. Yol üzerinde Quilmes harabelerinde ve Pachamama müzesinde duracağız. Quilmes kalıntıları Arjantin’ deki en büyük Kolombiya öncesi yerleşim yeriydi. Pachamama müzesi ise özgün yerlilerin yaşamlarına dair ipuçları veren duvar dokumaları, resimler ve heykeller ile ünlüdür."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Campo De Pıedra Pomez, Laguna Grande (Punade Atacama)",
+      "description": "Puna de Atacama’ dan geçerek maceranız devam ediyor. Bu sabah tuhaf volkanik süngertaşı kayalarından oluşan bölge Campo de Piedra Pomez’ i ziyaret edeceğiz. Arjantin’ in bu uzak ve çorak yer şeklindeki beyaz dev kum tepelerine hayran kalacaksınız. Öğleden sonra ise deniz seviyesinden 4150 m.  yükseklikteki tuzlu su gölü Laguna Grande’ ye gideceğiz. Burası Puma flamingolarının yanı sıra diğer kalabalık And ve güney flamingo sürülerine ev sahipliği yapar."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Antofalla Vahası, Calalaste (Puna De Atacama)",
+      "description": "Çölün ortasında bulunan güzel vaha bölgesi Antofalla’ ya seyahat ediyoruz. Burada küçük bir insan topluluğu yaşar ve tuzlu su gölü yüzeyindeki yolculuğumuz öncesi öğle yemeği için burada duracağız. Araçla 4200 m yüksekliğe ilerleyerek muhteşem manzaralara tanık olacağız. Antofalla volkanını ve lamaların otladığı Vega Colorado yeşil alanını göreceksiniz."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Mına Casualıdad, Rıo Grande, Tolar Grande (Puna De Atacama)",
+      "description": "Alışılmışın dışında turist rotasından Arjantin’ in en uzak köşelerinden birine  seyahat ediyoruz. Gezegendeki en yüksek volkanlardan bazılarının çevrelediği terk edilmiş bir maden olan hayalet kasaba Mina Casualidad ‘ ı ziyaret edeceğiz. Terkedilmiş olduğu halde Puna çölünün muhteşem manzaralarına hakim olan eski tren istasyonunu göreceğiz. Geçek üstü yer şekilleriyle çevrili Tolar Grande köyünü de ziyaret etme fırsatınız olacak. Dünyanın en büyük tuz düzlüklerinden birini keşfedecek ve çölün ortasında gizlenmiş bir kum tepesine yürüyüş yapacaksınız. Bu tepenin üzerinden Macon dağı ve Llllaillaco volkanının panoramik görüntülerinin keyfini yaşayabilirsiniz."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Salta' dan Ayrılış",
+      "description": "Ömrünüz boyunca unutamayacağınız bir macera  bugün sona eriyor. Eğer geç saatte bir uçuşunuz varsa ya da konaklamanızı ve kalış sürenizi uzatırsanız şehri daha fazla gezmek için ekstra zamanınız olacak."
+    }
+  ],
+  "map": ""
+}

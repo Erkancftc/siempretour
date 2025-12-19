@@ -1,0 +1,70 @@
+{
+  "destination": "Germany",
+  "mainPhoto": "",
+  "id": "germany-tour-for-couples-enchanting-countrysides-quaint-villages-and-more",
+  "tourName": "Germany Tour for Couples: Enchanting Countrysides, Quaint Villages, and More",
+  "placesVisited": "Munich, Rhine Valley, Rothenburg, Fussen",
+  "generalInfo": "Indulge in a 9-day journey across Germany that has handcrafted for couples. Bask in the Rhine Valley, explore the Romantic Road, uncover Bavariaâs castles on after-hours tours, and feast on Munichâs delights. Focused on Germanyâs most amorous locations, this is a luxurious itinerary that combines beautiful sights with plenty of seclusion. You can expect to enjoy all the space and solitude to celebrate together.",
+  "durationDays": "9",
+  "price": "4,400",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Rhine Valley - Silence and Endless Views",
+      "description": "After landing in Frankfurt, you will be greeted by a guide and transferred to the Rhine Valley, where your chalet stands beside the river. Your resort will be cut off from the world with only the sound of water trickling past. You can settle into each otherâs company and forget about everything else. A small village is located about ten minutes away on foot, which is a place where you can find a couple of bars. You can also have food delivered to you, which may be a more enticing alternative after an international flight."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Rhine Valley - Wine Tasting and Picnic",
+      "description": "After a long morning in bed, you will spend most of the day on the river, cruising past castle ruins and rolling vineyards. You can pop a cork on the private boat as the Rhine Valley reveals itself. Eventually, you will dock at a vineyard for a private wine tasting that includes some of the countryâs most celebrated white wines. Then you will travel onward to a ruined fort, which will be the perfect place for a picnic in private. While hundreds cram onto the big tourist boats, it will just be the two of you and a skipper for a second relaxing day along the Rhine."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Rothenburg - Journey along the Romantic Road",
+      "description": "You can drive on your own along the Romantic Road, but this is a vacation, so you should leave the driving to somebody else. You will travel slowly with a driver-guide. First, you will stop in Wurzburg, which is a Baroque city that has been made famous for its incredible wine. Then you will venture to the castles and along backroads to Rothenburg, which is an enchanting town of half-timbered houses and cobbled streets. Here, you can wander hand in hand along the narrow streets, feast your senses on the medieval allure, and return to your Rothenburg hideout."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Fussen - Immersed in Medieval History",
+      "description": "Rothenburg to Fussen is the most iconic stretch of Germanyâs Romantic Road; it is a fairytale journey that connects trading towns from the Middle Ages and medieval period. This drive can be customized to your interests so that you can move at your preferred pace. You will pass through delightful villages, stroll around Roman housing complexes, take a look into a castle, and absorb all the magnificent views. It is so peaceful and quiet along the road. In Fussen, you will have an old-world-style hotel in the old town."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Fussen - A Free Day to Indulge in Old Bavaria",
+      "description": "A romantic itinerary cannot spend too much time with guides. Today will be left entirely free because the highlight of most amorous trips is alone time. Hundreds of traditional red-tiled-roof houses fill Fussenâs center. You can wander the charming lanes, cross the open squares, get drinks on cafe terraces, and generally do nothing at all. Fussen is on a river, so there will also be the option to wander off into a forest and find a quiet place along the water."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Fussen - The Fairytale Castles of Old Bavaria",
+      "description": "Majestic mountains spiral around Fussen, and the best of the Bavarian Alps set the stage for the regionâs magnificent castles. After a free morning in Fussen, you will spend the afternoon with a local guide, exploring two very different castles. Part of your experience will be the drive and scenery, especially because it is a private tour. When Neuschwanstein closes for the day and the tourist masses have filed away, you will ascend to the castle that inspired Cinderella for a private visit. It is far more romantic when you visit in private."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Munich - Exclusive Palace Access",
+      "description": "Another relaxing morning will be followed by a transfer to Munich, where your hotel will provide you with contemporary five-star luxury. After some old-world accommodations along the Romantic Road, this will be a change in accommodation style to complete your trip. This afternoon, you will explore Munich with a local guide, focusing on intricate architecture and Bavarian history. Nymphenburg Palace is the cityâs most famous site, and like Neuschwanstein, you will enjoy exclusive after-hours access. It is just so much more impressive without other tourists because you can get lost in the arcades, corridors, and quarters."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Munich - Five-Star Gratification",
+      "description": "This day will be left free. With such an excellent hotel to enjoy, you will probably not rise early. You can order breakfast to the room, open the curtains for a grand view onto old Munich, and spend the day as you please. This is a great city to explore without a map, as fountains and fabulous townhouses offer highlights at almost every turn. Munich is also a great place to dine, and your guide can arrange reservations for the best fine dining spots in a culinary city."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Munich - Departure",
+      "description": "You can savor the hotel facilities for one final morning before you check out late and are transferred to Munichâs international airport for your outbound flight."
+    }
+  ],
+  "map": ""
+}

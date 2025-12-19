@@ -1,0 +1,95 @@
+{
+  "destination": "Japan",
+  "mainPhoto": "",
+  "id": "highlights-and-hidden-treasures-of-japan-tour",
+  "tourName": "Highlights and Hidden Treasures of Japan Tour",
+  "placesVisited": "Tokyo, Kyoto, Hakone, Miyajima, Hiroshima, Ishigaki-jima",
+  "generalInfo": "Japan is a nation that evokes a sense of wonder, and on this 14-day journey, you will discover many of the incredible places this magical country has to offer. From metropolitan Tokyo to traditional Kyoto and from the thought-provoking Hiroshima to the tropical beaches of Ishigaki, you will discover that Japan is a many-faceted wonder.",
+  "durationDays": "14",
+  "price": "9,700",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Tokyo - Arrive in the Capital of Japan",
+      "description": "Upon your arrival at Narita Airport, you will transfer to Tokyo by public transport. This is a dynamic city with a long history that has beguiled visitors and locals alike for centuries. Depending on your time of arrival, you may wish to head out for some independent exploration or rest from your long journey. Regardless, you will have the day to spend at your leisure."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Tokyo - Eat Your Way through Tokyo",
+      "description": "Japan has been heralded as one of the greatest destinations for food throughout the world. Today, you will explore its incredible street food scene with your guide. Your guide will lead you off the beaten path to eateries that only locals visit. From okonomiyaki to tonkatsu, there is something for everyone to enjoy. Your guide can even tailor your visit to your specific tastes. In the evening, you can enjoy dinner at a local yakitori restaurant."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Tokyo - Explore Tokyo at Your Own Pace",
+      "description": "Today will be completely flexible, and your guide will discuss your options for touring before you begin the day. Tokyo is a city of over 13 million people with so much to see and do. You may wish to learn about the history of the city, which was formerly known as Edo, during a visit to the Meiji Shrine. You can also wander the gardens of the Imperial Palace or visit the Mori Art Center."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Tokyo - Dine with Robots",
+      "description": "This morning and afternoon will be yours to enjoy at your leisure. You can venture to the neighborhood of Harajuku for shopping and people-watching or explore the high-end shops of Omotesando. In the evening, you will enjoy an unforgettable meal and a show put on by Robots. A technological marvel, this will be a singular experience that you will remember for the rest of your lives."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Hakone - Hot Springs and Tradition",
+      "description": "After breakfast, you will make your way to Hakone, an excellent setting to enjoy the tradition of the onsen hot springs. After four days in the bustling metropolis of Tokyo, you will get to relax and luxuriate in the slower pace of life. You can also take a leisurely walk along the old Tokaido Highway, an important route that connected Kyoto and Edo. You will also ride the Tozan Railway through the beautiful mountains and visit the expansive Lake Ashinoko. Eventually, you will return to Hakone for the evening."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Kyoto - Step into the Past in Kyoto",
+      "description": "Today, you will depart Hakone and make your way to Kyoto, the former seat of the Imperial Court. Kyoto is known for its Gion district, where maiko and geiko still wear traditional kimono. The temples and palaces of the city are also renowned and make Kyoto a must-visit for first-time visitors to Japan. After your arrival, you will check in to your accommodation and explore the area independently. Kyoto is peaceful, pedestrian-friendly, and perfect for an introductory stroll."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Kyoto - From Temples to Geiko",
+      "description": "This morning, you will meet your guide and head out for a flexible tour of Kyoto. Kyotoâs most famous landmark may be the Kinkaku-ji Zen Buddhist temple. Its gilded exterior and position of being nestled in the trees create a dramatic scene. You can venture up to Kiyomizu-dera, a UNESCO-listed temple with incredible views. At the end of the day, you will experience a traditional tea ceremony, which will prove to be the perfect conclusion to a beautiful day."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Kyoto - Enjoy a Trip to Nara",
+      "description": "Nara was the first capital of Imperial Japan from 710 to 784 AD. To this day, the city evokes a sense of wonder and history of a bygone era. You will depart Kyoto for a day-trip to this magnificent place. Here, you will visit the Todai-ji and Horyuji temples among other sites. You should not forget to say hello to the resident deer, but these docile-looking creatures can get a bit snippy."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Miyajima - Discover a Jewel on the Sea",
+      "description": "After breakfast, you will make your way to Miyajima by train and ferry. The name Miyajima literally translates to shrine island, and the island is the ideal confluence of art, architecture, and nature. You will explore this wondrous island with your guide and visit the Itsukushima Shrine and others. The shrine is perched on the water and connects with the torii gates that dot the inlet."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Hiroshima - A Somber History",
+      "description": "Today, you will make your way to Hiroshima, the first city to witness the destruction of the atomic bomb in WWII. Through a contemporary lens, you will learn about this place and the aftermath of the bombing in addition to visiting the Peace Museum and Park. You will also discover a vibrant city that has developed into a thriving place to live for its citizens. You can also enjoy the Shukkein Garden, a quiet place to pause and reflect. Afterward, you will walk under the bright lights of the Hondori Arcade before having the evening to enjoy at your leisure."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Ishigaki - The Southern Islands of Japan",
+      "description": "Today, you will fly to Ishigaki, one of Japanâs tropical islands just south of Okinawa. Upon your arrival, you will be transferred to your resort for three days of beach relaxation. The culture of Ishigaki, from language to customs to food, developed separately from the rest of Japan. Once you check in, you can settle in and enjoy the sun, sand, and azure water of the island."
+    },
+    {
+      "dayNumber": "12",
+      "title": "Ishigaki - Luxuriate on the Beach",
+      "description": "The next two days will be at leisure to enjoy Ishigaki at your own pace. You may wish to simply lay on the beach with a nice book or explore the island a bit. From snorkeling to kayaking, there is so much to do and enjoy in this sunny slice of paradise."
+    },
+    {
+      "dayNumber": "13",
+      "title": "Ishigaki - Reminisce in Tropical Comfort",
+      "description": "Your last full day in Japan will be yours to do as much or as little as you wish. From Kabira Park, you can take in the views of the water with its spectacular blue color and white-sand beaches. Having seen so many different aspects of Japan, you can pause to reflect on the impressions she leaves you with and perhaps begin planning another trip because there is so very much to see and love about this incredible country."
+    },
+    {
+      "dayNumber": "14",
+      "title": "Ishigaki - Departure",
+      "description": "This morning, you will have some last moments to spend in the idyllic island environment before being transferred to the airport for your international departure flight."
+    }
+  ],
+  "map": ""
+}

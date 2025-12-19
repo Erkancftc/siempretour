@@ -1,0 +1,65 @@
+{
+  "destination": "İzlanda",
+  "mainPhoto": "",
+  "id": "RICNL",
+  "tourName": "Kuzey Işıkları",
+  "placesVisited": "İzlanda",
+  "generalInfo": "Sekiz gün içinde, muhteşem Kuzey Işıklarını görme şansınızı en üst düzeye çıkarın ve ek olarak İzlanda'nın önemli noktalarından bazılarını da görün. Aktif volkanları keşfedin, şelalelere hayran olun, İzlandalı atları görün ve Mavi Lagün'ün rahatlatıcı ılık sularına dalın. Bu fırtına gibi İzlanda maceramızda, özel seçilmiş otellerde kalarak, kuzey ışıklarını kovalıyoruz.<br><br><strong>En Yakın Uluslararası Havaalanı (Başlangıç Noktası):</strong> Keflavík Uluslararası Havaalanı (KEF)",
+  "durationDays": "8",
+  "price": "2800",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "30",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Geziler &amp; Aktiviteler</strong></p>\n<ul>\n<li>* Bu turda Kuzey Işıklarını görmek için altı fırsat var</li>\n<li>* FlyBUS servis otobüsleri ile havaalanı transferi - geliş  </li>\n<li>* Breiðafjörður Fiyort Gezisi</li>\n<li>* İzlanda’ya Özgü At Ahırları ve Jeotermal Seralar gezisi</li>\n<li>* Eyjafjallajökull Volkanı Bilgi Merkezi</li>\n<li>* Skogar Halk Müzesi ve Çim Evler girişi</li>\n<li>* Mavi Lagün Gezisi</li>\n<li>* FlyBUS servis otobüsleri ile havaalanı transferi – dönüş</li>\n</ul>\n<p><strong>Konaklama</strong></p>\n<p>Otellerde 7 gece</p>\n<p><strong>Ulaşım</strong></p>\n<p>Özel araç</p>\n<p><strong>Yemekler</strong></p>\n<p>7 kahvaltı, 1 akşam yemeği</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Reykjavik’e Varış",
+      "description": "Keflavik Havaalanı'na varışta, Reykjavík'teki konaklama yerine transfer yapılacak. İlk gece boş zamanınızda başkenti keşfedin. Rengi, kültürü ve yaratıcılığı olan şehri yürüyerek kolayca keşfedebilirsiniz. Geleneksel İzlanda mutfağının örneklerini bulabileceğiniz çok sayıda restoranın yanı sıra hareketli bar ve kafeler bulunmakta."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Saga Valley & Borgarnes",
+      "description": "Grubunuz ve tur liderinizle saat 9'da buluştuktan sonra maceramız başlıyor. İzlanda’nın başkentinde yapacağımız hızlı bir turla şehrin önemli yerlerini görüyoruz. Reykjavík'ten batıya doğru hareket ederek ilk durağımız olan Saga Vadisi’ne ulaşıyoruz. Burada İzlanda’nın harika manzaralarının tadını çıkarmaya başlayın. Grábrok Yanardağı kraterine tırmanma fırsatınımız var ve Avrupa’nın en güçlü kaplıcası Deildartunguhver’i geziyoruz. Geniş bir lav alanından dökülen bir dizi muhteşem şelaleye ev sahipliği yapan Hraunfossar'ı ziyaret ediyoruz."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Borgarnes",
+      "description": "Borgarnes’den hareketle, turumuza dahil olan Breiðafjörður fiyortu gezintisinin tadını çıkarabileceğiniz, balıkçı kasabası Stykkishólmur'a gidiyoruz. Dağlar ve buzullarla çevrili Breifafjörður, Snæfellsnes yarımadasını ve Batı Fiyordu yarımadasını ayıran sığ bir koy. Güvertede durun ve çevredeki adaların, fiyortların ve koyların doğal manzarasının tadını çıkarın, bir yandan da gökyüzünde gezen muhteşem kuş türlerine dikkat edin!"
+    },
+    {
+      "dayNumber": 4,
+      "title": "Selfoss",
+      "description": "Bugün birkaç durakta mola vererek, Hossfjörður fiyortu boyunca Selfoss'a doğru ilerliyoruz. UNESCO Dünya Mirası listesindeki Þingvellir Milli Parkı'na gitmeden önce İzlanda’ya ait bir yün outlet mağazasında duruyoruz. İzlanda'nın tarihi olaylarının çoğu 'Parlamento Ovaları'na dönüştürülmüş bu yerde gerçekleşti. Buharlı gayzer jeotermal sahalarından geçen Altın Döngü güzergahı boyunca devam ediyoruz. Birçok kaplıcaları keşfedin ve her 10 dakikada bir patlayan Strokkur 'the Churn' u ziyaret edin! İzlanda usulü tereyağlı ve jeotermalde kaynatılmış yumurtaların tadına bakın. Gerçek bir İzlanda deneyimi için buzlu soğuk bardağı Schnapps Gayzeri ile yıkayın!"
+    },
+    {
+      "dayNumber": 5,
+      "title": "Kirkjubajarklaustur",
+      "description": "İzlanda’nın güney kıyılarına doğru giderken, Eyjafjallajökull Volkanı Bilgi Merkezi’nde duruyoruz. Burada insanların aktif bir yanardağ ve buzulun yanında nasıl yaşadıklarını ve çevredeki manzara üzerindeki etkisi öğrenin. Sonrasında, ülkenin tarım geçmişinden gelen yığınla eserle dolu İrlanda’ya özgü halk müzesini geziyoruz. Öğleden sonra, Vatnajökull Milli Parkı bölgesindeki Kirkjubæjarklaustur yakınındaki otelimize gitmeden önce siyah lav plajı ve Reynisfjara'daki kuş uçurumları boyunca yürüyüşe çıkıyoruz."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Jökulsárlón, Skaftafell National Park & Kirkjubajarklaustur",
+      "description": "Kirkjubæjarklaustur yakınlarındaki üssümüzden, yüzen buzdağları ve kutup sularıyla ünlü bir buzul gölü olan Jökulsárlón'u keşfediyoruz. Buralarda yüzen foklar olabilir, gözünü dört açın ve buzdağlarının bazen karaya oturduğu siyah kumlu plaj boyunca yürüyün."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Reykjavik",
+      "description": "Reykjavík'e dönerken Vík köyünde fotoğraf molası veriyoruz. Buradaki siyah kum plajından yüksek kuş uçurumlarına karşı düşen dalgaları izleyin. Ardından dar bir şekilde dökülen 60 metreye Seljalandsfoss şelalesini ziyaret ediyoruz. Öğleden sonra başkentte geri dönüyoruz. Bu sayede şehri keşfetmeye ve sona kalan hediyelik eşyalarınızı tamamlamaya zaman ayırın. Gece, geleneksel bir İzlanda akşam yemeğinden önce sıcak sularda ıslanabileceğiniz ünlü Mavi Lagün'ü ziyaret edeceğiz. Bu, Kuzey Işıklarının en iyi fotoğrafını tüm ihtişamlarıyla elde etmek için son geceniz olacak!"
+    },
+    {
+      "dayNumber": 8,
+      "title": "Reykjavik'den Ayrılış",
+      "description": "Hayatınızın macerası bugün sona eriyor. Geç vakitte bir uçuşunuz varsa veya tur sonrası konaklama ekleyerek konaklamanızı uzattıysanız görülesi yerleri keşfetmek için daha fazla zamanınız olacak."
+    }
+  ],
+  "map": ""
+}

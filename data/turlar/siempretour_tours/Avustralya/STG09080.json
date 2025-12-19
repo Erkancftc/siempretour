@@ -1,0 +1,110 @@
+{
+  "destination": "Avustralya",
+  "mainPhoto": "",
+  "id": "STG09080",
+  "tourName": "Radiance Of The Seas ile Avustralya & Yeni Zelanda - 12.Mart.2020",
+  "placesVisited": "Avustralya, Yeni Zelanda",
+  "generalInfo": "Radiance of the Seas, filomuzdaki en iyi panoramik manzaraya sahip gemilerden biridir. 3 havuz, bir Kaya Tırmanışı Duvarı, mini golf sahası, koşu parkuru ve daha fazlası ile eğlenceli vakit geçireceksiniz. Basamaklı şelaleler, yetişkinlere özel solaryum, Broadway tarzı şovlar, Casino Royal ve heyecan verici mekanlar sizi cezbedecek.",
+  "durationDays": "17",
+  "price": "FİYAT İSTEYİNİZ",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li>* Katar Havayolları ile Sabiha Gökçen – Sydney // Sydney -  Sabiha Gökçen arası Doha aktarmalı ekonomi sınıfı uçak bileti</li>\n<li>* Havalimanı-liman-havalimanı arasındaki tüm transferler;</li>\n<li>* Havalimanı ve Liman vergileri <strong>6,900 TL</strong></li>\n<li><strong>*</strong><strong> </strong>Sydney’de otelde bir gece kahvaltı dahil konaklama</li>\n<li>* Radiance Of The Seas gemisinde 13 gece 14 gün tam pansiyon konaklama;</li>\n<li>* Gemide düzenlenen animasyon ve aktiviteler</li>\n<li><strong>* </strong>Türkçe rehberlik hizmeti <strong>(Grup kişi sayısı 20’yi aştığı takdirde)</strong></li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Sidney (Avustralya)",
+      "description": "Sabiha Gökçen Havalimanı buluşmasının ardından Katar Hava Yolları ile Sydney’e hareket."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Sidney (Avustralya)",
+      "description": "Varışı takiben otele transfer"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Sidney (Avustralya)",
+      "description": "Hareket Saati : 16:30"
+    },
+    {
+      "dayNumber": 4,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 6,
+      "title": "Milford Sound (Yeni Zelanda)",
+      "description": "Varış Saati : 08:00"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Doubtful Sound (Yeni Zelanda)",
+      "description": "Varış Saati : 13:00"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Dusky Sound (Yeni Zelanda)",
+      "description": "Varış Saati : 16:00"
+    },
+    {
+      "dayNumber": 7,
+      "title": "Dunedin (Yeni Zelanda)",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 8,
+      "title": "Akaroa (Yeni Zelanda)",
+      "description": "Varış Saati : 08:00"
+    },
+    {
+      "dayNumber": 9,
+      "title": "Wellington (Yeni Zelanda)",
+      "description": "Varış Saati : 08:00"
+    },
+    {
+      "dayNumber": 10,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 11,
+      "title": "Tauranga (Yeni Zelanda)",
+      "description": "Varış Saati : 09:15"
+    },
+    {
+      "dayNumber": 12,
+      "title": "Auckland (Yeni Zelanda)",
+      "description": "Varış Saati : 08:00"
+    },
+    {
+      "dayNumber": 13,
+      "title": "Bay Of Islands (Yeni Zelanda)",
+      "description": "Varış Saati : 08:00"
+    },
+    {
+      "dayNumber": 13,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 15,
+      "title": "Sidney (Avustralya)",
+      "description": "Varış Saati : 06:30"
+    },
+    {
+      "dayNumber": 16,
+      "title": "İstanbul' a Varış",
+      "description": ""
+    }
+  ],
+  "map": ""
+}

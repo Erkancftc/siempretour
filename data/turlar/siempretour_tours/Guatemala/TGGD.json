@@ -1,0 +1,70 @@
+{
+  "destination": "Guatemala",
+  "mainPhoto": "",
+  "id": "TGGD",
+  "tourName": "Guatemala City’ den Antigua’ ya",
+  "placesVisited": "Guatemala",
+  "generalInfo": "Orta Amerika’ nın kalbi, bölgenin en büyük ve en iyi korunmuş kayıp Maya şehirlerinden biri olan Tikal’ in yanı sıra yemyeşil ormanları ve göz alıcı gölleri de içine alıyor. Bu canlı bölgenin çağdaş kültürü de aynı derecede büyüleyicidir ve yerel insanlarla tanışma, canlı pazarlarda harika el sanatları ürünleri satın alma, güzel sömürge kasabalarını keşfetme ve etrafındaki muhteşem manzaraları keşfetme şansınız olacak.<br><br><strong>Lütfen dikkat:</strong> Bu bir örnek güzergâhtır ve kendi kişisel gereksinimlerinize ve bütçenize göre uyarlanabilir.",
+  "durationDays": "9",
+  "price": "1739",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Geziler ve aktiviteler: </strong></p>\n<ul>\n<li>- Guatemala şehri turu</li>\n<li>- Rehberli Tikal turu</li>\n<li>- Atitlan Gölü tekne turu</li>\n<li>- Chichicastenango pazarı</li>\n<li>- Antigua turu</li>\n</ul>\n<p><strong>Konaklama:</strong> </p>\n<p>Otellerde 8 gece</p>\n<p><strong>Taşıma:</strong> </p>\n<p>2 uçuş, özel araç</p>\n<p><strong>Yemekler:</strong> </p>\n<p>8 kahvaltı, 1 öğle yemeği</p>\n<p><strong>Diğerleri: </strong></p>\n<p>Siempre Tour tur lideri</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Guatemala City’ e Varış",
+      "description": "Guatemala, Maya dünyasının göbeğindeydi ve tarihe onurlu gelenekleri ve kültürüyle damga vurmuştur. Çoğu köylü Kolomb öncesi dönemlerden beri çok az değişiklik gösteren geleneksel bir yaşam sürüyor ve hala zengin dokunmuş kostümler, renkleri ve tasarımlarıyla yer yer farklılıklar gösteriyor. Manzara nefes kesicidir - volkanik manzaralar, ormanla kaplı volkanlar ve tropikal yağmur ormanları ile çevrili güzel göller, çoğu eski uygarlıklardan gelen geniş kompleksleri gizliyor. İspanyollar da başta Antigua’ da olmak üzere gölgeli meydanları ve sömürge evleri ve avlularıyla izler bıraktılar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Guatemala Şehir turu ve Tikal",
+      "description": "Bu sabah Guatemala Şehri özel rehberli turu için otelinizden alınacaksınız. Popol Vuh Müzesi, Ixchel Müzesi, Rölyef Haritası ve Civic Centre’ a gireceksiniz. Daha sonra Flores’ e uçmak için havalimanına transfer edileceksiniz. Varışta karşılanacak ve Tikal Milli Parkı’ ndaki otelinize transfer edileceksiniz. Check-in yaptıktan sonra gecenin geri kalanı serbest zaman."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Tikal Milli Parkı",
+      "description": "Bu sabah rehber ve grubunuzla tanışacak ve Tikal arkeolojik kompleksini gezeceksiniz. Orman kanopisinin üzerinde yükselen tapınaklar, yaklaşık 230 feet’ e ulaşıyor. Şehir geniş açık plazalardan, yükselen piramitlerden ve olağanüstü oymalar ve anıtlardan oluşmaktadır. Bir kısmı M.Ö. 4. yüzyıla kadar uzanmaktadır. Etrafta dolaşırken rehberiniz yapıların önemini ve bir zamanlar oralarda yapılan eski ritüelleri açıklayacaktır. Ormanın uzakta olması nedeniyle, site aynı zamanda yaban hayatı için bir sığınaktır ve keşfettikçe, hiç kuşkusuz, yabani hindi, yabani maymunlar ve diğer türlerden bol miktarda vahşi hayata rastlayacaksınız. Günün geri kalanı serbest zaman."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Atitlan Gölü",
+      "description": "Bu sabah otelinizden alınacak ve Guatemala Şehri’ ne geri dönmek için Flores havaalanına transfer edileceksiniz. Varışta karşılanacak ve dünyanın en güzel göllerinden biri olarak tanımlanan Atitlan Gölü’ ne transfer edileceksiniz. Küçük kasabalarla çevrili bölge, Guatemala’ nın sakin ve huzurlu bir bölgesidir ve kalacak pitoresk bir yer sunmaktadır. Otelinize Panajachel kasabasında check-in yaptıktan sonra günün geri kalanı serbest zamandır."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Atitlan Gölü",
+      "description": "Bugün, San Juan La Laguna köyüne doğru Atitlan Gölü (yaklaşık 30 dakika) boyunca özel bir tekne turunun keyfini çıkaracaksınız. Burada kadın tekstil kooperatifini ziyaret edip el dokumalarını ve doğal boya sürecini göreceksiniz. Ayrıca ünlü ressamların stüdyolarını / evlerini ziyaret edecek ve büyüleyici çalışmalarını öğreneceksiniz. Daha sonra, Hotel Posada Santiago’ da öğle yemeği için (dâhil değildir) zamanınızın olacağı Santiago köyüne devam edeceksiniz. Daha sonra turla devam edip Maya Tanrısı Maximon’ u, yerel tekstilleri, spiritüalizmi ve T’ zutujil Maya’ nın inançlarını öğreneceksiniz. Panajachel’ deki otelinize geri döndüğünüzde, günün geri kalanı serbest zamandır."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Chichicastenango Market",
+      "description": "Bu sabah, Guatemala yaylasının göbeğine doğru inanılmaz renkli manzaralardan geçerek seyahat edeceksiniz. Yerli halkın tipik kıyafetlerini, sebze ve çiçeklerle süslenmiş yamaçları ve yerel sanatçılar tarafından yapılmış resimleri ve el sanatlarını göreceksiniz. Chichicastenango’ da çok renkli pazarı ziyaret edip geleneklerini öğreneceksiniz. Bu deneyim tatlı kokulu tütsü satıcılarından parlak renkli tekstil üreticilerine kadar, eski, yerli kültür ve yerel satıcılar hakkında öğrenebileceğiniz duyusal bir ziyarettir. Bu öğleden sonra Antigua’ da, günün geri kalanında serbest olacak ve otelinize transfer edileceksiniz. Antigua bir açık hava müzesi olarak tanımlanmıştır, şehir her köşeye yayılan çarpıcı mimarisi, etkileyici kalıntıları ve ilginç binaları olan bir sömürge gemisidir."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Antiqua",
+      "description": "Bugün, ana yerleri kapsayan rehberli bir Antigua turu için otelinizden alınacaksınız. Caddenin karşısındaki binadan rahibelerin görünmesini engellemek için inşa edilen Arco de San Catalina’ yı ziyaret edeceksiniz. 1542’ de inşa edilen San Francisco Kilisesi’ ni göreceksiniz. Şehirdeki işleyen en eski kilisedir. Güneşli bir günde, La Merced Kilisesi’ nin canlı sarı boyası ve karmaşık beyaz oymaları çarpıcıdır. Manastır ek binası nilüfer biçiminde devasa bir fıskiyeye ev sahipliği yapmakta ki bu nilüfer Maya’ nın sembolüdür ve antik dinlerin Katolikliğe dâhil olduğunu göstermektedir. Zamanı geldiğinde eski şehrin saçaklarındaki yerel pazarlara doğru yola çıkacaksınız. Burada ihtiyaç duyabileceğiniz hemen hemen her şeyi ve aklınıza gelmeyecek birçok şeyi bulabilirsiniz. Ayrıca kakao çekirdeğinin çikolataya dönüştürülme sürecini görebileceğiniz Çikolata Müzesi’ ni de ziyaret edeceksiniz. Son olarak La Azote Kahve Çiftliği ve Maya Müzik Aletleri Müzesi’ ne gideceksiniz. Akşam serbest zamandır."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Antiqua",
+      "description": "Bugün, Antigua’ yı kendi kendinize keşfetmeniz için serbest bırakılacaksınız."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Guatemala City’ den Ayrılış",
+      "description": "Bugün, otelinizden alınacak ve uluslararası uçuşunuz için Guatemala şehrinde havaalanına transfer edileceksiniz."
+    }
+  ],
+  "map": ""
+}

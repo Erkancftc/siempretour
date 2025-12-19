@@ -1,0 +1,60 @@
+{
+  "destination": "Macaristan",
+  "mainPhoto": "",
+  "id": "EEBR",
+  "tourName": "Budapeşte' den Bükreş'e",
+  "placesVisited": "Macaristan, Romanya",
+  "generalInfo": "Bu dokuz günlük macerada Macaristan ve Romanya'nın bazı harikalarını keşfedin. Antik mimariyi, kırsal kasabaları ve heybetli kaleleri birleştirerek, Budapeşte'den Bükreş'e tarihi bir yolculuğun tadını çıkarın. Bran Şatosu’nu ziyaret edin ve Transilvanya'nın folklörü hakkında bilgi edinin, Maramureş bölgesini gezip keyfini çıkarın ve önemli Sighisoara Kalesi'nde kalın.<br><br><strong>En Yakın Uluslararası Havaalanı (Başlangıç Noktası):</strong> Budapeşte Ferenc Liszt Uluslararası Havaalanı (BUD)<br><br><strong>En Yakın Uluslararası Havaalanı (Bitiş Noktası):</strong> Bükreş Henri Coanda Uluslararası Havaalanı (OTP)",
+  "durationDays": "9",
+  "price": "879",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Geziler &amp; Aktiviteler</strong></p>\n<ul>\n<li>- Maramureş Bölgesi Turu</li>\n<li>- Kaloşvar Gezisi</li>\n<li>- Viscri Müstahkem Kilisesi Girişi</li>\n<li>- Drakula’nın Şatosu ve Peleş Şatosu Girişleri</li>\n<li>- Prejmer Müstahkem Kilisesi Girişi</li>\n</ul>\n<p><strong>Konaklama</strong></p>\n<ul>\n<li>- Otellerde 8 gece</li>\n</ul>\n<p><strong>Ulaşım</strong></p>\n<ul>\n<li>- Toplu taşıma otobüsleri, tren, metro, yürüyüş</li>\n</ul>\n<p><strong>Yemekler</strong></p>\n<ul>\n<li>- 2 kahvaltı büfesi, 6 kahvaltı</li>\n</ul>\n<p><strong>Diğer</strong></p>\n<ul>\n<li>- Siempre Tour tur lideri</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Budapeşte’ye Varış",
+      "description": "Macaristan’ın şık başkenti Budapeşte, bol miktardaki kaplıcaları nedeniyle ‘Kaplıcalar Şehri’ olarak da bilinir. Tuna nehrinin böldüğü şehir çok farklı iki kentten, batıda Buda doğuda Pest’ten oluşuyor. Şehrin önemli yerleri; Kale Tepesi, Matthias Kilisesi, Balıkçı Tabyası, Kurtuluş Anıtı, muhteşem Aziz Stephen Bazilikası ve en çok fotoğrafı çekilen Parlamento Binası. Yerel restoranlarda Macar mutfağının tadına bakın. En meşhur Macar et yemeğini Goulash’ta bulabilirsiniz. Ana baharat olarak Macar paprika tozu ile et ve sebzelerden yapılan lezzetli bir güveçdir."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Eger",
+      "description": "Bükk Dağları'nın tepelerinde bulunan Eger'e trenle gidiyoruz. Kent, en eski ve en ünlü cazibe merkezi Eger Kalesi de dahil olmak üzere birçok tarihi mekana sahip. Eger şaraplarıyla da ünlüdür. Eger’in Boğa Kanı olarak tercüme edilen “Egri Bikaver” da dahil olmak üzere geleneksel kırmızı ve beyaz şarap çeşitlerinin tadını çıkarın! Eger’de, 1596'dan itibaren 91 yıl Türk egemenliği altındaydı. Bu nedenle, kasaba termal hamamlarıyla ziyaretçilerin ilgisini çekiyor. Bu döneme ait bir diğer popüler yer ise 40 metre yüksekliğindeki Türk minaresi. Harika manzaralar görmek için minareye çıkın."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Baia Mare",
+      "description": "Yüzyıllık geleneklerin hala günlük yaşamın bir parçası olan bir çok köye ev sahipliği yapan Kuzeybatı Romanya'daki büyüleyici Maramureş bölgesini gezmekle günü geçiriyoruz. Devasa, süslü oyma kapılar tarafından ön plana çıkarılan resmedilmeye değer ahşap evlerle, başarılı ahşap oyma geleneğini olan Barsana köyünü ziyaret ediyoruz. Burada, insanların hala geleneksel tekniklerle çiftçilik yaptığı Izei vadisinin muhteşem manzarasını sunan bir manastır da var. Ayrıca, karakteristik yüksek çatılar ve uzun, sivri uçlu çanak çömlekleri ile tanınan bölgenin güzel ahşap kiliselerini de geziyoruz. Sapânta'nın oldukça özgün 'Mutlu Mezarlığı'nda hızlı bir mola veriyoruz, bu şekilde adlandırımlasının nedeni; meşe ağacından el oyması tekniğiyle yapılmış, ölülerin imgesine ve halk dilinde yazılan mizahi kitabelere sahip olan parlak renklerle boyanmış mezar taşları."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Sighișoara",
+      "description": "Sighișoara’ya giderken, Bükreş'ten sonra Romanya'nın ikinci büyük şehri olan Kaloşvar'ı keşfetmek için birkaç saatliğine mola veriyoruz. Romanya'nın en önemli akademik ve kültürel merkezlerinden biri olan kent, ülkenin en büyük üniversitesine ve ünlü botanik bahçelerine ev sahipliği yapıyor. Kaloşvar, 2015 yılında, Avrupa Gençlik Başkenti seçildi ve bunu, öğrencilerin ve sanatçıların çoğunun sık sık uğradığı bohem kafelerden görebilirsin."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Brașov",
+      "description": "Üç tarafından Karpat Dağları'yla çevrili Brașov, ortaçağ yerleşim yeri için mükemmel bir alan ve 1211 yılında Teutonic Şövalyeleri tarafından kurulan Eski Kent'in çoğu restore edildi. Râșnov Kalesi ve Brașov Kalesi'ni ziyaret edin ya da Avrupa’nın en dar caddesi olan Rope Caddesi’nde dolaşın. Brașov ayrıca dost canlısı insanları ve temiz havasıyla Transylvania bölgesinin çevredeki kırsal alanlarını keşfetmek için mükemmel bir ortam sağlar. Yakınlardaki, 'Dracula'nın Şatosu' olarak da bilinen Bran Şatosu'nu ziyaret ediyoruz ve (sözde) Vlad the Impaler'ın evi olduğu söyleniyor. Ayrıca güzel Peleş Kalesi'ni ve UNESCO Dünya Mirası olan Prejmer ve Viscri'nin müstahkem kiliselerini de keşfediyoruz."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Bükreş",
+      "description": "Bölgeyi ve Romanya'nın kültürel başkentinin tezatlıklarını keşfetmeniz için boş zamanınızın olacağı Bükreş'e doğru yolculuğumuza devam ediyoruz. Buradaki mimari, tarihsel, komünist dönem ve modern tarzların eklektik bir karışımıdır ve hatta kendine özgü Zafer Takı'na da sahip. Bükreş ayrıca, komünist rejim altında inşa edilen dünyanın en büyük ikinci binası olan Parlamento Sarayı'na da ev sahipliği yapıyor."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Bükreş’den Ayrılış",
+      "description": "Hayatınızın macerası bugün sona eriyor. Geç vakitte bir uçuşunuz varsa veya tur sonrası konaklama ekleyerek konaklamanızı uzattıysanız görülesi yerleri keşfetmek için daha fazla zamanınız olacak."
+    }
+  ],
+  "map": ""
+}

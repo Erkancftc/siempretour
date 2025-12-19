@@ -1,0 +1,75 @@
+{
+  "destination": "Birleşik Arap Emirlikleri",
+  "mainPhoto": "",
+  "id": "STG08008",
+  "tourName": "MSC Lirica ile Birleşik Arap Emirlikleri, Bahreyn, Katar, Umman - 16.Ocak.2020",
+  "placesVisited": "Birleşik Arap Emirlikleri, Bahreyn, Katar, Umman",
+  "generalInfo": "Dubai, Abu Dab, , Sir Bani Yas, Doha, Denizde Seyir, Muscat, Khasab, Dubai",
+  "durationDays": "12",
+  "price": "1044",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p>*  THY ile ekonomi sınıfı İstanbul - Sharjah - İstanbul uçuşu</p>\n<p>*  Tercih etmiş olduğunuz kategorideki kabinde 11 gece tam pansiyon konaklama</p>\n<p>*  Havaalanı - liman - havaalanı transferleri.</p>\n<p>*  Grup doluluk oranı 50% ve üzeri olması durumunda Türkçe rehberlik hizmeti garanti edilmektedir.</p>\n<p>*  Her gün ve gece için düzenlenen eğlence, animasyon ve şovlar</p>\n<p>*  Gemideki sabah, öğle ve akşam yemekleri</p>\n<p>*  Kaptanın hoşgeldin partisi ve gala yemeği</p>\n<p>*  Fitness</p>\n<p>*  Vize için gerekli teminatları da içeren MSC Cruises seyahat Seyahat ve sigorta paketi (70 yaş üzeri %100 sürprim uygulanır Sadece Türk vatandaşlarına sigorta yapılır)</p>\n<p>*  Havalimanı - Liman vergileri</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Dubai' ye Varış",
+      "description": ""
+    },
+    {
+      "dayNumber": 2,
+      "title": "Dubai",
+      "description": "Dubai"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Abu Dabi (BAE)",
+      "description": "Abu Dabi (BAE)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "Sir Bani Yas (BAE)",
+      "description": "Sir Bani Yas (BAE)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "Doha (KATAR)",
+      "description": "Doha (KATAR)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 8,
+      "title": "Muscat (Umman)",
+      "description": "Muscat (Umman)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "Khasab (Umman)",
+      "description": "Khasab (Umman)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "Dubai",
+      "description": "Dubai"
+    },
+    {
+      "dayNumber": 12,
+      "title": "Dubai' den Ayrılış",
+      "description": ""
+    }
+  ],
+  "map": ""
+}

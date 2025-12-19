@@ -1,0 +1,65 @@
+{
+  "destination": "Sweden",
+  "mainPhoto": "",
+  "id": "unique-sweden-vacation-exploring-swedens-lapland",
+  "tourName": "Unique Sweden Vacation: Exploring Sweden's Lapland",
+  "placesVisited": "Lulea, Kiruna",
+  "generalInfo": "Embrace natural phenomenon, innovative luxury, and unique beauty during your 7-day Sweden tour of Lapland. Float beneath the dancing northern lights, glide across the blanketing snow, meet packs of reindeer, and more. From an ice hotel to a soothing sauna, dogsledding to snowshoeing, you can indulge in the splendor of Lapland as a winter wonderland when discovering Sweden.",
+  "durationDays": "8",
+  "price": "4,700",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Stockholm - Arrive in Sweden",
+      "description": "Stockholm is a city that feels both modern and historic, with an ever-evolving sense of culture steeped in the nationâs rich heritage. Land at the Stockholm Arlanda Airport and settle into the comforts of your accommodations. The remainder of the day is at your leisure, so you can relax in your hotel or set out to explore at your pace. Wander the colorful cobbled lanes of Old Town or visit the inspiring Royal Palace that hosts more than 600 rooms."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Lulea - Travel North to a Scenic Forest and Aurora Camp",
+      "description": "Wake and fly north, transfer into the wilds of the Swedish Lapland along the Rane River Valley. Above the powdery snow, the forest towers and hides the wandering moose and deer along the tree edges. After settling into your comfortable Lavvu tents, high above the arctic circle, you can take to the sky in a hot air balloon excursion. Your guide will offer information on the Aurora Borealis for more in-depth insight into its existence and even mythology before your flight. The unique experience will have you hovering beneath the dancing northern lights, fingers crossed, for up to 25 minutes."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Lulea - Discover Winter Wilderness Thrills",
+      "description": "After breakfast, the day will be yours to enjoy the wilderness of Lapland with the adventure of your choice. You can glide across the snow on fat bikes or traipse over the wintery landscape on a snowshoe excursion. You might strap on Nordic skis and slide along the woven snowy trails to find it easy to explore the forest and the edges of the treeline. After your excursion, you can indulge further in Swedish culture with a sauna. It is an easy way to relax while also offering various health benefits connected to Scandinavian tradition."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Lulea - Dog Sled and Transfer to an Arctic Bath",
+      "description": "In the morning, head out into the snowy wilderness with a team of dogs on a sledding excursion. The forest may look different from your new perspective as you speed through guided by a pack of huskies. Enjoy the surrounding scenery while your sled wooshes across the snowpack. After your adventure, you will transfer to your new accommodations elevated on poles above the frozen river and beneath the pristine sky. You have spa access included today with different saunas and spa rituals. You also are provided with a spa robe, swimming wear and slippers."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Lulea - Enjoy a Guided Sami Tour Experience",
+      "description": "After breakfast, your guide - a young SÃ¡mi woman, will meet you at the hotel, eager to introduce you to the culture and customs of Lapland. You will learn about the traditions of reindeer herding in the area. A flickering fire in the lÃ¡vvu (tent house) will be a welcomed sight as you listen to stories of the SÃ¡mi people and hear their traditional folk songs. You will also meet the communityâs reindeer, noticing their lush coats and gentle demeanor as you feed them."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Kiruna - Bask in the Train Ride to Kiruna",
+      "description": "Wake and transfer to the train station to travel on a scenic ride to Kiruna. A fantastic base for visitors eager to venture into the wilderness throughout the year, you will continue to the renowned hotel. Look forward to the unique experience of staying in an accommodation sculpted each year for a completely distinctive design. The remainder of the day is at your leisure to lounge in the hotel that is simultaneously a piece of art that may make you feel like you have stepped inside an ice castle."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Kiruna - Delight in Ice Sculpting and Dogsledding",
+      "description": "You can explore the majestic and imaginative world of ice sculpting with a guided class in the morning. Your instructor will teach you the basics of design, shape, and technique as you get the feeling for the proper tools needed to chisel away pieces of the ice block. After crafting your first vision into the ice, you can venture once more into the wilderness on a snowmobiling adventure."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Kiruna - Depart for Home",
+      "description": "You will wake up surrounded by ice and enjoy breakfast in the wonders of Lapland. You can take in one last view of the surrounding winter wonderland before your transfer meets you at the hotel when you are ready to escort you to the airport. You will have plenty of time to check-in to your flight and begin your journey home."
+    }
+  ],
+  "map": ""
+}

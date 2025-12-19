@@ -1,0 +1,75 @@
+{
+  "destination": "Turkey",
+  "mainPhoto": "",
+  "id": "10-day-best-of-turkey-tour",
+  "tourName": "10-Day Best of Turkey Tour",
+  "placesVisited": "Istanbul, Cappadocia, Ephesus, Kusadasi, Izmir",
+  "generalInfo": "Enjoy the unique landscapes and treasured history during your custom-tailored 10-day Turkey tour. The ancient city of Ephesus will take you back in time to view elegant Ionian architecture. The breathtaking boulders of Cappadocia will reveal spellbinding natural beauty during your Turkey trip to showcase where dramatic scenery and vibrant culture combine.",
+  "durationDays": "10",
+  "price": "4,300",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Istanbul â The City of Istanbul",
+      "description": "Your private transfer will meet you at the airport and escort you to your luxurious accommodation in the heart of Istanbul. The ceramic tiles adorning the facades along the historic city have a lively sheen. The trolley car will run along the center of the Beyoglu district. The daily crowd will exude a welcoming energy. The buildings will highlight the European influence, filled with restaurants and cafes with seating spilling onto the sidewalks. You will find charming narrow alleys where old men play dominoes accompanied by the rich aroma of fresh Turkish coffee."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Istanbul â Culture and History",
+      "description": "The morning will bring with it the savory and sweet scents of breakfast, such as tantalizing baked breads and honey. The familiar aroma of Turkish coffee will welcome the memory of the strong flavor. Your guide will meet you at your hotel after breakfast ready to show you the beauty of Istanbul on a half-day tour beginning with the Blue Mosque. The structure was built in the 17th century under the patronage of Sultan Ahmet I. The sultan wanted to construct a place of worship that was grander than the Hagia Sophia."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Istanbul â Cruise the Bosphorus",
+      "description": "The morning will fill with rapid color and energy as locals enjoy their morning Turkish coffee and sweet pastries. After breakfast, you are taken to the Spice Bazaar with your private guide finding the marketplace that dates back to the 17th century. After your visit to the marketplace, you will step aboard a boat and begin your cruise of the Bosphorus. You will stop at Dolmabahce Palace to see the administrative center of the Ottoman Empire. The palace was constructed in the 19th century and is the largest palace in Turkey with over 285 rooms."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Cappadocia â The Scenery of Cappadocia",
+      "description": "The culture of Istanbul is an image of the cityâs history, from the mosques to the coffee, the spices to the palaces. Your private transfer will meet you in the hotel lobby and escort you from your hotel to the airport where you will board your flight bound for Cappadocia. You will arrive in the stunning region to find the famous landscape encompassing honeycombed hills and boulders towering over the unearthly plain. The foothills roll and the mountains shift from orange to cream. The stone is soft and has been carved into homes and churches in order to create shelter for local residents for thousands of years."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Cappadocia â Visit Cavusin Village",
+      "description": "Sunrise over Cappadocia will offer a breathtaking rainbow of colors as the light peeks over the ridge. After breakfast, your private guide will meet you at the hotel and lead you to the famous Goreme Open-Air Museum, where Byzantine monks carved churches out of the soft rock and created tremendous chapels and monasteries. In the 17th century, the collection of churches became a pilgrimage site. The complex is hidden in the mountainside and could have gone unnoticed if you did not know it was there."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Cappadocia â A Day at your Pace",
+      "description": "The day will be yours to spend as you wish in the tremendous setting of Cappadocia. The sky will show a clear blue. You will see the remarkable boulders rise into the air and twist like independent karsts. To enjoy the impressive landscape, you could indulge in a hot air balloon ride. The magnificent balloon will inflate and carry you away into the sky. The rush of the flame and the swelling balloon will take you into the air. There are a remarkable number of other balloons in the sky that will look like vivacious clouds."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Izmir â The Port City of Izmir",
+      "description": "The rugged and spellbinding landscape of Cappadocia will disappear beyond the horizon in the morning when your private transfer takes you to the Kayseri Airport. You will soon arrive in the coastal city of Kusadasi for a short tour before arriving in Izmir. The city sits on the sapphire shores of the Aegean Sea. That famous beach of Kadinlar Denizi pulses with a distinctive energy adding to the inviting whir of beachside and luxury ambiance. Umbrellas will help create comfortable shade under the hot, Mediterranean sun. The water will lap gently at the sand."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Izmir â The Ancient Ruins of Ephesus",
+      "description": "The aroma of sweet mint tea will emanate from the cafes in the morning. You will hear the Turkish coffee percolating. After breakfast, you will make your way to the ancient city of Ephesus with your guide for a private tour of Europeâs best-preserved classical metropolis. Attic-Ionian Greek colonists founded the city in the 10th century BC. The Temple of Artemis, one of the Seven Wonders of the Ancient World, once towered over the cityscape. A single pillar remains and stands over sixty feet tall."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Izmir â Majestic Scenery",
+      "description": "The day will be at your leisure to enjoy the charming coastline along the Aegean Sea. The sand will feel warm and the water will offer a refreshing cool feeling against the golden Mediterranean light. You could also enjoy another trip into the ancient history of the surrounding countryside with a visit to Pergamon. The ancient city remains filled with tranquil streets and a classic splendor. The Acropolis retains the adornments of grand temples and the dramatic theater."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Istanbul â Departure",
+      "description": "You will hear the morning tide brush against the shore. The sun will rise and cast a golden glower over the sand. The water will continue to glow a remarkable sapphire as the scent of Turkish coffee accompanies breakfast. Your private transfer will meet you in the hotel lobby to escort you to the airport for your return flight."
+    }
+  ],
+  "map": ""
+}

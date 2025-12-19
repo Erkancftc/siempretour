@@ -1,0 +1,60 @@
+{
+  "destination": "Sri Lanka",
+  "mainPhoto": "",
+  "id": "TRH1",
+  "tourName": "Bir Hafta Sri Lanka Tatili",
+  "placesVisited": "Sri Lanka",
+  "generalInfo": "Eğer zamanınız kısıtlıysa bir Sri Lanka macerasında bu bir haftalık gezi programı,  size uygun 7 günlük bir geziyle Sri Lanka’ nın öne çıkan yerlerini sunmaktadır.  Ilık,  ekvatoral sıcaklıklar,  çeşitli yaban hayatı,  kokulu baharat bahçelerinden orta yaylalara ve canlı kültür ve tarihe kadar etkileyici manzaralar sunan bu ülke,  buraya daha fazlası için tekrardan gelmek istemenize sebep olan bir yer.  Bu kısa macerada,  bir fil yetimhanesini ziyaret edecek,  geleneksel bir Puja törenini izleyecek ve saf Seylan çayının nasıl üretildiğini görmek için bir çay fabrikasını ziyaret edeceksiniz.<br><br><strong>Lütfen dikkat: </strong> Bu örnek bir gezi programıdır ve kendi kişisel gereksinimlerinize ve bütçenize uyacak şekilde ayarlanabilir.",
+  "durationDays": "7",
+  "price": "1139",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Geziler &amp; Aktiviteler</strong></p>\n<ul>\n<li>- Sigiriya Aslan Kaya Kalesi</li>\n<li>- Polonnaruwa</li>\n<li>- Dambulla Kaya Tapınağı &amp; Matale Baharat Bahçesi</li>\n<li>- Kutsal Diş Tapınağında Puja Töreni</li>\n<li>- Çay Fabrikası Ziyareti</li>\n<li>- Ravana Şelalesi</li>\n<li>- Yala Ulusal Parkı’ nda Jeep Safari</li>\n<li>- Elephant Transit Home ( Fil Yetimhanesi )</li>\n<li>- Galle Kalesi</li>\n</ul>\n<p><strong>Konaklama</strong></p>\n<p>Otellerde 5 gece, çadırlı kampta 1 gece</p>\n<p><strong>Ulaşım</strong></p>\n<p>Özel Araç</p>\n<p><strong>Yemekler</strong></p>\n<p>6 kahvaltı, 1 akşam yemeği</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Kolombo' ya Varış",
+      "description": "Sri Lanka’ ya hoş geldiniz! Kolombo Havalimanı’ na varışta bir temsilci tarafından karşılanacak ve Negombo’ daki otelinize transfer edileceksiniz.  Otele giriş yaptıktan sonra,  günün geri kalanı size ait."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Sigiriya Kaya Kalesi, Polonnaruwa",
+      "description": "Bugün,  Sigiriya’ ya  ( Aslan Kayası )  gitmek için yola çıkacaksınız.  Ormandan 200 metre yükseklikte etkileyici bir yerdir.  5.  yüzyıla ait kaya kalesinin zirvesine ulaşmak için yüzlerce basamak çıktıktan sonra,  manzara inanılmaz.  Burada ayrıca dünyaca ünlü Sigiriya’ nın ‘ Heavenly Maidens’  fresklerini görebilirsiniz."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Dambulla, Matale, Kandy",
+      "description": "Kahvaltıdan sonra Dambulla’ ya hareket edeceksiniz.  Dambulla kaya tapınağı,  M. Ö.  1.  yüzyılda Kral Walagambahu tarafından yaptırılmıştır ve bir Dünya Mirası Sit Alanı’ dır.  Sri Lanka’ nın mağara tapınakları içinde en etkileyici olanı.  2000 metrekareden fazla boyalı duvarlara ve tavanlara sahip beş mağara kompleksi,  dünyada bulunan en geniş mağara resimleri alanıdır.  İçlerinde en büyüğünün,  kayadan oyulmuş ve 14 metre uzunluğundaki devasa Buda heykelinin olduğu 150’ den fazla buda heykeli içermektedir.  Daha sonra,  Dambulla’ dan Matale’ ye gideceksiniz.  Burada Sri Lanka’ nın ünlü olduğu farklı baharatları görmek için bir baharat bahçesini ziyaret edeceksiniz.  Burada size farklı baharatlar tanıtılacak ve bu baharatlardan bazılarının nasıl yetiştirilip işlendiği gösterilecek.  Öğleden sonra,  Kandy’ ye varacaksınız.  Kandy merkezi tepe bölgelerin Sri Lankalı krallarının son başkentiydi ve tabi ki Dünya Mirası listesinde yer alıyor.  Akşam, Kutsal Diş Tapınağı’ nda ( Temple of the Tooth-efsaneye göre Buda’ nın dişinin bulunduğu yer )  bir Puja törenine ( Budizm’ de bir tür ayin )  katılacaksınız."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Nuwara Eliya",
+      "description": "Bu sabah Ella’ ya gitmek için yola çıkacaksınız.  Yolda,  çay üretimi sürecini öğrenmek için bir çay fabrikasını ziyaret edeceğiniz çay ülkesi Sri Lanka’ nın kalbi Nuwara Eliya’ dan geçeceksiniz, .  Nuwara Eliya,  canlandırıcı dağ iklimi ve manzarası nedeniyle Sri Lanka’ nın en popüler tepe noktasıdır.  Sri Lanka’ nın en yüksek dağı Pidurutalagala  ( yaklaşık 2524 metre )  burada yer almaktadır.  1972’ ye kadar İngilizler tarafından işgal edildiği için,  hala yerli halk tarafından “Küçük İngiltere” olarak biliniyor.  Sonra, Ella’ ya gitmek için Nanuoya’ da manzaralı trene bineceksiniz ve varınca otelinize transfer edileceksiniz.  Akşamı dilediğiniz gibi geçirebilirsiniz."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Ravana Şelalesi, Yala Ulusal Parkı",
+      "description": "Bugün,  önce Ravana Şelalesi’ ne ve ardından Yala Ulusal Parkı’ na gideceksiniz.  Öğleden sonra,  bir jeep safari yapacak ve bu da Asya fillerini,  leoparlarını ve ayılarını görmek için en iyi şansınız olacak."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Elephant Transit Home ( Fil Yetimhanesi ), Galle",
+      "description": "Bugün Galle’ ye gitmek için yola çıkacaksınız.  Yolda,  terkedilmiş fil yavrularının korunan bir ortamda büyüyebildiği bir yetimhane olan Fil Yetimhanesi’ ni ziyaret edeceksiniz.  Burası,  Born Free Vakfı tarafından yavru filleri beslemek ve korumak için kurulmuştur.  Yavru filler,  4 yaşına geldiklerinde etraftaki Udawalawe Milli Parkı’ na tamamen bırakılmadan önce her gün vahşi doğa ortamını tatmaktadır. Galle,  17.  yüzyılda Hollanda rejiminin merkeziydi ve bir yürüyüş turu yapacağınız görkemli Galle Kalesi  ( 90 dönümlük )  bu gerçeğe şahitlik etmektedir.  Kent,  Güneydoğu Asya’ daki en iyi korunmuş sömürge döneminden kalma şehirlerden biridir ve UNESCO’ nun Dünya Mirası Sit Alanı ilan edilmiştir.  Otelinize giriş yaptıktan sonra,  akşamı dilediğiniz gibi geçirebilirsiniz."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Kolombo' dan Ayrılış",
+      "description": "Hayatınızın macerası bugün sona eriyor.  Geç vakitte bir uçuşunuz varsa veya tur sonrası konaklama ekleyerek konaklamanızı uzattıysanız görülesi yerleri keşfetmek için daha fazla zamanınız olacak."
+    }
+  ],
+  "map": ""
+}

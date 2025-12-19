@@ -1,0 +1,65 @@
+{
+  "destination": "Birleşik Arap Emirlikleri",
+  "mainPhoto": "",
+  "id": "STG08005",
+  "tourName": "MSC Lirica ile Birleşik Arap Emirlikleri, Bahreyn, Katar - 28.Mart.2020",
+  "placesVisited": "Birleşik Arap Emirlikleri, Bahreyn, Katar",
+  "generalInfo": "Dubai, Abu Dabi, Sir Bani Yas Adası, Denizde Seyir, Bahrain,           Doha, Dubai",
+  "durationDays": "8",
+  "price": "904",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p>*  THY ile ekonomi sınıfı İstanbul - Sharjah - İstanbul uçuşu</p>\n<p>*  Tercih etmiş olduğunuz kategorideki kabinde 7 gece tam pansiyon konaklama</p>\n<p>*  Havaalanı - liman - havaalanı transferleri.</p>\n<p>*  Grup doluluk oranı 50% ve üzeri olması durumunda Türkçe rehberlik hizmeti garanti edilmektedir.</p>\n<p>*  Her gün ve gece için düzenlenen eğlence, animasyon</p>\n<p>ve şovlar</p>\n<p>*  Gemideki sabah, öğle ve akşam yemekleri</p>\n<p>*  Kaptanın hoşgeldin partisi ve gala yemeği</p>\n<p>*  Fitness</p>\n<p>*  Vize için gerekli teminatları da içeren MSC Cruises seyahat Seyahat ve sigorta paketi (70 yaş üzeri %100 sürprim uygulanır Sadece Türk vatandaşlarına sigorta yapılır)</p>\n<p>*  Havalimanı - Liman vergileri</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Dubai (B.A.E)",
+      "description": "Hareket Saati : 21:00"
+    },
+    {
+      "dayNumber": 2,
+      "title": "Abu Dabi (BAE)",
+      "description": "Varış Saati : 05:00"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Sir Bani Yas (BAE)",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 4,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 5,
+      "title": "Bahreyn (Bahreyn)",
+      "description": "Varış Saati : 08:00"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Doha (Katar)",
+      "description": "Varış Saati : 08:00"
+    },
+    {
+      "dayNumber": 7,
+      "title": "Dubai (B.A.E)",
+      "description": "Varış Saati : 09:00"
+    },
+    {
+      "dayNumber": 8,
+      "title": "İstanbul' a Varış",
+      "description": ""
+    }
+  ],
+  "map": ""
+}

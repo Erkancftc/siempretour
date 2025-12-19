@@ -1,0 +1,70 @@
+{
+  "destination": "Peru",
+  "mainPhoto": "",
+  "id": "TMST",
+  "tourName": "Salkantay Yolculuğu",
+  "placesVisited": "Peru",
+  "generalInfo": "Eğer kamp yapmak istemiyorsanız Machu Picchu’ ya Salkantay yolculuğu tam size göre. Yol boyunca konforlu dağ kulübelerinde konaklayarak, nefes kesen Salkantay dağını yürüyerek geçin. İnka kalıntılarından geçeceğiniz zorlu yokuşlar ve patikalar sizi bekliyor. Akşamı ise özellikle sizin için hazırlanmış açık hava jakuzilerinde rahatlayarak geçireceksiniz.<br><br><strong>Önemli not: </strong>Tur programı model bir programdır ve ihtiyaçlarınıza, bütçenize uygun hale getirilebilir.",
+  "durationDays": "9",
+  "price": "3699",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "<p><strong>Tur ve Aktiviteler</strong></p>\n<ul>\n<li>- Cusco’ ya ve Cusco’ dan ulaşım</li>\n<li><strong>-</strong> Salkantay kulübesinde açık hava jakuzisi</li>\n<li>- Mollepata köyünde mola</li>\n<li>- Kahve tarlası gezisi</li>\n<li>- Giriş dahil rehber eşliğinde Machu Picchu  gezisi</li>\n</ul>\n<p><strong>Konaklama</strong></p>\n<p>Otelde 3 gece, kulübede 5  gece</p>\n<p><strong>Yemekler</strong></p>\n<p>7 kahvaltı, 8 öğle yemeği, 7 akşam yemeği</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Cusco' ya Varış",
+      "description": "Bu gece grubun geri kalanıyla bir araya gelerek, rehberinizle önümüzdeki birkaç gün hakkında toplantı yapacaksınız."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Mollepata, Salkantay Kulübesi",
+      "description": "Erken bir kahvaltının ardından rehberinizle birlikte Cusco’ daki otelinizde toplanacaksınız. İlk durağınız Limatambo’ da küçük bir arkeoloji bölgesi olan Tarawasi İnka harabeleri. Daha sonra kısa bir mola vereceğiniz etkileyici dağ köyü Mollepata’ ya devam ediyoruz."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Humantay Gölü",
+      "description": "Bugün Humantay gölüne yarım günlük yürüyüş yaparak tekrar ortama alışma fırsatı bulacaksınız. Kulübenin arkasındaki yamaçları tırmanın ve olağanüstü Humanity buzuluna ulaşmak için bir buçuk saat yürüyün. Çarpıcı masmavi suları ve bozulmamış peyzajlarıyla Humantay gölü sizi büyüleyecek. Kulübeye geri dönmeden önce biraz dinlenin ve huzurun keyfini çıkarın. Öğle yemeğinden sonra günün kalanını dilediğiniz gibi geçirebilirsiniz. Jakuziye girin, kendinize bir rahatlama masajı hediye edin(ekstra ücrete tabidir) veya arkanıza yaslanıp çevrenizdeki güzelliklerin tadını çıkarın."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Salkantay Geçidi, Wayra Kulübesi",
+      "description": "Toplamda yaklaşık 6-8 saat yürüyüş yapacağınız bugün en zorlu gün. Erkenden harekete geçerek Rio Blanco vadisine yürüyeceksiniz. Deniz seviyesinden 4638 m yükseklikte olan Salkantay geçidindeki en yüksek noktaya tırmanacaksınız. Vilcabamba’ da karla kaplı dağların ve yukarıda Salkantay dağının buzla kaplı cephesinin görüntülerine hayran kalacaksınız. Daha sonra dağdaki dev kayaların arasından aşağı doğru ineceksiniz. Bu gece,  yolculuğumuz boyunca kullanacağımız en uzak kulübe olan Wayra’ da hak ettiğiniz bir dinlenmenin keyfini yaşayın."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Salkantay Nehri, Colpa Kulübesi",
+      "description": "Sakin bir kahvaltının ardından, Salkantay nehrinin kıyısından bulutla kaplı bir ormana doğru iniyoruz. Yol boyunca ılık havayı hissedin, rengarenk kelebekleri ve güzel orkideleri gözden kaçırmayın. Yürüyüşümüz sırasında köy evlerinden geçeceğimiz için bazı yerlilerle karşılaşacaksınız. Geleneksel bir Peru yemeği olan Pachamancanın tadına bakabileceğiniz Colpa’ daki kulübeye varıyoruz. Toprak tencerede pişen bu terbiyeli et lezzetli bir yemektir. Öğleden sonra isteğe bağlı olarak Collpapampa’ ya bir bisiklet gezisi yapabilirsiniz."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Santa Teresa Nehir Vadisi, Lucma Kulübesi",
+      "description": "Bu kırsal bölgenin daha fazla nüfuslu alanlarının bulunduğu Santa Teresa vadisinde yürüyüş yapın. Öğlen nehir kenarında pikniğin keyfini yaşamadan önce muz, granadilla(çarkıfelek) ve avokado bahçelerinden geçeceksiniz. Öğleden sonra dünyadaki en kaliteli organik kahve çeşitlerinden bazılarının üretildiği bir kahve tarlasını gezeceğiz. Havada bir farklılık hissedeceksiniz çünkü burası Amazon ormanına yakın daha tropikal bir iklime sahip. Geceyi Lucma kulübesinde geçireceksiniz."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Llactapata Geçidi, Aguas Calıentes",
+      "description": "Bugün yürüyüş yapacağınız son gün. Orijinal İnka basamaklarından oluşan bir patikadan2-3 saat tırmanacaksınız. Bereketli bitki örtüsü ve hızlı akan suların gürültüsünden yağmur ormanında yürüyüş yapıyormuş gibi hissedeceksiniz. Llactapata geçidindeki harabelere varıyoruz ve çok fazla ziyaretçinin görme şansı bulamadığı Machu Picchu sırtlarının eşsiz manzaraları bu tırmanışın ödülü olacak."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Machu Picchu, Cusco",
+      "description": "Sabah erken kalkarak otobüsle Machu Picchu’ ya gidiyor ve ikonik Sun Gate’ de(güneş kapısı) güneşin doğuşuna yetişiyoruz. Vardığınızda özel rehberiniz sizi karşılayacak ve arkeoloji kompleksine gitmek üzere servis aracına bindirecek. Burada gezerken ve rehberiniz anlattığı hikayelerle Machu Picchu’ nun en parlak dönemini canlandırırken atmosferi hissedeceksiniz. Sonra tek başınıza keşif yapmak için yeterli zamanınız olacak."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Cusco' dan Ayrılış",
+      "description": "Ömrünüz boyunca unutamayacağınız bir macera  bugün sona eriyor. Eğer geç saatte bir uçuşunuz varsa ya da konaklamanızı ve kalış sürenizi uzatırsanız şehri daha fazla gezmek için ekstra zamanınız olacak."
+    }
+  ],
+  "map": ""
+}

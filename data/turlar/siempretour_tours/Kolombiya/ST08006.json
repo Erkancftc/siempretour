@@ -1,0 +1,85 @@
+{
+  "destination": "Kolombiya",
+  "mainPhoto": "",
+  "id": "ST08006",
+  "tourName": "Kolombiya,  Peru ve Bolivya",
+  "placesVisited": "Kolombiya, Peru, Bolivya",
+  "generalInfo": "Sahilleri,  tarihi kalıntıları,  balta girmemiş ormanları ve vahşi yaşamı ile birbirinden güzel üç ülke.<br><br>Siempre Tur ile,  Kolombiya’ nın sahil ve kıyılarını,  Peru’ nun dağlarla çevrili antik kentlerini,  ve Bolivya’ nın tarihi sokaklarını keşfedebilirsiniz.<br><br>Turumuz,  Siempre Tour’ un deneyimli rehber ekibiyle Havaalanı’ ndan itibaren başlar ve tekrar tur bitişi sonrasında aynı noktada sonlanır.  Tur süresi boyunca rehber ekibi tüm soru ve görüşlerinizi dinlemek için yanınızda olacaktır.",
+  "durationDays": "11",
+  "price": "4650",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "34",
+  "dates": "",
+  "minimumAge": "12",
+  "meet": "",
+  "whatExpect": "<ul>\n<li>- İstanbul/Lima /İstanbul arası THY ile gidiş dönüş ekonomi sınıfı uçak bileti.</li>\n<li>- Lima/Cusco,  Cusco/La Paz,  Juliaca/Lima arası tek yön uçuşlar,</li>\n<li>- Yolculuk boyunca özel otobüs ile ulaşım.</li>\n<li>- Lima’ da 2 gece,  Cusco’ da 2 gece,  Kutsal Vadi’ de 2 gece,  La Paz’ da 2 gece,  Puno’ da 1 gece,  Paracas’ ta 1 gece merkezi 4-’ lı otellerde açık büfe kahvaltı bazında konaklamalar.</li>\n<li>- Müze ve ören yerlerinin giriş ücretleri.</li>\n<li>- Programda belirtilen öğle ve akşam yemekleri.</li>\n<li>- Cessna tipi uçaklarla Nazca Çizgileri üzerinde uçuş.</li>\n<li>- Machu Picchu’ ya trenle ulaşım.</li>\n<li>- Ballestas Adaları’ na hız motoru ile,  Uros Adaları’ na tekne ile ulaşım.</li>\n<li>- Siempre Tour rehberlik hizmeti.</li>\n<li>- Zorunlu tur paket sigortası.</li>\n<li>- Kişi Başına Yurtdışı çıkış harcı .</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Bogota' ya Varış",
+      "description": "İstanbul Atatürk Havalimanında saat 03:30’ da buluşma.  Check - in işlemlerini takiben THY Havayolları’ nın TK 175 seferi ile 01:00’ da Bogotaya’ a yolculuk.  Yerel saatle 08:00’ da varış.  Burada yapılacak aktarma sonrası KL743 seferi ile saat 12:30’ da Lima’ ya hareket.  Yerel saatle 18:05’ te varış.  Havaalanında karşılanma ve otele transfer sonrası akşam yemeği ve geceleme otelde."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Bogota, Lima, Cusco",
+      "description": "Sabah kahvaltı sonrası UNESCO Dünya Mirası Listesi’ nde yer alan Lima Tarihi merkezinde panoramik şehir turu: San Martin Meydanı,  Plaza de Armas,  Hükümet Sarayı.  Şehrin en eski dini yapılarından San Francisco Manastırı ve ülkenin en önemli kişisel koleksiyonlarından Larco Herrera Müzesi ziyaret edeceğimiz yerler arasında.  Öğleden sonra Cusco’ ya uçuş.  Otelimize yerleşip dinlendikten sonra yerel bir lokantada akşam yemeği alacağız.  Geceleme otelde."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Cusco, Kutsal Vadi",
+      "description": "Sabah kahvaltı sonrası,  Güney Amerika Kıtası’ nın en güzel şehirlerinden olan ve eski İnka başkenti Cusco’ da ziyaret edeceğimiz yerler arasında Katedral ve İnka kozmolojisinin en önemli noktası Qorikancha Tapınağı gelmekte.  Öğlen alınacak yemek sonrasında İnkaların kutsal kabul ettiği Urubamba Vadisi’ ne yolculuk.  Akşam yemeği ve geceleme otelde."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Kutsal Vadi, Machu Picchu",
+      "description": "Sabah kahvaltı sonrası turumuzun en özel günlerinden birini yaşamak üzere erkenden yola çıkıyoruz.  Önce aracımızla sabah erken saatlerde Ollantaytambo tren istasyonuna varıyoruz.  Trenle Aguas Calientes’ e vardıktan sonra minibüslerle yarım saatlik bir yolculuk sonrası İnkaların kutsal kenti Machu Picchu’ ya varıyoruz.  Detaylı bir gezi sonrasında bu büyülü yerde serbest zamanınız kalacaktır.  Öğle yemeği yerel restoranda alınacak.  Öğleden sonra trenle Kutsal Vadi’ ye geri dönüş.  Akşam yemeği ve geceleme Kutsal Vadideki otelimizde."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Kutsal Vadi, Cusco",
+      "description": "Sabah trenle Ollantaytambo’ ya hareket.  Orada otobüsümüzle buluştuktan sonra İnkalardan günümüze kalmış en önemli şehirlerden Ollantaytambo ziyaret edilecek.  Yol üzerinde önce yerel pazarıyla ünlü Pisac Kasabası ziyaret edilecek ve burada öğle yemeği alınacak.  Daha sonra Cusco’ ya devam ediyoruz ve yolda Sacsayhuaman,  Quenco ve Puca Pucara ören yerlerini ziyaret ediyoruz.  Konaklama otelde."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Cusco, La Paz",
+      "description": "Sabah havalimanına transfer sonrası kısa bir uçuşla Bolivya’ nın de facto başkenti La Paz’ a varış.  El Alto Havalimanından Tiwanaku ören yerine transfer.  İnkaların selefi olan bu esrarengiz kültürün UNESCO Tarihi Miras Listesi’ ndeki en önemli kentini ziyaret ediyoruz.  Sonrasında La Paz’ daki otele transfer.  Akşam yemeği ve geceleme otelde."
+    },
+    {
+      "dayNumber": 7,
+      "title": "La Paz",
+      "description": "Sabah kahvaltı sonrası tam gün La Paz şehrini tanıtıcı turumuza başlıyoruz.  Önce tarihi şehre gidiyoruz ve burada Altın Müzesi ile Milli Etnografya ve Folklor Müzelerini geziyoruz.  Sonrasında Murillo Meydanı,  Ay Vadisi,  San Francisco Kilisesi ve Cadılar Pazarı göreceğimiz yerler arasında.  Akşam yemeği yerel restoranda,  geceleme otelde."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Titicaca Gölü, Puno",
+      "description": "Güne erken başlıyoruz.  La Paz’ dan çıktıktan sonra ilk durağımız Huatajata.  Burada And Kökleri Ekolojik Köyünü ziyaret ediyoruz.  Daha sonra hidrofil ile dünyanın üzerinde taşımacılık yapılan en yüksek gölü olan Titicaca Gölü’ nde (3800mt) yer alan Ay ve Güneş Adaları’ nı ziyaret ediyoruz.  Öğle yemeğimizi Güneş Adası’ nda aldıktan sonra hidrofilimiz bizi Copacabana’ ya bırakıyor.  Buradaki kiliseyi ziyaret ettikten sonra Peru tarafındaki Puno’ ya devam ediyoruz.  Akşam yemeği ve geceleme otelde."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Puno, Juliaca, Lima",
+      "description": "Sabah erken hareketle totora sazlarından yapılmış,  yüzen Uros Adaları’ nı ziyaret ediyoruz.  Sonrasında Juliaca Havalimanı’ na transfer ve Lima’ ya uçuş.  Akşam yemeği yerel restoranda,  geceleme otelde."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Lima, Paracas",
+      "description": "Sabah Pasifik kıyısından,  Panamerican karayolunu izleyerek Pisco’ ya varıyoruz.  Buradan küçük uçaklarla Peru’ nun esrarengiz medeniyeti Nazcalardan kalma ve UNESCO’ nun Dünya Miras Listesindeki NAZCA ÇİZGİLERİNİ’ nin üzerinden uçmak üzere havalanıyoruz.  Bu olağanüstü deneyim sonrası Paracas’ taki otelimize yerleşiyoruz.  Gün içinde hem öğle,  hem akşam yemeği otelimizde.  Geceleme otelde."
+    },
+    {
+      "dayNumber": 11,
+      "title": "PAracas, Lima, Bogota",
+      "description": "Sabah Paracas açıklarındaki Ballestas Adaları’ na hız teknesi ile ulaşıyoruz.  Tekneden inmeden adaların çevresindeki doğal hayatı gözlemliyoruz: Denizaslanları,  Humbolt penguenleri,  karabataklar vb… Turumuz sonrası Lima Havalimanı’ na hareket.  Yerel hava yolu ile Bogota geçiyoruz."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Bogota, İstanbul",
+      "description": "Sabah Kahvaltısını erken aldıktan sonra Bogota Havalimanına transfer,  THY ile TK 175 seferi ile saat 09:30 da İstanbul a hareket.  Sabah saat 09:25 de İstanbul Havalimanı varış.  Siempre Tur tüm misafirlerine bir sonraki seyahate kadar veda eder."
+    }
+  ],
+  "map": ""
+}

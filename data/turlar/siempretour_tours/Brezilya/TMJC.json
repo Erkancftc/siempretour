@@ -1,0 +1,85 @@
+{
+  "destination": "Brezilya",
+  "mainPhoto": "",
+  "id": "TMJC",
+  "tourName": "Brezilya Vahşi Hayatı",
+  "placesVisited": "Brezilya, Arjantin",
+  "generalInfo": "Vahşi hayat tutkunları için bu tur son nokta. Yerel köyleri gezip ormanda yürüyüş yaparak, tekneyle Amazon nehrinde ilerledikçe gerçek bir Amazon deneyimi yaşayın. Bu yeterli gelmezse Pantanal bataklığı üzerinde yüzen evde 3 gece geçirip, jaguarlara, anakondalara ve daha fazlasına rastlayacağınız nehir safarilerine çıkabilirsiniz.<br><br><strong>Önemli not: </strong>Tur programı model bir programdır ve ihtiyaçlarınıza, bütçenize uygun hale getirilebilir.",
+  "durationDays": "18",
+  "price": "4789",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "<p><strong>Tur ve Aktiviteler</strong></p>\n<ul>\n<li>- Rio de Janeiro şehir turu</li>\n<li>- Çeşitli aktivitelerle 3 gecelik Amazon tekne gezisi</li>\n<li>- Pantanal bataklığında 3 günlük jaguar yüzen ev turu</li>\n<li>- Nobres turu</li>\n<li>- Arjantin ve Brezilya’ daki Iguazu şelaleleri</li>\n<li>- Buenos Aires şehir turu</li>\n<li>-Tango gösterisi ve akşam yemeği</li>\n</ul>\n<p><strong>Konaklama</strong></p>\n<p>Otelde 11 gece, yüzen evde 6 gece</p>\n<p><strong>Yemekler</strong></p>\n<p>17 kahvaltı, 7 öğle yemeği, 8 akşam yemeği</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Rio De Janerio' ya Varış",
+      "description": "Otelde 1 gece"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Manaus",
+      "description": "Amazon nehrinde tekne yolculuğunuzun başlangıç noktası olan Manaus uçuşu için havaalanına transfer edileceksiniz. Ertesi günkü Amazon nehri maceranıza başlamadan önce geceyi otelde geçiriyoruz."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Tekneyle Amazon Nehri",
+      "description": "Sabah erkenden kalkarak Amazon nehrinde 3 gece geçireceğiniz tekneye binmek üzere Manaus’ taki iskeleye gideceksiniz. Tekneye bindiğinizde nehirde geçireceğiniz birkaç gün ve karşılaşacağınız bitki ve hayvan türleri hakkında bir bilgilendirme toplantısı yapılacak."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Manaus",
+      "description": "Yağmur ormanında geceyi kampta geçirenler sabah ormanın seslerine uyanacak. Tekneye dönmeden önce kamptaki kahvaltının tadını çıkarın. Tiririca nehri kıyısında yaşayan topluluğu ziyaret ederek adetlerini ve Amazon nehri kenarında yaşamanın nasıl olduğunu öğreneceğiz."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Cuiaba",
+      "description": "Güzel koloni binaları ve harika yemek mizansenleriyle sevimli bir şehir olan Cuiaba’ ya uçuyoruz. 3 günlük Pantanal bataklığı gezimizin başlayacağı şehirde 1 gece geçireceğiz."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Jaguar Yüzen Evler",
+      "description": "Pantanal bataklığı, Amerika kıtalarında sonsuz vahşi hayat gözlem fırsatları sunan bir yerdir. Önümüzdeki 3 gün bataklığın kuzey bölümündeki Paraguay nehrinde demirli olan bir yüzen evi üs olarak kullanacağız. Bu kulübede nehir safarileri yapacak ve küçük tekneleri kullanarak rastlaması zor olan jaguarlar dahil çok değişik vahşi hayat unsurlarını görebileceğiniz nehir gezilerine çıkacaksınız. Bu gezilerde jaguarlara rastlama oranı %89 dur ve eğer yeterince şanslıysanız bu güzel vahşi kedileri görebilirsiniz. Karşılaşabileceğiniz diğer türler kaymanlar, maymunlar, dev nehir samurları ve hatta ender de olsa anakondalar olabilir."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Nobres",
+      "description": "Kahvaltıdan sonra artık yüzen evden karaya çıkarak, geceyi bir kulübede geçireceğiniz Nobres’ e doğru yola çıkıyoruz. Nobres, Bonito’ nun küçük kız kardeşidir-Bonito’ dan çok daha az ziyaret edilen bir yer olmasına karşın, snorkelle yüzmek için harika olan güzel berrak sularıyla ünlüdür. Öğle yemeği için kulübenize tam zamanında ulaşacaksınız ve öğleden sonra snorkelle yüzmek için bir tura çıkacaksınız. Tatlı su balıklarıyla birlikte kristal berraklığındaki sularda yüzeceksiniz. Akşamın erken saatlerinde yüzlerce değişik kuş türünü görebileceğiniz uzun ağaçlarla çevrili güzel bir göl olan Lagoa das Araras’ a gideceksiniz. Sarı yakalı makav papağanları, muhabbet kuşları ve diğer papağan türlerini kaçırmamak için gözlerinizi açık tutun. Akşam yemeği için kulübenize döndükten sonra gece ortaya çıkan bazı türleri görebileceğiniz arazide kısa bir yürüyüşün keyfini çıkarabilirsiniz."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Cuiaba",
+      "description": "Günün kalanını dilediğiniz gibi geçirebileceğiniz Cuiaba’ ya seyahat ediyoruz."
+    },
+    {
+      "dayNumber": 14,
+      "title": "Foz Du Iguacu, Puerto Iguazu",
+      "description": "Iguazu şelalelerine ziyaretimizin başlayacağı Foz du Iguacu’ ya uçuyoruz. Ertesi gün Brezilya tarafındaki şelaleleri görmek üzere yarım günlük bir gezi yapacağız. Ayrıca Brezilya sınırından Arjantin tarafındaki şelalelerin muhteşem panoramik görüntülerini izleyebileceksiniz. Yürüyüş yollarında gezerken Brezilya şelaleleri Floriano, Deodoro, Benjamin ve Santa Maria’ yı izleyin. Bu turun hemen ardından Arjantin’ de Puerto Iguazu’ ya seyahat edeceğiz."
+    },
+    {
+      "dayNumber": 16,
+      "title": "Iguazu Şelaleleri, Buenos Aıres",
+      "description": "Bugün Arjantin tarafından şelaleleri görmek üzere  Iguazu şelaleleri ulusal parkına gideceksiniz. Muhteşem manzaralara tanık olacağınız Alt Devre ye  (Lower Circuit)  doğru ekolojik trene bineceksiniz. Ayrıca 14 şelalenin birlikte her zaman yoğun bir su bulutu oluşturacak güçte döküldüğü büyüleyici Şeytan boğazını da  (Devil’ s Throat)  ziyaret edeceksiniz."
+    },
+    {
+      "dayNumber": 17,
+      "title": "Buenos Aries",
+      "description": "Bugün şehri oluşturan farklı mahalleleri keşfedebileceğiniz panoramik bir tura çıkmak üzere grubunuza katılacaksınız. Herkes toplandıktan sonra, ünlü Colon tiyatrosunu ve portenos (liman bölgesi)  üzerinde yükselen dikilitaşı görebileceğiniz 9 de Julio Avenue boyunca araçla ilerlemeye başlayacağız. Saygı olarak sağlık bakanlığı binasına asılmış 10 kat yüksekliğindeki Evita Peron portresini de görme fırsatı bulacaksınız. Sonrasında Recoleta’ ya kadar yol boyunca güzel yapılarla dolu lüks Palermo semtinden geçeceksiniz. Burada aynı adı taşıyan ve şehrin ünlü sakinlerinin son istirahat yeri olan olağanüstü mezarlığı ziyaret edeceğiz ve Art Nouveau ve neo-Gothic tarzlardaki sayısız çarpıcı mozoleyi görebileceksiniz."
+    },
+    {
+      "dayNumber": 18,
+      "title": "Buenos Aries' den Ayrılış",
+      "description": "Ömrünüz boyunca unutamayacağınız bir macera  bugün sona eriyor. Eğer geç saatte bir uçuşunuz varsa ya da konaklamanızı ve kalış sürenizi uzatırsanız şehri daha fazla gezmek için ekstra zamanınız olacak."
+    }
+  ],
+  "map": ""
+}

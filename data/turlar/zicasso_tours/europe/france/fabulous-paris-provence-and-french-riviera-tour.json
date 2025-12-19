@@ -1,0 +1,80 @@
+{
+  "destination": "France",
+  "mainPhoto": "",
+  "id": "fabulous-paris-provence-and-french-riviera-tour",
+  "tourName": "Fabulous Paris, Provence, and French Riviera Tour",
+  "placesVisited": "Paris, St-Remy-de-Provence, Nice, Antibes",
+  "generalInfo": "From the sparkling skyline of Paris to the fabulous landscapes of the French Riviera, your 11-day tour through France will allow you to create unforgettable memories within breathtaking sceneries. During this memorable tour, you will explore the culture and heritage of France in addition to discovering the centuries-old influences that dominate its towns, communes, and villages along the countryside and Mediterranean coast.",
+  "durationDays": "11",
+  "price": "5,000",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Paris - Notre-Dame Cathedral",
+      "description": "Baroque motifs decorate the buildings of Paris, flavorful restaurants afford visitors views of the Eiffel Tower, and elegant fashion stores are spread throughout the city. You will be impressed from the moment you arrive in this spellbinding destination. After being collected at the airport by a private transfer and settling into your accommodation, you will tour the city, from the arches of Arc de Triomphe to the Cathedral of Notre-Dame. Afterward, you will return to your boutique accommodation for an evening under the French sky."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Paris - Resplendent Moments in Versailles",
+      "description": "French architecture dates back to eras when distinctive designs swept Europe by storm. Just beyond Paris, these architectural characteristics are represented within the royal Palace of Versailles. Home to regal rooms of romantic art and a dramatic history that dates back to the rule of Louis XIV and Marie Antoinette, the palace will present you with much to enjoy. After peering out from the windows of this bejeweled palace, you will witness scenes of its manicured lawns and bushy flower gardens. Afterward, you will have the remainder of the day to spend however you see fit."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Paris - Savoring French Cuisine",
+      "description": "A huge part of the appeal of visiting a foreign country is delving into their culinary delicacies. Today, you will explore the flavors of France on a guided tour through the city. While you meander along the cobblestone streets of Saint-Germain-des-Pres, fragrances of bold cuisine will drift from chic eateries, and the sweet melodies of French music will ring from terraces. These exquisite restaurants will invite you to dine beneath their sparkling chandeliers on dishes that are characteristic of Franceâs unique culinary flair."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Saint-Remy-de-Provence - Slow Discoveries",
+      "description": "Your transfer today will lead you to Avignon before Saint-Remy-de-Provence. Chaperoned by a private guide, you will be able to bask up its charm while exploring districts veiled in sunshine. Century-old personality will drip from the grand cathedrals and chapels, divine fashion collections will burst from the windows of boutique stores, and the ancient allure of France will flow from Avignonâs neighborhoods. A sumptuous taste of the local delights will conclude a stunning visit to the city."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Saint-Remy-de-Provence - Roman and Medieval Architecture",
+      "description": "Saint-Remy-de-Provence is a gateway into the origins of Franceâs hallowed countryside. From here, you will tour Arles and Les Baux-de-Provence to witness incredible landscapes. Arles, a UNESCO World Heritage Site, is built on the foundations of its Roman heritage, which is flawlessly depicted by the Romanesque architecture that dominates its skyline. This is where Van Gogh was at his most productive; here, he was inspired to curate over 300 evocative pieces of art. In Les Baux-de-Provence, grey-stone homes and cobblestone roads are typical of the medieval origins on which a large part of France is founded."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Saint-Remy-de-Provence - Truffle Treats",
+      "description": "In the Luberon Valley, flowers bloom vividly in unspoiled gardens, and lily pads hover on lakes. You will visit this mesmerizing slice of natural paradise today and tour its villages and humble markets. Around you, viridian vineyards will cascade down rolling hills, olive groves will blanket wedges of the countryside, and Roman ruins will litter areas of the emerald greenery. In the valley, delectable truffles grow and are picked so that they can be prepared for exquisite dishes, and you can indulge in this delicacy during a truffle-infused taste tour."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Nice - Compelling Scenes on Cap Ferrat",
+      "description": "The French Riviera is glamorous and boasts some of the countryâs most enchanting beaches that spread across its coast. The retreat of the former aristocrats will be yours to bask in when you transfer through the French countryside by train to the vibrant shores of Nice. Upon your arrival, you will check in to your accommodation and transfer to Cap Ferrat, one of three stunning capes on the French Riviera. Here, the views will be unbelievably serene. Opulence emanates from deluxe villas that make up the setting and will encourage you to attempt to capture every moment among this bewitching part of France."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Nice - Admirable Vistas in Antibes",
+      "description": "Admirable sea views abound on the golden headlands of Antibes, an old town that overlooks the trendy seafront of Nice. You will spend the morning treasuring the tranquil atmosphere that reverberates from the townâs endearing markets before touring Saint-Paul-de-Vence. The beauty of Saint-Paul-de-Vence has inspired the work of Europeâs great artists and writers, much in the same way it will inspire you today. You may appreciate the astounding vistas and meticulous art the town has to offer before returning to your resort in Nice."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Nice - Make Way for Monaco",
+      "description": "More endearing charm and seaside spectacles await you today in Villefranche-sur-Mer and Monaco. A medieval ambiance surrounds Villefranche-sur-Mer like an ancient glove and is highlighted by the 16th-Century citadel and chapel. You can also find spiritual beauty in the heart of Monte Carlo, Monaco. Within its grand palaces and soaring cathedrals, you will discover the significance of religion here and cherish the city's inspiring designs. You may even be seduced by the vibrant city life during moments in the city's dazzling retail and culinary districts."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Nice - Charming Traditional Villages",
+      "description": "Your final full day in France will be yours to spend as you please. With nothing set in stone, you may spend it on the sandy beaches or partaking in a few luxuries that you will be yet to experience. Your options, among many others, include visits to bucolic landscapes along the French Riviera and resting peacefully under the sun. If you wish to immerse yourself in the culture, then you may delight in a guided culinary class that will immerse you in the techniques of French cuisine."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Nice - Up, Up, and Away",
+      "description": "The morning sunshine will flood the town squares and dance off the sea, setting an idyllic backdrop for your last moments in France. By strolling along the boulevards, you may feel the energy as it emanates from the local taverns and museums. You can join in the fun or seek seclusion at a sleepy cafe before transferring to the international airport for your departing flight."
+    }
+  ],
+  "map": ""
+}

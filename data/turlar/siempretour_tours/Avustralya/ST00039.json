@@ -1,0 +1,100 @@
+{
+  "destination": "Avustralya",
+  "mainPhoto": "",
+  "id": "ST00039",
+  "tourName": "İki Haftada Büyük Avustralya Turu",
+  "placesVisited": "Avustralya",
+  "generalInfo": "Avustralya kendi başına bir sınıftır. Yağmur ormanları Kraliçe Adaları tepelerine doğru ilerler ve Büyük Set Resfine doğru  giden altın kumlu plajlara dokunur. Kireçtaşı tabakaları, Büyük Okyanus Yolu'nun yanında farklı manzaralar sunan kıyı şeridini karşılar. Sidney Opera Binası, yelkenli bir çatı katını zengin Sidney Limanı'nın zemine karşı yükseltir. Avustralya'nın ihtişamı, ağaçlarda uyuyan koalalardan, sahilde yuva yapan penguenlere kadar büyüleyici bir ortam sunar.  İki hafta içinde Avustralya'yı turlayın ve Hayal Zamanı efsanelerinden Melbourne'un sanat galerilerine kadar yayılan ülkenin güzelliğini keşfedin.<br><br><strong>ÖNE ÇIKANLAR</strong>",
+  "durationDays": "15",
+  "price": "FİYAT İSTEYİNİZ",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li>- Türkçe Rehberlik Hizmeti,</li>\n<li>- Uçak Biletleri</li>\n<li>- Otellerde konaklama</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Sidney'e varış",
+      "description": "Sidney, Avustralya'nın en eski şehri ve inanılmaz derecede baştan çıkarıcıdır. Sidney Harbour Köprüsü'nün kemerinin altından geçiyorsunuz. Ünlü Sidney Opera Binası, tuğla döşeli bir mostra üzerinde duruyor. Tavan, deniz rüzgarını yakalayan sonsuz yelken gibi havaya yükselir. Çarpıcı dalgalara karşı çok sayıda altın kum plajı parıldar. Havalimanının sizi karşılaması için beklediği Sidney Havaalanı'na varırsınız. Şehrin kalbine doğru ilerliyor ve şehir merkezine bakan manzaralı lüks bir konaklama birimine yerleşiyorsunuz. Kaya hattının tarihi binaları ve dar arnavut kaldırımlı şeritleri vardır."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Sidney, Yarım Gün Şehir Turu",
+      "description": "Sabah, güneşin ufku kırmızı, turuncu, sarı ve pembeyle örtüşen tonlarla kaplar. Açık mavi, ufuk çizgisini solluyor. Tekneler, Pasifik Okyanusu'nun masmavi yüzeyine uzanıyor. Yelkenlerini esintiye döküyorlar ve limanı geçiyorlar. Sidney Opera Binası'nın çatı katı ile tasarımcı binasını geçen gemiler arasındaki bağlantıyı her gün görebilirsiniz. Kahvaltıdan sonra, kentin unutulmaz manzaralarını gezmek için küçük bir gruba katılırsınız. Teras evleriyle Paddington semtinden Oxford Street'teki popüler kaldırımlara çıkabilirsiniz. Sidney Liman Köprüsü 1930'larda dikildi ve dünyanın en büyük çelik kemer köprüsü olarak kaldı."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Cruise Sidney Harbour",
+      "description": "Sabahları, genç  Sidney sakinleri, kentin iki üniversitesinin arasında yer alan Glebe semtinde yola çıktı. Cumartesi günü, Rocks Market vintage giyim, plaklar, el oyması mobilyalar ve el işi mücevherlere sahiptir. Kahvaltıdan sonra Sidney Limanı'na doğru ilerliyor ve Rocket Feribotu olarak bilinen canlandırıcı bir denizcilik gemisine adım atıyorsunuz. Günün geri kalanı sizin tercih ettiğiniz hızda şehrin harikalarını keşfetmek, yemyeşil sokakları, Victoria teraslarını ve banliyö mahallelerinin ezoterik butik dükkanlarını gezmek ya da Yeni Güney Sanat Galerisi'ndeki etkileyici Avustralya sanat koleksiyonunu ziyaret etmek için sizindir."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Bondi'de Sörf Yapmak",
+      "description": "Bondi Plajı, bozulmamış suları, muhteşem dalga kıranları ve gerçek televizyon programı Bondi kurtarması ile tanınan Sidney'deki en ünlü sahil şeritlerinden biridir. Kahvaltıdan sonra Bondi Sahili'ne gidiyorsunuz. Bu isim, kayaların üzerinde kırılan suyun sesi anlamına gelen “Boondi” dünyasından geliyor. Plaj yarım milden daha uzun. Göç sezonunda, ufuk boyunca balina delikleri ve kemerli yunuslar görebilirsiniz. Su, altın kumda tembelce oturuyor. Kıyıda sörf eğitmeniniz, el yorulma sanatı da dahil olmak üzere temel manevraları öğrenmek için sizi beklemektedir. Hazır olduğunuzda okyanusa gireceksiniz."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Cairns'e Uçmak",
+      "description": "Sabahları, Rocks'taki dükkanlar, çok sayıda tasarımcı kıyafeti, organik ürünler, lüks topuklu ayakkabılar ve benzersiz tasarımlarıyla tezgahlarını açıyor. Kafeler genç profesyonellere, emeklilere ve sabah kahvesi arayan sanatçılara açıktır. Kafe sahnesinde eklektik patronlar ve ünlü kahveler, yaratıcı garsonların acı tatlı karışımlarıyla tatlı ve tuzlu yiyecekleri harmanlıyor. Transferiniz, Avustralya'nın kuzeydoğusundaki Queensland eyaletinde bulunan Cairns'e uçuşunuz için sizi Sidney Havaalanı'na götürür."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Mossman Gorge ve Dreamtime'ı Keşfetmek",
+      "description": "Yerli incir, Ficus Hispida'nın yükselen dallarında yetişir. Gövdesi toplam 32 fit yüksekliğe ulaşan Flacourtia Jangomas'ın dallarında olgun kırmızı meyve çiçeği vardır. Kuzeydoğu Queensland'da, orkidelerden avuç içlerine kadar 1000'den fazla ağaç türü tespit edilmiştir ve yaprak, aromalar ve dalların zıtlığı ormandaki gün kadar canlıdır. Kahvaltıdan sonra, araziyi ve toprakları yaşamaya devam eden Aborijin kabileleri hakkında daha derin bir keşif için Mossman Gorge'a giriyorsunuz. Akarsular yakındaki yükselen dağlardan getirilen soğuk su ile akar. Rehberiniz sizi Yerli halkı Ngadiku'nun seyahat ettiği rotalara götürüyor."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Port Douglas'a Taşınmak",
+      "description": "Sabahları, zorlu kasabanın çağrılarını duyabilirsiniz. Eşsiz ve renkli kuş, bir devekuşu büyüklüğünde, altı buçuk feet boyunda büyür. Parlak mavi boyun ve yüz, yanardöner kırmızı gözlerini ve vücudunun kalın siyah tüylerini kontrast eder. Kahvaltıdan sonra özel transferiniz, Daintree Yağmur Ormanı'ndaki lüks konaklama alanınızdan Port Douglas'daki zengin kıyı çekilmenize kadar uzanır. Gözlerden uzak ortam ve lüks stil, yağmur ormanı ve Pasifik Okyanusu arasında dolanan tropikal atmosfere karışmanızı sağlar. Palmiye ağaçları ve vahşi mango ağaçları, altın kumlu plajları çevreleyen manzarayı siler. Turkuaz okyanus, plaj boyunca altın kum setinde seyrederken, mükemmel bir manzaraya sahiptir. Port Douglas kasabası bir zamanlar bir balıkçı köyüydi ama şimdi palmiye ağaçları ile çevrili beyaz kumdan bir şerit olan Four Mile Plajı'nın çizdiği lüks bir tatil kasabası."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Büyük Set Resifi",
+      "description": "Sabah, güneş ışığı Pasifik'i yıkar ve turkuaz yüzeyinde bir parıltı yaratır. Kahvaltıdan sonra, dünyaca ünlü Büyük Set Resfinin çevresinde lüks yolculuğunuzun konforuna çıkmak için Marina Mirage'a giriş yapacaksınız. Yaklaşık 100 metre uzunluğundaki katamaran ve Alçak Adalar, ıssız mercan ve mangrov Woody adası ve Low adasının kumlu mercan kumlarından oluşan bir adacık etrafında size eşlik edecek mükemmel lüks gemi karşılar. Resif 1,400 milden fazla uzanır ve dış alandan görülebilir."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Queensland’da Dinlenme",
+      "description": "Bugün, Queensland'ın ihtişamını tatma fırsatınız olacak. Büyük Set Resif'in kenarlarına, başka bir gün için gösterişli balıklarla yüzmeye çıkın ya da yağmur ormanı gölgesinin eşsiz bir keşfi için yağmur ormanlarına yolculuk yapın. Kahvaltıdan sonra rehberiniz sizi otelinizde karşılar ve orman sörfü gününü yaşamak için Daintree Yağmur Ormanı'na götürür. Wompoo meyvesi güvercin çağrısı ağaçların arasından geçiyor. Yeşil ağaç kurbağası, hışırtı yapraklarının zeminine çarpıyor."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Queensland'da Bir Gevşeme Günü",
+      "description": "Bugün, Queensland'ın ihtişamını keşfetmek için başka bir fırsat. Four Mile Plajı'nın büyüleyici beyaz kumlarında dinlenebilir veya Port Douglas'ın ilginç yollarında gezebilirsiniz. Tarihi ve manzaralı bir demiryolu üzerinde Kuranda'ya giriş yapın ve okyanusun yağmur ormanlarını bir Skyrail gondolunun mahremiyetinden karşıladığı panoramik manzaranın tadını çıkarın. Kahvaltıdan sonra, ziyaretçilere yerel yaban hayatı gözlemleme şansı veren ödüllü bir çevre yaşam alanı olan Yaban Hayatı Habitatı'na doğru ilerliyorsunuz. Rezerv, doğal çevreyi korumaya adanmış sekiz dönüm üzerinde 1980'lerde kuruldu."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Melbourne'ye transfer",
+      "description": "Sabah, Port Douglas'ın kıyılarında uzanarak uzaktaki suyu dinlersiniz. Tekneler Pasifik'e girip yelkenlerini fırlatır. Güneş ışığı, tatilinizi çevreleyen palmiye ağaçlarının gölgeliklerini örter. Kahvaltıdan sonra, özel transferiniz Melbourne şehrine uçuş için sizi Cairns Havaalanı'na götürür. Kent, Yarra Nehri'nin kıyısından yayılır ve 19. yüzyılda kurulmuştur. Viktorya dönemi mimarisi şehir merkezini doldurmaya devam ediyor ve tarihi tramvaylar sokaklarda raylar boyunca ilerliyor. İlkbahar ve yaz aylarında bahçeler çiçeği. Gizli şeritler, pop-up galerileri ve şehrin ünlü sokak sanatı aracılığıyla bohem ambiyansı ve sanatsal ifadesi sunmaktadır."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Melbourne Nehri Gezisi",
+      "description": "Sabah saatlerinde, Melbourne işe giderken şehir ve sokakları, kafeleri ve restoranları dolduran kasabaları gezen tramvaylarla hayat buluyor. Taze sıkılmış kahvenin aroması, zengin espresso ve sanatsal barista sınıflarıyla bilinen bir kahve dükkanı olan Market Lane'in yemek odasını doldurmaktadır. Sabah, şehrin birçok zevkini ve bitmeyen görkemini keşfetmek için sizindir. Federasyon Meydanı, federasyonun yüzüncü yılını anmak için 2002 yılında açılan eşsiz bir sanatsal yapıdır. Ultra modern tasarım, çatı katındaki açık ve kapalı alanların kullanımını ve binanın Melbourne şehir merkezindeki Viktorya dönemi mimarisinden ayrı olarak yerleştirilmesini önermektedir. Akşam, suyolu boyunca büyüleyici bir seyir için Yarra Nehri'nin kıyısına doğru yol alırsınız."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Phillip Adasına Yolculuk",
+      "description": "Sabah, ışık Avustralya'daki en eski halk sanat galerisi olan Victoria Ulusal Galerisi'nin geniş ve zarif pencerelerinden parıldar. Büyük Salonda, ziyaretçiler yere oturmakta ya da uzanmakta ve vitray tavanın canlı renklerine bakmaktadır. Kahvaltıdan sonra, koruma alanı kıyılarında bir günlüğüne Phillip Adası'na doğru ilerliyorsunuz. Bir miras çiftliği, Churchill Adası'nda 140 dönümden daha fazlasını kapsamaktadır. Çalışan çiftlik, ziyaretçilere Victoria eyaletinde 19. yüzyıla ait çiftlik işlerinin peyzajı ve tarihi önemini anlatan kültürel değerleri öğretir. Phillip Adasında, Nobbies Merkezinin dışındaki tahta kaldırımlar boyunca dolaşıyorsunuz."
+    },
+    {
+      "dayNumber": 14,
+      "title": "Büyük Okyanus Yolu Üzerinde Bir Gün",
+      "description": "Fitzroy semtinde, öğrenciler ve sanatçılar Brunswick Caddesi boyunca bir bohem şıklığı yaratırlar. Meşgul kafeler kapılarını gece kitapçılarının yanında açarlar. Sanat galerileri, galeri kapılarının yakınındaki tuğla duvarlara boyanmış sokak sanatının güzelliğini ve ayırt edici özelliklerini temsil eden küçük sokaklarda saklanıyor. Kahvaltıdan sonra, Büyük Okyanus Yolu olarak bilinen meşhur sahil şeridini geçmek için şehrin arkasından gidersiniz. Karayolu, Victoria eyaletinde uzanan 151 mil uzunluğunda. 1919-1932 yılları arasında inşa edilmiştir. Okaliptüs ağaçları, sarp kıyı şeridi ve Antarktika Okyanusu'nun üzerinde yükselen yamaçlar boyunca büyür."
+    },
+    {
+      "dayNumber": 15,
+      "title": "Havalandırma",
+      "description": "Sabah, Queen Victoria Market'in satıcıları dükkanlarına geri döndüler. 600'den fazla tüccarla, pazar yeri, geleneksel Melbourne yaşamı ile dolu, taze ürünler, taze balıklar ve lezzetli şarküteri bulmak için yerel halkla doldu. İkincisi, satıcıların yumuşak peynirler, Polonyalı sosisler ve geleneksel Yunan dipsleri gösterdiği şarküterede yer alıyor. Pazar 1800'lerin sonunda açıldı. Özel mağazalar caddeyi kaplar ve yeniden düzenlenen nakliye konteynerleri esnaf atölyeleri ve tezgahları için yer sunar. Melbourne, her şekil ve boyutta sanat, yemek, kültür hazinesi yapan bir şehir. Kahvaltıdan sonra transferiniz, uçuş eviniz için sizi Melbourne Havaalanı'na götürecektir."
+    }
+  ],
+  "map": ""
+}

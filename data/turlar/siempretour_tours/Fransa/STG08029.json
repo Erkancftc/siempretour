@@ -1,0 +1,65 @@
+{
+  "destination": "Fransa",
+  "mainPhoto": "",
+  "id": "STG08029",
+  "tourName": "MSC Divina ile Batı Akdeniz - 19 Nisan & 24 Mayıs & 28 Haziran & 19 Temmuz & 04.Ekim.2020",
+  "placesVisited": "Fransa, İtalya, İspanya",
+  "generalInfo": "Marsilya, Barselona, İbiza, Denizde Seyir, Napoli, Livorno, Cenova, Marsilya",
+  "durationDays": "8",
+  "price": "1149",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p>* Türk Havayolları ile ekonomi sınıfı IST-MARSİLYA-IST Uçuşlar<br/>\r\n* Gemide   7 gece tam pansiyon konaklama<br/>\r\n* Havaalanı - liman - havaalanı transferleri<br/>\r\n* Türkçe rehberlik hizmeti<br/>\r\n* Gemide düzenlenen  ücretsiz animasyon ve şovlar<br/>\r\n* Kaptanın hoşgeldin partisi ve gala yemeği<br/>\r\n* Havalimanı ve liman vergileri<br/>\r\n* Yurtdışı Seyahat Sağlık ve İptal Sigortası</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Marsilya (Fransa)",
+      "description": "Marsilya (Fransa)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "Barselona (İspanya)",
+      "description": "Barselona (İspanya)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "İbiza (İspanya)",
+      "description": "İbiza (İspanya)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 5,
+      "title": "Napoli (İtalya)",
+      "description": "Napoli (İtalya)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Livorno (İtalya)",
+      "description": "Livorno (İtalya)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "Cenova / Portofino (İtalya)",
+      "description": "Cenova / Portofino (İtalya)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "Marsilya (Fransa)",
+      "description": "Marsilya (Fransa)"
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,95 @@
+{
+  "destination": "İtalya",
+  "mainPhoto": "",
+  "id": "STG08016",
+  "tourName": "MSC Seaview ile Grand Voyage ( İtalya, İspanya, Brezilya ) - 19.Kasım.2019",
+  "placesVisited": "İtalya, İspanya, Brezilya",
+  "generalInfo": "Civitavecchia, Palermo, Denizde Seyir, Palma de Mallorca, Valensiya, Malaga, Denizde Seyir, Santa Cruz de Tenerife, Denizde Seyir, Salvador, Ilheus, Denizde Seyir, Rio de Janeiro, Santos",
+  "durationDays": "18",
+  "price": "1959",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p>*  THY ile ekonomi sınıfı İstanbul (SAW)- Roma / Santos - İstanbul uçuşu</p>\n<p>*  Tercih etmiş olduğunuz kategorideki kabinde 17 gece tam pansiyon</p>\n<p>*  1 Gece 4* hotel konaklaması</p>\n<p>*  Havaalanı - liman - havaalanı transferleri.</p>\n<p>*  Vergiler</p>\n<p>*  Grup doluluk oranı 50% ve üzeri olması durumunda Türkçe</p>\n<p>rehberlik hizmeti garanti edilmektedir.</p>\n<p>*  Hergün ve gece için düzenlenen eğlence, animasyon ve şovlar</p>\n<p>*  Gemideki sabah, öğle ve akşam yemekleri</p>\n<p>*  Kaptanın hoşgeldin partisi ve gala yemeği</p>\n<p>*  Fitness</p>\n<p>*  Havaalanı - liman vergileri</p>\n<p>*  Vize için gerekli teminatları da içeren MSC Cruises seyahat</p>\n<p>Seyahat ve sigorta paketi (70 yaş üzeri %100 sürprim uygulanır Sadece Türk vatandaşlarına sigorta yapılır)</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Civitavecchia/ROMA (İtalya)",
+      "description": "Civitavecchia/ROMA (İtalya)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "Palermo (Sicilya)",
+      "description": "Palermo (Sicilya)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 4,
+      "title": "Palma de Mallorca (Balear Adaları)",
+      "description": "Palma de Mallorca (Balear Adaları)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "Valensiya (İspanya)",
+      "description": "Valensiya (İspanya)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Malaga (İspanya)",
+      "description": "Malaga (İspanya)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "Santa Cruz de Tenerife (İspanya)",
+      "description": "Santa Cruz de Tenerife (İspanya)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 13,
+      "title": "Salvador (Breziya)",
+      "description": "Salvador (Breziya)"
+    },
+    {
+      "dayNumber": 14,
+      "title": "Ilheus (Brezilya)",
+      "description": "Ilheus (Brezilya)"
+    },
+    {
+      "dayNumber": 15,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 16,
+      "title": "Rio de Janeiro (Brezilya)",
+      "description": "Rio de Janeiro (Brezilya)"
+    },
+    {
+      "dayNumber": 17,
+      "title": "Santos (Brezilya)",
+      "description": "Santos (Brezilya)"
+    },
+    {
+      "dayNumber": 18,
+      "title": "Santos' tan Ayrılış",
+      "description": ""
+    }
+  ],
+  "map": ""
+}

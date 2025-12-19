@@ -1,0 +1,100 @@
+{
+  "destination": "India",
+  "mainPhoto": "",
+  "id": "15-day-golden-triangle-with-vineyard-tour",
+  "tourName": "15-Day Golden Triangle with Vineyard Tour",
+  "placesVisited": "New Delhi, Agra, Fatehpur Sikri, Jaipur, Mumbai, Nashik, Aurangabad",
+  "generalInfo": "India is a traveler's dream destination, combining architectural history with culinary culture, sensational wines with exquisite countryside views, and bustling cityscapes with rural charms that you can enjoy on this 15-day exploration from New Delhi to Aurangabad. Discover the heritage of prestigious landmarks including the Taj Mahal, enter the caves of Aurangabad, and sip on vintages produced from Nashikâs award-winning vineyards during this curated and customizable vacation.",
+  "durationDays": "15",
+  "price": "4,300",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "New Delhi - The Welcoming energy of Indiaâs Capital",
+      "description": "Indiaâs capital city, New Delhi, entrances visitors with its rich reservoirs of history and bubbly districts decorated with modern amenities. Buildings lay on top of one another in heritage neighborhoods and rise stories high over the jam-packed streets, spiritual sites command attention among the robust energy that swarms the boulevards surrounding their lavish architecture, and modern complexes provide an escape from the everyday crowds. You will be seduced by the cultural atmosphere that sweeps New Delhi as you arrive and transfer to your home for the next two nights."
+    },
+    {
+      "dayNumber": "2",
+      "title": "New Delhi - Discover the Wonders of New Delhi",
+      "description": "With jaw-dropping landmarks and monuments, energetic neighborhoods, surreal architectural highlights, and colorful culinary markets, New Delhiâs combination of history and culture will come to life during your tour of the city today. Your adventure will begin outside the iconic blushed walls of the former Mughal dynasty residency, the Red Fort. A stop thereafter at the lush lawns of the Raj Ghat will let you soak in the stories of Mohandas Karamchand Gandhi beneath the shady exotic trees. You will also explore the stalls of the Chandni Chowk market before visiting a selection of memorials, tombs, and heritage sites."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Agra - En Route to the Home of the Taj Mahal",
+      "description": "Home to the Taj Mahal, one of the seven wonders of the world, Agra is a historic destination that draws tourists from all over eager to witness the stately complex in all its palatial glory. Beyond the grounds of the sanctified site, you will find comforts and hidden treasures within a city beautifully poised on the banks of the Yamuna River. Your journey to Agra will be across the Indian countryside, and you will cherish views of vast emerald plateaus, towering rocky peaks, and rural cow-grazed pastures en route to your accommodation tucked away in the heart of Agra."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Agra - Scenes of the Taj Mahal at Sunrise",
+      "description": "Visiting the Taj Mahal is a memorable experience made all the more spectacular this morning as you venture to the sacred complex before sunrise. The sun will peek above the horizon and the tip of the Taj Mahalâs towering dome will glint as the rest of its white-washed facade glows with radiant light. The edifice is a phenomenal ode to the finest Mughal architecture, and inside, you will uncover fables from another time. You will tuck into breakfast afterward and then visit other renowned landmarks such as Agra Fort, Itmad-Ud-Daulahâs Tomb, and the Mughal Heritage Kachhpura Village for high tea."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Jaipur - The Red Sandstone City of Fatehpur Sikri",
+      "description": "While cities like New Delhi and Agra are the most famous in India for their world-renowned landmarks and abundance of UNESCO-listed heritage sites, the Indian countryside is riddled with less-traveled destinations and historic cities that present travelers with unique cultural experiences. One of the most significant en route to Jaipur is Fatehpur Sikri, a 16th-century city made from red sandstone. The mesmerizing fortified kingdom stands proudly representing the height of Mughal architecture and will be a welcomed heritage pitstop on your way to the Pink City of Jaipur."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Jaipur - Flawless Finds in the Pink City",
+      "description": "Jaipur is a sightseerâs paradise boasting a collection of coveted landmarks, magnificent museums, and sensational spiritual sites that you will explore during a guided tour today. The Amber Fort remains one of Indiaâs most breathtaking locations with a meticulously carved edifice, labyrinth of passageways, and imposing domed towers overlooking the Pink City. Your tour will continue to the Jaigarh Fort, City Palace and Museum, and Hawa Mahal for inspiring photography worthy of an editorial backdrop. In the evening, you may enjoy the traditional art of Henna painting performed by a professional Henna artist."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Mumbai - The Home of Bollywood Filmmaking",
+      "description": "You will leave Jaipur this morning for Indiaâs hub of commerce and trade, Mumbai. Many know of Mumbai as the capital of Bollywood filmmaking, yet few are lucky enough to uncover all that this bustling and beautiful city has to offer. Spanning the west coast of India and rising over the Mumbai Harbour, its skyline is instantly recognizable and you will spend your days discovering the distinctions of Mumbai from an accommodation with views of the sparkling skyline and sprawling sea."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Mumbai - Ancient Encounters on Elephanta Island",
+      "description": "Mumbai boasts treasured highlights and the city is also a gateway to one of Indiaâs most iconic cave escapes. Your guide will show you to the Elephanta Caves on Elephanta Island, a short ferry trip away from the mainland across the azure waters of the Arabian Sea. Inside the caves, Hindu and Buddhist rock art veils dimly lit caverns, figurines and carvings embellish the chambers, and tales shared by your guide will paint a picture of the old world. Afterward, return to Mumbai and make notable stops beneath the enormous arch of the Gateway of India, Hanging Gardens, and more."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Nashik - Inspiring Stories of the Dharavi Slum",
+      "description": "Today, you will spend your morning experiencing one of the most eye-opening tours in India. You will join your friendly and knowledgeable guide on an expedition through the Dharavi slum, the largest slum in Asia home to more than a million people. You will not venture into the heart of the slum, rather, travel the outskirts and meet a local family who will share stories of their tragic lives. The stories will, however, inspire hope as they are rooted in deep spiritual beliefs and unprecedented feelings of hope. You will later transfer to Nashik."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Nashik - The Wine Capital of India",
+      "description": "Nashik is a wine lover's paradise and you will delve into the history of winemaking in the region as you sip on sensational varietals produced by the local vineyards. Your guide will lead you to the illustrious vineyards of Sula, where you will taste a variety of reds, whites, and sparkling wines that represent a vast majority of the wine industry in India. The wine tasting will not end there though, with the Soma Winery marking your next mouthwatering stop. Located between the backwaters of the Gangapur Dam and Sahyadri Ranges, tasting on this plantation provides exquisite views."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Nashik - More Wine Tasting in the Hills",
+      "description": "There are more incredible wines to try in Nashik, and your guide will lead you through the evergreen valleys and flourishing vineyards of elite wineries Grover Zampa, Vallone Vineyards, and York Winery today. Each destination produces vintages using a combination of traditional winemaking practices and state-of-the-art technology to deliver a tantalizing sip with each glass. Sunny courtyards, sprawling views of bucolic countryside, and sizable tasting rooms await on your indulgent wine tour today. In the evening, you will sip slowly as the starry sky twinkles in over Nashik."
+    },
+    {
+      "dayNumber": "12",
+      "title": "Aurangabad - 17th-Century Marvels of Aurangabad",
+      "description": "Aurangabad holds a prominent history in Indian storybooks as the destination of the 17th-century marble Bibi ka Maqbara shrine, significant war museums, and more. Today, you will transfer to its historic neighborhoods and retreat to a charming accommodation around the corner from Aurangabadâs main attractions. The afternoon and evening are yours to enjoy the lively atmosphere at leisure, whether you wish to tuck into exotic curries at coveted restaurants or wander the busy markets to browse elaborate silk garments, hand-woven items, and more."
+    },
+    {
+      "dayNumber": "13",
+      "title": "Aurangabad - Astonishing Discoveries in the Ajanta Caves",
+      "description": "The Ajanta Caves of Aurangabad are a UNESCO World Heritage destination dripping with Buddhist culture woven into the fabric of the unique sculptures and emblematic paintings that adorn its interior walls. You will enter the elaborate grounds of the 2nd-century caves and discover what makes this historic location Indiaâs most prestigious monument. The sculptures detail the meticulous craftsmanship of people who came before us, the paintings reflect the artistry of former eras, and the construction is particularly impressive within the formidable caverns and chambers."
+    },
+    {
+      "dayNumber": "14",
+      "title": "Aurangabad - More Captivating Cave Exploration",
+      "description": "While the Ajanta Caves represent the golden age of cave carving in Aurangabad, the region is home to an assortment of fascinating caves each with its own take on the former craftsmanship of early civilizations. The Ellora Caves, Buddhist Caves, Hindu Caves, and Jain Caves each represent a different century in the history books and these eras are traced through the unique designs, paintings, and sculptures that fill their caverns. During your tour of Ellora, you will visit the extraordinary Kailasanatha Temple and following your cave tour, you will visit the world-famous Bibi ka Maqbara."
+    },
+    {
+      "dayNumber": "15",
+      "title": "Aurangabad - An End to Your Adventures in India",
+      "description": "Wake up to the sounds of honking cars and chatting locals wandering the streets to find a comfortable seat for a quick bite to eat. You may stroll from your hotel around the neighborhood, and embrace the spirited ambiance as you browse stores presenting cultural trinkets for you to purchase as symbols of your fascinating adventures in India. You will return to your accommodation for breakfast afterward, collect your things, and join your transfer for a short trip to the airport where you will say goodbye to the city of Aurangabad."
+    }
+  ],
+  "map": ""
+}

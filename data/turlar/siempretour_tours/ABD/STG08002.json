@@ -1,0 +1,65 @@
+{
+  "destination": "ABD",
+  "mainPhoto": "",
+  "id": "STG08002",
+  "tourName": "MSC Divina ile Karayı̇pler - 12.Mart.2020",
+  "placesVisited": "ABD, Porto Riko, Virgin Adaları, St. Marteen",
+  "generalInfo": "Miami, Denizde Seyis, San Juan, Road                        Town, Philipsburg, Denizde Seyir, Denizde Seyir, Miami",
+  "durationDays": "9",
+  "price": "1374",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p>*  THY ile ekonomi sınıfı İstanbul - Miami - İstanbul uçuşu</p>\n<p>*  Tercih etmiş olduğunuz kategorideki kabinde 7 gece tam pansiyon konaklama</p>\n<p>*  1 gece 4* otel konaklaması - Kahvaltı dahil</p>\n<p>*  Havaalanı - Hotel - liman - havaalanı transferleri.</p>\n<p>*  Grup doluluk oranı 50% ve üzeri olması durumunda Türkçe rehberlik hizmeti garanti edilmektedir.</p>\n<p>*  Her gün ve gece için düzenlenen eğlence, animasyon ve şovlar</p>\n<p>*  Gemideki sabah, öğle ve akşam yemekleri</p>\n<p>*  Kaptanın hoşgeldin partisi ve gala yemeği</p>\n<p>*  Fitness</p>\n<p>*  Havaalanı ve Liman vergileri</p>\n<p>*  Vize için gerekli teminatları da içeren MSC Cruises seyahat</p>\n<p>*  Seyahat ve sigorta paketi (70 yaş üzeri %100 sürprim uygulanır. Sadece Türk vatandaşlarına sigorta yapılır)</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Miami' ye Varış",
+      "description": "Miami' ye Varış ve Otele transfer"
+    },
+    {
+      "dayNumber": 2,
+      "title": "Miami",
+      "description": "Miami"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 4,
+      "title": "San Juan  (PORTO RİKO)",
+      "description": "San Juan  (PORTO RİKO)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "Road Town (VIRGIN ADALARI)",
+      "description": "Road Town (VIRGIN ADALARI)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Philipsburg (St. MARTEEN)",
+      "description": "Philipsburg (St. MARTEEN)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 9,
+      "title": "Miami",
+      "description": "Miami"
+    }
+  ],
+  "map": ""
+}

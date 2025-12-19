@@ -1,0 +1,70 @@
+{
+  "destination": "Amerika",
+  "mainPhoto": "",
+  "id": "STG09035",
+  "tourName": "Allure of the Seas ile Doğu Karayipler - 18.Ocak.2020",
+  "placesVisited": "Amerika, St.Maarten, Puerto Rico, Bahamalar",
+  "generalInfo": "Royal Caribbean Cruises'ın Allure of the Seas Karayipler cruise turu ile yeni yerler keşfetmeye hazır mısınız? MIAMI, FLORIDA kalkışlı gemi turu sizi hayallerinizdeki destinasyonlara götürüyor.",
+  "durationDays": "10",
+  "price": "1396",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li><strong>* </strong>Türk Hava Yolları ile İstanbul Havalimanı – Miami / Miami - İstanbul Havalimanı arası ekonomi sınıfı uçak bileti</li>\n<li><strong>* </strong>Havalimanı ve Liman vergileri <strong>(790 €)</strong></li>\n<li><strong>* </strong>Havalimanı-liman-havalimanı arasındaki tüm transferler</li>\n<li><strong>* </strong>Hampton Inn &amp; Suites Miami otelde 1 gece oda kahvaltı konaklama</li>\n<li><strong>* </strong>5 Yıldızlı Allure of the Seas gemimizde 7 gece &amp;  8 gün tam pansiyon konaklama  </li>\n<li><strong>* </strong>Gemide düzenlenen animasyon ve aktiviteler  </li>\n<li><strong>* </strong>Türkçe Rehberlik Hizmetleri</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Miami (ABD)",
+      "description": "İstanbul Havalimanı buluşmasının ardından,  TK 77 sefer sayılı uçuşu ile Miami’ye hareket. Varışın ardından otele transfer."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Fort Lauderdale, Florida (ABD)",
+      "description": "Hareket Saati : 16:30"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 5,
+      "title": "Philipsburg (St.Maarten)",
+      "description": "Varış Saati : 08:00"
+    },
+    {
+      "dayNumber": 6,
+      "title": "San Juan (Puerto Rico)",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 7,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 8,
+      "title": "Perfect Day At Cococay (Bahamalar)",
+      "description": "Varış Saati : 10:00"
+    },
+    {
+      "dayNumber": 9,
+      "title": "Miami (ABD)",
+      "description": "Varış Saati : 06:00"
+    },
+    {
+      "dayNumber": 10,
+      "title": "İstanbul' a Varış",
+      "description": ""
+    }
+  ],
+  "map": ""
+}

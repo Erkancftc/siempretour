@@ -1,0 +1,90 @@
+{
+  "destination": "Yeni Zelanda",
+  "mainPhoto": "",
+  "id": "ST02020",
+  "tourName": "Yeni Zelanda'da Mükemmel Aile Tatili",
+  "placesVisited": "Yeni Zelanda",
+  "generalInfo": "Günaydın Yeni Zelanda paketimize “Nihai Aile Tatili” hoşgeldiniz.  Şimdi kendiniz için yaşayın! Yeni Zelanda'nın Kuzey ve Güney Adaları'na götüren aksiyon dolu bir aile kaçamağına gidin.  Sadece dramatik manzaradan ve ülkenin en güzel konaklamalarından daha fazlasını deneyimleyeceksiniz. Bu kültür, eğitim ve muhteşem aile maceraları açısından zengin bir tatil olacak!",
+  "durationDays": "13",
+  "price": "FİYAT İSTEYİNİZ",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li>- Türkçe Rehberlik Hizmeti,</li>\n<li>- Uçak Biletleri</li>\n<li>- Otellerde konaklama</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "AUCKLAND'A HOŞGELDİNİZ!",
+      "description": "Auckland'a, “Yelkenler Şehri” ne hoş geldiniz. Auckland, güzel manzaralardan adrenalin pompalama serüvenine ve birinci sınıf yiyecek ve şaraba kadar sofistike kozmopolit bir şehirle ilgili her şeyi sunuyor."
+    },
+    {
+      "dayNumber": 2,
+      "title": "KELLY TARLTONS SUALTI DÜNYASI",
+      "description": "Yeni Zelanda'nın en iyi turistik mekanlarından birini deneyimleyin: Kelly Tarlton's kar, buz ve su harikalar diyarıdır. Antarktika Karşılaşması, Antarktika'nın geçmiş, şimdiki ve ötesindeki vahşi bir deneyimidir. Sualtı Dünyasında, okyanusun derinlerinde, hareketli bir geçit üzerinde seyahat edin. Bir akrilik tünel üzerinden, sizi çevreleyen okyanus yaşamının bir tüplü dalgıçlar manzarasını tecrübe edin. Dev vatoz kayan yükü, kayalarda gizlenen moray yılan balıklarını görün ve yırtıcı köpekbalıklarıyla yüz yüze gel!"
+    },
+    {
+      "dayNumber": 3,
+      "title": "ROTORUA / RADYO FİLMi, AUCKLAND",
+      "description": "Bu sabah Premium 4WD'nize ve Rotorua'ya gideceksiniz. Yolda Hobbiton - Yüzüklerin Efendisi film seti rehberli bir tur için dur. Hobbit Holes'a bakın, bir çiftlik turuna çıkın ve bir koyun kesme gösterisi yapın. Rotorua'ya devam et."
+    },
+    {
+      "dayNumber": 4,
+      "title": "BURIED KÖYÜ",
+      "description": "10 Haziran 1886'da, şiddetli ve beklenmedik bir volkanik patlama Yeni Zelanda'yı sarstı. Dört saatten fazla korkunç saat için, Te Wairoa'nın huzurlu köyünü kayalar, kül ve kaynayan sıcak çamur bombardıman etti. Sıcak kırsal kül ve çamurun altında 5000 metrekarelik doğal kırlar gömüldü. 150'den fazla hayat kaybedildi. Te Wairoa Müzesi hayatlarının kronolojik hikayesini anlatıyor, kayıplar, olaylar ve 1886 Mt. Tarawera."
+    },
+    {
+      "dayNumber": 5,
+      "title": "CHRISTCHURCH ROTORUA",
+      "description": "South Island maceranıza başlamak için Christchurch'a uçuşunuza doğru ilerleyin. Christchurch'a hoş geldiniz, 'Garden City'. Güney Alpleri bu harika şehre muhteşem bir fon sağlar. Kıyıda yer alan Christchurch, batıya dağlara doğru uzanan Canterbury ovalarına açılan kapıdır."
+    },
+    {
+      "dayNumber": 6,
+      "title": "YUNUSLAR  İLE YÜZME",
+      "description": "Bugün Akaora'yı ziyaret edecek ve vahşi, meraklı Hectors Dolphins'in bir havuzunda yüzmeye gideceksiniz."
+    },
+    {
+      "dayNumber": 7,
+      "title": "CHRISTCHURCH FRANZ JOSEF / TRANZ ALPINE TREN Turu",
+      "description": "TranzAlpine manzaralı tren, dünyanın en iyi tren yolculuklarından biridir. Yeni Zelanda'nın bir sahilinden diğerine seyahat eder. Aracınızdan, Canterbury Ovaları'nın arazilerini göreceksiniz. Daha sonra, West Coast kentindeki Greymouth'a uzanan gür kayın yağmur ormanından inmeden önce Güney Alpleri'ne çıkın."
+    },
+    {
+      "dayNumber": 8,
+      "title": "FRANZ JOSEF GLACIER",
+      "description": "Bugün Franz Josef Glacier'de bir yürüyüşe çıkacaksınız. Rehberiniz Franz Josef Glacier ve çevresinin benzersiz özelliklerini açıklayacaktır. Bir dizi Buz-Talonz'u bağladıktan sonra, buzulun terminal yüzüne doğru yol alırsınız ve daha düşük seviyedeki mesafeleri keşfedersiniz."
+    },
+    {
+      "dayNumber": 9,
+      "title": "FRANSIZ JOSEF'DEN QUEENSTOWN'a",
+      "description": "Queenstown'a varış. Queenstown, Güney Yarımküre'nin prömiyeri dört mevsim alp ve göl beldesidir. Wakatipu Gölü kıyısında yer alan ve görkemli Remarkables Sıradağları'nın göz ardı ettiği Queenstown, tüm yıl boyunca mükemmel bir yerdir. Millbrook Resort'taki üç yatak odalı kır evinde konaklayın."
+    },
+    {
+      "dayNumber": 10,
+      "title": "DOUBTFUL SES WILDERNESS CRUISE",
+      "description": "Otobüsle seyahat edin ve Wakatipu Gölü'nün kıyılarını ve ardından kırsal bölgelerden Manapouri'ye doğru ilerleyin. Wilmot Geçidi boyunca yoğun yağmur ormanları boyunca otobüsle seyahat etmeden önce, pitoresk Manapouri Gölü'nün karşısına çıkın. Doubtful Sound'a varışta, fiord'un en etkileyici manzaralarından bazılarında üç saatlik bir seyir için geniş katamaranımıza binebilirsiniz. Uzman doğa rehberi yorumda bulunur, sorulara cevap verir ve önemli noktaları belirtir."
+    },
+    {
+      "dayNumber": 11,
+      "title": "DART NEHRİ FUNYAK SAFARI",
+      "description": "Bugün gerçekten eşsiz bir açık macera safarisinin keyfine varacaksınız. Yolculuk, sığ nehir jet botu ve ünlü jet spin'lerinin tüm heyecanlarıyla Dart River'da heyecan verici bir jetboat yolculuğuyla başlıyor. Funyak'ınıza - benzersiz bir şişme kanoyla tanışacaksınız. Dart River kanallarının ortasında tüm hayranlık uyandıran manzaraları göz önünde bulundurarak aşağıya doğru rehberlik yapacaksınız. Nehre doğru ilerledikten sonra, dünyaya ilham veren çarpıcı filmleri izlemek için durup, 4WD koçu Glenorchy'e götürüleceksiniz."
+    },
+    {
+      "dayNumber": 12,
+      "title": "SKYLINE GONDOLA & LUGE SÜRÜŞÜ",
+      "description": "Queenstown’ın merkezine sadece 5 dakikalık yürüme mesafesindeki Skyline Gondola’yı Skyline kompleksinin zirvesine çıkabilirsiniz. Bölgedeki en iyi manzaralar burada muhteşem bir panoramada - gerçekten muhteşem ve huşu uyandıran - yayılmış halde bulunur! Skyline kompleksinin arkasında yer alan ve telesiyej veya yürüyüş yolu ile erişilebilen 2 litrelik pistlerde her yaş ve yetenek için eğlence dolu bir yolculuk yapın. Yeni Zelanda'nın sunduğu en etkileyici manzarayı deneyimleyin. Huzurlu bir piknik öğle yemeğine ve muhteşem manzaralara sahip olacaksınız. Dünyanın tepesinden, medeniyeye dönmek için helikopteri aramadan önce vahşi doğada rahatlayın ve zamanın tadını çıkarın."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Ayrılış",
+      "description": "Özel transferiniz sizi otelinizden alacaktır ve sizi eve geri dönüşünüz için Queenstown Havaalanı'na götürecektir."
+    }
+  ],
+  "map": ""
+}

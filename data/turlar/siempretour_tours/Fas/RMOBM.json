@@ -1,0 +1,85 @@
+{
+  "destination": "Fas",
+  "mainPhoto": "",
+  "id": "RMOBM",
+  "tourName": "Fas'ın En İyileri",
+  "placesVisited": "Fas",
+  "generalInfo": "Bu Kuzey Afrika macera turunda Fas'ın minarelerinin ve medinelerinin büyüsünü keşfedin. Marakeş Djemaa el-Fna meydanı, yılan büyücüleri, mistik kimseler ve müzisyenler ile dikkat çekiyor. Sahile doğru ilerlediğimizde plajlara ve Essaouira'nın çarpıcı kalesine gidiyoruz. Özellikleri arasında Orta Çağ pazarları ve Fes'deki renkli boya çukurları, Volubilis'in Roma kalıntıları, Sahra Çölü boyunca bir gece deve safarisi ve Todra Gorge'nin yüksek uçurumları sayılabilir.<br><br><strong>En Yakın Uluslararası Havaalanına (geliş): </strong>Marrakech Menara Havalimanı (RAK)<br><br><strong>En Yakın Uluslararası Havaalanı (gidiş): </strong>Marrakech Menara Havalimanı (RAK)",
+  "durationDays": "15",
+  "price": "1179",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "12",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Geziler ve Etkinlikler</strong></p>\n<ul>\n<li>- Varış transferi</li>\n<li>- Rabat Turu</li>\n<li>- Tam gün Fes Turu</li>\n<li>- Develerle Gezi / Berber Kampı</li>\n</ul>\n<p><strong>Konaklama</strong></p>\n<ul>\n<li>- 13 gece otel,  1 gece Berber Kampı</li>\n</ul>\n<p><strong>Taşımacılık</strong></p>\n<ul>\n<li>- Özel Araçlar, 4x4 , Deve</li>\n</ul>\n<p><strong>Yemekler</strong></p>\n<ul>\n<li>- 5 Akşam Yemeği, 14 Kahvaltı, 3 Öğle Yemeği</li>\n</ul>\n<p><strong>Diğer</strong></p>\n<ul>\n<li>- Siempre Tur tur lideri , Siempre Tur Şoförü</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Marakeş'e Varış",
+      "description": "Fas'ın gözde şehirlerinden biri olan Marakeş'e hoş geldiniz. Ülkenin “güneydeki incisi” olarak bilinir ve Atlas Dağları'nın muhteşem zirveleri ile çevrilidir. Zamanında bir adım atın ve rehberli bir şehir turunda antik Medine'de pazarlar ve baharat pazarlarının hayretiyle kendinizi kaybedin. Parlak mavi gökyüzüne karşı başınızın üstünde kurumaya çalışan renkli yün çilelerinin altındaki tezgahları hayranlıkla dolaşın. Skooterla giderken,yerel halkın yanı sıra eşeklerden de kaçının ve özenle dekore edilmiş, prinç lambalarla kaplı dar yollardan dikkatlice geçin. Esnafları, ürünlerini satmalarını izleyin. Dost  bir satıcı ile şakalaşmanın ve alışverişin tadını çıkarın, daha sonra yenilenmek için geleneksel bir nane çayı veya kalın Fas kahvesinde şımartın."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Casablanca",
+      "description": "Kazablanka Müzikali'nde, Humphrey Bogart tarafından ünlenen Kazablanka'ya gidiyoruz. Burada 25.000 insanın ibadet edebildiği, II. Hasan Camii'ni ziyaret edebilirsiniz."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Meknes",
+      "description": "Sabahı, Rabat'ta Oudaia Kasbah, Hassan kulesi, Kraliyet sarayı ve Chellah'ı ziyaret ederek geçiriyoruz. Öğle yemeğinden sonra, dinlenmek için boş zamanların tadını çıkarabileceğiniz imparatorluk şehri Meknes'e doğru yola çıkıyoruz."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Chefchaouen",
+      "description": "Chefchaouen'e giderken, Fas'ın en eski bölgesi olan Milattan Sonra 40'a kadar uzanan Volubilis'in Roma kalıntılarını ziyaret ediyoruz. UNESCO tarafından listelenen bir site olan Roma yerleşimi bir zamanlar Moritanya vilayetini yönetmiştir.."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Fes",
+      "description": "Chefchaouen'de keyifli bir sabah geçirdikten sonra öğleden sonra Fes'e gidiyoruz. Burada, şehrin büyüleyici tarihi hakkında bilgi edinerek, Fes'te rehberli bir turun tadını çıkartıyoruz.bir site olan Roma yerleşimi bir zamanlar Moritanya vilayetini yönetmiştir."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Midelt",
+      "description": "Bugün Moyen Atlas'a gidiyoruz ve Midelt'de duruyoruz. Güzel dağ ortamının keyfini çıkarın ve öğleden sonraları küçük bir yürüyüşe çıkın."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Sahara Çölü",
+      "description": "Bugün, muhteşem Sahara Çölü'ne doğru uzanan doğal bir sürüşün tadını çıkarabiliriz. Lezzetli bir Fas öğle yemeği ve öğleden sonra yüzmek ve rahatlamak için duruyoruz."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Todra Gorge",
+      "description": "Bu sabah Ait Benhaddou'ya veda ediyoruz ve renkli balıkçı kasabası Essaouira'ya gidiyoruz."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Aït Benhaddou",
+      "description": "Bugün Todra Gorge'a veda ediyoruz."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Essaouira",
+      "description": "Bugün Todra Gorge'a veda ediyoruz."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Marrakech",
+      "description": "Hayranlık uyandıran Matobo Tepeleri'nde yer alan ve toplam 44.500 hektarlık bir alanı kaplayan Matobo Ulusal Parkı, büyük bir siyah-beyaz gergedan popülasyonunun başarıyla ürediği bir koruma bölgesine ev sahipliği yapmaktadır. 1953 yılında kurulan park, 2003 yılında UNESCO Dünya Mirası statüsüne layık görülmüştür."
+    },
+    {
+      "dayNumber": 15,
+      "title": "Depart Marrakech",
+      "description": "Bir ömür boyu süren serüveniniz bugün sona eriyor. Geç bir uçuşunuz varsa veya konaklama turu ekleyerek konaklamanızı uzattıysanız, turistik yerleri keşfetmek için daha fazla zamanınız olacaktır."
+    }
+  ],
+  "map": ""
+}

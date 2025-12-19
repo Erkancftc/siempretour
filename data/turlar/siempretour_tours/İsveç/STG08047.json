@@ -1,0 +1,60 @@
+{
+  "destination": "İsveç",
+  "mainPhoto": "",
+  "id": "STG08047",
+  "tourName": "Costa Magica Gemisi ile Baltık Başkentleri - 25.Temmuz.2020",
+  "placesVisited": "İsveç, Finlandiya, Rusya, Estonya",
+  "generalInfo": "Gemi ismi: Costa Magica Destinasyon: Baltık Kalkış limanı: Stockholm Tur süresi: 8 Gün Rota: Stockholm, Helsinki, St. Petersburg, Tallinn, Stockholm",
+  "durationDays": "8",
+  "price": "1499",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p>Gemide tur süresince tam pansiyon konaklama. Pegasus Hava Yolları ile İstanbul (Sabiha Gökçen) - STOCKHOLM - İstanbul (Sabiha Gökçen) ekonomi sınıfı uçuşlar. Kişi sayısına bakılmaksızın Türkçe rehberlik hizmeti. Havalimanı ve liman vergileri. (420€) Havalimanı – Liman – Havalimanı transferler. Tercih edilen kategoride tur süresince konaklama. Gemide sabah, öğle, akşam yemekleri ve ara ikramlar. Gemideki eğlence ve şovlar. Fitness &amp; Spor salonu kullanımı. Seyahat süresini kapsayan, seyahat sağlık sigortası. (Vize için geçerli teminatları içermemektedir.) 70 yaş üzeri misafirler için %100 surprim uygulanır.(10€)</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Stockholm (İsveç)",
+      "description": ""
+    },
+    {
+      "dayNumber": 2,
+      "title": "Stockholm (İsveç)",
+      "description": "Stockholm (İsveç)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Helsinki (Finlandiya)",
+      "description": "Helsinki (Finlandiya)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "St. Petersburg (Rusya)",
+      "description": "St. Petersburg (Rusya)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Tallinn (Estonya)",
+      "description": "Tallinn (Estonya)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "Stockholm (İsveç)",
+      "description": "Stockholm (İsveç)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "Stockholm (İsveç)",
+      "description": ""
+    }
+  ],
+  "map": ""
+}

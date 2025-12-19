@@ -1,0 +1,50 @@
+{
+  "destination": "Estonya",
+  "mainPhoto": "",
+  "id": "EEBC",
+  "tourName": "Baltık Başkentleri",
+  "placesVisited": "Estonya, Letonya, Litvanya, Polonya",
+  "generalInfo": "Baltık Başkentlerinin bu turu, Avrupa'nın daha az keşfedilen köşelerinin tarihini yansıtıyor. Bir hafta içinde, kentin modern bir metropol haline gelmesi için küllerden yükseldiği Varşova'ya gelen bu başkentlerin her birinin eski şehirlerini dolaşacaksınız.",
+  "durationDays": "7",
+  "price": "499",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Geziler &amp; Aktiviteler</strong></p>\n<p>KGB Müzesi giriş ve rehberli tur ücreti</p>\n<p><strong>Konaklama</strong></p>\n<p>Otellerde 6 gece</p>\n<p><strong>Ulaşım</strong></p>\n<p>Toplu taşıma otobüsleri, taksi, yürüyüş</p>\n<p><strong>Yemekler</strong></p>\n<p>6 Açık Büfe Kahvaltı</p>\n<p><strong>Diğer</strong></p>\n<p>Siempre Tour tur lideri</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Talin’e Varış",
+      "description": "Estonya'nın başkenti Talin, büyüleyici tarihi merkezi ile ünlüdür ve Finlandiya Körfezi'nin popüler tatil beldelerinden biridir. Arnavut kaldırımlı sokaklarda dolaşın ve doğal kalıntıları keşfedin ya da ortaçağ binaları, 14. yüzyıl kiliseleri, kuleler ve cazibeli geçitler ile dolu Toompea tepesine tırmanın."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Riga",
+      "description": "800 yıldan fazladır var olan Riga, bir ortaçağ merkezi ile modern şehir altyapısının akıllı karışımı olarak sizi büyüleyecek. UNESCO Dünya Mirası listesinde yer alan eski şehir merkezi, kendine özgü bir çekiciliğe sahipken, şehir “Doğu’nun Paris’i” olarak Art Nouveau mimari akımının büyüleyici örnekleriyle meşhur. Riga’nın en ünlü Gotik kilisesi olan St Peter Kilisesi yaklaşık 800 yaşında ve mutlaka görülmesi gereken bir yer. Kilisenin meşhur çan kulesi, en son 1973’de tamamlanan restorasyonu ile 1667’den beri üç kez aynı şekilde restore edildi. Çan kulesine çıkın ve şehrin muhteşem manzarasının tadını çıkarın."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Vilnius",
+      "description": "'Yeni Prag' olarak övülen Vilnius, Litvanya'nın başkenti ve Barok tarzın tüm çekiciliğine sahip eski şehir merkezi ise Doğu Avrupa'nın en büyüğü. Vilnius, Neris Nehri'nin kenarında, çamlarla kaplı tepeleri, dost canlısı insanları, eski ve yeniyi harmanlayan, görülmeye değer tablo gibi güzel bir şehir. Gediminas Tepesi’ndeki Gediminas Kalesi ve tepenin hemen altında 57 metrelik çan kulesiyle Vilnius Katedrali’nin yer aldığı Katedral Meydanı dahil şehrin görülebilecek yerlerini görmek için zamanınız olacak."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Varşova",
+      "description": "Polonya'nın başkenti Varşova, II. Dünya Savaşı’nda neredeyse tamamen yıkıldı, çok çaba harcanarak yeniden inşa edilen şehir bir turizm merkezine dönüştü. Komünizmin çöküşünden sonra birçok eski bina yerini modern gökdelenlere bıraktı, harap haldeki eski şehir yepyeni bir çehreye kavuşurken, eğlence ve hizmet alanında yaşanan değişimlerle şehir diğer batılı başkentlere eşdeğer bir konuma geldi."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Varşova’dan Ayrılış",
+      "description": "Hayatınızın macerası bugün sona eriyor. Geç vakitte bir uçuşunuz varsa veya tur sonrası konaklama ekleyerek konaklamanızı uzattıysanız görülesi yerleri keşfetmek için daha fazla zamanınız olacak."
+    }
+  ],
+  "map": ""
+}

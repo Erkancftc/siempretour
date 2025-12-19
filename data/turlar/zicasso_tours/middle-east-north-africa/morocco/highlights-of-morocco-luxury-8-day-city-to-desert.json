@@ -1,0 +1,65 @@
+{
+  "destination": "Morocco",
+  "mainPhoto": "",
+  "id": "highlights-of-morocco-luxury-8-day-city-to-desert",
+  "tourName": "Highlights of Morocco: Luxury 8-Day City to Desert",
+  "placesVisited": "Marrakesh, Dades Gorge, Sahara, Ouarzazate",
+  "generalInfo": "North Africaâs Moroccan jewel, Marrakesh, is the first stop on this 8-day cultural exploration of the eclectic country. Embrace the cityâs unending charm at boisterous bazaars before you continue to the iconic canyon of the Dades Gorge. Your travels through North Africa will lead you to the vast red, brown, and yellow plains of the Sahara Desert before you find yourself admiring the breathtaking sandstone complex of Ouarzazate city.",
+  "durationDays": "8",
+  "price": "10,200",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Marrakesh - Souk Highlights at Jemaa el-Fna",
+      "description": "Marrakesh is a cacophony of sights and sounds, a symphony of North African heritage, and your ticket into the cultural stirrings that compose Moroccoâs dreamy atmosphere. Your private driver will meet you at the airport and transfer you to an accommodation hidden amongst the ochre alleys of Marrakeshâs historic districts. After you have unpacked, you will watch Morocco traditions come to life at night in the countryâs vibrant Jemaa el-Fna town square and marketplace in Marrakeshâs medina quarter. Wander from stall to stall and embrace the souk , or bazaar, highlights from fortune-tellers to street performers and authentic Moroccan cuisine."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Marrakesh - Elaborate Displays of Imperial Morocco",
+      "description": "Marrakesh is peaceful in the mornings, and you may slowly wander the narrow streets of its colorful neighborhoods on a guided tour after breakfast. Historical architecture and expressions of ancient African eras form the built-up backdrop of the Palais Bahia and Palais Badii, two elaborately crafted displays of imperial Morocco. You will return to the souk this evening and let its spirited ambiance sweep you away as you follow the fragrances of hearty Moroccan street food and watch the performers make magic on the stage of the town square."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Marrakesh - The Art of Fashion and Food",
+      "description": "Global French fashion icon Yves Saint Laurent would wander the lush lawns of Majorelle Gardens and seek inspiration amongst the manicured landscape and flourishing floral exhibitions veiling the immaculate botanical estate. You may meander in his footsteps and explore the exotic plants and trees covering two and a half acres of Marrakesh. Afterward, you may visit the honorary Yves Saint Laurent Museum and unpack the artistâs vision as you gaze upon celebratory collections, works, and installations. In the evening, pick out your ingredients, choose your spices, and prepare Moroccan cuisine during a Tagine cooking class."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Dades Gorge - Scenic Desert Drives to the Canyon of Dades Gorge",
+      "description": "You will wake up early in the morning and enjoy breakfast with views of the happenings of Marrakesh. People will gather in cafÃ©s for spiced Moroccan coffee and wander the ochre lanes to boutique souvenir shops lining the streets. You will relish these moments in busy Marrakesh as you gear up for a scenic drive across the rugged and difficult Tizi n'Tichka mountain pass. Your experienced driver and guide will navigate the bumpy dirt paths and rough roads winding through the Mars-like deserts, and you will pass ancient clay Kasbahs en route to the gorgeous canyon, Dades Gorge."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Sahara - Across the High Atlas Mountains to the Sahara Desert",
+      "description": "The Dades Gorge lies deep within the High Atlas Mountains on the border of the Sahara Desert. Its striking rocky facade is the Moroccan equivalent to the Grand Canyon, an enormous and steep gorge rising thousands of feet above you with narrow roads that zigzag and bend along its craggy precipice. You will drive these treacherous roads en route to the Sahara with your professional guide and arrive in the desert after a thrillingly successful cruise. After checking into your accommodation, you will jump on camelâs backs and relish a picture-perfect Saharan tour."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Ouarzazate - Stargazing and Sunrises over the Saharan Sky",
+      "description": "After a night of stunning stargazing in the uninterrupted Saharan sky, you will join your guide for a sandboarding experience like no other across the rolling desert dunes. Race down the steep slopes and feel the wind against your cheeks as you steer your way down the dunes and return to the top for another ride. You will revel in the sensational sandboarding as the sun rises over the horizon and you capture the gleaming golden light painting the sky in red, pink, and blue. Afterward, you will continue to the distinct sandstone city of Ouarzazate."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Marrakesh - Off-Road in Ouarzazate",
+      "description": "The sunrise will cast shadows across Ouarzazateâs complex of sandstone buildings, and you will gaze out across the cityâs rugged landscape commanded by the Taourirt Kasbah and 19th-century palace. Strolling through town, you will absorb the pleasures of local life as you tuck into delicacies and wander in and out of modest markets. Afterward, you will pass by the fortress city on ATVs as you ride along gravel paths weaving away from its camouflaged skyline. Your off-road experience will come to an end, and you will transfer back to Marrakesh for a night of vibrancy before you leave."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Marrakesh - A Mystical Morning in Marrakesh",
+      "description": "Take in the sights, sounds, and smells of Marrakesh as you wake up on the final morning of your Moroccan adventure. You may peer into colorful markets and browse curiosities at humble stalls, listen to the North African dialects of locals chatting as they stroll on by, and catch wafts of grilled beef prepared and plated in tagines. After breakfast, you will check out of your accommodation and transfer to the international airport, where you will board your plane and say goodbye to this North African jewel."
+    }
+  ],
+  "map": ""
+}

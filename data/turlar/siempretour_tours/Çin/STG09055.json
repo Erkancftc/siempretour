@@ -1,0 +1,95 @@
+{
+  "destination": "Çin",
+  "mainPhoto": "",
+  "id": "STG09055",
+  "tourName": "Celebrity Millennium ile Vizesiz Gizemli Uzakdoğu - 03.Ocak.2020",
+  "placesVisited": "Çin, Vietnam, Tayland, Singapur",
+  "generalInfo": "",
+  "durationDays": "17",
+  "price": "FİYAT İSTEYİNİZ",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li><strong>*</strong> Celebrity Millenium gemisinde 14 gece 15 gün tam pansiyon konaklama;</li>\n<li><strong>*</strong> Emirates Havayolları ile İstanbul - Hong Kong // Singapur -  İstanbul arası ekonomi sınıfı uçak bileti</li>\n<li><strong>*</strong> Havaalanı-liman-alan transferleri;</li>\n<li><strong>*</strong> Havaalanı ve Liman vergileri <strong>5900 TL</strong></li>\n<li><strong>*</strong> Gemideki her türlü animasyon ve şovlar;</li>\n<li><strong>*</strong> Zorunlu seyahat sigortası (mesleki sorumluluk sigortasıdır.)</li>\n<li><strong>* Türkçe rehberlik hizmeti (Minimum 20 Kişi katılması durumunda)</strong></li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Hong Kong (Çin)",
+      "description": "Sabiha Gökçen Havalimanı, Dış Hatlar Terminali, buluşma. Emirates HY’nin EK 0120 sefer sayılı uçuşu ile Hong Kong’a hareket"
+    },
+    {
+      "dayNumber": 2,
+      "title": "Hong Kong (Çin)",
+      "description": "Hong Kong, Çin. Varışın ardından gemiye transfer."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Hong Kong (Çin)",
+      "description": "Hareket Saati : 20:00"
+    },
+    {
+      "dayNumber": 4,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 5,
+      "title": "Hanoi (Vietnam)",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 7,
+      "title": "Hue/Danang, Chan May  (Vietnam)",
+      "description": "Varış Saati : 08:00"
+    },
+    {
+      "dayNumber": 8,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 9,
+      "title": "Ho Chi Minh City (Vietnam)",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 10,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 11,
+      "title": "Bangkok, Laem Chabang (Tayland)",
+      "description": "Varış Saati : 09:00"
+    },
+    {
+      "dayNumber": 13,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 15,
+      "title": "Singapur (Singapur)",
+      "description": "Varış Saati : 08:00"
+    },
+    {
+      "dayNumber": 16,
+      "title": "Singapur (Singapur)",
+      "description": "Singapur, Singapur; Sabah erkenden, çıkış işlemlerimizi gerçekleştiriyoruz"
+    },
+    {
+      "dayNumber": 17,
+      "title": "İstanbul' a Varış",
+      "description": "Emirates Havayollarının EK 0405 sefer sayılı uçuşu ile İstanbul’a hareket. 14:00 İstanbul'a varış."
+    }
+  ],
+  "map": ""
+}

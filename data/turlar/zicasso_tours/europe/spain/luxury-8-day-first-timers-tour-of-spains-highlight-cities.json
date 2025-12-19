@@ -1,0 +1,65 @@
+{
+  "destination": "Spain",
+  "mainPhoto": "",
+  "id": "luxury-8-day-first-timers-tour-of-spains-highlight-cities",
+  "tourName": "Luxury 8-Day First-Timers Tour of Spain's Highlight Cities",
+  "placesVisited": "Barcelona, Seville, CÃ³rdoba, Madrid, Toledo",
+  "generalInfo": "First-time visitors of Spain will discover the best of Barcelona, sensations of Seville, curiosities of CÃ³rdoba, the magnificence of Madrid, and taste of Rome in Toledo during this tailored luxurious tour for eight days. Designed to highlight the astonishing architecture, cultural heritage, culinary distinctions, and glamorous atmosphere of Spainâs beloved destinations, this tour will leave travelers with a wealth of insight into the Spanish way of life.",
+  "durationDays": "8",
+  "price": "6,800",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Barcelona - The Astonishing Works of Antoni GaudÃ­",
+      "description": "Barcelona boasts boundless culture, storied architecture, and contemporary structures that you will freely explore the minute you arrive at your glamorous accommodation in a popular district. As first-timers to Spain, you will join a private guide for a stunning architectural city tour beginning at Antoni GaudÃ­âs world-famous Sagrada FamÃ­lia. The unfinished Roman Catholic basilica is a gorgeous ode to surreal design and its kaleidoscopic spires seem stripped from the pages of a fairytale. It represents the first of GaudÃ­âs famous works you will discover today, including the colorful world of Park GÃ¼ell and the curvaceous, fantastical facade of BatllÃ³ House."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Barcelona - History Discovered in the Cityâs Highlights",
+      "description": "Contemporary furnishings and cultural designs dictate the magnificent flow of your inspired accommodation, embellishing your secluded suite with a mix of modern fashion and old-world charms. You will admire everything about the boutique hideaway during your free day, from lounging around the infinity pool or relaxing your mind and body with satisfying spa therapy. With plenty of time on your hands, you may also comfortably access Barcelonaâs city highlights from your well-located villa. From the Roman gothic cathedrals, the great Concert Hall, Palau de la MÃºsica Catalana, and more, there is history to discover in the cityâs beloved landmarks."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Seville - Admiring Andalusiaâs Historic Capital",
+      "description": "Spainâs Andalusian region is a first-time visitor's dream destination, featuring a collection of historic fortress towns perched atop rolling hills and countryside communities nestled alongside sparkling rivers in jade valleys. Today, you will transfer to the regionâs famous capital in the Iberian Peninsula -- Seville -- and relish a privately guided tour of the cityâs coveted landmarks. The regal stone walls of the Catedral de Sevilla, the commanding bell tower of La Giralda, and the bustling town square of Plaza de EspaÃ±a are fascinating cultural highlights that will introduce you to the distinctions of Spanish life."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Seville - Historic Influences of CÃ³rdobaâs Mosque-Cathedral",
+      "description": "Sevilleâs power as a Roman station was built on the back of the empire's reign across Andalusia, particularly in the city of CÃ³rdoba. Today, your private guide will chaperone you to this important heritage destination to take you through the ancient stories as reflected by the structures and in the artworks and embellishments that remain preserved in and around the city. Fragrant wafts of fresh geraniums will lure you through the historic fortress town to the UNESCO World Heritage Mosque-Cathedral, a landmark whose design has been influenced by Chrisitan, Moorish, and Roman Catholic keepers throughout the history books."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Seville - Timeless Spanish Authenticity in Triana",
+      "description": "Seville boasts a collection of brilliant cultural districts, each with its own personality and character expressed by the architecture, cuisine, and locals who enjoy its unique ambiance. The Triana district is one of Sevilleâs most important cultural parts, possessing a wealth of historic influence as a home for colorful flamenco dancers, tough bullfighters, and working-class mariners. Impressive century-old architecture still shimmers under the Spanish sun, and galleries, exhibits, museums, and stadiums share a look into the former Triana lifestyle. For lunch and dinner, you may select from a range of ravishing tapas bars serving authentic Spanish bites."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Madrid - Picturesque City Tour to the Prado Museum",
+      "description": "You will return to one of the countryâs more contemporary cities for the final leg of your first stay in Spain, this time the towering metropolis of Madrid. Madridâs busy boulevards are flanked by manicured lawns, impressive preservations of historic architecture, and inspiring art galleries housing emblematic works from the worldâs greatest talents. Today, you will privately tour the Madrid de Los Austrias, Plaza Mayor, and the Puerta del Sol before you arrive at the art-lovers sanctuary of the Prado Museum."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Madrid - A Taste of Rome in Toledo",
+      "description": "Madrid is a gateway to more of Spainâs Roman heritage, and today you will privately tour what has been dubbed as âsecond Romeâ -- Toledo. The cityâs description as âthe city of three culturesâ derives from the groups of Christian, Arab, and Jewish people who cohabited its Roman-ruled districts. Their legacies live on in the varying architectural styles that adorn Toledoâs skyline. You may wander the UNESCO World Heritage Old Town of Toledo to visit a series of significant landmarks, tuck into exceptional regional cuisine, and view The Burial of the Count of Orgaz at the church of Santo TomÃ©."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Madrid - Curious Mornings in Madrid",
+      "description": "Mornings in Madrid are busy and full of life, with travelers flocking to town squares for a bite to eat and locals flinging open the doors of their boutique stores to satisfy visitors' curiosities. You may enjoy a light stroll around the neighborhood and absorb the sensational sunrise scenes from a quiet park bench or watch the world go by from a chic Spanish cafÃ©. You will return to your accommodation for breakfast before your private transfer helps load your luggage into a stylish limousine and takes you to the international airport for your flight."
+    }
+  ],
+  "map": ""
+}

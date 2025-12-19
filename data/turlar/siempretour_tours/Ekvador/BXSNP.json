@@ -1,0 +1,65 @@
+{
+  "destination": "Ekvador",
+  "mainPhoto": "",
+  "id": "BXSNP",
+  "tourName": "Kuzey Peru ve Ekvador",
+  "placesVisited": "Ekvador, Peru",
+  "generalInfo": "Bu heyecan verici macera Andların yükseklerindeki Quito’dan başlayıp bir sahil başkenti Lima’da son bulur ve ulu dağları, ılık kaplıcaları , sömürge şehirleriyle güneşin kavurduğu kumsalları içine alır. 2 hafta içinde yol boyu yerli insanlarla tanışıp Ekvador ve Kuzey Peru’da çok çeşitli manzaralara tanık olun.",
+  "durationDays": "14",
+  "price": "599",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "34",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Tur ve Aktiviteler</strong></p>\n<p>-Rehber eşliğinde Laguna 69 yürüyüşü</p>\n<p><strong>Konaklama</strong></p>\n<p>Otelde 4 gece , kamp alanında 3 gece, hostelde 6 gece </p>\n<p><strong>Ulaşım</strong></p>\n<p>Karayolundan kamyonetle</p>\n<p><strong>Yemekler</strong></p>\n<p>7 öğle yemeği 3 akşam yemeği 3 kahvaltı</p>\n<p><strong>Diğer</strong></p>\n<p>Tur lideri ve sürücü</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "QUITO’YA VARIŞ",
+      "description": "Denizden 2850 m. yüksekteki Quito,Ekvador dünyadaki en yüksek ikinci başkenttir.Daha önce İnkaların güçlü bir kalesiyken 1534 te İspanyol rahipler tarafından kuruldu.Aktif bir volkan olan Pichincha üzerindeki oyuk bölgede yerleşiktir ve dev Quito bakiresi heykelinin bulunduğu Panecillo tepesinden şehir boydan boya görülebilir.Şehrin eski ve yeni olmak üzere iki bölümü vardır.Yeni bölüm tüm iyi restoran ve barların bulunduğu şehrin ticaret bölgesiyken eski bölüm dik yolları kalabalık plazaları ve yerel pazarlarıyla koloni dönemini yansıtır."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Baños",
+      "description": "Ekvador ‘un merkezine doğru ilerleyerek kaplıcalarıyla ünlü bir sağlık merkezi olan Banos’a ulaşıyoruz.Sıcak havuzların tadını çıkarmanın yanı sıra Rio Verde kasabasının hemen dışındaki kamp yerimizden tepelere yürüyüş fırsatınız var ya da kanyon gezisinden köprüden aşağıya  sallanma gibi birçok opsiyonel aktiviteyi deneyebilir masaj yaptırarak rahatlayabilirsiniz."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Cuenca",
+      "description": "Banos’taki 2 günün ardından 1557’de kurulan ve koloni döneminden kalma bir Pazar yeri olan Ekvador’un 3.büyük şehri Cuenca (tam adı Santa Ana de Los Cuatro Ríos de Cuenca)ya ilerliyoruz.UNESCO Dünya miraslarından olan Tomebamba nehri, kuzeyde Gran Colombia yolu, batıda General Torres ve doğuda Hermano Miguel arasındaki tarihi bölgeyi ziyaret edin.Şehirde zamanınızı dolu dolu geçirmek için gezebileceğiniz birçok yer var.Cuenca Panama şapkasının ilk yapıldığı yerdir ve şapka fabrikalarından birini ziyaret etme fırsatınız olacak."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Mancora",
+      "description": "Peru’ya geçtiğimizde, balıkçıları küçük ağları ile avlandığı köylerin arasından devam ederek 3 gece kalacağımız güzel sahil şehri Macora’ya varıyoruz.Dinlenmek sörf yapmak ve güneşin tadını çıkarmak için 2 tam günümüz var."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Huanchaco",
+      "description": "Küçük bir sahil şehri olan Huanchaco yolu üzerinde Sipan Lordunun mezarına uğrayacağız.Yol boyunca Sipan Lordunun mezarı dışında birçok hazinesinden bazılarını görmek için Lambayeque Müzesini ziyaret edeceğiz.(Peru’nun en güzel müzelerinden biri)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "Huaraz",
+      "description": "Güneye doğru seyahatimize devam ederek Cordillera Blanca dağlarına,küçük bir şehir olan Huaraz’a varana dek ilerliyoruz.Şehir 3052 m. yükseklikte ve Peru’nun en yüksek tepesi Huascaran(6768 m.)a yakın bir yerde konumlanmıştır.Şehir doğa yürüyüşü tutkunları için kutsal bir yer gibidir, tırmanma keyfi ve muhteşem manzarasıyla açıkhava sevdalılarını cezp eder.Tur dahilinde rehberiniz sizi Laguna 69’a,Huascaran Ulusal Parkındaki görkemli buz gölüne de götürecek."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Lima",
+      "description": "Lima ,İspanyol fatih Francisco Pizzaro tarafından İnka medeniyetini yok ettikten hemen sonra1535’te kuruldu ve burayı başkent yaptı.Bugün Latin Amerika’nın beşinci büyük şehri olan Lima ülke nüfusunun yaklaşık üçte birini barındırmaktadır."
+    },
+    {
+      "dayNumber": 14,
+      "title": "Depart Lima",
+      "description": "Hayatınızın macerası bugün sona eriyor.Eğer geç saatte bir uçuşunuz varsa ya da konaklamanızı ve kalış sürenizi uzatırsanız şehri daha fazla gezmek için ekstra zamanınız olacak."
+    }
+  ],
+  "map": ""
+}

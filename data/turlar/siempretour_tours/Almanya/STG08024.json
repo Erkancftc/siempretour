@@ -1,0 +1,60 @@
+{
+  "destination": "Almanya",
+  "mainPhoto": "",
+  "id": "STG08024",
+  "tourName": "MSC Preziosa ile Kuzey Avrupa ve İngiltere - 20.Eylül, 04/18.Ekim.2020",
+  "placesVisited": "Almanya, Fransa, İngiltere, Belçika, Hollanda",
+  "generalInfo": "Hamburg, Denizde Seyir, Le Havre, Southampton, Zeebrugge, Rotterdam, Hamburg,",
+  "durationDays": "8",
+  "price": "749",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p>* Türk Havayolları ile ekonomi sınıfı IST-HAMBURG-IST Uçuşlar<br/>\r\n* Gemide   7 gece tam pansiyon konaklama<br/>\r\n* Havaalanı - liman - havaalanı transferleri<br/>\r\n* Türkçe rehberlik hizmeti<br/>\r\n* Gemide düzenlenen  ücretsiz animasyon ve şovlar<br/>\r\n* Kaptanın hoşgeldin partisi ve gala yemeği<br/>\r\n* Havalimanı ve liman vergileri<br/>\r\n* Yurtdışı Seyahat Sağlık ve İptal Sigortası</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Hamburg (Almanya)",
+      "description": "Hamburg (Almanya)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 3,
+      "title": "Le Havre (Fransa)",
+      "description": "Le Havre (Fransa)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "Southampton (İngiltere)",
+      "description": "Southampton (İngiltere)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "Zeebrugge (Belçika)",
+      "description": "Zeebrugge (Belçika)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Rotterdam (Hollanda)",
+      "description": "Rotterdam (Hollanda)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "Hamburg (Almanya)",
+      "description": "Hamburg (Almanya)"
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,65 @@
+{
+  "destination": "Almanya",
+  "mainPhoto": "",
+  "id": "STG08035",
+  "tourName": "MSC Meraviglia ile Baltık Başkentleri - 25.Temmuz.2020",
+  "placesVisited": "Almanya, Danimarka, Finlandiya, Rusya, Estonya",
+  "generalInfo": "Kiel, Copenhag, Denizde Seyir, Helsinki, St. Petersburg, Tallin, Denizde Seyir, Kiel",
+  "durationDays": "8",
+  "price": "1299",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p>* Türk Havayolları ile ekonomi sınıfı IST-HAMBURG-IST Uçuşlar<br/>\r\n* Gemide   7 gece tam pansiyon konaklama<br/>\r\n* Havaalanı - liman - havaalanı transferleri<br/>\r\n* Türkçe rehberlik hizmeti<br/>\r\n* Gemide düzenlenen  ücretsiz animasyon ve şovlar<br/>\r\n* Kaptanın hoşgeldin partisi ve gala yemeği<br/>\r\n* Havalimanı ve liman vergileri<br/>\r\n* Yurtdışı Seyahat Sağlık ve İptal Sigortası</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Kiel (Almanya)",
+      "description": "Kiel (Almanya)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "Copenhag (Danimarka)",
+      "description": "Copenhag (Danimarka)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 4,
+      "title": "Helsinki (Finlandiya)",
+      "description": "Helsinki (Finlandiya)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "St. Petersburg (Rusya)",
+      "description": "St. Petersburg (Rusya)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Tallinn (Estonya)",
+      "description": "Tallinn (Estonya)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 8,
+      "title": "Kiel (Almanya)",
+      "description": "Kiel (Almanya)"
+    }
+  ],
+  "map": ""
+}

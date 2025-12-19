@@ -1,0 +1,75 @@
+{
+  "destination": "Kolombiya",
+  "mainPhoto": "",
+  "id": "BXSES",
+  "tourName": "Manzaralı Kolombiya ve Ekvador Turu",
+  "placesVisited": "Kolombiya, Ekvador",
+  "generalInfo": "Bu iki haftalık gezide kamyonetle Kolombiya macerası yaşayın ve birazda Ekvador’u gezin. Cartagena’dan başlayarak etkileyici koloni kasabalarını, hareketli şehirleri, yapraklı kahve bitkilerini ve bereketli yeşil vadileri keşfedeceksiniz. Quito’da son bulacak turumuzda, Güney Amerika’nın en büyüleyici iki ülkesini gözler önüne sereceğiz.",
+  "durationDays": "14",
+  "price": "669",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Tur ve Aktiviteler</strong></p>\n<p>-Gecelik ve kahve çiftliği turu</p>\n<p>-Zona Cafeteria gezisi</p>\n<p>-Cocora vadisi yürüyüşü</p>\n<p>-Las Lajas tapınağı</p>\n<p><strong>Konaklama</strong></p>\n<p>Konukevinde 1 gece , kamp alanında 6 gece, hostelde 5 gece , otelde 1 gece</p>\n<p><strong>Ulaşım</strong></p>\n<p>Karayolundan kamyonetle</p>\n<p><strong>Yemekler</strong></p>\n<p>9 öğle yemeği 6 akşam yemeği 6 kahvaltı</p>\n<p><strong>Diğer</strong></p>\n<p>Tur lideri ve sürücü</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Cartagena'ya varış",
+      "description": "Kolombiya’ya hoş geldiniz.Maceranız bu güzel şehirden,Cartagena’dan başlıyor. Ilık kıyı ikliminin ve titreşimli salsa ritminin çekiciliği yıllarca varlıklı ziyaretçileri buraya sürüklemiştir.Cartagena’nın açık hava kafelerinden birinde bu atmosfere girin ya da tarihi surların üstünde Cafe del Mar’ın barında oturun.Burası kokteyllerinizi yudumlarken güneşin batışını izlemek için mükemmel bir yerdir."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Caucasia",
+      "description": "Cartagena’dan ayrılıp aracımızla Caucasia bölgesine seyahat ediyoruz.Gece burada kamp yaparak grubumuzla ilk akşam yemeğimizin keyfine varacağız."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Medellín",
+      "description": "Bir sonraki durağımız Kolombiya’nın en büyük ikinci şehri olan Medellin.Keyifli iklimi nedeniyle şehir ‘Sonsuz baharın şehri’ olarak bilinir.Medellin’i teleferikle havadan mutlaka görün ve şehri daima canlı tutan bar ve restoranlarının tadını çıkarın.Eskiden Pablo Escobar’ın hükmettiği şehir sanat,müzeler ve parkların bolluğu ile bir kültür merkezine dönüşmüştür.Burada 3 gece geçireceğiz ve bu sırada renkli resmedilmeye değer Guatape kasabasını ziyaret etme seçeneğiniz olacak.Guatape’de kasabayı çevreleyen 200 m. yüksekliğindeki ünlü El Penon kayasını görebilirsiniz."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Coffee Farm",
+      "description": "Sıradaki 2 gece bir kahve tarlası(çiftliği)nda geçecek.Kahve ekili alanlar da ,Kolombiya’nın en önemli ihracatlarından kahve bitkisinin yetişmesi hakkında bilgiler alabileceğiniz bir turun tadını çıkarabilirsiniz.Frklı harmanları deneyin ve bu geleneksel çiftlikte rahatlayın."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Salento",
+      "description": "Bu zümrüt yeşili teraslı yamaçlar ,ülkedeki kahve üretiminin neredeyse yarısının yapıldığı yerde.Karla kaplı zirvelerin çerçevelediği bereketli tepelerin kombinasyonu baş döndürücü ve bölge yürüyerek gezmek için müthiş bir konumda. Orkide ve helikonyaların yanısıra vadinin ev sahipliği yaptığı ve adını aldığı geyik,kartal ve puma gibi çok çeşitli yerel hayvanları gözden kaçırmadan sis bulutu içindeki ormanı yüksek palmiye bahçelerini ve Kolombiya öncesi kalıntılarını keşfedin ."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Popayán",
+      "description": "Eski dünya koloni çekiciliğini ve zarafetini yansıtan Popayan kolonlar,kubbeler ve kemerlerle süslü tebeşir beyazlığındaki cepheleri ile sıklıkla beyaz şehir olarak anılır.Popayan tüm Latin Amerika’daki koloni şehirleri arasında  en iyi korunmuş şehir merkezlerine sahiptir ve görülebilecek uzaklıkta karla kaplı Purace Volkanı olan şehrin köşklerini,kiliselerini,okullarını ve manastırlarını keşfederek huzurlu sokaklarını gezebilirsiniz."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Seyir Halinde",
+      "description": "Uzun seyahat günlerini bitirebilmek için,gece Ekvador yolu üzerinde kamp yapacağız."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Otavalo",
+      "description": "Kolombiya’ya veda etmeden önce Las Lajas Tapınağını ziyaret edeceğiz. Burası kanyonun içine inşa edilmiş ve 50 m lik yüksek bir köprü ile bağlanmış muhteşem manzaralı bir yer.18.yüzyılda burada Meryem’in hayalinin görüldüğü rivayet edilir.Bugün hala pek çok insan mucizelere tanıklık etme umuduyla buraya hac gezisi yapmaktadır ve pek çok kaya plakası burada gerçekleştiği söylenen mucizelere tanıklık eder.Ekvador’a doğru yolculuğumuz buradan,Otavalo’dan devam edecek."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Quito",
+      "description": "Denizden 2850 m. yüksekteki Quito,Ekvador dünyadaki en yüksek ikinci başkenttir.Daha önce İnkaların güçlü bir kalesiyken 1534 te İspanyol rahipler tarafından kuruldu.Aktif bir volkan olan Pichincha üzerindeki oyuk bölgede yerleşiktir ve dev Quito bakiresi heykelinin bulunduğu Panecillo tepesinden şehir boydan boya görülebilir.Şehrin eski ve yeni olmak üzere iki bölümü vardır.Yeni bölüm tüm iyi restoran ve barların bulunduğu şehrin ticaret bölgesiyken eski bölüm dik yolları kalabalık plazaları ve yerel pazarlarıyla koloni dönemini yansıtır."
+    },
+    {
+      "dayNumber": 14,
+      "title": "Quito'dan Ayrılış",
+      "description": "Hayatınızın macerası bugün sona eriyor.Eğer geç saatte bir uçuşunuz varsa ya da konaklamanızı ve kalış sürenizi uzatırsanız şehri daha fazla gezmek için ekstra zamanınız olacak."
+    }
+  ],
+  "map": ""
+}

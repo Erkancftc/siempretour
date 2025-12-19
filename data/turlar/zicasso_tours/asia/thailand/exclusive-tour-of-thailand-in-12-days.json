@@ -1,0 +1,85 @@
+{
+  "destination": "Thailand",
+  "mainPhoto": "",
+  "id": "exclusive-tour-of-thailand-in-12-days",
+  "tourName": "Exclusive Tour of Thailand in 12 Days",
+  "placesVisited": "Bangkok, Chiang Mai, Krabi Town, Hong Island, Koh Phi Phi",
+  "generalInfo": "Experience true Thailand glamour and the thrill of Southeast Asian adventure on this 12-day insiderâs tour to Bangkok, Chiang Mai, Krabi, and more. Visit uplifting communities where ancient spirituality and heritage shine, explore unwavering conservation areas where wildlife thrives, and discover pristine beaches and sparkling seascapes at premier island escapes as you peer behind the scenes to learn what makes Thailand tick.",
+  "durationDays": "12",
+  "price": "12,700",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Bangkok - Welcome to Bustling Bangkok",
+      "description": "You will arrive in Thailand the day after your flight across the International Date Line and greet Bangkok after you pass through immigration and meet your private transfer. Your transfer and guide will drive you through Bangkokâs busy streets, past towering skyscrapers and down narrow roads in historic districts, to a decorated luxury hotel situated in Bangkokâs bustling cityscape. The rest of your day is at leisure, and you may enjoy a light stroll around the neighborhood, where you will introduce yourself to Thai culinary culture at lofty restaurants overlooking the twinkling cityscape this evening."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Bangkok - Brilliant City Highlights of Bangkok",
+      "description": "You will meet a guide after breakfast for a private walking tour of Bangkok that will begin beneath the soaring red arch of the Giant Swing. You will stroll down back alleys to colorful markets riddled with trinkets and fresh produce and delve into ancient Thai superstitions at the City Pillar Shrine. Your walking tour will culminate at a pier on the Chao Phraya River, where you will set sail on a khlong , or canal, tour past antique galleries and riverside stalls. A visit to Wat Arun temple and a sunset cruise on the Chao Phraya will conclude your brilliant tour."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Bangkok - Floating Markets and Thai Cuisine",
+      "description": "You will transfer from Bangkok city this morning to Nakhon Pathom, where you will spend your day immersing yourself in sensational Thai cuisine. Upon arrival, you will meet an excitable professional chef who will lead you to a little boat bound for the produce-laden wooden vessels gliding in and out of the Don Wai floating market. You will collect an assortment of fresh fruit and vegetables before you venture back to the culinary school for an introduction to authentic Thai cuisine. After creating your own Thai specialties, you will return to Bangkok for an evening in the big city."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Chiang Mai - Muang Culinary Culture in Chiang Mai",
+      "description": "You will transfer to Bangkok International Airport after breakfast and enjoy a scenic flight from the crowded city to Chiang Maiâs forested countryside. The culinary culture of Thailand comes to life across Chiang Mai in the traditional modest Muang eateries and coveted restaurants peppering its spirited neighborhoods. After checking into your sensational boutique hotel, you will weave through Chiang Maiâs many colorful towns on bicycles to some of the regionâs most famous foodie hotspots. Culminating on the banks of the Ping River, you will gaze over sunset views while savoring a spot of tea and tantalizing dessert treat."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Chiang Mai - Discovering Traditional Thailand in Mae Kampong",
+      "description": "Your adventures will lead you from Chiang Mai to Mae Kampong today, via scenic routes passing Stone Garden, Teen Tok Royal Project, and Pha Num Lord Cliff. You will appreciate the natural history of these floral sanctuaries before you arrive at a village and meet humble Northern Thai locals. During your time in the village, you will come to learn about Khon Mueang culture as you observe skilled villagers engaging in handicrafts and other generations-old traditions. You may also enjoy a sip of the localsâ tea processing and fermentation yields before you visit the Seven Level Waterfall and Temple."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Chiang Mai - Magnificent Encounters at the Kanta Elephant Sanctuary",
+      "description": "Elephants are sacred creatures in Thai culture, though they have been mistreated at the hands of tourism for many years. Fortunately, elephant sanctuaries across the country protect the magnificent animals as best they can and offer travelers an opportunity to ethically engage with the giant mammals. Today, you will visit the Kanta Elephant Sanctuary and change into traditional clothing before you prepare a hearty breakfast for the elephants. You will spend the rest of your morning preparing various meals for them, playing with them, bathing them, and learning about Chiang Maiâs unwavering conservation efforts."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Chiang Mai - Significant Spiritual and Environmental Experiences",
+      "description": "Each morning before dawn, Thai monks don their orange saffron robes and quietly saunter along the streets with alms bowls in their hands. Residents and visitors gather on the roadside and offer rice and condiments to the monks as they pass, and you may partake in this spiritually uplifting alms giving experience. Afterward, you may visit several significant temples and landmarks, including the Sri So da temple, Wat Prathat Doi Suthep, and FORRU, the forest restoration unit of Chiang Mai University. From the gold-embellished walls of the sanctified sites to the emerald-colored canopy of the forest, Chiang Mai boasts awe-inspiring spectacles."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Krabi - Peace and Quiet on the Andaman Sea",
+      "description": "Today, you will leave the hustle and bustle of Thailandâs cityscapes for the refuge and quietude of its seaside escapes. You will transfer to the shimmering white-sand shores of Krabi and check into a stately seaside resort boasting world-class views of the Andaman Sea. In Krabi, the sunlight dances off the sapphire sea, and visitors flock to the soft sands for mornings and afternoons kissed by the sun. You may also wallow in the peaceful pleasures of unwinding on the beach as you acclimate to your surroundings this afternoon."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Krabi - Lounging on Thailandâs Sun-Kissed Beaches",
+      "description": "With a full day in Krabi ahead, you may spend it relaxing in style on loungers dug into the velvety sand beneath the shady palm trees hugging the promenade. The day is yours to enjoy at leisure, whether you wish to snorkel in the crystal clear waters or partake in thrilling water sport activities such as speed boat trips or jet skiing offshore. However you decide to luxuriate on the beaches of Krabi, you will be ecstatic to spend the day relishing Thailand at your own pace."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Krabi - Seaside Adventures on Hong Island",
+      "description": "Krabi is a gateway to the Andaman Seaâs garden of islands, and you will revel in a guided long-tailed boat tour from the crowded Krabi beaches to the secluded sands of Hong Island. Fascinating rock formations littler Hong Islandâs headlands and forests veil the landscape beyond the coastline. Upon arrival, you may admire the captivating scenery as you kayak across the glistening sea to shallow coral reefs and hidden lagoons. In the afternoon, you will explore the complex channels and canyon-esque passages composing the soaring karst formations of Ao Thalane."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Krabi - Kick Back on Koh Phi Phi",
+      "description": "Arguably the most popular island in the Andaman Sea, Koh Phi Phi is an adored destination you will visit during a day trip from Krabi. There are a wealth of incredible beaches circling Phi Phiâs coastline, some of which have been made famous for their appearance in popular Hollywood films. From Maya Bayâs postcard-perfect beaches to Pileh Coveâs enchanting rock formations, your tour in and around Phi Phi island will show off the beauty of Thailandâs seascapes like never before. You will also delight in some of the best snorkeling and kayaking over the islandâs marine life-swarmed reefs."
+    },
+    {
+      "dayNumber": "12",
+      "title": "Krabi - Sparkling Views of the Andaman Sea",
+      "description": "The sparkling seascape surrounding your suite is the backdrop you will wake up to on your final morning in Krabi. From your balcony, you will hear the sounds of the sea slowly lapping against the pearly shores and feel the brisk breeze against your cheeks while you indulge in a steamy cup of coffee. You may pack your bags before you head down to the restaurant for breakfast alongside panoramas of the Andaman Sea, after which you will meet your private transfer and make your way to the airport."
+    }
+  ],
+  "map": ""
+}

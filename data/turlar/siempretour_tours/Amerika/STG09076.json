@@ -1,0 +1,75 @@
+{
+  "destination": "Amerika",
+  "mainPhoto": "",
+  "id": "STG09076",
+  "tourName": "Ovation Of The Seas Iile Alaska - 25.Haziran & 13.Ağustos.2020",
+  "placesVisited": "Amerika, Alaska, British Kolombiya",
+  "generalInfo": "Teknolojinin denizlerde ulaştığı son nokta Ovation of the Seas‘dir. 2016 İlkbaharında denizler ile buluşan Ovation of the Seas‘de diğer hiçbir gemide olmayan yenilikler var. Geleceğin teknolojisinin, çocukluğumuzun nostaljisi ile karşılaştığı bir gemi. Cruise seyahatiniz süresince sizleri şaşırtacak yenilikleriyle sürpriz dolu bir gemi. Quantum sınıfının en çok beklenen özelliklerinden biri olan Kuzey Yıldızı sizleri gemiden 90 metre yükseğe taşıyarak okyanusun, heyecan verici destinasyonların ve geminizin 360 derece nefes kesici manzarasını ayaklarınızın altına serecek.",
+  "durationDays": "10",
+  "price": "1796",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li>* Yukarıda belirtilen havayolu şirketleri ile İstanbul – Seattle – İstanbul arası aktarmalı ekonomi sınıfı uçak bileti</li>\n<li>* Havalimanı-liman-havalimanı arasında ki tüm transferler</li>\n<li>* Havaalanı ve liman vergisi <strong>790 €</strong></li>\n<li>* Seatle’da bir gece kahvaltı dahil konaklama</li>\n<li><strong>* </strong>5 Yıldızlı Ovation of the Seas gemimizde tam pansiyon (tüm yiyecekler dahil-Özel Restaurant giriş ücretleri hariç)</li>\n<li><strong>* </strong>Gemide düzenlenen animasyon ve aktiviteler</li>\n<li><strong>* Türkçe Rehberlik Hizmetleri (Grup kişi sayısı 20’yi aştığı takdirde)</strong></li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Seattle (ABD)",
+      "description": "İstanbul Havalimanı buluşmasının ardından,  AF1391 sefer sayılı uçuşu ile Seattle’a aktarmalı hareket. Varışın ardından otele transfer."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Seattle (ABD)",
+      "description": "Hareket Saati : 16:00"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 4,
+      "title": "Alaska Geçiti (Alaska)",
+      "description": ""
+    },
+    {
+      "dayNumber": 5,
+      "title": "Juneau (Alaska)",
+      "description": "Varış Saati : 12:00"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Skagway (Alaska)",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 7,
+      "title": "Endicott Arm & Dawes Glacier (Cruising) (Alaska)",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 8,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 9,
+      "title": "Seattle (ABD)",
+      "description": "Varış Saati : 06:00"
+    },
+    {
+      "dayNumber": 10,
+      "title": "İstanbul' a Varış",
+      "description": ""
+    }
+  ],
+  "map": ""
+}

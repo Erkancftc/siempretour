@@ -1,0 +1,85 @@
+{
+  "destination": "Avustralya",
+  "mainPhoto": "",
+  "id": "ST02010",
+  "tourName": "Avustralya ve Yeni Zelanda Mükemmel Bir Şarap Turu",
+  "placesVisited": "Avustralya, Yeni Zelanda",
+  "generalInfo": "Avustralya ve Yeni Zelanda'nın bu büyüleyici şaraphane turu ile duyuları yükseltin ve damağı şımartın. Her biri kendine özgü uzmanlığını zarafetle buluşturan beş ünlü şarap bölgesi ziyaret edilmektedir. Ünlü yerler Hunter ve Barossa vadileri veya Marlborough's Sauvignon Blanc üzüm bağları gibi kaplıdır. Ayrıca bir kıtanın en iyi butik bağlarını gezeceksiniz. Tadıma eşlik eden muhteşem yemek, büyüleyici manzaralar ve lüks ülke çekimleri sizi büyüleyecek.<br><br><strong>ÖNE ÇIKANLAR </strong>",
+  "durationDays": "12",
+  "price": "FİYAT İSTEYİNİZ",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li>- Türkçe Rehberlik Hizmeti,</li>\n<li>- Uçak Biletleri</li>\n<li>- Otellerde konaklama</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Hunter Valley, Avustralya'da Dinlenme",
+      "description": "Sidney'deki arazi ve kişisel şoförünüz, sizi gelip Hunter Vadisi dağlarına çırpmaya hazır bekliyor. Sidney'den sadece iki saatlik bir yolculukla, uçuştan yorulmuşken, yeşil vadinin ilk manzaraları sizi yeniden canlandıracak. Seyahat ağrılarının yatıştırılması lüks konaklama birimlerinde lüks bir spa süiti sizindir. Özel balkonunuz, üzüm bağları üzerinde göz kamaştıran manzaralar sunmaktadır. Tıpkı bölgenin ünlü beyazları gibi, lüks konaklamalarınız ince, zarif ve duyular üzerinde kolay. Gevşeme bugün gündemde merkezi ve uzman şarap rehberiniz birkaç seçenek sunacak. Yakındaki en yakın üzüm bağlarına kısa bir tur ya da geri çekilme muhteşem verandasında özel bir tadım seansı, rehber yerel favorilerden oluşan bir koleksiyon getiriyor."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Avustralya'nın En Eski Şarap Bölgesi'ni Keşfedin",
+      "description": "Şarap, burada 200 yıldır yetiştirilmektedir ve sıcak iklim, semillons ve turunçgil aromalı beyazlar için dünyaca ünlü bir spesiyalite sağlamıştır. Bugünün şarap turu, en iyi yerel olarak yakalanmış deniz ürünleri ile bu hassas lezzetleri birleştiriyor. Verdelhos, narenciye karidesleri ile birleşir, Chardonnays taze yengeç ile karıştırın ve semillonslar, deniz ürünleri ile uyumlu bir şekilde bir araya getirilir. Gün ilerledikçe, odak, doğanın nefes kesici manzaralarına sahip birkaç tepenin üzüm bağlarıyla örneklenmiş olan valley'in muhteşem Şirazına doğru ilerliyor. Bu güzergahta her gün olduğu gibi, tempo da rahatlıyor ve rehberiniz durakları kişisel tercihlere uygun hale getirecek."
+    },
+    {
+      "dayNumber": 3,
+      "title": "İki Şehrin Hikayesi - Sidney ve Melbourne",
+      "description": "Şarap tadımı için kısa bir duraklama var, çünkü bu gün Sydney ve Melbourne'un ikonikliğini ortaya koyuyor. Opera Binası'nın beyaz yelkenlerinden süzülen güneş, Sydney Limanı Köprüsü'nün altında bir tekne alarak, The Rocks'ın büyüleyici eski sokaklarında dolaşarak Darling Limanı'nın manzaralarını dinlendiriyor; Bütün bu ünlü deneyimler, Sydney'in üç saatlik bir sabah turuna özenle paketlenmiştir. Havaalanına transfer ve geç öğleden sonra tur kolonyal takılar, zarif nehir kenarında sevindirdi ve Buskers ve butik restoranlar sokakları ortaya koyduğu Melbourne, kısa bir uçuş. Görkemli dört servisli bir akşam yemeğinin, stoklanmış mahzen ve onayınızı alması muhtemel muhteşem bir şarap listesinin tadını çıkarın. Bu gece şehrin kalbinde uyuyorsunuz, Yarra Nehri'ne doğru ilerlerken Melbourne'u ikiye indiriyorsunuz."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Yarra Vadisi'nin Lavish Chardonnays",
+      "description": "Yarra Vadisi'nin serin iklime sizi götüren şoförlü yolculuğunuz, bir tarım arazisi ve üzüm bağları ile kentselliğin yerini alması bir saatten biraz zaman alıyor. Bölgenin Chardonnay'i dünya ölçeğinde çok büyük bir konuma sahiptir ve Avustralya'nın en büyük ihracat üzüm bağlarının çoğu burada bulunabilir. Tabii ki, evinizde bulabileceğiniz şeyleri örneklemek için dünyanın dört bir yanına doğru uçmadınız. Bu yüzden rehberinizin turistlerin favorilerini birbirinden uzaklamasına izin verin ve sizi ailenin mahzenleri ve butik üzüm bağlarına götürün. Gewurztraminers ve Marsannes gibi zarif spesiyaliteleri bir araya getirirken, yumuşak ve ince tatlar ile kendinizi şımartın. Yarra Vadisi şarapla ilgili, ancak lüks oteliniz sizi şaşırtacak. Vadinin üzerinde bolca bulunan, sanatsal ve zarif bir konumda bulunan bu tesis, çeşitli mahzenlere eşlik etmek için mutlak huzur sağlar."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Yarra Vadisi'nin Zarif Üzüm Bağları",
+      "description": "Üzümün büyülü manzarasını seyredebileceğiniz şahane bir kahvaltının tadını çıkarın, bağın muhteşem bakış açınızdan tepeye uzanan teraslarına sahiptir. Ardından, 60 dakikalık bir tedavi seçeneğiyle bazı spa terapilerinde kendinizi şımartın. Tamamen yenilenmiş mi? Hadi biraz şarabın tadına bakalım. Bugünün turu, ruh halinize bağlı olarak birçok yöne gidebilir. Büyük şarap imalathanelerinden birkaçını örnek alın ve büyük ölçekli şarap üretimine bir göz atın. 100 yıldan uzun süredir Sauvignon Blanc'ını özel olarak yetiştiren sevimli evlere yolculuk edin. Hemen hemen her diğer üzüm bağının bir Chardonnay'ı örneklemesine rağmen, belki de ünlü pinot noir veya cabernets sauvignonları izlemeyi tercih edersiniz. Dört çeşit yerel organik ürün ve olağanüstü yerel olarak üretilen şaraptan oluşan zengin bir akşam yemeğinin tadını çıkarın."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Barossa Vadisi'nin Dünyaca Ünlü Bağları",
+      "description": "Fuller lezzetleri, batıya doğru ilerlerken, Melbourne'den Adelaide'e kadar uzanan kısa bir uçuşla birlikte rotaya hakim olmaya başlar. Her zaman olduğu gibi lüks şoför, sizleri cömert yeşil tarlalara ve dağ yollarına dolambaçlı yollara çıkarmaya hazır gelenleri bekliyor. İlk durağınız: Pitoresk bir manzaraya sahip zengin süitinize göz atın. Rahatla ve yenile. Sükuneti ıslatın. Sonra keşfe başlayın."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Barossa Vadisi'ndeki ünlü Şiraz",
+      "description": "Sabah sisleri vadi boyunca yükselirken, Akdeniz tarzı güneşli bir gün daha başlar ve şarap uzmanı Barossa'nın uzmanlığını önceden tahmin etmiş olabilir. Bu iklim farklı bir üzüm koleksiyonunu desteklerken, en çok damak tadına hitap eden Şiraz'dır. Gezegenin en eski Şiraz üzüm bağları ve onların küratörü, 19. yüzyılın öncülerinden bir Shiraz denemesinin bütün vadisine ilham kaynağı oldu. Bir Shiraz masterclass şehvetli şölen başlıyor ve daha sonra bu tam aromalı şaraplar bazı yerel yerel et ile eşleştirilmiş, ızgara kanguru biftek örneklemek için mükemmel bir fırsat sağlar. Öğleden sonraları, Valley'in nefis lezzetlerinin başka bir tarafının tadını çıkarmak için liman şaraplarına geçin."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Orta Otago, Yeni Zelanda'nın Pinot Noirs",
+      "description": "Queenstown manzarasını seyredin ve bir şarap bölgesinden beklediğiniz şey değil. Engebeli dağlar kasabayı çevreler, Wakatipu Gölü'nün safirine yansıyan genellikle beyaz tepeler. Zirvelerin ardında sonsuz bir dizi fiyort ve dramatik dağ manzarası var. Bu yüzden ödüllü bir pinot noir'u ağzın etrafında dolaştırdığın zaman, sonuçlara şaşırdın. Tam gövdeli, kendine özgü, dünyevi; Merkez Otago pinot noirs, özellikle kış kar battaniyeleri gibi yamaç kapladığında pek çok ziyaretçiyi şaşkına çevirdi. Bu şarap gerçekten burada mı üretildi?"
+    },
+    {
+      "dayNumber": 9,
+      "title": "Dünyanın En Güzel Şarap Bölgesi'ni Keşfedin",
+      "description": "Çoğu konuk kahvaltılarını yudumlarken, taze kahve kokuları ve çıtır çıtır ateşi tarafından tüketilen lüks salonda dinlenebilir. Uygun bir şekilde dinlendikten sonra  Yüzüklerin Efendisi için kullanılan sayısız çekim mekanını geçerek ve ormanların ortasında acı çeken güzel gölleri fotoğraflamak için durduktan sonra Peter Jackson'ın Orta Dünya'sına giriyorsunuz. Dünyanın en güneydeki şarap bölgesi, bir butik bağ cenneti, ayrı toprak ve iklim ödüllendirici karakteri ve deneyi sunuyor. Günümüzün turu, görkemli Pinot noirs ve birkaç güzel iklim beyazı mozaiği getirerek, ilham verici mahzenlerden vintage lezzetler çekiliyor. Özellikle, rehberiniz yerel Gewurztraminer'ı ortaya çıkarma konusunda uzmandır. Belki de pırıltıları yakan cesur tatlar ve şaraplar bekliyoruz, belki de pırıltılı pinot noirda denen üzüm bağları tarafından özetlenmiştir. Büyüleyici bir tabağında öğle yemeği ve tarihi Old Cromwell Town'da bir durak ile bugün sizi Orta Otago'nun şarap harikalarından ikna edeceksiniz."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Marlborough'un Büyüleyici Şaraphaneleri",
+      "description": "Uçak uçağından güneye uçarken, Blenheim'a dokunduktan sonra otoriter dağ zincirini takip edin. Bağlar, üçgen yeşil dağlar nefes kesici bir zemin turne önce büyüleyici şehir sokakları etrafında hızlı bir dolaşmak için zaman var. Marlborough, dünyanın en iyi Sauvignon Blanc'ını üretmeye saygılıdır, ancak bu tedavi yarın için kurtarılmaktadır. Bugün özel şarap tadımı seansları ile özel baskı beyazlarını tadarak, Hunter's Wine ve Cloudy Bay Vineyards turu yapacaksınız. Chardonnay ve Riesling üzümlerinden yararlanarak kıtanın en parlak şarap imalatçılarından bir kaçını ziyaret edin. Antika ve sakin bir akşam için tarihi cazibe ve bereketli dokunuşlarla dolu lüks kulübenize çekilin."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Dünyanın En İyi Sauvignon Blanc Aralığında",
+      "description": "Marlborough'a dikkat et ve olgunlaşan üzüm sıralarını kaçırmak imkansız. Uzun güneşli günler ve serin geceler Sauvignon Blanc için ideal bir ortam sağlar. Bugünün turu üzüm bağları arasında dolaşarak ve çiğ üzümü örnekleyerek başlar. Daha sonra ünlü üzüm bağlarını keşfedin ve ünlü ihracatlarını tadın. Tam aromalı, yumuşacık kokular, gevrek tonlar; Yakında Marlborough'nun Sauvignon Blanc şampiyonu statüsünün ardındaki mantığın tadını çıkaracaksınız. Ancak dünyanın en iyi şişesi her zaman en ünlü üzüm bağından gelmez. Zevkli bir öğleden sonra, her biri Sauvignon Blanc'ın saf ve hassas tekliflerini sunan yarım düzine butik şarap imalathanesini ziyaret ediyorsunuz. Marlborough'da birçok vintage yıl geçti ve mahzenden teslim edilmeye devam eden örneklere direnmek zor. Her zaman olduğu gibi, bir şoföre sahip olmak, günün ilerleyen saatlerinde kimin araba kullanacağı konusunda endişelenmenize gerek olmadığı anlamına gelir. Turu, en beğenilen şarap eşleştirmeli restoranda, Marlborough'ya bakan enfes bahçelerinde ve ünlü beyazlarını tamamlayan organik yemeklerinde, öğle yemeğini geç bir öğle yemeği ile tamamlayın."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Ayrılış",
+      "description": "Havaalanı güvenliği ile bir şişe şarap alamazsınız, bu yüzden tüm bu harika şarabın onu kendi mahzende nasıl yapacağını merak ediyor olabilirsiniz. Tatil boyunca, her yerel rehber paketleme ve nakliye konusunda yardımcı olacak ve bu tatilin keyfini okyanus boyunca geri getirecek. Bu nedenle bugün, Yeni Zelanda'dan ayrılışınızı getirirken, bu eşsiz şarap yolculuğunun içilebilir hatıraları, bir sonraki şarap yolculuğunuza kadar size eşlik etmelidir."
+    }
+  ],
+  "map": ""
+}

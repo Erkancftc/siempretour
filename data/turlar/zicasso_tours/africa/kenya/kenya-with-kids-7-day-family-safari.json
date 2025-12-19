@@ -1,0 +1,60 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "kenya-with-kids-7-day-family-safari",
+  "tourName": "Kenya With Kids: 7 Day Family Safari",
+  "placesVisited": "Amboseli National Park, Samburu National Reserve, Maasai Mara National Reserve",
+  "generalInfo": "Flock to Kenya in search of the countryâs marvelous creatures and spectacular scenes on this tailormade 7-day family safari from Amboseli National Park to Masai Mara Game Reserve. With game drives revealing the wondrous wildlife dwelling in the African bush and spectacular safaris showcasing phenomenal wildlife moments such as the Great Migration, you and your family will be blown away by the remarkable spoils of the Kenyan wilderness.",
+  "durationDays": "7",
+  "price": "5,200",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Amboseli National Park - First Moments beneath Mount Kilimanjaro",
+      "description": "Boasting a vast and beautiful unspoiled landscape stretching from the foothills of the mighty Mount Kilimanjaro, Amboseli National Park is one of Kenyaâs finest wildlife sanctuaries that you will soon discover after landing in the country and transferring to your accommodation beneath the trees. En route, you and your family will discover the majesty that is Amboseli during a guided safari drive within a kitted-out 4x4 vehicle. From giraffes picking at towering acacia trees to buffalo grazing the golden savannah plains, your first moments in Kenya will showcase the country\u0000âs rich tapestry of indigenous wildlife."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Amboseli National Park - Surreal Sightings in Amboseli",
+      "description": "Mount Kilimanjaro is a natural wonder rising to meet the heavens, and its monstrous precipice marks the focal point of the Amboseli National Park. Viewpoints peppering the park share spectacular photo opportunities of the mountain as well as picturesque scenes of the landscape unfolding below. Today, you will jump in an open-sided 4x4 vehicle that affords the perfect game viewing experience and cruise the trails weaving through Amboseli to prime animal viewing hotspots. From elephant herds commanding attention as matriarchs lead them to watering holes to jackals scuttling through the plains in search of scraps, sightings are abundant in Amboseli."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Samburu National Reserve - Seclusion in Samburu",
+      "description": "The next leg of your African safari will bring you to the Northern Frontier District in Kenya, where you will continue to a spectacular bushcamp based on the banks of the Ewaso Nyiro River in Samburu National Reserve. The rugged landscape and palm-fringed river provide seclusion from the outside world, allowing you and your family to unwind and disconnect while soaking up the sunshine. Shortly after arriving, you will join a knowledgeable ranger for a tour of the surrounding bush, following trails to river banks and grasslands where you may spot iconic beasts such as lions and leopards."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Samburu National Reserve - Encounters with the Special Five",
+      "description": "Birdsong will chime in a new day this morning as the chirping grows louder from the nearby trees, signaling Samburu fluttering to life. After breakfast, your experienced ranger will pull up in a 4x4 vehicle and whisk you away into the wilderness to discover more of Samburu and Buffalo Springs Game Reserve. During your adventures across dry river beds, up gaunt hills, and along luxuriant pastures, you may chance upon Samburuâs iconic Special Five. The quintet of creatures is found nowhere else in Kenya and constitutes Beisa Oryx, Reticulated Giraffe, Somali Ostrich, long-necked Gerenuk, and Grevyâs Zebra."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Maasai Mara National Reserve - Across the Ancestral Lands of Maasai",
+      "description": "Set in the peaceful and tranquil bush of Maasai Mara Game Reserve, the final destination of your family vacation in Kenya will be spent beneath emerald foliage and along the umber banks of the Talek River. Your glamorous tents overlook the ribbon of water and share panoramas of thick woodlands surrounding camp as well as the wildlife wandering through the park. After arriving at camp, you will meet your professional guide for an unforgettable afternoon game drive across the ancestral lands of the Maasai tribe."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Maasai Mara National Reserve - The Great Migration",
+      "description": "Maasai Mara is a large game reserve with an abundance of animals and plenty of spectacular wilderness scenes to explore during your stay, meaning a full-day game drive will allow you to discover as much of the reserve as possible. Along the Mara River, at the right time of the year between July and October, you may witness the Great Migration of wildebeest and zebra as herds attempt to race across the wide river and outrun crocodiles waiting for them to hit the water. You will witness the herds speed away from chasing predators on their move towards greener pastures."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Maasai Mara National Reserve - On the Lookout for Early Hunters",
+      "description": "You will have one last chance to witness the wilderness surrounding camp before you pack up. In the morning, before the sun has risen above the horizon, you will set off with a ranger to view lions, cheetahs, and leopards hunting during these early hours. Blessed with open plains spreading endlessly in all directions and punctuated with forests climbing towards the sky, you will have no shortage of diverse environments to spot the curious creatures living within the bush. After your adventure, you will return to camp to collect your things and transfer to the airport."
+    }
+  ],
+  "map": ""
+}

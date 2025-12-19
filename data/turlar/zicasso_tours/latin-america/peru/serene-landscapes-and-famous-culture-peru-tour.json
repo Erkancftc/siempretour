@@ -1,0 +1,80 @@
+{
+  "destination": "Peru",
+  "mainPhoto": "",
+  "id": "serene-landscapes-and-famous-culture-peru-tour",
+  "tourName": "Serene Landscapes and Famous Culture Peru Tour",
+  "placesVisited": "Lima, Cusco, Sacred Valley, Machu Picchu, Puno, La Paz",
+  "generalInfo": "No trip to Peru is complete without witnessing the abundance history and raw natural beauty of the land and this 11-day tour of the country will present you with plenty of both. As you make your way from the seaside splendor of Lima to the windswept heights of Cusco, a blend of leisure time and guided exploration will ensure your full excitement at each of the memorable destinations you visit.",
+  "durationDays": "11",
+  "price": "4,700",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Lima â Wheels Down in Peru's Capital",
+      "description": "There is no shortage of exciting activities in Peru and today you will be able to enjoy one of the best ambassadors for the rich cultural history found here in abundance through the capital city of Lima. Perched atop rugged bluffs overlooking the Pacific Ocean, Lima dates back to the indigenous population of Peru who prized the region for its fertile soil and today the city will present you a vibrant atmosphere to enjoy your inaugural day. After your arrival to the main airport, a comfortable transfer will ensure your arrival to the city center where the remainder of the day will be yours."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Lima â An Orientation in a UNESCO Heritage Site",
+      "description": "Although Peru presents some of the finest attractions and beauty of South America, those that skip Lima to head straight to the Sacred Valley will miss the allure of the country's vibrant capital. It is this allure that you will be able to witness firsthand on a guided excursion of the old town where a knowledgeable guide will walk you through the city's superb colonial architecture, the famous Larco museum, and the Casa Aiaga before you can enjoy the remainder of the afternoon strolling the cobbled alleys and colorful neighborhoods at your own pace."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Sacred Valley â Walking in the Footsteps of the Inca",
+      "description": "Today you will turn your back on the stunning seaside beauty of Lima in search of higher elevations and as you climb into the heart of the scenic Andean mountain range, the lofty heights, as well as the scenic views, will take your breath away. The Andes were known as the seat of the Incan civilization and your final destination today will present you with an abundance of artifacts from this empire and after a brief flight from the capital, you will make your way to your comfortable hotel in the Sacred Valley."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Sacred Valley â Gateway to the Andean Way of Life",
+      "description": "As you will see, the Andean peoples present visitors with a rich culture and warm hospitality, and on your first full day in the Sacred Valley, you will be able to soak up this colorful culture on a full day tour throughout the Sacred Valley. You will start with a visit to Chinchero, where locals still wear the clothes and practice the customs first established by the Inca, and later you will be able to enjoy visits to the Museum of Yucay and the iconic fortress of Ollantaytambo."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Aguas Calientes â Exploring the Hilltop History of Machu Picchu",
+      "description": "As dawn's first light touches the heights of the Andean peaks around you, a stroll in this rugged land is an excellent way to see the region wake as well as work up an appetite for the excellent breakfast provided by the hotel staff. Later, you will dive deeper in to the Sacred Valley on a train journey to Machu Picchu. After a scenic train ride carries you from the highlands of Cusco to the subtropical jungle of Aguas Calientes, you will make your way to the UNESCO-listed, hilltop city of Machu Picchu for a guided tour before returning to your lush hotel."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Cusco â Capital of Incan Civilization",
+      "description": "No trip to Machu Picchu is complete without witnessing the stunning sunrise over the ruins and today you have the option of waking with the sun and making your way to this unparalleled Incan citadel before the crowds to enjoy this view. After enjoying this memorable start to your day, you will be able to make your way back to your hotel in Aguas Calientes before being conveyed to Cusco where you can spend the remainder of the day relaxing in your comfortable accommodations."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Cusco â A Clash of Past and Present",
+      "description": "There is no greater concentration of Incan artifacts than in Cusco, its historic capital, and today you will be able to enjoy a guided excursion through this rustic and colorful city. After a leisurely wake up, a guide will arrive to your conveniently located hotel and lead you first to the Santo Domingo Convent where you will be presented with some excellent examples of colonial Baroque architecture. The rest of the day will be a memorable parade of Incan fortresses, Spanish cathedrals, and magnificent vistas before you once again surrender to the hospitality of your Peruvian hosts."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Puno â Visiting the Highest Navigable Lake in the World",
+      "description": "Since your arrival in Peru, you may have heard rumors of a mythical land to the South complete with a massive mountaintop lake imbued with sacred spirits. Today you will turn your back on the Incan ruins of Cusco and make your way into this mythical landscape by a comfortable transfer and by the end of the day you will find yourself overlooking the placid shores of Lake Titicaca and enjoying the excellent hospitality of the lakeside community of Puno."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Puno â Rocking to the Rhythm of the Waves",
+      "description": "Rising with the sun is an excellent way to see a side of Puno missed by those who hit the snooze button and as the morning light stretches its golden fingers across this unforgettable landscape, you will be able to enjoy this view without the many crowds that flock here in the high season. Today you will take to the waves on a scenic cruise across Lake Titicaca to the islands of Uros and Taquile where you can witness the famous floating islands and the rustic lifestyle of the early inhabitants of this region."
+    },
+    {
+      "dayNumber": "10",
+      "title": "La Paz â Discovering the Lakeside Ruins of the Inca",
+      "description": "With the brilliant, snow-capped Andes in the distance, it should come as no surprise why so many fall in love with this colorful corner of Peru, and for your final full day on this tour you will be able to enjoy a final exploration of the lake and nearby Incan artifacts before making your way to the thriving city of La Paz. A morning catamaran cruise will take you to the famous Island of the Sun and later to the rustic museum of Ekako."
+    },
+    {
+      "dayNumber": "11",
+      "title": "La Paz â Concluding your South American Adventure",
+      "description": "From the charming urban environment of Lima to the lofty heights of the Andes, you excursion through this land has provided you with a delightful blend of leisure time and guided outings and as you awake to your final morning on this tour, a whole new appreciation for this colorful corner of South America will be yours to enjoy. After a relaxing wakeup, a comfortable transfer will arrive to ensure your timely arrival to the main airport of La Paz and your departing flight."
+    }
+  ],
+  "map": ""
+}

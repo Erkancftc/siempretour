@@ -1,0 +1,70 @@
+{
+  "destination": "Botswana",
+  "mainPhoto": "",
+  "id": "classic-botswana-safari-wilderness-and-wildlife",
+  "tourName": "Classic Botswana Safari: Wilderness and Wildlife",
+  "placesVisited": "Moremi Game Reserve, Chobe National Park, Savuti",
+  "generalInfo": "Bask in some of the best game viewing available on this accessible 9-day Botswana safari. It starts with a bang in the heart of the Okavango Delta. This seasonally flooded inland delta, with its lush plains and meandering waterways, is a protected haven for a vast array of wildlife, such as antelopes, elephants, lions, leopards, and wild dogs. Begin in the Moremi Game Reserve before transferring to Savuti and the Chobe River in Chobe National Park. This adventure gives you access to three distinct and unique environments and a variety of excellent game-viewing opportunities.",
+  "durationDays": "9",
+  "price": "8,800",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Moremi Game Reserve â The Okavango Delta",
+      "description": "The Moremi Game Reserve within the Okavango Delta is a pristine wilderness; it is one of the most beautiful in Africa and is teeming with wildlife and adventure. Your international flight will arrive in Johannesburg, South Africa. Upon your arrival, you will board another flight to Maun, Botswana. Your adventure will begin immediately with a scheduled flight over the Delta and the Moremi Game Reserve. Your safari guide will be waiting for your arrival to drive you into camp. After a safety orientation, you will head out on your first game drive before dinner."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Moremi Game Reserve â The Safari Lifestyle",
+      "description": "On safari, you will quickly adapt to a different pace of life. Following the example of the big cats, you will rise before the sun for a morning game drive and then break for a siesta in the heat of the day until late afternoon. After your break, you will go on another game drive. The Moremi encompasses many ecosystems, from open savanna and winding waterways to dense forests that support a variety of animal and bird species. You will be looking for a variety of game that roams the plains game, such as impalas, kudus, buffalos, wildebeest, zebras, and elephants. Not far away will be lions, leopards, wild dogs, and other predators."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Moremi Game Reserve â Game Viewing at its Best",
+      "description": "Your comfortable safari lodge will be the perfect base from which to explore this incredible environment. Often, the game wanders through the camp, and you can take it all in from the comfort of the deck of your suite. Today, you will take to the waterways and explore the channels and lagoons by boat in search of some of Botswanaâs 550 bird species, including the Malachite Kingfisher and the Fish Eagle. Your amazing guides will have countless stories to tell and an uncanny ability to find a lion snoozing in the tall grass or a leopard perched in a tree."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Savuti â Zebras on Parade",
+      "description": "Today, you will enjoy a final morning game drive and sumptuous breakfast before flying by light aircraft to the Savuti area of Chobe National Park. An afternoon game drive and traditional safari will be part of your itinerary during your time here. The area is well-known for the zebra herds that migrate through the area after the rains, which generally occur between November and April. This is the second-largest zebra migration in Africa and is often followed by predators. This density of mammals makes for fantastic game-viewing opportunities."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Savuti â Wetlands and Dry River Channels",
+      "description": "Again, the day will revolve around the pace of life in the bush with two game drives in open 4WD vehicles. The Savuti is defined by savannah and rocky outcrops that border the Savuti Marsh and the Savuti Channel. Where crocodiles resided in years past when the channel was running, wild dogs can now be found prowling in the dry riverbed. You can share tales of the dayâs sightings with other guests at camp around a bonfire in the evening and fall asleep to the sounds of the wild."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Savuti â Ancient Rock Paintings",
+      "description": "Wildlife in the Savuti is abundant. Common sitings include many varieties of antelopes, hyenas, Cape buffalos, wildebeest, elephants, black-backed jackals, bat-eared foxes, cheetahs, lions, and countless species of birds. You can also visit Gubatsa Hills, one of the notable rocky outcrops that stands out of the flatlands. Here, you can witness ancient San rock paintings."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Chobe River â Relaxing on the Riverfront",
+      "description": "After six days of thrilling game drives, you will be ready for the gentler pace of a safari along the Chobe River. After a morning game drive in Savuti and a bush breakfast, you will catch another aircraft transfer to your camp along the river on the northern border of Chobe National Park. The main attraction is the dense concentration of elephants, but many other species of the plains are attracted to the river in addition to the predators that follow them. Nothing can compete with an eye-to-eye encounter from a motorboat as the sun sets over the water."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Chobe River â An Elephant Playground",
+      "description": "During your time on the Chobe River, you will be able to enjoy an early morning river cruise or game drive. Because of the permanent water and fertile flood plains, Chobe is where you will find Africaâs largest concentration of elephants and herds of buffalo, especially during the dry season. This area is known to treat visitors to frequent sightings of giraffes, red lechwes, sables, puku antelopes, impalas, lions, leopards, and wild dogs."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Johannesburg â Departure",
+      "description": "As you reach the end of your unforgettable safari, you can reflect on all the incredible wildlife encounters you have experienced. Your pictures will be impressive, but nothing compares to the real thing. You will be able to partake in one last morning activity in Chobi. Your lodge will arrange a transfer for you by road to Kasane Airport, where a commercial flight will fly you back to Johannesburg. Once back in Johannesburg, you will connect with your international flight."
+    }
+  ],
+  "map": ""
+}

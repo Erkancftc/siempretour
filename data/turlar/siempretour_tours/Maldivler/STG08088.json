@@ -1,0 +1,70 @@
+{
+  "destination": "Maldivler",
+  "mainPhoto": "",
+  "id": "STG08088",
+  "tourName": "Costa Victoria İle Hindistan & Maldivler & Sri Lanka - 07.Şubat.2020",
+  "placesVisited": "Maldivler, Sri Lanka, Hindistan",
+  "generalInfo": "Male, Male, Denizde Seyir, Colombo, Denizde Seyir, Mormugao/GOA ,Bombay/Mumbai",
+  "durationDays": "9",
+  "price": "1399",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li>Emirates Hava Yolları ile İstanbul (Atatürk Hava Limanı) – Male/Bombay  - İstanbul (Atatürk Hava Limanı) ekonomi sınıfı uçuşlar.</li>\n<li>Kişi sayısına bakılmaksızın Türkçe rehberlik hizmeti.</li>\n<li>Havalimanı ve liman vergileri. (550€)</li>\n<li>Havalimanı – Liman – Havalimanı transferler.</li>\n<li>Tercih edilen kategoride tur süresince konaklama.</li>\n<li>Gemide sabah, öğle, akşam yemekleri ve ara ikramlar.</li>\n<li>Gemideki eğlence ve şovlar.</li>\n<li>Fitness &amp; Spor salonu kullanımı.</li>\n<li>Seyahat sağlık sigortası. 70 yaş ve üzeri %100 surprim 10€ uygulanır. (Sigorta aynı zamanda mesleki zorunluluk sigortrası olduğundan iptali mümkün değildir.)</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Male (Maldivler)' e Varış",
+      "description": "Emirates hava yolları ile Dubai aktarmalı maldivler uçuşu."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Male (Maldivler)",
+      "description": "Male (Maldivler)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Male (Maldivler)",
+      "description": "Male (Maldivler)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 5,
+      "title": "Colombo (Sri Lanka)",
+      "description": "Colombo (Sri Lanka)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 7,
+      "title": "Mormugao/GOA (Hindistan)",
+      "description": "Mormugao/GOA (Hindistan)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "Bombay/Mumbai (Hindistan)",
+      "description": "Bombay/Mumbai (Hindistan)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "Bombay/Mumbai (Hindistan)",
+      "description": "Sabah saat 06:00’da gemiden ayrılıp havalimanına transferimiz gerçekleşiyor. Uçağımız 10:25’te kalkacak."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,60 @@
+{
+  "destination": "Italy",
+  "mainPhoto": "",
+  "id": "one-week-in-the-tuscan-countryside-tour",
+  "tourName": "One Week in the Tuscan Countryside Tour",
+  "placesVisited": "Rome, Tuscany, Montepulciano, Pienza, Montalcino, Siena, San Gimignano, Volterra, Castello, Fiumicino",
+  "generalInfo": "Italyâs countryside is teeming with hilltop towns that are speckled across the breathtaking region of Tuscany, which you will explore on this handcrafted 7-day tour. Under the Tuscan Sun, you will appreciate the endless beauty of the emerald hills that roll from Montepulciano in addition to admiring the ancient architecture of the cultural heritage sites in San Gimignano. From town to town, you can find beauty in every charming destination against the beautiful countryside backdrop.",
+  "durationDays": "7",
+  "price": "3,200",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Rome - An Introduction to Italy",
+      "description": "Rome is a treasure trove of historical landmarks set within a mesmerizing architectural cityscape. The city showcases Ancient Roman design that is imbued with sophisticated and contemporary characteristics. You will touch down, drop off your belongings at your accommodation, and have the opportunity to tour classic Rome. During your initial discovery, you will visit Italian boutique stores, delicious gastronomic specialties, and fabled heritage sites within Dolce Vita, such as the Pantheon and the Spanish Steps. Afterward, you will enjoy local culinary dishes for dinner before returning to your room."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Montepulciano - Tour the Ancient Eras",
+      "description": "You will enjoy a private tour of Ancient Rome after breakfast, skipping the queues to access the cityâs most significant cultural sites. Your first stop, the Colosseum, is a marvel to behold. As you peruse the grounds and stand where soldiers once fought beneath screaming crowds, you will feel overwhelmed by the powerful stories that echo between its monumental limestone pillars. Upon leaving, you will venture to the Roman Forum and Palatine Hill for a riveting history lesson backdropped by jade-colored gardens. You will then arrive in Montepulciano, Tuscany later in the day."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Montepulciano - Bucolic Pastures",
+      "description": "You will spend the day partaking in activities that abound across Tuscany, from charming town visits to sumptuous fine dining. You will transfer to Pienza with your private driver. The town is a once-sleepy hamlet turned breathtaking pint-sized Renaissance town between rolling green and gold hills. Here, you can appreciate the bucolic pastures as you bite into tantalizing pecorino cheese produced by a local dairy farm. Afterward, you will continue through Crete Senesi and Montalcino. In Montalcino, you will experience wine-oil tasting at an estate that is revered for its world-class Brunello wine."
+    },
+    {
+      "dayNumber": "4",
+      "title": "San Gimignano - A Surreal Stop in Siena",
+      "description": "Before reaching San Gimignano for an evening overlooking the sprawling emerald hilltop on which it rests, you will make way through Siena for a guided tour of its cultural landmarks. You will gather among groups of eager tourists and chatting locals in the courtyard of the sloping Il Campo piazza. From here, you may navigate along the interweaving streets where art is displayed in elegant galleries and aromas emanate from buzzing restaurants. Soon, you will reach the cityâs districts that have been woven into a still very medieval-looking neighborhood."
+    },
+    {
+      "dayNumber": "5",
+      "title": "San Gimignano - Breathtaking Tuscan Hills",
+      "description": "Nature is preserved in the forested hilltops that appear to roll out from under San Gimignanoâs stone skyline. An inspiration for artists and musicians, the Tuscan countryside is breathtaking, and you will bask in its beauty as you meander the olive groves of San Gimignanoâs cherished Fattoria. Savoring the flavors of this endearing farmâs exalted wines and saffron-infused lunches will segway perfectly into a leisurely tour of Volterraâs vibrant piazza, spirited craft stores, and magnificent museums."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Fiumicino - Serendipitous Moments",
+      "description": "You will journey from the hill town of San Gimignano to the bustling city of Fiumicino today, making one last stop in the stunning Tuscan countryside at Castello, Chianti. The beautiful hamlet is a sought-after location situated within the evergreen fields that spread out across the Tuscan hillside. Against the harmonious backdrop, seemingly endless rows of vineyards wrap across the landscape below a noble Tuscan wine estate. Here, you will lap up the luxurious bottles presented by your taste guide and discover the details for which these wines are cherished. You will then continue to Fiumicino after for a leisurely last evening."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Fiumicino - Departure",
+      "description": "The sunâs beaming rays will flood your room with a warm embrace on your final morning in Italy. You will stretch out and wake up to a city that is bursting with character. Before you leave, you can bask in the scenes of life getting underway from beneath your balcony or beyond your terrace. You will enjoy one last Italian breakfast complete with decadent pastries and scrumptious snacks before you transfer to Fiumicino Airport and bid Italy a bittersweet farewell."
+    }
+  ],
+  "map": ""
+}

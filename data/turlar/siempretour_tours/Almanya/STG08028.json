@@ -1,0 +1,80 @@
+{
+  "destination": "Almanya",
+  "mainPhoto": "",
+  "id": "STG08028",
+  "tourName": "MSC Splendida ile Norveç Fiyortları - 18.Mayıs.2020",
+  "placesVisited": "Almanya, Norveç",
+  "generalInfo": "Kiel, Denizde Seyir, Nordfjordeid, Denizde Seyir, Honningsvag, Tromso, Denizde Seyir, Trondheim, Alesund, Denizde Seyir, Kiel",
+  "durationDays": "11",
+  "price": "1299",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p>* Türk Havayolları ile ekonomi sınıfı IST-HAM-IST Uçuşlar<br/>\r\n* Gemide  10 gece tam pansiyon konaklama<br/>\r\n* Havaalanı - liman - havaalanı transferleri<br/>\r\n* Türkçe rehberlik hizmeti<br/>\r\n* Gemide düzenlenen  ücretsiz animasyon ve şovlar<br/>\r\n* Kaptanın hoşgeldin partisi ve gala yemeği<br/>\r\n* Havalimanı ve liman vergileri<br/>\r\n* Yurtdışı Seyahat Sağlık ve İptal Sigortası</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Kiel (Almanya)",
+      "description": "Kiel (Almanya)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 3,
+      "title": "Nordfjordeid (Norveç)",
+      "description": "Nordfjordeid (Norveç)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 5,
+      "title": "Honningsvag (Norveç)",
+      "description": "Honningsvag (Norveç)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Tromso (Norveç)",
+      "description": "Tromso (Norveç)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 8,
+      "title": "Trondheim (Norveç)",
+      "description": "Trondheim (Norveç)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "Alesund (Norveç)",
+      "description": "Alesund (Norveç)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 11,
+      "title": "Kiel (Almanya)",
+      "description": "Kiel (Almanya)"
+    }
+  ],
+  "map": ""
+}

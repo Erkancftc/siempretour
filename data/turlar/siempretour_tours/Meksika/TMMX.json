@@ -1,0 +1,65 @@
+{
+  "destination": "Meksika",
+  "mainPhoto": "",
+  "id": "TMMX",
+  "tourName": "Mexico City’ den Mexico City’ e",
+  "placesVisited": "Meksika",
+  "generalInfo": "Meksika'nın önemli noktalarına yapılacak olan bu kasırga tadındaki macera turu duyularınızı harekete geçirecek.  Teotihuacan'ın gizemlerini ortaya çıkaracak,  Oaxaca'da lezzetli tatları deneyecek ve San Cristobal de las Casas'ın enfes cazibesini keşfedeceksiniz.<br><br><strong>Lütfen dikkat:</strong> Bu örnek bir güzergahtır ve kendi kişisel gereksinimlerinize ve bütçenize uyarlanabilir.",
+  "durationDays": "8",
+  "price": "2189",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Geziler ve aktiviteler: </strong></p>\n<ul>\n<li>- Mexico City turu</li>\n<li>- Teotihuacan</li>\n<li>- Mitla turu</li>\n<li>- Sumidero Kanyonu</li>\n<li>- Monte Alban ve Oaxaca şehir turu</li>\n</ul>\n<p><strong>Konaklama:</strong>  </p>\n<p>Otellerde 7 gece</p>\n<p><strong>Yemekler:</strong>  </p>\n<p>7 kahvaltı</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Mexico City' e Varış",
+      "description": "Check-in yaptıktan sonra,  gecenin geri kalanı serbest zamandır."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Mexico City ve Teotihuacan",
+      "description": "Sabah şehri gezmeye başlıyoruz.  Plaza de la Constitucion olarak da bilinen “Zocalo” yu keşfedeceksiniz.  Burası,  Azteklerin Montezuma I zamanında yönetilen ve saraylar ve tapınaklarla çevrilmiş olan kentin kalbi olmuştur.  Sadece bu meydanda Büyük Tenochtitlan Tapınağı kalıntılarından Diego Riviera'nın Ulusal Saray duvarlarındaki bağımsızlık mücadelesinin duvar resimlerine kadar Meksika'nın tarihini ve kültürünü anlayabilirsiniz."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Puebla ve Oaxaca",
+      "description": "Bugün güzel koloni şehri Puebla'ya doğru yola çıkacaksınız.  Pico de Orizaba olarak da bilinen Popocatepetl,  Iztaccihuatl,  Malinche ve Citlaltepetl gibi Meksika’nın en tanınmış dört yanardağının dört bir yanında yer almaktadır.  Şehri gezmek için birçok sebep var; muhteşem yöresel yemeklerin tadına bakmak da dâhil.  Puebla'nın nefis yemekleri ünlü poblana sosu ve en nogada chiles gibi mevsimlik lezzetli yemekleri içerir.  Puebla'nın tarihi merkezi,  UNESCO Dünya Mirası listesindedir.  Kuşkusuz bu onurun nedenlerinden biri,  şehrin tarihi koloni binalarını süsleyen son derece çarpıcı olan döşeme çalışmalarıdır.  Elle boyanan Talavera fayansıyla ünlü Puebla,  Arap etkisi altında İspanyollar tarafından başlatılan bir sanat olan süslemeli ve fırınlanmış kil hususunda ustalaşan Yeni İspanya'nın ilk şehri olmuştur.  İspanyol fayans üreticileri Puebla'da ikamet ettiler ve bu güne kadar geçerli olan bir mükemmellik standardı belirlediler.  Şehrin etrafındaki pek çok kiliseyi ve diğer binaları süsleyen çinileri görebilirsiniz."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Monte Alban ve Mitla",
+      "description": "Bu sabah özel rehberinizle buluşacak ve Zapotekan halkının bir tepeye inşa edilen dini başkenti Monte Alban'a seyahat edeceksiniz.  Burası piramitler ve mezarlar bakımından zengindir ve panoramik bir konumdadır.  Kalıntılar,  Oaxaca'nın merkez vadisinde,  deniz seviyesinden 1600 metre yükseklikte birleşen üç dağ sırasının doruklarına uzanmaktadır."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Mitla - Tehuantepec",
+      "description": "Bugün eski bir Mixtec merkezi olan Mitla'dan başlayarak Oaxaca'yı çevreleyen bölgeleri ziyaret edeceksiniz.  San Pablo Mitla'nın ardından İspanyollar tarafından adı konulan Mitla'nın ilginç,  dar ve renkli sokakları,  çok sayıda Mezcal üreticisi ve satıcısının yanı sıra tekstil tüccarlarına da ev sahipliği yapıyor.  Antik Mixtec kalıntılarını görebileceğiniz kiliseyi ve komşu arkeolojik siteyi ziyaret edeceksiniz."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Sumidero Canyon - San Cristobal de las Casas",
+      "description": "Bugün başkent Chiapa de Corzo yönünde Chiapas Eyaleti için yola çıkacaksınız.  Yol boyunca yerel tekne ile seyahat edilen etkileyici Sumidero Kanyonunu ziyaret edeceksiniz.  Kanyon milli park ile çevrilidir ve 1000 metre yüksekliğe kadar dikey duvarlara sahiptir.  Grijalva Vadisi'nin daha sıcak ormanlarına ve daha çok ormanımsı bölgelerine ulaşacaksınız ve buralarda yükselen şelalelerin altından geçecek ve hatta nehir kenarlarında güneşlenen timsahlara bile rastlayabileceksiniz.  Kanyondaki maceradan sonra,  deniz seviyesinden 2000 metre yükseklikte bulunan San Cristobal de las Casas'a kadar devam edeceksiniz."
+    },
+    {
+      "dayNumber": 7,
+      "title": "San Cristobal de las Casas",
+      "description": "San Cristobal de las Casas,  farklı dilleri,  elbiseleri ve gelenekleri olan 21 yerli köyüyle çevrilidir.  Şehre parlak renklerle boyanmış kırmızı kiremitli evler hâkimdir.  Bugün San Cristobal'a birkaç kilometre uzaklıktaki San Juan Chamula ve Zinacantan'ın yerli topluluklarını ziyaret edeceksiniz."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Mexico City’den Ayrılış",
+      "description": ""
+    }
+  ],
+  "map": ""
+}

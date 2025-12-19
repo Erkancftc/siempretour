@@ -1,0 +1,75 @@
+{
+  "destination": "Germany",
+  "mainPhoto": "",
+  "id": "unique-10-day-family-tour-of-germany",
+  "tourName": "Unique 10-Day Family Tour of Germany",
+  "placesVisited": "Stuttgart, Rhine Valley, Fussen, Rothenburg",
+  "generalInfo": "This ten-day Germany itinerary is expertly designed for families and offers a blend of experiences for all ages. It is the perfect slow-paced trip through Germany, mixing fairytale castles and childrenâs attractions with laid-back towns and history. Immerse yourself in the charm and create your own story in a part of Germany that remains mostly frozen in time.",
+  "durationDays": "10",
+  "price": "4,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Rhine Valley - Rest After Your Flight",
+      "description": "Frankfurt is a very convenient gateway for exploring Germany, but it is best not to spend too long in the big city, especially with your children. The Rhine Valley is only an hour away, and you will be transferred privately by a local guide. Upon your arrival at your riverside accommodation, you can check in and have the rest of the day at your leisure. You can wander along the river, explore the small town, rest by the pool, and regain your energy after the flight. With ten days in Germany, this laid-back location is a great way to start."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Rhine Valley - Medieval Castles and Old-World Vineyards",
+      "description": "This morning, you can sit back, relax, and take part in a private boat trip up the Rhine River. Castles mark the hilltops and are reminiscent of an ancient time. Vineyards flow across the hills, and you will stop for a riverside wine tasting. Tiny villages stretch along the water and are great places to disembark for a coffee or ice cream. During this full-day cruise, you can also explore stories in some of the forts and find a place for your children to swim. This will be a great way to begin your time in Germany."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Rhine Valley - Dazzling Hilltop Castles",
+      "description": "While the more famous German castles are located in Bavaria, the Rhine Valley also has dozens of beautiful castles to discover. These are older and less visited, such as 11th-century Marksburg and 12th-century Burg Eltz. A local historian will lead your family on a treasure hunt to these and other castles so that you can recreate a story from the early medieval period. This experience will be complete with costumes that are indicative of the time period and a narrative that is as whimsical as a Disney fairytale. You will return to your riverside hotel for a final night in the small Rhine village."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Stuttgart - The Mercedes Legend",
+      "description": "Today will bring a fusion of different sights and experiences. You will explore the impressive red walls of Heidelberg Castle before riding a cogwheel train to the old city, where you can stroll cobblestone lanes and have lunch on a small terrace. Then, you will continue to Stuttgart, where you can visit one of Europeâs finest zoos or have a guided tour of the original Mercedes Benz Museum. Stuttgart is a vastly underrated city and will help your family venture a little off the beaten track. This is a perfect city if you like trying authentic cuisine and exploring new cultures."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Stuttgart - Legoland Deutschland",
+      "description": "Deutschland Legoland was created from over 50 million LEGO bricks, and it is Germanyâs premier theme park. There are racing tracks for kids, castles and suspension bridges, plenty of things to build, and even a jungle crafted from LEGOs. This is a day for the kids about halfway through your ten-day family tour through Germany. After a day here, you will probably have a quiet night in Stuttgart. Your hotel has an excellent restaurant that will provide convenience and local cuisine."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Fussen - Riding a Bobsled",
+      "description": "Spectacular landscapes will dominate the day as you meander into the Bavarian Alps. This will be a slow journey, and with a private guide, there are many places to stop. Perhaps, you will take a family trail through a forest or stop by a lake to swim and relax. You can explore villages that are marked by charming churches and horseback through the Alps. The highlight of your day will be a bobsled ride, which is a very safe family activity that injects some thrills into a day of relaxing travel. You will spend the night in Fussen, which is one of Germanyâs finest pedestrianized old towns."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Fussen - Recreating Fairy Tales at Neuschwanstein",
+      "description": "Neuschwanstein was the inspiration for Cinderella and Disneyâs Magic Kingdom. It looks every bit like a fairytale and is perched on a forested mountain with turrets that climb to the sky. After a stop at Maryâs Bridge for some iconic photos, you will explore Neuschwanstein with a guide to learn the real story behind much of the fiction. There are other castles in the area, and the afternoon can be tailored to your energy and interests. After Neuschwanstein, your kids may not be a bit tired because it is one of the countryâs ultimate family highlights."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Rothenburg - Germanyâs Romantic Road",
+      "description": "Almost 200 miles of old-world scenery separates Fussen from Rothenburg, which lies at the other end of the Romantic Road. The advantage of a privately guided transfer is that you can explore at your pace. You can pick and choose when to speed on the autobahn and when to meander along the Romantic Road. You will find adorable cobbled villages that seem frozen in time, old towns that have been seemingly abandoned, and insight into the Middle Ages. When youâre bored with all of this, you can accelerate to Rothenburg, which is one of the finest of Germanyâs old cities."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Rothenburg - Germanyâs Most Enchanting Medieval City",
+      "description": "Wooden houses flank cobbled streets, bells ring out from church spires, and there is no traffic other than an odd horse and cart. This is Rothenburg, and it still feels like the early medieval era, especially because locals dress in clothing of the medieval era. Today will be left free and can be crafted to your interests. A local guide can give you the true city history, or you can wait until after dark for a ghost walk. Rothenburg is also a great city if you want to buy souvenirs or to stroll around without having to worry about passing traffic."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Rothenburg - Departure",
+      "description": "From Rothenburg, it will take around 90 minutes to reach Frankfurt International Airport for your flight home. Late check out can be arranged if required, and your transfer to the airport will be private."
+    }
+  ],
+  "map": ""
+}

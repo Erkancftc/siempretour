@@ -1,0 +1,90 @@
+{
+  "destination": "Scotland",
+  "mainPhoto": "",
+  "id": "amazing-scotland-tour-charming-city-to-wild-highlights",
+  "tourName": "Amazing Scotland Tour: Charming City to Wild Highlights",
+  "placesVisited": "Edinburgh, Perthshire, Nairn, Isle of Skye, Fort William, Dunblane",
+  "generalInfo": "There is no shortage of raw beauty and outdoor recreation in the coastal communities and highlands of Scotland, and this 13-day tour of both regions has been designed to provide plenty of both so that you can bask in the ambient charm of this unique corner of the UK. This tour will lead you from the capital of Edinburgh to the Firth of Moray in addition to making sure that you get a healthy dose of Scotland's culture, heritage, and history along the way.",
+  "durationDays": "13",
+  "price": "12,700",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Edinburgh â An Immersion in the Scottish Capital",
+      "description": "With the chimneys, craggy rocks, steeples, and castles of Edinburgh's skyline as your backdrop, you will enjoy one of Scotland's most scenic urban areas as you plunge into a tour of this storied land. Your first stop will be the capital: Edinburgh. Upon your arrival to the city's main international airport, a private transfer will be waiting to whisk you into the cobbled alleys and narrow lanes of the city center and your conveniently located hotel. Here, you will have the remainder of the day to explore the city at your own pace."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Edinburgh â Strolling Through the Ages on a Walking Tour",
+      "description": "As the morning light creeps down the facades and steeples of Edinburgh's old town and casts its golden hue over the city, you can explore the crowd-less squares and boulevards of the Scottish capital as well as watch the city come to life. After a hearty breakfast from your hotel, you can celebrate your first full day with a private walking tour, during which a knowledgeable guide will lead you through this world of castles, palaces, and even a royal yacht."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Perthshire â Gateway to the Highlands",
+      "description": "No trip to Scotland is complete without a thorough introduction to the rugged terrain and warm hospitality of the Scottish Highlands. Today, you will step into this world during a visit to the landlocked beauty of central Scotland and the county of Perthshire. Before making your acquaintance with this stunning land, you will stop by Scotland's oldest distillery to sample the famous Scotch produced from the pure mountain water nearby. Afterward, you will have a private transfer to your new hotel adjacent to the rustic town of Pitlochry."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Perthshire â Walking in the Footsteps of the Queen",
+      "description": "Perthshire is indeed a land steeped in myth and legend. The morning mists give way to the stunning vistas of rolling forests, craggy mountains rise like sea waves, and placid rivers wind their way through the lush landscape. After a tasty breakfast, you will make your way to the nearby village of Dunkeld for a private tour of the center and majestic cathedral, which was visited by Queen Victoria in 1866."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Nairn â Cruising Through the Cairngorms National Park",
+      "description": "Like a big bite taken out of Scotland's northeastern region, the Moray Firth presents visitors with an abundance of coastal beauty and recreational opportunities. It will also be your destination, and you will turn your back on the landlocked splendor of Perthshire. After a final breakfast at your hotel, a private transfer will convey you swiftly through the scenic beauty of Cairngorms National Park to your seaside accommodations in the charming town of Nairn. Here, you will have the remainder of the evening at your leisure."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Nairn â Enjoying a Front Row Seat to the Local Whiskey Production",
+      "description": "Your first morning in Nairn will reveal a stunning coastal setting with pristine beaches, panoramic views, and charming villages. Today, you will enjoy the tradition of producing some of Scotland's finest, spring-fed whiskey. After a leisurely morning, you will visit the whiskey haven of Speyside, where locals have been using the nearby Romach Hills as their source of water for distilling operations for over a century. Later, you will visit the Macallen estate, where an expert will walk you through every step of the distillation process."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Isle of Skye â Jewel of the Hebrides",
+      "description": "Today, you will turn your back on the Firth of Moray and the stunning views of Nairn to make your way to Scotland's west coast, where coastal beauty will be replaced by more coastal beauty. As you cross over the long causeway to the Isle of Skye, you will enter your gateway to Scottish adventure. With limestone cliffs that plunge into the crashing waves below, gentle meadows cling to the rugged mountain slopes and an abundance of historical sites, such as the Jacobite rebellion. Skye is a romantic setting that inspires the imagination, and upon arrival, you can explore it at your own pace."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Isle of Skye â Basking in Ambient Adventure",
+      "description": "As far as Scottish islands go, few boast as many opportunities for excellent vistas, outdoor recreation, and outstanding hospitality as the Isle of Skye. As dawn breaks on this magical landscape, you will be able to rise with the sun or hit the snooze button for a few more minutes of sleep. Today, you will enjoy a private tour of the island, including visits to the famous Kilt Rock, the Quiraing, Fairy Pools, and the evocative Eilean Donan Castle."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Inverlochy â Plunging Into the Land of Lochs",
+      "description": "Your explorations of Western Scotland will continue when you return to the mainland from the Isle of Skye by private transfer and make your way to the rugged hillsides and crumbling castes of Inverlochy. Standing in the shadow of the nearby Grampian Mountain Range, your rustic accommodations will be the perfect launchpad into the outdoor beauty of the region. Here, you can appreciate Scotland's diverse flora and fauna as well as the famous hospitality of the highlands."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Fort William â Cruising on the Jacobite Steam Train",
+      "description": "After a leisurely morning and a hearty breakfast, you will make the most of your first full day in this legendary region by enjoying a brief transfer to the rustic town of Fort William. The highland culture is strong here, and parades of kilted bagpipers can be seen throughout the warmer seasons, celebrating the storied traditions of the clans. Today, you can also enjoy a trip on the famous Jacobite Steam Train, an 84-mile round-trip journey that will introduce you to the stunning landscape of Western Scotland."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Dunblane â A Return to the Seductive Central Scotland",
+      "description": "The pull of the beauty of central Scotland will be too much to bear when you depart the shadow of Britain's largest mountain of Ben Nevis and make your way to your final destination of this journey. Perched on the placid banks of the Allan River, Dunblane boasts an impressive array of historical sights, rich cultural practices, and an impressive 11th-century cathedral. After a private transfer, you will enjoy the remainder of the day at your leisure in this unique corner of Scotland."
+    },
+    {
+      "dayNumber": "12",
+      "title": "Dunblane â Enjoying a Stirling Day Trip",
+      "description": "Your final full day on this tour of all things Scottish will bring with it the opportunity to enjoy a up-close and personal visit to Stirling during a guided tour. This bridge between the Scottish highland and Lowlands will be yours to enjoy with a private guide. After a leisurely morning at your Dunblane accommodations, a private guide will convey you to Stirling, where the city's history will come to life during a tour of the main castle, the Royal Palace, and the Great Hall."
+    },
+    {
+      "dayNumber": "13",
+      "title": "Dunblane â A Reluctant Departure from Scotland",
+      "description": "As dawn breaks on your final morning in Scotland, you can enjoy a final stroll through the colorful neighborhoods and charming culture of this storied land. After a fortifying breakfast at your hotel, a private transfer will arrive to convey you to the main international airport for your departing flight."
+    }
+  ],
+  "map": ""
+}

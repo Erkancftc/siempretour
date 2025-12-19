@@ -1,0 +1,95 @@
+{
+  "destination": "San Jose",
+  "mainPhoto": "",
+  "id": "TCRA",
+  "tourName": "San Jose’ den San Jose’ ye",
+  "placesVisited": "San Jose",
+  "generalInfo": "Dünyanın en yeşil ülkesi Kosta Rika'nın güzelliği ziyaret eden herkesi şaşkına çeviriyor. Adrenalin arayanlar ıssız bir plajda rahatlamadan önce çevre dostu çok sayıda extreme aktivitenin keyfini çıkarırken, bu ülkeyi doğa severlerin cenneti yapan tatlı yağmur ormanlarındaki yaban hayatıyla Kosta Rika herkese bir şeyler sunuyor.<br><br><strong>Lütfen dikkat: </strong>Bu örnek bir güzergahtır ve kendi kişisel ihtiyaçlarınıza ve bütçenize göre değişiklik yapılabilmektedir.",
+  "durationDays": "14",
+  "price": "2179",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Geziler ve aktiviteler: </strong> </p>\n<ul>\n<li>- Bot gezisi</li>\n<li>- Nehir safarisi</li>\n<li>- Kaplıcalar</li>\n<li>- Rehberli yürüyüş</li>\n<li>- Zipline</li>\n<li>- Çikolata turu</li>\n<li>- Monteverde Bulut Ormanı</li>\n<li>- Tortuguero Milli Parkı</li>\n</ul>\n<p><strong>Konaklama:</strong> Otellerde 13 gece</p>\n<p><strong>Yemekler:</strong> 13 kahvaltı, 2 öğle yemeği, 3 akşam yemeği</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "San Jose’ye Varış",
+      "description": "Kosta Rika’nın başkenti San Jose kahve ve şeker kamışı çiftlikleri arasında verimli bir vadide yer almaktadır. Fakat 1897’de inşa edilen Ulusal Tiyatro kesinlikle görülmeye değer. Altın Müzesi, Jade Müzesi ve Ulusal Müzeler de yine ziyaret etmek için kesinlikle önerilir."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Tortuguero",
+      "description": "Bugün, Kosta Rika'nın en popüler ekoturizm destinasyonlarından biri olan Tortuguero Ulusal Parkı’na gideceksiniz. Hareketli küçük köyün güçlü Afro-Karayip kökleri de vardır ve en iyi yumurtalarını koymak için buraya gelen deniz kaplumbağalarını bölgeye çekmesiyle bilinir. Ancak, Tortuguero sadece bir kaplumbağa yuvasından çok daha fazlasıdır. Arabalar veya sokaklar yok ve doğa tam anlamıyla şehre doğru patlıyor. Köyün bir tarafında nehirler ve suyolları ormana doğru kürek çekmenize ve doğal dünyayı huzur içinde yaşamanıza izin verir. Orman evine vardığınızda, check-in yapacak ve dinlenecek, yaban hayatının seslerini dinleyecek ya da şehirdeki dinlendirici atmosferin içine çekileceksiniz."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Tortuguero Milli Parkı",
+      "description": "Bu sabah Milli Park'taki inanılmaz vahşi yaşam çeşitliliğini keşfetmek için rehberinizle yola çıkacaksınız. Küçük bir teknede parktaki bağlantı kanalları ve lagünler ağı boyunca, maymunlar, tembeller, timsahlar, kaplumbağalar, antiloplar ve 350 kuş türü ve sayısız kelebekle karşılaşacaksınız. Park ayrıca manate, tapir ve jaguar gibi nesli tükenmekte olan hayvanlara ev sahipliği yapar. Görebileceğiniz renkli kuş türlerinden bazıları, kızıl ve kaplan balıkçıllar, gagalı tukanlar, papağanlar ve yalıçapkınıdır. Milli Park turu sırasında, orman kanopisinin muhteşem manzaralarına tanık olacaksınız ve vahşi yaşama dair genellikle orman yürüyüşlerine çıktığınızdan çok daha fazlasını keşfedebilirsiniz. Günün geri kalanını istediğiniz şekilde geçirebilirsiniz."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Sarapiqui",
+      "description": "Bugün yemyeşil ormanlar ve muz tarlaları ile çevrili Sarapiqui için yola çıkacaksınız. Bir zamanlar küçük bir liman olan yer şimdi macera sporları ve doğa gezileri için önemli bir destinasyondur. Yolda Guápiles'de öğle yemeğinin tadını çıkaracak ve ardından kakao ağacının doğal ve kültürel tarihini ortaya çıkarmak için bir çikolata turuna katılacaksınız. Rehberiniz, kakao meyvesinden nasıl çikolata yapıldığının sırlarını ortaya çıkaracaktır - tohumların hasat edilmesini, fermentasyonu, kurutulmasını ve öğütülmesini içeren bir süreçtir. Çikolata üretim sürecini ilk elden göreceksiniz ve en iyi kısmı olarak da organik yağmur ormanı çikolatasının tadına bakacaksınız. Sarapiquí'ye varışta, orman evini kontrol edecek ve günün geri kalanını istediğiniz şekilde geçirebilirsiniz."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Tortuguero Milli Parkı",
+      "description": "Bugün, Kosta Rika ve Nikaragua arasındaki sınırda, yağmur ormanı boyunca 53 mil boyunca uzanan doğal Sarapiquí nehrinde şişme bir sal içinde sakin bir nehir safarisinin keyfine varacaksınız. Doğacı rehberiniz size bu bölgenin inanılmaz biyo çeşitliliğini anlatırken, egzotik kuşlar, tembeller, iguanalar, orman yılanları, balık ve daha fazlası gibi fauna ve fauna çeşitlerini göreceksiniz. Hatta “Jesus Lizard”ı bile görebileceksiniz. Böyle adlandırılıyor çünkü su üzerinde yürüyebiliyor! Nehir safarisini takiben, günün geri kalanında güzel çevrenin tadını çıkarmak için serbestsiniz."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Arenal Volkanı",
+      "description": "Bugün Arenal'deki La Fortuna'ya özel araçla transfer edileceksiniz. Bir zamanlar uykulu bir kasabayken, Arenal Volkanı neredeyse 400 yıl süren uykudan sonra şiddetli bir şekilde patladı ve kasaba ateşli gece manzarası ve lav meraklısı insanların uğrak noktası oldu. Bölgenin muhteşem manzarası, doğal Arenal Gölü, yakınlardaki çok sayıda kaplıca ve macera aktivitesi La Fortuna'yı Kosta Rika'nın en popüler bölgelerinden biri haline getirmiştir."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Monteverde",
+      "description": "Bu sabah Arenal Gölü'nü geçerek Monteverde'nin yemyeşil dağ cennetinden karaya devam edeceksiniz. İki ana bulut ormanı rezervi arasında yer alan, şehrin yüksek irtifası, deniz seviyesinin 1440 metre üstünde, sürekli bir bulut yumağı altındadır. Bu bulutların nemi en uzun ağaçların dallarında yakalanır ve aşağıdaki diğer organizmalara damlayarak karmaşık ve geniş kapsamlı bir ekosistemi destekler. Burada 100'den fazla memeli türü, binlerce böcek türü ve 2500'ün üzerinde bitki çeşidi yaşamaktadır. Otelinize giriş yaptıktan sonra günün geri kalanını istediğiniz gibi değerlendirebilirsiniz."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Monteverde Bulut Ormanı",
+      "description": "Bu sabah rehberli geziyle Monteverde Bulut Ormanı Koruma Alanı'nın tadını çıkaracaksınız. 13 kilometrelik yollar arasından seçebileceğiniz bir dizi alternatif var. Kıta ayrımına öteki açılardan tanık olmak için “La Ventana” doğal manzarasına çıkın. Buradan bulut ormanının bulutlarını oluşturan nem yüklü ticaret rüzgârlarını keşfedeceksiniz. Muhteşem küesal ve üç gerdanlı çan kuşu gibi 500'den fazla kuş türünün yaşadığı devasa ağaçların tepesine bakın. 3000'den fazla bitki türünden 500 tanesi orkide, 120'si sürüngen ve amfibian ve 130'u memelidir. Çok şey göreceksiniz ve bu küçük ülkenin neden böylesine büyük bir biyo çeşitliliğe sahip olduğunu takdir edeceksiniz. Günün geri kalanını istediğiniz gibi değerlendirebilirsiniz."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Rincón de la Vieja",
+      "description": "Bugün, Guanacaste eyaletinde bulunan Liberya kasabasında seyahat ederek Rincón de la Vieja'ya doğru yola çıkacaksınız. Rincón de la Vieja, Kosta Rika'nın deniz seviyesinden 1916 metre yükseklikte bulunan altı aktif volkanından birisidir. Volkanların yamaçlarında çok sayıda tüten ve kaplıca var ki bu da onu önemli jeotermal enerji kaynağı olarak çok eşsiz bir yer haline getiriyor. Otelinize giriş yaptıktan sonra günün geri kalanını istediğiniz gibi değerlendirebilirsiniz."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Rincón de la Vieja Milli Parkı",
+      "description": "Doyurucu bir kahvaltı, Rincon de la Vieja Milli Parkı boyunca yapılacak yürüyüş için iyi bir hazırlık olacaktır. Nemli ormanlardan, dağ nehirlerinden geçerken muhteşem manzaralara tanık olacaksınız. Yürüyüş, sizi serinletici bir yüzme için cezbeden muhteşem turkuaz mavisi bir şelaleyle beslenen Mavi Göl'de sona erecek. Gününüze parıldayan çamur havuzlarını, kaynayan sıcak su çukurlarını, buharlı gayzerleri ve tütenleri seyrederek son verin."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Manuel Antonio",
+      "description": "Bugün güzel Orta Pasifik'e doğru yola çıkıp el değmemiş Manuel Antonio'ya transfer için uzun bir seyahat gerçekleştireceksiniz. Milli Park'ın yukarısında yer alan Manuel Antonio kasabası, körfezin muhteşem manzaralarına ve muhteşem plajlara erişim imkânı sunmaktadır. Otelinize giriş yaptıktan sonra günün geri kalanını istediğiniz gibi değerlendirebilirsiniz."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Manuel Antonio",
+      "description": "Bugün güzel Orta Pasifik'e doğru yola çıkıp el değmemiş Manuel Antonio'ya transfer için uzun bir seyahat gerçekleştireceksiniz. Milli Park'ın yukarısında yer alan Manuel Antonio kasabası, körfezin muhteşem manzaralarına ve muhteşem plajlara erişim imkânı sunmaktadır. Otelinize giriş yaptıktan sonra günün geri kalanını istediğiniz gibi değerlendirebilirsiniz."
+    },
+    {
+      "dayNumber": 13,
+      "title": "San Jose",
+      "description": "Bugün Manuel Antonio plajlar cennetine veda edeceksiniz ve San Jose'ye geri transfer edileceksiniz. Otelinize giriş yaptıktan sonra, günün geri kalanında Kosta Rika'da tadını çıkarmak için yeterince serbest zamanınız olacak."
+    },
+    {
+      "dayNumber": 14,
+      "title": "San Jose’ den Ayrılış",
+      "description": ""
+    }
+  ],
+  "map": ""
+}

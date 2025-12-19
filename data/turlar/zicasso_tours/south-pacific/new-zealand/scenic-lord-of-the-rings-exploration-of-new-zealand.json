@@ -1,0 +1,115 @@
+{
+  "destination": "New Zealand",
+  "mainPhoto": "",
+  "id": "scenic-lord-of-the-rings-exploration-of-new-zealand",
+  "tourName": "Scenic Lord of the Rings Exploration of New Zealand",
+  "placesVisited": "Auckland, Wellington, Queenstown",
+  "generalInfo": "After the popularity of the Lord of the Rings films, New Zealand has become a land of myth and legend. This 18-day tour of both the North and South Islands will allow you to follow in the footsteps of the characters and immerse yourself in the settings of the films' most memorable scenes. By the end of the tour, you will have an entirely new appreciation for this unparalleled landscape and the films that helped popularize it.",
+  "durationDays": "18",
+  "price": "8,100",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Auckland â The Trail of the Fellowship",
+      "description": "Perched between land and sea, Auckland is an excellent ambassador of the abundance of natural beauty, beaches, and woodlands that you can find throughout New Zealand. With over 800 national parks, you will have plenty of options to explore this magnificent country. Upon your arrival, a transfer will be waiting at Auckland's main international airport, ready to convey you to the city center and your conveniently located accommodation. The city will be yours to enjoy the many shops, cafes, and award-winning restaurants awaiting you."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Auckland â Savoring Your First Full Day",
+      "description": "You will celebrate your first full day on this inspiring tour with a voyage across Shoal Bay to the stunning environment of Waiheke Island for a gourmet food and wine tour. A scenic ferry ride will carry you across the gulf to your destination, and you will have plenty of time to appreciate the stunning views of the city before docking at the main wharf. The remainder of the day will be a delicious blur of boutique vineyards and specialty food tastings in a picturesque setting."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Lake Rotorua â Exploring a Scale Film Set",
+      "description": "After enjoying breakfast from the hospitable hotel staff in Auckland, you will hit the road for a journey straight out of Middle Earth. Your first stop will be the Hobbiton movie set, where the filmmakers behind Lord of the Rings constructed a Shire village for filming. You will definitely want to give yourself plenty of time to explore this lush environment before continuing on your journey to the placid banks of Lake Rotorua and your comfortable accommodation."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Lake Rotorua â The Lake's Volcanic Origins",
+      "description": "New Zealand is a volcanic environment and is perched on the edge of the notorious Ring of Fire, an area of geothermal and volcanic activity that surrounds the Pacific Ocean. This unique position ensures an abundance of volcanic activity in the region, and Lake Rotorua is an excellent launchpad for adventures in this setting. Today, you will be able to witness these volcanos on a helicopter and 4WD tour of the surrounding area that will be accompanied by a passionate local guide. By the time you return to your plush hotel, the fiery origins of this region will be revealed."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Waitomo â A Subterranean Excursion",
+      "description": "Your adventure will take a turn today for the rural as you depart Lake Rotorua and make your way to the serene shores of the Waikato River and your agriculturally inspired accommodation. During your journey, you will venture underground, but rather than dwarves mining in the deep, you will find glowworms and jagged rock formations. Specifically, you will explore the caverns of Footwhistle Glowworm Cave. Upon entering the cave, you can light your candle and enjoy a cozy exploration of these enthralling chambers before making your way to the day's final destination."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Tongariro â A Bird's-Eye View of Mt. Doom",
+      "description": "Today, you will descend deeper into the heart of this Lord of the Rings tour with visits to some of the locations where a variety of the most dramatic scenes were shot. After departing your scenic accommodation, you can make your way to the impressive Mangaotaki Rocks Piopio, where limestone cliffs and massive rock formations formed the backdrop of the famous troll and campfire scenes. After reaching your destination at the foot of Mt. Tongariro, you will be able to enjoy a scenic flight over New Zealand's oldest national park before turning in for the night."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Wellington â The Country's Southernmost Capital",
+      "description": "Waking up in the heart of the Tongariro National Park will afford you excellent panoramic views of the surrounding ridges, bluffs, and craters that make up this volcanic range. After enjoying a delectable breakfast of local specialties, you will make your way to the bayside setting of New Zealand's capital city. Overlooking the Cook Strait and separating the North and South Islands, Wellington offers visitors a relaxing vibe and provides an outstanding perspective on what is best about New Zealand. After you have had a chance to settle in to your comfortable accommodation, you will have the remainder of the day to explore on your own."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Wellington â A Lord of the Rings Tour",
+      "description": "With the sunlight glinting off Fitzroy Bay, the vibrant neighborhoods of Wellington will take on a new hue with the morning light saturating the already colorful city. After you have had a chance to enjoy a fortifying breakfast, the dramatic saga of the Lord of the Rings will once again come to life during a tour of the Weta Workshop and the locations for the shoots of Rivendell, the River Anduin, and the Gardens of Isengard. By the day's end, you will have a whole new appreciation for the effort and talent that was required to produce such a stunning film."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Picton â In the Wake of the Hobbit",
+      "description": "So far, your delightful travels have been limited to the volcanic regions of the North Island, but you will be able to cross the Cook Strait and set your eyes on the picturesque landscape of the South Island, which is complete with monolithic glaciers, towering mountain ranges, and excellent outdoor recreational activities. Your final destination for the day will be the charming community of Picton. Before concluding your day here, you will enjoy a kayaking excursion on the same river that Peter Jackson filmed the barrel scene for the Hobbit: the Pelorus River."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Christchurch â Surveying the Sea",
+      "description": "With a soreness in your arms to remind you of the spectacular voyage down the Pelorus River, you will depart Picton and make your way to the famous Kaikoura Coast. It is here that the azure waves of the South Pacific meet the stubborn limestone cliffs and rocky outcroppings of the mainland. Along the way, you can enjoy one of the more scenic drives in the country before reaching your destination of Christchurch."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Christchurch â Visiting the Heart of Edoras",
+      "description": "With the unforgettable tunes of Howard Shore providing the soundtrack, you will make your way into the Mt. Potts high country to visit the site where producers filmed the Riders of Rohan and their fictional capital of Edoras. This day trip from Christchurch will provide you with an excellent example of why Peter Jackson chose New Zealand as the set of his saga. The unspoiled mountain beauty of these highlands will keep you looking over your shoulder for roaming bands of marauding orcs."
+    },
+    {
+      "dayNumber": "12",
+      "title": "Mount Cook â Chasing Glaciers",
+      "description": "Like Gollum hiding with the ring, you will plunge deeper into the mountains of New Zealand as you depart the warm hospitality and scenic coastline of Pegasus Bay and make your way to Mt. Cook National Park. As the highest point in New Zealand, Mt. Cook enjoys commanding views of the surrounding landscape, and the area is an excellent platform to launch into hiking, cycling, and other outdoor activities. Here, you will be well off the beaten path, and there will be little to distract you from the natural beauty that will surround you."
+    },
+    {
+      "dayNumber": "13",
+      "title": "Queenstown â Plunging Into Adventure",
+      "description": "With the northern shore of New Zealand being the most mountainous, it comes as no surprise that your destination should be named the New Zealand capital for adventure. After enjoying a hearty breakfast, you will depart the stunning views and bracing mountain air of Mt. Cook National Park and make your way to Queenstown, which lies in the Otago district of New Zealand. Upon your arrival, you can enjoy the panoramic views, robust cafe culture, and charming locals at your own pace."
+    },
+    {
+      "dayNumber": "14",
+      "title": "Queenstown â Flying Over Middle Earth",
+      "description": "It will take you little time to realize that as far as adventure capitals go, Queenstown does not disappoint. After enjoying breakfast from your hotel, you will be able to take to the skies on an unforgettable helicopter trip through the highlands that inspired scenes from Lord of the Rings, such as the Misty Mountains and Isengard. The helicopter pilots have an intimate knowledge of the land and will happily describe major features while you enjoy a bird's-eye view of Middle Earth."
+    },
+    {
+      "dayNumber": "15",
+      "title": "Queenstown â The Rhythm of the Dart River",
+      "description": "With all the excitement of the journey, you will be able to enjoy a leisurely morning of basking in the brilliant and inspiring setting of Queenstown. After a fortifying breakfast, the secrets of the nearby Dart River will be revealed to you on a jet boat ride along its scenic banks. Here, you will hear about the native flora and fauna and how the native Maori people used the river as a trading highway. By the time you return to the comfort of your hotel, the importance of this river in regard to the regional history of Otago will be as clear as the river's water."
+    },
+    {
+      "dayNumber": "16",
+      "title": "Franz Josef Township â The Shadow of Ancient Glaciers",
+      "description": "From the lakeside beauty of Queenstown, you will depart and make your way to higher elevation in Mt. Aspiring National Park. After departing the town, you will enjoy a visit to the alpine community of Wanaka and Makarora. Here, you can set off in search of a glacier-fed swimming hole before continuing to the rustic environment of Franz Josef township at the foot of the famous alpine glacier. In the afternoon, you will be able to enjoy a scenic flight over these glaciers and the adjacent mountains during a helicopter ride before retiring for the evening."
+    },
+    {
+      "dayNumber": "17",
+      "title": "Christchurch â Through New Zealand's Alps",
+      "description": "Today, the slow road will be yours to enjoy as you return to Christchurch by one of the country's most scenic alpine trains. After a delicious breakfast, you will make your way to the charming community of Greymouth to board a transnational train. Known as the TranzAlpine Scenic train, your route will convey you through Arthur's Pass National Park before descending to the sweeping vistas of the Canterbury plains and your final destination of Christchurch. You can celebrate your final evening at any one of the award-winning restaurants in the city."
+    },
+    {
+      "dayNumber": "18",
+      "title": "Christchurch â Saying Goodbye to Middle Earth",
+      "description": "From the sunny shores of Auckland to the mountainous highlands of the South Island, this tour of New Zeland has left little to the imagination as you enjoyed thorough introductions to all the regions you visited in addition to their connections to the Lord of the Rings and the Hobbit movies. Through the lens of this imaginative tale, you will have seen a side of the country that is enjoyed by few. As you depart your plush accommodation and make your way to the airport for your departing flight, you will be astounded by the beauty of this scenic land."
+    }
+  ],
+  "map": ""
+}

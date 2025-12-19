@@ -1,0 +1,75 @@
+{
+  "destination": "Macaristan",
+  "mainPhoto": "",
+  "id": "EEPD",
+  "tourName": "Budapeşte' den Dubrovnik'e",
+  "placesVisited": "Macaristan, Sırbistan, Kosova, Makedonya, Arnavutluk, Karadağ, Hırvatistan",
+  "generalInfo": "İki hafta içinde, Macaristan'dan Hırvatistan'a birçok ülkeyi gezin. Budapeşte'nin kültürel şehrinden başlayan gezimize, kale turları ve sakin tekne gezilerini de dahil ediyoruz. Sırbistan'daki tuhaf manzaralarıyla Şeytan Kasabası'nı gezin ve Arnavutluk'taki Kruja (Akçahisar)’nın duvarlarında yürüyüş yapın. Büyüleyici Dubrovnik şehrine gidip turu bitirmeden önce Karadağ'daki sahil manzarasının tadını çıkarın.<br><br><strong>En Yakın Uluslararası Havaalanı (Başlangıç Noktası):</strong> Budapeşte Ferenc Liszt Uluslararası Havaalanı (BUD)<br><br><strong>En Yakın Uluslararası Havaalanı (Bitiş Noktası):</strong> Dubrovnik Havaalanı (DBV)",
+  "durationDays": "15",
+  "price": "1389",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Geziler &amp; Aktiviteler</strong></p>\n<ul>\n<li>- Petrovaradin Kalesi rehberli tünel turu</li>\n<li>- Şeytanın Kasabasına ziyaret</li>\n<li>- Matka Kanyonu bot gezisi</li>\n<li>- Ohri Gölü’nde serbest zaman</li>\n<li>- Kruja (Akçahisar) Gezisi (Şehir Surlarına Giriş ve Skanderbeg Müzesi)</li>\n<li>- Kotor Old Town Rehberli Tur</li>\n<li>- Trebinje’de  Şarap Turu ve Tadımı</li>\n<li>- Dubrovnik Surları ve ulaşım kartı dahil 24 saat geçerli şehir kartı</li>\n</ul>\n<p><strong>Konaklama</strong></p>\n<ul>\n<li>- Otellerde 12 gece, 2 gece apartman dairesi</li>\n</ul>\n<p><strong>Ulaşım</strong></p>\n<ul>\n<li>- Toplu taşıma otobüsleri, özel araç, taksi, yürüyüş</li>\n</ul>\n<p><strong>Yemekler</strong></p>\n<ul>\n<li>- 7 kahvaltı büfesi, 7 kahvaltı</li>\n</ul>\n<p><strong>Diğer</strong></p>\n<ul>\n<li>- Siempre Tour tur lideri</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Budapeşte’ye Varış",
+      "description": "Macaristan’ın şık başkenti Budapeşte, bol miktardaki kaplıcaları nedeniyle ‘Kaplıcalar Şehri’ olarak da bilinir. Tuna nehrinin böldüğü şehir çok farklı iki kentten, batıda Buda doğuda Pest’ten oluşuyor. Şehrin önemli yerleri; Kale Tepesi, Matthias Kilisesi, Balıkçı Tabyası, Kurtuluş Anıtı, muhteşem Aziz Stephen Bazilikası ve en çok fotoğrafı çekilen Parlamento Binası."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Novi Sad",
+      "description": "Sırbistan’ın kültür merkezi olan Novi Sad, Petrovaradin Kalesi’nin muhteşemliğinin gölgesinde kalıyor. 18. yüzyılda inşa edilen kale defalarca saldırıya uğradı ama asla bir düşman tarafından ele geçirilemedi. Stratejik askeri değerini uzun zaman önce yitirin kale, 1951'den beri önemli bir kültür merkezi ve 88'in üzerinde sanat stüdyosuyla dünyanın en büyük sanat kolonilerinden biridir. Sanat eserleri bir yandan tasarlanırken, diğer yandan ziyaretçiler sanat eserlerini satın alabilir, sanatçılar ile konuşabilir ve stüdyoların atmosferini hissedebilirler. Ek olarak üç ilginç restoran, müze ve yeraltı mezarları var, Tuna'nın muhteşem manzarası da cabası. Novi Sad, yeraltı askeri galerileri ve yer üstünde, çeşitli müzik türleri, komik enstrümanlar, hokkabazlar, sokak gösterileri ve akrobasi oyunlarıyla Eylül ayında yapılan Uluslararası Sokak Müzisyenleri Festivali gibi uluslararası müzik festivalleri ile de oldukça popüler."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Belgrade",
+      "description": "Keşfetmek için bol vaktinizin olacağı Sırbistan’ın başkenti Belgrad, Sava ve Tuna nehirlerinin kesiştiği noktadadır. Belgrad uzun tarihi boyunca, 60 kez ele geçirildi, yaklaşık 40 kez yakıldı ve her seferinde küllerinden bir anka kuşu gibi yükseldi."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Priştine",
+      "description": "Bugün Kosova Priştine'ye gidiyoruz ama önce Sırbistan'daki Şeytan Kasabasını ziyaret ediyoruz. Gerçek adı Davolja Varos olan bu doğal oluşum, toprak piramitlerinin garip şekillerine olan benzerliğinden ötürü böyle adlandırılıyor. Erozyonlarla şekillenen bu nadir görülen taş kaplı sütunlar arasında dolaşın."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Üsküp",
+      "description": "Üsküp'e gitmeden önce, Matka Kanyonu’nu ziyaretimizin tadını çıkarın. Suyun kenarında yükselen büyük kaya duvarlarına hayran kalarak nehrin üzerinden ilerleyin. Kanyonda bulunan büyüleyici mağaralara dikkat edin. Makedonya'nın başkenti Üsküp, şehrin merkezi boyunca Vardar Nehri tarafından düzgün bir şekilde bölünmüş. Doğu ve Batı kültürlerini kapsayan 2000 yıllık bir tarihin tadını çıkarın. Üsküp'te, 6. yüzyıla dayanan Üsküp Kalesi ve şimdi şehir sanat galerisine dönüştürülmüş olan 15. yüzyıldan kalma Daud Pasha Hamamı da dahil olmak üzere birçok tarihi eseri bulunmakta. Ayrıca Mustafa Paşa Camii, 16. Yüzyıl Saat Kulesi ve Vardar Nehri üzerindeki Kamen Taş Köprü’sünü görün."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Ohri Gölü",
+      "description": "Bugün Makedonya ve Arnavutluk sınırında yer alan göl kenarı kenti Ohri’ye gidiyoruz. Bu mütevazi, resmedilmeye değer yerleşim, binlerce yıllık insanlık tarihinin ve eski kiliselerin, kale duvarlarının, çarşılarının ve eski mahallelerinin geçmişine tanıklık eder."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Tiran",
+      "description": "Bugün, 1990'lı yıllara kadar rejim tarafından izole edilen gri, kasvetli eski komünist bir kentten, hayat dolu rengarenk popüler bir başkente dönüşen Arnavutluk’un en büyük şehri Tiran'a doğru yola çıkıyoruz. Şehrin uzun bir geçmişi olsa da, son moda barlarıyla modern görünümünün tadını çıkarın ve Osmanlı yadigarı düzgün yollar, kulüpler ve butikler, İtalyan ve komünist geçmişin kalıntıları arasında dolaşın. Tiran'ın en büyük meydanı olan Skanderbeg Meydanı, Ulusal Tarih Müzesi, Kültür Sarayı, Ulusal Banka, Edhem Bey Camii ve İskender Bey'in heykeli ile çevrili. Şehir merkezinden kısa bir otobüs yolculuğu mesafesinde bulunan Şehir Mezarlığı, şehrin muhteşem panoramik manzarasını sunmakta."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Kotor",
+      "description": "Kotor’a giderken yolda Kruja isimli küçük bir kasabada duruyoruz. Dağın yamacında kurulu eski kenti ve turumuza eklediğimiz Skanderbeg (İskender Bey) Müzesi’nin de içinde olduğu Kruja Kalesi’ni keşfedin. Osmanlıları yenmek için yardım eden İskender Bey Arnavutluk’un bir savaş kahramanıdır ve müze onun cesaretini ve ülke için önemini vurgulamaya odaklıdır."
+    },
+    {
+      "dayNumber": 14,
+      "title": "Dubrovnik",
+      "description": "13. yüzyıla ait kale benzeri taş duvarlarla çevrili karakteristik taş döşeli bir şehir merkezine sahip olan kent, yürüyerek keşfedilmesi kolay. Dubrovnik'i keşfetmeniz için şehir surları etrafında yürümek harika bir başlangıç."
+    },
+    {
+      "dayNumber": 15,
+      "title": "Depart Dubrovnik",
+      "description": "Hayatınızın macerası bugün sona eriyor. Geç vakitte bir uçuşunuz varsa veya tur sonrası konaklama ekleyerek konaklamanızı uzattıysanız görülesi yerleri keşfetmek için daha fazla zamanınız olacak."
+    }
+  ],
+  "map": ""
+}

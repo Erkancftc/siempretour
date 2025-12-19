@@ -1,0 +1,135 @@
+{
+  "destination": "UK",
+  "mainPhoto": "",
+  "id": "the-grand-tour-of-great-britain",
+  "tourName": "The Grand Tour of Great Britain",
+  "placesVisited": "London, Edinburgh, Llandudno",
+  "generalInfo": "If the United Kingdom was a book, those who visit London only read a page, and this 22-day tour of England, Scotland, and Wales is designed to give you an up-close and personal look at each land you visit. This vacation ensures that you will enjoy the entire story of this magnificent country. At each destination, a blend of leisure and active exploration will provide you with a balanced and well-rounded experience.",
+  "durationDays": "22",
+  "price": "13,300",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "London â Finding Your Pace",
+      "description": "A city of ruddy cheeks and hearty breakfasts, London has a strong attachment to the hearts and minds of all who travel here. Perched along the tidal banks of the River Thames, this city will present you with a seemingly endless parade of historical sites, rustic pubs, trendy commercial districts, and much more. Upon your arrival at Heathrow Airport, a transfer will ensure your speedy arrival to the heart of this British capital and your conveniently located hotel."
+    },
+    {
+      "dayNumber": "2",
+      "title": "London â Discovering the City Center",
+      "description": "No visit to London is complete without immersing yourself in the vibrant street life of this European capital. From the ubiquitous black cabs, rush hour foot traffic, and famous metro system, the routine life of London will be your backdrop for a walking tour that will present you with sights that are anything but ordinary. From Big Ben to St. Paul's Cathedral, a local guide will lead you through a city of iconic architecture, palaces, and neighborhoods so that you can enjoy an up-close and personal look at London."
+    },
+    {
+      "dayNumber": "3",
+      "title": "London â Cruising Through the Ages",
+      "description": "The Thames is England's largest river and has been used as a commercial, diplomatic, and military highway. After a leisurely morning at your comfortable hotel, you will learn all about this history and the significance of this scenic waterway during a riverboat cruise through the heart of the city. From the towering attraction called the Eye of London to the breathtaking Westminster Abbey, London will come to life on this voyage through the ages."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Yorkshire Dales National Park â Departing the British Capital",
+      "description": "Like golden spears from some celestial army, dawn in London often finds the sun's light piercing the city's famous fog and is an excellent time to acquaint yourself with the mysterious side of the British capital. You can listen as the lonesome call of a ship's horn mournfully pierces the foggy shroud. You can also plunge down the narrow alleys and cobbled lanes of the town where characters swirl around you, seemingly having stepped straight from a Dickens novel. Today, you will turn your back on this legendary city and make your way to Yorkshire Dales National Park and your comfortable accommodation."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Yorkshire Dales National Park â Launchpad for Adventure",
+      "description": "Not to be outdone by London, the rural beauty of Yorkshire Dales National Park presents visitors with a different but equally rewarding side of England and will be an excellent launchpad for your adventures into the English countryside. A land of lush meadows crossed by stone walls and lush woodlands will be your new surroundings. After you enjoy a leisurely morning at your hotel, you can plunge into this vibrant landscape and enjoy a guided visit to one of Britain's oldest family breweries."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Edinburgh â The Scottish Capital",
+      "description": "After the natural beauty and lush landscape of Yorkshire Dales, you will return to one of the UK's most iconic urban centers and the capital of Scottish heritage. Edinburgh overlooks the Firth of Forth Bay and presents visitors with a unique glimpse of the region. After enjoying a leisurely morning in Yorkshire, a comfortable transfer will ensure your timely arrival to this rustic community and your conveniently located hotel. Upon your arrival, you will have the remainder of the day to find your pace in this stunning setting."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Edinburgh â Along the Famous Royal Mile",
+      "description": "Long gone are the days that Edinburgh was referred to as Old Smokey due to the fumes that were concentrated here during the Industrial Revolution. Today, you can enjoy a bracing atmosphere that will easily fortify you against the occasional breezes that sweep off the North Sea. After breakfast, you will step into this charming world during a walking tour of the city, including a World Heritage site, the Holyrood Palace, Edinburgh's main castle, and the Royal Mile."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Kinbuck â The Scottish Highlands",
+      "description": "As the stoney features of the Edinburgh Castle are first set aglow by the morning light, you can enjoy one final stroll around the city that you have learned to love or hit the snooze button to enjoy those final precious moments in your hotel. Today, you will turn your back on this seductive city and make your way to the Scottish Highlands whose scenery and legends have inspired the imaginations for generations. Your transfer will depart Edinburgh and convey you to your hotel where the remainder of the day will be yours."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Kinbuck â The Origins of Scotch Whiskey",
+      "description": "Rugged peaks, hills blanketed by coarse meadows, and rushing rivers are the currency by which these highlands will sweep you off your feet. This region was once carved by massive glaciers, but those massive walls of ice have been reduced to the many springs, streams, and rivers that fall out of these highlands and feed the region's famous whiskey-making tradition. In the afternoon, you will enjoy a tour of Scotland's oldest distillery and witness the proud tradition of harnessing the pristine water to make Scotch whiskey."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Lake District National Park â The Heart of Cumbria",
+      "description": "Your excursions in the Scottish northlands will conclude when you turn back to the less wild landscape of the Lake District National Park in the English country of Cumbria. Laced with glacial lakes, the landscape also includes rustic villages, stunning woodlands, and photogenic peaks. You will venture into this scenic setting after a convenient transfer from the Scottish Highlands. Upon your arrival, you can bask in the relaxing atmosphere of your accommodation and enjoy the remainder of the afternoon at your leisure."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Lake District National Park â Unique Cycling Tour",
+      "description": "You can celebrate your arrival to the beauty and charm of the Lake District with a fortifying English breakfast before embarking on a cycling tour that will acquaint you with the best views of this corner of England. As you follow the contours of Lake Windermere and feel the wind in your hair, it will come as no surprise why so many artists and thinkers sought inspiration in these lush meadows and placid communities. After enjoying your self-guided tour, you can return to your hotel and relax for the remainder of the day."
+    },
+    {
+      "dayNumber": "12",
+      "title": "Llandudno â A Welsh Reverie",
+      "description": "Any minor stiffness in the legs that reminds you of yesterday's scenic bike ride will be a distant memory by the time you sit down to the hearty breakfast that will be waiting for you on your final morning in the Lake District. Today, your tour of British nations will continue when you turn your back on the rural beauty of England and plunge into Wales and the coastal community of Llandudno. Upon your arrival to this jewel of the Welsh countryside, you can spend the remainder of the day at your leisure."
+    },
+    {
+      "dayNumber": "13",
+      "title": "Llandudno â Scaling the Slopes of Mt. Snowdon",
+      "description": "At the northern edge of the famous Snowdonia National Park, Llandudno will be your gateway to untold adventures and the abundant natural beauty of Wales. In the morning, you can enjoy a delicious breakfast and scenic stroll along the iconic Llandudno pier before plunging into the heart of the nearby Snowdonia in search of the region's highest peak. You will have options on how you scale the slopes of Mt. Snowdon, and you can either stretch your legs on the hiking trails that lead to the summit or ascend by train. At the top, you can enjoy stunning views of the Welsh countryside."
+    },
+    {
+      "dayNumber": "14",
+      "title": "Pembrokeshire â A Guided Excursion on the Waves",
+      "description": "After enjoying a leisurely breakfast, you will continue your southern trajectory and make your way along the placid coast of Cardigan Bay to the county of Pembrokeshire. You will venture to a land of lily ponds, sandy beaches, and wooded valleys. Upon your arrival to your conveniently located accommodation, you will explore this stunning setting. To celebrate your arrival to the Welsh coastline, you can enjoy a guided cruise out to Skomer Island to see the famous puffin rookery."
+    },
+    {
+      "dayNumber": "15",
+      "title": "Pembrokeshire â Basking in Coastal Comfort",
+      "description": "As you will notice, there is no shortage of activities and excitement in Pembrokeshire. On your first full day in this colorful region, you will chart your own course through this landscape with a day at your leisure. Perhaps, you want to nestle in your comfortable accommodation with a good book or stretch your legs on the nearby hiking trails of the Preseli Hills. No matter how you spend the day, the region of Pembrokeshire will be at your disposal."
+    },
+    {
+      "dayNumber": "16",
+      "title": "Broadway â Arrival in the Cotswolds Region",
+      "description": "Your tour of the scenic coastline and raw natural beauty of Wales will conclude when you return to England. After enjoying a leisurely morning at your rustic accommodation in Pembrokeshire, a comfortable transfer will ensure your swift arrival to England's second-largest protected landscape and the Cotswolds region. Rolling hills and quaint villages are the rule here rather than the exception. Upon your arrival in this photogenic area, you will have the remainder of the day to explore the region at your own pace."
+    },
+    {
+      "dayNumber": "17",
+      "title": "Broadway â Gliding Over the Cotswold Hills",
+      "description": "Tucked among the rolling hills and abrupt escarpment of the Cotswolds hills, your accommodations will provide you with the perfect launchpad for adventure so that you can make the most of your time in the stunning landscape. Today, the West Country will be yours to survey from the lofty heights of a hot air balloon when gliding over the surrounding landscape with an expert guide. Upon returning to solid ground, you can make your way back to your accommodations or visit any number of the local villages for a taste of the rural charm."
+    },
+    {
+      "dayNumber": "18",
+      "title": "Broadway â Walking in the Footsteps of the Bard",
+      "description": "Just a few short minutes from your hotel, the birthplace of Shakespeare has long drawn visitors to this part of England and will be your gateway to learn about the Bard. After a delicious breakfast, you will meet with your expert guide for an orientation on the life and times of William Shakespeare in addition to a visit to the writer's birthplace in Statford-upon-Avon. By the end of the day, you will have an entirely new appreciation for this cornerstone of literature."
+    },
+    {
+      "dayNumber": "19",
+      "title": "Bathâ Basking in Thermal Bliss",
+      "description": "Waking up in the Cotswolds is like waking up in a Jane Austen novel. As you enjoy your final moments in the pastoral beauty and rolling hills of this tranquil setting, a hearty breakfast will provide you with the strength required to break free of the seductive hold of this breathtaking land. Today, you will make your way to the legendary town of Bath, where you will enjoy a revitalizing visit to one of the town's many spas."
+    },
+    {
+      "dayNumber": "20",
+      "title": "Bath â The Mysteries of Stonehenge",
+      "description": "No trip to Bath is complete without making the most of your proximity to one of England's most famous landmarks. A short drive from your comfortable accommodation lies one of the world's most notorious monuments: Stonehenge. Here, arranged stones and burial mounds illustrate the practices of some of the region's earliest inhabitants. After breakfast, you will meet your guide who will accompany you on this adventure and introduce you to this famous site as well as reveal some of the many secrets of this iconic site."
+    },
+    {
+      "dayNumber": "21",
+      "title": "Oxford â A Visit to the Oldest University",
+      "description": "Your journey will continue when you turn your back on the thermal charms and rustic ruins of Bath to make your way to the oldest university in England at Oxford. After enjoying a relaxing morning, a comfortable transfer will convey you to the country of Oxfordshire and your lush accommodation. In the afternoon, you will enjoy a guided excursion of the town and university campus. With stunning architecture, numerous museums, and unforgettable galleries, there is no wrong way to enjoy your tour of this scenic town."
+    },
+    {
+      "dayNumber": "22",
+      "title": "Oxford â Departure",
+      "description": "For the last three weeks, you have made your way from the placid banks of the Thames River to the kilted confines of Edinburgh and back again. On this final morning, it will not be uncommon to feel a slight reluctance of ending the parade of stunning sights, sublime beauty, and vibrant character. After a leisurely morning, a transfer will convey you to Heathrow Airport and your return flight."
+    }
+  ],
+  "map": ""
+}

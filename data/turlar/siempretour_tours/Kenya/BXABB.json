@@ -1,0 +1,70 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "BXABB",
+  "tourName": "Büyük 5' li ve Plajlar",
+  "placesVisited": "Kenya, Tanzanya",
+  "generalInfo": "İster vahşi yaşam deneyimi yaşan ister sadece altın kumsallarda güneşlenmek isteyin, bu tur size Doğu Afrika’nın doğal ve kültürel sıcak noktalarını yaşatacak. Bu 11 günlük macera size Serengeti Ulusal Parkı'ndaki vahşi yaşamın yakınında kamp yapma seçeneğiyle, bol bol hayvan gösterecek ve Masai yaşam tarzına dair bir deneyim sunacak.<br><br>Turunuzun son günleri ise , yeni tanıştığınız arkadaşlarınızla rahatlayabileceğiniz Zanzibar'ın güneşle öpüştüğü plajlarında gün batımını seyrederek  geçecek.<br><br><strong>En Yakın Uluslararası Havaalanına (geliş): </strong>Nairobi Jomo Kenyatta Uluslararası Havalimanı  (NBO)<br><br><strong>En Yakın Uluslararası Havaalanı (gidiş): </strong>Dar Es Salaam Julius Nyerere Uluslararası Havalimanı (DAR)",
+  "durationDays": "11",
+  "price": "1199",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "34",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Geziler ve Etkinlikler</strong></p>\n<ul>\n<li>- Masai Kültürel Müzesi ve Reptile Parkı</li>\n<li>- 2 gece Zanzibar Adası Kuzey Plajı</li>\n<li>- Zanzibar baharat turu ve yöresel öğle yemeği</li>\n</ul>\n<p><strong>Konaklama </strong></p>\n<p>3 gece kamp, 2 gece destekli çadır kampı , 5 gece hostel</p>\n<p><strong>Taşımacılık</strong></p>\n<p>Büyük kamyonlar , feribot</p>\n<p><strong>Yemekler</strong></p>\n<p>5 öğle yemeği, 10 kahvaltı, 6 öğle yemeği</p>\n<p><strong>Diğer</strong></p>\n<p>Siempre Tur tur lideri , Siempre Tur Şoförü</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Nairobi'ye varış",
+      "description": "Birçok gezgin Nairobi'yi Doğu Afrika'nın diğer bölgelerine giderken bir uğrama noktası olarak kullanmaktadır. Ayrıca şehirde, ailesiz  bebek fillerinin ya da nesli tükenmekte olan Rothschild zürafalarının koruma altına alındığı ve yetiştirildiği zürafa merkezi gibi birçok çekici aktiviteler vardır."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Arusha",
+      "description": "Tanzanya sınırını geçtikten sonra Arusha' ya doğru yol alıyoruz. Serengeti Ulusal Parkı ve Ngorongoro Krateri' ne gitmeye hazırız. Arusha, kahve dükkanları, bankalar ve diğer birçok modern olanaklara ve kablosuz internete sahip yoğun, hareketli bir şehirdir. Geceleri burada geçireceksiniz. Eşyalarınız kamyonda bırakacak ve Serengeti Milli Parkı ve Ngorongoro Krateri' ne yapacağınız gezi için sadece bir gecelik çanta alacaksınız."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Serengenti Milli Parkı ve Ngorongoro Krateri",
+      "description": "Önceden rezervasyon yapılabilen isteğe bağlı gezimizde Serengeti ve Ngorongoro Krateri' ni ziyaret etmeyi seçtiyseniz, 4x4  safari araçlarıyla kampa başlayacaksınız. Bu geziyi seçmemiş yolcuların, rahatlamak ya da yerel bölgeyi keşfetmek için serbest zamanları olacak ve Arusha'  da kalacaklar."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Arusha",
+      "description": "Son sabahımız, yaşam alanı içindeki kraterde geçiyor. – Siyah gergedan, fil ve aslanları görmek için iyi bir yer."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Dar es Salaam",
+      "description": "Bugün günümüzü Tanzanya'dan geçerek Hint Okyanusu' ndaki hareketli bir limana ve egzotik Zanzibar adasına ulaşmak için Dar es Salaam' a gidiyoruz."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Zanzibar",
+      "description": "Bugün gizemli, sarhoş edici Zanzibar adalarındayız. Konaklayacağımız yerden erkenden ayrılıp cennet adasına gidebilmek için feribot terminaline geçiyoruz. Stone Town' da yemyeşil, tropik ortamda yetişen bol bitkiyi ve kaynağından alabileceğimiz numune baharatları keşfedebileceğimiz baharat tarlalarına rehberli bir tur düzenliyoruz. Ayrıca, yerel halkla etkileşim kurma ve onların misafirperverliğini deneyimleme şansına sahip olacağımız küçük bir köyü ziyaret edeceğiz; Burada yerli halk tarafından pişirilen geleneksel bir öğle yemeğinin tadını çıkaracağız."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Stone Town",
+      "description": "Bugün öğleden sonra keşfedeceğiniz Stone Town' a dönüyoruz."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Dar es Salaam",
+      "description": "Zanzibar Adası'ndaki son zamanlarımız. Öğleden sonra anakaraya ulaşabilmek için feribota gidiyoruz. Kamyonumuzla yeniden buluşarak Dar es Salaam' daki konaklama birimimize dönüyoruz."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Dar es Salaam' dan Ayrılış",
+      "description": "Ömürlük serüveniniz bugün sona eriyor. Geç bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız, manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+    }
+  ],
+  "map": ""
+}

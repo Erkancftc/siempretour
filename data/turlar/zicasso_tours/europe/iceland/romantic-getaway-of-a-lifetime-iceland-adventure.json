@@ -1,0 +1,75 @@
+{
+  "destination": "Iceland",
+  "mainPhoto": "",
+  "id": "romantic-getaway-of-a-lifetime-iceland-adventure",
+  "tourName": "Romantic Getaway of a Lifetime: Iceland Adventure",
+  "placesVisited": "Reykjavik, Grindavik, Hella, Hof, Hofn, Vik, Skalholt, Grundarfjordur, Holmavik",
+  "generalInfo": "Designed for the fearless couple that wants to explore a land of raw beauty and elemental power, this luxurious, 10-day adventure will provide you with the opportunity to step outside of your comfort zone in a safe and exciting manner. Marvel at a waterfall that looks like a giant heart, stroll hand-in-hand across what appear to be diamonds, ride horseback across sandy beaches, and indulge in a whale-watching excursion.",
+  "durationDays": "10",
+  "price": "9,800",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Reykjavik - The Beauty of the Sunset",
+      "description": "When your plane lands at Keflavik Airport, your private driver will transfer you to Nautholsvik Geothermal Beach, which is located just within the bounds of Keflavik. The beach will prove to be your slice of paradise as you wander across the golden sands together. From here, your guide will lead you to the only Michelin-starred restaurant in Iceland for a mouthwatering, seafood dinner. When the sun begins to set, your guide will lead you to where the Grotta lighthouse on Faxafloi Bay sits to watch the sun dip below the horizon."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Grindavik - Champagne in Geothermal Pools",
+      "description": "Choose your own path for the day with many ways to begin your exploration of the spectacular landscape. Perhaps take a scenic flight that will lead you around the Golden Circle, or perhaps don scuba diving gear and dive deep into the Silfra Fissure for an up-close look at the shifting tectonic plates. You might want to fly over one of the most iconic waterfalls in Iceland: Gullfoss or Golden Falls or journey toward Kleifarvatn to explore the beauty of the black sand beach. Or, take a hike of Reykjadalur, which is a valley that is located just outside of Reykjavik. The choice is yours, and each moment will be planned just for you."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Hella - Indulge in a Nature Walk",
+      "description": "This morning, your guide will escort you to Raudavatn for a peaceful start to your morning. Today, your guide will drive you to the Secret Lagoon, which is one of the oldest pools in Haverholme. As you slide deeper into the heated pool, your muscles will relax, and you will feel entirely at peace. After your geothermal experience, you will venture to Stokkseyri, which is one of the most important fishing and trading villages in the country. Your night can culminate in the renowned seafood restaurant in the area, where you can enjoy your fill of fresh, Icelandic cuisine."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Hof - The Oasis of the Highlands",
+      "description": "After breakfast, your guide will drive you to Thorsmork, which is an oasis within the highlands of the country. Here, you will delight in a hike around Thorsmork that will allow you to explore Kattahryggur or Catâs Spine. Afterward, you will venture into the Stakkholtsgja Canyon, where you will discover a hidden waterfall. From here, your guide will escort you to Seljalandsfoss, which is a remarkable waterfall that will provide you with the ability to walk all the way around. As you wander further behind Seljalandsfoss and descend into a cave, you will discover Gljufrabui."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Hofn - The Heart of Iceland",
+      "description": "This morning you will journey to Svartifoss or Black Falls. The waterfall is unique and is located in Skaftafell, which is a part of the Vatnajokull National Park. From here, your guide will escort you to the snowmobile center, where you will ride across the vast plains that are known as Vatnajokull. After your ride, you will descend into the magical world of ice caves within the national park. The natural glacier cave may be a world that is unlike anything you have ever seen."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Vik - Stroll Across Diamonds",
+      "description": "This morning, you and your experienced guide will travel to Fjadrargljufur Canyon, which is one of the most majestic canyons in the country. From there, your guide will lead you to the crown jewel of Iceland: Jokulsarlon Glacier Lagoon. The large body of water is filled with icebergs that float peacefully, and if you listen carefully, you will be able to hear icebergs as they break apart. In addition to Jokulsarlon, you will discover another black sand beach that glitters like diamonds when the sun reflects off of it."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Skalholt - Saddle Up for a Ride",
+      "description": "After breakfast, you will venture to a horse farm for a trip across Icelandâs sandy beaches. The Icelandic horses may appear smaller than a typical horse, but they are much friendlier and have a special gait that allows any level of traveler to ride them. During your ride, you will jaunt across the sandy beaches while the wind rushes through your hair. After your ride, you will transfer to the black sand beach of Reynisfjara. Afterward, you will venture toward Haifoss before concluding your day at Dyrholaey Cliffs."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Grundarfjordur - In Search of Orcas",
+      "description": "In the morning, you will travel to Snaefellsnes. The area is full of charming towns, villages, snow-capped mountains, a variety of birdlife, lava fields, caves, waterfalls, and relics from the past. There are many hidden treasures in Snaefellsnes, but the one that is a must-see is Landbrotalaug Pool. Afterward, you will board a boat and venture out to sea in search of orcas. Once you are back on land, your guide will direct you to the Vatnshellir Lava Cave. After you have finished your tour, you will be returned to your luxurious accommodation, where you will have the evening to spend at your leisure."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Holmavik - The Jewel of the Westfjords",
+      "description": "This morning, your guide will escort you to Raudisandur Beach before Dynjandi Waterfall. The waterfall is known as the jewel of the Westfjords because many people come here to propose to their loved ones. Once you have gotten your fill of the falls, you will journey to Hellulaug by Flokalundur, which is the hidden gem within the Westfjords and an area that is known for its geothermal pools. As you submerge yourself in the warm depths, you will feel all of your stresses dissipate into the refreshing, Icelandic atmosphere."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Reykjavik - Departure",
+      "description": "This morning, you will have a chance to relax before heading out to a tomato and horse farm, where you will culminate your amazing adventure through Iceland. Iceland has a harsh landscape, and it is quite hard to grow many fruits and vegetables here, but at this farm, they have created a greenhouse that houses many fruits. Then, you will journey toward a whiskey distillery, where you will have the opportunity to taste Icelandâs first whiskey. Afterward, you will be transferred via private car to Keflavik Airport for your flight home."
+    }
+  ],
+  "map": ""
+}

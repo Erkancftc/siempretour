@@ -1,0 +1,65 @@
+{
+  "destination": "Vietnam",
+  "mainPhoto": "",
+  "id": "BXVD",
+  "tourName": "Keşfedilen Vietnam",
+  "placesVisited": "Vietnam",
+  "generalInfo": "Göz alabildiğince uzanan olağanüstü pirinç tarlalarından, Nha Trang’ın güneşli plajlarına kadar Vietnam keyif düşkünlerinin cennetidir. Fakat Vietnam, çarpıcı doğal güzelliğinden daha fazlasını sunabilir. Hoi An’ın eski kasabası bir çok güzel tarihi binayı ön plana çıkarırken, antik mezarları ve tapınakları ile imparatorluk şehri Hué tarafından büyülenin. Yerel halkın misafirperverliğini deneyimleyin ve sonrasında Ho Chi Minh City'nin hareketli pazarlarında pazarlık yapın.<br><br><strong>En Yakın Uluslararası Havaalanı(Başlangıç Noktası): </strong>Ho Chi Minh City Tan Son Nhat Uluslararası Havaalanı (SGN)<br><br><strong>En Yakın Uluslararası Havaalanı(Bitiş Noktası): </strong>Hanoi Noi Bai Uluslararası Havaalanı (HAN)",
+  "durationDays": "9",
+  "price": "439",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Geziler &amp; Aktiviteler</strong></p>\n<ul>\n<li>Funky Monkey(Nha Trang’da bir seyahat acentesi) tekne gezisi</li>\n<li>Çeltik tarlalarından Hoi An Sahili’ne bisiklet gezisi</li>\n<li>Hue İmparatorluk Kalesi yürüyüş turu</li>\n</ul>\n<p><strong>Konaklama</strong></p>\n<p>Otellerde 6 gece,yataklı gece otobüsünde 1 gece,yataklı gece treninde 1 gece</p>\n<p><strong>Ulaşım</strong></p>\n<p>Gece Otobüsü,Halk Otobüsü,Gece Treni</p>\n<p><strong>Yemekler</strong></p>\n<p>3 açık büfe kahvaltı,3 kahvaltı,1 açık büfe öğle yemeği</p>\n<p><strong>Diğer</strong></p>\n<p>Siempre Tour tur lideri</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Ho Chi Minh City'ye varış",
+      "description": "Ho Chi Minh Kenti, Vietnam Savaşı'nın sonuna kadar Saygon olarak biliniyordu (yaklaşık 1975). Eskiden küçük bir balıkçı köyü olan Ho Chi Minh Kenti, şimdi Vietnam'ın en önemli ekonomik merkezi ve ülkenin en büyük şehri."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Nha Trang",
+      "description": "Bugün birçok gezgin için popüler bir kıyı şehri olan ve restoranlar, barlar ve mükemmel gece hayatı ile dolup taşan güzel Nha Trang’a uçuyoruz."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Nha Trang",
+      "description": "Çevredeki kristal berraklığındaki sularda yüzebileceğiniz bir tekne turunun keyfini çıkarın - serinletici bir içecekle güvertede dinlenmeden önce şnorkelle dalmayı deneyin! Bu gece, grubunuzla barlara gidip eğlenin!"
+    },
+    {
+      "dayNumber": 4,
+      "title": "Hoi An’a yataklı gece otobüsü",
+      "description": "Deniz kenarındaki eğlenceden ve bar ve kulüplerde geçirilen geceden sonra,yataklı gece otobüsüyle kuzeye doğru bir sonraki varış noktamıza gidiyoruz."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Hoi An",
+      "description": "Hoi An'da bol miktarda bulunan pazarlarda satılan el yapımı ürünler, seramikler ve kumaşları keşfetmek için yeteri kadar boş vaktimiz var. Hoi An terziliğiyle ünlüdür; En sevdiğin kıyafetini yanına al ve aynısını burada yaptır! Ayrıca yol boyunca yemyeşil çeltik tarlalarından geçerek Hoi An Sahili’ne bir bisiklet gezisinin tadını çıkarabilirsiniz. Oraya vardığınızda, elinizde yerel bir birayla kıyı manzaralarına hayranlık duyabilirsiniz."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Hue",
+      "description": "Hoi An'dan ayrılıyoruz ve kuzeye doğru Hue'ya gidiyoruz. Araba yolculuğu, 'Top Gear:Vietnam Özel’ bölümünde öne çıkan manzaralı sahil yolu ‘‘Hai Van Geçidi’ne‘’çıkmadan önce bizi Mermer Dağı’nın ötesine (isteğe bağlı olarak mağaraları ve tapınakları keşfetmek 40,000 VND) götürüyor."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Hanoi’ye gece treni",
+      "description": "Bu akşam, hareketli Hanoi şehrine giden yataklı gece trenine biniyoruz."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Hanoi’den Ayrılış",
+      "description": "Hayatınızın macerası bugün sona eriyor. Geç vakitte bir uçuşunuz varsa veya tur sonrası konaklama ekleyerek konaklamanızı uzattıysanız görülesi yerleri keşfetmek için daha fazla zamanınız olacak."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,65 @@
+{
+  "destination": "İtalya",
+  "mainPhoto": "",
+  "id": "STG09051",
+  "tourName": "Celebrity Infinity ile Adriyatik & Akdeniz - 26 Temmuz 2020 (Kurban Bayramı)",
+  "placesVisited": "İtalya, Hırvatistan, Karadağ, Yunanistan",
+  "generalInfo": "Adriyatik Denizini ve Akdenizi Celebrity Infinity ile farklı bir açıdan keşfedin.",
+  "durationDays": "8",
+  "price": "896",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li><strong>* </strong>Türk Hava Yolları ile İstanbul – Venedik ve Roma – İstanbul arası ekonomi sınıfı uçak bileti</li>\n<li><strong>* </strong>Havalimanı ve liman vergileri</li>\n<li><strong>*</strong> Havalimanı-liman-havalimanı arasındaki tüm transferler</li>\n<li><strong>*</strong> 5 Yıldızlı Celebrity Infinity gemimizde <strong>7 gece 8 gün</strong> tam pansiyon (tüm yiyecekler dahil-Specialty Restaurant giriş ücretleri hariç ) konaklama</li>\n<li><strong>* </strong>Gemide düzenlenen animasyon ve aktiviteler</li>\n<li><strong>*</strong> Türkçe Rehberlik Hizmetleri <strong>(Grup kişi sayısı 20’yi aştığı takdirde)</strong></li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Venedik (İtalya)",
+      "description": "İstanbul Havalimanı buluşmasının ardından THY TK1867 tarifeli sefer ile Venedik’e uçuş, varışı takiben Celebrity Infinity gemimize transfer."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Venedik (İtalya)",
+      "description": "Hareket Saati : 17:00"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Split (Hırvatistan)",
+      "description": "Varış Saati : 09:00"
+    },
+    {
+      "dayNumber": 4,
+      "title": "Kotor (Karadağ)",
+      "description": "Varış Saati : 08:00"
+    },
+    {
+      "dayNumber": 5,
+      "title": "Korfu (Yunanistan)",
+      "description": "Varış Saati : 09:00"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 7,
+      "title": "Napoli ( Capri ), İtalya",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 8,
+      "title": "Roma ( Civitavecchia ), İtalya",
+      "description": "Varış Saati : 05:15"
+    }
+  ],
+  "map": ""
+}

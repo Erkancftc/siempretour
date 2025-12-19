@@ -1,0 +1,75 @@
+{
+  "destination": "Chile",
+  "mainPhoto": "",
+  "id": "10-day-best-of-chile-tour-patagonia-atacama-santiago-and-more",
+  "tourName": "10-Day Best of Chile Tour: Patagonia, Atacama, Santiago, and More",
+  "placesVisited": "San Pedro de Atacama, Santiago (City), Maipo Valley, Torres del Paine",
+  "generalInfo": "On this 10-day tour of Chile, experience the best that this dynamic country has to offer. From sandboarding in the vast Atacama Desert to savoring the flavors of world-class wine in the Maipo Valley, Chile is a country with endless treasures to discover. Visit Torres del Paine National Park, spend the evening glamping in luxury under the stars, and indulge in a customized tour of some of Maipo Valleyâs top wineries.",
+  "durationDays": "10",
+  "price": "3,700",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "San Pedro de Atacama â Stargazing Tour",
+      "description": "You will arrive at the airport in San Pedro de Atacama, and your private driver will greet and transfer you to your ecolodge and spa accommodation. Once you have had time to settle in, your guide will lead you through the charming town of San Pedro de Atacama and offer details into the history and culture of this unique town. Your guide can also provide you with an excellent dining recommendation so that you can enjoy your first Chilean meal. Once the sun has fully set, you will embark on a stargazing tour in the heart of the desert."
+    },
+    {
+      "dayNumber": "2",
+      "title": "San Pedro de Atacama â Sandboarding in the Desert",
+      "description": "This morning, you will start with a transfer to the Atacamaâs sand dunes. Here, you will have the opportunity to partake in Chileâs newly popularized sandboarding. From your sandboarding excursion, you can then indulge in a bike ride through some of the Atacamaâs most notable sites. As you bike through the landscape, you will be guided to a shaded clearing and lunch that has been laid out just for you. After your bike tour, you will have some time to spend at your leisure before touring Atacamaâs Moon Valley."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Santiago â Discover the City",
+      "description": "This morning, you will transfer to Santiago. Upon your arrival in the nationâs capital city, your driver will greet and transfer you to your luxurious accommodation in one of the cityâs most charming neighborhoods. When you are ready, your guide will lead you on a tour of Santiagoâs top sites and neighborhoods, beginning with the trendy neighborhood of Bellavista. Your tour will also lead you to La Chascona, which is the previous home of Pablo Neruda. Here, you can take a private tour of the home-turned-museum and discover the fascinating details of Pablo Nerudaâs life and work."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Santiago â Cerro San Cristobal",
+      "description": "This morning, you will begin the day with a funicular ride to the top of Cerro San Cristobal. At the peak of the hill, you can visit the iconic statue of the Virgin Mary that towers over the city. At the park, you will have a few hours to spend at your leisure before descending to the Chilean Museum of Pre-Columbian Art. You will be guided on a private tour of the museum. Afterward, you will have the rest of the evening to spend at your leisure."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Santiago â Valparaiso and ViÃ±a del Mar",
+      "description": "This morning, your guide will lead you on a full-day excursion to the city of Valparaiso and the beach town of ViÃ±a del Mar. Upon arriving in this UNESCO World Heritage Site of Valparaiso, your guide will lead you on a tour of Plaza Sotomayor. After your tour, you can ride the funicular to the top of Cerro Alegre for views of the Pacific Ocean. When you are ready, you will transfer to ViÃ±a del Mar. Soon after, you will arrive in the seaside town of ViÃ±a del Mar, where you will enjoy a short guided tour of the cityâs top sites. You will have the rest of the afternoon to relax at the beach and town."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Maipo Valley â Chileâs Top Wineries",
+      "description": "This morning, you will transfer to the Maipo Valley. After a quick ride, you will arrive at your luxurious accommodation in the heart of Chileâs wine region. Once you have properly settled in, your guide will lead you on an exploration of the area. Your tour will begin with a private walk-through of the Maipo Valleyâs top wineries. Here, you will even meet the local vintners and learn about their winemaking process. In the afternoon, you will have a customized wine tasting of the wineriesâ top wines. Once your tasting concludes, you will have the rest of the afternoon to spend at your leisure."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Maipo Valley â Hot Springs and Scenic Trek",
+      "description": "This morning, you will embark on a scenic trek through the Maipo Valley. During your excursion, our guide will point out the regional flora and fauna that you encounter. At the conclusion of your trek, you will transfer to natural hot springs. You can spend the afternoon here, relaxing in the hot springs and admiring phenomenal views of the surrounding landscape. When you are ready, you will leave the hot springs and return to the charming town to enjoy a wonderful banquet of fine regional wines and cheeses. The remainder of the evening will be at your leisure."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Torres del Paine â Hike through Patagonia",
+      "description": "This morning, you will fly to Patagonia. When you arrive at the airport city of Punta Arenas, your driver will greet and transfer you to your accommodation in Torres del Paine National Park. Upon your arrival, you will be given some time to settle in and to appreciate the natural landscape of Patagonia. When you are ready, your guide will lead you on a customized tour through the park. Based on your skill level, you may choose a leisurely hike to the Mirador Cuernos viewpoint or opt for the more difficult trek, such as hiking to the Mirador Los Torres viewpoint."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Torres del Paine â Glamping under the Stars",
+      "description": "This morning, you will visit several of the parkâs incredible viewpoints. Although the journey is enough to take your breath away, you will be left completely mesmerized by the sheer beauty of Patagonia when you arrive at your final viewpoint destination. After your morning tour has concluded, you will spend the afternoon exploring Patagonia at your leisure. You can choose from a variety of different activities, such as horseback riding, trekking, kayaking, fishing, or whitewater rafting. In the evening, you will return to your glampsite and spend the night dreaming beneath a spectacular sky of stars."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Torres del Paine â Departure",
+      "description": "Today will be your final day in Chile. After a leisurely breakfast, you will have a short period of time before you have to transfer to the airport. You can indulge in a final stroll through your surrounding area or just relax at your hotel. Soon, you will transfer to the airport for your flight home."
+    }
+  ],
+  "map": ""
+}

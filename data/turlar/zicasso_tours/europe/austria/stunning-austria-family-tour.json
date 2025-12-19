@@ -1,0 +1,75 @@
+{
+  "destination": "Austria",
+  "mainPhoto": "",
+  "id": "stunning-austria-family-tour",
+  "tourName": "Stunning Austria Family Tour",
+  "placesVisited": "Vienna, Linz, Salzburg, Klagenfurt",
+  "generalInfo": "Rolling to the sound of music, this 10-day Austria family tour immerses you in mountains and cultural charm. Handcrafted with the best family attractions, it will take you to palaces, castles, museums, markets, and miniature towns. Explore Vienna, Linz and Salzburg before escaping to the mountains for three days of quiet family time along the lake.",
+  "durationDays": "10",
+  "price": "4,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Vienna - A Kid-Friendly Capital",
+      "description": "Vienna is a surprisingly children-friendly capital city. After a private airport transfer your guide will provide you with an introductory walking tour. Itâs a quick and easy way to tick off the key sights before you jump into something more enchanting for the kids. There are different options depending on how you feel and how much energy you have. Perhaps visit Prater and gain immense views from the amusement parkâs huge Ferris wheel. Try Schonbrunn Zoo, or take a picnic to one of the royal parks, where there is plenty of green space to run around."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Vienna - Exploring Schonbrunn",
+      "description": "Schonbrunn Palace is a delight for the imagination, as your guide narrates tales of Habsburg princesses and medieval wars. Glorious rooms evoke a far-gone era and the decor is dazzling to behold. Then next door you will find the Childrenâs Museum, where you can all dress up in period costumes and reenact some of the history. These two side-by-side attractions are a classic way for a family to spend a day in Vienna. And remember, this is a city famous for its pastries. So there is always a sweet treat for well-behaved children."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Linz - Charming Riverside City",
+      "description": "A place seemingly from fairytales, Belvedere Castle is a Baroque palace that appears like a Disney creation. Explore it with your guide this morning, before continuing on the road west to Linz. A melting pot of culture and cuisines, Linz is a small city thatâs great for getting your Austrian cultural fix. Itâs easy to get around on foot and the quiet atmosphere will make for two laid-back days along the riverside. This evening you will enjoy a short guided tour of the city, followed by reservations at what many claim to be the best authentic Italian pizza, outside Italy."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Linz - Discovering Food Markets",
+      "description": "Continue the Linz exploration today, by taking a toy train through the city. Baroque architecture impresses along polished streets. Flowering parks are enlivened further by remarkable statues. Pedestrianized streets emanate cobblestone and intrigue. As part of the tour, you will explore an iconic local food market, where there are local and international treats to try. Then during the afternoon and evening, you can head down to the Danube River and stroll the edge of the city, perhaps stopping at one of the ice-cream stalls on the way."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Salzburg - The Sound of Music",
+      "description": "Salzburg impresses on all the senses and not only because itâs the home of Mozart and the Sound of Music. After a guided transfer you will explore the city in a horse and carriage, a ride that will include famous movie locations along with all Salzburgâs key architectural attractions. Itâs a slow-paced ride and a good way to get around everything, without needing to walk. Make a stop in Hohensalzburg Fortress and have lunch with a view inside, then end at Hangar 7 Aircraft Museum. Red Bullâs founder is from Salzburg and his museum is packed with big machines to impress kids of all ages."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Salzburg - Austrian Lake District",
+      "description": "Sublime lakes stretch beneath green mountains. Kids can jump into them and swim. Or you can just sit back and watch, as peaks reflect in their surface and the glory of the Alps astounds in all directions. Austriaâs Lake District is the perfect Salzburg day trip, an escape from urban life, a destination of sublime vistas. With a private guide you will spend the day in the mountains, stopping at lakes and villages, with activities tailored to your interests. Itâs a wonderful place for walking and mountain biking, with trails that suit all ages and levels."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Klagenfurt - Laid-Back Exploration",
+      "description": "Your final destination is the most laid back. Complete your Austria family tour with three days on Lake Worthersee, just outside the town of Klagenfurt. Your private chalet has a lakeside location with all the space you need to come together as a family. Surrounded by blue water and towering mountains, this is a place to unwind and forget about the rest of the world. Klagenfurt is closeby and has a good selection of restaurants and museums. Bikes are provided at your chalet, so you can easily go out exploring the area."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Klagenfurt - Inspiring Travel",
+      "description": "With Klagenfurt as a base, you cannot miss Minimundus. Small-scale models showcase the worldâs most remarkable buildings, so you can travel to the Leaning Tower of Pisa, Sydney Opera House, Moscowâs St Basil Cathedral and so many more. At 1:25 theyâre actually pretty big models, perhaps taller than your kids. After a guided visit you will be transferred back to Klagenfurt, where the lake expands and trails can take you in many directions. Thereâs also the possibility of canoeing on the lake should you wish."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Klagenfurt - The Austrian Outdoors",
+      "description": "This final day will be at your leisure, so you can explore the area or simply hang out around your chalet. The lake is ideal for families as you can get a real away-from-the-world experience, yet still be only ten minutes' drive from modern conveniences. Itâs a best of both type scenario and you can fully enjoy the space Austriaâs Alps can provide. As with all Zicasso itineraries, every day on this Austria family tour is fully customizable and can be adapted to all your interests."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Klagenfurt - Departure",
+      "description": "Klagenfurt has a small international airport and you will be transferred here after breakfast to complete your family vacation."
+    }
+  ],
+  "map": ""
+}

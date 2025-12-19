@@ -1,0 +1,65 @@
+{
+  "destination": "Peru",
+  "mainPhoto": "",
+  "id": "paradisiacal-peru-lima-cusco-sacred-valley-tour",
+  "tourName": "Paradisiacal Peru: Lima, Cusco, Sacred Valley Tour",
+  "placesVisited": "Machu Picchu, Cusco, Pisac, Lima",
+  "generalInfo": "ââAs one of the largest countries in South America, Peru is an all-encompassing land, and this 8-day tour ensures that the country's unparalleled natural beauty, rich culture, and iconic heritage are yours to enjoy. From the shores of the Pacific to the towering heights of the Andes, a variety of explorations will provide you with a balanced approach to uncovering Peru's many treasures.",
+  "durationDays": "8",
+  "price": "4,300",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Lima â Gateway to Peru",
+      "description": "From the depths of the coastal lowlands to the heights of the towering Andes and from the arid deserts to the steaming Amazon rainforests, Peru is a land of refreshing contradictions. Greeting you on your first day, the shining capital of Lima will welcome you and act as your gateway to the more intimate adventures waiting for you. A transfer will meet you at the airport and ensure your timely arrival at your accommodation. Here, you will have the remainder of the day to spend at your leisure."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Cusco â Exploring an Incan Capital",
+      "description": "In the morning, you will return to the airport for a short flight to the rugged mountain range known as the Andes. At 11,000 feet, Cusco is one of the world's highest UNESCO World Heritage Sites. Your private transfer will escort you to the welcoming boutique hotel of Antigua in the San Blas neighborhood. Your accommodation will embody the city and the rich history of the district as the oldest continuously inhabited neighborhood in Cusco. With a hand-carved wrap-around balcony and attention to sustainable travel, the hotel exudes luxury and heritage. After settling in, embark on an introductory excursion of the city, which will include a visit to the Inca fortress of Sacsayhuaman and a guided stroll that reveals the secrets of the ancient city center."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Cusco â Exploring the Sacred Valley",
+      "description": "In the morning, the dawn will break crisply over the ornate facades of the Spanish-inspired architecture and rough stone of the Inca ruins. Distant mountains will beckon to you with hints of untold adventure. Today, you will embark on an adventure after enjoying an enjoyable breakfast served by the hospitable and attentive hotel staff. These highlands will be yours to enjoy when you make your way to the ruins of Pisac, the Sacred Valley, and the town of Awanacancha. Here, the alpacas and llamas charm visitors with their surfer hairstyles and general aloofness. When you return to Antigua, you can indulge in the comforts of your spacious room or visit the lively restaurant to sample a traditional pisco sour with a contemporary twist."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Maras-Moray â Hidden Treasures of the Andes",
+      "description": "Peru enjoys an abundance of natural resources. Today, you will catch a glimpse of one of those whose importance has decreased little since its origins. Tucked in an Andean gorge, the Incan Salt flats are a series of terraced, spring-fed plains where salt-infused water evaporates, leaving the precious mineral behind for harvesting. You will also visit the bizarre ruins of Moray, where archaeologists discovered massive terraces that texture the slopes in a fashion not found anywhere else in the world. In the afternoon, you will make your way to your hotel, where you will have the remainder of the afternoon to relax and spend at your leisure."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Aguas Calientes â The Footsteps of the Inca",
+      "description": "While others are sleepily making their way by bus and train to the slopes of Machu Picchu, you will enjoy an active adventure through the Andean countryside by following the Inca trail to earn your right to peer over the abyss and behold the stunning views of Machu Picchu. After being transferred to the trailhead, you will follow the meandering mountain path to the famous hilltop city before ending your day on the banks of the Urubamba River in Aguas Calientes."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Cusco â The Hilltop Beauty of Machu Picchu",
+      "description": "If yesterday was the appetizer for your trip to Machu Picchu, today will be the main course. You will embark on a guided visit to the famous archaeological site for a thorough introduction to the town's historical significance, mysterious architecture, and stunning geography. A trip up the precarious Huayna Picchu is also an excellent way to see a side of the ruins that is missed by many. In the afternoon, you will retrace your steps to Cusco by train and enjoy the rustic villages and rainforest along the way. Arrive in the welcoming comforts of Antigua to feel as though you have returned home. After your time exploring Machu Picchu, you can settle into a soothing spa treatment to decompress, unwind, and rejuvenate with a specific experience designed to attend to travelers after their long days discovering the mountains."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Cusco â In Search of Rainbow Mountains",
+      "description": "Your final full day on this tour will be spent in spectacular fashion by embarking on an Andean adventure to one of the region's highest mountains and most peculiar geologic formations. The Rainbow Mountains will be your destination today on a guided excursion that will allow you to witness the unique mineral deposits that have lent the slopes a multi-colored hue. You will return to Cusco, and Antigua, for a well-earned rest and can spend the rest of the day enjoying this unique corner of the San Blas neighborhood where heritage and art come together. Whether from the cobbled avenues around Antigua or within the restored walls of the boutique hotel, you can find artistry in the artisanship that reflects rich cultural history."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Cusco â A Reluctant Departure",
+      "description": "Alas, all adventures must come to an end. On your final day of this tour, it would not be uncommon to feel a tinge of reluctance to leave. As the sun emerges from behind the Andean peaks and spreads its warm rays across modern structures and ancient ruins, you may be left in awe by the staggering beauty of this region. At breakfast, you can indulge in the aromas of coffee sourced from the Valle Inca or sample a local twist on a traditional breakfast favorite before leaving the Antigua boutique hotel behind. As you board your outbound flight from Cusco's main airport, you can rest assured knowing that there is still much to see and do in this corner of the world."
+    }
+  ],
+  "map": ""
+}

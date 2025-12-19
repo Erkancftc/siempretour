@@ -1,0 +1,75 @@
+{
+  "destination": "Italy",
+  "mainPhoto": "",
+  "id": "wonders-of-italy-family-friendly-tour-rome-florence-venice-and-more",
+  "tourName": "Wonders of Italy Family-Friendly Tour: Rome, Florence, Venice and More",
+  "placesVisited": "Rome, Lucca, Florence, Venice, Assisi, San Gimignano, Brenta Canal, Verona, Vatican City, Siena, Pisa, Monterosso, Corniglia, Vernazza, Manarola, Riomaggiore",
+  "generalInfo": "Effortless charm, captivating cuisine, and immersive artistry exemplify your 10-day family Italy vacation. Travel from Rome to Venice on this 10-day family vacation to discover the fun of ancient life, Renaissance beauty, traditional pasta, hand-crafted masks, and the techniques of gladiators. Whether wandering through the Vatican Museum's empty galleries or witnessing the Uffizi Gallery's embracing beauty, Italyâs boundless splendor will exceed your familyâs greatest expectations.",
+  "durationDays": "10",
+  "price": "4,500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Rome â Arrive in Rome with a Walking Tour",
+      "description": "The Eternal City is an icon of antiquity and the evolution of Christianity, home to classic Renaissance artwork and opulent Baroque architecture. Meet with your transfer upon arrival at the airport to escort you to your hotel in the heart of Rome. If time allows, begin with a tour of the city to reach the famous trickling waters of the Trevi Fountain, where your children can find all of the horses splashing outward from Neptuneâs powerful pose."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Rome â Enjoy a Gladiator Class and Vatican Museum Visit",
+      "description": "Your day will begin with adventure as your kids enter Gladiator training to learn what it took to battle in the Colosseum. They can don a gladiatorial tunic and listen to the instructors with training modeled after the regiment of gladiators in Rome. Pass through a miniature museum displaying Roman weapons, shields, and sentry armor before reaching the soaring walls of the Colosseum for a private tour. In the evening, your guide will give you an after-hours tour of the Vatican Museums ending with the marvels of Michelangeloâs Sistine Chapel."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Lucca â Uncover Assisi's Classic Charms and Pisaâs Piazza dei Miracoli",
+      "description": "Set out to the charming hilltop city of Assisi in Umbria. The crenulated walls and towers continue to provide exceptional views of the valley leading to the former rival city of Perugia, the capital of the Umbrian region. Travel through Tuscanyâs rolling hills to reach Pisa and the Pizza dei Miracoli, where the can kids marvel at the iconic list of the Leaning Tower."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Lucca â Delight in a Full Day Excursion to Cinque Terre",
+      "description": "The city of Lucca has retained its fascinating medieval charms, with the former defensive walls a public park since the 19th century. Your family can travel to the charming seaside towns of Cinque Terre in the early morning for a full day exploring the famous five towns nestled against the Ligurian cliffs. A local specialist may greet you at Riomaggiore, as pastel pinks, yellows, and blues wash over the fascinating tower homes clinging to the rugged cliffs overlooking the sea. Arrive in the neighboring town of Manarola, the kids may beam with excitement as you enjoy a scenic boat ride."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Florence â Explore Beautiful Tuscany at San Gimignano",
+      "description": "Venture away from the charming walls and soaring towers of Luccaâs historic city center for the preserved beauty of San Gimignano. The hilltop town once boasted 72 towers reflecting the wealth of the prestigious noble families, but only 13 of the towers remain. At the Torre e Casa Campatelli, you can find reflections of the last family to have occupied the grounds. The compelling home dÃ©cor creates a narrative of wealth and high-ranking bourgeois life in Tuscan society during the 19th and 20th centuries. Continue to Florence and settle into the Renaissance city for the evening."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Florence â Delight in Historical and Artistic Treasures",
+      "description": "The defensive walls around Florence continue to connote the beating heart of the Republic along the banks of the Arno River. The fantastic dome of the cathedral crowns the cityâs skyline reaching 376 feet above the surrounding streets. In the famous Uffizi Gallery, the kids will search for clues on an elaborate scavenger hunt connecting them with the art. The gallery hosts 101 rooms spanning two floors. Your guide will lead you into the Botticelli Room to find the enchanting vision of the 15th- century work The Birth of Venus."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Bologna â Sample a Cooking Class before Arriving in Venice",
+      "description": "After breakfast, your transfer will greet your family at the hotel and escort you to the bustling city of Bologna, the capital of the Emilia Romagna region. The medieval center reflects the depth of history fusing elegant antique colonnades with the high-tech contemporary ambiance of the Po Valley. You will enter a small and inviting shop known for making fresh, delicate pasta to meet your instructor. Have an introduction to the types of pasta for which Bologna is known before the kids happily dig their fingers into the flour and properly stuff, fold, and twist the textured dough into tortelloni."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Venice â Uncover St. Markâs Secrets and Make a Venetian Mask",
+      "description": "You will follow your guide over the Rialto Bridge, through the bustling marketplace, and into the center of St. Markâs Square. The Dogeâs Palace boasts traditional Venetian Gothic architecture influenced by Byzantine and Moorish styles. The family will pass the proud figure of St. Markâs Lion on the Porta della Carta and eventually reach a hidden gallery that acted as the chambers of a shadow government. In a small shop, you will continue in the tradition of making celebrated Carnival masks and decorations to reveal the true nature of your character from the Commedia dellâArte."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Venice â Discover Veronaâs Beauty and Cruise the Brenta Canal",
+      "description": "The unique streets of Verona highlight the Renaissance and the Roman age, dramatic castles, and star-crossed love. Upon arrival, you can explore the 14th century Ponte Scaligero where families take an early stroll. The Roman Amphitheater dates back to the 3rd century AD and hosts vaulted seating that could accommodate 22,000 people. A small colonnade will lead into the courtyard of Casa di Giulietta, the home of Shakespeareâs tragic heroine Juliet Capulet. You can continue to the entrance of the Brenta Canal to board a boat bound for Venice, stopping to explore the elaborate villas along the way."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Venice â Depart for Home Venice",
+      "description": "The Rialto market may blossom once again before sunrise with fishmongers and produce vendors arriving with hauls from the farming island of SantâErasmo. The bohemian ambiance of Caffe Rosso often draws crowds of artists and students spilling into the bustling square sipping espresso and debating politics. At breakfast, the kids may share their favorite memories of Italy before you meet your private transfer and continues onward to Marco Polo Airport for your flight home."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,70 @@
+{
+  "destination": "Ruanda",
+  "mainPhoto": "",
+  "id": "AFKN",
+  "tourName": "Kıgali' den Naorobi' ye",
+  "placesVisited": "Ruanda, Uganda, Kenya",
+  "generalInfo": "Kigali'den başlayarak, dağ gorilleri seyahatimizin başlayacağı yer olan Lake Bunyonyi'ye gitmeden önce Ruanda'nın son birkaç yılda nasıl büyüdüğünü keşfedin. Uganda ormanının kalbinde, bu inanılmaz hayvanlar alemiyle bir saat geçirin. Jinja, Masai Mara maceranızı geçireceğiniz Nairobi'ye ulaşmadan önce sizi heyecanlandıracak birçok fırsatlar sunacak.<br><br>En Yakın Uluslararası Havaalanına (geliş): Kigali Uluslarası Havalimanı ( KGL )<br><br>En Yakın Uluslararası Havaalanı (gidiş): Nairobi Jomo Kenyatta Uluslararası Havalimanı (NBO)",
+  "durationDays": "11",
+  "price": "1359",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "34",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Geziler ve Etkinlikler</strong></p>\n<p>&gt;Ruanda Soykırım Anıtları ve Hotel des Miles Collines ( Hotel Ruanda )  ziyareti</p>\n<p>&gt;Rehber eşliğinde Gorillere yürüyüş ( giriş izni dahil )</p>\n<p>&gt; Banyonyi gölü tekne turu ve Cüce köyü gezisi</p>\n<p><strong>Konaklama</strong></p>\n<p>4 gece otel, 5 gece çadır kampı , 1 gece ortak banyolu otel</p>\n<p><strong>Taşımacılık</strong></p>\n<p>Kamyon</p>\n<p><strong>Yemekler</strong></p>\n<p>2 yerel  kahvaltı , 1 kahvaltı paketi , 1 yöresel akşam yemeği , 5 kahvaltı , 3 öğle yemeği , 2 açık büfe kahvaltı</p>\n<p><strong>Diğer</strong></p>\n<p>Siempre Tur tur lideri , Siempre Tur Şoförü</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Kigali'ye varış.",
+      "description": "Ruanda'nın başkenti Kigali'ye hoş geldiniz. Kigali, Ruanda'nın en büyük şehri ve kültürel ve ticari merkezidir."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Banyonyi Gölü",
+      "description": "Kahvaltıdan sonra otelimizden hareketle  ve Ruanda Soykırımı'nın yakın tarihini ve Tutsi'lerin infazını öğreneceğiniz, Nyamata Kilisesi Soykırım Anıtını, Kigali Soykırım Anıtı Merkezinı ve Hotel des Milles Collines - yani Hotel Ruandayı  ziyaret etmek için özel rehberli bir tur düzenleyeceğiz."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Banyonyi Gölü ( Gorillere yürüyüş )",
+      "description": "Bugün uzun bir gün olabilir, bu yüzden çantanızda su bulundurmanızı tavsiye ederiz. Tur başlangıç noktasına ulaşmak için sabahın erken saatlerinde milli parka gideceğiz. Sekiz saatin üzerinde süreceğini düşündüğümüz yürüyüş turumuzda, rehberler sizlere öncülük edecek ve sabahın erken saatlerinde gorillerin ayak izlerini takip edip nerede olduklarını bulmaya çalışacağız.Yürüdüğünüz mesafe  gorillerin ne kadar hareketli olduğuna bağlı olarak değişir. Bazı goriller, izleyicilerin onları bir gün önce bıraktığı yerden uzaklaşmayacak, bazıları ise yiyecek arayışından ötürü uzaklaşacaklar."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Banyonyi Gölü",
+      "description": "köylerdeki bazı yerlileri ziyaret edebilir, gölde yüzebilir ya da göle bakan muhteşem manzara noktalarına ulaşabilirsiniz."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Kampala",
+      "description": "Güzel manzara, muhteşem vahşi yaşam ve Lake Bunyonyi'nin yerel topluluklarını deneyimledikten sonra, Kabale kentindeki özel inşa edilmiş aracımızla buluşacağız. Buradan Uganda'nın başkenti Kampala'ya doğru yol alacağız. Kampala'ya giderken ilçe ve yerel pazarlardan geçeceğiz ve ekvatorda durup, bir ayağınızın Güney Yarımküre'de bir ayağınızın Kuzey Yarımküre'de fotoğraflar çekeceğiz. Ekvator, tüm doğu Afrika'da hediyelik eşya satın almak için en iyi fırsatlardan bazılarına sahiptir."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Jinja",
+      "description": "Kahvaltıdan sonra muazzam Nil Nehri'nin kaynağına gidiyoruz."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Naivasha",
+      "description": "Bugün iki gece geçireceğimiz Naivasha Gölü'ne gidiyoruz. Burada bölgeyi keşfetmek için boş gününüz olacak.İsteğe bağlı aktivitelerden birini seçebilirsiniz"
+    },
+    {
+      "dayNumber": 10,
+      "title": "Nairobi",
+      "description": "Bugün Kenya'nın başkenti, Ulusal Parkı ile ünlü ,çitalar, zürafalar gibi inanılmaz vahşi hayvanlar ve  nesli tükenmekte olan siyah gergedanlara ev sahipliği yapan, Nairobi'yi ziyaret ediyoruz"
+    },
+    {
+      "dayNumber": 11,
+      "title": "Depart Nairobi",
+      "description": "Bir ömür boyu süren serüveniniz bugün sona eriyor. Geç bir uçuşunuz varsa veya konaklama turu ekleyerek konaklamanızı uzattıysanız, turistik yerleri keşfetmek için daha fazla zamanınız olacaktır."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,90 @@
+{
+  "destination": "Tayland",
+  "mainPhoto": "",
+  "id": "ICLT",
+  "tourName": "Laos & Tayland'ın Öne Çıkanları",
+  "placesVisited": "Tayland, Laos",
+  "generalInfo": "Bu turda Vientiane’nin patlamamış bombalar sorununu öğreneceğiz, manzaranın tadını çıkaracağız ve Chiang Mai ve Sukhothai'deki antik tapınakları keşfettiğimiz Kuzey Tayland'a geçmeden önce güneşin doğuşunda keşişleri ziyaret edeceğiz.",
+  "durationDays": "15",
+  "price": "849",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Konaklama: </strong></p>\n<ul>\n<li>- Otellerde 14 gece</li>\n</ul>\n<p><strong>Yemek:</strong></p>\n<ul>\n<li>- 11 Kahvaltı</li>\n</ul>\n<p><strong>Geziler: </strong></p>\n<ul>\n<li>- Mavi Göl'e Manzaralı Tuk Tuk yolculuğu,</li>\n<li>- Keşiş Ziyareti, Sukhothai Antik kalıntıları Bisiklet turu,</li>\n<li>- Grand Palace ve Emerald Buddha Bangkok nehir tekne turu.</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Bangkok'a Varış",
+      "description": "Tayland'ın başkenti hareketli şehir Bangkok’a hoşgeldiniz! Thai dilinde Krung Thep Maha Nakhon olarak bilinen ya da kısaca Krung Thep ‘’melekler şehri’’ olarak telaffuz edilen Bangkok, Ayutthaya Krallığı zamanında Chao Phraya Nehri'nin ağzında küçük bir ticaret merkeziydi. Bangkok şimdi gezginlerin çoğu için Güneydoğu Asya'ya açılan kapıdır ve burası uluslararası sırt çantalı gezginlerin gelip gittiği ve sokakların her zaman uğultulu ve hayat dolu olduğu bir yerdir."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Vientiane'e Uçuş",
+      "description": "Bugün Laos'taki Vientiane'ye uçuş yapmak için Hanoi ve Vietnam'dan ayrılıyoruz. Bu küçük ve sakin şehir, zengin kültürü ile sizi karşılar. Laos'un Fransız egemenliğindeki zamanından büyük ölçüde etkilenen Vientiane, diğer Asya başkentlerinin daha sessizdir. Yerel pazarları ziyaret etmeyi, yerel tapınakları ve Wat'ları ziyaret etmeyi ya da Mekong Nehri boyunca yerel bir kafe, bar ya da restoranda insanları izlemeye zaman ayırmayı tercih edebilirsiniz. Vientiane'deki kısa zamanınızda birçok harika anı biriktireceğinize emin olabilirsiniz. İsteğe bağlı grup yemeğinden sonraki akşam, 10 Pin bowling için Tur Lideriniz sizi davet edecektir."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Vientiane",
+      "description": "Laos'un başkenti oldukça sessizdir - o kadar sessizdir ki, 1970'den önce, tüm şehirde sadece bir dizi trafik ışığı vardı (Bangkok’tan çok farklı!). Birçok duvar resmi ve pazarı olan bu sakin şehre hayran olmak için zamanımız var. Sokaklarda dolaşırken göreceğiniz pek çok bina dini öneme sahiptir. Bisiklet kiralamak ve burada mükemmel olan yerel sokakları ve pazarları keşfetmek isteyebilirsiniz."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Vang Vieng and Blue Lagoon",
+      "description": "Muhteşem manzaralardan geçerek Vang Vieng’e seyahat ediyoruz.Bu huzurlu kasaba,çevresinde muhteşem kireçtaşı mağaraları ve şelalelerin olduğu bir platoda yer almaktadır ve bölgede Hmong ve Yao kabileleri yaşamaktadır. Kireçtaşı mağaraları, antik mitolojide meşhurdur ve zaman içinde birçok sanatçının eserlerinde yer almıştır. Vang Vieng, yerel mutfağı denemek için mükemmel bir yer ve burada keyifle gezeceğiniz pazarlar var. Burada, Laos'un en inanılmaz manzaraları boyunca alışılmadık bir tuk-tuk turuna çıkıp yerel köyleri ve çeltik tarlalarını göreceğiz. Dalış yapabileceğiniz Mavi Lagün’ü ziyaret edeceğimiz için mayonuzu getirdiğinizden emin olun."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Luang Prabang",
+      "description": "Vang Vieng'den manzaralı route 4'ten (yol) huzurlu Luang Prabang kasabasına seyahat ediyoruz. Birçok kişi bu kasabanın Laos'taki en unutulmaz kasaba olduğunu söylüyor. Büyüleyici tarihi, dost canlısı insanları ve güzel manzaralarıyla ünlü Luang Prabang, Güney Doğu Asya'da gerçek bir mücevher."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Chiang Mai'ya Uçuş",
+      "description": "Bugün, 'Kuzey'in Gülü' olarak bilinen bu popüler şehirde iki gecenin tadını çıkarabileceğiniz Chiang Mai'ye uçuyoruz. Burada Thai usulü yemek pişirme kursunun, rahatlatıcı bir masajın tadını çıkarabilir, gece saatlerinde Thai kick-boks maçı (Muay Thai)  izleyebilir ya da geceyi Chiang Mai’nin ünlü bambaşka akşam sokaklarında pazarlık yaparak geçirebilirsiniz."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Chiang Mai",
+      "description": "Doi Suthep Milli Parkı'nın yanındaki küçük Doi Suthep dağının 1000 metre üzerinde yer alan güzel, altın Wat Phra That Doi Suthep tapınağını ziyaret etmeye ne dersiniz?"
+    },
+    {
+      "dayNumber": 10,
+      "title": "Chiang Mai",
+      "description": "Mai ve çevresinde yapılacaklar arasında kendi seçimlerinizi yapabilmeniz için size biraz zaman veriyoruz.  Hill-Tribe ziyareti, Thai aşçılık sınıfı, rahatlatıcı Tay masajı veya adrenalin dolu zip-lining olsun tercih sizin ...  Chiang Mai'den unutulmaz anılarla ve yeniden görmeyi isteyerek ayrılacağınıza eminiz."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Antik Sukhothai",
+      "description": "Tayland'ın eski başkenti Sukhothai'ye hoş geldiniz. Tayland'ın öne çıkan yerleri arasında ve yaklaşık 140 yıldır Tayland imparatorluğunun başkentiydi, tam tercümesi “Mutluluğun Şafağı”"
+    },
+    {
+      "dayNumber": 12,
+      "title": "Sukhothai Antik Kalıntılar Arasında Bisiklet Turu",
+      "description": "Tapınaklar ve anıtlar,o zamandan beri kazıyla ortaya çıkarılmış ve yer yer restore edilmektedir, ve günümüzde restorasyon bölgeyi Sukhothai Tarihi Parkı olarak adlandırmaktadır."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Bangkok",
+      "description": "Tayland'ın başkenti hareketli şehir Bangkok’a hoşgeldiniz! Thai dilinde Krung Thep Maha Nakhon olarak bilinen ya da kısaca Krung Thep ‘’melekler şehri’’ olarak telaffuz edilen Bangkok, Ayutthaya Krallığı zamanında Chao Phraya Nehri'nin ağzında küçük bir ticaret merkeziydi. Bangkok şimdi gezginlerin çoğu için Güneydoğu Asya'ya açılan kapıdır ve burası uluslararası sırt çantalı gezginlerin gelip gittiği ve sokakların her zaman uğultulu ve hayat dolu olduğu bir yerdir."
+    },
+    {
+      "dayNumber": 14,
+      "title": "Bangkok",
+      "description": "Daha kültürel bağlamda, Bangkok, çoğu gezgin tarafından ziyaret edilen başlıca tapınak olan Wat Arun’u ile yüzlerce Wat'a (tapınak) sahiptir. Grand Palace (Büyük Saray) da popüler bir cazibe merkezidir ve farklı bir şey için Chao Phraya Nehri boyunca ve kanallar boyunca gezebilirsiniz. Bangkok bir zamanlar ayrıntılı bir kanal ağına sahipti ve 'Doğu'nun Venedik'i' takma adı verilmişti ve bunların bir kısmı doldurulmuş ve sokaklara dönüştürülmüş olsa da, günümüzde hala bir çoğu duruyor. Bu kanallardan geçerek halkın nehir boyunca nasıl yaşadığını göreceksiniz – neredeyse büyük, hareketli bir şehirde olduğunuzu unutacaksınız.Bu hareketli şehrin tadını çıkarmanız için konaklama öncesi rezervasyon yaptırmanızı öneriyoruz."
+    },
+    {
+      "dayNumber": 15,
+      "title": "Bangkok’tan Ayrılış",
+      "description": "Hayatınızın macerası bugün sona eriyor. Geç vakitte bir uçuşunuz varsa veya tur sonrası konaklama ekleyerek konaklamanızı uzattıysanız görülesi yerleri keşfetmek için daha fazla zamanınız olacak."
+    }
+  ],
+  "map": ""
+}

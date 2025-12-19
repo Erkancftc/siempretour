@@ -1,0 +1,65 @@
+{
+  "destination": "Egypt",
+  "mainPhoto": "",
+  "id": "one-week-capturing-the-essence-of-egypt-in-cairo-luxor-aswan",
+  "tourName": "One-Week Capturing the Essence of Egypt in Cairo, Luxor, & Aswan",
+  "placesVisited": "Cairo, Luxor, Aswan",
+  "generalInfo": "Adventure across Egyptâs coveted cities of Cairo, Luxor, and Aswan for one week delving into Ancient Egypt and the majesty of the Nile. Handpicked to include tours of each destinationâs mesmerizing highlights, from the Great Pyramids to the Valley of the Kings, the temples of Abu Simbel, and Cairoâs Citadel, this brief but brilliant vacation to Egypt will capture the essence of its millennia-old heritage.",
+  "durationDays": "8",
+  "price": "4,700",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Cairo - The Great Pyramids of Egypt",
+      "description": "Your week-long adventure in Egypt begins in Cairo, the countryâs booming capital city that rises above the desert sands to meet the clouds. Cairo is a hub of commerce and reservoir of history stationed on the banks of the Nile River, North Africaâs enormous waterway that has been a spiritual and nourishing life force for Egypt and its neighboring countries. You will check into your accommodation and jump-start your vacation with a tour of Ancient Egypt from the mysterious Pyramids of Giza to the revered Great Sphinx and the Temple of Khafre."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Cairo - Magnificent Memphis and the Pyramids of Dahshur",
+      "description": "Cairo is a gateway to the history of Egypt preserved in ancient capitals of former kingdoms, namely Memphis, an Egyptian ruin home to an impressive and monstrous statue of Ramses II. You will admire the beautiful representation of the former pharaoh before you continue to the Sakkara cemetery spanning the desert plateau. Finally, the royal necropolis of Dahshur will be yours to behold as you visit the Bent Pyramid and Red Pyramid, which reflect the revered stories of Egyptâs generational rulers."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Luxor - The Ancient Origins of the New Kingdom",
+      "description": "Luxorâs distinct cityscape is built on the foundations laid by pharaohs during the times of Thebes, the former name of the ancient city during the reign of the New Kingdom. Luxor continues to showcase its prominent historic roots, typically derived from the iconic Karnak and Luxor Temples that you will visit today. The first of the two millennium-old temples was constructed in honor of the Egyptian god Amun while the secondâs stretch of human-headed Sphinxes will trace back the regionâs royal roots."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Luxor - Take to the Skies Over the Nile",
+      "description": "Luxor is surrounded by sprawling desert and flanked by the sparkling waters of the Nile River. It is an oasis that can be best viewed from the skies during your hot air balloon ride this morning. After arriving on the ground, you will continue to explore the magnificent highlights in and around Luxorâs West Bank, namely, the intricate network of royal tombs carved into the limestone cliffs of the Valley of the Kings and the jaw-dropping sculptural art and geometric architecture of the Hatshepsut Temple."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Aswan - The Mausoleum of Aga Khan",
+      "description": "You will transfer from the sands of Luxor to the oasis of Aswan, a stunning palm-tree hugged paradise on the Nile River that looks out over lush islands surprisingly green amongst the backdrop of the golden desert. The best way to explore Aswan and its neighboring islands is by a traditional felucca , an Egyptian sailboat, and your slow meader along the tranquil Nile will provide unique perspectives of your surroundings. You will be led to the Mausoleum of Aga Khan, a formidable resting place for the royal Aga Khan."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Aswan - Nubian History of the Abu Simbel Temples",
+      "description": "Today marks your discovery of Nubian heritage in Egypt, expressed most prominently in the UNESCO World Heritage Site of Abu Simbel. Consisting of two massive rock-cut temples, this spiritual ground represents one of the most complex and mind-blowing Nubian monuments across Egypt. Your spiritual discoveries will continue this afternoon during a cruise across the Nile to the Philae Temple, a royal complex perched on an island near Aswan carpeted in lush vegetation. Such scenes are inspiring along the Nile as they showcase flora's resilience through the arid conditions Egypt is subject to."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Cairo - Discover the Distinctions of Egyptâs Capital",
+      "description": "You will return to Cairo for your final night in Egypt, this time spending your day exploring the cityâs highlights from the emblematic relics and treasured artifacts of the Egyptian Museum to the royal palaces and ornate mosques of the Citadel. In the afternoon, visit the Khan el-Khalili bazaar for an authentic tour of Egyptian life, presenting both the old-world customs in colorfully garbed performances and new-age modernity in the artful renditions of ancient North African cuisine. You may commemorate your vacation by bargaining with vendors over a variety of unique trinkets and items displayed at their stalls."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Cairo - Farewell to the Desert of Egypt",
+      "description": "Life in Cairo gets going early in the morning as the sunrise welcomes a new day. You too may wake up early with the locals and spend your final morning swept up by the exuberant atmosphere sweeping the city each morning. Shop vendors will haggle with buyers in the bustling markets, performers will entertain onlookers in the colorful bazaars, and chefs will prepare collections of authentic North African cuisine at restaurants littering Cairoâs crowded streets. You may enjoy the sights and scenes before you pack your bags and say goodbye to the vast deserts of Egypt."
+    }
+  ],
+  "map": ""
+}

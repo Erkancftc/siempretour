@@ -1,0 +1,70 @@
+{
+  "destination": "Amerika",
+  "mainPhoto": "",
+  "id": "STG09025",
+  "tourName": "Oasis of The Seas ile New York ve Bahamalar -03 & 10 & 17 & 24.Ekim.2020",
+  "placesVisited": "Amerika, Bahamalar",
+  "generalInfo": "Dünyanın en büyük yolcu gemisi olan ve 1.3 milyar dolarlık yatırımla inşa edilen Oasis of The Seas ilk seferine 2009 Aralık ayında başladı. İçinde tiyatrosu, dev alışveriş merkezi, New Yorktaki Central Park benzeri bir park, 15'ten fazla lüks restoran, barlar, butikler ve 2 gece klübü var.<br><br>65 değişik ülkeden 2.165 personelin çalıştığı gemi unutulmayacak bir cruise tatili sunmak için sizi bekliyor.<br><br>Favori içkinizi yudumlarken aqua tiyatronun muhteşem su gösterilerini izleyebilirsiniz. Sınırsız eğlence, sınırsız dinlence, her duyguya hitap eden bir yolculuk düşünün. Bütün turistik aktiviteleri aynı anda yaşayacaksınız. Üstelik bavul açma kapama derdi olmadan birçok ülkeyi özgürce keşfedeceksiniz.<br><br>Dünyanın en büyük gemisi size okyanusun ortasında gemide sörf, zipline yapma ve golf gibi onlarca seçenek de sunuyor.",
+  "durationDays": "10",
+  "price": "FİYAT İSTEYİNİZ",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li>Türk Hava Yolları ile İstanbul Havalimanı – New York / New York - İstanbul Havalimanı arası ekonomi sınıfı uçak bileti</li>\n<li>Havalimanı ve Liman vergileri <strong>(4,200 TL)</strong></li>\n<li>Havalimanı-liman-havalimanı arasındaki tüm transferler</li>\n<li>New York’ta otelde 1 gece oda kahvaltı konaklama</li>\n<li>5 Yıldızlı Oasis of the Seas gemimizde 7 gece &amp;  8 gün tam pansiyon konaklama  </li>\n<li>Gemide düzenlenen animasyon ve aktiviteler  </li>\n<li>Türkçe Rehberlik Hizmetleri</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "New York (ABD)",
+      "description": "İstanbul Havalimanı buluşmasının ardından, TK01 sefer sayılı uçuşu ile New York’a hareket. Varışın ardından otele transfer."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Cape Liberty, New York (ABD)",
+      "description": "Cape Liberty, New York. Limana transfer ve gemiye biniş."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 4,
+      "title": "Port Canaveral, Florida (ABD)",
+      "description": "Varış Saati : 13:00"
+    },
+    {
+      "dayNumber": 5,
+      "title": "Perfect Day At Cococay (Bahamalar)",
+      "description": "Varış Saati : 09:00"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Nassau (Bahamalar)",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 7,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 9,
+      "title": "Cape Liberty, New York (ABD)",
+      "description": "Varış Saati : 06:00"
+    },
+    {
+      "dayNumber": 10,
+      "title": "İstanbul' a Varış",
+      "description": ""
+    }
+  ],
+  "map": ""
+}

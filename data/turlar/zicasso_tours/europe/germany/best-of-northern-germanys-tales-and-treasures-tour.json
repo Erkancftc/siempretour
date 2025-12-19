@@ -1,0 +1,75 @@
+{
+  "destination": "Germany",
+  "mainPhoto": "",
+  "id": "best-of-northern-germanys-tales-and-treasures-tour",
+  "tourName": "Best of Northern Germanyâs Tales and Treasures Tour",
+  "placesVisited": "Cologne, Hamburg, Bremen, Berlin, Leipzig, Dusseldorf, Dresden",
+  "generalInfo": "Immerse yourself in history and culture on a luxurious 10-day journey of the best of Northern Germany. By traveling to all the key old cities and iconic sites, you will discover diverse highlights and get your full dose of Northern Germany from west to east. Including Berlin, Saxony, Dusseldorf breweries, and musical Bremen, these ten days will douse you in the regionâs tales and treasures.",
+  "durationDays": "10",
+  "price": "4,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Dusseldorf - Old Town Brewery Tour",
+      "description": "At Frankfurt International Airport, you will be greeted by a driver and transferred to the cityâs main railway station. Your driver and guide will keep you entertained before the 90-minute high-speed train to Dusseldorf. It is quicker and more relaxing to travel by train than by road. In Dusseldorf, you will stay in the old town and can rest and relax before an evening tour of the old townâs microbreweries. This will prove to be a great introduction to the local culture and the friendly ways of Northern Germany."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Dusseldorf - The UNESCO Wonders of Cologne",
+      "description": "Dusseldorf is a lovely place to roam because it is decadently old-world and packed with cobblestone streets. It is also a base for exploring Cologne, where a UNESCO-listed Cathedral towers over the city. After exploring the cathedralâs treasures and chambers, you will have a guided afternoon tour in the old center. Delightful old houses and Kolsch inhabitants will be two of the highlights here. Trains back to Dusseldorf take about 30 minutes and run at regular intervals. Therefore, you can explore as much as you like before heading back to your hotel for another night of breweries and local food."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Hamburg - The Tale of Two German Cities",
+      "description": "A local historian will guide you around Dusseldorf this morning so that you can get the complete perspective of the cityâs maze of old lanes. There is Gothic art, poetry from the Middle Ages, and some bizarre stories. You will complete your tour with a cruise on the Rhine River before grabbing your luggage and taking a first-class train to Hamburg. A local guide will show you around this evening, and the contrasts with Dusseldorf will be remarkable."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Hamburg - Day Trip to the City of Musicians",
+      "description": "Todayâs private trip will lead you to Bremen, which is a UNESCO World Heritage city that is famous for its musicians. Today, you will really indulge in the beauty of exploring Northern Germany, particularly how cities that are so close can be so different in terms of culture, architecture, and history. After exploring the musical legends, you will return to Hamburg, where the history is older and far more convoluted. In Hamburg, you can see five eras that span 1,000 years on one street. Your guide will explain more on a night tour."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Berlin - Free Time in Berlin",
+      "description": "You will spend the morning at the port with a local guide. The vast warehouses and colorful waterside buildings create the most grandiose port on the planet. A specialist guide will narrate how the port shaped Europe for much of the medieval era before you take the first-class train to Berlin. Traveling by train is faster and far more comfortable than by car. The trains have power sockets, free Wi-Fi, and countryside views. Your evening in Berlin will be left free so that you can customize your first adventure in the German capital."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Berlin - Private Berlin History Tour",
+      "description": "The once-divided city of Berlin is now unified and packed with contradiction. The wall is still marked along the ground, and you will spend the straddling the border of East and West Berlin, learning about the cityâs past and present. Famous spots, such as Checkpoint Charlie, will illustrate tales, but there is much more when you venture off the beaten path into different neighborhoods. You will learn the secret history during a stop at a childrenâs playground that now stands above Hitlerâs war bunker. This will be a private tour, and it can continue into the evening if you wish to include the cityâs contemporary post-wall story."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Berlin - Uncovering the Wonder of Potsdam",
+      "description": "Berlin deserves three nights because there are so many neighborhoods and districts that you can explore. You will discover a very different history today with a day in Potsdam, which is the old royal seat of Prussia. Most of Potsdam is now an ode to history in the form of a series of spectacular palaces and quarters that reflect glamorous times and tastes. Your guide will lead you inside the famous palaces, such as Sanssouci Palace and Cecilienhof Palace, before allowing you to stroll through old Dutch and Russian colonies. Back in Berlin, you will have another evening to explore the city at your leisure."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Dresden - The Remains of the Saxony Capital",
+      "description": "From Berlin, it is about two hours by train to Dresden, which is the former Saxony capital. Dresden was decimated during World War II. It was once the finest Baroque city in the world, but unfortunately, not much of that remains today. Regardless, you can still witness the history in the old town. Here, your guide will lead you on a private tour. Dresdenâs beauty comes from the contrasts, and you will explore the contemporary new town before a quirky area of pop-up boutiques and East German flavor. Although lesser-known, Dresden is often the favorite destination of visitors to Germany."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Dresden - Immersed in East Germany",
+      "description": "Leipzig offers a similar East German vibe to Dresden with less history and a more dynamic modern vibe. The city can seem like an entirely different country when compared to Bremen and Dusseldorf. In Leipzig, you will take a historical tour of the center with a local guide. You will be led to the opera house and town hall. During your tour, you will also learn about Bachâs role in Leipzigâs past before listening to his opera ring out from two small churches. Then, you will take a look inside Semperoper, which is an iconic opera house that reopened 40 years after being destroyed in World War II. You will then have a short ride back to Dresden for your final night."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Berlin - Departure",
+      "description": "From Dresden, it is quickest to head back to Berlin for your outbound flight. If you want to extend your trip, it takes less than two hours to reach Prague, which is the Czech capital. You will be transferred to the airport, or onward, after your ten days of exploring the best of Northern Germany."
+    }
+  ],
+  "map": ""
+}

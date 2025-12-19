@@ -1,0 +1,100 @@
+{
+  "destination": "",
+  "mainPhoto": "",
+  "id": "ST02022",
+  "tourName": "Klasik Güney Avustralya Turu",
+  "placesVisited": "",
+  "generalInfo": "15 günlük Klasik Güney Avustralya sizi Avustralya'nın bir çok büyüleyici alanına götürür; Melbourne, Büyük Okyanus Yolu, Adelaide ve Kanguru Adası'na kadar seyahat edersiniz. Melbourne, Avustralya'nın en güzel şehirlerinden biridir.. Büyük Okyanus Yolu, bu görkemli sahil şeridinden geçen bir jeostriyendir ve Kangaroo Adası, deniz aslanlarından sadece birkaç metre uzakta, küçük Fauna Penguen köyüne ziyaret, kanguru görmek için doğa ile en şaşırtıcı karşılaşmalardan bazılarını sunmaktadır. doğal ortamlarında wallabees, koalas, nadir kuşlar vb. Doğayı seviyorsanız, bu turu seveceksiniz.",
+  "durationDays": "15",
+  "price": "FİYAT İSTEYİNİZ",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "<ul>\n<li>- Türkçe Rehberlik Hizmeti,</li>\n<li>- Uçak Biletleri</li>\n<li>- Otellerde konaklama</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Los Angeles veya San Francisco",
+      "description": "Sydney için LAX veya SFO'dan çıkın. Macera başlıyor! (Diğer kalkış şehirleri de mevcuttur)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "Çapraz Uluslararası Tarih Çizgisi",
+      "description": "Uçuş aslında iki gün sürmez, ama Uluslararası Tarih Hattı nedeniyle bir gün kaybedersiniz. Yolculuğun sonunda gününüzü geri kazanacaksın."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Sydney",
+      "description": "Sydney’e varışta otelinize transfer edileceksiniz. Uçuşunuzdan sonra ve maceralarınız başlamadan önce dinlenmeniz için biraz zamanınız olabilir. Daha sonra Sydney Opera Binası'na rehberli bir tur yapacaksınız."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Sydney",
+      "description": "Bu sabah, Matilda Cruise geminize bineceğiniz Circular Quay'e kendi yolunuzu çizin. Tüm ziyaretçiler için görülmesi gereken muhteşem Sydney Limanı'nı seyredin. Sudan Opera Binası ve Liman Köprüsü'nü görün. Tarihi Rocks bölgesinden rehberli yürüyüş turuna katılacağınız Circular Quay'a dönün. Rocks, Sydney ve Avustralya'nın temel yeri ve muazzam tarihsel önemni öğrenini."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Sydney",
+      "description": "Bugün güzel Mavi Dağlar turuna çıkacaksınız. Burada muhteşem ağaç dolu boğazları görebilirsiniz."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Adelaide",
+      "description": "Bugün Sydney'den Adelaide'e uçacaksın. Varışta otelinize transfer edilecektir. Bu öğleden sonra bir şehir turları turu olacak. Bu turda ayrıca büyüleyici Alman etkisi altındaki Handorf banliyösünü de gezebilirsiniz."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Adelaide",
+      "description": "Pitoresk Torrens Gorge üzerinden Barossa Vadisi'ne seyahat ederken, Avustralya'nın en iyi şarap ülkesini keşfedin. Fısıldayan Duvar'ı ziyaret edin ve öğle yemeğinin bistroda servis edildiği Chateau Yaldara'ya varmadan önce dünyanın en büyük sallanan atına tırmanın. Geniş bir yelpazedeki kurutulmuş meyvelerden alabileceğiniz Angas Park Fruits'deki Lyndoch, Tanunda ve Angaston Stop'un vadileri ve ilçelerini gezmeden önce diğer şarap imalathanelerini ziyaret edin. Adelaide ve otelinize dönmeden önce başka bir şaraphane ziyareti. Öğle yemeği dahildir."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Kanguru Adası",
+      "description": "Kangaroo Adası'na küçük bir uçakla sabah uçuşu yapacaksınız. Adaya vardığınızda bir vahşi yaşam turu için alınacaksınız. Sonra adada otelinize götürüleceksiniz. Akşam yemeğinden sonra gece turu için alınacak."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Kanguru Adası",
+      "description": "Boş gün size aittir. Dikkate değer kayaları ziyaret etmenizi öneririz. Kanguru Adası, gün için bir araba kiralamak için harika bir yerdir."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Melbourne",
+      "description": "Bugün Kangaroo Adası'nda rahatlayabilirsiniz. Adelaide’ye ve o akşam Melbourne’a akşam uçuşu yapacaksın."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Melbourne",
+      "description": "Bugün Melbourne'a uçuşunuz var. Bu gece rahatlayabilirsin. Melbourne şehri gezmek için harika bir yerdir ve şehir boyunca uzanan birçok tramvay bulunmaktadır. Ana şehir çevresini dolaşan ücretsiz tramvay bile var."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Melbourne",
+      "description": "Bu sabah yarım günlük bir şehir turu Melbourne turu olacak. Melbourne'da alışveriş yapmak için birçok harika yer var."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Melbourne",
+      "description": "Bugün ünlü Büyük Okyanus Yolu'nu göreceksiniz. Twelve Apostles, Arch Adası, Razorback ve engebeli sahil şeridini görebileceğiniz Büyük Okyanus Yolu boyunca bir koç turuna çıkacaksınız. Gecenin geç saatlerinde otele döneceksin."
+    },
+    {
+      "dayNumber": 14,
+      "title": "Melbourne",
+      "description": "Bu öğlen güneyde Phillip Adasına gidiyor. Koala Koruma Merkezi'ni ziyaret edin ve çeşitli kafe ve restoranların bulunduğu Cowes'te (kendi masrafları) akşam yemeğinin tadını çıkarın. Nobbies ve Seal Rocks Yaşam Merkezi'ni ziyaret edin ve hain Bass Boğazı'nı görün. Penguen Parade, Avustralya'nın en popüler doğal turistik mekanlarından biridir."
+    },
+    {
+      "dayNumber": 15,
+      "title": "Los Angeles veya San Francisco'ya dönüş",
+      "description": "Bir ömür boyu harika anılarınız ile Melbourne'u LAX veya SFO'ya bırakın!"
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,65 @@
+{
+  "destination": "İspanya",
+  "mainPhoto": "",
+  "id": "STG09046",
+  "tourName": "Allure of the seas ile Batı Akdeniz - 24.Mayıs.2020 (Ramazan Bayramı)",
+  "placesVisited": "İspanya, Fransa, İtalya",
+  "generalInfo": "Dünyanın en büyük yolcu gemilerinden biri olan Allure of The Seas’in içinde tiyatrosu, dev alışveriş merkezi, New York’taki Central Park benzeri bir park, 15'ten fazla lüks restoran, barlar, butikler ve 2 gece klübü var. 9 Güverte yüksekliğini, 25 Metrelik Zip Line deneyimini, su kaydırakları ile havuz keyfini doruklarda yaşayacaksınız.",
+  "durationDays": "8",
+  "price": "1196",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li><strong>* </strong>Türk Hava Yolları ile İstanbul – Barcelona arası ekonomi sınıfı uçak bileti</li>\n<li><strong>* </strong>Havalimanı ve liman vergileri <strong>490 €</strong> (Dahildir)</li>\n<li><strong>*</strong> Havalimanı-liman-havalimanı arasındaki tüm  transferler</li>\n<li><strong>*</strong> 5 Yıldızlı Allure of the Seas gemimizde tam pansiyon (tüm yiyecekler dahil-Specialty Restaurant giriş ücretleri hariç ) konaklama</li>\n<li><strong>* </strong>Gemide düzenlenen animasyon ve aktiviteler</li>\n<li><strong>*</strong> Türkçe Rehberlik Hizmetleri <strong>(Grup kişi sayısı 20’yi aştığı takdirde)</strong></li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Barselona (İspanya)",
+      "description": "İstanbul- Barselona, İspanya arası Türk Hava Yolları  tarifeli seferi ile uçuş. Varışı takiben gemimize transfer."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Palma de Mallorca (Balear Adaları)",
+      "description": "Varış Saati : 08:00"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Marsilya ( Provence ), Fransa",
+      "description": "Varış Saati : 09:00"
+    },
+    {
+      "dayNumber": 4,
+      "title": "La Spezia (İtalya)",
+      "description": "Varış Saati : 08:30"
+    },
+    {
+      "dayNumber": 5,
+      "title": "Roma ( Civitavecchia ), İtalya",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Napoli ( Capri ), İtalya",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 7,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 8,
+      "title": "Barselona (İspanya)",
+      "description": "Varış Saati : 05:00"
+    }
+  ],
+  "map": ""
+}

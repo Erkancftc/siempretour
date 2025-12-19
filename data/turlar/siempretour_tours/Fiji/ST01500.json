@@ -1,0 +1,95 @@
+{
+  "destination": "Fiji",
+  "mainPhoto": "",
+  "id": "ST01500",
+  "tourName": "2 Haftada Fiji Finalinde Tatil Turu",
+  "placesVisited": "Fiji",
+  "generalInfo": "Kıyıyı yalayan dalgaların, hışırdayan yaprakların ve tropikal kuş cıvıltılarının arasından süzülen, Fiji’ye özgü geleneksel harmonilere kulak verin. Kudretli dağları kaplayan yağmur ormanlarının kuytuları, eşsiz bitkileri ve bölgesel hayvan türlerini gizler. Mercanlar kalker yapılarının arasında parıltılı çiçekler gibi tomurcuklanır. Sömürge kasabaları ve kaplumbağaların yuvalandığı toprakları, nadir vahşi yaşamı ve capcanlı sanat kasabalarını keşfedin. 2 Haftada Fiji Finalinde Tatil Turunuz, sizi tarihi ada müzelerinden ve yerel köylerin bağrından kopup gelen şarkılara konu olmuş yadigar ormanlardan geçirerek, kültür ve manzara harmanı sunar.<br><br><strong>ÖNE ÇIKANLAR</strong>",
+  "durationDays": "14",
+  "price": "FİYAT İSTEYİNİZ",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li>- Türkçe Rehberlik Hizmeti,</li>\n<li>- Uçak Biletleri</li>\n<li>- Otellerde konaklama</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Efsanevi Fiji",
+      "description": "Fiji el değmemiş plajların ve azur mavisi suların görüntülerini gözler önüne serer; tropikal yağmur ormanları büyüleyici dağları sarmalar ve yerlilerin yüzünde parlak, sımsıcak gülümsemeler eksik olmaz. Uçağınız özel aracınızın sizi beklediği Nadi Uluslararası Havaalanına iniş yapar. Aracınız size Nadi Kasabası yakınlarında, denize sıfır tesisinize kadar eşlik eder. Nadi, taze ürünler ve balık tedarik eden, sabahın erken saatlerinde bile etkin, yerel dükkanlarla dolup taşar. Oyma heykeller ve el yapımı mücevherler, köpekbalığı dişinden kolyeler ve parlatılmış incilerle donatılmış, artistik dükkanlar, sokaklar boyunca sıralanır."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Dev’in Uykuya Daldığı Yer",
+      "description": "Fiji’deki ilk sabahınız tropikal bir cennet hayalini hayata geçirir. Taptaze meyvelerin aroması kahvaltı masasından buram buram yayılır. Bütün ananaslar soyulur ve daire şeklinde doğranır. Tatlı nektarla dolu olgun papayaların içi tupturuncu parlar. Bir fincan taze çekilmiş kahve, bulutsuz masmavi gökyüzünün yanı sıra daha da lezzetlenir. Bugün, Perry Mason’da oynadığı başrolle öne çıkan bir orkide meraklısı Raymond Burr tarafından 1970’lerde kurulan Uyuyan Dev’in bahçesine gidin. Tropikal yeşillikler girişi çevreler ve yükseltilmiş geçitleri çizer. Nilüfer yaprakları, çiçeklerin açtığı küçük göleti kaplar."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Mercan Kıyılarından Manzara",
+      "description": "Cennetin sesiyle gözlerinizi açın. Sahil kuşları gün doğumunda adeta şakıyarak cıvıldar. Kıyıyı yalayan küçük dalgaların sesini duyun. Gekolar cırlar ve çayırda koşuşurlar. Tatlı ve şaşaalı lezzetler kahvaltıyı doldurur. Pul pul çörekler sizi Britanya sömürge günlerine geri döndürür. Adanın doğal tatlarına bir yenisini ekleyen ferahlatan ve ağız sulandıran Cassava kavunu yemeğinizin yanında oldukça iyi gider. Kahvaltıdan sonra, adanın en geniş kasabaları Nadi ve Suva arasındaki kıyı uzantısı olan, Mercan Kıyısı’na doğru yola düşün."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Nadide Bir Görüntü",
+      "description": "Mercan Kıyısı, Güney Pasifik Kültür Merkezi’nden Sigatoka Kum Tepeleri’nin dalgalı manzarasına kadar, Viti Levu’nun tarih ve kültürüne gösterişli bir bakış sunar. Kahvaltıdan sonra, Fiji’nin yemyeşil çevresine ve çok sayıda doğal vahşi yaşamına tanık olmak üzere ünlü Kula Eko Park’a doğru yola çıkın. 1990’larda kurulan doğal hayatı koruma alanı, takımadaların harikalığını izleyebileceğiniz yürüme yolları ağı içerir. Park sıcaktır ama ormanın bitki tabakası altında gölgeliktir. Yakalı Kırmızı Papağanlar olarak bilinen Kula kuşları, ağaçların arasında şakır."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Gençleştiren Nehir",
+      "description": "Mercan Kıyısı, yağmur ormanların arkasında saklanarak uzaklıkta yitip gider. Navua Nehri’nin gürüldeyen akıntısı kıyıya vuran dalgala seslerinin yerini alır. Eğer III. Sınıf akıntıdan aşağı doğru adrenalin dolu bir sürüş isterseniz, o zaman şişme salın üzerine atlayın ve rehberinizin izinden gidin. Aksi halde, nehir kenarında sizin için bir bilibili beklemektedir. Bu geleneksel sal, özgün bambu şeritlerinin birbirine bağlanmasıyla yapılmıştır. Rehberiniz ayrıca bu salı inşa eden kişidir."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Fiji’nin Kalbi",
+      "description": "Fiji’nin başkenti, Hint-Fiji cemaatini, Okyanusya’nın dört bir yanından gelen hareketli göçmen topluluğunu kapsayan ve Auckland, Yeni Zelanda dışındaki en büyük şehir unvanına muhasır, kültürel bir kalptir. Yarımada etrafı yükselen ve alçalan tepelerle doludur. Market ve iskele günün her saatinde, taze mahsul ve yeni hasat edilmiş dolgun ürünler bulmayı arzulayan insanlarla dolup taşar. Çocukların, cassava dolu el arabalarını dar sokaklarından ittiği Belediye Pazarı, şehrin özünü içerir."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Kolonyal Cazibe",
+      "description": "Kahvaltıdan sonra, rehberiniz sizinle otelde buluşur ve bir günlüğüne sizi Suva’nın dalgalı yamaçlarından uzaklaştırır. Levuka, 1800’lerde Avrupalı yerleşimciler tarafından kurulmuş, 1870’lerde de ada ülkesinin asıl başkenti olmuştur. Şehrin sokaklarından cazibe ve tarih fışkırır. Kolonyal binalar Ana Cadde boyunca sıralanır; ahşap levhalar mağazaların önünü süsler. Azur mavisi sular yemyeşil dağ manzarasına karşı ışıl ışıl parlar. Şehir, Avrupa kökenli Fijililerin yanı sıra, yerli Fijililere, Hint ve Çin Fijililerine kadar geniş yelpazede bir kültüre sahiptir."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Bereketli Bahçeler",
+      "description": "Fiji’nin cazibeli tropikal cenneti, takımadaların üçüncü büyük adası olan Taveuni adasına açılır. Sabah, hızlı bir uçuşla Bahçe Adası’na varın. Araziyi kaplayan yeşil palmiyelerin etrafı rengarenk kır çiçekleri ile doludur. Varlığı tarih öncesine kadar dayanan yağmur ormanı, neşeli kuşların yaşantısına ev sahipliği yapar. Tırtıllı kıyı şeridi, deniz seviyesinden 1.20 kilometre yukarıda, Fiji’nin en büyük ikinci tepe noktası olan Des Voeux Zirvesi’nin eteklerinde yer almaktadır. Hava ılık, gölgeler mütemadiyen konforlu, su ise ılıman ve kristal berraklığındadır."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Su Altı Gökkuşakları",
+      "description": "Gün, etrafınızı saran büyüleyici manzaranın tadını çıkartmanız için size ayrılmıştır. İster ender Tagimaucia çiçeğini görmek üzere Tagimaucia Gölü’ne doğru doğa yürüyüşüne çıkın, ister Gökkuşağı Resiflerini görmek üzere suya dalın, iki seçenek de size benzersiz güzellikler vaat eder. Sizinle beldede buluşan rehberinizi size marinaya kadar eşlik eder. Okyanusun tazeliğini taşıyan meltem, hafif rüzgara dönüşür. Etrafınızdaki su elmas gibi saf ve kusursuzdur. Siz dalış giysinizi giyip tüplerinizi kuşanmadan önce rehberiniz tüm teçhizatınızı kontrol eder. Suyun içinde, Somosomo Boğazı’nın heyecan verici Gökkuşağı Resifleri boyunca rehberinizi takip edin."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Aksiyonun Kaynağına Gidin",
+      "description": "Uluslararası Dateline Taveuni adasını ikiye bölerek, adayı gündoğumu ve günbatımını görebileceğiniz eşsiz bir yer haline getirir. En büyük ikinci Fiji adası olan Vanua Levu'ya kısa bir uçuştan önce Dateline üzerinde, gün doğumunu dünyada ilk siz izleyin. Özel aracınız, koyun içerisine yuvalanmış kusursuz manzaralı Savusavu kasabasına kadar size eşlik eder. Eteklerinde tepecikler bulunan dağlar su kenarlarından yükselir. Plaj pudra beyazı kumlara sahiptir. Ebegümeçlerin kokusu, çiçek açan yapraklar gibi sokakları sarar. Uluslararası yatlar ve yerel balıkçı tekneleri limanda yan yana demir atar."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Eşsiz Etkileşimler",
+      "description": "Vanua Levu Adası’nı gönlünüzce keşfetmeniz için gün sizin. Anayol, çiftçilerle dolu kasabaların, ekilmiş şeker kamışlarının etrafında kıvrılır ve kurutulmuş hindistancevizleri adanın geneline tatlı bir koku salar. Naag Mandier Tapınağı’daki Kutsal Kobra Kayası olarak bilinen üç buçuk metrelik iri kaya, devasa bir yılanı anımsatır. İncik boncuklar ve çiçek çelenkleri kayanın yüzünde asılıyken, meyveler ve hindistancevizi kremleri sunağın tabanında yer alır. Halk hikayeleri, bu kayanın, tapınağın 1950’lerdeki kuruluşundan beri sürekli büyüdüğünü ve hastalıkları iyileştirdiğini rivayet eder. Sık hindistancevizi ağaçlarının arasından geviş getiren inekleri görebilirsiniz. İneklerin gerisinde ise altın kumları ve kobalt mavisi sularıyla Korovatu Plajı yer alır. Tapınak ve plajın arasında kalan yemyeşil yapraklı ağaçları ve buram buram yayılan hindistan cevizi kokusuyla, palmiye ormanı da en az kıyı şeridi kadar büyüleyicidir."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Denize Nazır Bir Kaçamak",
+      "description": "Sabahleyin, Viti Levu’ya geri dönün ve Fiji’ye bağlı Mamanuca Takımadaları’nın bir parçası olan Malolo Adası’na gitmek üzere yüksek hızlı katamarana binin. Batıda kalan ada grupları tartışmasız kartpostallara yakışır bir güzellik sergiler. Rüzgar saçlarınızı dalgalandırır ve okyanustan sıçrayan su damlaları teninizle buluşur. Doğal akıntı, besin maddelerini sualtı yaşamının gösterişli görüntüsünü besleyen çevre resiflere taşır. Malolo, Uluisolo’nun tepesinde, deniz seviyesinden 219 metreye ulaşan zirvesiyle Mamanuca Adalar’nın en genişidir. Kıyıya ulaştığınızda özel aracınız sizi rıhtımda bekliyordur."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Harika Cömertlik",
+      "description": "Yüzünüzde enerjik bir gülümsemeyle uyanınca, tanıştığınız yerlilerin sonsuz mutluluğunu artık anlayabilirsiniz. Bu cennette yüzünüzde bir gülümsemeden daha azını görmek oldukça güçtür. Tabandaki cam panellere bir göz atın ve balıkların hala okyanusta kıvrak hareketlerle yüzdüğünü görün. Bu heyecan asla yitip gitmez. Kahvaltıdan sonra, Mamanuca’yı çevreleyen adaların ve Malolo’nun tadını doyasıya çıkartmanız için gün sizin. Beldenin etrafındaki kuru ormanda mercan ağaçları yetişir ve Çin fener ağaçlarının camdan güllere benzeyen çiçekleri tomurcuk tomurcuk sallanır. Şnorkel ve paletlerinizi kapın ve Likuliku Lagününe adım atmaya hazır olun."
+    },
+    {
+      "dayNumber": 14,
+      "title": "Kendinizden Geçin",
+      "description": "Bir kez daha usul usul dalgalanan suyun sesine uyanın fakat bu defa su, odanızı suyun üzerinde destekleyen sütunlara vurur. Uluisolo Zirvesi’nin küçük gölgesi kuru ormanın üzerine düşer. Kahvaltıdan sonra rıhtıma dönün, yüksek hızlı katamaranın güvertesinde yerinizi alın ve Nadi Uluslararası Havaalanına doğru yelken açın. Zamanınız, Fiji Takımadaları’nı keşfederken, doğanın harikalığına ve adanın büyüleyici kültürel evriminin tarihine tanık olurken, su gibi akıp geçti. İnsanlar sıcakkanlı, yemekler lezzetliydi ve dahası manzaranın zenginleşmiş mucizelerini keşfettiniz."
+    }
+  ],
+  "map": ""
+}

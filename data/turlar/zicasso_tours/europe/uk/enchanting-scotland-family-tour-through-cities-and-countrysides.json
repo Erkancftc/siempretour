@@ -1,0 +1,70 @@
+{
+  "destination": "Scotland",
+  "mainPhoto": "",
+  "id": "enchanting-scotland-family-tour-through-cities-and-countrysides",
+  "tourName": "Enchanting Scotland Family Tour through Cities and Countrysides",
+  "placesVisited": "Edinburgh, Pitlochry, Aviemore, Fort William, Glencoe, Stirling, Loch Ness",
+  "generalInfo": "Embrace ancient legends and explore beyond the imagination on this 9-day family Scotland tour. From the Hogwarts Express to monster hunting on Loch Ness, explore the countryâs iconic destinations and highlights. Scotland rewards slow travel, and over nine days, you can enjoy something special for all ages, including mountain biking with reindeer, the Isle of Skye, and Edinburghâs history.",
+  "durationDays": "9",
+  "price": "4,400",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Edinburgh - Traditional Scottish Music Show",
+      "description": "After landing in Edinburgh, you will be met by a local guide and transferred to the city center. Your hotel is within walking distance of the Royal Mile, meaning there is plenty of history and restaurants near your doorstep. After some time to rest, your guide will lead you on a short orientation tour that will culminate in dinner and dancing at a large theater. This Scottish music show will be a great introduction to local traditions and for spending the evening together."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Edinburgh - The Old City and Royal Mile",
+      "description": "Edinburghâs history is alive. You can sense it when wandering around the castle and feel it everywhere along the Royal Mile. From soldiers in strange costumes to turrets and traditions, todayâs private tour will showcase how Edinburgh has brought history into the modern-day. The Scottish capital is an appealing place for young kids who are not too interested in history. There is a real inspiration that can be found here, and you can discover how everything seems so old."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Aviemore - Scottish Whisky and Biking With Reindeer",
+      "description": "Edinburgh to Aviemore takes less than three hours of driving, and you will have a private guide. First, you will stop in Pitlochry, which is the home of Scottish whisky. Here, a tasting can incorporate single malts and soft drinks. After checking in to your hotel, you can spend the afternoon in a royal park that is home to reindeer herds. You can mountain bike with a herd and venture into magnificent Scottish scenery. Legends live on here, and your biking tour will include some strange traditions. It is safe to try your hand at ax throwing, among other historical hunting methods."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Loch Ness - A Day of Monster Hunting",
+      "description": "It is the most famous legend of all and the tale that gets most children excited. You will not find the Loch Ness Monster, but the search is always fun, especially when you are on a private boat, and the tour is led by an expert family guide. You will discover how the legend started, look for evidence of Nessieâs presence, and feel immersed in the lakeâs mystique. This will be a relaxing day, and most of the afternoon will be left free so that you can take a stroll around the lake or relax at your lodge."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Loch Ness - Kayaking on the Lake",
+      "description": "You can try to sneak up on the Loch Ness Monster during a morning kayaking excursion, which is another family tour that will provide you with a clear connection to Scottish nature. Again, you will not really see a monster, but the scenery is staggering, and there is a real freshness to the Scottish Highlands. Clean air and misty skies make for an escape from the world and your everyday life. Later today, you will explore the Highland Folk Museum, which will be another opportunity to practice strange traditions and learn about life that helped create all of these local legends."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Fort William - Riding the Hogwarts Express",
+      "description": "The locomotive still rumbles through the Highlands, and you will ride like Harry Potter this morning as you take the Hogwarts Express across the Highlands. You will disembark and soon be on a ferry to the Isle of Skye, where a wild coastline and rugged interior make for a day in nature. Here, you will find time and space to be together as a family on an island that evokes the raw power of Scottish nature. Rather than sleeping on the small island, it is better to continue to Fort William, which is a quiet town with a variety of restaurants and charming streets."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Fort William - Waterfalls, Mazes, and Mountain Biking",
+      "description": "Todayâs tour will be flexible, and your guide will discuss different possibilities. You can hike or bike to a series of waterfalls. A stone-cut maze dominates an old royal hunting ground. You can get lost here, and your guide will use each of the 81 stones to narrate Scotlandâs regional histories. Also in the area, you will find castle ruins, old war tales, and the iconic Neptuneâs Staircase. You will also be within easy reach of Ben Nevis and Scotlandâs highest mountains. Therefore, today will be up to you, and your guide will arrange it accordingly."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Stirling - Mystical Mountain Scenery",
+      "description": "By traveling south, you will cut across Scotlandâs most pristine scenery. Small lakes hide in narrow valleys, and Scottish heather ignites rolling fields with purple tones. This will be a beautiful guided drive, and you will have the opportunity to stop for walking and biking excursions en route. With an afternoon in Stirling, you can recreate history in the famous castle before a private tapestry workshop. Although it does not sound as exciting as ax throwing or the Hogwarts Express, this hands-on activity is usually loved by children of all ages."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Stirling - Departure",
+      "description": "After a relaxing morning in Stirling, you can enjoy a hearty Scottish lunch before checking out late. Later in the afternoon, you will transfer back to Edinburgh and the airport for your flight home."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,65 @@
+{
+  "destination": "Iceland",
+  "mainPhoto": "",
+  "id": "untamed-iceland-signature-tour-in-8-days",
+  "tourName": "Untamed Iceland: Signature Tour in 8 Days",
+  "placesVisited": "Reykjavik, Snaefellsnes Peninsula, Vatnsnes Peninsula, Skrapatungurett, Skagafjordur, Kerlingafjoll, Kerlingarfjoll",
+  "generalInfo": "Untamed nature, natural splendor, and preserved culture give you an immersive exploration during your 8-day Iceland tour. Whether traveling with your family or looking for a romantic dreamscape, you can embrace the waterfalls and indulge in steaming thermal pools, spot breaching whales, or travel through lava fields. From the wildlife to the Northern Lights, epic cliffs to dramatic coastlines draped in seals, Icelandâs untouched grandeur will take your breath away.",
+  "durationDays": "8",
+  "price": "5,300",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Reykjavik - Arrive and Relax in the Blue Lagoon",
+      "description": "Reykjavik is colorful and dynamic, with a soulful ambiance stemming from the surrounding nature and vibrant culture. Your transfer will meet you upon your arrival at Keflavik International Airport. Instead of heading directly to your accommodation, you can experience comfort with a relaxing introduction to Iceland through the famous Blue Lagoon. Slip into the natural geothermal pools known for the iridescent blue water reaching 102 degrees Fahrenheit year-round. The warm water will help relax your muscles after the flight before you settle into your accommodations and the charms of Reykjavik."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Reykjavik - Wander Thingvellir and Snaefellsnes",
+      "description": "Your guide will meet you early for a full day spent venturing into the untamed wonders of Iceland, beginning at the Rift Valley in Thingvellir National Park. You can see the effect of the tectonic Northern American and Eurasian plates pulling apart. It is also where the first Viking settlers assembled and established Icelandâs first Parliament in the 10th century AD. En route to Snaefellsnes Peninsula, you will cross through the Kaldidalur Highlands. Along with spectacular waterfalls, you can explore the Hallmundarhraun lava field. The cooled magma created ripples and crevasses across the landscape, hiding giant caves."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Snaefellsnes Peninsula - Discover the Beauty of Land and Sea",
+      "description": "You will set out into the natural wonders of the Snaefellsnes Peninsula with your guide in search of wildlife and grandeur lining the stunning coastline. You can circle the famous Snaefellsjokull volcano and possibly see the sunlight glinting against the crowning glacier. You will uncover secret spots to discover the beauty of the untamed landscape as you witness the isolated Arnastrapi coastline and black stone pebble beach at Djupalonssandur. Peculiar rock formations accentuate the unique attributes of the coastline. For an added thrill, you can also enjoy a whale-watching expedition to spot orcas or sperm whales breaching the water."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Vatnsnes - Experience Sheep Gathering and Seals",
+      "description": "The annual sheep gathering in Iceland represents an essential part of the culture and unique experience most visitors donât have. You can travel around the peninsula in the morning before reaching a farm on the Vatnsnes Peninsula. You may have the chance to watch the farmers gather the sheep along the mountains and herd them to the stone pebble beach. The ritual dates back to the original settlement and offers a glimpse of heritage shaped by the surrounding scenery. After dinner, you will have the chance to scour the sky in search of the Northern Lights."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Vatnsnes - View the Waters and the Horse Gathering",
+      "description": "You can enjoy a relaxing morning at the coastline spotting the seals lounging on the pebbled shores. You may hear the story of the troll who turns to stone when exposed to sunlight before you venture to Skrapatungurett for the Horse Gathering. The remarkable tradition remains a spectacle as farmers wrangle their horses from the wilderness to protect them from the coming winter frost. You may feel the horsesâ power as they rumble across the landscape to reach the ring to be sorted. After dinner, you have another chance to search for the dancing colors of the Northern Lights."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Kerlingafjoll - Explore on a Hiking Expedition",
+      "description": "After breakfast, you will enjoy the beauty of raw nature once more as you travel the ring road in search of secret panoramic views across the landscape. Your guide may introduce you to the hidden wonders of black sand deserts and lava fields caused by eruptions from different volcanoes. The sunlight may shine against hanging glaciers as you travel in search of isolated geothermal paths around Hveradular. A short walk will lead you to the natural hot spring hidden between the canyon walls. You can relax and enjoy the warm embrace of the water before continuing to your accommodations."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Reykjavik - Revel in Beauty en route to Reykjavik",
+      "description": "The mountain scenery will provide you with a serene view and peaceful ambiance in the morning. After breakfast, you will travel back to Reykjavik with stops at some of Icelandâs more famous landmarks along the way, including Gullfoss Waterfall. The magnificent cascade thunders as the water crashes down nearly 105 feet. The powerful Geysir erupts nearby, shooting water about 100 feet into the air. At Kerid crater, you can find a surprising lake glistening beneath the sunken walls while at Fludir village, your guide may introduce you to the Secret Lagoon, a natural hot spring with an authentic Icelandic ambiance."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Reykjavik - Depart for Home",
+      "description": "Reykjavik is a unique city with a welcoming ambiance and celebrated as the worldâs most northerly capital. Before your private transfer meets you at the hotel, you can enjoy some time exploring the city at your own pace. The Hallgrimskirkja Church towers over the city and hosts a distinctive 25-ton pipe organ while the Settlement Exhibition Museum offers a fantastic perspective of Viking settlement in Iceland with preserved archeological artifacts. When you are ready, your private transfer will meet you in the lobby and escort you to the airport for your flight home."
+    }
+  ],
+  "map": ""
+}

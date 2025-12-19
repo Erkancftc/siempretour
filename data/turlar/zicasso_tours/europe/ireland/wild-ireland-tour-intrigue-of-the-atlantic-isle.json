@@ -1,0 +1,70 @@
+{
+  "destination": "Ireland",
+  "mainPhoto": "",
+  "id": "wild-ireland-tour-intrigue-of-the-atlantic-isle",
+  "tourName": "Wild Ireland Tour: Intrigue of the Atlantic Isle",
+  "placesVisited": "Galway, Connemara and County Mayo, Aran Islands, Donegal, Newgrange",
+  "generalInfo": "Discover the windswept and rugged Western coast of Ireland on this 9-day self-guided tour. Stretching from Kinsale in the south and snaking around the west coast to Londonderry in the north, the Wild Atlantic Way offers endless sights, activities, and encounters. You will not have to look hard to find incredible vistas, friendly locals, and tasty bites between Shannon and Donegal when following the advice of our experts.",
+  "durationDays": "9",
+  "price": "5,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Connemara â Arrive in Ireland",
+      "description": "When searching for spectacular coastal scenery, you cannot do much better than Irelandâs Wild Atlantic Way. You will fly into Shannon Airport in County Clare, collect your rental car, and head to Connemara in County Galway. The Cliffs of Moher are on your route and should not be missed. The scale of the cliffs is impressive, and the views of the Aran Islands and the mountains of Connemara are inspirational. This city of Galway is also worth a stop. Here, you can tuck into some of the city's history and vibrant music scene."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Connemara â Irelandâs Savage Beauty",
+      "description": "Oscar Wilde described the Connemara district as having a âsavage beauty,\" which has been captured in the paintings of Paul Henry. There is much to explore in this region, so you can take your pick today. If the mountains beckon, you will find tranquility in the Twelve Bens. For something unique to the Irish landscape, you can try Derrigimlagh Bog or Roundstone Bog. For a taste of history and romance, you should seek out Kylemore Abbey."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Cong â Time Travel to the Aran Islands",
+      "description": "The Aran Islands are a place almost out of time. The spirit of Gaelic Ireland is embodied here in the heritage, culture, and language. You can reach the largest island of Inishmore by ferry or by air. Whether you decide to explore by private car, bike, or on foot, you can seek out the great stone fortress of Dun Aonghus to feel like you are in the time of the Celts and early Christians. Eventually, you will have to return to the mainland and the village of Cong in County Mayo."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Donegal â The Surf Coast",
+      "description": "By driving out of County Mayo, you will reach County Sligo and the resting place of William Butler Yeats, who took inspiration from the lake and woodland scenery of this part of Ireland. You can visit his grave at Drumcliffe Cemetary before surfing at Strandhill and continuing to County Donegal. The wild coastline here is punctuated by gold-sand beaches, and the landscape is spectacular."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Donegal â Irish Life in the North",
+      "description": "Today, you will explore County Donegal at your leisure. You can seek out local crafts and Irish tweed in Donegal town. You can get a peek into traditional Irish life and language in the village of Glencolumbkille in addition to taking in the dizzying heights of Slieve League, whose cliffs are five times higher than the Cliffs of Moher."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Donegal â Gardens and Glens",
+      "description": "Today, you can visit Glenveagh National Park for the peace of sculpted Glenveagh Gardens, which appears as an oasis in this otherwise rugged and wild landscape. You should seek out the answers to the mysteries that surround the Poisoned Glen in addition to appreciating the sweeping valleys and sparkling lakes under the gaze of Mount Errigal."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Donegal â Ireland through Food",
+      "description": "Today, you can let someone else do the driving as you indulge in a food tour to find the best local producers and chefs in the region. You can bask in the views from Letterkenny to Carrigart on the seaside and savor the local flavors before washing them down with local beer and gin."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Dublin â Modern Day to the Stone Age",
+      "description": "Today, you will depart from the Wild Atlantic Way and drive to Dublin. The drive is not too long and passes through the Boyne Valley, so you will have time to visit the UNESCO World Heritage archaeological site of Newgrange. You can first stop at the BrÃº na BÃ³inne interpretive center to understand the significance of Irelandâs best-known prehistoric monument. The Stone Age passage tomb of Newgrange predates both Stonehenge and the Great Pyramids of Egypt."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Dublin â Depart to Home",
+      "description": "On this journey, you will have seen some of the most spectacular sites along the Wild Atlantic Way. It is time to return your rental car to the Dublin Airport and say farewell to the Emerald Isles."
+    }
+  ],
+  "map": ""
+}

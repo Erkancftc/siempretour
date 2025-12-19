@@ -1,0 +1,65 @@
+{
+  "destination": "Ürdün",
+  "mainPhoto": "",
+  "id": "MEJJ",
+  "tourName": "Ürdün Yolculuğu",
+  "placesVisited": "Ürdün",
+  "generalInfo": "Şaşırtıcı manzaralarından kutsal yerlere kadar, bu küçük Arap ülkesinin dünyanın dört bir yanından gelen gezginlere sunacak birçok güzellikleri vardır. Ortadoğu'nun bu değerli mücevherine yapacağınız 8 günlük macera, sizi modern şehirler, çöl manzaraları ve UNESCO Dünya Mirası Alanlarına götürüyor.",
+  "durationDays": "8",
+  "price": "679",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Konaklama: </strong></p>\n<ul>\n<li>- Otelde 6 gece, 1 gece kamp</li>\n</ul>\n<p><strong>Yemek:</strong></p>\n<ul>\n<li>- 7 Kahvaltı, 2 Akşam Yemeği</li>\n</ul>\n<p><strong>Geziler:</strong></p>\n<ul>\n<li>- Jerash ve Umm Qais'e günlük gezi,</li>\n<li>- Madaba pazar kentini ziyaret,</li>\n<li>- Nebo ve Umm ar Rases ,</li>\n<li>- Petra rehberli tur,</li>\n<li>- Wadi Rum'da bir gece çöl deneyimi,</li>\n<li>- Karak ve Wadi Mujib kanyonunu ziyaret,</li>\n<li>- Ölü Denizde Tam Gün</li>\n</ul>\n<p><strong>Ulaşım:</strong></p>\n<ul>\n<li>- Özel Araç</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Amman'a Varış",
+      "description": "Göz kamaştırıcı Ürdün'ün başkenti Amman'a hoş geldiniz. Bu modern şehrin tarihi İ.Ö. 13. yüzyıla dayanır. Eski ve yeninin büyüleyici birleşimine hayran olacaksınız.Kaleye gitmeden önce Jebel Al Weibdeh bölgesinde öğleden sonra ve akşam gezebilir müzeleri, camileri ve galerileri keşfedebilirsiniz. Kale, Amman'ın en yüksek tepesinde yer alır ve Herkül'ün büyük tapınağından ve Ümmayad Sarayı'ndan oluşur."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Jerash ve Umm Qais",
+      "description": "Bu sabah özel araçla Jerash antik kentine gitmeden önce tur liderinizle kahvaltıda buluşacaksınız. Bu kalıntılar, Ürdün’ün en iyi Yunan-Roma mimarisi örneklerini sunar ve çok iyi korunurlar, genellikle “Ortadoğu Pompeii” olarak bilinir. Arnavut kaldırımlı sokaklarında dolaşıp görkemli anıtlarına, tapınaklarına ve tiyatrolarına hayran kalarak eski halkın yaşamını kolaylıkla tahmin edebileceksiniz. Hadrian's Arch'a hayran kalacaksınız ve Roma egemenliği boyunca binlerce izleyiciye araba yarışları düzenleyen ünlü Hipodrom'u keşfedeceksiniz. Sabah turdan sonra, kuzeybatıya Umm Qais şehrine gideceğiz. Bir zamanlar Gadara şehri olarak bilinen Umm Qais, Galilee Denizi’nin panoramik manzarasını ve tarihin bir parçası gibi hissetmenizi sağlayacak antik kalıntıları sunmaktadır. Günün ilerleyen saatlerinde, grubunuzla günün etkinliklerini hatırlayacağınız bir akşam yemeği için modern Amman'a geri dönüyoruz."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Mabada, Nebo Dağı, Umm Ar Rases",
+      "description": "Bu sabah, 'Mozaikler Şehri' olarak da bilinen Madaba pazar şehrine gidiyoruz, en önemlisi şehir, 6. yüzyılda Kudüs ve Kutsal Topraklar Mozaik haritasına ev sahipliği yapıyor. Kilisenin tabanının bir parçasını oluşturan bu ünlü, renkli mozaiği görmek için zamanınız olacak, 19. yüzyıl Bizans Yunan Ortodoks St. George Kilisesi'nde mola veriyoruz."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Petra",
+      "description": "Rehberli şehir turunda bu sabah Petra'yı göreceğiz. Ürdün halkı için değerli olan bu arkeolojik hazineyi göreceksiniz, öyle ki ülkenin ulusal bir sembolü olarak kabul edilir. Dünyanın Yedi Yeni Harikası'ndan biri olan bu gizli mücevher, mezarlardan, tapınaklardan ve şehrin içinde oyulmuş, göze çarpan kırmızı gül kumtaşı kaya'dan oluşur.Öğleden sonra serbest zaman,keşfetmeye devam etme şansına sahip olacaksınız.."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Wadi Rum",
+      "description": "Maceramız, Wadi Rum'un vahşi çöl doğasına doğru devam ediyor. Kızıl kumlu çölün ve çevresindeki kaya oluşumlarının doğal güzelliğini göreceksiniz. Bu gece yıldızlara bakmak için mükemmel bir seçenek olan geleneksel Bedevi çadırlarında kalacaksınız, yataklar, özel banyo ve bir oturma alanınız olacak."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Ölü Deniz",
+      "description": "Bugün Karak kentine doğru ilerliyoruz, burada yerel şehrin kalbine yerleştirilmiş bir tepenin üstünde antik bir müstahkem kale bulacaksınız. Haçlılar tarafından 12. yüzyılda inşa edilen, kalenin stratejik konumu, açık bir günde Ölü Deniz'e kadar manzaraya izin verir."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Ölü Deniz",
+      "description": "Ölü Deniz tuzları ve minerallerinden oluşan masmavi sularıyla dikkat çeken Dead Sea Resort'un tadını çıkaracaksınz. Güneşin tadını çıkarırken ve otel havuzunda yüzerken, ylezzetli Arap mutfağında yemek yiyip günün geri kalanı boyunca Ürdün Doğu Sahili'nin muhteşem manzaralarını izlerken otel personeli size yardımcı olmak için tüm gün orada olacak.."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Ölü Deniz'den Ayrılış",
+      "description": "Bir ömür boyu hayırlayacağınız maceranız bugün sona eriyor. Uçuşunuz geç saatte ise veya tur sonrası konaklama ekleyerek konaklamanızı uzattıysanız, turistik yerleri keşfetmek için daha fazla zamanınız olacaktır. Ayrıca Amman havaalanına transfer talep ederseniz, bu konuda size yardımcı olabiliriz."
+    }
+  ],
+  "map": ""
+}

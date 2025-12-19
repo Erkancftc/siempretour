@@ -1,0 +1,85 @@
+{
+  "destination": "İtalya",
+  "mainPhoto": "",
+  "id": "STG09070",
+  "tourName": "Jewel of the Seas ile Büyük Akdeniz - 08.Nisan.2020",
+  "placesVisited": "İtalya, İspanya, Fransa, İngiltere",
+  "generalInfo": "<strong>Jewel of the Seas;</strong> rahatlığı, büyütülmüş alanları, panoramik okyanus manzaraları ve her isteğinize özen ile cevap verecek eğitimli personeli ile size tam bir cruise deneyimi sunuyor. Ayırt edici özellikleri arasında on katlı cam merkezi, deniz manzaralı cam asansörler ve Royal Caribbean filosundaki en yüksek oranda dış kabin sayısı bulunmaktadır. Süper yat dizaynı ile karakterize olmuş Radiance Sınıfı gemiler, camlı alanları, sanat eserleri ve heykeller ile tamamlanmış modern mobilyaları ile dikkat çekmektedir. Açık alanları, balkonları ve daha çok cam görünümüyle Radiance Sınıfı gemilerde bir gemide olduğunuzu unutacaksınız.",
+  "durationDays": "12",
+  "price": "FİYAT İSTEYİNİZ",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li><strong>* </strong>Türk Hava Yolları ile Sabiha Gökçen – Roma // Barcelona – Sabiha Gökçen arası ekonomi sınıfı uçak bileti</li>\n<li><strong>* </strong>Havalimanı ve liman vergileri <strong>2,900 TL</strong> (Dahildir)</li>\n<li><strong>*</strong> Havalimanı-liman-havalimanı arasındaki tüm  transferler</li>\n<li><strong>*</strong> 5 Yıldızlı Jewel of the Seas gemimizde tam pansiyon (tüm yiyecekler dahil-Specialty Restaurant giriş ücretleri hariç ) konaklama</li>\n<li><strong>* </strong>Gemide düzenlenen animasyon ve aktiviteler</li>\n<li><strong>*</strong> Türkçe Rehberlik Hizmetleri <strong>(Grup kişi sayısı 20’yi aştığı takdirde)</strong></li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Roma ( Civitavecchia ), İtalya",
+      "description": "Sabiha Gökçen- Roma, İtalya arası Türk Hava Yolları tarifeli seferi ile uçuş. Varışı takiben gemimize transfer."
+    },
+    {
+      "dayNumber": 2,
+      "title": "La Spezia (Floransa / pisa ), İtalya",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Portofino (İtalya)",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 4,
+      "title": "Marsilya ( Provence ), Fransa",
+      "description": "Varış Saati : 09:00"
+    },
+    {
+      "dayNumber": 5,
+      "title": "Sete (Fransa)",
+      "description": "Varış Saati : 08:00"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 7,
+      "title": "Cartagena (İspanya)",
+      "description": "Varış Saati : 08:00"
+    },
+    {
+      "dayNumber": 8,
+      "title": "Cebelitarık (İngiltere)",
+      "description": "Varış Saati : 09:00"
+    },
+    {
+      "dayNumber": 9,
+      "title": "Malaga (İspanya)",
+      "description": "Varış Saati : 08:00"
+    },
+    {
+      "dayNumber": 10,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 11,
+      "title": "Palma de Mallorca (Balear Adaları)",
+      "description": "Varış Saati : 08:00"
+    },
+    {
+      "dayNumber": 12,
+      "title": "Barselona (İspanya)",
+      "description": "Varış Saati : 06:00"
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,75 @@
+{
+  "destination": "Çin",
+  "mainPhoto": "",
+  "id": "TVWC",
+  "tourName": "Çin Hazları",
+  "placesVisited": "Çin",
+  "generalInfo": "Çin’ in harikalarını keşfederken Pekin’ den Şanghay’ a aydınlatıcı bir yolculuğa çıkın.  Muazzam bir yapı olan Çin Seddi’ ni görün,  Büyük Vahşi Kaz Pagodası’ nı ziyaret edin ve Yangtze Nehri’ nde 3 gece lüks bir gemi yolculuğunun tadını çıkarın.<br><br><strong>Lütfen dikkat: </strong> Bu örnek bir gezi programıdır ve kendi kişisel gereksinimlerinize ve bütçenize uyacak şekilde ayarlanabilir.",
+  "durationDays": "11",
+  "price": "2799",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Geziler &amp; Aktiviteler</strong></p>\n<ul>\n<li>- Pekin Turu</li>\n<li>- Pekin Operası</li>\n<li>- Çin Seddi</li>\n<li>- Xi’ an Turu</li>\n<li>- Lüks Yangtze Nehri Gemi Yolculuğu</li>\n<li>- Şanghay Turu</li>\n</ul>\n<p><strong>Konaklama</strong></p>\n<p>Otellerde 7 gece,  ortak banyolu otelde 3 gece</p>\n<p><strong>Yemekler</strong></p>\n<p>10 kahvaltı,  9 öğle yemeği,  2 akşam yemeği</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Pekin' e Varış",
+      "description": "Yüzlerce yıldır bu büyük tarihi ülkenin politik kalbi olan Pekin,  sürekli değişmekte olan bir şehir,  zevkli aktivitelerle dolu ve eski ve yeni arasında bir ayna."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Pekin",
+      "description": "Otelde kahvaltıdan sonra,  Tiananmen Meydanı’ nı ziyaret edeceksiniz.  Çin Halk Cumhuriyeti’ nin kuruluşuna tanıklık eden,  Pekin’ in merkezinde bulunan Tiananmen Meydanı,  dünyanın en etkileyici şehir meydanlarından biridir.  Ardından,  Yasak Şehir’ e devam edeceksiniz.  Bu saray kompleksi,  Ming ve Qing Hanedanları döneminde 24 imparatorluğa ev sahipliği yapmıştır.  Bugün Yasak Şehir halka açık bir müzedir ve Dünya Mirası Sit Alanı’ dır.  Çin’ in imparatorlarına ev sahipliği yapan,  aynı zamanda Çin’ deki en iyi korunmuş imparatorluk sarayı ve dünyanın en büyük antik saray binası olan bu antik sarayın salonlarını ve bahçelerini keşfedin."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Çin Seddi",
+      "description": "Otelde kahvaltıdan sonra,  1505 yılında inşa edilen ve en çok ziyaret edilen bölüm olan Çin Seddi’ nin Badaling bölümünü ziyaret edeceksiniz.  Özgün ihtişamını temsil edecek şekilde yeniden inşa edilen bu bölüm,  Çin Seddi’ nin büyüklüğünün gerçekçi ve şaşırtıcı bir görüntüsünü gözler önüne seriyor."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Xi' An",
+      "description": "Bu sabah,  imparatorluk ailesinin eski dinlenme yeri olan Yazlık Saray’ ı ziyaret edeceksiniz.  Yazlık Saray,  çeşitli göz alıcı manzaralar ve Kunming Gölü’ nü görme fırsatı sunmaktadır.  Binaları ve avluları güzelce dekore edilmiştir ve tarihle doludur.  Aynı zamanda,  Çin’ deki en büyük ve en eski taş kemeri içermektedir."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Xi' An",
+      "description": "Otelde kahvaltıdan sonra,  Terracotta Savaşçıları ( Toprak Askerler )  Müzesi’ ni ziyaret edeceksiniz.  2000 yıllık Terracotta Savaşçıları Ordusu,  ilk olarak Çin’ in ilk imparatorunun mezar bölgesini korumak için inşa edilmiştir.  İnanılmaz derecede gerçekçi figürler sıralanmıştır."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Çongçing ve Yangtze Nehri Gemi Yolculuğu",
+      "description": "Otelde kahvaltıdan sonra,  Çongçing’ e uçuşunuz için havalimanına transfer edileceksiniz.  Varışta,  İngilizce konuşan yerel rehberiniz sizi havalimanından alacak ve Ciqikou Eski Şehri’ ni ziyaret etmeden önce sizi Eling Park’ a götürmek için hazır olacak.  \"Porselen limanı\" anlamına gelen Jialing Nehri üzerindeki Ciqikou Eski Şehri, ,  1900 yıl önce inşa edilmiştir ve Ming ve Qing Hanedanları döneminde bölgedeki porselen üretimi için gelişen bir merkezdi.  Eşsiz dükkanlara ve çayevlerine gitmek için dar Arnavut kaldırımlı yaya caddelerinde yürüyün."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Yangtze Nehri Gemi Yolculuğu",
+      "description": "Bugün Hayalet Şehir Fengdu’ yu ziyaret edeceksiniz.  Fengdu’ da birkaç ilginç kültürel yer vardır ve “Snow Jade Mağarası” veya “Mingshan Dağı’ ndaki Hayalet Şehir’ i” görmek için bir liman turundan faydalanabilirsiniz.  Alternatif olarak,  bir kayalığa dayalı olarak inşa edilen,  dolayısıyla sadece üç duvarının insan yapımı olduğu Shibaozhai Pagodası’ nı da ziyaret edebilirsiniz."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Yangtze Nehri Gemi Yolculuğu, Şanghay",
+      "description": "Bugün Üç Boğaz Barajı’ na bir liman turu yapacak ve Xiling Boğazı’ nın Doğu Bölümü’ nü ziyaret edeceksiniz.  Yichang’ da gemiden ineceksiniz ve yerel bir restoranda öğle yemeği yiyeceksiniz.  Daha sonra,  Şanghay’ a uçuşunuz için havalimanına transfer edileceksiniz.  Varışta,  İngilizce konuşan yerel rehberiniz sizi almak ve otelinize götürmek için hazır olacak."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Şanghay",
+      "description": "Bugün Yuyuan Bahçesi’ nden başlayarak,  tam gün Şanghay turunun tadını çıkaracaksınız.  Eski kent merkezinde yer alan bu büyük bahçe,  klasik Çin tasarımının harika bir örneği.  400 yıl önce Ming döneminde kurulan muazzam Şanghay şehri,  bu eski akrabasının etrafında gelişim göstermiş ancak yaşamın modern hızından uzak sakin bir soluk getirerek barış içinde büyümeye bırakılmıştır."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Şanghay' dan Ayrılış",
+      "description": "Hayatınızın macerası bugün sona eriyor.  Geç vakitte bir uçuşunuz varsa veya tur sonrası konaklama ekleyerek konaklamanızı uzattıysanız görülesi yerleri keşfetmek için daha fazla zamanınız olacak."
+    }
+  ],
+  "map": ""
+}

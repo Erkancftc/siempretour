@@ -1,0 +1,55 @@
+{
+  "destination": "Avustralya",
+  "mainPhoto": "",
+  "id": "ST00028",
+  "tourName": "EXPRESS AVUSTRALYA TURU: SİDNEY, MAVİ DAĞLAR, BÜYÜK SET RESİFİ, KURANDA",
+  "placesVisited": "Avustralya",
+  "generalInfo": "Sadece fazla zamanınız olmaması, Avustralya'nın en iyilerini kaçırmanız gerektiği anlamına gelmez. Sidney'in hareketli liman kentinden UNESCO Dünya Mirası listesinde yer alan Mavi Dağlar, Büyük Set Resifi ve Kuranda Yağmur Ormanı'na, bu 8 günlük Express Avustralya Turu size ülkenin neler sunabileceği hakkında bir fikir verecektir. İkonik Liman Köprüsü'ne tırmanın, basamaklı şelalelere bakın, beyaz kumsallarda gezintiye çıkın, su altı bahçelerini keşfedin, tropik yağmur ormanlarında tarihi bir trene binin ve zengin yerli kültürü keşfedin. Avustralya sizi çağırıyor ve katılmanız için sonsuz sayıda sebebiniz var.<br><br><strong>ÖNE ÇIKANLAR</strong><br><br>* Sidney'in ikonik manzaralarına bakın - Sİdney Opera Binası, Liman Köprüsü, tarihi Rocks Bölgesi ve daha fazlası.<br><br>* Şehir silüetinin eşsiz manzarası için Sidney Limanı’nı gezin.<br><br>* Hükümlüler, çeteler, infazlar ve tarihi Rocks bölgesindeki statüler hakkındaki hikayelerini dinleyin.<br><br>* Dünya Mirası listesindeki Mavi Dağlar’ın vadileri, kanyonları ve şelalelerine hayran kalacaksınız.<br><br>* Tropikal Cairns'de Esplanade’i ve bozulmamış beyaz kumlu plajlarını gezin.<br><br>* Tam gün şnorkelle yüzme turunda Büyük Set Resifi'nin sualtı bahçelerini keşfedin.<br><br>* UNESCO Dünya Mirası listesinde yer alan tropikal yağmur ormanları için tarihi bir trene binin.<br><br>* Dans gösterileri ve diğer gösteriler aracılığıyla yerli kültürü keşfedin.",
+  "durationDays": "6",
+  "price": "FİYAT İSTEYİNİZ",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Sidney'e hoşgeldiniz (Sidney)",
+      "description": "Avustralya’nın en büyük şehrine “günaydın!” deyin ve köpüklü liman manzaraları, mavi gökyüzü ve canlı bir metropol atmosferinin tadını çıkarın. Güzel başlıklar ile çevrili ve dünyanın en görkemli şehir silüetlerinden birine sahip olan doğal bir giriş üzerinde bulunan Sidney, Avustralya arazisini tanımak için mükemmel bir yerdir."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Şelaleler ve Ötesi (Mavi Dağlar)",
+      "description": "Kent hayatını geride bırakın ve sadece 80 kilometre batıda bulunan harikayı görmeye hazırlanın. Burada, kokulu okaliptüs ağaçları ve yemyeşil eğrelti otları, avuç içi ve yosun kavernöz boğazlar, kanyonlar ve gürleyen şelaleler arasında bir ev yapar. UNESCO Dünya Mirası listesindeki alan Mavi Dağlar olarak bilinir ve kaçırılamaz."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Tropikal Kuzey (Cairns)",
+      "description": "Kuzeydeki Cairns şehrine geç bir sabah uçuşu yaparken manzarayı ve hava durumunu biraz daha tropikal hale getirin. Cennet  olarak tabir edilen şehir sadece Atherton Yaylası ve Büyük Set Resifi  arasında olmamakla birlikte, özellikle sofistike bir yemek ve bar sahnesine, canlı bir meydana (yüzme lagünü ile tamamlanmış) ve görülmeye değer bir galeriye sahiptir."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Gerçekten Büyük Set Resifi",
+      "description": "Bir günlüğüne toprağı bırakın ve Büyük Set Resifi’nin büyüleyici sualtı dünyasını keşfederek zamanınızı kullanın. Resif, UNESCO Dünya Mirası Alanı’ndan ve dünyanın yedi doğal harikasından biri olan canlı bir mercan, renkli deniz yaşamı ve berrak su bahçeleridir. Yaklaşık 133.000 mil yayılır ve 1.500'den fazla farklı balık türüne sahiptir. Dahası, suları ılık, avuç içi kumsalları beyaz ve oraya ulaşmanın yolu kolaydır."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Doğa ve Kültür Günü (Cairns)",
+      "description": "On bin yıldan fazla aborjin geçmişi ve kültürü, Kuranda ilçesine ev sahipliği yapan güzel yağmur ormanlarını çevreliyor. Yerli köklerinin yanı sıra, tropik cenneti, yükselen ağaçlara, yemyeşil eğrelti otlarına, dik yamaçlara ve basamaklı şelalelere ev sahipliği yapmaktadır. Canlı, yoğun bir cennet ve kaçırılmaması gereken bir manzaradır."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Avustralya’ya veda",
+      "description": "Avusturalya tatiliniz sona geldiğinde, Sidney’den evinize giderken sonsuza kadar size eşlik edecek anılarla birlikte sahilden kumlara ve dalgalara sessiz bir güle güle fısıldayın."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,75 @@
+{
+  "destination": "Chile",
+  "mainPhoto": "",
+  "id": "10-day-senior-tour-to-chile",
+  "tourName": "10-Day Senior Tour to Chile",
+  "placesVisited": "Santiago, Maipo Valley, Torres del Paine National Park, Punta Arenas, ValparaÃ­so",
+  "generalInfo": "On this 10-day tour of Chile, you will have all your senses enlightened by the magnificence of this South American country. From the vast landscapes of Patagonia to the cosmopolitan center of Santiago, Chile is a country that enchants nearly all who visit. Sip a glass of fine wine as you gaze out on the snow-capped Andes Mountains, experience Punta Arenas, which is one of the worldâs few gateways to Antarctica, and immerse yourself in the rich culture of Santiago.",
+  "durationDays": "10",
+  "price": "4,100",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Santiago â Arrive to a Welcoming Cocktail",
+      "description": "You will arrive at the airport in Santiago, where you will be met by your private driver and transferred to your luxurious accommodation in the heart of the Lastarria neighborhood. Upon your arrival, you will have plenty of time to settle in to your suite and explore the neighborhood on your own. When you are ready, you can meet your personal tour guide in your hotelâs lobby to begin your first official tour of Chile. For your tour, you will be transferred to the summit of Santa Lucia Hill, so you can watch the sunset."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Santiago â Highlight Tour of Santiago",
+      "description": "This morning, you will enjoy a Chilean breakfast at your hotel before meeting your guide in your hotel lobby. You will begin the day with a private tour of Santiagoâs top sites and neighborhoods, which will provide you with the perfect introduction to Chilean culture and history. You will venture to the trendy, bohemian neighborhood of Bellavista, where you will be stunned by the vibrant colors and impressive street art. In Bellavista, you can indulge in a visit to the infamous La Chascona, which was the home of the famed Chilean poet, Pablo Neruda. After your tour, you will be returned to your luxurious accommodation, where you will have the remainder of the evening to spend at your leisure."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Santiago â Panoramic Views of the City",
+      "description": "Today, you can indulge in a traditional breakfast before meeting your private guide in your hotel lobby to continue your exploration of Santiago. Your day will begin with an exclusive tour of the Chilean Museum of Pre-Columbian Art, where you will discover the museumâs diverse collection of artifacts that date back to the infamous empires of South America. After the museum, you will be led to the Cerro San Cristobal. Once you arrive, you will ascend to the summit of this spectacular hill via funicular, where you will delight in the spectacular views of the park and city. Upon your arrival, you will be met by the magnificent statue of the Virgin Mary, which casts its shadow over the city."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Santiago â Explore the Town of Valparaiso",
+      "description": "This morning, you can enjoy breakfast at your hotel before transferring to the coastal city of Valparaiso, which is a city that is known for its vibrant street art that covers many of its hillside buildings. Upon your arrival in the city, you will be led on an intriguing tour of the city center, Plaza Sotomayor, where you will learn a brief and interesting history about the city that you are about to explore. Your excursion will continue to the sunny, beachside city of Vina del Mar, and upon your arrival, your guide will lead you through the cityâs top iconic sites. At the conclusion of your city tour, you will have the remainder of the afternoon to relax at the peaceful beaches of Vina del Mar."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Maipo Valley â Private Tour of Top Wineries",
+      "description": "Today, you can indulge in your final breakfast in Santiago before gathering your belongings and meeting your private driver in your hotelâs lobby for a transfer to the luscious Maipo Valley. You will arrive at your luxurious accommodation, where you will have ample time to settle in and freshen up before meeting your personal tour guide to begin your explorations of the area. You will indulge in a curated tour of the Maipo Valleyâs most exclusive wineries. Here, you will meet the local vintners, uncover the winemaking process, and sample the areaâs top wines."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Maipo Valley â Horseback Ride through Wine Country",
+      "description": "This morning, you can meet your guide in your hotel lobby to embark on the dayâs activities. You will begin with an exciting ride through the Maipo Valley on horseback. Once your horseback riding tour has concluded, you will be transferred to a site of naturally occurring hot springs, where you will have the wonderful opportunity to bathe in these warm pools. As you luxuriate in the hot springs, your guide will treat you to platters of regional cheese and Chileâs finest vintages of wine. Whenever you are ready to return to your hotel, you will be returned, and you can enjoy the remainder of the evening relaxing at your hotel."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Torres del Paine â The Best of Patagonia",
+      "description": "Today, you will enjoy your final breakfast in the Maipo Valley before flying to Patagonia. Once you have arrived, you will have plenty of time to get settled in to your luxurious tents, where you will first notice the beauty of Patagonia. When you are ready, you will be met by your personal guide to begin your first official exploration of the area. As every tour is specially curated for each guest, you will have the option to choose from a variety of different activities that will be available to you in this region."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Torres del Paine â Glamping in an Eco-Friendly Camp",
+      "description": "This morning, you will traverse this rugged region via private coach. You will be guided to Patagoniaâs most marvelous lookout points, which will provide you with a greater sense of the vastness of this extraordinary area. In the afternoon, you will be returned to your glampsite, where you can enjoy a fabulous lunch before deciding on the rest of your dayâs activities. You will have several options to choose from, including horseback riding, whitewater rafting, fishing, kayaking, or another guided trek on one of the parkâs circuits."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Punta Arenas â Private Cruise with Penguins",
+      "description": "Today, you will enjoy breakfast before collecting your belongings and meeting your private driver for a transfer to the city of Punta Arenas. Upon your arrival, you will be dropped off at your luxurious accommodation, where you will settle in and freshen up. Your guide will meet you in your hotelâs lobby, where you will begin your exploration of Punta Arenas. Your tour will take the form of a private cruise through the Strait of Magellan, where you can encounter a variety of regional wildlife that characterizes this area. You will disembark briefly from your luxurious cruise on Magdalena Island, where you will be provided with the unique opportunity to immerse yourself with penguins in their natural habitat."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Punta Arenas â Departure",
+      "description": "Today, you will enjoy your final breakfast in Chile at your hotel before spending the morning at your leisure, strolling through the charming town of Punta Arenas and appreciating the unique character of Southern Chile. As you sit down at a charming cafe that overlooks the Patagonian landscape, you may begin to reminisce about your incredible journey thus far. Before you know it, you will have to return to your hotel and collect your belongings for your transfer to the airport."
+    }
+  ],
+  "map": ""
+}

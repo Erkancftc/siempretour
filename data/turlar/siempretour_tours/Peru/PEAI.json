@@ -1,0 +1,90 @@
+{
+  "destination": "Peru",
+  "mainPhoto": "",
+  "id": "PEAI",
+  "tourName": "Andlar, İnkalar ve Orman",
+  "placesVisited": "Peru",
+  "generalInfo": "<strong>Katılış için en yakın uluslararası havaalanı:</strong> Lima Jorge Chavez Uluslararası Havaalanı (LIM)",
+  "durationDays": "16",
+  "price": "2049",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li>- Rehber eşliğinde Colca kanyon turu</li>\n<li>-Titicaca gölüne günlük  gezi</li>\n<li>- Rehber eşliğinde İnkaların kutsal vadisi gezisi</li>\n<li>- İnka yolu yürüyüşü</li>\n<li>- Rehber eşliğinde Machu Picchu gezisi</li>\n<li>- Peru Amazon ormanında 2 gece</li>\n</ul>\n<p><strong>Konaklama</strong></p>\n<ul>\n<li>- Otelde 9 gece, kamp alanında 3 gece, orman kulübesinde 2 gece</li>\n</ul>\n<p><strong>Ulaşım</strong></p>\n<ul>\n<li>- Toplu taşıma</li>\n</ul>\n<p><strong>Yemekler</strong></p>\n<ul>\n<li>- 15 kahvaltı, 2 yerel öğle yemeği, 1 açık büfe akşam yemeği, 4 öğle yemeği, 4 akşam yemeği</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Lima'ya Varış",
+      "description": "Lima ,İspanyol fatih Francisco Pizzaro tarafından İnka medeniyetini yok ettikten hemen sonra1535’te kuruldu ve burayı başkent yaptı.Lima koloni döneminden kalan güzel binalara,  Altın müzesi,Engizisyon müzesi gibi Güney Amerika’nın önemli müzelerine ve San Francisco Kilisesinin alt tarafındaki Catacombs (yeraltı mezarlığı)a ev sahipliği yapar. Başkent ,şehrin 2 ana meydanı Plaza de Armas  ve Plaza San Martin başta olmak üzere birçok fırsat ve görülmeye değer yer sunar,çevreyi gezme konusunda harika fırsatlarıyla övünür. Plaza de Armas  meydanı katedrale,belediye sarayına ve her öğlen 12 de nöbet değişim törenini izleyebileceğiniz başkanlık sarayına ev sahipliği yapar.Ayrıca Lima’da en iyileri merkez bölgesinde bulunan birçok pazar ve market yer alır."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Arequipa",
+      "description": "Arequipa,büyük bir katedralin hakim olduğu sevimli meydanıyla güzel bir koloni şehridir.Peru lezzetlerini deneyebileceğiniz harika restoranları vardır.Baştan çıkarıcı mimarisinin yanı sıra önemli cazibelerinden biri ,arnavut kaldırımlı labirent şeklinde sokakları,geçitleri ve dekoratif yapılarıyla neredeyse kendi içinde bir şehir olan Santa Catalina manastırıdır.Rahibelerin taze pişen ikramlarını deneyeceğiniz kafeyi kaçırmayın. Bir başka popüler cazibe ise çok iyi korunmuş mumyalara ev sahipliği yaparak övgüyü hak eden Museo Santuarios Andinos dur.Bu mumyalardan en ünlüsü tanrıları memnun etmek ve bereket için 1450 yılında Nevado Ampato volkanı tepesinde kurban edilen genç İnka bakiresi Juanita’ya aittir.Juanita kurban edildikten sonra dağın tepesinde donduğu için buz prensesi olarak bilinir.1990 larda volkanın külleri buzları erittikten sonra keşfedilmiştir."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Colca Canyon",
+      "description": "Bugün dünyanın en derin bölgelerinden biri olduğu söylenen yakınlardaki Colca kanyonunu ziyaret edeceksiniz.Özel araçla, depremlerin yerle bir ettiği hayalet şehirlerden geçip yerel bitki ve hayvan çeşitlerini tanıyarak And’ların yüksek ve çorak yer şekillerini gezeceksiniz.Coporaque’deki otelimize yerleştikten sonra Cruz del Condor’daki (kondor geçidi) gözlem noktasından kanyon da sıcak akımlara doğru süzülen dev kondorları izleyebilirsiniz.Kanyonun kenarından yürüyerek muhteşem görüntüleri hayranlıkla izleyebilirsiniz."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Puno",
+      "description": "Denizden 3855 m. yükseklikte deniz taşımacılığı yapılabilen en yüksek göl Titicaca’nın kenarından Puno’ya aktarmalı otobüs yolculuğumuz boyunca enfes manzaralar devam ediyor.6 saatlik yolculuğumuz sonunda renkli pazarını ziyaret edebileceğiniz Puno’ya varıyoruz."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Lake Titicaca",
+      "description": "Ertesi gün Puno’dan günübirlik gezi için Titicaca gölüne gidiyoruz. Puno koyundaki yüzer kamış adaları ziyaret ederek adalıların özgün Uru yaşam tarzını görüp geleneksel kamış teknelerle gezme fırsatı bulacağız."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Cusco",
+      "description": "Bugün turist otobüsüyle Cusco’ya seyahat ediyoruz.Tüm gün sürecek seyahat boyunca And’ların nefes kesici manzaralarına tanık olacağız.İnka dili Quechua’da dünyanın merkezi anlamına gelen Cusco çoğu yerli 300.000 nüfuslu bu büyüleyici şehir katedralin ve  La Compañia de Jesus kilisesinin hakim olduğu Plaza de Armas çevresinde yerleşmiştir.Akşamı keyifle geçirebileceğiniz kemerli çarşıları birçok restoran,bar ve mağazaya ev sahipliği yapar."
+    },
+    {
+      "dayNumber": 7,
+      "title": "İnkaların Kutsal Vadisi & Ollantaytambo",
+      "description": "1 tam günümüz İnkaların kutsal vadisini ziyaret ederek geçecek.3800 m de, kalıntıların etrafında yüksekliğin  etkilerini kontrol edebilmek için en fazla bir saatlik yavaş yürüyüşler yapıyoruz.ilk olarak bir tepeye yerleşmiş ve etrafını çevreleyen dağların muhteşem manzaralar oluşturduğu Pisac harabelerine gidiyoruz.Daha sonra farklı renkleri ve atmosferiyle aynı adı taşıyan ünlü geleneksel pazara doğru iniyoruz.Burası hediyelikler için harika bir yer.Öğle yemeğinden sonra dağların dik yamaçlarına inşa edilmiş devasa İnka teraslarının bulunduğu Ollantaytambo tapınağı/kalesi ne doğru vadi boyunca devam ediyoruz."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Inca Trail Trek",
+      "description": "İnkalar ciddi şekilde organize olmuş bir medeniyetti ve Qhapaq Ñan adını verdikleri örgütlenmeyle And dağları boyunca birçok patika meydana getirmişlerdir.Bu patikaların en ünlüsü ,dağın tepesindeki nefes kesici Machu Picchu şehrinin kalıntılarına giden kraliyet yolu Camino Inca ya da bilinen adıyla İnka Yoludur.4 güne yayılan,44 km lik muhteşem İnka yolu yürüyüşü sırasında çok yüksek 3 geçitten ve birçok arkeolojik bölgeden geçilir ve zirvede ,Machu Picchu kalesinde son bulur.Dünya üzerinde doğal güzellikleri tarihi ve gizemi bir araya getirerek müthiş bir yerde son bulan çok az benzer gezi vardır."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Machu Picchu & Cusco",
+      "description": "Wiñay-Wayna da bir gece molasından sonra ,İnka yürüyüşünün son  sabahı Machu Picchu’ya final yürüyüşü için erkenden kalkarak ünlü Güneş Kapısında(Sun Gate) şafak vaktini karşılayacağız.Rehber eşliğinde tamamladığınız bu tur sonrasında kendi başınıza keşif ya da bölgenin ihtişamını kavramak için vaktiniz olacak."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Cusco",
+      "description": "Bugün Cusco’yu serbestçe gezip görebilirsiniz.Günün büyük bölümünü İnkalardan kalma duvarları ,kemerleri ve kapıları görebileceğiniz ilginç kiliseleri,koloni yapılarını ve görkemli sokakları keşfederek geçirin.Şehri yukarıdan gören bir tepede, törenlerin yapıldığı ve en belirgin İnka duvarlarından 130 tonluk taş blokların olduğu Sacsayhuaman kalesi bulunur."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Amazon Jungle",
+      "description": "Siempre temsilciniz sizi Amazon yağmur ormanlarına ziyaretimizin başlangıç noktası olan orman bölgesi Puerto Maldonado’ya uçmak üzere havaalanına götürecek."
+    },
+    {
+      "dayNumber": 15,
+      "title": "Cusco",
+      "description": "Sabah ormanın sesleriyle uyanarak Cusco uçuşumuz için tekneyle Puerto Maldonado’ya dönüyoruz.Macera sona ermeden günün geri kalanını bazı son dakika hediyelikleri alarak geçirebilirsiniz."
+    },
+    {
+      "dayNumber": 16,
+      "title": "Cusco'dan Ayrılış",
+      "description": "Ömrünüz boyunca unutamayacağınız bir macera  bugün sona eriyor.Eğer geç saatte bir uçuşunuz varsa ya da konaklamanızı ve kalış sürenizi uzatırsanız şehri daha fazla gezmek için ekstra zamanınız olacak."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,60 @@
+{
+  "destination": "Şili",
+  "mainPhoto": "",
+  "id": "TMWV",
+  "tourName": "Şili ve Arjantin Şarap Vadileri",
+  "placesVisited": "Şili, Arjantin",
+  "generalInfo": "Şili ve Arjantin’ in nefes kesen şarap bölgelerinde bir maceraya hazır olun. Renkli ve kozmopolit şehirlerle,  Latin Amerika’ daki en prestijli üzüm bağlarına ev sahipliği yapan bereketli şarap vadilerini bir araya getirmenin keyfini yaşayın. Geleneksel yemeklerin tadını çıkarın, lezzetli beyaz ve kırmızı şarapları deneyin ve Buenos Aires’ te bir tango gösterisi izleyin.<br><br><strong>Önemli not:</strong> Tur programı model bir programdır ve ihtiyaçlarınıza, bütçenize uygun hale getirilebilir.",
+  "durationDays": "10",
+  "price": "1819",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "<p><strong>Tur ve Aktiviteler</strong></p>\n<ul>\n<li>- Santiago şehir turu</li>\n<li>- Vina del Mar ve Valparaiso turu</li>\n<li>- Şarapların tadına baktığınız Casablanca vadisi turu</li>\n<li>- Mendoza şehir turu</li>\n<li>- 3 şaraphaneyi ziyaret edeceğiniz Uco Vadisi deneyimi</li>\n<li>- Buenos Aires şehir turu</li>\n<li>- Tango gösterisi ve akşam yemeği</li>\n</ul>\n<p><strong>Konaklama</strong></p>\n<p>Otelde 9 gece</p>\n<p><strong>Yemekler</strong></p>\n<p>9 kahvaltı, 2 öğle yemeği, 1 akşam yemeği</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Santiago' ya Varış",
+      "description": "Santiago’ ya hoş geldiniz. Havaalanına vardığınızda otelinize transferiniz gerçekleşecek. Öğleden sonra Plaza del Armas, katedral ve şehrin panoramik manzaralarıyla ünlü Cerro San Cristobal’ ı ziyaret edeceğiniz bir şehir turunun keyfini çıkaracaksınız."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Vına Del Mar, Valparaıso",
+      "description": "Kahvaltıdan sonra toparlanıp araçla sahil boyunca tüm gün sürecek bir geziye çıkacaksınız. İlk durak ‘ bahçe şehri’  Vina del Mar. Sahilden Valparaiso’ ya devam etmeden önce buradaki sevimli bulvarı, yeşil parkları ve nefis mimariyi çok beğeneceksiniz. UNESCO dünya mirası bölgesi olan, renkli mahalleleri ve parlak boyalı fünikülerleriyle sürekli büyüyen bu sanatsal metropol ile Vina del Mar’ ın düzenli sokakları bir tezat oluşturur. İsteğe bağlı olarak Valparaiso körfezinde bir tekne gezisi yapmadan önce limanda sona erecek, rehber eşliğinde bir şehir turuna çıkacaksınız. Akşamüstü Santiago’ ya geri dönüyoruz."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Casablanca Vadisi",
+      "description": "Bugün şehrin dışına doğru, Şili’ nin en iyi beyaz şarap vadilerinden Casablanca vadisine seyahat edeceksiniz. Bölgedeki iki önemli üzüm bağını ziyaret ederek şarap yapım süreci hakkında bilgi alıp ikisinde de farklı tatların keyfini çıkaracaksınız. Gideceğimiz ilk şaraphane 1993’ te kurulmuş olan  Casas del Bosque. Son derece kaliteli şarapların yapıldığı şaraphane,  tercih edilen seçkin bir şarap üretim tesisidir."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Mendoza",
+      "description": "Bugün Şili’ ye veda ederek, Arjantin şarap bölgesinin merkezi Mendoza’ ya doğru uçağa biniyoruz."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Uco Vadisi Şarap Deneyimi",
+      "description": "Oteldeki kahvaltının artından uzman bir şarap rehberi ile buluşup Uco vadisi şarap bölgesindeki turunuza çıkacaksınız. Arjantin’ in bu bölgesi en prestijli üzüm bağlarından bazılarının yanı sıra nefes kesecek güzellikte yer şekillerine sahiptir."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Buenos Aries",
+      "description": "Arjantin’ in canlı başkenti Buenos Aires uçağına yetişiyoruz."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Buenos Aries' den Ayrılış",
+      "description": "Ömrünüz boyunca unutamayacağınız bir macera  bugün sona eriyor. Eğer geç saatte bir uçuşunuz varsa ya da konaklamanızı ve kalış sürenizi uzatırsanız şehri daha fazla gezmek için ekstra zamanınız olacak."
+    }
+  ],
+  "map": ""
+}

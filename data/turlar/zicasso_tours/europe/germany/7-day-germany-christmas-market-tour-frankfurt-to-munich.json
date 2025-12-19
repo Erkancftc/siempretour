@@ -1,0 +1,60 @@
+{
+  "destination": "Germany",
+  "mainPhoto": "",
+  "id": "7-day-germany-christmas-market-tour-frankfurt-to-munich",
+  "tourName": "7-Day Germany Christmas Market Tour: Frankfurt to Munich",
+  "placesVisited": "Frankfurt, Heidelberg, Rothenburg, Nuremberg, Munich",
+  "generalInfo": "Enjoy a winter wonderland filled with charming towns, Christmas markets that evoke childhood memories, and cultural discoveries with our 7-day Germany Christmas market tour. Visit picturesque towns and charming villages, and capture the romance of Germanyâs key cities, such as Heidelberg and Munich, along cobbled streets and within English Garden. Visit iconic Christmas markets that illuminate the talents of local creatives, enjoy festive cheer, and uncover the history of Christmas tradition when visiting one of the oldest Christmas markets: Nurembergâs Christkindlesmarkt. Savor candy and gluhwein, and revel in the beauty of these German destinations at Christmas time.",
+  "durationDays": "7",
+  "price": "5,300",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Frankfurt - Embrace the Classic Grandeur of Frankfurt",
+      "description": "Arrive in the city of Frankfurt, where after a short transfer from the airport to your hotel, the rest of the day is yours to explore as you uncover Frankfurtâs contrasting skyline of modern skyscrapers and the ornately-decorated timber buildings of Old Town or âAlstadtâ. Admire the grandeur of the Roemerberg, the impressive backdrop to St Paulâs Square and one of Germanyâs most significant Christmas markets. Feast your eyes on strings of lights run across rooftops and around window frames, their only slightly overpowered by the chill evoked by the impressive Christmas tree. Wander around colorful stalls, listen to the high-pitched sounds of Christmas cheer, and watch young visitors bob up and down on the central carousel."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Heidelberg - Wander City Sidewalks and Savor Delicious Bon Bons",
+      "description": "Moving from Frankfurt to Heidelberg, you may notice the change from bustling commercial city to charming riverside gem. Traverse the walkways that run parallel to the Neckar River, admiring the picturesque Old Bridge, glancing back to take in Heidelbergâs postcard-perfect outline. While winding your way along city sidewalks, stop in at the Heidelberg Zuckerladen, which offers a global candy collection under a quirky roof. The sweet smell of lollipops and spicy gumballs and the texture of soft jellies and crackling sherbert taking you back to your childhood. Then, beat the owner at a game of dice for a further sweetener."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Rothenburg - Dive into a True Christmas Wonderland",
+      "description": "Continuing your journey along the scenic banks of the Neckar River, admiring snow-lined trees and the white carpet on either side of the road. Rothenburg is one of the prettiest medieval towns in Germany, a wonderland of picturesque wooden houses, cobbled roads, and one of the oldest Christmas markets in the country. As you stroll through the townâs center, you may be intrigued by the intricate details on handmade Christmas decorations. Visit the Kathe Wohlfahrtâs Christmas Museum, a tribute to the many traditional ornaments, the beloved Christmas tree, and candle arches, mostly hailing from the Bavarian Forest and Erzgebirge Mountains. The rich gold, red, and green theme covers every inch of the museum."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Nuremberg - Discover the Romantic Charm of an Imperial City",
+      "description": "Traveling through the dramatic Franconian landscape, arrive at one of the worldâs most livable cities, Nuremberg. Retrace medieval steps when visiting the Imperial Castle. The formidable fortification is a testament to the power of the Roman Empire, the stone structure towering over a city full of romantic charm. Make the most of wandering through the famous Christkindlesmarkt, one of Germanyâs most popular and spectacular. Visit booths made of wood and cloth, colorful nativity scenes, wooden angels and illuminated lanes warming your heart almost as much as a sip of gluhwein. Savor the warm and spicy beverage as you listen to traditional carols and pick that perfect souvenir or two as you spend your day and night at leisure in this Bavarian gem."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Munich - Travel Bavariaâs Romantic Road and Discover Quaint Towns",
+      "description": "Travel today along the picturesque Romantic Road, a scenic drive that passes through quaint towns and picturesque villages. Walk down the cobbled streets of Dinkelsbuhl, the sharp lines of the green, red, and yellow half-timbered houses bright against a snowy background. Marvel at the circular city wall around Nordlingen and witness the beauty of the glass-like Lech River as it snakes through charming Augsburg. Reach magnificent Munich, a perfect example of folkloric traditions mixing with modern sophistication. Visit Marienplatz, the site of one of Germanyâs oldest Christmas markets, then enter the âResidenzâ, a residence fit for a Bavarian King, the Baroque design of golden ceilings and detailed wooden floors breathtaking and storytelling at the same time."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Munich - Imagine a Royal Existence at Nymphenburg Castle",
+      "description": "A day at leisure to explore marvelous Munich, with the option to do some last-minute shopping or wander through one of the many attractive English gardens. The Christmas spirit will be present in their nooks and crannies, while a visit to trendy Schwabing is a must, with fine crafts and artistic flair revealed through seasonal souvenirs made by talented locals. A visit to Nymphenburg Palace will reveal opulence, with swans greeting visitors at the entrance. The gardens are fit for a Bavarian king, while the somewhat gaudy interiors highlight Baroque architecture and design."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Munich - Make a Christmas Wish Upon Departure",
+      "description": "Depending on the time of your onward journey, there may be an opportunity for a traditional pint at Munichâs famous Hofbrauhaus. Here, chatter and laughter will bring a smile to your face as you watch beer maidens conquer the feat of carrying several steins to thirsty patrons. Stop to see the famous glockenspiel before transferring to the airport, memories of magical Germany at Christmas carrying you home."
+    }
+  ],
+  "map": ""
+}

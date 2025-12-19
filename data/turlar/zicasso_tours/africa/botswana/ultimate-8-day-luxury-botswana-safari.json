@@ -1,0 +1,65 @@
+{
+  "destination": "Botswana",
+  "mainPhoto": "",
+  "id": "ultimate-8-day-luxury-botswana-safari",
+  "tourName": "Ultimate 8-Day Luxury Botswana Safari",
+  "placesVisited": "Chobe National Park, Okavango Delta",
+  "generalInfo": "Embrace the balance between exciting wildlife excursions and opulent, secluded accommodations during this 8-day luxury Botswana safari. Expert guides will help you to uncover signs of elusive wildlife. Whether listening to twittering birds on a walking safari or meeting rehabilitated elephants, this adventure allows you to experience the iconic beauty of Botswana.",
+  "durationDays": "8",
+  "price": "12,800",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Chobe River Front - Arrive on the Chobe River Front",
+      "description": "The active wilderness of Chobe River Front in Botswana represents one of the countryâs densest concentrations of wildlife. From foraging gazelles to lounging lions and some of the largest elephants in Africa, the brilliance of the Chobe Water Front will quickly take your breath away. Your private transfer will meet you at Kasane Airport and escort you to your luxury lodge that overlooks the banks of the Chobe River to begin your fabulous safari. You can relax with a drink on a sundowner cruise as elephants step out of the shade to wade in the refreshing water at sunset."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Chobe River Front - Explore the Delights of the Chobe River",
+      "description": "You will begin your game drive before sunrise to find the wilderness brimming with activity before the heat of the sunlight blankets the riverbanks. Your guide will point out rusty-brown antelope known as a puku as they nibble on the tall grass close to the riverbank. You will also search for signs of elusive leopards that hunt in the area. You can often spot them nearly blending in with the brush. After spotting a leopard, you continue looking for signs of Africaâs renowned Big Five."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Chobe River Front - Discover the Wonders of the Wilderness",
+      "description": "After a morning game drive, you can venture to the marvels of Victoria Falls to tour what is considered the largest natural waterfall in the world. You will follow the trail that leads over a mile through the rainforest to visit different viewing platforms of the stunning cascade. The thunderous crash of the water will echo through the air as the falls reach more than 355 feet, often causing a cloud of mist that is visible up to 30 miles away. On the bridge that connects Zambia and Zimbabwe, you will have an incredible panorama of the falls."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Okavango Delta - Transfer to the Okavango Delta",
+      "description": "After breakfast, your private transfer will escort you to Kasane Airport for your charter flight to a private reserve at the heart of the Okavango Delta. You will settle into the comforts and luxuries of your secluded accommodation in the tranquility of the extraordinary landscape that supports a breathtaking diversity of wildlife. For an introduction to the delta, you can board a traditional mokoro and travel down the delta to find crocodiles basking in the sunlight. The traditional canoe allows you to see the animals nearly at eye-level as you pass the tall papyrus reeds."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Okavango Delta - Indulge in Luxury and WIldlife",
+      "description": "Your morning game drive will once again start before sunrise. Your ranger will take you through the wilderness famed for its population of big cats and colorful birds. The scent of wet grass will fill the air as you travel beyond the riverbanks to find giraffes foraging in the canopy and herds of Cape buffalo trudging through the marshes. The call of African wild dogs will surprise you before your guide spots a herd of lions relaxing in the shade after a hunt. Your guide will explain that Okavango Delta lions have broad forequarters that are necessary for swimming."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Okavango Delta - Experience Dynamic and Diverse Ecosystems",
+      "description": "After breakfast, you can experience the marvels of the Okavango Deltaâs diverse ecosystems on a guided walking safari to discover some of the more elusive wildlife hiding within your private concession. The walking safari will slow your exploration down in order to find more intricate details of the wilderness, such as lion tracks or broken branches that signify an animal recently walked past. You can hear the alarm call of a grey lourie, witness the iridescent foliage of a lilac-breasted roller, and hide in the bush as an elephant bull wanders across the grassland."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Okavango Delta - Visit with Elephants",
+      "description": "Your guide will take you to a private sanctuary in the morning for a walking tour with semi-habituated elephants. Your guide will teach you about the mission of the sanctuary and how it has helped to rehabilitate orphaned and injured elephants on protected land. The beauty and grace of the elephants will emerge from their playful nature as they strip leaves from branches and shower in the lagoons. You can interact with the elephants or watch them from a distance before returning to your accommodation for an evening game drive."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Okavango Delta - Depart for Home",
+      "description": "Before breakfast, you will hear the loud and drawing call of the grey lourie, also known as the âgo-awayâ bird. The wildlife will return to life outside of your camp with the sounds of rambunctious baboons and twittering birds filling the air. After breakfast, your flight will take you from the airstrip to Maun Airport to continue your flight home. You could also stop in South Africa to continue your grand safari adventure or enjoy a luxurious Cape Peninsula tour."
+    }
+  ],
+  "map": ""
+}

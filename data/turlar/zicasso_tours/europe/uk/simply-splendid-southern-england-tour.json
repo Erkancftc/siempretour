@@ -1,0 +1,75 @@
+{
+  "destination": "England",
+  "mainPhoto": "",
+  "id": "simply-splendid-southern-england-tour",
+  "tourName": "Simply Splendid Southern England Tour",
+  "placesVisited": "Portsmouth, Bath, Isle of Wight, Cornwall",
+  "generalInfo": "Southern England has long enjoyed a special hold on the imagination and attention of travelers, and this 10-day tour along England's southern coast has been handcrafted for those searching for great food, excellent views, and abundant history. This tour allows you to fully immerse yourself in the culture and heritage of England, making sure that no stone goes unturned by the time of your departure.",
+  "durationDays": "10",
+  "price": "5,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "East Grinstead â The Garden of England",
+      "description": "Your tour of Southern England will begin in the pristine beauty of the aptly named Garden of England. Here, hidden castles, lush woodlands, and manicured gardens will compete for your attention. As if stepping into a Monet painting, this wonderland will be yours to enjoy for two days, during which you find your pace and encounter the many treasures of this region. A visit to Canterbury and the ancient Roman ruins will reveal the full extent of this Mediterranean empire, and the numerous breweries will help you quench your thirst after a day of thrilling explorations."
+    },
+    {
+      "dayNumber": "2",
+      "title": "East Grinstead â Ambling Through the Ages",
+      "description": "To celebrate your first full day in this idyllic setting, you can begin with a full English breakfast before setting off to explore an environment that seems to jump straight out of a Jane Austen novel. A trip to the medieval town of Rye will acquaint you with the charming lanes and cobbled alleys that are typical of many of these villages. Eventually, you will make your way to Hastings, where William the Conqueror fought the famous battle against the Saxons."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Amberely â Hidden Gems of Portsmouth",
+      "description": "Turning your back on the lush environs of England's Gardens, you will make your way to Amberley in the district of West Sussex. After a short transfer, you will be able to settle in to your comfortable accommodation before making your way to the nearby town of Portsmouth. Overlooking the English Channel, this iconic city will be yours to enjoy on a guided walking tour that will include a visit to the famous HMS Victory warship. Here, you will board this 18th-century vessel and learn about its impressive history."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Beaulieu â Gateway to the Isle of Wight",
+      "description": "After a leisurely morning and a delicious breakfast, you will depart Amberley and continue your explorations with a brief transfer to your new accommodation. Beaulieu will be your launchpad into the surrounding countryside for the next two days, during which you soak up the ambient history that awaits around every corner of this colorful setting. Upon your arrival, you will have the remainder of the day at your leisure to explore the country lanes and photogenic villages."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Beaulieu â The Isle of Wight",
+      "description": "By being in such close proximity to the new Forest National Park and the Isle of Wight, you will have no shortage of adventures on your first morning in Beaulieu. After breakfast, you will celebrate your arrival at this stunning setting on a guided excursion on the Isle of Wight, during which you will visit Queen Osbourne's home and the famous Norman fortress at Carisbrooke. After a short ferry ride, you will be met by your knowledgeable guide who will assist in your introduction to the island."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Chagford â Learning to Fly Fish",
+      "description": "Today, the beauty of the New Forest National Park will be replaced by the Dartmoor National Park when you continue your tour. After departing Beaulieu, you will make your way by comfortable transfer to Devon and your rustic accommodation. Here, you will have a chance to settle in and acquaint yourself with this lovely town. Later in the day, you can make your way to the River of Tamar for a fly fishing course from a charming expert."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Cornwall â A Land That Time Forgot",
+      "description": "Your morning in Devon will arrive much in the same way as it has for centuries when you rise with the sun or hit the snooze button for a few final minutes of peaceful reverie. After a leisurely morning, you will make your way into England's westernmost peninsula and the region of Cornwall. Upon your arrival at your rustic accommodation, you will be able to bask in the ambient beauty on a day of leisure that will allow you to chart your own course through a landscape of award-winning restaurants, medieval churches, and crumbling castles."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Cornwall â A Turn for the Culinary",
+      "description": "With the stunning Atlantic Ocean as your backdrop, your first morning in Cornwall will provide you with ample opportunity to explore your breathtaking surroundings. After a gentle morning and breakfast, you will be able to enjoy the remainder of the morning at your leisure before embarking on a culinary tour later in the day. Long a hotbed of savory treats and excellent hospitality, Cornwall will provide you with guided tastings of the region's famous pastries and savory cheeses."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Bath â Reclining in Thermal Bliss",
+      "description": "For your final full day on this tour, you will turn your back on the coastal beauty of Cornwall and return to the English interior in search of thermal bliss. Established as a Roman capital of rest and relaxation, Bath presents visitors with both, and you will immerse yourself in this legendary landscape after a comfortable transfer from the southwestern peninsula. The placid banks of the Avon River will be yours to enjoy at leisure upon settling in to your comfortable accommodation."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Bath â Departure",
+      "description": "It is not uncommon to experience some reluctance when faced with the prospect of your final morning in this storybook setting. As you enjoy a leisurely morning, you will find some comfort a delicious breakfast before transferring to the nearby airport for your departing flight."
+    }
+  ],
+  "map": ""
+}

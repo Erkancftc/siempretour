@@ -1,0 +1,95 @@
+{
+  "destination": "Yeni Zelanda",
+  "mainPhoto": "",
+  "id": "ST02021",
+  "tourName": "Kuzey ve Güney Adası Klasiği",
+  "placesVisited": "Yeni Zelanda",
+  "generalInfo": "Klasik Tur serisi, bir kişinin sınırlı bir zamana sahip olması durumunda, tüm temel tur sitelerine hitap eder. Bu tur, hem Kuzey hem de Güney Adadaki Yelkenler Şehri (Auckland), Adalar Körfezi'ndeki muhteşem plajlar, Macera Başkenti (Queenstown), muhteşem Fiords (Milford Sound), Mt . Buzullar ve daha fazlasını içerir.",
+  "durationDays": "14",
+  "price": "FİYAT İSTEYİNİZ",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li>- Türkçe Rehberlik Hizmeti,</li>\n<li>- Uçak Biletleri</li>\n<li>- Otellerde konaklama</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "ABD’den Ayrılış",
+      "description": "ABD'den Çıkış: Bugün Yeni Zelanda'ya gidiyorsunuz. Maceranız başlıyor!"
+    },
+    {
+      "dayNumber": 2,
+      "title": "2. Gün: Uçuş",
+      "description": "Uçuşta: Uluslararası zamanlama nedeniyle bir günü kaybedersiniz. Yolculuğunuzun sonunda kaybınızı  geri alacaksınız."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Auckland",
+      "description": "Auckland'a geliyorsun. Gününüzde dinlenmeniz veya yenilenmeniz için bir şansınız olduğu otele transfer edilerek geçireceksiniz. Bu öğleden sonra, Kelly Tarlton'un Antarktika Encounter ve Sualtı Dünyası'nı ziyaret edeceğiniz Auckland manzaraları turunun tadını çıkarın. Ayrıca bir Yeni Zelanda Encounter gösterisinin tadını çıkarabileceğiniz Auckland Hayvanat Bahçesi'ni de ziyaret edeceksiniz. Ardından, arkanıza yaslanıp rahatlayabileceğiniz ya da yelkenle uğraşabileceğiniz Auckland Yelkenli Yatının Gururu'na gidin. Sonraki Güney Yarımada'daki en yüksek bina olan Sky Tower'ı ziyaret edin. Hafif bir atıştırmalık dahil edilecektir."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Adalar Körfezi",
+      "description": "Bugün Adalar Körfezi'ne seyahat edeceksiniz. Paihia'ya varın ve Yeni Zelanda'nın en önemli devlet belgesinin imzalandığı Waitangi Antlaşması Toprakları'nın rehberli turunun tadını çıkarın."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Auckland",
+      "description": "Adalar Körfezi - Auckland: Bu sabah Cape Brett'e ve ünlü Kaya Deliğinden geçeceksiniz. Auckland'a döndükten sonra dönüş yolculuğunuzda Otehei Koyu'nda yüzmeye, bir yürüyüşe çıkmaya ya da sadece dinlenmeye fırsatınız olacak."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Rotorua",
+      "description": "Auckland - Waitomo - Rotorua: Waitomo Mağaralarına güneye seyahat. Glowworm Grotto'ya rehberli bir tur ve bir yeraltı tekne yolculuğu deneyimini yaşayın. Rotorua'ya Karapiro Gölü ile devam edin. Akşam bir Maori Hangi (şölen) ve konser keyfini çıkarın."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Auckland",
+      "description": "Bugün Rotorua'nın şehir manzaraları turuna çıkacaksınız. Te Whakarewarewa Termal Rezervi'ni ziyaret edeceksiniz. Daha sonra Maori Sanat ve El Sanatları Enstitüsü'nün geleneksel Maori el sanatları hakkında bilgi edinme şansınız olacak. Kiwi Kuş gibi yerli Kiwi hayvanları görmek mümkün olacak Rainbow Springs sonraki seyahat. Daha sonra, geleneksel el koyunları ve diğer bazı Yeni Zelanda çiftlik hayvanlarını görebileceğiniz bir çiftlik gösterisi yaşayın."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Christchurch",
+      "description": "Garden City'deki Christchurch'e varırsınız. Gününüzde dinlenmeniz veya yenilenmeniz için bir şansınız olduğu otele transfer edilecektir. Şehrin içinden akan nehirde gezintiye çık. Daha sonra botanik bahçeleri dolaşmak için boş zamanlarınız var."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Kaikora",
+      "description": "Christchurch - Kaikora: Tam Gün Balina İzleme Turu için Büyük izleme  turnesi. Christchurch'tan ayrılırken, antrenörünüz Kuzey Canterbury Ovalarını geçecek ve Hundalees'e doğru ilerleyecektir. Engebeli sahil şeridinden Kaikora'ya seyahat. Balina gözlemciliği, görkemli balinayı seyretmek için özel amaçlı deniz taşıtlarında gezerken en iyisidir. Deniz ayrıca diğer deniz yaşamı ile doludur; mühürler, Gölgeli yunus ve nadir Hector yunusları bazen görülebilir. Sonra Christchurch'a döneceksin."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Queenstown",
+      "description": "Christchurch - Mt. Cook - Queenstown: Bu sabah antrenörünüze Mt. Pişirmek. Önce Christchurch'in eteklerinde Canterbury Ovaları'ndan geçerek çay (kendi masrafları) için duracaksınız. Daha sonra Pukaaki Gölü kıyılarında devam edin, Tasman nehrini Mt. Aşçı, Avustralasya'daki en yüksek dağ. Burada dağ alanının tadını çıkarmak için bir mola vereceksiniz ve isterseniz, öğle yemeği yiyin (kendi masrafınız). Dağ manzaralı uçuşlar ek ücrete tabidir. Ön kitap için sadece bize sorun! Tasman Vadisi ve Omarama'ya geri dönün. Lindis Geçidi'ne devam etmeden önce kısa bir duraklama yapılır. Daha sonra, akşam saatlerinde Dunstan Gölü kıyılarını Cromwell'e ve Queenstown'daki Kawarau Gorge'a kadar takip edeceksiniz."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Queenstown",
+      "description": "Bugün aksiyon dolu shotover jeti alabilirsin. Burada jet teknesini uçta deneyimleyebileceksiniz. Günün geri kalanı sizindir Queenstown, dünyanın gayrı resmi macera kentidir. Burada adrenalin pompalamak için macera aktiviteleri için birçok seçenek var. Seçenekler: Rafting, Bungee Jump, Helikopter Ride, Sky Dive."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Queenstown",
+      "description": "4WD Yüzüklerin Efendisi turuna sahip olacaksınız. Bu tur size bu film için inanılmaz doğal zemini görme fırsatı sunuyor. Yüzüklerin Efendisi'nin bir efendisi olmasanız bile, güzel manzaralardan dolayı bu turdan keyif alacaksınız. Sabahları bir çay dahildir. Öğleden Sonra Seçenekleri: Yukarıda listelenen aktivitelerden herhangi biri. Bu akşam, dağın kenarındaki Gondola ile seyahat edeceksiniz. Burada şehrin ışıklarına bakarken açık büfe akşam yemeğinin tadını çıkaracaksınız. Sonra bir Maori deneyimi ve şovu keyfine varacaksınız. Gösteriden sonra erkek ve kadın Maori sanatçısı ile fotoğraf çekmeye fırsatınız olacak. Seçenek: Önceden rezerve edilebilen bir bungee salıncak var. Rampayı karanlığa atlamak, akşamınızı başlatmak için harika bir yoldur. Bir Gondola'yı geri alacaksın."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Milford Sesi",
+      "description": "Wakatipu Gölü kıyılarında, Fiordland Milli Parkı'na açılan Te Anau'ya seyahat edin. Milford'a vardığınızda, unutulmaz bir deneyim için Milford Sound Red Boat Cruise'a katılın. Queenstown'a dönüşünüz olacak."
+    },
+    {
+      "dayNumber": 14,
+      "title": "ABD’ye Dönüş",
+      "description": "Christchuch aracılığıyla havaalanına transfer edileceksiniz. Bir ömür boyu harika anıları saklayarak evinize geri döneceksiniz."
+    }
+  ],
+  "map": ""
+}

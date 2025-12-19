@@ -1,0 +1,60 @@
+{
+  "destination": "Kamboçya",
+  "mainPhoto": "",
+  "id": "SECA",
+  "tourName": "Kamboçya Macerası",
+  "placesVisited": "Kamboçya, Tayland",
+  "generalInfo": "Kamboçya’ yı derinlemesine anlayın ve nehir kıyısındaki büyüleyici şehirlerin yanı sıra başlıca cazibe merkezlerini keşfedin.  Kratie’ de türüne ender rastlanan Irrawiddy yunusunu görmeye çalışın ve Battambag’ da bambu tren yolunda bir gezinin tadını çıkarın.  Kamboçya’ ya yapılan hiç bir ziyaret,  Angkor Wat’ u görmeden tamam olamaz ve biz de bu turda efsanevi tapınak kompleksini tüm ihtişamıyla keşfedebileceğiz.<br><br><strong>En Yakın Uluslararası Havaalanı ( Başlangıç Noktası ) :  </strong>Phnom Penh Uluslararası Havaalanı ( PNH )<br><br><strong>En Yakın Uluslararası Havaalanı ( Bitiş Noktası ) :  </strong>Bangkok Suvarnabhumi Uluslararası Havaalanı ( BKK ) ,  Bangkok Don Mueang Uluslararası Havaalanı ( DMK )",
+  "durationDays": "10",
+  "price": "729",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Geziler &amp; Aktiviteler</strong></p>\n<ul>\n<li>- Örümcek Pazarı,  Kmer Şarabı Tadımı</li>\n<li>- Bambu Tren yolu Gezisi</li>\n<li>- Rehber eşliğinde Angkor Wat turu</li>\n</ul>\n<p><strong>Konaklama</strong></p>\n<p>Otellerde 9 gece</p>\n<p><strong>Ulaşım</strong></p>\n<p>Uçuş ( lar )</p>\n<p><strong>Yemekler</strong></p>\n<p>7 kahvaltı, 1 basit kahvaltı</p>\n<p><strong>Diğer</strong></p>\n<p>Siempre Tour Tur Lideri</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Phnom Penh' e Varış",
+      "description": "Phnom Penh,  Kamboçya’ nın çalkantılı bir geçmişe sahip hareketli başkenti.  Mekong Nehri ile Tonle Sap nehrinin birleştiği noktada bulunan Phnom Penh,  Fransızlar Kamboçya’ yı 19.  yüzyılda sömürgeleştirdiğinden bu yana başkent olmuştur.  Şehir,  küçük bir balıkçı köyünden,  şu anda Kamboçya’ nın endüstriyel,  ticari,  kültürel ve tarihi merkezi haline gelerek büyüdü."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Kratie",
+      "description": "Büyük şehir hayatından uzaklaşarak, huzurlu Kratie’ de iki günün ve en iyi Mekong Nehri gün batımının tadını çıkarmak için Kmer kırsalına gidiyoruz.  Hızla türü azalan tatlısu Irrawaddy yunuslarını görmek için en iyi yerlerden biri olmasının yanı sıra,  Kratie,  farklı dönemlere ait pek çok ilginç tapınağa,  nadiren açılan bir müzeye  ( tur liderinizden sizin için denemesini isteyin )  ve bu muhteşem ülkenin ve insanlarının öteki yüzünü görmek için birkaç muhteşem kırsal bölge turuna ev sahipliği yapmaktadır.  Dolayısıyla,  huzurlu kırsal yaşamın tadını çıkarın,  el yapımı hediyelik eşya almak için merkez Pazar yerinde dolaşın ve Fransız sömürge mimarisine ve ahşap kazıklar üzerine inşa edilmiş köy evlerine hayran kalın."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Kampong Cham",
+      "description": "Güneydoğu Asya’ ya egemen olan muazzam Mekong Nehri ile yakın temas halinde olarak,  hafifçe güneye doğru nehir kenarında yer alan Kampong Cham şehrine gidiyoruz ve tabiri caizse uygarlığa geri dönüyoruz.  Kelimenin tam anlamıyla “Çamların limanı” anlamına gelen ve şehirde yaşayan yerel etnik Çam halkına atıfta bulunan Kampong Cham,  birçok kişinin geçerken atladığı Kamboçya’ nın bir başka yönünü deneyimleme fırsatı sunuyor."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Battambang",
+      "description": "Doğu Kamboçya’ dan batı tarafına geçerek,  gündüz yolculuğumuz aranızda daha maceraperest olanların yerel bir lezzet olan kızarmış örümceği deneyebileceği Kamboçya’ nın ünlü Örümcek Pazarı’ na gitmemize olanak sağlıyor."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Siem Reap",
+      "description": "Siem Reap,  Angkor bölgesinin ünlü tapınaklarını keşfedeceğimiz nokta.  Siem Reap ismi ‘ Siam’ ın Yenilişi’ -Siam, bugünün Tayland’ ı- anlamına geliyor ve bölgedeki anıtların meşhur bas kabartma oymalarındaki taşlarla abideleştirildiğini görebileceğiniz bir asırlık kan gölüne atıfta bulunuyor."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Bangkok",
+      "description": "Bugün,  son bir akşam yemeğinin tadını çıkarabileceğimiz ve geceyi geçirebileceğimiz Bangkok’ a uçuyoruz. Yarın ise turumuzu sonlandırıyoruz."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Bangkok' tan Ayrılış",
+      "description": "Hayatınızın macerası bugün sona eriyor.  Geç vakitte bir uçuşunuz varsa veya tur sonrası konaklama ekleyerek konaklamanızı uzattıysanız görülesi yerleri keşfetmek için daha fazla zamanınız olacak."
+    }
+  ],
+  "map": ""
+}

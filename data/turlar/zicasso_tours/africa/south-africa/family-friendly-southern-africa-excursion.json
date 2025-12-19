@@ -1,0 +1,80 @@
+{
+  "destination": "Botswana",
+  "mainPhoto": "",
+  "id": "family-friendly-southern-africa-excursion",
+  "tourName": "Family-Friendly Southern Africa Excursion",
+  "placesVisited": "Thornybush Game Reserve, Kruger National Park, Chobe National Park, Okavango Delta, Victoria Falls",
+  "generalInfo": "From game drives and safari walks to herds of elephants and troops of baboons, this 11-day best of Southern Africa family safari allows you to experience the countryâs majestic wilderness. Indulge in the thrills of luxury accommodations in the secluded wilds of private game reserves that offer unique insights into the abundant wildlife. Cruise rivers, walk with trained rangers, and bask in the wonders of the African bush.",
+  "durationDays": "11",
+  "price": "9,500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Thornybush Game Reserve - Arrive in your Luxury Lodge",
+      "description": "The beauty of the South African wilderness will emerge around Thornybush Private Game Reserveâs 34,140 acres of protected lands. The network of luxury lodges on the reserve supports the bountiful wildlife that is connected to greater Kruger National Park. Your flight will arrive at Johannesburg International Airport, where your family will board your connection to Hoedspruit Airport. Your private transfer will greet your family upon arrival and escort you to the comfort of your accommodation. The remainder of the day will be at your leisure to enjoy the scenic waterhole where elephants and antelope cool down beneath the hot sun."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Thornybush Game Reserve - Discover Fabulous Wildlife",
+      "description": "You will wake before sunrise and venture into the lush wilderness of Thornybush Game Reserve for your first game drive. The reserve is known for having one of the densest populations of big cats in Southern Africa. Your tracker will share extensive knowledge about the bush as you search for lion tracks or signs of a hunting leopard. You will notice the lively ambiance in the cool air of the morning when the wildlife is at its most active. The thrill of the game drive will increase when your family spots a leopard lounging in a tree."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Thornybush Game Reserve - Continue your Local Discovery",
+      "description": "After your return from your morning game drive, your family can enjoy an exciting excursion into the wilderness on a walking safari. While game drives search a wider expanse for signs of large wildlife, such as the Big Five, a walking safari allows you to find the intricate details of the African bush. Your ranger will explain to your family how to tell fresh tracks from old ones while also pointing out medicinal plants like Devils Thorn and Flame Lily. You can also walk past the unique networks of termite mounds."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Victoria Falls - Enjoy a Sunset Zambezi River Cruise",
+      "description": "After breakfast, your private transfer will escort you to the airport, where you will begin the journey to Victoria Falls. After settling into the luxury of your riverside lodge, your family will board a boat for a sunset cruise. The colorful light will spread across the water as your skipper offers a brief history of the Zambezi River. The charm of standing in an antique exploration boat only enhances as you spot wildlife in the distance. The relaxing pace provides a great introduction as you listen to the nasal bark of African skimmer birds."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Victoria Falls - Visit Elephants and Tour the Falls",
+      "description": "After breakfast, your family will visit an elephant sanctuary that has offered safe-haven to orphaned and injured elephants since 1992. The natural beauty of the landscape embodies the golden grasses and tall trees in which the elephants once thrived. Your guide will introduce you to the gentle herd as they browse the branches and play. You will then continue your tour of Victoria Falls. The cascade of splashing water never fades as you stroll along the natural catwalk for a panorama of the falls. At times, the mist from the cascade can be visible up to 30 miles away."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Chobe River Front - Transfer to Chobe for a Boat Cruise",
+      "description": "Your private transfer will escort your family into Botswana to your lodge located on the edge of the famous Chobe River. The fascinating waterway supports an abundance of wildlife amid the lush marshland. You can board a boat in the afternoon and cruise the river at a relaxing pace. From the safe comfort of the boat, you can spot herds of elephants enjoying a refreshing swim in the distance and a team of crocodiles sunbathing on the banks. Your skipper will also keep a lookout for rare oribi antelope, which travel in small herds."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Chobe River Front - Enjoy the Wilderness at your Pace",
+      "description": "After your morning game drive, you can experience the preserved culture of Botswana with a guided village walk. You will find a tangible coexistence between the locals and the wildlife as the community welcomes you. The aroma of baobab fruit will drift through the street as you meet with different members of the community to share the similarities and differences between the cultures. When you return to your lodge, you will venture out into the wilds along the riverâs edge in search of nocturnal wildlife, such as bushbabies, honey badgers, and wildcats."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Okavango Delta - Venture to the Stunning Okavango Delta",
+      "description": "After flying from Kasane to the Okavango Delta, your private transfer will greet your family at the airstrip and lead you to your renowned lodge. After settling in to the natural opulence of the surrounding wilderness, you can enjoy the day at your leisure. Your family can delight in a traditional mokoro excursion with an experienced guide, who will lead the canoe through the depths of meandering canals. The canoe is crafted from tree trunks and reaches approximately 20 feet long. Papyrus will line the banks as you glide past emerging mangosteens in search of malachite kingfisher or a rare sitatunga."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Okavango Delta - Delight in the Remarkable Wildlife",
+      "description": "You will set out into the private concession adjacent to the famous Moremi Game Reserve for deeper insight into the fantastic wildlife of the Okavango Delta. The seasonal waterways bring an abundance of animals to the canal banks, from lions to wildebeest. You can see giraffes snacking on leaves from the canopy and white rhinoceros parading through the meadow and graze on the lush grass. The males can weigh up to 5,1000 pounds. Your tracker will keep the family engaged by pointing out the wide variety of active wildlife near the path within the protected landâs 67,000 acres."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Okavango Delta - Continue your Search for Wildlife",
+      "description": "During the day, you can venture into the wilderness with a ranger on a walking safari in search of the marvelous birdlife for which the Okavango Delta is known. You can hear the yapping call of the African jacana as it lingers in the marsh. A fish eagle will perch in the trees and wait for prey to emerge from the water. You can also find the vibrant plumage of the African paradise flycatcher, which commonly has a chestnut or rust-colored tail with greenish highlights."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Okavango Delta - Depart for Home",
+      "description": "The sounds of active wildlife will return before morning. At breakfast, the scent of fresh coffee will fill the air and be accompanied by the aroma of wet grass. Your time exploring the African wilderness with your family has come to an end. Your private transfer will meet your family after breakfast and escort you to the airport. A brief flight will take you to Maun Airport, where you will continue to your connecting flight at Johannesburg International Airport."
+    }
+  ],
+  "map": ""
+}

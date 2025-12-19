@@ -1,0 +1,95 @@
+{
+  "destination": "Tahiti",
+  "mainPhoto": "",
+  "id": "ST01502",
+  "tourName": "Aileler İçin Fiji Tatil",
+  "placesVisited": "Tahiti",
+  "generalInfo": "Ritmik davulların sesleri, şarkılar ve dans kutlaması boyunca havada yankılanır. Çocuklar, devasa kulüplere ve kültürel müzede sergilenen uzun mızraklara hayran kalırlar. Ormanın gölgeleri altında kıvrılan doğal su kaydıraklarından kayarlarken attıkları heyecan dolu çığlıklarını duyun. Şelaleler ve yağmur ormanları, sıçrayan yunuslar ve nehir raftingi ile dolu, size özel dizayn edilmiş Aileler için Fiji Tatili, dopdolu ve büyüleyicidir. Çocuklar yaşadıkları maceralardan esinlenecek, siz ise kendinizi lüks içerisinde şımartacaksınız ve tüm aile hayatlarının en güzel zamanlarını geçirecek.<br><br><strong>ÖNE ÇIKANLAR</strong>",
+  "durationDays": "14",
+  "price": "FİYAT İSTEYİNİZ",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li>- Türkçe Rehberlik Hizmeti,</li>\n<li>- Uçak Biletleri</li>\n<li>- Otellerde konaklama</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Fiji’ye Doğru",
+      "description": "Uçağın tekerlekleri yere değmeden önce çocuklar camdan bakarlar ve engin suların turkuaz mavisi karşısında hayrete düşerler. Yemyeşil ağaçlar ve orman çalıları, takımadaların 322 adasından en genişi olan Viti Levu’yu kaplar. Ada, geleneksel saz kulübelerinin geliştiği, lüks tatil beldeleri ve olağanüstü dağ köylerinin hoş bir bileşimidir. Aileniz, havaalanında özel transferiniz tarafından karşılanır ve rahat, konforlu tatil beldenize kadar eşlik edilir. Gününüzü palmiyelerin gölgelediği pırıltılı havuzlarda dinlenerek geçirin. Belli belirsiz bir meltem okyanusun kokusunu taşır. Otelin lobisinden baktığınızda havuz, Pasifik’e karışan plajla bir olmuş gibi görünür. Çocuklar etrafını kayaların süslediği sanki dünya doğru seyahate çıkmış gibi hissettikleri su kaydıraklarından kaymak için hevesle koşuştururlar. Sıcak güneşte dinlenin ve kendinizi ailenizle beraber Fiji’nin lüksüne teslim edin."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Pasifik Kültürü",
+      "description": "Sabahları dünya üzerinde gün ışığını ilk gören yerde, ufukta yükselen erkenci ışıkları yakalayın. Kahvaltı, yerli tatlı meyvelerin eşlik ettiği tanıdık lezzetlerle doludur. Hindistan cevizi dilimleri, taze, sulu ananaslar ile yan yana oturur. Olgun mangonun içi adeta sulu bir sarıyla parlar. Çocuklar, olağan yemek alışkanlıklarının aksine, Fiji’de her lokmanın tatlıya benzeyen tazeliğini tattıkları yeni ve egzotik lezzetleri denemek için sabırsızlanırlar. Özel aracınız sizi tesiste karşılar ve Queens Yolu üzerindeki Kalevu Güney Pasifik Kültür Merkezi'ne götürür."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Eko’ya Ziyaret",
+      "description": "Pasifik’in ada kıyılarını yıkayışının sesini duyun. Bu sakinleştirici ninni gün doğumuna eşlik eder. Kahvaltıda parlayan bir dizi yerel ürünle güne başlayın. Taze, kan kırmızısı greyfurtların sulu ve lezzetli aroması sizi alıp götürür. Kahvaltıdan sonra, ailenizle beraber muhteşem bitkilerin ve hayvanların bulunduğu Kula Eko Park’ta bir günlük gezi için yola çıkın. Mercan kıyısına vardınız mı yemyeşil tepeler tarafından kuşatılmış upuzun mercanları görürsünüz. Resif, Güney Pasifik’in derin sularının altına doğru kaybolur. Kula Eko Park’a vardığınızda ise koruma altındaki hayvanları görmeden önce çıkarttıkları sesleri duyun."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Ağaçların Arasında Süzülün",
+      "description": "Viti Lavu’da göreceğiniz yepyeni bir güne gözlerinizi açın. Suyun zarif sesi her daim kulaklarınızdadır ve dalgaların altındaki mercanların büyülü parıltısı deniz kabardıkça daha da büyüleyici olur. Kahvaltıdan sonra Mercan Kıyısı’na veda ederek küçük bir köprüyü geçin ve “Fiji’nin Macera Başkenti” olarak bilinen Pasifik Limanı’na gidin. Ailenizle size ormanın kuytularında kılavuzluk edecek rehberler tarafından karşılanın ve yemyeşil ağaçların arasında asla unutamayacağınız bir zip-line serüveni için ormana dalın."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Macera Ruhu",
+      "description": "Gününüzün keşif ruhu, çocukların rambutanın dış tabakasını sorgulamasıyla kahvaltıda başlar. Tüylü kırmızı ve mor kabuğunu, tropikal meyveye yaraşır dolgun tatlılığına açın. Kahvaltıdan sonra bilibili raftingi için Navua Nehri’ne götürüleceksiniz. Bilibili bambularla inşa edilerek dokunmuş bir çeşit geleneksel saldır. Rehberiniz salı suda ilerletmek için nehrin içine batırılmış uzun bir sopa kullanır."
+    },
+    {
+      "dayNumber": 6,
+      "title": "İlgi Çeken Bir Müze",
+      "description": "Çocuklar bugün de adaların tarihlerinin ve geniş mirasın hayat bulduğu bir yer olan Fiji Müzesi’nin şamatasıyla büyülenir. Fiji'nin başkenti Suva'ya gittiğinizde, ülke nüfusunun yarısına ev sahipliği yapan, Yeni Zelanda'nın Auckland şehri dışında, en büyük Güney Pasifik şehrine varmış olursunuz. Olağanüstü ürünler ve çarpıcı el yapımı mücevherlerle dopdolu çiftçi pazarları, sabahları cıvıl cıvıldır. Pek çok binanın tarihi 19. Yüzyıl Britanya sömürge dönemine dayanır. Müzeye girdiğinizde, arkeolojik, politik, kültürel tarih ile adaların evrimi arasındaki bağlantıyı hemen görebilirsiniz."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Rockslide’a Yolculuk",
+      "description": "Kahvaltıdan sonra, özel araçla takımadaların üçüncü büyük adası olan Taveuni Adası’na kısa bir uçuş için havaalanına gidin. 1242 metre yükseliğindeki Uluigalau Dağı’nı uzaktan bile ayırt edebilirsiniz. “Garden Island”, yeşil palmiyeler ve parıldayan kır çiçekleri ile süslenmiş çekici bir manzaraya sahiptir. Kuşlar tarih öncesi yağmur ormanlarının kapladığı alanlarda süzüldükçe capcanlı tüylerini etrafa saçarlar. Fiji'nin egzotik ve saf ihtişamı daha siz uçağınızdan çıkmadan ayaklarınızın altına serilir.  Lüks tatil beldenize yerleştikten sonra, bir dizi doğal mini şelaleleriyle ünlü olan Waitavala Su Kaydırağı'na doğru yola çıkın. Su, ada ısısında serin ve ferahlatıcıdır. Kayaçlar mükemmel bir kayganlıktadır ve akıntı sizi eğimli yamaçtan aşağıdaki havuzlara doğru itmeye yardımcı olur. Yağmur ormanlarının heyecan verici atmosferinde suyollarında kayarken herkesin attığı coşku dolu çığlıkları duyun."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Doğal Mirasa Tanıklık",
+      "description": "Bir gelenekten daha fazlası olan Fiji mirası, giyimden dile kadar her şeyde görülür. Kahvaltıdan sonra, adanın toplam dörtte üçünü kaplayan, 147 metrekarelik koruma alanı olan Bouma Ulusal Miras Parkı'na gidin. Yağmur ormanları ve kıyı ormanları, ada geleneklerinde, en az adaların geleneklerinin kendisi kadar büyük bir öneme sahiptir. Yemyeşil ağaçlar ve bereketli topraklarla kaplı doğa, saf bir güzelliktedir. Açan çiçeklerin nefis kokusu, tatlı su havuzların etrafındaki parıltılı yosunların kokusuna karışır. Silktail kuşları ağaç kuytularında çırpınır ve cıvıldar. Kadife gibi siyah tüyleri baş ve göğüs çevrelerinde parlak mavi-siyaha dönen bu kuşlar 13 santimetreye kadar büyüyebilirler. Üç tane şelale arazide çağlar; bunlardan ilki 24 metreden aşağı doğru çağlayarak dökülür ve girişten sonra kolayca ulaşılacak mesafededir. Diğer şelaleler biraz daha küçüktür, yine de ailenizin, yağmur ormanlarının el değmemiş ihtişamında yayılabilecekleri muazzam yüzme havuzlarına sahiptir."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Denize Sıfır Cazibe",
+      "description": "Turkuaz rengi su, sabah güneşi altında bir mücevher gibi ışıldar. Dalgalar kıyıyı yalayıp geçer ve berrak renkli sular kıyıdaki kumsal boyunca bir ileri bir geri hareket eder. Kahvaltıdan sonra, uzun sahil şeridini at sırtında keşfetme olanağı sağlayan, Maravu Plantation Beach Resort'un sahil kenarındaki konforuna gidin. Palmiyeler ormanın dışına doğru uzanarak su kenarlarına ulaşır. Sazdan kulübeler incecik kumlu plajlarda gölgelik sağlar. Siz ve çocuklarınız soylu küheylanların üzerine kurulup tepeye tırmanın."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Sırra Erişme",
+      "description": "Savusavu adası genellikle Fiji’nin en iyi saklanmış sırrı olarak anılır. Kasaba Vanua Levu Adası’nda yer alır ve arka planında eğimli yeşil tepeler ile geniş bir koya karşı yerleştirilmiş tablo gibi görüntüsü olan bir liman bulunur. Ebegümeci çiçeklerinin kokusu havaya yayılır. Yerliler, her zaman sıcakkanlı, güler yüzlü ve misafirperverdir.  Ada, kırsal kesimi işaret eden eski tarlaların kalıntılarıyla dolu tembel mavi koylara ve yükselen palmiye ağaçlarına sahiptir."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Yağmur (Ormanın)'da Bir Gezinti",
+      "description": "Bir iskele, sakin sulara doğru uzanır ve tatilinizin huzur dolu tenhalığına ekstra bir dokunuş katar. Yükselen palmiye ağaçlarından ve metanetli sulardan oluşan sakin bir manzara, odanızı çepeçevre sarar. Kahvaltıdan sonra, tesisten çıkın ve koruma altındaki yaklaşık 300 dönümlük araziye ev sahipliği yapan Waisali Yağmur Ormanı Koruma Alanı'na gidin. Yaka ve Kuası ağaçları manzaraya gürbüz bir ağaçlık katar. Patikalar peluş yeşillikler arasından dolaşarak dolambaçlı dağların olağanüstü manzaralarına doğru açılır. Gökyüzüne doğru öyle yükseğe çıkabilirsiniz ki bulutlar ara sıra ağaçların arasından geçer. Akarsular orman arazilerinde dolaşır ve coşkun şelalelere dönüşürler. Soyu tükenmekte olan Fiji kara kurbağası orman çalıları altında gizlenir. 19. yüzyılın sömürgeci döneminde bu kurbağa türünün ortadan kaldırıldığı düşünülmüşse de, kara kurbağası nüfusu varlığını sürdürür. Bu kurbağalar 10 santimetreden fazla büyüyebilir ve gençliklerinde çok renkli tonları vardır."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Güney Pasifik’te İz Sürün",
+      "description": "Savusavu'nun çevresindeki doğal ihtişam; zümrüt ağaçlar ve pastel mercanlar, yağmur ormanlarından resiflere kadar, parıldar. Bugün, havuz kenarında keyif yapmaktan marinadan birkaç dakika uzaklıkta tüplü dalış yapmaya kadar, adanın etrafındaki çeşitli aktivitelerden faydalanmak üzere serbestsiniz. Okyanus yüzeyinin beş metre altında, 202 metre boyunca uzanan J Hunter İnci Çiftliği sizi adanın etrafındaki cam gibi sulara çıkararak inci istiridyelerinin farklı aşamalarına tanık olmanızı sağlar."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Rahatlamaya Dair",
+      "description": "Çocuklar uyanır ve kendilerini bugün de çocuk programının eğlencesine kaptırmak için oldukça heveslilerdir. Kahvaltıda size, çocuklarınızın geleneksel sanat eseri yapımından hayat dolu balıklar etrafında şnorkel yüzmeye şu ana kadar katıldıkları bütün etkinlikler hakkında bilgi verilir. Çocuklar rambutanları sanki bir şekermişçesine yerler ve siz de çocuklarınızın bir meyveye bu kadar büyük ilgi gösterdiklerini gördükçe mutlu olursunuz.  Çocuklar yeni arkadaşlarına katılmak için koşarak uzaklaşırlar ve siz de boş vaktinizi adanın lükslerinin keyfini çıkararak geçirin. Adanın etrafında dört çekerle geziye çıkın ve dağlara yerleştirilmiş Nukubolu kasabalarını ziyaret edin ya da çocuklarınızı da alıp yunuslarla karşılaşacağınız bir serüvene atılın."
+    },
+    {
+      "dayNumber": 14,
+      "title": "Veda Zamanı Gelirken",
+      "description": "Kahvaltıda ailenizle, son kez yemeğin tadını çıkarın ve tabaklarınızı adanın dört bir yanından gelen taze egzotik meyvelerle doldurun. Çocuklar dünkü gezideki en iyi yunus izlenimlerini sergileyerek, sulardan yükselen oyuncu seslere, kıvrılma ve dönmeleri de ekleyerek o güzel anı adeta yeniden yaşarlar. Yemekten sonra eve uçuşunuz için Viti Levu’ya geri dönün. Yağmur ormanlarını ve dağları gezdiniz, mükemmelliğini koruyan sularda yolculuk yaptınız ve şelalelerden aşağı kaydınız. Eve dönüş yolunda anlarsınız ki ailenizle macera, şaşkınlık ve rahatlama dolu asla aklınızdan çıkmayacak bir tatil geçirdiniz."
+    }
+  ],
+  "map": ""
+}

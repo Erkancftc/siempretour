@@ -1,0 +1,75 @@
+{
+  "destination": "Croatia",
+  "mainPhoto": "",
+  "id": "magical-czech-and-croatia-tour-city-of-spires-to-shining-adriatic",
+  "tourName": "Magical Czech and Croatia Tour: City of Spires to Shining Adriatic",
+  "placesVisited": "Dubrovnik, Prades, Split, Hvar",
+  "generalInfo": "Rich culture and unique treasures appear in abundance on this 10-day tour of the Czech Republic and Croatia. You will follow a course that leads from the landlocked beauty of Prague and the banks of the Vltava river to the sun-drenched shores of the Adriatic and Dalmatian coasts. Guided tours and iconic adventures will ensure your appreciation of every region along the way.",
+  "durationDays": "10",
+  "price": "3,400",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Prague â The City of a Hundred Spires",
+      "description": "Sitting along the flowing banks of the Vltava River, Prague enjoys a privileged position as an ambassador of all things Czech. Today the city will be your playground when you arrive in the Czech Republic and begin your tour of this unique corner of Europe. Upon your arrival at the city's main international airport, a comfortable transfer will ensure your timely arrival to your accommodation. After settling in, you will have the remainder of the evening to spend at your leisure. As the shadows lengthen on your first evening in the Czech capital, you will be nothing short of excited to begin your adventure."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Prague â Your First Full Day",
+      "description": "As the morning light gently bathes the city in hues of orange and gold, you will wake to a world of cobblestone alleys, scenic architecture, and a welcoming hospitality. This morning, you will celebrate your first full day in Prague with a walking tour of the city's main sites, which will include the famous astronomical clock in town hall, the iconic Charles Bridge, and the panoramic views of the Prague Castle. As you take to the streets on this tour, a knowledgeable guide will happily answer your questions before leaving you to an evening at your leisure."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Prague â The Heart of Bohemia",
+      "description": "No trip to the Czech Republic is complete without getting a feel for the region's culture and medieval legacy. Today, you will experience all this and much more during a trip to the nearby community of Cesky Krumlov. Here, Baroque gardens and rustic neighborhoods will make you feel as if you have stepped back in time. Upon your arrival, a guided tour will ensure your full enjoyment of this UNESCO World Heritage Site. When you have had your fill of the area, you can return to the Czech capital to spend the remainder of the evening at your leisure."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Dubrovnik â The Jewel of the Adriatic",
+      "description": "Today, your tour of landlocked communities will end when you turn your back on the beauty of the Czech Republic and make your way to the adjacent country of Croatia, which is home to the unparalleled beauty of the Adriatic Sea. Dubrovnik sits along the famous Dalmatian Coast and presents visitors with an abundance of delicious eateries, panoramic overlooks, and historical sites. After your flight arrives at the city's main airport, a transfer will convey you to your conveniently located hotel within walking distance of popular attractions, such as the city walls, St. Blaise's church, and the waterfront."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Dubrovnik â The Dalmatian Coast",
+      "description": "As dawn breaks, the empty streets will call you to see a side of the city that is missed by those that hit the snooze button. As one of the more popular destinations in the Adriatic, Dubrovnik is best enjoyed in the morning before the cobblestone alleys and squares fill with tourists and locals. Luckily for you, a private guide will lead you through this vibrant setting during a tour of the city's old town, which will include visits to the oldest working pharmacy in Europe, the famous Franciscan monastery, and a host of other attractions."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Hvar â The Adriatic Archipelago",
+      "description": "After a leisurely morning, mainland Croatia will be replaced by a journey to the Adriatic archipelago and the photogenic island of Hvar. Since your arrival in this Balkan country, you will have caught a glimpse of its stunning natural beauty. Today, you will get a front-row seat to the lush woodlands, olive orchards, and rolling hills of this idyllic isle. After making your way to the main harbor of Dubrovnik, a catamaran cruise will ensure your timely arrival in Hvar, where the remainder of the day will be yours to enjoy however you see fit."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Hvar â Scenic Cruise on the Waves",
+      "description": "A leisurely morning on Hvar will find you well-rested to enjoy a tour of the coastal water and stunning seascape of the Adriatic Coast. After a fortifying breakfast, a scenic cruise along the coast of Hvar and the nearby island of Vis will give you plenty of time to experience how much beauty can be contained in such a small corner of Europe. The breathtaking Green and Blue Sea Caves will demonstrate the unparalleled topography of this land, and you can conclude your voyage at the famous Pakleni islands."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Hvar â Sipping Your Way Through the Ages",
+      "description": "Scenic coastlines and rustic villages are not the only things for which Hvar is known. Today, you will acquaint yourself with the savory legacy of Croatian winemaking on this idyllic island. After breakfast, a guide will lead you to a traditional, family-run winery. Here, centuries worth of wine-making excellence will be yours to enjoy during an intimate wine-tasting experience. Your excursion will continue in the afternoon when you encounter the island's only garage winemaker before returning to your hotel."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Split â Croatia's Second-Largest City",
+      "description": "Your island-hopping will conclude today when you depart the warm embrace of Hvar and return to the Croatian mainland and the country's second-largest city. Split has long been a major center of commerce and culture. After settling in to your comfortable accommodation, you will embark on a sightseeing tour of the city that will include Roman ruins, delicious food, and a welcoming culture. As you amble along the impressive halls of Diocletian's Palace and the sunny squares of the city center, it will be hard not to fall in love with this pearl of the Adriatic coast."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Split â Departure",
+      "description": "Your final morning in Split will provide just enough time to meander down to the port so that you can enjoy a scenic stroll along the waterfront with the beautiful harbor as your backdrop. After you have had a chance to stretch your legs and enjoy a final breakfast, a transfer will ensure your timely arrival to Split's main airport for your journey home."
+    }
+  ],
+  "map": ""
+}

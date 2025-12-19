@@ -1,0 +1,100 @@
+{
+  "destination": "Singapur",
+  "mainPhoto": "",
+  "id": "STG09057",
+  "tourName": "Celebrity Millennium THY ile Vizesiz Uzakdoğu Rüyası - 31.Ocak.2020",
+  "placesVisited": "Singapur, Viyetnam, Tayvan, Japonya, Çin",
+  "generalInfo": "",
+  "durationDays": "17",
+  "price": "FİYAT İSTEYİNİZ",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li>* Türk Havayolları ile İstanbul - Singapur// Hong Kong -  İstanbul arası ekonomi sınıfı uçak bileti</li>\n<li>* Havalimanı-liman-havalimanı arasındaki tüm transferler;</li>\n<li>* Havalimanı ve Liman vergileri <strong>5,900 TL</strong></li>\n<li>* Singapur’da otelde 1 gece oda kahvaltı konaklama</li>\n<li>* Celebrity Millenium gemisinde 14 gece 15 gün tam pansiyon konaklama;</li>\n<li>* Gemide düzenlenen animasyon ve aktiviteler</li>\n<li><strong>* Türkçe rehberlik hizmeti (Minimum 20 Kişi katılması durumunda)</strong></li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Singapur (Singapur)",
+      "description": "İstanbul Havalimanı buluşmasının ardından,  sefer sayılı uçuşu ile Singapura’a hareket. Varışın ardından otelimize transfer."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Singapur (Singapur)",
+      "description": "Hareket Saati : 17:00"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 4,
+      "title": "Ho Chi Minh City (Vietnam)",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 5,
+      "title": "Nha Trang (Vietnam)",
+      "description": "Varış Saati : 09:30"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Hue/Danang, Chan May  (Vietnam)",
+      "description": "Varış Saati : 10:00"
+    },
+    {
+      "dayNumber": 7,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 9,
+      "title": "Taipei, Keelung (Tayvan)",
+      "description": "Varış Saati : 08:00"
+    },
+    {
+      "dayNumber": 11,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 12,
+      "title": "Kagoshima (Japonya)",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 13,
+      "title": "Okinawa,Naha (Japonya)",
+      "description": "Varış Saati : 13:00"
+    },
+    {
+      "dayNumber": 14,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 15,
+      "title": "Hong Kong (Çin)",
+      "description": "Varış Saati : 13:00"
+    },
+    {
+      "dayNumber": 16,
+      "title": "Hong Kong (Çin)",
+      "description": "Hong Kong, Çin; İniş işlemlerinin ardından Havalimanına transfer ve Türk Hava Yolları’nın sefer sayılı uçuşu ile İstanbul’a hareket."
+    },
+    {
+      "dayNumber": 17,
+      "title": "İstanbul' a Varış",
+      "description": ""
+    }
+  ],
+  "map": ""
+}

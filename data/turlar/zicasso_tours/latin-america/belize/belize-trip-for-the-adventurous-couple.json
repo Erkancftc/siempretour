@@ -1,0 +1,65 @@
+{
+  "destination": "Belize",
+  "mainPhoto": "",
+  "id": "belize-trip-for-the-adventurous-couple",
+  "tourName": "Belize Trip for the Adventurous Couple",
+  "placesVisited": "Mayflower Bocawina National Park, Gloverâs Reef Marine Reserve, Half Moon Caye, Belize City",
+  "generalInfo": "This 10-day Belize tour leads you off the beaten track as you stay on near-uninhabited islets. Find a private piece of paradise, kayak together on remote Caribbean reefs, and walk hand in hand across the white sand on this unique getaway for two. Your days can be spent kayaking, snorkeling, and laying on the beach, and your evenings can be just the two of you and the stars.",
+  "durationDays": "10",
+  "price": "5,700",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Mayflower Bocawina National Park â Arrival",
+      "description": "Your Caribbean escape will begin in the rainforest. While that may sound peculiar, it would be a shame to miss out on the pristine nature that covers Belizeâs coastline. When you land, you will transfer to the trees, where you will find monkeys as they watch over the trails. Jaguars live here, and although they are secretive and near impossible to see, they indicate just how untouched the wilderness is. The rainforest has escapist qualities that are similar to the islands, and you will quickly feel disconnected from the rest of the world."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Mayflower Bocawina National Park â Ziplining",
+      "description": "This morning, you will indulge in a guided hike through the rainforest. From the ground, you can get a real sense of the rainforestâs intricacies. You can enjoy lunch back at your lodge before enjoying an alternative perspective. Ziplines cross this national park and will take you through the canopy. You will have a birdâs-eye view of the wilderness. Some of the ziplines will carry you above the trees with your feet dangling above the greenery. The first zipline can be frightening, but you will quickly get used to the system."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Gloverâs Reef Marine Reserve â Adventures in Paradise",
+      "description": "You can watch the colors change as you travel from rainforest to remote tropical reef. You will have traveled beyond the barrier reef to a remote islet where the sand is devoid of footprints. Upon your arrival, you will settle in to your accommodation and spend the afternoon with your local guide on a snorkeling and sea kayaking excursion. This escape will be focused on providing you with private space as a couple. After your introduction, you will be left to do what you want to do as a couple."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Gloverâs Reef Marine Reserve â Create Your Adventure",
+      "description": "These two days will be left free so that you can customize your adventure. You can paddle out to the inner and outer walls of Gloverâs Reef or snorkel pristine areas of the Belize Barrier Reef. At low tide, you might find a slither of sand for the two of you, and at high tide, you can find solace in the sound of the surf. You can also stroll hand in hand around the caye, try stand-up paddleboarding, and learn how to kayak sail. There will be nothing to interrupt your tranquility and this private piece of paradise you have found."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Belize City â A Morning in the Caribbean",
+      "description": "Every day will begin with idyllic options. You can go for a swim, sip on a coffee, paddle around the caye, or take your snorkel to a favorite place you have found. Stand-up paddleboarding is a great way to get your body moving in the morning. After a full morning on Southwest Caye, you will transfer to the mainland at Dangriga Airport, where you will fly to Belize City. After several days in intimate camp accommodation, you will now stay in contemporary luxury. It will be a change of pace before you travel back to a different stretch of the Belize Barrier Reef. The day will be at your leisure, and there is plenty to see when you stroll the streets around your hotel."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Half Moon Caye â Journeys on the Water",
+      "description": "Half Moon Caye will be the second of your Caribbean destinations, and getting there will be part of your adventure. You will travel by speedboat through the lagoons of Turneffe Atoll and then across the Caribbean Sea. Half Moon Caye is found on the edge of the Northern Hemisphereâs most extended reef system. You will arrive at the island and orientate yourself with your new sandy surroundings. There are places to swim, shaded palms to rest beneath, and all the water sports equipment to create a grand coupleâs adventure. In the evening, you will find yourself alone beneath the stars."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Half Moon Caye â A Remote Barrier Reef",
+      "description": "There is nothing definitive about your daily program. You can swing in a two-person hammock through the heat of the day or spend the day sea kayaking. Over these two days, you will have the option of going on a snorkeling excursion to the Great Blue Hole and a Caribbean sinkhole of breathtaking color. This is just an option, but you will see more people in the water here than the rest of the week combined. Just like when staying at Gloverâs Reef, all your meals will be included. White sand will be at your feet, the coral will surround you, and a tropical panorama will travel with you wherever you go."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Half Moon Caye â Departure",
+      "description": "Your speedboat transfer will be timed to meet your international flight, which means that you can enjoy a relaxing final morning on Half Moon Caye. It is two hours by boat to Belize City. From there, you will have a short transfer to the airport, where you will connect with your outbound flight."
+    }
+  ],
+  "map": ""
+}

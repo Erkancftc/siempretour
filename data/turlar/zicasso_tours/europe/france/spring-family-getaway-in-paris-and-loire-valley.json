@@ -1,0 +1,65 @@
+{
+  "destination": "France",
+  "mainPhoto": "",
+  "id": "spring-family-getaway-in-paris-and-loire-valley",
+  "tourName": "Spring Family Getaway in Paris and Loire Valley",
+  "placesVisited": "Paris, Amboise, Loire Valley",
+  "generalInfo": "From cuisine to shopping and artistic treasures to iconic architecture, this 8-day family trip to France will immerse you in cultural splendor and regal grandeur. Sample famous Parisian chocolates and pastries, ride horses through the gorgeous landscapes of the Loire Valley, marvel at the masterpieces in the Louvre Museum, and glide down the Seine River on a scenic cruise. Your family will discover and delight in French castles, cuisine, and culture.",
+  "durationDays": "8",
+  "price": "3,700",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Paris - Arrive in Charming Paris",
+      "description": "Paris is a city of iconic beauty and charm, stemming from the aromas of chocolate drifting down the lanes of the St. Germain district to the boutique shops of radiant window displays. Artistic expression shapes the boulevards, elegant architecture, and the museums with spectacular timelines of world aesthetic. Your flight will land at Charles de Gaulle International Airport. After collecting your belongings, your private transfer will meet and transfer you to the comforts of your accommodation. Afterward, you will enjoy Paris with your guide while visiting the refurbishing Gothic wonders of Notre-Dame Cathedral."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Paris - Montmarte and Marais Pastries",
+      "description": "You will meet your guide at a designated point to begin your tour of Montmartre. The scent of macaroons may fill the air as you stroll along the winding lanes that once inspired the likes of Picasso, Van Gogh, and Renoir. Picassoâs first studio dates back to 1904 and stood at the footstep of the Bohemian neighborhood. In the afternoon, you will continue to the Marais, where the scent of pastries and chocolates will lure your family through a collection of shops with a trained chef and food connoisseur."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Paris - Wander the Louvre Museum",
+      "description": "Your family will embark on a private tour of the Louvre Museum to view the highlights of the iconic collection that displays more than 380,000 objects, including 35,000 works of art. Your guide will provide an itinerary that will engage your family and showcase elegant masterpieces, from the Venus de Milo to the Mona Lisa. After your family enjoys an interactive cruise on the Seine River, you will spend time with your guide, wandering beneath the Eiffel Tower. The figure crowns the Champs de Mars and was built for the 1899 Worldâs Fair."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Paris - Disneyland in Paris",
+      "description": "After breakfast, your driver will escort the family to Disneyland Paris for the day. The encompassing ambiance will blend a mixture of fantasy with the wonders of Parisian culture with rides from Star Wars Hyperspace Mountain to Aliceâs Curious Labyrinth. Your entire family will have an immersive experience, wandering Main Street to Sleeping Beautyâs Castle. You can stroll into the castle dungeon to find a restrained dragon breathing smoke. At Ratatouille: The Adventure, your family will shrink to the size of a mouse to experience Paris like Remy, the star of the Parisian-set Disney movie."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Amboise - Baking Class and Transfer",
+      "description": "Your family will bask in the aromas of baguettes and croissants while partaking in a Parisian bakery experience. The master artisan baker will guide you through the process of crafting delicious French goods. Your private transfer will meet you in your hotel's lobby after the lesson and escort you to the train station for your transfer to the Loire Valley. A private driver will meet your family upon your arrival at the station and lead you to the comforts of the Loire Valley countryside."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Amboise - Delight in a Day at Chambord",
+      "description": "The wonders of the French Renaissance shine brightest in the Loire Valley, and you will visit Chateau de Chambord. The lavish castle contains 426 rooms, boasts 77 staircases, and has 282 fireplaces that date back to the 16th century. The double-helix staircase leads to a fascinating lantern tower that is topped with a rooftop view, providing a panorama that spans the cupolas, domes, and turrets of the grounds. Your family will mount horses and wander through manicured gardens for an immersive exploration after a royal hunt. Your guide will release a falcon to explain the art and beauty of the ancient hunt."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Amboise - Cycling and Castle Tour",
+      "description": "Cycling through the splendor of the Loire Valley will reveal natural elegance and iconic grandeur. You will reach the Chateau Royal dâAmboise to view the impressive castle perched atop a rocky escarpment with a regal Gothic wing and impressive Renaissance aesthetic. At Le Clos Luce, you will find the castle where Leonardo da Vinci took up residence in the 15th century. Your family can wander around 40 scale models of the inventorâs inventions that lead to over 17 acres of gardens. The Blois Mansion features flamboyant Gothic architecture and blends with Renaissance and classical features that are accentuated by a bloody but fascinating history."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Paris - Departure",
+      "description": "In the morning, you can enjoy the delightful aromas of fresh coffee and delicious pastries. Before returning to Paris, you can enjoy more time wandering the beauty of the Loire Valley, such as at the Renaissance-style gardens of Chateau Gaillard, where the scent of orange trees fills the air. When you are ready, your private transfer will take you to Parisâ international airport for your flight home, bringing your family trip of France to an end."
+    }
+  ],
+  "map": ""
+}

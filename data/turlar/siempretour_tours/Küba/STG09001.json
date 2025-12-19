@@ -1,0 +1,75 @@
+{
+  "destination": "Küba",
+  "mainPhoto": "",
+  "id": "STG09001",
+  "tourName": "Batı ve Orta Küba - 23 Nisan - 1 Mayıs.2020",
+  "placesVisited": "Küba",
+  "generalInfo": "Tek bir uçak yolculuğu ile zamanda yolculuk yapmak ister misiniz? Küba turu sizin için adeta bir zamanda yolculuk oluşturacak. Dünyaca ünlü puroları, sıcakkanlı insanları ve her zaman eğlenceli olan sokakları ile adeta masalsı bir dünyayı andıran Küba’ya ulaşmak Siempre Tour ile çok kolay.<br><br>Dünyanın en büyük 7. adası olma özelliği taşıyan Havana da 1 Mayıs' ı Küba' da yaşayın.",
+  "durationDays": "10",
+  "price": "2680",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li>- İstanbul &amp; Havana AEROFLOT Havayolu ile Gidiş dönüş Uçak biletleri</li>\n<li>- 3 Gece Nacional Hotelde  B.B Konaklama</li>\n<li>- 1 Gece Nacional Hotelde  H.B Konaklama</li>\n<li>- 2 Gece Trinidad Brissa Del Mar Hotel&amp; Benzeri Hotelde Her şey Dâhil Konaklama</li>\n<li>- 2 Gece Melia Varadero Hotel de Her şey Dâhil Konaklama</li>\n<li>- Tüm Transferler</li>\n<li>- Tur boyunca Türkçe Rehberlik .</li>\n<li>- Yarım Gün Havana Şehir Turu</li>\n<li>- DEVRİM MÜZESİ VE CHE MUZESİ ( EVİ )</li>\n<li>- Yarım Gün Trinidad Şehir Turu</li>\n<li>- LA Budequita del Medio Restourant ta öğle yemeği, 2 içki dâhil</li>\n<li>- Florita Barda Daiquri</li>\n<li>- Tropicana gösterisi Yarım Şişe Havana Rom dâhil.</li>\n<li>- Tam Gün Öğle yemekli Vinales ve Pınar Del Rio gezisi &amp; Öğle yemeği Menü Tavuk eti. 2 içki dâhil</li>\n<li>- Yarım gün KLASİK ARABALARLA 1.30 saat gezi</li>\n<li>- Buenavista Socıal Club, : ET menülü,2 içki dâhil. Canlı Küba müzikleri eşliğinde Salsa Unutulmaz Renkli gecesi Havana  </li>\n<li>- CAYO BLANCO gezisi. Şnorkelle dalış ve Beyaz ada her şey dâhil Öğle yemeği adada 3 saat kalış,</li>\n<li>- Akşam yemeği California Restoran’da</li>\n<li>- Akşam yemeği El Toccorro Restoran’da</li>\n<li>- Yurtdışı Çıkış Vergisi (50 Tl)</li>\n<li>- Zorunlu Seyahat Sigortası</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Havana' ya Varış",
+      "description": "22 Nisan akşamı İstanbul Havaalanı Dış Hatlar Terminali’nde, saat 20.00’da Aeroflot Kontuarı önünde buluşma ve giriş işlemlerinden sonra, saat 02.15 ’de Aeroflot Havayolları’nın SU 2135Q sefer sayılı uçağı ile hareket."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Varadero",
+      "description": "Sabah kahvaltıdan sonra Saat 8 de lobide  Cayo Blanco Gezisi için buluşuyoruz."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Varadero, Santa Clara, Trinidad",
+      "description": "Sabah kahvaltıdan sonra saat 08.00’da çıkış işlemlerini gerçekleştirip, yola çıkıyoruz.  Güzergâhımız üzerinde Santa Clara turunu gerçekleştiriyoruz. Tren istasyonunda bunu öğreniyoruz ) . Güzergâhımız üzerinde Santa Clara turunu gerçekleştiriyoruz. Tur dâhilinde önce kahraman Ernesto CHE Guevara’nın gerilla arkadaşları ve Latin Amerika’daki diğer 37 Devrimciler ile beraber ebedi uykusuna yattığı ve heyecanla beklenen Che'nin Anıt Mezarı ve Müzesi’ni ziyaret edip sonra da kahramanlık öyküsünün yazıldığı mekân olan Tren Blindado’ ya gidiyoruz."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Trinidad",
+      "description": "Öğle yemeğini Santa Clara da alıyoruz. Sonrasında Trinidad ’ a transfer. Varışımızla beraber otele giriş işlemlerini gerçekleştiriyoruz. Otelimizde her şey dâhildir."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Trinidad, Havana",
+      "description": "Sabah kahvaltıdan sonra saat 08.00’da özel otobüsümüz ile Matanzas Bölgesine hareket ediyoruz, ilk olarak Cienfuegos da İspanyol mimarisinin güzel örneklerini görebileceğimiz Cienfuegos da kentine gidiyoruz."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Havana",
+      "description": "Sabah kahvaltısından sonra 8.30 da Hareket edecek şekilde tam günlük panoramik Havana şehir turu için otelden ayrılacağız. Etkileyici tarihinin yanında Dünya savaşlarından çok az zararla çıkmış ve ilk inşa edildiği haliyle kendini korumuş, 50’li ve 60’lı yılların Amerikan arabalarına sıkça rastlanan, İspanyol mimarisinin muazzam örneklerine sahip Havana’yı tanımaya yönelik şehir turu gerçekleştirilecektir."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Havana, Pınar Del Rio",
+      "description": "Sabah kahvaltıdan sonra saat 08.00'da otelden ayrılıyoruz; adanın tütün plantasyonunun en geniş yer kapladığı Unesco tarafından Dünya Koruma Mirası Listesine alınmış Vinales Vadisi'ne hareket ediyoruz. 1492 yılında Cristof Colomb’un burayı gördüğü zaman “İnsan gözünün görebileceği en güzel yer “ dediği vadinin tam gün yapılacak Pinar del Rio ve Vinales Turumuzda, önce tütün tarlaları (Montesinos Çiftliği) ziyaret edilerek ve. Tütünün nasıl yetiştirildiği hakkında bilgileneceğiz."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Havana",
+      "description": "Ernest Hemingway müze gezisi"
+    },
+    {
+      "dayNumber": 9,
+      "title": "Havana",
+      "description": "30 Nisan –  1 Mayıs gecesi her yıl Küba'da çok özeldir. Hazırlıklar yapılır,                  sokakta gezerler ve Marşları yeri göğü inletir. Kübalılar, işçi bayramının gelmesini sabırsızlıkla ve mutlulukla bekler. 1 Mayıs arifesi en az 1 Mayıs günü kadar eğlencelidir. Sabah 5.00 da kalkar Kahvaltı paketleri alındıktan sonra 1 Mayıs Bayramı’nın büyük bir coşkuyla binlerce işçi tarafından kutlandığı Devrim Meydanı’na yürüyerek eşlik ediyoruz. Burada kutlamalara dâhil olup, insan denizinde bir damla oluyor, Küba halkının en büyük bayramını biz de yerinde yaşıyoruz. Kortej saat 09.00 Son bulur. Rehberimizin daha önce belirmiş olduğu yerde buluşup buradan Hotelimize geçiyoruz."
+    },
+    {
+      "dayNumber": 10,
+      "title": "İstanbul' a Varış",
+      "description": "İstanbul Atatürk Havalimanına varış  ve tur sonu."
+    }
+  ],
+  "map": ""
+}

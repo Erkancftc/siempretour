@@ -1,0 +1,70 @@
+{
+  "destination": "Spain",
+  "mainPhoto": "",
+  "id": "intimate-barcelona-and-majorca-honeymoon",
+  "tourName": "Intimate Barcelona and Majorca Honeymoon",
+  "placesVisited": "Barcelona, Majorca, Valldemossa, Deia, Soller",
+  "generalInfo": "Spanish charm exudes through the bustling city of Barcelona and sweeps across the Mediterranean Sea to Majorca, the two staggering stops on this enchanting 9-day tour. Along the way, cherish Barcelonaâs incredible art and architecture, indulge in the flavors of Spainâs finest wines, and luxuriate along the stunning seascapes of Majorca. These are just a few intimate experiences that await you on the pristine Spanish shores.",
+  "durationDays": "9",
+  "price": "5,000",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Barcelona - A Spanish Welcome",
+      "description": "Boundless culture and phenomenal heritage sites lay throughout the spectacular seaside city of Barcelona, a destination that will seduce you from the moment you arrive. Throughout the day, humble vendors will serve aromatic dishes with herbs and spices, and locals will gather in town squares. You will begin to feel worlds away from home as the senses of Spain entrance you while strolling along cobblestone streets. This afternoon, you will be whisked away on a motorbike fitted with a sidecar on an inspiring cruise to lookout points of the Mediterranean."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Barcelona - Antoni Gaudiâs Architecture",
+      "description": "The great work of Antoni Gaudi will be a dream to discover on your first morning in Barcelona. Modernist charm oozes from the multi-colored mosaics of Guell Parkâs whimsical facade, and regal allure shines atop the summit of La Sagrada Familiaâs tallest spire. This is the architecture that foreigners flock here to witness, and you will be delighted to capture it. In the evening, you will tuck into delectable Spanish tapas as you tour Barcelonaâs mouth-watering culinary scene. You will visit hideaway restaurants in the narrow alleys of the Sant Antoni neighborhood."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Barcelona - A Gothic Stroll",
+      "description": "The Gothic Quarter of Barcelona is littered with art and architecture, and that is exactly what your tour will be focused on today. Roman ruins reflect the dramatic history of the city, Gothic cathedrals spotlight the religious traditions of the citizens, and the manicured greenery of Ciutadella Park is an endearing place to take your rest after a stirring tour. With the sun slowly fading behind the skyline, you will spend your final moments admiring the fiery sunset soundtracked by Spanish music."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Barcelona - Spanish Wine Country",
+      "description": "Today, you will join an expert guide and venture to Barcelonaâs enchanting wine region. Here, you will sink your teeth into sumptuous Spanish cuisine and treat your palate to some of the countryâs finest vintages. Among the staggering Cathedral of Cava, you will sip chilled cava from sparkling glasses under the detailed brick arches of the cathedral walls. Topping off your exquisite wine tasting experience, a sommelier-led tour of a wineryâs cellar will share insight into the regionâs distinct wine-making process."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Majorca - Endless Days on Pearly Shores",
+      "description": "The crown jewel of the Mediterranean and getaway of the stars, Majorca is a breathtaking postcard overflowing with soul. The Balearic Island is drenched in spectacular seascapes made possible by the formation of castaway coves and glistening beaches. Today, you will treasure a day of basking in the natural beauty, whether you meander the landscape or luxuriate on the sun-kissed shores. You can wallow in serene moments of silence later today as you weave to viewpoints nestled in the viridian headlands before arriving at a revered restaurant for a seafood supper."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Majorca - Together in Paradise",
+      "description": "While the seascape can be appreciated from the glimmering beaches, it is only when one ventures across the water that Majorcaâs grace can truly be absorbed. Thankfully, an experienced captain will be waiting for you to arrive at the harbor to set sail across the Mediterranean. Coasting past forested headlands to hidden coves only accessible by boat, you will escape the crowds and find yourselves pleasurably isolated from the outside world. You may dip your toes in the temperate water and spend your afternoon wading in paradise with one another."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Majorca - Inspiration atop the Tramuntana Mountain",
+      "description": "Seaside spectacles steal the show in Majorca, and some of the most marvelous ones lay just beyond the hiking trails that weave through the mountains. Following a knowledgeable trail guide, you will set off across the Tramuntana Mountain to the charming villages of Valldemossa, Deia, Soller. The mountain is blanketed in greenery, and its jagged outcrops tower over the sprawling Mediterranean. Between the thicket, the mesmerizing villages lie pinned in the dense scenery. It is here that some of the greatest artists and writers produced their famous work."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Majorca - The Pinnacle of Relaxation on the Mediterranean",
+      "description": "It is impossible to get enough of Majorca. After all, it presents endless picturesque moments and memories to be made along its idyllic coastline and within its endearing towns. Today, you will have nothing set in stone, and Majorca will be yours to explore to your hearts' content. You may trace back the culture in modest museums, lap up the scenery from glowing beaches, and devour succulent seafood served on terraces. The day will be slow and lazy, allowing you to savor every minute of your final hours in Spain."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Majorca - Farewell and Onwards Home",
+      "description": "Although saying goodbye to the stirring country of Spain will be heartbreaking, your every craving and sense of wanderlust will be fulfilled because you will have visited the bustling city of Barcelona and the sun-bathed seas of Majorca. You will look back on these moments in pleasant disposition, thinking of the times spent indulging in traditional tapas , music playing atop Casa Batllo, flavors of Spainâs prestigious wines, scenes of Majorcaâs sweeping seascape, and images of Antoni Gaudiâs astonishing architecture. Until next time, adiÃ³s."
+    }
+  ],
+  "map": ""
+}

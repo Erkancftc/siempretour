@@ -1,0 +1,60 @@
+{
+  "destination": "Tahiti",
+  "mainPhoto": "",
+  "id": "ST01503",
+  "tourName": "Avustralya Ve Fiji Turu - İki İnanılmaz Ülke, Bir Rüya Tatil",
+  "placesVisited": "Tahiti, Avustralya",
+  "generalInfo": "Bu Avustralya ve Fiji turu, kilometrelerce ötedeki başka bir dünyanın güzelliğini keşfetmenizle ruhunuzu tazeler. Fiji'deki tropikal cennetin harikalarını keşfedin. Güneşli ıssız plajlarda huzurun tadını çıkarın. Sidney'deki canlı kültürü ve muhteşem manzaraları deneyimleyin.<br><br><strong>ÖNE ÇIKANLAR</strong>",
+  "durationDays": "12",
+  "price": "FİYAT İSTEYİNİZ",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li>- Türkçe Rehberlik Hizmeti,</li>\n<li>- Uçak Biletleri</li>\n<li>- Otellerde konaklama</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Nadi’den Fiji'ye Hareket",
+      "description": ""
+    },
+    {
+      "dayNumber": 2,
+      "title": "Uluslararası Dateline Geçişi",
+      "description": ""
+    },
+    {
+      "dayNumber": 3,
+      "title": "Fiji Adaları’na Varış",
+      "description": "Cennete hoşgeldiniz! Yerel temsilciniz sizi havaalanında karşılayacak ve güzel bir çiçek kolyesi ile selamlayacak. Sonra otelinize transfer edileceksiniz. Otele vardığınızda otel personeli, geleneksel sıcak Fiji misafirperverliğiyle sizi karşılayacaktır. Fiji Adaları'nın ruhu, kültürü ve güzelliği anında büyüler. Sahil kenarındaki tesisiniz, 18 delikli bir golf sahası ile çevrili, konforlu ve geniş konaklama birimleri, beş lagün yüzme havuzu ve yemyeşil tropikal bahçeler sunmaktadır. Olanaklar arasında; ücretsiz hızlı internet, oda servisi ve sağlık kulübü bulunmaktadır. Bu gece otelin sahil restoranlarından birinde ve Pasifik Okyanusu'nun güzelliğinin ortasında akşam yemeğinizin tadını çıkarın."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Denarau Adası, Fiji - Tropik Cennet’in Keyfini Çıkarın",
+      "description": "Dört günlük dinlenme ve keşif zamanınızın keyfini çıkarın. Otelinizdeki tropik ortamın tadını çıkarmaya da zaman ayırın. Tesisin ıssız bozulmamış beyaz kumlu plajında ​​güneşlenin, serinletici lagün havuzlarına dalın, tenis ya da golf oynayın. Bölgeyi isteğe bağlı turlarla da keşfedebilirsiniz. Yakınlarda çamur banyoları, Hindu tapınakları ve ada turları için kalkışlar bulacaksınız. Daha maceracı hissediyorsanız, yağmur ormanlarının derinliklerinde rehberli bir nehir raftingi gezintisini deneyin ya da otantik Fiji köylerini görmek için Sigatoka Nehri'nin safari jet bot turuna çıkın."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Fiji Adaları'ndan Avustralya Sidney'e Uçuş",
+      "description": "Sabah, Sidney uçağınız için otelinizden havalimanına transfer edileceksiniz. Sidney havaalanına vardığınızda, otelinize transfer için sürekli sefer yapan yolcu aracı sürücünüz tarafından karşılanacaksınız. Şehrin merkezinde yer alan otel, Sidney Opera Binası, Liman Köprüsü ve Kraliyet Botanik Bahçeleri'ne kısa bir yürüyüş mesafesindedir. Şehrin kozmopolit kültürüne, popüler pub'larına ve açık hava aktivitelerine kendinizi kaptırmak için mükemmel bir yerdir. Büyük pencereler, düz ekran televizyonlar ve ekstra derin küvetler gibi butik vurguları olan otelin lüks odaları ultra moderndir. Olanaklar arasında; ücretsiz hızlı internet, oda servisi ve sağlık kulübü bulunmaktadır."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Avustralya’nın En Büyüleyici Şehri Sidney’i Keşfedin",
+      "description": "Sidney'i kendi hızınızda keşfedin. Şehrin siluetinin muhteşem gözlemi için Sidney Limanı’nın etrafında bir yat gezisi düşünün. Bu mimari harikayı yakından görmek için Opera Binası'nı da gezebilirsiniz. Bir öğleden sonra Bondi Plajı’ndaki sörfçüleri izleyebilir ve daha sonra Coogee Plajı Pasifik Yolu'nda okyanusun panoramik fotoğraf olanakları için gezebilirsiniz. Muhteşem vitray pencereleri görmek ve lüks butiklerde alışveriş yapmak için gösterişli Romanesk tarzı Kraliçe Victoria Binası'nı ziyaret edin."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Sidney'den ABD için Yola Çıkış",
+      "description": "En alttaki kıta Avustralya dünyasına hoşçakal deme zamanı. Sürekli sefer yapan yolcu aracı sürücünüz sizi havaalanına götürmek için otelden alacak. Eve dönüş yolculuğunuzda Avustralya'dan hareket edin."
+    }
+  ],
+  "map": ""
+}

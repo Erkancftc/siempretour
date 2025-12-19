@@ -1,0 +1,60 @@
+{
+  "destination": "Peru",
+  "mainPhoto": "",
+  "id": "PEIA",
+  "tourName": "İnkalar ve Amazon",
+  "placesVisited": "Peru",
+  "generalInfo": "Cusco’dan başlayarak Peru’nun en ilginç yerlerinde hızlı bir maceranın keyfini yaşayın. Bereketli Amazon ormanının kalbinde kalacaksınız, Machu Picchu’ya rehber eşliğinde gezi yapacak ve İnkaların kutsal vadisinde keşfe çıkacaksınız. Sadece 8 gün içinde 2 şehir, bir orman ve tartışmasız en önemli İnka yerleşimleri deneyimi yaşayacaksınız.<br><br><strong>Katılış için en yakın uluslararası havaalanı:</strong> Cusco Velazco Astete Havaalanı(CUZ)<br><br><strong>Ayrılış için en yakın uluslararası havaalanı: </strong>Cusco Velazco Astete Havaalanı(CUZ)",
+  "durationDays": "8",
+  "price": "1159",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Tur ve Aktiviteler</strong></p>\n<p>- Rehber eşliğinde İnkaların kutsal vadisi gezisi</p>\n<p>- Rehber eşliğinde Machu Picchu gezisi</p>\n<p>- Peru Amazon ormanında 2 gece</p>\n<p><strong>Konaklama</strong></p>\n<p>Otelde 4 gece, orman kulübesinde 2 gece</p>\n<p><strong>Yemekler</strong></p>\n<p>7 kahvaltı, 2 öğle yemeği, 2 akşam yemeği</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Cusco",
+      "description": "Peru’ya hoş geldiniz. İnka dili Quechua’da dünyanın merkezi anlamına gelen Cusco ,çoğu yerli 300.000 nüfuslu bu büyüleyici şehir katedralin ve  La Compañia de Jesus kilisesinin hakim olduğu Plaza de Armas çevresinde yerleşmiştir.Kemerli çarşıları birçok restoran,bar ve mağazaya ev sahipliği yapar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Sacred Valley of the Incas & Ollantaytambo",
+      "description": "1 tam günümüz İnkaların kutsal vadisini ziyaret ederek geçecek.3800 m de, kalıntıların etrafında yüksekliğin  etkilerini kontrol edebilmek için en fazla bir saatlik yavaş yürüyüşler yapıyoruz.ilk olarak bir tepeye yerleşmiş ve etrafını çevreleyen dağların muhteşem manzaralar oluşturduğu Pisac harabelerine gidiyoruz.Daha sonra farklı renkleri ve atmosferiyle aynı adı taşıyan ünlü geleneksel pazara doğru iniyoruz.Burası hediyelikler için harika bir yer.Öğle yemeğinden sonra dağların dik yamaçlarına inşa edilmiş devasa İnka teraslarının bulunduğu Ollantaytambo tapınağı/kalesi ne doğru vadi boyunca devam ediyoruz."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Machu Picchu & Cusco",
+      "description": "Peru kültür yönetimi,1 temmuz 2017 den itibaren yoğun turist gruplarının şehri daha rahat gezmesi, şehrin ve kalenin korunması amacıyla Machu Picchu’ya girişlerin sabah ve öğleden sonra olmak üzere 2 vardiyaya ayrıldığını duyurdu.Sonuç olarak eğer bu tarihten sonra Machu Picchu için bir tren seyahati ayarladıysanız,rehber eşliğindeki geziniz öğleden sonra vardiyasında gerçekleşecektir."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Cusco",
+      "description": "Bugün Cusco’yu serbestçe gezip görebilirsiniz.Günün büyük bölümünü İnkalardan kalma duvarları ,kemerleri ve kapıları görebileceğiniz ilginç kiliseleri,koloni yapılarını ve görkemli sokakları keşfederek geçirin.Şehri yukarıdan gören bir tepede, törenlerin yapıldığı ve en belirgin İnka duvarlarından 130 tonluk taş blokların olduğu Sacsayhuaman kalesi bulunur."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Amazon Jungle",
+      "description": "Siempre temsilciniz sizi Amazon yağmur ormanlarına ziyaretimizin başlangıç noktası olan orman bölgesi Puerto Maldonado’ya uçmak üzere havaalanına götürecek."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Cusco",
+      "description": "Bugün ormanın seslerine uyanarak Cusco’ya uçmak üzere ,tekneyle  Puerto Maldonado’ya gidiyoruz.Macera sona ermeden günün geri kalanını bazı son dakika hediyelikleri alarak geçirebilirsiniz."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Cusco'dan Ayrılış",
+      "description": "Ömrünüz boyunca unutamayacağınız bir macera  bugün sona eriyor.Eğer geç saatte bir uçuşunuz varsa ya da konaklamanızı ve kalış sürenizi uzatırsanız şehri daha fazla gezmek için ekstra zamanınız olacak."
+    }
+  ],
+  "map": ""
+}

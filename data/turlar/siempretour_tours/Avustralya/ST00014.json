@@ -1,0 +1,90 @@
+{
+  "destination": "Avustralya",
+  "mainPhoto": "",
+  "id": "ST00014",
+  "tourName": "Klasik Güney Avustralya Turu: Sidney, Mavi Dağlar, Kanguru Adası, Melbourne ve Phillip Adası",
+  "placesVisited": "Avustralya",
+  "generalInfo": "Kangurular tabiatta seker. Koalalar yemyeşil ağaçlarda tembellik eder. Çıtır çıtır beyaz ve zengin kırmızı şarap vadiler boyunca su gibi akar ve sığır filetosu sulu ve unutulmazdır. Bu 15 günlük tur, sizi güneyin en iyilerini deneyimlemenize imkan sağlayan Avustralya'nın güneyindeki en iyi yerlere götürür. Tarihinden günümüz kültürüne kadar bu tur, Avustralya'yı eşsiz kılan, geçmişi ve bugünü bir araya getiren şehirleri unutulmaz kılan vahşi yaşamı ve kayalıklı araziyi kapsamaktadır.<br><br><strong>Turda Öne Çıkanlar</strong>",
+  "durationDays": "13",
+  "price": "FİYAT İSTEYİNİZ",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li>- Türkçe Rehberlik Hizmeti,</li>\n<li>- Uçak Biletleri</li>\n<li>- Otellerde konaklama</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Sidney’e İniş",
+      "description": "Sidney'e vardıktan hemen sonra otelinize geçeceksiniz. Ardından Sidney Opera Binası'nın görkemini tanık olacaksınız. Yelkenleri, rüzgârın binayı açık suya üflemesi için yalvarıyormuş gibi limanın üzerinde inanılmaz bir gölge oluşturuyor. Deniz kenarı boyunca yürüyün ve yakındaki bahçenin çiçeklerine karışan saf deniz havasını koklayın. Dalgalar yavaşça yürüdüğünüz yolun aşağısına çarpar. Opera Binası'na girin ve binanın tarihçesine, başlangıcından bu yana vurgulanmış seçmeli performanslara kadar göz atın. Opera Binası’nın ışıkları beyaz pileli duvarların arasından sıyrılıyor ve içerideki mükemmel akustik, attığınız adımları adeta bir davul sesine dönüştürüyor."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Sidney'de bir tur daha atın",
+      "description": "Circular Quay'e hızlı bir yürüyüş ardından, Sidney Limanı'nın berrak mavi sularına doğru ilerleyen bir yolcu gemisine bineceksiniz. Opera Binası güçlü ve ihtişamlı şekilde dururken körfez üzerinde yer alan Liman Köprüsü'nün iskeleti andıran şeklini görün. Ufuk çizgisi uzaklaştıkça ve Avustralya'nın tekne kaplı banliyöleri ortaya çıktıkça cildinizi saran deniz esintisini hissedin."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Doğa Yürüyüşü, Sidney",
+      "description": "Çevrelediği inanılmaz ağaç dolu boğazlarla Mavi Dağlar’a Yolculuk. Üç Kardeş kayalıklarında, kendilerini daha büyük yapılardan ayıran ve aşağıdaki vadinin üzerinde büyük ve heybetli duran kaya oluşumlarıyla bir fotoğraf çekin. Avustralya'nın eşsiz hayvan topluluğunun bulunduğu vadiye doğru kısa ve basit bir yürüyüşe çıkın. Gölgelik, güneşten korunmak için birebir. Bazı ağaçlarda hangi hayvanın hangi ağacı sevdiğini anlamanda yardımcı olacak etiketler bulunur. Belki de yakındaki nehrin durgun sularında yüzen bir ornitorenk görme şansın olur."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Güney Avustralya",
+      "description": "Sidney Havalimanı'ndan Adelaide'e hızlı bir uçuş sonrası Festivaller Şehri sizi kollarını açmış şekilde karşılar. Adelaide, yaz festivalleri ve Avustralya'nın şarap ülkesine olan yakınlığı ile tanınan bir şehirdir. Dünyanın en yaşanabilir şehirlerinden biri olarak gösterilen şehirde güzel bir tur sizi Glenelg banliyösüne ve güney sahillerinin bozulmamış sularına götürecek, ardından güneş de dalgalardan alıp getirdiği serin buharı da beraberinde getirecektir. Kentin yaklaşık sekiz kilometre ötesinde, Adelaide’deki Park Lands’de gezintiye çıkın. Çimen canlı yeşil renktedir ve hışırdayan suyun sesi havaya karışırken sakız ağaçlarının gölgesi de parka uzanır."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Barossa ve Geçit",
+      "description": "Avusturalya'nın en ünlü ve en canlı şarap bölgesi Barossa'ya giderken Torrens Gorge'dan geçin. Fısıldayan Duvar'ı ziyaret edin; baraj duvarının bir tarafından sızan su, gölden fısıltı yükselirmişcesine ses çıkarıyor. Duvarın diğer tarafı, geçidin dış dünyaya açıldığı ve uzun uzadıya yayılan dik bir yokuştur. Bir oyuncak fabrikasının önünde inşa edilmiş devasa sallanan atı da ziyaret edebilirsiniz. At, kıvrılmış saç ve uzun kirpiklerle çizgi film karakteri gibidir."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Kanguru Adası",
+      "description": "Sabah uçuşu sizi Adelaide'den kanguru adasının güzelliklerine götürecek ve adadaki inanılmaz vahşi yaşam turu sizi içine alacak. Yerel halk tarafından “KI” olarak bilinen ada, binlerce yıldır yerel hayvanları koruyan çeşitli ve verimli arazileriyle bilinir. Ada, yükselen uçurumları, sık ormanları, devasa kum tepeleri, harikulade sulu mekanları ve bozulmamış beyaz kumsalları ile dekore edilmiştir. Deniz aslanları beyaz ve sıcak kumlar üzerinde yayılıyor. Koalalar okaliptüs ağaçlarında yüksekte uyuyor. Yırtıcı kuşlar, yiyecek arayışı içinde gökyüzüne süzülüyor. Geceleyin rehberli bir tur, KI hayvanlarını doğal ve karanlık habitatlarında görme fırsatı sunar. Bunlar arasında kısa kuyruklu kangurular, dikenli karıncayiyenler ve yarasalar da bulunur. Yıldızlar geceleyin gökyüzünü parıltıyla doldurur. Rehberinizden sadece Güney Yarımküre'de görülebilen bir takımyıldızı olan Güney Haçı’nı göstermesini isteyin."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Adasız Bir Gün",
+      "description": "Boş gününüzü birçok aktivite ile dopdolu geçirmek üzere güne D'Estrees Körfezi'nde başlayın. Bölge, tarihi balina avcılık binasına ev sahipliği yapar. Dalgalar, eski gemi enkazlarına çarparak dağılır. Bu bölge genel olarak bozulmamış; havayı yaş çimen kokuları dolduruyor, pelikanlar uzun kumsallarda besleniyor  ve kangurular altın çayırlarda otluyor. Patika boyunca dalgarın vurduğu at nalını andıran küçük bir körfezden geçin. Günün sonunda Kızıl Bankları ziyaret edin. Rengarenk uçurumların uzantısı olan bölgede, uçurumun tepesinden muhteşem manzaralar seyredin. Kayalara çarpan dalgaların sesi, gün batımı ile birlikte değişen sarp kayalıkların rengi ve bölgenin inzivaya çekilmesi size Avustralya'nın çok özel bir yönünü gösteriyor."
+    },
+    {
+      "dayNumber": 8,
+      "title": "- KI Lounge ve Melbourne Bound",
+      "description": "Gününüzü lüks salon içerisinde dinlenerek geçirin. Doğal yaşam alanlarında avcı kuşların etkileşimli ortamına tanık olun. Yırtıcı kuşlar kara kanatları ve güneşi gölgeleyen etkileyici kanatlarıyla uçuyorlar. Kookaburra kuşları kahkaha ile uluyor ve peçeli baykuşların ötüşü havaya karışıyor. Bu tur sizin için hem bilgilendirici hem de heyecanlandırıcı kişisel bir deneyim olacak. Rehberler, güvenliğinizi sağlayacak ve korkularınızı yenmenize yardımcı olacak; Sonuçta, Melbourne’e gitmek için yakalamanız gereken bir uçuş var."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Melbourne’ün Doğuşu",
+      "description": "Melbourne'e geç varış, şehrin farklı bir yönünü ortaya çıkarır. Royal Arcade'de gezintiye çıkın ve galerilerin arasında geçen capcanlı hayatın tadını çıkarın. Çarşıyı kuşatan antika cazibesi, yerli halk ve ziyaretçiler için hoş ve eğlenceli bir ortam yaratır. Melbourne’un en güzel ve tanınmış mağazalarından bazılarıyla dolu olan Royal Arcade'de büyük kemerli tavanlar, cilalı damalı zeminler ve galeriye girişinizde sizi karşılayan mağaza vitrinleri bulunmaktadır. Gaunt'un Saati, siyah cephesi ve altın rakamlarıyla, Gog ve Magog'un iki dev heykelinin bulunduğu ana kemeri süslemektedir."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Büyük Melbourne",
+      "description": "Melbourne'u yarım günlük bir turla keşfedin. Sanat bölgesindeki Melbourne Sanat ve Kültür Merkezi'nde şehrin kültürel merkezine göz atın. Büyük sivri çatı silindirik binayı üst kısımdan bir ağ gibi sarar. Başlangıçta bir gösteri sanatları merkezi olan yer, Victoria’nın büyük sanatçılarından bazılarına, edebiyat ve tiyatrodan tutun da performans ve güzel sanatlara kadar geniş yelpazede ev sahipliği yapmaktadır. Kule karanlık gecede parlayan mavi renkte görülebilir."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Büyük Okyanus Yolu",
+      "description": "Büyük Okyanus Yolu'nda inanılmaz bir tur için erken vakitte şehirden ayrılın. Yol, Victoria sahilinden Güney Avustralya sınırına kadar uzanan 240 km boyunca sahil şeridinden devam ediyor. Dalgalar, kumsala çarparken koyu maviden turkuaza dönüşür. Yol, dağın kıyısındaki çeşitli noktalarda olağanüstü bir manzarayı gözler önüne sererken, Güney Okyanusu'nun güçlü dalgaları arasından okyanus kokusu yükselir. Şelaleler dağların kenarında göller ve nehirlerle beslenirken, hemen o civarda Otway Milli Parkı'nda yürüyüş yapmanın tadını çıkarın. Ayrıca yıldız kurtlarının su oluklarını gece yıldızları gibi aydınlattığını görebilirsiniz. Kaya oluşumları kıyı şeridini süslemekte olup, sular kendilerine çarptıkça güneş ışığında renkten renge bürünüp engebeli kıyı boyunca zaman içinde şekillenmektedir."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Melbourne’ün Dışında Yaşam",
+      "description": "Avustralya'daki son gününüz sizi şehrin hemen güneydeki Phillip Adası’na götürür. Çeşitli doğal yaşamı koruma çabaları sonucunda, Avustralya'nın vahşi yaşamının bazılarını doğal ortamlarında göreceksiniz. Koala Koruma Merkezi'nde ağaçların üzerine inşa edilmiş tahta kaldırımları keşfederek sevimli ayıları yakından görebilirsiniz. Koalaların yemek yemesini, uyumasını ve okaliptüs yapraklarını yemesini seyredin. Ayrıca dikkatli bakarsanız alanı dolduran kısa kuyruklu kangurular ve dikenli karıncayiyenleri de görebilirsiniz. Geceleyin adanın en popüler turistik yerlerinden Penguin Parade ile karşılaşacaksınız. Penguen kolonisinin denizden çıkıp ıslak kum üzerinden yuvalarına doğru badi badi yürüyüşlerini izleyin. Penguenlerin birbirleriyle oynaşması gece gökyüzünde yankılanır ve dalgaların sesinde kaybolur."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Eve Dönüş Vakti",
+      "description": "Avustralya'nın güney şehirlerini ve Melbourne’ü geride bırakma zamanı. Göz alıcı arazisi, canlı yaşamı ve eşsiz vahşi doğası araştırıldı ve keşfedildi. Eve dönüş demek, sıradan hayata dönüş demek değildir; Bu sadece başka bir maceradır."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,85 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "12-days-of-adventures-in-beautiful-argentina",
+  "tourName": "12 Days of Adventures in Beautiful Argentina",
+  "placesVisited": "Buenos Aires, Ushuaia, El Calafate, Puerto IguazÃº",
+  "generalInfo": "Venture to one of the most biodiverse regions in the world on a 12-day Argentina adventure. Immerse yourself in the hustle and bustle of city life, set against the backdrop of vibrant hues and colonial facades. Tap your feet to the lively rhythms of Argentina's famed tango music before taking off on the adventure of a lifetime in Patagonia and the majestic glaciers at El Calafate.",
+  "durationDays": "12",
+  "price": "4,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Buenos Aires - Arrive and Enjoy Wondrous Argentina",
+      "description": "Welcome to Argentina! Welcome to this illustrious South American country, home to Patagonia and bustling city life. Today, you will arrive at the Buenos Aires airport and be transferred to your downtown accommodation via private transportation. Enjoy the rest of the day at your own pace, exploring the city center. Marvel at the architecture, inspired by Spanish colonial design, and the bold pops of color on every street. Bargain shop at high-end designer stores or relax at an outdoor cafe. In the evening, you can try renowned Argentine beef, sizzling on an open parrilla."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Buenos Aires - Cycle to the Enchanting Puerto Madero",
+      "description": "Today, you'll join a private bike tour to visit the vibrant neighborhoods of San Telmo and La Boca, keeping up with urban life. Later, you'll peruse the illustrious Puerto Madero for city skyline views as sailboats bob in the distance. In the late evening, make your way back to the heart of the city for dinner along the cobbled streets of Montserrat."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Ushuaia - Welcome to Unique Ushuaia",
+      "description": "Take flight on a new adventure to Argentina's most revered natural wonders. Fly to Ushuaia, a small town known for its indigenous heritage. Although it was officially incorporated into the Republic of Argentina in 1884, Ushuaia has long been home to the Yamanas, its first inhabitants, who named the town \"protected bayâ in their native language. You will have time to explore the town at your pace. Step inside several unique museums, including the Thematic Gallery of the Historia Fueguina. In the evening, you can indulge in a seafood dinner to embrace local cuisine including delicious black hake fish."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Ushuaia - Embark on a Trekking and Paddling Excursion",
+      "description": "Lace up your hiking boots for a full-day excursion at Tierra del Fuego National Park. Meet your guide, then travel just 12km to one of the worldâs most awe-inspiring national parks. You'll begin your hike at Ensenada Bay, where you'll catch a glimpse of the beautiful Beagle Channel before making your way to the coast. Later that afternoon, you'll arrive at La Roca, at an iridescent lake at the base of snow-capped mountains. Stop for lunch amidst the fascinating scenery before rounding out your trek at Lapataia Bay."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Ushuaia - Traverse Penguin Rookery and Beagle Channel",
+      "description": "Take off the next morning on a day-long adventure at Harberton Ranch. You and your guide will first visit Beagle Channel, where you'll keep watch for rare bird species and listen for small mammals and reptiles in the shrubbery nearby. Along the way, you may make stops at Isla de los PÃ¡jaros , where you can spot a colony of Imperial cormorants and other native birds. As you visit Isla Martillo, you may hear barking seals and squawking gentoo penguins amid the smell of sea as you travel in the direction of Isla Martillo."
+    },
+    {
+      "dayNumber": "6",
+      "title": "El Calafate - Welcome to Southern Patagonia",
+      "description": "On Day 6, you'll move on to El Calafate, one of the most revered destinations in southern Patagonia. Home to the Perito Moreno Glacier, one of the only glaciers in the world that's still expanding, El Calafate is well known as the starting point for many adventure seekers hoping to uncover the natural wonders hidden throughout Patagonia. At the shore of Lago Argentino, El Calafate is also home to the Spegazzini Glacier, which divides Chile and Argentina. Finally, relax at an authentic finca , or ranch, as you look out on the green plains rolling into the horizon."
+    },
+    {
+      "dayNumber": "7",
+      "title": "El Calafate - Spend a Full Day at Perito Moreno Glacier",
+      "description": "Admire Patagonia's icy giants up close at Glaciers National Park, a UNESCO World Heritage site since 1981. Witness a breathtaking array of mesmerizing hues, from the crisp white Hielo PatagÃ³nico to the deep greens and blues of the Andes in the distance. You'll inch ever closer to the Perito Moreno Glacier for a view of Spegazzini and Upsala glaciers. You can also embark on a nautical safari tour, on which you'll marvel at the gigantic ice walls of Perito Moreno."
+    },
+    {
+      "dayNumber": "8",
+      "title": "El Calafate - Relax at a Traditional Patagonian Ranch",
+      "description": "Live life like a local today as you explore Patagoniaâs estancias , an integral part of Argentine culture. Breathe in the crisp air of the Patagonian Steppe and admire the mountain peaks as alpaca graze in the distance and cowbells ring out from the hillsides. Explore the winding trails by foot or on horseback alongside your personal guide. Later, you'll learn more about the region's history and cultural heritage, including a horse-handling gaucho demonstration and a lesson about the village's primary occupation, sheep breeding."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Puerto Iguazu - Travel North to Puerto IguazÃº",
+      "description": "Travel to the airport with a private transfer to arrive at Puerto IguazÃº, a small border town and home to IguazÃº Falls, one of the worldâs seven natural wonders. Spend the day deep within the lush jungle foliage where you may visit the Hito Tres Fronteras, the border where Paraguay, Uruguay, and Argentina meet. Listen to the churning waters and energetic coos of tropical birds as you walk through the local market where locals often display their artisan crafts."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Puerto IguazÃº - Trek through Iguazu National Park",
+      "description": "Your adventure continues today as you trek through IgauzÃº National Park to explore endless walking trails, waterfalls, and wildlife. Your guide will provide you with complimentary binoculars so that together, you'll spot fascinating wildlife including toucans, monkeys, or even native coatis, marked by their long, striped tails. You'll soon make your way to the Garganta del Diablo for a look at the magnificent falls raging below. Traverse the wooden walkways for unique perspectives of wildlife and vegetation."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Buenos Aires - Explore IguazÃº National Park and Parque Das Aves",
+      "description": "Set off for the Brazilian border. You'll board private transportation en route to Parque de Aves for one-of-a-kind birdwatching. Here, you'll see colorful species native to the most-southern regions of the continent, including toucans, parrots, and more. Later, you'll explore the Brazilian region of the IguazÃº National Park for more incredible views of the massive, cascading falls. Feel the cool splash against your face as you get closer and closer to the epicenter of Devil's Throat and the crashing waters below. Return to Buenos Aires in the evening."
+    },
+    {
+      "dayNumber": "12",
+      "title": "Buenos Aires - Depart for Home",
+      "description": "Your Argentine adventure comes to a close today. In the weeks to come, you'll remember the frenetic energy of Buenos Aires; the crisp, cool air in El Calafate at the Perito Moreno glaciers; and the relentless cries of tropical birds and cascading waters of Puerto IguazÃº. In the morning, after breakfast, you'll be greeted by your private transport and accompanied to the regional airport where you'll catch your flight home. Perhaps you'll spend your return flight planning a return to Argentina."
+    }
+  ],
+  "map": ""
+}

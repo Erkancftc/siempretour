@@ -1,0 +1,80 @@
+{
+  "destination": "Meksika",
+  "mainPhoto": "",
+  "id": "TMMM",
+  "tourName": "Mexico City’ den Cancun’ a",
+  "placesVisited": "Meksika",
+  "generalInfo": "Bu enerjik tur, Meksika’ nın sunabileceği en büyülü manzaraların ve seslerin bir kısmını içermektedir.  Nefis yemeklerin tadına bakın, gece boyunca dans edin ve bir ömürlük bu turda Maya harabelerini keşfedin.<br><br><strong>Lütfen dikkat:</strong> Bu örnek bir güzergahtır ve kendi kişisel gereksinimlerinize ve bütçenize uyarlanabilir.",
+  "durationDays": "11",
+  "price": "2379",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Geziler ve aktiviteler: </strong></p>\n<ul>\n<li>- Mexico City ve Teotihuacan turu</li>\n<li>- Puebla turu</li>\n<li>- Mitla turu</li>\n<li>-  Sumidero Kanyonu boyunca tekne turu</li>\n<li>- San Cristobal de las Casas turu</li>\n<li>- Agua Azul Waterfalls</li>\n<li>- Palenque turu</li>\n<li>- Campeche oryantasyon turu</li>\n<li>- Uxmal turu</li>\n<li>- Merida oryantasyon yürüyüşü</li>\n<li>- Chichén Itzá turu</li>\n</ul>\n<p><strong>Konaklama:</strong> </p>\n<p>Otellerde 10 gece</p>\n<p><strong>Taşıma:</strong> </p>\n<p>Özel araç</p>\n<p><strong>Yemekler:</strong> </p>\n<p>10 kahvaltı</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Mexico City' e Varış",
+      "description": "Mexico City’ deki uluslararası havalimanına vardığınızda, şoförünüz sizi alacak ve özel araçla otelinize transfer edileceksiniz.  Check-in yaptıktan sonra günün geri kalanı serbest zaman, çünkü turunuzun ilk günü önceden organize edilmiş aktiviteleri olmayan bir gündür."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Mexico City ve Teotihuacan",
+      "description": "Bu sabah özel rehberinizle buluşacak ve günü Mexico City ve yakınlardaki arkeolojik Teotihuacan bölgesini keşfederek geçireceksiniz.  Muhteşem bir Latin-Barok tarzı cephesi ile Mexico City’ nin ana katedrali olan etkileyici Catedral  Sagrario Metropolitano’ yu bulabileceğiniz ana meydan iyi bir başlangıç ​​noktası olacaktır.  Muazzam Zocalo, Montezuma I zamanındaki Aztec yönetiminden bu yana şehrin kalbi olmuştur.  Bu alan bir zamanlar saraylar ve tapınaklar tarafından çevrilmiştir ve şimdi dünyanın ikinci büyük meydanıdır.  Meksika’ nın tarihi, kültürü ve insanı hakkında bir fikir edinecek, Templo Belediye Başkanı ve ülkenin en ünlü sanatçılarından biri olan Diego Riviera’ nın bağımsızlık mücadelesini tasvir eden duvar resimlerini görebileceğiniz Ulusal Saray gibi önemli yerleri ziyaret edeceksiniz."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Puebla ve Oaxaca",
+      "description": "Bu sabah özel rehberinizle buluşacak ve Oaxaca’ ya doğru yola çıkacaksınız.  Pico de Orizaba olarak da bilinen Popocatepetl, Iztaccihuatl, Malinche ve Citlaltepetl gibi Meksika’ nın en tanınmış dört yanardağının dört bir yanında yer alan koloni şehri Puebla’ yı ziyaret edebilirsiniz.  Puebla’ nın tarihi merkezi UNESCO Dünya Mirası listesindedir ve burada 70’ den fazla kilise ve 1000 adet koloni binası bulunmaktadır.  Rehberinizle Zocalo, Katedral ve Tesbih Şapeli’ ni ziyaret edeceksiniz."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Monte Alban ve Mitla",
+      "description": "Bu sabah özel rehberinizle buluşacak ve Zapotekan halkının bir tepeye inşa edilen dini başkenti Monte Alban’ a seyahat edeceksiniz.  Burası piramitler ve mezarlar bakımından zengindir ve panoramik bir manzara sunar.  Kalıntılar, Oaxaca’ nın merkez vadisinde, deniz seviyesinden 1600 metre yükseklikte birleşen üç dağ sırasının doruklarına uzanmaktadır."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Sumidero Canyon",
+      "description": "Bugünkü seyahat oldukça uzun sürecek ve sabahın erken saatlerinde başkent Chiapa de Corzo yönünde Chiapas Eyaleti için yola çıkacaksınız.  Yol boyunca yerel tekne ile seyahat edilen etkileyici Sumidero Kanyonunu ziyaret edeceksiniz.  Kanyon milli park ile çevrilidir ve 1000 metre yüksekliğe kadar dikey duvarlara sahiptir.  Grijalva Vadisi’ nin daha sıcak ormanlarına ve daha çok ormanımsı bölgelerine ulaşacaksınız ve buralarda yükselen şelalelerin altından geçecek ve hatta nehir kenarlarında güneşlenen timsahlara bile rastlayabileceksiniz."
+    },
+    {
+      "dayNumber": 6,
+      "title": "San Cristobal de las Casas",
+      "description": "San Cristobal de las Casas, farklı dilleri, elbiseleri ve gelenekleri olan 21 yerli köyüyle çevrilidir.  Şehre parlak renklerle boyanmış kırmızı kiremitli evler hâkimdir.  Bugün San Cristobal’ a birkaç kilometre uzaklıktaki San Juan Chamula ve Zinacantan’ ın yerli topluluklarını ziyaret edeceksiniz."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Agua Azul Waterfalls",
+      "description": "Bugün, Chiapas Dağları’ ndan inecek, en yeşil vadilere, Palenque ormanlarına kadar uzanacaksınız.  Yol boyunca temiz, turkuaz sularda yüzerek serinleyeceğiniz güzel Agua Azul şelalelerini ziyaret edeceksiniz.  Palenque’ ye varışta, otelinize uğradıktan sonra günün geri kalanı serbest zamandır."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Palenque and Campeche",
+      "description": "Tüm sabah, hala tropikal ormanlarda gizlenmiş olan muhteşem arkeolojik Palenque bölgesine yapılacak rehberli bir geziyle geçirilecektir.  Rehberinizle, burada bulunan büyüleyici piramitleri ve tapınakları keşfedeceksiniz ve Palenque hanedanlığının yükselişini ve düşüşünü öğreneceksiniz.  Maya sitelerinin en büyüğü olmasa da, Palenque birçok kişinin favorisidir.  Özellikle süslü ve iyi korunmuş “Çan Kulesi” mimarisi oldukça ileri düzeydedir ve yazıtları ve duvar resimleri Maya dünyasının en iyilerindendir."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Uxmal ve Merida",
+      "description": "Bugün, sömürge binalarından dolayı “beyaz şehir” olarak da bilinen Yucatán Devletinin başkenti Merida’ ya gideceksiniz.  Yolculuğunuzda Maya kültürünün en önemli yerlerinden biri olan Uxmal’ ın arkeolojik bölgesini ziyaret edeceksiniz.  Uxmal bir zamanlar önemli bir Maya ticaret bölgesiydi ve şimdi Yucatan’ daki en iyi restore edilmiş harabelerden biridir."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Chichen Itza and Cancun",
+      "description": "Bugün Meksika’ daki son noktanız olan Cancun’ a doğru yola çıkacaksınız.  Yol boyunca Chichén Itzá arkeolojik sitesini ziyaret edeceksiniz.  Bu muazzam kompleks, Maya tarihinin iki farklı dönemini temsil eden 300 hektarlık bir alana sahiptir: biri tamamen Maya kültürünün etkisi altındadır ve diğeriyse mimarisine ve heykeline yansıyan Toltec etkisine sahiptir.  Rehberinizle Kukulkán Piramidi, Kale, Top Oyunu, Kaplanlar Tapınağı, Kutsal Cenote, Rahibeler Binası ve Savaşçılar Tapınağı’ nı ziyaret edeceksiniz."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Cancun' dan Ayrılış",
+      "description": "Hayatınızın macerası bugün sona eriyor.  Geç bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+    }
+  ],
+  "map": ""
+}

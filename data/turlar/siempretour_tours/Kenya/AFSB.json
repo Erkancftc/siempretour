@@ -1,0 +1,70 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "AFSB",
+  "tourName": "Safari & Kumsal",
+  "placesVisited": "Kenya, Tanzanya",
+  "generalInfo": "Zanzibar'ın cennet adasında bir kaç gece ile doğu Afrika'nın en iyi safarilerini birleştiren mükemmel bir macera. Yaşam alanı gezileri, büyüleyici kültürler ve lezzetli yemekler ile dolu olan bu tur, bölgenin en iyi özelliklerini taşımaktadır.<br><br>En Yakın Uluslararası Havaalanına (geliş): Nairobi Jomo Kenyatta Uluslararası Havalimanı  (NBO)<br><br>En Yakın Uluslararası Havaalanı (gidiş): Zanzibar Abeid Amani Karume Uluslararası Havalimanı (ZNZ)",
+  "durationDays": "13",
+  "price": "2079",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "34",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Geziler ve Etkinlikler</strong></p>\n<p>&gt;Masai Mara Doğa Koruma Alanı</p>\n<p>&gt;Masai Köyü</p>\n<p>&gt;Serengenti Milli Parkı gezisi</p>\n<p>&gt;Ngorongoro Krateri Sabah Gezisi</p>\n<p>&gt;4 gün Zanzibar Adası gezisi</p>\n<p>&gt;Zanzibar baharat turu ve yöresel öğle yemeği</p>\n<p><strong>Konaklama </strong></p>\n<p>8 gece Otel ,2 gece çadır kampı, 2 gece loca</p>\n<p><strong>Taşımacılık</strong></p>\n<p>Büyük kamyonlar , 4x4 araçlar, uçak</p>\n<p><strong>Yemekler</strong></p>\n<p>3 açık büfe kahvaltı , 2 yöresel öğle yemeği ,4 akşam yemeği 4 kahvaltı, 5 kahvaltı paketi ,1 öğle yemeği, 5 yöresel kahvaltı,</p>\n<p><strong>Diğer</strong></p>\n<p>Siempre Tur tur lideri , Siempre Tur Şoförü</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Arrive Nairobi",
+      "description": "Birçok gezgin Nairobi'yi Doğu Afrika'nın diğer bölgelerine giderken bir uğrama noktası olarak kullanmaktadır. Ancak şehirde, ailesiz  bebek fillerinin ya da nesli tükenmekte olan Rothschild zürafalarının koruma altına alındığı ve yetiştirildiği zürafa merkezi gibi birçok çekici aktiviteler vardır."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Masai Mara Doğa Koruma Bölgesi",
+      "description": "Kahvaltıdan sonra Nairobi'den yola çıkıyoruz,ve Masai Mara Doğa Koruma Bölgesi'ne gitmeden önce 4x4 safari minibüslerimize bineceğimiz yerde öğle yemeğine gidiyoruz. Vardığımızda dünyanın en ünlü ve geniş kapsamlı vahşi yaşam bölgesi karşımızda."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Nairobi",
+      "description": "beslemeyi deneyimlemek için bir şans elde edeceğiz. Eğitim merkezinde ise, vahşi yaşam hakkında daha fazla şey öğrenin ve bu muhteşem canlıları fotoğraflayın. Öğleden sonra geri geleceğiz ve son bir kaç gün boyunca geçirdiğiniz inanılmaz deneyimlerden sonra  dinlenmek ve rahatlamak için serbest zamanınız olacak."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Arusha",
+      "description": "Tanzanya sınırını geçtikten sonra Arusha'ya doğru yol alıyoruz. Serengeti Ulusal Parkı ve Ngorongoro Krateri'ne gitmeye hazırız. Arusha, kahve dükkanları, bankalar ve diğer birçok modern olanaklara ve kablosuz internete sahip yoğun, hareketli bir şehirdir. Geceleri burada geçireceksiniz. Eşyalarınız kamyonda bırakcak ve Serengeti Milli Parkı ve Ngorongoro Krateri'ne yapacağınız gezi için sadece bir gecelik çanta alacaksınız."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Serengenti Milli Parkı ve Ngorongoro Krateri",
+      "description": "Girişi olmayan bir yer olan Serengeti Ulusal Parkı, Afrika'nın en ünlü safari durağı. Kahvaltıdan sonra çıkıyoruz ve 4x4 lere binerek milli parka gidiyoruz. Öğleden sonra, zamanımızı verimli kullanmak ve vahşi yaşamı izleme fırsatları için, milli parkın içinde yer alan orman evinde geçiriyoruz. Serengeti ovalarına ulaşmadan önce, dünyanın en büyük kırılmamış ve bozulmamış krateri Ngorongoro Krateri'ne bakan çarpıcı bir manzara için duracağız. Geniş 300 kilometrekarelik krater, önünüzde maviden ve yeşilden oluşan renkli bir manzaranın  içinde uzanır ve bir fili gri bir nokta kadar görebileceğiniz boyuttadır."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Arusha",
+      "description": "Son sabahımız, yaşam alanı içindeki kraterde geçiyor. – Siyah gergedan, fil ve aslanları görmek için iyi bir yer."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Nungwi Plajları",
+      "description": "Bugün gizemli, sarhoş edici Zanzibar adalarındayız. Kahvaltıdan sonra cennet adasına uçuşumuz için Arusha Havalimanı'na gideceğiz. Zanzibar'a geldiğimizde, önümüzdeki iki geceyi geçireceğimiz Nungwi'nin  cennet sahillerine gidiyoruz ."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Stone Town",
+      "description": "Bugün Stone Town'a gidiyoruz. Yolda, bu yemyeşil, tropik ortamda yetişen bol bitkiyi ve kaynağından alabileceğimiz numune baharatları keşfedebileceğimiz baharat tarlalarından birinde duracağız. Ayrıca, yerel halkla etkileşim kurma ve onların misafirperverliğini deneyimleme şansına sahip olacağımız küçük bir köyü ziyaret edeceğiz; Burada yerli halk tarafından pişirilen geleneksel bir öğle yemeğinin tadını çıkaracağız."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Stone Town'dan ayrılış",
+      "description": "Ömürlük serüveniniz bugün sona eriyor. Geç bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız, manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+    }
+  ],
+  "map": ""
+}

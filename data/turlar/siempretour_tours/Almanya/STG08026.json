@@ -1,0 +1,80 @@
+{
+  "destination": "Almanya",
+  "mainPhoto": "",
+  "id": "STG08026",
+  "tourName": "MSC Splendida ile  Baltık Başkentleri - 06.Eylül.2020",
+  "placesVisited": "Almanya, Danimarka, İsveç, Estonya, Rusya, Finlandiya, Polonya",
+  "generalInfo": "Kiel, Kopenhag, Denizde Seyir, Visby, Stockholm, Tallin, St.Petersburg, Helsinki, Gdynia, Denizde Seyir, Kiel",
+  "durationDays": "12",
+  "price": "1599",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p>* Türk Havayolları ile ekonomi sınıfı IST-HAM-IST Uçuşlar<br/>\r\n* Gemide  11 gece tam pansiyon konaklama<br/>\r\n* Havaalanı - liman - havaalanı transferleri<br/>\r\n* Türkçe rehberlik hizmeti<br/>\r\n* Gemide düzenlenen  ücretsiz animasyon ve şovlar<br/>\r\n* Kaptanın hoşgeldin partisi ve gala yemeği<br/>\r\n* Havalimanı ve liman vergileri<br/>\r\n* Yurtdışı Seyahat Sağlık ve İptal Sigortası</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Kiel (Almanya)",
+      "description": "Kiel (Almanya)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "Copenhag (Danimarka)",
+      "description": "Copenhag (Danimarka)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 4,
+      "title": "Visby (İsveç)",
+      "description": "Visby (İsveç)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "Stockholm (İsveç)",
+      "description": "Stockholm (İsveç)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Tallinn (Estonya)",
+      "description": "Tallinn (Estonya)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "St.Petersburg (Rusya)",
+      "description": "St.Petersburg (Rusya)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "Helsinki (Finlandiya)",
+      "description": "Helsinki (Finlandiya)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "Gdynia (Polonya)",
+      "description": "Gdynia (Polonya)"
+    },
+    {
+      "dayNumber": 12,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 13,
+      "title": "Kiel (Almanya)",
+      "description": "Kiel (Almanya)"
+    }
+  ],
+  "map": ""
+}

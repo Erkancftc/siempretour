@@ -1,0 +1,60 @@
+{
+  "destination": "Meksika",
+  "mainPhoto": "",
+  "id": "TMMB",
+  "tourName": "Cancun’ dan Playa Del Carmen’ e",
+  "placesVisited": "Meksika",
+  "generalInfo": "Bu macera,  Meksika’ nın en güzel Maya kalıntılarını muhteşem altın plajlarıyla birleştiriyor. Her biri Maya dünyasının farklı bir perspektifini sunan Chichén Itzá, Palenque ve Uxmal gibi antik uygarlıkları keşfedin. Tura,  dinlenmek için mükemmel bir yer olan Playa del Carmen’ in cennet sahilinde son verin.",
+  "durationDays": "9",
+  "price": "1899",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Geziler ve aktiviteler: </strong></p>\n<ul>\n<li>- Rehberli Uxmal turu</li>\n<li>- Rehberli Edzná turu</li>\n<li>- Rehberli Chichen Itza turu</li>\n<li>- Rehberli Palenque turu</li>\n<li>- Rehberli Chicanna,  Xpuijl ve Becan turu</li>\n<li>-  Bacalar lagününde mola</li>\n</ul>\n<p><strong>Konaklama:</strong> </p>\n<p>Otellerde 8 gece</p>\n<p><strong>Yemekler: </strong></p>\n<p>8 kahvaltı</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Cancun' a Varış",
+      "description": "Varışta,  Cancún’ daki otelinize transfer edileceksiniz. Cancún bir zamanlar küçük bir balıkçı köyüydü ve şimdi güzel plajları ve enerjik gece hayatıyla ünlü kocaman bir sayfiye yeridir."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Chichén Itzá & Merida",
+      "description": "Rehberiniz sizi muhteşem Maya şehri Chichén Itzá’ ya götürecek. Bu muazzam kompleks,  Maya tarihinin iki farklı dönemini temsil eden 300 hektarlık bir alana sahiptir: biri tamamen Maya kültürünün etkisi altındadır ve diğeriyse mimarisine ve heykeline yansıyan bir Toltec etkisine sahiptir. Rehberinizle Kukulkán Piramidi,  Kale,  Top Oyunu,  Kaplanlar Tapınağı,  Kutsal Cenote,  Rahibeler Binası ve Savaşçılar Tapınağı’ nı ziyaret edeceksiniz."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Uxmal & Campeche",
+      "description": "Bu sabah Uxmal kalıntılarını ziyaret edeceksiniz. Uxmal bir zamanlar önemli bir Maya ticaret bölgesiydi ve şimdi Yucatan’ daki en iyi restore edilmiş harabelerden birisidir. Bir başka güzel Maya sitesi olan Edzná’ ya gitmeden önce rehberiniz sizi çok sayıda piramitin etrafında dolaştıracak. Burada benzersiz bir beşinci seviye kale olan Grand Akropolise dâhil olmak üzere çok sayıda mükemmel yapıyla karşılaşacaksınız. Merdivenlerdeki detaylı oymalara göz atmayı unutmayın."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Palenque",
+      "description": "Ormanın orta yerindeki Palenque,  muhteşem Maya kalıntılarına ev sahipliği yapmaktadır. Öğleden sonra bu muhteşem arkeolojik siteye rehberli bir ziyaret gerçekleştireceksiniz. Rehberinizle,  burada bulunan büyüleyici piramitleri ve tapınakları keşfedeceksiniz ve Palenque hanedanlığının yükselişini ve düşüşünü öğreneceksiniz. Maya sitelerinin en büyüğü olmasa da Palenque birçok kişinin favorisidir. Özellikle süslü ve iyi korunmuş “Çan Kulesi” mimarisi oldukça ileri düzeydedir ve yazıtları ve duvar resimleri Maya dünyasının en iyilerindendir."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Chicanna & Calkamul Biosphere",
+      "description": "Bu sabah,  Rio Bec bölgesinde bulunan Chicanna’ ya seyahat edeceksiniz. Meksika’ nın bu bölgesi,  Maya binalarının kendine özgü mimari stilleri ile bilinir ve keşfedilecek düzinelerce küçük arkeolojik alan vardır. Sonraki iki günü Calakmul Biyosferi olarak bilinen siteler grubunu keşfetmekle geçireceksiniz. Maya mimarlarının ne kadar da yetenekli olduklarını anlayacağınız Chicanna,  Xpuijl ve Becan turları yapacaksınız."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Playa del Carmen",
+      "description": "Bacalar’ ın nefes kesici lagününde mola vererek pastoral Riviera Maya’ ya gideceksiniz. Bu cennet köşesinde rahatlama şansını yakalayacağınız Playa del Carmen’ e varacaksınız. Bir hafta süren keşif gezisinden sonra,  bu güzel günde Meksika’ nın enfes havasını solumak ve sıcak Karayip Denizi’ ne dalmak için serbestsiniz. Palmiyelerle çevrili plajlarda rahatlayın,  ayak parmaklarınızı şeker beyazı kuma daldırın ve çok sayıda harika restoranların birinde son gecenizin tadını çıkarın."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Playa del Carmen’ den Ayrılış",
+      "description": "Hayatınızın macerası bugün sona eriyor. Geç bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+    }
+  ],
+  "map": ""
+}

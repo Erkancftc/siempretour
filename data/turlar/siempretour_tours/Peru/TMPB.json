@@ -1,0 +1,90 @@
+{
+  "destination": "Peru",
+  "mainPhoto": "",
+  "id": "TMPB",
+  "tourName": "Peru ve Bolivya’ da Öne Çıkanlar",
+  "placesVisited": "Peru, Bolivya",
+  "generalInfo": "Lima’ dan La Paz’ a And dağları boyunca seyahat ederken Peru ve Bolivya’ nın sunduğu en iyi manzaralara tanık olacaksınız. Tropik Amazon ormanını keşfedin, Machu Picchu üzerinde güneşin doğuşunu izleyin ve Uyuni tuz düzlüklerinin güzelliğine hayran kalın.<br><br><strong>Önemli not:</strong> Tur programı model bir programdır ve ihtiyaçlarınıza, bütçenize uygun hale getirilebilir.",
+  "durationDays": "14",
+  "price": "3149",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "<p><strong>Tur ve Aktiviteler</strong></p>\n<ul>\n<li>- Çeşitli aktivitelerle 2 gece Amazon ormanı gezisi</li>\n<li>- Cusco şehir turu</li>\n<li>- İnkaların kutsal vadisi gezisi</li>\n<li>- Rehber eşliğinde Machu Picchu gezisi</li>\n<li>- Mola vererek tur otobüsü seyahati</li>\n<li>- Titicaca gölü turu</li>\n<li>- Tiwanaku arkeoloji kompleksi</li>\n<li>- La Paz şehir turu</li>\n<li>- Ay vadisi turu</li>\n<li>- Uyuni tuz düzlüklerinde 2 gece ve Laguna gezisi</li>\n</ul>\n<p><strong>Konaklama</strong></p>\n<p>Otelde 11 gece, orman kulübesinde 2  gece</p>\n<p><strong>Ulaşım</strong></p>\n<p>4 uçuş</p>\n<p><strong>Yemekler</strong></p>\n<p>13 kahvaltı, 8 öğle yemeği, 4 akşam yemeği</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Lima' ya Varış",
+      "description": "Kontrolleriniz bittikten sonra günün geri kalanı size ait."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Amazon Ormanı",
+      "description": "Bu sabah otelinizden özel araçla alınıp Cusco üzerinden Puerto Maldonado’ ya uçmak üzere havaalanına götürüleceksiniz. Varışınızda sizi orman macerasına hazırlayacak olan Amazon Planet merkez binası ekibi karşılayacak. Seyahatin il ayağı olan otobüs yolculuğu bittikten sonra tekneyle yağmur ormanının merkezindeki konforlu orman kulübenize gitmek üzere Madre de Dios nehri boyunca ilerleyeceksiniz. Yolculuk sonunda taze organik içeriği ve yerel lezzetlerle hazırlanmış öğle yemeğinin tadını çıkarın."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Amazon Ormanı",
+      "description": "Erken bir kahvaltının ardından ormanda bir tam gün geçirmek üzere hazırlanacak ve maceranıza patikalardan yürüyerek başlayacaksınız. 15 metre yüksekliğinde yaşlı bir incir ağacının dallarına yapılmış ahşap platforma tırmanarak ormanın yüksekten görünümünün keyfini yaşayabilirsiniz. Asma köprüden yürüyerek ağaçlar arasındaki vahşi hayatın farkına varın. Amazon yağmur ormanındaki en yüksek platform olan Canopy platformunu da ziyaret edeceksiniz.  45 m yükseklikte çok eski bir Kapok ağacının tepesine yerleşmiş ve 90 metrelik bir asma köprüyle bağlanmış platform uçan makav kuşlarını, papağanları ve tukanları görebilmek  için harika bir yer."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Cusco",
+      "description": "Son gün bu tropikal cennetten ayrılmadan önce ormanın sesleriyle uyanacaksınız ve Cusco’ ya uçuşumuz için Puerto Maldonado’ ya döneceğiz. Cusco’ ya vardığınızda özel bir araç tarafından karşılanıp otele gideceğiz. Bir UNESCO dünya mirası olan Cusco İnka imparatorluğunun başkentiydi ve hemen her köşesinde geçmişin izlerine rastlayabilirsiniz. Eski İnka yollarından iyi korunmuş güzel koloni mimarisine kadar çeşitlilik gösteren tarihi bir bakışta fark edilebilir."
+    },
+    {
+      "dayNumber": 5,
+      "title": "İnkaların Kutsal Vadisi, Aguas Calıentes",
+      "description": "Bu sabah kutsal vadideki tam gün geziniz için rehberiniz ve grubunuzla buluşacaksınız. İnkalar burada yaşayıp tarım yaptılar ve yeşil bölgenin doğal zenginliklerinden faydalandılar. Pisac’ daki renkli ve canlı el sanatları pazarını gezin. Bölgenin hemen yanı başında hisar, kuleler, askeri bir kale ve gökyüzü gözlemevi bulunur. Güney Amerika’ daki en büyük İnka mezarlığı da buradadır."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Machu Picchu, Cusco",
+      "description": "Sabah erken saatlerde özel rehberinizle buluşup güneşin doğuşunu izlemek üzere 45 dakikalık bir otobüs yolculuğu yapacaksınız. Rehber eşliğinde 2 saatlik bilgilendirici ve eğlenceli bir turdan sonra bölgeyi kendi başınıza gezmek için yeterli zamanınız olacak. Lütfen pasaportunuzu yanınızda getirin. Dilerseniz onu burada damgalatabilirsiniz."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Puno",
+      "description": "Bugün Puno’ ya manzaralı bir otobüs yolculuğu yapmak üzere özel araçla terminale gideceksiniz. Bu yolculuk tüm gün sürecek ancak yol boyunca bacaklarınızı açmak ve ‘ Güneşin rotası’  olarak bilinen güzergahın tarihini kavrayabilmek için defalarca duracağız."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Titicaca Gölü",
+      "description": "Bugün Titicaca gölünde bulunan birbirinden tamamen farklı iki adayı görmek üzere bir gruba katılacaksınız. İnkalar topraklarını genişletirken antik Uro insanları asıl olarak yüzen adalarda yerleşmeye zorlanmıştır ve adaların hareketliliği bir savunma mekanizmasıdır. Gölün kıyısında sık bulunan Totora kamışı ev, mobilya ve tekne yapımında kullanıldığı gibi adalarında üzerinde durduğu kamışlardır. Adanın altındaki 4-8 feet kalınlığındaki kamışlar parçalandıkça, ada sakinleri daha fazla kamışı yüzeye eklemek zorundadır. Her ada basit kamış evlere sahiptir ancak güneş paneli ve televizyon gibi modern hayat öğelerinden eksik değildirler."
+    },
+    {
+      "dayNumber": 9,
+      "title": "La Paz",
+      "description": "Peru’ ya veda ederek sınırı geçip Bolivya’ ya doğru yola çıkıyoruz. Gümrük işlemlerinden sonra İnka öncesi bir bölge olan ve önemli tapınaklara ev sahipliği yapan Tiwanaku arkeoloji kompleksine gideceksiniz. Öğle yemeğinden sonra akşamı dilediğiniz gibi geçirebileceğiniz La Paz’ a devam edeceğiz."
+    },
+    {
+      "dayNumber": 10,
+      "title": "La Paz, Ay Vadisi",
+      "description": "Kahvaltıdan sonra, rehberiniz eşliğinde şehri gezerek zaman geçirmek üzere toplanacaksınız. La Paz’ ın en eski, en renkli mahallelerinden Rosario, San Jorge ve San Miguel’ in dar ve kıvrımlı sokaklarında yürüyün. Şehrin ortasında geleneksel Altiplanik giysileri ve melon şapkalarıyla Aymara kadınlarının şifalı bitki ve baharatlar sattığı cadı pazarından geçin. Geleneksel kültürde iyi şans getirdiğine inanılan mumyalanmış lama fetüsleri gibi şaşırtıcı bazı el yapımı manevi eşyalara da rastlayacaksınız."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Uyunı Tuz Düzlükleri",
+      "description": "Bugün otelde toplanarak Uyuni uçağına binmek üzere havaalanına götürüleceksiniz. Burası Bolivya’ nın en çarpıcı ve güzel yerlerinden ünlü tuz düzlüklerine gezimizin başlayacağı yer. Tuz düzlükleri ve çevresindeki yer şekilleri muhteşem ve gerçeküstü manzara fırsatları sunduğundan kameranızın şarjının dolu olduğundan ve hafıza kartınızın yeterince boş olduğundan emin olun. Yağışlı mevsimde bölgeyi kısmen kaplayan parlak su tabakası esrarengiz yansımalar ortaya çıkarır. Deniz seviyesinden 3660 m yüksekteki tuz düzlüğü soğuk ve rüzgarlı olabilir dolayısıyla büyük gün için sıkı giyinmeyi unutmayın. Geceyi tuz otelinde geçireceksiniz."
+    },
+    {
+      "dayNumber": 13,
+      "title": "La Paz",
+      "description": "Tur bitmeden son gecenizin keyfini çıkarmak için La Paz’ a geri uçuyoruz."
+    },
+    {
+      "dayNumber": 14,
+      "title": "La Paz' dan Ayrılış",
+      "description": "Ömrünüz boyunca unutamayacağınız bir macera  bugün sona eriyor. Eğer geç saatte bir uçuşunuz varsa ya da konaklamanızı ve kalış sürenizi uzatırsanız şehri daha fazla gezmek için ekstra zamanınız olacak."
+    }
+  ],
+  "map": ""
+}

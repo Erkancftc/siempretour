@@ -1,0 +1,85 @@
+{
+  "destination": "Hollanda",
+  "mainPhoto": "",
+  "id": "STG09049",
+  "tourName": "Brilliance of the Seas İle Büyük Baltık Başkentleri - 22.Haziran.2020",
+  "placesVisited": "Hollanda, Danimarka, Estonya, Rusya, Finlandiya, İsveç",
+  "generalInfo": "Amsterdam Hollanda 'nın başkentidir. Ancak ülke hükümetin ve meclisin bulunduğu Lahey 'den yönetilir.12. yüzyılda Amstel ırmağının kıyısında bir balıkçı köyü olarak kurulan Amsterdam, bugün Hollanda 'nın kişi sayısı bakımından en büyük, kültürel ve parasal yönden de en önemli kentidir. Kentte 2005 sayımına göre 742.209 kişi yaşasa da, bu sayı çevresiyle birlikte 1,5 milyonu bulur.",
+  "durationDays": "13",
+  "price": "1396",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li><strong>* </strong>Türk Hava Yolları ile İstanbul – Amsterdam /  Amsterdam – İstanbul arası ekonomi sınıfı uçak bileti <strong>*</strong>Havalimanı-liman-havalimanı arasında ki  transferler<strong>*</strong>Havaalanı ve liman vergileri</li>\n<li><strong>* </strong>5 Yıldızlı Brilliance of the Seas gemimizde 12 gece tam pansiyon (tüm yiyecekler dahil-Özel Restaurant giriş ücretleri hariç)</li>\n<li><strong>* </strong>Gemide düzenlenen animasyon ve aktiviteler</li>\n<li><strong>* </strong>Profesyonel Türkçe Rehberlik Hizmetleri  <strong>(Minimum 20 Kişi katılması durumunda)</strong></li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Amsterdam (Hollanda)",
+      "description": "İstanbul – Amsterdam arası THY tarifeli sefer ile uçuş, varışı takiben gemimize transfer."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 3,
+      "title": "Skagen (Danimarka)",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 4,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 5,
+      "title": "Tallinn (Estonya)",
+      "description": "Varış Saati : 11:00"
+    },
+    {
+      "dayNumber": 6,
+      "title": "St. Petersburg (Rusya)",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 8,
+      "title": "Helsinki (Finlandiya)",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 9,
+      "title": "Stockholm (İsveç)",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 10,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 11,
+      "title": "Kopenhag (Norveç)",
+      "description": "Varış Saati : 10:00"
+    },
+    {
+      "dayNumber": 12,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 13,
+      "title": "Amsterdam (Hollanda)",
+      "description": "Varış Saati : 06:00"
+    }
+  ],
+  "map": ""
+}

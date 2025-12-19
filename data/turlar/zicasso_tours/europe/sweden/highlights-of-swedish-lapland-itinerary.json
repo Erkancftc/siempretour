@@ -1,0 +1,60 @@
+{
+  "destination": "Sweden",
+  "mainPhoto": "",
+  "id": "highlights-of-swedish-lapland-itinerary",
+  "tourName": "Highlights of Swedish Lapland Itinerary",
+  "placesVisited": "Swedish Lapland, Lulea, Harads, Lule River, Arctic Circle, Flakaberg, Kiruna, Jukkasjarvi",
+  "generalInfo": "Swedish Lapland, a land of magic and mystique, where the reindeer roam and the aurora shimmer through the night. This handcrafted 7-day vacation showcases a pristine realm filled with ephemeral Lappish experiences. Listen to stories from the Sami, stay in hotel rooms sculpted from ice and treehouses soaring above the snow. Ride a snowmobile beneath the northern lights as you discover a world distinct from everywhere else.",
+  "durationDays": "7",
+  "price": "4,000",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Harads â A Swedish Sauna in the Forest",
+      "description": "Land in Swedish Lapland, and thereâs only one place to start the experience: the sauna. Soothe your mind after the journey, steam rising all around as you sit back on the wooden benches. Your temperature rises and rises and rises. Then itâs out the door and into the snow for an instant cooling effect. The hotel stands four to six meters above the snowy ground in a contemporary treehouse that provides serene views over the Lule River and towards the Arctic Circle. Thereâs a superb sense of connecting with nature and a view of the nighttime sky."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Harads â Sami Culture and Stories From the Reindeer Herder",
+      "description": "Sunrise seems to extend for two or three hours, the sun skirting the horizon, casting everywhere in a perpetual pink glow. The sunâs color shimmers off of the snow and ice, painting everything from forests to lakes. Your host is a master storyteller, and there is a nuance to the tales, showing how life and culture have changed over the decades. Go to meet the reindeer as you wander the farm, learning of their wild history and their connection to the Sami people. When night closes in, you can search for the northern lights outside your hotel."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Harads â Snowmobile Safari Through Snow-Covered Forests",
+      "description": "Gliding across virgin snow and pristine trails, head deeper into the wilderness, first slaloming through the forests before opening the throttle to cross-frozen lakes and open valleys. This is a wild white world, snow covering the ground in every direction. Regular stops are made so you can appreciate the silence of the land and learn about the Lappish surroundings. Back at the treehouse, thereâs another night for the northern lights. Itâs often a humbling experience to see a work of nature so rare and unscripted, to appreciate how much mystery still exists in our world."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Jukkasjarvi â Scenic Train and Night in an Ice Suite",
+      "description": "Enjoy the train ride that rumbles north through Lapland and into the Arctic Circle. Watch the landscape unfold and admire the endless sheets of snow before disembarking for a short transfer to the Ice Hotel. Every suite is distinct, sculpted from ice that will eventually melt and leave nothing of the gallery behind. The temperate stays between -5 and -8 ÂºC, usually much warmer than the temperature outside. Rather remarkably, it feels warm to be inside the Ice Hotel. Of course, all thatâs after is a drink in the ice bar and another evening looking out for the northern lights."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Jukkasjarvi â Dogsledding Safari and Wilderness Dinner",
+      "description": "Today itâs off on a dogsledding safari, a team of huskies pulling you through a picturesque forest and across frozen rivers. As you feel a connection to nature and the ancient allure of dogsledding, there's an opportunity to mush (drive) your own sled should you wish. Tonight you dine beneath the aurora borealis. Travel to a wilderness camp perched between lake and forest. Rustling sounds alert you to wild animals nearby such as elk, reindeer, possibly Arctic fox or lynx. A three-course dinner follows, complete with fire-boiled coffee and the delicacies Lapland is known for."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Jukkasjarvi â Ice Sculpturing Class, Snowmobile Northern Lights Tour and Final Day Amid the Ice",
+      "description": "Sculpting ice is not easy, but it is absorbing and relaxing. Your guide provides the background and introduces you to basic techniques, and the ice sculpturing class only enhances your admiration for the ice hotel and the time taken to sculpt each suite. Night comes quickly in the Arctic as sunset blurs into the sunrise with pink colors stretching across the sky. Stop beneath the mystical sky, and the guide tells truths and tales about the aurora, how past generations interpreted them, and how they have been mythologized over the years before your three-course dinner arrives."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Kiruna â Surrounded by Ice and Departure",
+      "description": "Appreciate the surreal white landscape for one more morning, sunrise hues drifting across the ice, trees turned to sculptures as they carry the fallen snow. Youâll be transferred to Kiruna Airport to start your homebound journey, memories of the northern lights accompanying you all the way home."
+    }
+  ],
+  "map": ""
+}

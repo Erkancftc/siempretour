@@ -1,0 +1,60 @@
+{
+  "destination": "Küba",
+  "mainPhoto": "",
+  "id": "ST08005",
+  "tourName": "Özel Promosyon Küba",
+  "placesVisited": "Küba",
+  "generalInfo": "Tek bir uçak yolculuğu ile zamanda yolculuk yapmak ister misiniz? Küba turu sizin için adeta bir zamanda yolculuk olacak. Dünyaca ünlü puroları, sıcakkanlı insanları ve her zaman eğlenceli olan sokakları ile adeta masalsı bir dünyayı andıran Küba’ ya ulaşmak Siempre Tour ile çok kolay.<br><br>Dünyanın en büyük 7. adası olma özelliği taşıyan Havana, Karayip Denizi’ nin berrak sularıyla kültür tatilini deniz tatili ile birleştirme imkanı sunuyor. Aynı tatil süresince Küba’ nın tarihinin içine girebilir, hayalinizdeki gibi bir deniz tatili yaşayabilirsiniz.<br><br>İstanbul kalkışlı Küba turu, Siempre Tour’ un deneyimli rehber ekibiyle Atatürk Havaalanı’ ndan itibaren başlar ve tekrar tur bitişi sonrasında aynı noktada sonlanır. Tur süresi boyunca rehber ekibi tüm soru ve görüşlerinizi dinlemek için yanınızda olacaktır.",
+  "durationDays": "6",
+  "price": "1050",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "34",
+  "dates": "",
+  "minimumAge": "12",
+  "meet": "",
+  "whatExpect": "<ul>\n<li>- İstanbul &amp; Havana Uçak Biletleri AİRFRANCE &amp; KLM &amp; AEROFLOT ve THY ile</li>\n<li>- Özel otobüs ve rehber eşliğinde Havalimanı – Otel – Havalimanı transferleri</li>\n<li>- Hoş geldiniz kokteyli</li>\n<li>- Nacional Hotel de 5 gece iki kişilik odalarda B.B konaklama</li>\n<li>- Lokal rehberlik hizmeti.</li>\n<li>- Mesleki zorunlu Seyahat Sigortası</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Havana",
+      "description": "Atatürk Havaalanı Dış Hatlar Terminali’ nde, buluşma ve giriş işlemlerinden sonra, Havana ya hareket. Saatlerinizi 1 saat geri almayı unutmayınız. Uçak değişiminden sonra Küba’ nın başkenti Havana’ ya hareket. Yaklaşık 9 saatlik bir uçuştan sonra Küba Havana’ ya varış. Saatlerinizi 7 saat daha geri almayı unutmayınız. Havaalanında karşılanmamızın ardından şehir merkezinde bulunan Nacional Hotel ‘ e özel otobüsümüz ile transfer. Hoş geldiniz kokteylimiz otelimizde olacaktır. Ardından odalara yerleşme ve serbest zaman."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Havana",
+      "description": "Sabah kahvaltısından sonra misafirlerimize serbest zaman veya dileyen misafirlerimiz için ekstra düzenlenecek olan Muhteşem Havana programına katılabilirler (60 € )."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Havana",
+      "description": "Serbest zaman veya dileyen misafirlerimize; Ekstra Tam Gün Öğle yemekli Vinales ve Pınar Del Rio gezisi. Fiyatı: -110 .-€"
+    },
+    {
+      "dayNumber": 4,
+      "title": "Havana",
+      "description": "Serbest zaman veya dileyen Misafirlerimize; Tüm Gün Havana – Santa Clara-Trinidad- Havana Programı Fiyatı: 220 € ."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Havana",
+      "description": "Serbest zaman veya dileyen Misafirlerimize; Ekstra yarım gün Ernest Hemingway müze gezisi: 75.- €"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Havana, Paris",
+      "description": "Sabah kahvaltı sonrası geri dönüş seyahati hazırlığımız için serbest zaman. Öğleden sonra check - out işlemlerimizin ardından Havana’ ya havaalanına gidiyoruz. Akşam Paris’ e uçuyoruz. Gecemiz uçakta geçiyor."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Paris, İstanbul",
+      "description": "Paris Havalimanına varışımızda, bekleme süremizin ardından, uçak değiştirerek İstanbul’ a hareket ediyoruz. Yaklaşık 4 saatlik yolculuktan sonra Atatürk Havalimanı’ na varıyoruz."
+    }
+  ],
+  "map": ""
+}

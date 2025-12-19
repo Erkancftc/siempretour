@@ -1,0 +1,60 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "best-of-argentina-in-seven-days",
+  "tourName": "Best of Argentina in Seven Days",
+  "placesVisited": "Buenos Aires, Mendoza City, IguazÃº Falls",
+  "generalInfo": "Throughout this luxurious 7-day adventure, you will be charmed by the glorious expanse of Buenos Airesâ Bosques de Palermo in addition to delighting in the cityâs oasis. From the vibrant culture of Buenos Airesâ La Boca neighborhood to the magnificent power of the Iguazu Falls, Argentina is a country that is rich with unique experiences. Raise a glass of Malbec wine to your lips, gaze over the twisting vineyards of Mendoza, and be amazed by the grandeur of La Garganta del Diablo in Iguazu.",
+  "durationDays": "7",
+  "price": "2,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Buenos Aires â Indulge in a Live Tango Show",
+      "description": "You will arrive at one of the cityâs bustling international airports, where you will be met and transferred to your luxury accommodation in the heart of Buenos Airesâ upscale Recoleta neighborhood. Once you have had ample time to settle in to your luxurious hotel suite and freshen up, you will spend your first several hours in Argentina exploring your neighborhood. In the evening, you will begin your first official exploration of Buenos Aires when you attend a spectacular tango performance that will be accompanied by an exquisite gourmet meal and regional wine pairing."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Buenos Aires â San Telmoâs Open-Air Market",
+      "description": "This morning, you will enjoy an Argentine breakfast at your hotel before meeting your private guide in the lobby to continue your explorations of Buenos Aires. You will begin the day with a private tour of the city that will have you visiting the most noteworthy sites and neighborhoods of Buenos Aires. During your tour, you will be led to the iconic Recoleta Cemetery, which is the lavish burial site for Argentinaâs most notable citizens, including Evita Peron. From Recoleta, you will venture to the charming neighborhood of Palermo, which is characterized by its tree-lined streets, bohemian cafes, bars, restaurants, and street art. In the afternoon, you will transfer to the remarkable Casa Rosada. In the evening, you will transfer to the Teatro Colon Opera House for a world-class performance."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Buenos Aires â Discover the Beauty of La Boca",
+      "description": "Today, you will have breakfast at your hotel before meeting your guide to embark on the dayâs adventures. When you are ready, you will transfer to Buenos Airesâ most vibrant neighborhood of La Boca, where you will be amazed by its colorful buildings and charming streets. From La Boca, you will be transferred to the iconic Bosques de Palermo, which is an incredible park located in the heart of the city. During your visit, you will be enamored with the rose gardens and rowboats that glide along the calming river. You may also stroll through the park at your leisure to enjoy the peaceful respite from the chaos of the rest of the city."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Mendoza â Indulge in an Exquisite Wine Tasting",
+      "description": "This morning, you will enjoy breakfast at your hotel before flying to the marvelous city of Mendoza, which is located in the heart of Argentinaâs infamous wine country. Upon your arrival, you will be met and transferred to your luxurious wine lodge and spa accommodation in the foothills of the Andes Mountains. During your tour, you will be provided with the unique opportunity to privately tour Mendozaâs finest boutique wineries, where you will meet with the vintners. Once your tour concludes, you can indulge in a specially curated wine tasting of the regionâs top vintages. In the evening you can relax at your hotel and partake in a phenomenal treatment or massage at your accommodationâs spa."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Mendoza â Traditional Cooking Class and Wine Pairing",
+      "description": "After breakfast, you will spend the morning on your own and will have a wide range of activities to choose from. You may elect to rent bicycles and cycle through the vineyards, stopping at charming bodegas and chocolate shops along the way. You may also decide to explore the city center a bit more and to uncover the unique, artisan-made products that abound from the many shops. You will also have the opportunity to venture deeper into the Andes Mountains on a half-day trekking or horseback riding excursion. In the evening, you will reconnect with your guide for a transfer to a private cooking class, where you will learn to craft traditional Argentine dishes."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Iguazu â Explore Iguazu Falls by Helicopter",
+      "description": "This morning, you will fly to the illustrious Iguazu Falls. Upon your arrival, you will be met by your driver and transferred to your luxurious accommodation, which will be located near the falls. After you have had ample time to settle in, you will board a private helicopter for a thrilling ride over Iguazu Falls. In the afternoon, your expert guide will lead you on a leisurely trek to the base of the falls. There, you will board a ferry that will lead you deep into the falls and offer you a unique perspective of this natural phenomenon. In the evening, you will be led into the charming town of Misiones for your final dinner in Argentina."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Iguazu â Visit La Garganta del Diablo",
+      "description": "Today, you will enjoy your final breakfast in Argentina before meeting your knowledgeable guide to transfer to La Garganta del Diablo. This waterfall is the most iconic of Iguazuâs many falls, and you will be captivated by its majesty and sheer power. You will be able to view the waterfall from a lookout point that extends over the heart of the falls, which will prove to be utterly breathtaking. Afterward, you will collect your belongings and be transferred to the airport for your international flight home."
+    }
+  ],
+  "map": ""
+}

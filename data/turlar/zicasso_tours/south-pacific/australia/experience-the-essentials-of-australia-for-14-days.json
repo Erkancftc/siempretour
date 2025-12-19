@@ -1,0 +1,95 @@
+{
+  "destination": "Australia",
+  "mainPhoto": "",
+  "id": "experience-the-essentials-of-australia-for-14-days",
+  "tourName": "Experience the Essentials of Australia for 14 Days",
+  "placesVisited": "Port Douglas, Cairns, Uluru-Kata Tjuta National Park, Melbourne, Sydney",
+  "generalInfo": "See the colorful underwater scenes of the Great Barrier Reef, explore the ruby desert of Uluru, and discover the state capitals of Melbourne and Sydney on this 14-day essential tour of Australia. From the charming Mediterranean-style scenes of Port Douglas to the Mars-like desert around Kata Tjuta National Park, the glamorous neighborhoods of Melbourne, and the stunning harbor of Sydney, there is something for everyone to discover in the country.",
+  "durationDays": "14",
+  "price": "6,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Port Douglas - Arrive in the Far North of Queensland",
+      "description": "Popping into Brisbane and Cairns to catch connecting flights through to Port Douglas, you will catch glimpses of Queenslandâs sparkling coastal cities and arrive in the tropical far north of Queensland for a Mediterranean-style escape near the Great Barrier Reef. Your accommodation sits in the vibrant main square of Port Douglas, a chic and relaxed seaside village that provides access to the wonders of Australian land and sea. You may take some time this afternoon and evening to acclimate yourself, wander the neighborhood to glamorous restaurants, and enjoy the seclusion of your stylish courtyard at sunset."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Port Douglas - Authentic Aboriginal Cultural Experience",
+      "description": "Rich culture defines Port Douglas and you will experience timeless traditions against the backdrop of the flourishing rainforest during an authentic wilderness and heritage tour with Aboriginal locals. They will tell stories, show you through the lush forest, share traditional Aboriginal cuisine with you, and introduce you to communities preserving ancient customs. You will meet the friendly residents and toast a wonderful meal with Australian wine as the evening unfolds and the stars shine brightly in the sky. Today will be an opportunity to immerse yourself in the indigenous culture and capture stunning wildlife photography along the way."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Port Douglas - Snorkeling in the Great Barrier Reef",
+      "description": "You will wake to the sounds of waves lapping against the shore and catch wafts of salty sea air from your courtyard. After breakfast, you will follow the oceanâs calls to the Port Douglas marina and board a boat for a snorkeling adventure to three breathtaking destinations. You will snorkel with schools of fish at Opal Reef, submerge beneath the sapphire waters encompassing Tongue Reef to see colorful creatures swimming below, and gander at coruscating coral covering St. Crispinâs Reef. After lunch, you may stroll the sunbathed promenade of Palm Cove in Cairns, before returning to Port Douglas for dinner."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Port Douglas - Wander Through Daintree Rainforest",
+      "description": "Your final day in Port Douglas will begin with a drive across the pastoral, emerald countryside and through the forests of Mossman that grow from the nutrients supplied by the Daintree River. After breakfast, a boat cruise along the river will show off the saltwater crocodiles that swim amongst the dense mangroves bordering the waterâs edge. You will snapshot stunning wildlife photography in the Daintree Rainforest, follow shady trails up Alexandra Range, cross elevated boardwalks weaving through the canopy, and arrive at Myall Beach in Cape Tribulation for an afternoon swim in the Coral Sea."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Uluru-Kata Tjuta National Park - Welcome to the Red Center",
+      "description": "Home to sweeping maroon sands, sparse shrubbery interspersing rugged rock formations, and the world-famous Ayers Rock, the Uluru-Kata Tjuta National Park is a remarkable region in Australiaâs Red Center. You will arrive in the early afternoon, check into an oasis accommodation in the middle of the desert, and explore Uluru with a knowledgeable guide. Your first stop will be the dazzling red rocks and tranquil waters of Mutitjulu Waterhole, where you will listen to the sounds of nature, before you take the Mala walk to ancient Aboriginal rock-art sites and the Talinguru Nyakunytjaku area for sunset."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Uluru-Kata Tjuta National Park - Sunset at Ayers Rock",
+      "description": "Uluru-Kata Tjuta National Park is a spiritual destination that holds a significant place in the hearts of the Aboriginal communities that reside across the sprawling ruby-sand sea. There is no better way to absorb the mysterious cultural atmosphere than during sunset at Kata Tjuta mountain, where the sky will take on various colors as the sun rises between the cracks of Walpa Gorge. In the evening, you will witness the sunset at Ayers Rock, sip wine, and tuck into Australian delicacies, as incredible stargazing backdrops the spectacular rock formations."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Melbourne - Modern Charms in Victoriaâs Capital",
+      "description": "You will make way for Melbourne this morning, leaving behind the expansive Mars-like desert landscape of Uluru for the fashionable seaside neighborhoods of Victoriaâs coastal capital. Melbourne is an alluring contemporary city that will marvel at as you set foot in stylish restaurants by the Yarra River, peruse excellent modern art museums in the Melbourne Arts Precinct, and wander the bustling business district of Fed Square in the city center. After enjoying the vim and vigor of Melbourne this afternoon, you may indulge in dinner during sunset and return to your room for a quiet night."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Melbourne - Hidden Treasures in the Busy City",
+      "description": "Melbourne is far more than it appears on the surface, with many marvelous experiences hidden from the crowds for travelers to uncover. Today, you will join your guide for an insider's tour of the city, beginning at Melbourne arcades buried beneath the cityâs more popular tourist attractions. These brilliant boutiques capture the authenticity of Australia and encourage you to immerse yourself in the glamorous charms yet to be discovered by other eager travelers. You will continue down back alleys to explore the cityâs cafÃ© culture, elaborate street art, historic architecture, and designer stores."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Melbourne - See the Little Blue Penguins of Phillip Island",
+      "description": "You will leave Melbourne this morning for a day tour of Phillip Island, the popular penguin playground that will let you absorb the idyllic seascapes and capture images of wildlife wandering the shore. If you arrive during the right time of the year, you will be fortunate enough to watch an enormous penguin colony waddle from the lapping waves to their dune burrows during the Penguin Parade. You will watch the scenes from a panoramic viewpoint overlooking the coves and rocky headlands on your charming adventure to see the little blue penguins of Phillip Island."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Sydney - Famous Silhouettes in New South Wales",
+      "description": "Your adventure will continue to the capital of New South Wales, Sydney, after breakfast. As you approach the port city, you will immediately recognize the famous silhouette of the Sydney Opera House and the cobalt blue waters of Darling Harbour. You will touch down and transfer through the bustling districts to accommodation nestled in the heart of the city center. From here, you may begin to discover the sophisticated neighborhoods, complete with high-end fashion boutiques, Michelin-starred, and modern art museums."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Sydney - City Highlights Tour on Foot and by Boat",
+      "description": "After breakfast, a guide will escort you on a tour of Sydney's historical landmarks in and around The Rocks. The heritage precinct reflects Sydneyâs colorful past against a vibrant, modern backdrop, juxtaposing eras when soldiers walked through the neighborhood with the contemporary cultural pleasures of post-conflict Australia. You will see relics of seafarers and sailors, working-class cottages dating back generations, and dockside storehouses sharing what life was like during the 18th century. In the evening, you will sail Darling Harbor to see the Opera House and Harbor Beach, en route to other fascinating highlights."
+    },
+    {
+      "dayNumber": "12",
+      "title": "Sydney - Behind the Scenes in the Opera House",
+      "description": "Today, you will tour the famous Sydney Opera House on an intimate and exclusive tour offering you access to areas usually reserved for cast and crew. You will head backstage to see what goes on behind the scenes of some of the worldâs most impressive musical performances, stand in the orchestra pit to feel as though you are conducting the greats, and tuck into breakfast to discuss the remarkable work that goes on behind the curtains and during a full-house show."
+    },
+    {
+      "dayNumber": "13",
+      "title": "Sydney - Set Forth Across the Southern Highlands",
+      "description": "After lunch, slip into something comfortable as you will explore the Southern Highlands this afternoon with a wilderness guide. You will walk lengthy trails that wind through the lush, rocky region to viewpoints where birdlife and animals gather to graze the grass, perch in the tall branches, and scuttle to safety from trailing predators. You may see koalas clinging to the trees, kangaroos bouncing across the pastures, and wombats lurking in the shrubbery before you return to Sydney for dinner and a toast to your adventure."
+    },
+    {
+      "dayNumber": "14",
+      "title": "Sydney - Leave Sunny Sydney This Morning",
+      "description": "Today marks your last morning in Australia and you will wake up early to relish every minute, from breakfast to departure. You may explore the neighborhood for trinkets and tokens crafted at Australian boutiques, grab a cup of coffee at a chic cafÃ© near the harbor, and stroll along the sun-washed promenade with other eager locals and travelers relishing the splendors of Sydney. You will return to your room later this morning to collect your things, meet your transfer, and say your goodbyes to Australia from the international airport."
+    }
+  ],
+  "map": ""
+}

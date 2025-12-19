@@ -1,0 +1,50 @@
+{
+  "destination": "Brazilya",
+  "mainPhoto": "",
+  "id": "RBRCH",
+  "tourName": "Rio Karnavalı ve Hostel Deneyimi",
+  "placesVisited": "Brazilya",
+  "generalInfo": "Dünyanın en büyük ve en renkli sokak partisinin bir parçası olun. Karnaval hostel deneyimi paketimiz sizi Rio’nun kalbine ve karnaval aksiyonunun merkezine götürecek.Sektör 13 biletinizle Sambadrome’ daki ünlü geçit törenini izleyin kostümünüzü giyip gece boyu kendinizce samba yapın.<br><br><strong>Katılış için en yakın uluslararası havaalanı: </strong>Rio Galeao Antonio Carlos Jobim Uluslar arası Havaalanı (GIG), Rio de Janeiro Santos Dumont",
+  "durationDays": "5",
+  "price": "359",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Tur ve Aktiviteler</strong></p>\n<ul>\n<li>- Gece caipirinha dahil sokak partisi</li>\n<li>- Sektör 13 Sambadrome bileti</li>\n</ul>\n<p><strong>Konaklama</strong></p>\n<ul>\n<li>- Hostelde 4 gece</li>\n</ul>\n<p><strong>Yemekler</strong></p>\n<ul>\n<li>- 4 kahvaltı</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "RIO DE JANEIRO’YA  VARIŞ",
+      "description": "Maskelerinizi,tüylerinizi,payetlerinizi ve yüz boyalarınızı kapın ve karnaval deneyimine hazır olun."
+    },
+    {
+      "dayNumber": 2,
+      "title": "RIO DE JANEIRO",
+      "description": "Bu gün Rio karnavalı atmosferinin tadını çıkarmak için en iyi günlerden biri."
+    },
+    {
+      "dayNumber": 3,
+      "title": "SAMBADROME GEÇİT TÖRENİ",
+      "description": "Pazar gecesi Rio karnavalının en önemli bölümü Sambadrome gecesi.Gün içinde Rio plajlarından birine giderek okyanusta ,dün geceki partinin ardından sizi kendinize getirecek bir dalış yapabilirsiniz.Sambadrome töreninde en iyi şekilde görünebilmeniz için tur lideri size kostümlerinizi ve aksesuarlarınızı satın alabileceğiniz yerleri önerecekler."
+    },
+    {
+      "dayNumber": 4,
+      "title": "RIO DE JANEIRO",
+      "description": "Sambadrome’un heyecanı ve enerjisinin ardından biraz uzanıp dinlenmenin tadını çıkarın.Dilerseniz öğleden sonra isteğe bağlı olarak sessiz sakin bir gecekondu mahallesi gezisine çıkabilirsiniz.Çünkü herkes hala gecenin yorgunluğunu atmaya çalışıyor olacak."
+    },
+    {
+      "dayNumber": 5,
+      "title": "RIO DE JANEIRO’DAN AYRILIŞ",
+      "description": "Ömrünüz boyunca unutamayacağınız bir macera  bugün sona eriyor.Eğer geç saatte bir uçuşunuz varsa ya da konaklamanızı ve kalış sürenizi uzatırsanız şehri daha fazla gezmek için ekstra zamanınız olacak."
+    }
+  ],
+  "map": ""
+}

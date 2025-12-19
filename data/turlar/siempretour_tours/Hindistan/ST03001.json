@@ -1,0 +1,75 @@
+{
+  "destination": "Hindistan",
+  "mainPhoto": "",
+  "id": "ST03001",
+  "tourName": "Holi Bayramı Hindistan",
+  "placesVisited": "Hindistan",
+  "generalInfo": "Kendine has ve farklı insanları, değişik adet ve gelenekleri ile Hindistan başlı başına bir kültür başkenti. Siempre Tour ile Hindistan'ın tarih ve kültür kokan sokaklarında gezebilir, doğa turlarıyla vahşi hayatla iç içe olabilirsiniz.",
+  "durationDays": "10",
+  "price": "3640",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li>- ANKARA  &amp;  MUMBAİ Gidiş DELHİ  &amp; ANKARA Dönüş  Katar Havayolu ile ekonomik sınıf uçak  biletleri</li>\n<li>- Mumbai &amp; Udaipur ekonomik havayolu ile ara uçuş - Udaipur &amp; Jaipur ekonomik havayolu ile ara uçuş</li>\n<li>- Mumbai de  5 * Taj Mahal Oteli Palace Bölümünde odalar . Wifi hizmeti dahil.</li>\n<li>- https://taj.tajhotels.com/en-in/taj-mahal-palace-mumbai/</li>\n<li>- Udaıpur da 5* Taj Lake Otelinde Konaklama. Wifi Hizmeti dâhil.</li>\n<li>- Jaipur da 5*Taj Mahal Otel Delux odalar, Wifi hizmeti dâhil. https://taj.tajhotels.com/en-in/jai-mahal-palace-jaipur/</li>\n<li>- Agra 5 *Hotel Courtyard by Marriott</li>\n<li>- Delhi 5* Hotel Le Meridien  Oteli ,Wifi dahil</li>\n<li>-  Zangoora at The Kingdom of Dream Bollywood  Show da Diamond Class seyretme imkanı.</li>\n<li>- 9 Akşam yemekleri Tümü Konaklanan otellerde. Salon bilgileri verilecek.</li>\n<li>- Otobüsler de su servisi</li>\n<li>- Özel otobüsle transfer &amp; Lokal Rehber.</li>\n<li>- Gezi yerlerinde giriş ücretleri</li>\n<li>- Siempre Tour servis Görevlisi</li>\n<li>- Türkçe hizmet veren Rehberlik servisi</li>\n<li>- Yurtdışı Çıkış Vergisi (50 Tl)</li>\n<li>- Zorunlu Seyahat Sigortası</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "ANKARA & DOHA & MUMBAİ",
+      "description": "03 Mart akşamı Ankara Esenboğa  Havaalanı Dış Hatlar Terminali’nde, saat 10.30’da Katar Havayolu Kontuarı önünde     buluşma ve giriş işlemlerinden sonra, saat 12.30 ’da Katar Havayolları’nın QR 314 sefer sayılı uçağı ile hareket."
+    },
+    {
+      "dayNumber": 2,
+      "title": "MUMBAI – UDAIPUR",
+      "description": "Sabah kahvaltısından sonra Udaipur'a uçuş için havaalanına transfer."
+    },
+    {
+      "dayNumber": 3,
+      "title": "UDAİPUR",
+      "description": ""
+    },
+    {
+      "dayNumber": 4,
+      "title": "UDAİPUR & JAIPUR",
+      "description": "Otelde Kahvaltı ardından Udaipur da ucak saatine kadar yerel hediyelik eşya satan pazarı ziyaret ediyoruz."
+    },
+    {
+      "dayNumber": 5,
+      "title": "JAIPUR",
+      "description": "Sabah kahvaltımızın ardından Jaipur Şehri turu Gezimize Sabah Jaipura 11 Km mesafedeki Amber Kalesini ziyaretle başlıyoruz. 1728. Yılında ön Hindu ve Babür mimarisiyle inşa edilmiştir. Raca Rajputs tarafından yaptırılan bu kale devletin yönetimi, güvenliği ve kendi özel kullanımı için yaptırmıştır. Rajput döneminin lüks, zengin karmaşık yaşam tarzlarını gösteren taş eserleri ve resimleriyle süslenmiş mermer ve değerli taşları, yapılan büyüleyici bahçeleri ve muhteşem sarayları kapsayan Kaleye fillerle çıkıyoruz. Kale içinde Sheesh Mahal (aynalı salon), Jai Mahal ve diğer sarayları ziyaret ediyoruz."
+    },
+    {
+      "dayNumber": 6,
+      "title": "JAIPUR- AGRA",
+      "description": "Otelde kahvaltının ardından Özel otobüsümüz ile Agra ya doğru seyahatimiz başlıyor . Yolculuk 240 Km ve yaklaşık 5 saat ."
+    },
+    {
+      "dayNumber": 7,
+      "title": "AGRA HOLİ BAYRAMI",
+      "description": "Holi festivali dolunayın İlk gününde Kutlanıyor. Bu bir Hindu festivali ve festivalin tarihi Hindu & Ay takvimine göre her yıl değişir. Holi kötü üzerinde iyi bir zafer ve kış ve baharın gelişini sonunu temsil eder. Festival yerel halkın kendi arka bahçelerinde 'Holika' adı verilen küçük şenlik ateşi bir gece önceden yakarak başlar. Ertesi sabah, insanlar birbirine renkli boya  ve su sıçrama savaşı yaparak,  arkadaşları , aileleri ve yabancıların da katılımıyla tüm renklerin ve insanların bir araya geldiği Renklerin karnavalı dönüşür. HOLİ  bayramı  müzik, halini dansı, gıda ve sokaklarda ve evlerde şenlikler ile kutlanır. Festival, 'Holi' kelimesinden bahsetmek, insanlar arasında gülümseme ve coşku uyandıracak kadar eğlenceli ve eğlendirici dolu. Holi ayrıca baharın neşe ve umut mevsimi olan gelişini de kutluyor."
+    },
+    {
+      "dayNumber": 8,
+      "title": "AGRA - DELHİ",
+      "description": "Kahvaltıdan sonra otelde sürücü Agra / Delhi (210Kms / 04Hrs). Varışta check-in Hotel Le Meridien'de (Executive Oda)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "DELHİ",
+      "description": "Kahvaltıdan sonra Agra da ki otelden ayrılıyoruz. Delhi ye özel otobüsümüz ile geçiyoruz. Agra  Delhi arası 210Km ve yaklaşık 04 saat . Delhi ye varışımız ile otele direk geçiyoruz. Delhi deki Konaklama yerimiz Hotel Le Meridien (Executive Odalar)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "DELHİ & DOHA & ANKARA",
+      "description": "Sabah erken saat de Otelden Çıkış işlemlerini yapıyoruz."
+    }
+  ],
+  "map": ""
+}

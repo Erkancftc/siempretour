@@ -1,0 +1,80 @@
+{
+  "destination": "Austria",
+  "mainPhoto": "",
+  "id": "outdoor-austria-adventure-tour",
+  "tourName": "Outdoor Austria Adventure Tour",
+  "placesVisited": "Innsbruck, Salzburg, Hallstatt",
+  "generalInfo": "For over 11 days you will hike, climb, kayak, canyon, raft, balloon and fly through the Alps.Trails twist between epic mountains, lakes glisten beneath rugged peaks, rivers flow between medieval villages. Welcome to Austria and the ultimate outdoor adventure itinerary. And from Tyrol to Salzkammergut there are few finer landscapes to explore, anywhere else on Earth.",
+  "durationDays": "11",
+  "price": "5,400",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Innsbruck - Lounging around in Tyrol",
+      "description": "You will fly into Innsbruck, a cute World Heritage city at the heart of Tyrol. Note that another possibility is to fly into Zurich, Switzerland, not far over the border. Tyrol is home to Austriaâs highest mountains and youâll spend the first five days in this western part of the country. Nothing is planned for today. After a private airport transfer you can stroll around the old town, get a feeling for Austria, and get some rest before your Austrian outdoor adventure."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Lienz - Across the Austrian Alps",
+      "description": "On a private transfer to Lienz youâll gain an insight into the Alps. Then youâll come to understand these mountains from the air. Take off from Lienzâs small airport on a private scenic flight. First fly close to the Switzerland border, with snowy mountains rising at jagged angles everywhere down below. Then turn eastwards and watch as the mountains soften. Approaching the Salzkammergut you will see open green steppes, punctuated by the odd ragged peak. Then returning towards Lienz you can gasp at Austriaâs highest mountains and the settings for your next three days in Tyrol."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Lienz - Guided Rafting on the Isel River",
+      "description": "Before hiking in the mountains, today will bring a different kind of serenity. Paddle down the River Isel in a raft, on a nine-mile journey downriver. Many of the rapids are only grades II and III, good for an adrenaline surge but not too threatening. However, there are a couple of grade IV rapids that will really get your heart racing. The afternoon has been left free and you can enjoy various self-guided hikes in the hills around Lienz. This is a lovely city to walk around and itâs far less touristic than cities like Salzburg and Vienna."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Lienz - An Experience with the Grossglockner",
+      "description": "Austriaâs highest mountain is a beast yet itâs also one of the most accessible in the country. Back in the 1930s, they built a road up the Grossglockner and itâs still in use today. So you can drive the famous switchbacks to the summit, or take a more adventurous path. There are hiking ascents, rock climbing sections, and downhill trails suitable for a mountain bike. And what a mountain! Towering over a country, this is one of Europeâs most iconic outdoor sights and todayâs adventure will be fully tailored to your interests."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Lienz - Climbing in the Alps",
+      "description": "For your final day in Tyrol, thereâs the twin challenge of canyoning and rock climbing. First the climbing, a local guide showing you the ropes then planning a route for any experience level. Youâll be at the Klettersteige, one of Europeâs most revered outdoor walls, feeling the thrill and the challenge. Then canyoning, which involves jumping, swimming, and sliding through waterfalls and gorges. Youâll abseil down two waterfalls as well, water gushing past as you lean back and step tentatively down the slippery rock. Itâs a very safe activity that requires no previous experience."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Salzburg - Kayaking around Salzburg",
+      "description": "You can transfer to Salzburg by road but that would be a little boring. So kayak part of the way as well. This is an easy downriver paddle and you will be given instruction by a local guide. As the roads and villages fade away youâll be out in the wild, enjoying a sense of solitude, looking up at the strange birds fluttering by. Spend half the day in your kayak, with a picnic lunch along the way, before completing the final stretch of your journey by road."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Salzburg - The Bavarian Mountains",
+      "description": "The Bavarian mountains are greener than those of Tyrol. Forests stretch across their slopes and layers of mist hang evocatively through the air. With a day in these mountains you will drive and hike to a variety of viewpoints, including the majestic Eagleâs Nest. Just like on your other hiking days, there are different options depending on your mood and fitness level. You may prefer to spend eight hours walking on remote trails, or prefer to rest your legs and see everything thatâs accessible by road."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Hallstatt - The Mountains above the Lakes",
+      "description": "From Salzburg it will be a short journey east into the Austrian Lake District, with a thrilling stop at Treppe ins Nichts on the route. Here, a suspension bridge hangs dramatically above an alpine canyon. Stark mountains are enveloped by snow for nine months of the year. Panoramas stretch in all directions and it feels like you are standing on top of the world. Youâre not even standing on the top of Austria, but thereâs a wilderness feel here that canât be underestimated. Your afternoon in Hallstatt has been left free, so you can explore one of Europeâs most picturesque lakeside towns."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Hallstatt - Alpine Ballooning Experience",
+      "description": "Savor a second aerial experience this morning with a hot air ballooning flight over Salzkammergut. Itâs slower and more serene than a plane. You will float over the lakes, admiring landscapes that juxtapose vineyards with steppes, snowy peaks, and river valleys. Soaring on the wind this is regarded among the worldâs finest balloon experiences, with the variety of landscapes making for three hours of changing vistas. Back in Hallstatt you may choose to do some canoeing on the lake, or perhaps walk along a lakeside trail."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Hallstatt - Hiking and Biking",
+      "description": "This final day is completely customizable as you explore Austriaâs Lake District. The mountains are lower and the trails are much easier than in Tyrol. Yet the landscapes are not less dramatic. Your guide will explain different options and itâs unlikely youâll see many other people during the day. Cross open steppes, hike to hidden waterfalls, rush down mountain bike trails, then cool off in one of the lakes. This is a glorious region and the outdoor adventure can take you in many directions."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Salzburg - Departure",
+      "description": "Itâs back to Salzburg on a private transfer this morning, as you fly away from Austria after 11 days of outdoor adventure."
+    }
+  ],
+  "map": ""
+}

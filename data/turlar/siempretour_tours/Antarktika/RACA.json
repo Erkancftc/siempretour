@@ -1,0 +1,50 @@
+{
+  "destination": "Antarktika",
+  "mainPhoto": "",
+  "id": "RACA",
+  "tourName": "Klasik Antarktika",
+  "placesVisited": "Antarktika, Arjantin",
+  "generalInfo": "Bu muhteşem Antarktika  turu için bize katılın! Uzak Beyaz Kıta İki yüzyıl boyunca, bilim adamları ve kaşifleri hep kendine çekti ve şimdi bu donmuş topraklar  kapılarını macera gezginlerine açıyor.<br><br>Tierra del Fuego'nun büyüleyici takımadalarından Antarktika Yarımadasına yolculuk yapın ve eşsiz vahşi yaşam, görkemli buzdağları ve muhteşem manzaralarla büyülenin. Büyük penguen kolonileri, görkemli balinalar ve nefes kesen buzdağlarının manzaraları her geçen güne göre daha inanılmaz olacak.<br><br>Antartika, diğer yerlere  göre  zamanın ve dünyanın son büyük, bozulmamış vahşi doğalarından biri olarak tarif edilen bir bölgedir.<br><br>Bir zamanlar sadece en cesur maceracıların gittiği bu zorlu kıtaya  şimdi küçük maceraperest grupları buza dayanıklı Antarktika keşif gemileriyle gidiyor. Uzman bir ekibin desteği  ile karaya çıkış ve yürüyüşler  ve muhteşem yaban hayatı izleme fırsatını deneyimleme şansı veriyor.<br><br>Antarktika, dünyanın en soğuk, en rüzgarlı ve en kuru yeridir, o kadar az yağış vardır ki, teknik olarak çöldür ya da ağaç yoktur. kalın buz tabakalarının altındaki arazi yaklaşık % 98 buz ve % 2 çorak kayadır. bu yüzden dağlar, volkanlar, çöller, meteorlar, dinozor fosillerinden oluşan bu  bu dinamik ve farklı kıtayı  görmek için Antarktika'ya gidin. Kuzey Kutbu'ndan farklı olarak, kıtada yerli memeliler yoktur, ancak Antarktika'ya yapılan bu tur sırasında çeşitli türlerde penguenleri, balinaları ve deniz kuşlarını fotoğraflamak mümkündür.",
+  "durationDays": "10",
+  "price": "7000",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Konaklama:</strong></p>\n<ul>\n<li>- Teknede 9 gece</li>\n</ul>\n<p><strong>Yemekler </strong></p>\n<ul>\n<li>- 9 Kahvaltı, 8 Öğlen Yemekleri, 8 Akşam Yemeği</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Ushuaia'ya Giden - M / V Ushuaia",
+      "description": "Gemimizi, M / V Ushuaia'ya saat 16.00'da Ushuaia'nın Tierra del Fuego Limanı'na bineriz ve Beagle Kanalı, Mackinley Geçidi ile 7: 00'de yelken açarak Logos batığını geçeriz. Ushuaia, yaklaşık 42.000 nüfusu ile Arjantin Tierra del Fuego'dadır. Dünyanın en güneydeki şehri Ushuaia, karla kaplı tepeler, güzel bir koy ve Charles Darwin'in 1830'ların keşif gemisinden adını alan Beagle Kanalı ile çevrilidir. Ushuaia'nın tarihi, eski binalarının çoğunda hala görülebilir ve birkaç mükemmel müze de vardır."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Denizde",
+      "description": "1578 yılında bu suları gezen ünlü kaşif Sir Frances Drake'in adını taşıyan Drake Geçidi, soğuk kutup sularının daha sıcak suların altına çöktüğü biyolojik bir bariyer olan Antarktika birleşim yerini de işaret ediyor. Denizdeki alt su tabakasının üste doğru çıkması  , bu bölgenin biyo çeşitliliğini sürdürebilmesini  sağlayan büyük bir besin kaynağı yaratır. Drake Geçidi de birçok Antarktik deniz kuşunun kuzey sınırını işaret ediyorGeçit boyunca ilerlerken, rehberiniz güvertede  , albatroslar dahil olmak üzere deniz kuşlarının muhteşem çeşitliliği hakkında bilgi vermek  için sizinle birlikte olacaklar."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Güney Shetland Adaları - Antarktika Yarımadası",
+      "description": "Güney Shetland Adaları yaban hayatı için bir cennettir. Antarktik kürk fokları ve güney fil foklarının hükmettiği  bu plajlar ve penguen gezileri, bu muhteşem  ada grubundaki  her günü unutulmaz hale getiriyor.   Deception Adası'nın su altındaki kalderasına açılan dar geçitte yelken açmak ve Pendolum Koyu'nun kaplıcalarında yüzme şansı sizi gerçekten şaşırtacak. Güney Shetland Adaları'nın en büyüğü olan Kral George ve  Livingston Adası, yosun martıları, mavi gözlü karabataklar, deniz kırlangıçları  Adélie,  Chinstrap , Gentoo Penguenleri , dev fırtına kuşları ve fil foklarına ev sahipliği yapıyor."
+    },
+    {
+      "dayNumber": 8,
+      "title": "At sea – Drake Passage",
+      "description": "Antarktika'dan ayrılıp ve Drake Geçidi boyunca kuzeye gidiyoruz. güvertede deniz kuşlarını ve balinaları araştırmak  ve son derslerin tadını çıkarmak için , öğretim üyelerimizle ve doğa bilimcilerimizle buluşuyoruz. Ushuaia'ya dönüşte, geçmiş günlerin büyüleyici maceralarını rahatlama ve düşünme şansını yakalayın."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Ushuaia'dan Ayrılış",
+      "description": "Adelie Penguenleri ve Mavi Gözlü karabataklarını görebileceğimiz Pleneau ve Petermann Adası'na giden muhteşem Lemaire Kanalı'ndan geçiyoruz. Burada Kambur, Minke ve Fin Balinaları ile  karşılaşma şansı var.  Antarktika'daki bilimsel istasyonlardan birine yapılacak bir ziyaret, Beyaz Kıta üzerinde çalışan modern Antarktikaların hayatı hakkında size bir fikir verecek. Daha güneyde  de Ukrayna Vernadsky İstasyonu'nu ziyaret ediyoruz. Daha sonra  Neumayer Kanalı'ndan kuzeye doğru yelken açıyoruz. Leopar ve yengeçyiyen fokları  ve balinalarla karşılaşabileceğimiz buzdağları ile çok güzel bir manzaraya sahip Melchior Adaları'na varıyoruz."
+    }
+  ],
+  "map": ""
+}

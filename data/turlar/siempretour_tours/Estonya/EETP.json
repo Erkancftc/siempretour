@@ -1,0 +1,65 @@
+{
+  "destination": "Estonya",
+  "mainPhoto": "",
+  "id": "EETP",
+  "tourName": "Talin' den Prag' a",
+  "placesVisited": "Estonya, Letonya, Litvanya, Polonya, Slovakya, Çek Cumhuriyeti",
+  "generalInfo": "Bu kısa turumuzda Doğu Avrupa’nın beş farklı başkentinin tarihi eski şehirlerini geziyoruz. Avrupa’nın zengin çekiciliği ile pek çoğu iyi korunmuş olan sayısız katedrali, pazar yerini, şehir meydanlarını ve Arnavut kaldırımlı sokaklarını keşfedin. Ayrıca yürek burkan ama tarihsel olarak önemli Auschwitz Toplama Kampını da keşfedin.<br><br><strong>En Yakın Uluslararası Havaalanı (Başlangıç Noktası):</strong> Talin Lennart Meri Havaalanı (TLL)<br><br><strong>En Yakın Uluslararası Havaalanı (Bitiş Noktası):</strong> Prag Vaclav Havel Havaalanı (PRG)",
+  "durationDays": "13",
+  "price": "999",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Geziler &amp; Aktiviteler</strong></p>\n<ul>\n<li>- KGB Müzesi giriş ve rehberli tur ücreti</li>\n<li>- Auschwitz Toplama Kampı Rehberli Gezisi</li>\n</ul>\n<p><strong>Konaklama</strong></p>\n<ul>\n<li>- Otellerde 11 gece, yatılı trende 1 gece</li>\n</ul>\n<p><strong>Ulaşım</strong></p>\n<ul>\n<li>- Toplu taşıma otobüsleri, taksi, yürüyüş, özel araç, yatılı tren, tren, tramvay, metro</li>\n</ul>\n<p><strong>Yemekler</strong></p>\n<ul>\n<li>- 12 kahvaltı büfesi</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Talin’e Varış",
+      "description": "Estonya'nın başkenti Talin, büyüleyici tarihi merkezi ile ünlüdür ve Finlandiya Körfezi'nin popüler tatil beldelerinden biridir. UNESCO Dünya Mirası listesinde yer alan büyüleyici tarihi merkezi ile ünlüdür. Arnavut kaldırımlı sokaklarda dolaşın ve doğal kalıntıları keşfedin ya da ortaçağ binaları, 14. yüzyıl kiliseleri, kuleler ve cazibeli geçitler ile dolu Toompea tepesine tırmanın."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Riga",
+      "description": "800 yıldan fazladır var olan Riga, bir ortaçağ merkezi ile modern şehir altyapısının akıllı karışımı olarak sizi büyüleyecek. UNESCO Dünya Mirası listesinde yer alan eski şehir merkezi, kendine özgü bir çekiciliğe sahipken, şehir “Doğu’nun Paris’i” olarak Art Nouveau mimari akımının büyüleyici örnekleriyle meşhur. Riga’nın en ünlü Gotik kilisesi olan St Peter Kilisesi yaklaşık 800 yaşında ve mutlaka görülmesi gereken bir yer. Kilisenin meşhur çan kulesi, en son 1973’de tamamlanan restorasyonu ile 1667’den beri üç kez aynı şekilde restore edildi. Çan kulesine çıkın ve şehrin muhteşem manzarasının tadını çıkarın."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Vilnius",
+      "description": "'Yeni Prag' olarak övülen Vilnius, Litvanya'nın başkenti ve Barok tarzın tüm çekiciliğine sahip eski şehir merkezi ise Doğu Avrupa'nın en büyüğü. Vilnius, Neris Nehri'nin kenarında, çamlarla kaplı tepeleri, dost canlısı insanları, eski ve yeniyi harmanlayan, görülmeye değer tablo gibi güzel bir şehir. Gediminas Tepesi’ndeki Gediminas Kalesi ve tepenin hemen altında 57 metrelik çan kulesiyle Vilnius Katedrali’nin yer aldığı Katedral Meydanı dahil şehrin görülebilecek yerlerini görmek için zamanınız olacak."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Warsaw",
+      "description": "Polonya'nın başkenti Varşova, II. Dünya Savaşı’nda neredeyse tamamen yıkıldı, çok çaba harcanarak yeniden inşa edilen şehir bir turizm merkezine dönüştü. Komünizmin çöküşünden sonra birçok eski bina yerini modern gökdelenlere bıraktı, harap haldeki eski şehir yepyeni bir çehreye kavuşurken, eğlence ve hizmet alanında yaşanan değişimlerle şehir diğer batılı başkentlere eşdeğer bir konuma geldi."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Kraków",
+      "description": "Polonya'nın fazlasıyla ünlü ve kültürel şehri, tarihi yapıların ve anıtların çoğunun İkinci Dünya Savaşı'ndan kurtulmuş olduğu ortaya çıkmasıyla yüzyıllar süren şaşırtıcı mimari ve sanatsal gelenekleri korumayı başaran Krakov'dur. Şimdilerde müze olan rönesans sarayı Wawel Kraliyet Kalesi, Krakov’un 500 yıl kraliyet başkenti olması nedeniyle mutlaka görülmesi gereken bir yerdir. Bu kozmopolit şehir, akşamları, keşfedilecek birçok restoran, müzik kulübü ve bara ev sahipliği yapan vahşi bir gece hayatı sunmakta."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Overnight train to Prague",
+      "description": "Dağların taze havasına doyduktan sonra Prag’a gitmek için yatılı tren yolculuğumuza başlıyoruz."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Prague",
+      "description": "Prag, Avrupa'nın en güzel şehirlerinden biridir ve hareketli eski şehir meydanındaki muhteşem astronomik saat, ressamları ve sokak çalgıcılarını iş başında görebileceğiniz büyüleyici Charles Köprüsü ve Wenceslas Meydanı gibi yerlerin olduğu 1000 Kuleli Şehri gezmek için boş zamanınız var. Ayrıca, şehrin sihirli manzarasına bakmak için Hradčany Kalesi ve St Vitus Katedrali'nin yüce yükseklikleri arasında gezin."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Prag’dan Ayrılış",
+      "description": "Hayatınızın macerası bugün sona eriyor. Geç vakitte bir uçuşunuz varsa veya tur sonrası konaklama ekleyerek konaklamanızı uzattıysanız görülesi yerleri keşfetmek için daha fazla zamanınız olacak."
+    }
+  ],
+  "map": ""
+}

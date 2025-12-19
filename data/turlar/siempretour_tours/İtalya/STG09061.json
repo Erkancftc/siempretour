@@ -1,0 +1,65 @@
+{
+  "destination": "İtalya",
+  "mainPhoto": "",
+  "id": "STG09061",
+  "tourName": "Explorer of the Seas ile Akdeniz - 21.Haziran.2020",
+  "placesVisited": "İtalya, İspanya, Fransa",
+  "generalInfo": "<strong>Explorer Of The Seas</strong>, Royal Caribbean Cruises filosuna ait 14 katlı bir gemidir. 1.181 görevlisi ve yolcu kapasitesi 3.114 kişi olup Amerika ağırlıklı personel uyruğu dışında Türk personel de bulunmaktadır.<br><br><strong>Explorer Of The Seas</strong> içindeki özellikleri, cadde görünümlü alışveriş merkezleri, 3 havuz ve su parkı, 6 dev jakuzi, cilt bakımı, yoga, spor salonları, solaryum, kütüphane, kumarhane, iki ayrı kaya tırmanma duvarı, buz pateni pisti, mini golf sahası, tam boy basketbol sahası, dünyaca ünlü mutfaklardan yemek seçenekleri, bar, jazz club, karaoke bar, komedi klübü ve gece klübü, konser salonu, tiyatro salonu, 4D sinema salonu, gümrüksüz alışveriş yapabileceğiniz yüzlerce mağaza bulunmaktadır.",
+  "durationDays": "8",
+  "price": "FİYAT İSTEYİNİZ",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li><strong>* </strong>Türk Hava Yolları ile Sabiha gökçen Havalimanı – Roma / Roma – Sabiha Gökçen Havalimanı arası ekonomi sınıfı uçak bileti</li>\n<li><strong>* </strong>Havalimanı ve Liman vergileri <strong>2,900 TL</strong> (Dahildir)</li>\n<li><strong>* </strong>Havalimanı-liman-havalimanı arasındaki tüm transferler</li>\n<li><strong>* </strong>5 Yıldızlı Explorer of the Seas gemimizde 7 gece tam pansiyon (Tüm yiyecekler dahil-özel restoranlara giriş ücretleri hariç) konaklama</li>\n<li><strong>* </strong>Gemide düzenlenen animasyon ve aktiviteler</li>\n<li><strong>*</strong> Türkçe Rehberlik Hizmetleri <strong>(Grup kişi sayısı 20’yi aştığı takdirde)</strong></li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Roma ( Civitavecchia ), İtalya",
+      "description": "Hareket Saati : 17:00"
+    },
+    {
+      "dayNumber": 2,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 3,
+      "title": "Valensiya (İspanya)",
+      "description": "Varış Saati : 08:00"
+    },
+    {
+      "dayNumber": 4,
+      "title": "Palma de Mallorca (Balear Adaları)",
+      "description": "Varış Saati : 09:00"
+    },
+    {
+      "dayNumber": 5,
+      "title": "Barselona (İspanya)",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Nice, Villefranche (Fransa)",
+      "description": "Varış Saati : 11:00"
+    },
+    {
+      "dayNumber": 7,
+      "title": "La Spezia (İtalya)",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 8,
+      "title": "Roma ( Civitavecchia ), İtalya",
+      "description": "Varış Saati : 05:00"
+    }
+  ],
+  "map": ""
+}

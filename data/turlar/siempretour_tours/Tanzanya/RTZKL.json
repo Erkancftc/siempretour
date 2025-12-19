@@ -1,0 +1,70 @@
+{
+  "destination": "Tanzanya",
+  "mainPhoto": "",
+  "id": "RTZKL",
+  "tourName": "Kilimangaro - Lemosho Rotası",
+  "placesVisited": "Tanzanya",
+  "generalInfo": "Tanzanya' nın Kenya ile olan kuzey sınırına yakın, görkemli buzla kaplı Kilimanjaro Dağı, deniz seviyesinden 5.896 metre yüksekliğiyle, Ekvator çizgisinde oturur. Shira Yaylası olarak bilinen volkanik krater üzerinde yürüyüş yapın. Lemosho Rotası turistlere kapalıdır. Yürüyüşçüler çevrelerindeki manzaraların ve muhteşem görüntülerin verdiği huzurun tadını çıkarabilirler.<br><br><strong>En Yakın Uluslararası Havaalanına (geliş): </strong>Moshi Kilimanjaro Uluslararası Havalimanı (JRO), Moshi Havalimanı (QSI)<br><br><strong>En Yakın Uluslararası Havaalanı (gidiş): </strong>Moshi Kilimanjaro Uluslararası Havalimanı (JRO), Moshi Havalimanı (QSI)",
+  "durationDays": "9",
+  "price": "1979",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Konaklama</strong></p>\n<p>2 gece otel,  6 gece Kamp</p>\n<p><strong>Yemekler</strong></p>\n<p>8 Akşam Yemeği, 8 Kahvaltı, 7 Öğle Yemeği</p>\n<p><strong>Diğer</strong></p>\n<p>Siempre Tur tur lideri , Siempre Tur Şoförü</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Moshi' ye Varış",
+      "description": "Moshi’ ye varıyoruz.  Bu gece,  akşam yemeğinin tadını çıkarabilir ve gezintiniz hakkında bilgilendirme alabilirsiniz."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Mt Mkubwa Kampı",
+      "description": "Doyurucu bir kahvaltıdan sonra rehberinizle tanışacak ve Lemosho Glades’ e doğru yola çıkacaksınız.  Bugün,  ormanın içinde yer alan Mt Mkubwa Kampı’ na gidiyoruz.  Yolda görülmesi bir hayli zor olan Colobus maymunları için gözlerinizi açık tutun."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Shira Kampı 1",
+      "description": "Bugün yürüyüşünüzde epeyce yükseleceğiz.  Ormandan geçerek,  çalılıklar ve bozkırlardan tırmanacağız.  Shira yayla vadisine inen kayalık bir sırt boyunca yürüyeceğiz.  Western Breach ‘ e baktığımızda,  muhteşem buzulların ilk bakışını yakalayabileceksiniz ve bu gece Shira Kampı 1 de kalacağız.  Bugün oldukça zorlu olsa da,  güzel manzaralar  favori yürüyüşünüz  haline geliyor."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Shira Kampı 2",
+      "description": "Bugün,  Shira Platosu’ nda çalılıklar ve bozkırlar boyunca daha yavaş tempolu bir yürüyüşümüz var.  Bir sonraki kampımız olan Shira Kampı 2’ ye doğal bir yürüyüş yolu."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Barranco Kampı",
+      "description": "Bugün,  Oehler Tepesi’ nin bağlantı noktasını geçip doğudan Lava Kulesi’ ne doğru,  güney-doğuya  devam eden,  uzun bir yürüyüş günüdür.  Bu gece Barranco Kampında kamp kuruyoruz."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Barafu Kampı",
+      "description": "Çarpıcı Great Barranco Duvarına gitmeden önce ıssız bölgeye  giriyoruz.  Zirvedeki ödülümüz,  çarpıcı Heim Buzulu’ nun manzaraları.  Ardından Karanga Vadisi’ ndeki tepeyi aşıp ,  sol taraftaki  Barafu kampına ulaşıyoruz.  Buradan,  aynı gece zirveye son çıkışımızı yapacağız."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Mweka Kampı",
+      "description": "Gece yarısından hemen önce kalkacaksınız,  hızlıca bir şeyler atıştırın ve zirveye ulaşmak için son bir çaba göstererek,  sabahın erken saatlerinde yürüyüşe başlayın.  Yürüyüş krater kenarındaki Stella Point’ e doğru zorlu çakıllarla yükselmeye başlar.  Burada bir mola verebiliriz ve hava koşulları bakımından şanslıysak,  deneyimleyebileceğiniz en güzel günlerden birini görün.  Buradan,  Afrika’ nın en yüksek noktası olan Uhuru Zirvesi’ ne iki saat var.  Zirveden Barafu kampına ve oradan Mweka kampına geri dönüyoruz.  Son dört günü tekrar ederek çakıllar,  bozkır ve ormandan geçerek geri dönüyoruz."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Mweka Kapısından geçiş.  Moshi’ ye dönüş",
+      "description": "Son gün,  kayıt defterini imzalamak ve zirve sertifikası almak için Mweka Kapısı ve Milli Park merkezine geri döneceksiniz.  Daha sonra hizmetlerin sona erdiği Moshi’ ye geri döneceğiz."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Moshi' den Ayrılış",
+      "description": "Bir ömür boyu süren serüveniniz bugün sona eriyor.  Geç bir uçuşunuz varsa veya konaklama turu ekleyerek konaklamanızı uzattıysanız,  turistik yerleri keşfetmek için daha fazla zamanınız olacaktır."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,80 @@
+{
+  "destination": "Scotland",
+  "mainPhoto": "",
+  "id": "personalized-best-of-scotland-tour",
+  "tourName": "Personalized Best of Scotland Tour",
+  "placesVisited": "Edinburgh, Oban, Isle of Skye, Inverness, St. Andrews",
+  "generalInfo": "There really is nothing like Scotland, which is home to breathtaking landscapes and iconic connections. From royal indulgence to wild islands and from atmospheric distilleries to ancient legends, this 12-day Best of Scotland tour will help you explore Scotlandâs diverse highlights. There is a little of everything that is essentially Scottish, including lochs, castles, villages, and so many friendly locals.",
+  "durationDays": "12",
+  "price": "5,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Edinburgh - Immersed in a Capital City",
+      "description": "You will touch down at Edinburgh Airport and be greeted by a local guide. It is only a 20-minute transfer into the heart of the city and your luxury accommodation. Most of the old center is pedestrianized, and it is a joy to wander along the cobbled lanes. Your guide will provide you with an orientation so that you know how to navigate the ancient lanes and where to grab the best local food. Edinburgh is a place that is great for getting lost. All you have to do is take a stroll, immerse yourself in the city, and feel your love for Scotland grow."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Edinburgh - Highlights of Old Edinburgh",
+      "description": "You will spend the day with a private guide, exploring the highlights and legends of old Edinburgh. The Palace of Holyroodhouse evokes 16th-century glory, although its tales are quite different from the facade. Edinburgh Castle is a dreamy early-afternoon stop, and you will find history etched into every stone. By wandering down the Royal Mile, you will gain a more detailed understanding of local culture before a jaunt up Arthurâs Seat completes your must-see journey. This is a private tour, so you can explore at your pace and linger at points of interest for as long as you like."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Edinburgh - The Quirks of Wonderful Glasgow",
+      "description": "Glasgow and Edinburgh present a charming juxtaposition, especially with their city centers. One is decorous and old-world, and the other vibrant and quirky. Old warehouses and other industrial buildings have been repurposed and are often enlivened by graffiti murals. Unusual pubs and shops mark the main streets rather than hiding. There is an energy that you can feel in Glasgow that is as impressive as Edinburghâs historical sights. You will travel by train with a local guide and explore the city before returning for an evening in the older city."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Edinburgh - Discovering Stirling and its History",
+      "description": "Stirling Castle evokes Middle Agesâ glory. It is perched on a hill and overlooks the city. The National Wallace Monument presents an entirely different early Middle Ages history of rebellion and Scottish pride. To explore more of Stirling, you will visit the famous Church of the Holy Rude with its magnificent stained glass. Stirling is another easy day trip from Edinburgh. You can comfortably discover the sights throughout the afternoon before spending a final night around Royal Mile."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Oban - Whisky and Wonder on the Road",
+      "description": "Scottish landscapes are unlike any other. The country is home to rolling fields of green and heather, narrow valleys that instantly cut you off from the world, thick mist that blankets the landscape, and sheep that graze lazily. It is mysterious here, and it is not always dramatic or calming. You will get a wonderful glimpse of all this scenery on the road to Oban, especially after a stop at a small whisky distillery. This will be a privately guided transfer with multiple stops on the way before a night on a windswept coastline."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Oban - Wilderness Impressions",
+      "description": "A short ferry ride will lead you to the Isle of Iona, where a colorful village is backdropped by even wilder Scottish scenery. This day trip will be all about walking in the wilderness, driving around magnificent coastlines, and feasting on Scotlandâs wild scenery. You will head to the Isle of Mull as well, where a tiny village will welcome you with hearty food and a roaring fire. These are remote locations home to a sense of escapism that is relatively unique to Scotland."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Isle of Skye - Scotlandâs Unique Landscapes",
+      "description": "The Isle of Skye is wild, and you may sense that you are on the edge of the world. You will certainly be on the edge of a continent, gazing across rugged island cliffs and ravenous Atlantic waves. There is peace out here, and a tranquility that is disappearing from most of the world. The Isle of Skye remains completely unchanged with Celtic ruins and suggests that 5,000 years of civilizations have never tamed such a place. Rather than tame, you are here to be inspired by rare landscapes and to fully enjoy Scotlandâs sense of escapism."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Inverness - Scotlandâs Stunning Lake System",
+      "description": "Back on the mainland, you will be privately transferred through Scotlandâs incredible lake system. Loch Ness is the most famous of the lakes, and a local guide will narrate the legend of a monster. You are mostly here because Loch Ness is one of Europeâs most spectacular lakes, and it will be on your route to Inverness today. With landscapes that contrast the islands, you will gain a complete appreciation of rural Scotland before spending the night next to a castle in a royal part of the country."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Inverness - Regal Histories and Stories",
+      "description": "Inverness Castle is less than 200 years old, but it seems to have remained unchanged for millennia. You can step inside this mighty fortress on a morning tour and marvel at the design before continuing to a private city tour in the Victorian center. After a few days of Scottish Highlands scenery, you will be in a cultural capital, where you can explore markets, churches, and some of the countryâs best art galleries. Inverness is a must-see destination if you want to see the best of Scotland, and you may notice a clear distinction to Edinburgh and Glasgow."
+    },
+    {
+      "dayNumber": "11",
+      "title": "St. Andrews - Iconic Scottish Experiences",
+      "description": "Your route back south will showcase a calmer Scottish landscape and more rolling valleys than craggy wonder. The scenery is bucolic and retains an untamed feel. Pitlochry is the best place to go in Scotland if you like whisky. Even if you are only remotely interested, Pitlochryâs distilleries will show you the full variation of styles and methods as narrated by distillers on a privately arranged tours. Balmoral is the Queenâs residence and a completely different experience. You will conclude your day in St Andrews next to the golf course."
+    },
+    {
+      "dayNumber": "12",
+      "title": "St. Andrews - Departure",
+      "description": "This morning, you will go on a guided tour of St. Andrews, which will include exclusive entry to the St. Andrews Golf Club clubhouse and a look at the castle. After lunch and late checkout, you will be transferred to Edinburgh Airport for your flight home."
+    }
+  ],
+  "map": ""
+}

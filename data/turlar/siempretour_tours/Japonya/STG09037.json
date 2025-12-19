@@ -1,0 +1,80 @@
+{
+  "destination": "Japonya",
+  "mainPhoto": "",
+  "id": "STG09037",
+  "tourName": "Voyager of The Seas ile Vizesiz Japonya Kıyıları - 16.Temmuz.2020",
+  "placesVisited": "Japonya",
+  "generalInfo": "Royal Caribbean Cruises'ın Voyager of the Seas Asya &amp; Uzakdoğu Cruise Turu ile macera ve adrenaline, eşsiz bir seyahat deneyimine hazır olun! HONG KONG, CHINA kalkışlı vizesiz Japonya kıyıları gemi turu sizi hayallerinizdeki destinasyonlara götürüyor. Özel aktivitelerle dolup taşan, lüksün de lüksü, dünyadaki yüzen gemilerin en büyüklerinden biri olan Voyager of the Seas ile Japonya kıyılarını en iyi fiyatlarla gezebilirsiniz.<br><br>Voyager of the Seas ile vizesiz Japon kıyıları gemi turu, tüm bildiklerinizi yeniden değerlendirmenizi sağlayacak farklı bir deneyim olacak! Zahmetsizce Asya &amp; Uzakdoğu'yu gezecek, hem gündüz hem gece, daha önce tatmadığınız deneyimler, hayat boyu unutamayacağınız anılar kazanacak, muhteşem eğlenceye hız kesmeden devam edeceksiniz. Bir kere gemi seyahati yaptığınızda, hep gemide tatil diyeceksiniz!",
+  "durationDays": "12",
+  "price": "FİYAT İSTEYİNİZ",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li>* Türk Havayolları ile İstanbul – Hong Kong// Hong Kong -  İstanbul arası ekonomi sınıfı uçak bileti</li>\n<li>* Havalimanı-liman-havalimanı arasındaki tüm transferler;</li>\n<li>* Havalimanı ve Liman vergileri <strong>4,900 TL</strong></li>\n<li>* Hong Kong’da otelde 1 gece oda kahvaltı konaklama</li>\n<li>* Voyager Of The Seas gemisinde 9 gece 10 gün tam pansiyon konaklama;</li>\n<li>* Gemide düzenlenen animasyon ve aktiviteler</li>\n<li><strong>* Türkçe rehberlik hizmeti (Minimum 20 Kişi katılması durumunda)</strong></li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Hong Kong (Çin)",
+      "description": "İstanbul Yeni Havalimanı buluşmasının ardından, Hong Kong’a hareket. Varışın ardından otele transfer."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Hong Kong (Çin)",
+      "description": "Hareket Saati : 18:00"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 4,
+      "title": "Okinawa,Naha (Japonya)",
+      "description": "Varış Saati : 13:00"
+    },
+    {
+      "dayNumber": 5,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 6,
+      "title": "Kobe (Japonya)",
+      "description": "Varış Saati : 10:00"
+    },
+    {
+      "dayNumber": 7,
+      "title": "Kyoto, Osaka (Japonya)",
+      "description": "Varış Saati : 09:00"
+    },
+    {
+      "dayNumber": 8,
+      "title": "Kochi (Japonya)",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 9,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 11,
+      "title": "Hong Kong (Çin)",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 12,
+      "title": "İstanbul' a Varış",
+      "description": ""
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,85 @@
+{
+  "destination": "Çİn",
+  "mainPhoto": "",
+  "id": "STG09044",
+  "tourName": "Quantum of The Seas ile Gizemli Asya, Filipinler ve Vietnam - 23.Şubat.2020",
+  "placesVisited": "Çİn, Filipinler, Vietnam",
+  "generalInfo": "Quantum of the Seas ile Filipinleri ve Vietnamı Siempre Tur ayrıcalığı ile keşfedin.",
+  "durationDays": "12",
+  "price": "FİYAT İSTEYİNİZ",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li>* Türk Havayolları ile İstanbul – Hong Kong// Singapur -  İstanbul arası ekonomi sınıfı uçak bileti</li>\n<li>* Havalimanı-liman-havalimanı arasındaki tüm transferler;</li>\n<li>* Havalimanı ve Liman vergileri <strong>4,900 TL</strong></li>\n<li>* Hong Kong’da otelde 1 gece oda kahvaltı konaklama</li>\n<li>* Quantum Of The Seas gemisinde 9 gece 10 gün tam pansiyon konaklama;</li>\n<li>* Gemide düzenlenen animasyon ve aktiviteler</li>\n<li><strong>* Türkçe rehberlik hizmeti (Minimum 20 Kişi katılması durumunda)</strong></li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Hong Kong (Çin)",
+      "description": "İstanbul Yeni Havalimanı buluşmasının ardından, Hong Kong’a hareket. Varışın ardından otele transfer."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Hong Kong (Çin)",
+      "description": "Hareket Saati : 18:00"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 4,
+      "title": "Ilocos, Salomague (Filipinler)",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 5,
+      "title": "Manila (Filipinler)",
+      "description": "Varış Saati : 08:00"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Subic Bay (Filipinler)",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 7,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 8,
+      "title": "Nha Trang (Vietnam)",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 9,
+      "title": "Ho Chi Minh (Vietnam)",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 10,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 11,
+      "title": "Singapur (Singapur)",
+      "description": "Varış Saati : 08:00"
+    },
+    {
+      "dayNumber": 12,
+      "title": "İstanbul' a Varış",
+      "description": ""
+    }
+  ],
+  "map": ""
+}

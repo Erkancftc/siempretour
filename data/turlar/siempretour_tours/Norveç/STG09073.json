@@ -1,0 +1,95 @@
+{
+  "destination": "Norveç",
+  "mainPhoto": "",
+  "id": "STG09073",
+  "tourName": "Jewel of The Seas ile Norveç Kıyıları ve İber Yarım Adası - 23.Ağustos.2020",
+  "placesVisited": "Norveç, Fransa, İspanya, Portekiz, İngiltere",
+  "generalInfo": "<strong>Jewel of the Seas;</strong> rahatlığı, büyütülmüş alanları, panoramik okyanus manzaraları ve her isteğinize özen ile cevap verecek eğitimli personeli ile size tam bir cruise deneyimi sunuyor. Ayırt edici özellikleri arasında on katlı cam merkezi, deniz manzaralı cam asansörler ve Royal Caribbean filosundaki en yüksek oranda dış kabin sayısı bulunmaktadır. Süper yat dizaynı ile karakterize olmuş Radiance Sınıfı gemiler, camlı alanları, sanat eserleri ve heykeller ile tamamlanmış modern mobilyaları ile dikkat çekmektedir. Açık alanları, balkonları ve daha çok cam görünümüyle Radiance Sınıfı gemilerde bir gemide olduğunuzu unutacaksınız.",
+  "durationDays": "14",
+  "price": "FİYAT İSTEYİNİZ",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li><strong>* </strong>Türk havayolu ile İstanbul  (Yeni Havalimanı) –Kopenhag – Barselona -  İstanbul (Yeni Havalimanı) arası ekonomi sınıfı uçak bileti</li>\n<li>* Havalimanı-liman-havalimanı arasında ki  transferler</li>\n<li>* Havaalanı ve liman vergisi <strong>790 €</strong></li>\n<li><strong>* </strong>5 Yıldızlı Jewel of the Seas gemimizde tam pansiyon (tüm yiyecekler dahil-Özel Restaurant giriş ücretleri hariç)</li>\n<li><strong>* </strong>Gemide düzenlenen animasyon ve aktiviteler</li>\n<li><strong>* </strong>Türkçe Rehberlik Hizmetleri <strong>(Grup kişi sayısı 20’yi aştığı takdirde)</strong></li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Kopenhag (Norveç)",
+      "description": "İstanbul (Yeni Havalimanı) –Kopenhag, Danimarka arası tarifeli sefer ile uçuş, varışı takiben gemimize transfer."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Kristiansand (Norveç)",
+      "description": "Varış Saati : 08:00"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Oslo (Norveç)",
+      "description": "Varış Saati : 08:00"
+    },
+    {
+      "dayNumber": 4,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 5,
+      "title": "Bergen (Norveç)",
+      "description": "Varış Saati : 07:00"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 7,
+      "title": "Le Havre (Fransa)",
+      "description": "Varış Saati : 11:00"
+    },
+    {
+      "dayNumber": 8,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 9,
+      "title": "La Coruna (İspanya)",
+      "description": "Varış Saati : 11:00"
+    },
+    {
+      "dayNumber": 10,
+      "title": "Vigo (İspanya)",
+      "description": "Varış Saati : 08:00"
+    },
+    {
+      "dayNumber": 11,
+      "title": "Lizbon (Portekiz)",
+      "description": "Varış Saati : 08:00"
+    },
+    {
+      "dayNumber": 12,
+      "title": "Cebelitarık (İngiltere)",
+      "description": "Varış Saati : 14:30"
+    },
+    {
+      "dayNumber": 13,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 14,
+      "title": "Tarragona (İspanya)",
+      "description": "Varış Saati : 04:00"
+    }
+  ],
+  "map": ""
+}

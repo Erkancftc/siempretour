@@ -1,0 +1,95 @@
+{
+  "destination": "Avustralya",
+  "mainPhoto": "",
+  "id": "ST02001",
+  "tourName": "Avustralya ve Yeni Zelanda Aborijin ve Maori Turu",
+  "placesVisited": "Avustralya, Yeni Zelanda",
+  "generalInfo": "Aborijin ve Maori kültürü ihraç edilen klişelerin çok ötesine uzanır. Bu eşsiz turda, antik geleneklerin kalp atışlarını keşfederek farklı Aborijin bölgelerinden rehberlerle seyahat ediyorsunuz. Ardından, Maori mirasının adaların geleceğini nasıl şekillendirmeye devam ettiğini gösteren Yeni Zelanda'ya uçuyorsunuz. Otantik ve samimi bu tur sizi tipik anlatıların ötesine, ikonik isimlerin arkasındaki kültürlere ve gizemlere götürür.<br><br><strong>ÖNE ÇIKANLAR </strong>",
+  "durationDays": "16",
+  "price": "FİYAT İSTEYİNİZ",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li>- Türkçe Rehberlik Hizmeti,</li>\n<li>- Uçak Biletleri</li>\n<li>- Otellerde konaklama</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Sidney - Avustralya'ya Hoşgeldiniz",
+      "description": "Güneşte rahat bir gün, uçuştan sonra tekrar canlanma ve beden saatinizi zaman farkına göre ayarlama şansınız olacak. Avustralya, Güney Pasifik’te her yere yayılmış büyük bir adadır. Havaalanında karşılanacak ve The Rocks'ta, Sindey Limanı Köprüsü ve Sidney Opera Binası gibi ünlü turistik yerlere yürüme mesafesinde denize sıfır bir rezidansta bir butik otele transfer edilecektir. Gün, rahatlamak, limanın etrafındaki karşılama atmosferini içinize çekmek ve ülkenin ilk izlenimlerini almak için ücretsizdir."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Sidney - Aboriginal Mirasın Kayaları Rüyası",
+      "description": "Sidney Harbour ve The Rocks, yüzyıllar boyunca morfolojiyi ve çarpıtılmış eşsiz bir anlatım sunuyor. Bu, Avrupalıların ilk önce bir yerleşim yeri yaratmaya başladığı yerdi ve yüzyıllar boyunca yerli halklarla nasıl çatıştıkları ve müzakere ettikleri hakkında bir masal öyküsü vardı. Bir Kuring-gai yerel, günümüzün rehberliğinizdir ve yüzyıllar öncesindeki hikayeleri keşfederken, Sidney'in doğal simge yapılarına yerli isimleri öğretir. Kıyı boyunca kaya oymaları ziyaret edin ve ülke genelinde bulunan çalı tuğlasıyla ilgili fikir edinmek için Botanik Bahçeleri arasında dolaşın."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Uluru - Kata Tjuta'daki Gizem ve Yıldızlar",
+      "description": "Avustralya'yı ziyaret etmeden önce, birçok insan bir kaya için üç saatin çöllerde durmanın  (ÜÇ SAAT ÇÖLE UCMA) saçmalıklarına gülüyor. Ama sadece bir taş değil. Kırmızı yanarken, Uluru karaya geldiğinizde manzaraya hakim olurken, sadece 40 mil uzaklıktaki başka 36 adet kumtaşı tepesi daha vardır. Kata Tjuta gizemli bir şekilde yıkanır, her bir kaya, güneşin yavaşça battığı gibi  rengini değiştirir. Bu kaya topluluğu, yakındaki parçadan daha yüksek ve estetik açıdan daha etkileyici. Aynı zamanda yerli insanlar için de kutsal bir yer, törenler için kullanılmaya devam ediyor ve çoğunlukla ziyaretçilerin sınırlarını aşmaya devam ediyor. Yerel bir rehber, kavrulmuş kırmızı vadilerde olanların bazı hikayelerini ortaya çıkarır. Tabii ki tüm hikayeler; Antik kültürlerinin belirli kısımları derinden gizli kalıyor, saygı görüldüğü için şiddetle korunuyor."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Uluru'dan Darwin'e - Uluru'nun Kutsal Kırmızı Kayası",
+      "description": "Şimdi Uluru, dünyanın en büyük kayası, gururla ayakta duruyor. Gizem duvarlarına kazınmış gözüküyor, Ayer's Rock adındaki yerleşimcilerin yanında güneşin doğmasıyla birlikte parlayan ve bulanık renkler göze çarpar. Bazı turistler rock'ın zirvesine tırmanmaya devam ederken. BASE üssünde  müthiş bir kışkırtıcı işaret var: “Bu, fethedilecek bir yer mi, yoksa bağlanması gereken bir yer mi?” Aborijin perspektifinde, üssün yanından yürürken gerçek bir dokunaklılık var. Kayaya oyulmuş hikâyelere hayranlık duyuyor ve Uluru'nun ilham verici estetiğinin ardındaki mirası keşfediyor. Bu,  parça  tek bir bakış açısını, bunun derin bir ruhani yer olduğunu anlamak için alır. Turu takiben, Darwin'e iç hat uçuş için doğrudan havaalanına transfer edildiniz. Bu nehir kıyısındaki şehirde, aşağıya inmek ve öğleden sonra serbest şekilde dolaşarak,  yarınki Kakadu macerasından önce biraz rahat zaman geçirmek isteyeceKsiniz."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Kakadu Ulusal Parkı - Son Kalan Aborjin Bölgesini Keşfetmek",
+      "description": "Kakadu Ulusal Parkı, şelaleler, yemyeşil bataklıklar, kavrulmuş kanyonlar, karışık ormanlar ve Bininj halkı ile dolu geniş bir vahşi genişlikteki Northern Territory boyunca uzanmaktadır. El değmemiş ve evcilleşmemiş, milyonlarca yıl önce doğanın büyüsü tarafından donmuş haldedir. Erişilemezlik, bölgenin büyük tasarruf lütfu olmuştur. Doğa fethedilmemiştir,  dolambaçlı orman ve vadiler, yerli bölgenin kalbi olarak kalmaktadır. Sadece 4X4 bir araç la turist yolundan uzaklaşabilir ve daha sonra önümüzdeki üç gün için seyahat programınız tamamen ziyaret ettiğiniz aya göre şekillenir."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Kakadu'dan Darwin'e ve Cairns'a - Sahilin İlk İzlenimleri",
+      "description": "Mangrovlu bir labirent boyunca, sabah güneşi ile kırmızı yanan bir uçurumun üzerinden geçerek , gizli bir şelalenin dibinden dramatik bir yamaç yolculuğu yapın. Yolculuk yapmaya devam edin, bir Bininj insanıyla bir saatliğine durun ve Kakadu'nun eteklerine doğru bir yol açın. Bu milli parkın çoğu düzenli turizme bağlıdır ve dört tekerlekten çekiş turunuz nadiren görülen yerlerin bazılarına özel erişim sunar. Bugün, Avustralya'nın kuzeydoğu kıyısındaki tropikal kasaba olan Cairns'e bir akşam uçuşu için Darwin'e geri dönüyorsunuz. Geç bir varış var SONUNDA , ve okyanus manzaralı merkezi bir otele teslim edilecek ve transfer edileceksiniz."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Cairns - Yerel bir Sanatçıyla Nasıl Boyayacağınızı Öğrenme",
+      "description": "Sanat eseri, Aborijin toprakları ve mirasını, nokta ve çizgilerle dikkat çekici bir hikaye anlatan eşsiz tabloları anlatıyor. Tekniklerde harika bir sadelik var; Bambu bir çubuk kullanarak, tuvalde damla bırakarak, mevcut olan üç renk arasından seçim yapabilirsiniz. Her boya yeryüzünden alınır ve su ile karıştırılır. Yine de, hepsi için anlaşılmaz bir karmaşıklık var, tüm duvarlara uzanan tuvaller ve yerli hikayelerin bir bilmecesini bırakan noktalar. Bugün Cairns'ın hemen kuzeyindeki sağır bir yerel sanatçıyla geçiriyorsunuz. Sizleri tekniğe tanıtır ve kendi hayal gücünüzden bir şeyler boyamanızı teşvik eder. Tarih boyunca bu resim tarzı, atalardan gelen yazılı kayıt oldu. Öğleden sonra Cairns'a dönün ve günün geri kalanı size aittir."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Cairns - Bus Tucker ve Daintree'de Balık tutma",
+      "description": "Avustralya'da başka bir gün ve başka bir yerliler kabilesi. Bugün Kuku Yalanji çetesi, yağmur ormanı sakinleri ve Daintree'nin antik manzarasında yaşayan balıkçılık uzmanları ile birliktesiniz. Binlerce yıl boyunca, farklı kabileler kendi aralarında ticaret yaparlar, her biri kendi topraklarının eşsiz ödülünü getirir. Kuku Yalanji egzotik bir karışımın tadını çıkarır. Mossman Gorge'un ağaçlarına doğru ilerleyerek ve her şey için bir kullanım olduğunu keşfederek başlayın; ustaca sepetleri örmek için kökler, optimum barınak için özel yapraklar, erkek iş için kayalar, avcılık okları için zehirli fındıklar bulunur. Kılavuzun talimatlarını takip edin ve küçük bir yeşil böceğin bacaklarını sıkın, vücudun üzerine basmadan önce ve dilleri uyuşturan güçlü antiseptiği  hissedin."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Auckland - Yeni Zelanda'ya Hoş Geldiniz",
+      "description": "Yeni Zelanda, suyun karşısına, volkanik Kuzey Adası, güzergahın son yarısı için üssünüzü bekliyor. Cairns'tan direkt uçuş var ve geldiğinizde havaalanında karşılanıyorsunuz. Şehrin ve günümüzün kalbine transfer, boş zamanlarınızda, ülkenin yumuşak ritmine yerleşmek ve limanı dolduran binlerce yelkenliyi seyretmek için bir fırsat. Tempodaki değişikliği hemen fark edeceksiniz. Avustralyalılar, Yeni Zelanda'ya dokunduğunuzda saatinizi 20 yıl geri almanız gerektiği konusunda şaka yapabilirler. Suyun bu tarafında yerliler muhtemelen bir iltifat olarak kabul ederler. İşleri daha yavaş ve daha rahat bir şekilde tercih ederler."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Auckland - Maori Kültürüne Giriş",
+      "description": "Ünlü Hollandalı korsan avcıları Yeni Zelanda'ya ilk gözlerini diken diken ettiler ve denizde beklediler. Maori'ye göre, bu bir savaş çığlığıydı. Yerliler wakaslarına (kanolarına) fırladılar ve toplarla savaşmak için toprağa fırladılar, topraklarını vahşi coşkuyla korudular. Hollanda gemileri geri çekildi ve arazi Avustralya'dan sonra on yıllara kadar sömürge edilmedi. Belki de Maori kültürünü Aborijin Avustralya'dan daha saygılı bir şekilde korumaya yardımcı olan bu tarih bugünün Auckland turu Sidney'de geçirdiğinize benzer. Yerel bir rehberle, Maori kültürü ve geleneğinin ilkelerine tanışmış oluyorsunuz. Şehrin farklı bölgelerini keşfedin ve arazi ile ilgili yerel isimleri ve gelenekleri keşfedin. Kentin ve antik geleneklerin modern yüzünü incelerken, kabile dövmelerinin ve bu büyük insanların atalarının kökenlerinin hikayelerini öğrenin."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Rotorua - Haka ve Bir Akşam Yemeği",
+      "description": "Rotorua, gökyüzüne buharı akıtıyor, patlayan gayzerleri, kilometrelerce görülebiliyor. Volkanik kayaçlar ise çamur şapırtılarını ve kabarcık havuzlarını sıradışı renkleriyle ortaya çıkarır. Kasabadaki termaller ve su yolları yüzyıllardır Maori yaşamının ayrılmaz bir parçasıydı ve Te Puia'nın akşam turu yerel geleneklerin tüm belirleyici işaretlerini ortaya çıkardı. Auckland'dan Rotorua'ya, Hobbiton'un kalbine ve Kuzey adalarının garip manzarasına iki saatlik bir yolculuğa çıkacaksınız. Bir Maori şefi, güzel bir trompet ve tezahüratla ortaya çıkmadan önce termal havuzlarda uzanarak öğleden sonra geçirin. Bu harikulade rezonans, kabilenin gücünü ve ilham verici şekilde sergileyen barış için geleneksel bir selam."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Adalar Körfezi'ne Rotorua - Patlayan Gayzerler  ve Yanardağlardan Yolculuk",
+      "description": ""
+    },
+    {
+      "dayNumber": 14,
+      "title": "Adalar Körfezi - Ngapuhi Kabilesinde Eşsiz Waka Deneyimleri",
+      "description": "Bir Wai Tagi, Waitangi Nehri'nin gelgit haliçlerinde süzülecek bir savaş kanoyla dışarı çıkın. Bazı insanlar sürat teknesiyle Adalar Körfezi'ne seyahat ederler, ancak bu geleneksel kanolar, Polonyalıdan ilk kez Maori'yi getiren aynı tarzda inşa edilmiş çok daha atmosferiktir. Yeni Zelanda'nın en büyük Maori grubu olan Ngapuhi'nin kalbine doğru hızla ilerleyen, vahşi bir his uyandıran bir tropikal manzaraya yolculuk edersiniz. Şef, sizi bir Maori mücadelesi ile karşılayıp, nehir kenarındaki bir köyün gümrükleriyle bağlantı kurmanızı rica eder. Benzersiz karşılama, küçük geleneksel bir topluluğa iki gün boyunca karışarak devam eder. Efsanevi hikayeleri paylaşın, geleneksel bilgileri keşfedin, yerlilerle balık yapın ve Ngapuhu'nun gerçekte kim olduğunu ve ne olduğunu anlamak için zaman ayırın. Bu, geceyi bir Maori topluluğunda geçirmek ve yerel yaşamın ayrılmaz bir parçası olan gelenekleri ve ritüelleri anlamak için çok nadir bir deneyimdir ve buradan ayrılmak istemeyeceksiniz."
+    },
+    {
+      "dayNumber": 16,
+      "title": "Auckland - Ayrılış",
+      "description": "Önce Auckland'a uçtuğunuzda ve ardından uluslararası uçuşunuza bağlandığınızda bu sabah  kayıp Pasifik adalarını geride  bırakın. Aborigine ve Maori'nin anımsatıcı isimlerinin ardındaki mirasını açan pek çok hikaye, pek çok masalla ayrıldınız."
+    }
+  ],
+  "map": ""
+}

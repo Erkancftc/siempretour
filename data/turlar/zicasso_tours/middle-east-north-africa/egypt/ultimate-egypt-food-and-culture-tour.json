@@ -1,0 +1,70 @@
+{
+  "destination": "Egypt",
+  "mainPhoto": "",
+  "id": "ultimate-egypt-food-and-culture-tour",
+  "tourName": "Ultimate Egypt Food and Culture Tour",
+  "placesVisited": "Luxor, Aswan, Cairo",
+  "generalInfo": "Experience a more authentic side to Egypt with nine days of food and culture, from contemporary Cairo to Nubian, Berber and Saharan specialities. With gastronomy as the guide youâll discover a local side to life, as well as exploring Egyptâs famous antiquity. Expect neighborhood food tours, personal cooking classes, unusual gastronomy, and a deep insight into Egypt, both then and now.",
+  "durationDays": "9",
+  "price": "3,600",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Luxor â Culture and History",
+      "description": "Start your nine-day Egypt food and culture tour in Luxor, where the wonders of past civilizations are juxtaposed with modern riverbank life. Your hotel is on the River Nile and the rooftop provides a view towards the Luxor and Karnak temples. After a private airport transfer youâll have some free time to refresh at the hotel, before a short wander around the East Bank. Here youâll find vibrant city life mingling with towering temples, along with small cafes that showcase Nubian cuisine. And itâs in these small cafes that you can really connect with Egyptâs culture as well."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Luxor â Nubian Cooking Class",
+      "description": "A sphinx gazes your way as you wander between the Karnak and Luxor temples. Another statuesque figure gives you the eye. These are two of the planetâs most extravagant temples and the sphinx serve to magnify their importance. After a morning immersed in history youâll spend an afternoon in the kitchen, cooking up typical Nubian cuisine with a local chef. Bake the all-important bread, concoct a variety of vegetarian stews and dishes, then try out a classic blend of raw camel liver and spices thatâs integral to local culture."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Luxor â Sailing a Felucca",
+      "description": "This morning you cross to the West Bank, where antiquity stretches out in the lonely desert. The Valley of the Kings extends and you will descend into some of the tombs, before gasping at Queen Hatshepsutâs stepped temple. This afternoon you will continue the Nubian experience, tasting more of gastronomy that is so different from mainstream Egyptian cooking. A platter of small dishes is served on a felucca sailing boat, so you can gain a perspective on how royalty used to dine when they sailed the Nile."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Aswan â Home-Cooked Island Delicacies",
+      "description": "After a short flight to Aswan, you will spend the day in a felucca, a wooden sailing boat that can expertly navigate to River Nile islands. One of these islands is home to a special kitchen and chef, who will be your guide for the day. The food is a twist on Nubian life, mixing desert recipes with modern influence, along with flavors that came down from Berbers traveling south. Expect a very relaxed day, lounging on the island, sampling all manner of cuisine, and washing it down with traditional wine."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Aswan â Discovering Saharan Cuisine",
+      "description": "Carved into rock then moved 60 meters up a sheer cliff when threatened by flooding, the Abu Simbel temples are a fabulous interpretation of old and new. You will fly here from Aswan and discover the temples, long before the tour bus crowds arrive. Before returning to Aswan, a small Saharan community invites you for lunch. Isolated in the desert, this welcoming oasis is where you can sample the most rudimentary and delicious Saharan food. Based on the growing season and varieties of camel meat, itâs a cuisine thatâs surprisingly delicate as well."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Cairo â Contemporary Cuisine and Culture",
+      "description": "After flying to Cairo youâll soon be immersed in a countryâs modern history. As the starting point of the Arab Spring, back in 2011, Tahrir Square became famous around the world. Itâs your starting point for a day of culinary discovery. From mom and pop joints and tiny cafes to Cairoâs swankier edge, youâll visit seven different places to eat throughout the afternoon and evening. The focus is on the importance of food within local culture and how dining places were at the hub of revolution. Oh, and the food is fabulous, encompassing the full breadth of Egyptian cuisine."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Cairo â Pyramids, Artifacts, and Neighborhoods",
+      "description": "The Great Pyramids of Giza are unmissable and you will spend your morning with the world wonder, including a journey down some steps inside one of the pyramids. A stop at the Egyptian Museum will further showcase antiquity, before an afternoon exploring a more modern history. Heliopolis can quickly immerse you in 1900s suburbia and itâs the best neighborhood in Cairo for food. The tour mixes cultural tales with five different food stops, along with at least two stops at an Ahwa streetside coffee shop."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Cairo â Dining on History in Cairo",
+      "description": "In contrast to Heliopolis, Coptic Cairo reveals almost 2000 years of history. Little seems to have changed here since the sixth century, as church bells chime and tiny cobbled streets lead you through a maze of smells. Itâs here that you can feast on some of Egyptâs oldest and most traditional cuisine. Nearby Khan el-Khalili continues this experience, a historic marketplace where the aromas tantalize as much as the sights. Here you can explore spices that are so central to all Egyptian cooking, before dining at a small local restaurant deep in the bazaar."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Cairo â Departure",
+      "description": "After nine days of local food and iconic sights, you will depart from Egypt, with a full belly and plenty of cultural memories."
+    }
+  ],
+  "map": ""
+}

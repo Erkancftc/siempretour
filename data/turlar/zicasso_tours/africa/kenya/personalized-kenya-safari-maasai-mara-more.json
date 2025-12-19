@@ -1,0 +1,85 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "personalized-kenya-safari-maasai-mara-more",
+  "tourName": "Personalized Kenya Safari: Maasai Mara & More",
+  "placesVisited": "Nairobi (City), Amboseli National Park, Laikipia, Maasai Mara",
+  "generalInfo": "Kenya is an epic wilderness destination waiting to be discovered during this breathtaking 12-day tour of the countryâs coveted wildlife reserves. Between Nairobi and the rolling plains of Maasai Mara, a golden-green expanse of flourishing environments is set to share the game-viewing spoils and spectacular scenery for which Kenya is famous. Come visit the viridian sanctuaries and explore the untouched ecosystems of Amboseli National Park, Laikipia, and Maasai Mara.",
+  "durationDays": "12",
+  "price": "14,700",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Nairobi - Spoils along the Nairobi River",
+      "description": "Nairobi is a gateway to Kenyaâs wilderness, a rich tapestry of diverse environments draped over the landscape like an emerald and golden blanket. The cosmopolitan cityscape will welcome you to its vibrant neighborhoods, manicured parks, and iconic landmarks as soon as you arrive at the airport and transfer to your accommodation near the Nairobi River. You may immerse yourself in the local culture with tours of Nairobiâs earmarked museums and heritage attractions before visiting the worldâs only urban game reserve around the corner from the city center."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Amboseli National Park - Perched beneath Mount Kilimanjaroâs Peaks",
+      "description": "Stretching across the southern regions of Kenya, Amboseli National Park is a varied and untamed wildlife sanctuary that will introduce you to the breathtaking scenery and fascinating indigenous creatures visitors flock to the country to discover. The following days will showcase Kenyaâs beauty through safari drives beginning with an afternoon trip after you have checked into your delightful camp flanked by acacia trees and open plains. With vistas commanded by the looming peaks of Mount Kilimanjaro, your first meander through Amboseli will present a series of picturesque moments worth capturing."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Amboseli National Park - Peaceful Galavant through the Green",
+      "description": "Safari drives in the mornings and afternoons are an incredibly easy way to cover as much of the southern Kenyan landscape as possible, viewing local game in their natural habitats such as elephant herds plodding along the plateaus to hyena clans racing across the pastures. Alas, you will come in close contact with the marvelous flora and fauna dwelling across Amboseli today during walking tours through viridian woodlands. As you make your way along shaded paths, colorful birds will flutter through the canopy and sing sweet lullabies from their nests, a soundtrack perfectly fitting your slow galavant through the green."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Amboseli National Park - Exceptional Early Morning and Evening Scenes",
+      "description": "Big cat predators, including lions, cheetahs, and leopards, prefer to hunt in the early hours of the morning while the darkness provides enough cover to sneak through the bushveld and the moon provides enough light to spot unsuspecting prey. You will wake up before the sun has risen, join an experienced ranger and tracker, and slowly cruise across Amboseli with the hopes of catching these powerful beasts during their early hunting ritual. In the afternoon, you will revel in the luxuries of your gorgeous accommodation, from forest picnics surrounded by nature to crystal clear star-gazing unhindered by light pollution."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Laikipia - In Touch with the Wilderness",
+      "description": "Laikipia is the entry point to Kenyaâs semi-arid northern frontier, a beautiful wilderness destination hemmed between the soaring crest of Mount Kenya and the countryâs sprawling golden deserts. A short flight and transfer today will bring you to camp, an enchanting collection of traditional design-inspired suites and thatched buildings pinned in the untouched wilderness. With immediate access to the open plains on your doorstep and delightful amenities on offer around camp, you will be thrilled to spend the following few days cherishing Kenyaâs spectacular remote luxuries."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Laikipia - Lose Yourself in Lovely Laikipia",
+      "description": "Let the soothing scenes of Laikipia sweep you away during slow wandering game drives across the flourishing bushveld, where you will spot graceful bucks grazing the short grass, enormous rhinos protecting their calves, and long-tongued giraffes picking the leaves off thorny acacia trees, to name a few. In the afternoon, your tour will continue to a local Samburu village, where you will trace back the fascinating origins of the indigenous residents and delve into their unique heritage with the help of your knowledgeable guide."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Laikipia - The Life Force of Laikipia",
+      "description": "Laikipia is blessed with flowing rivers providing abundant nutrients for the proliferating plant life and thriving animals. Beautiful blue ribbons of river spread across the landscape in all directions, breathing life into the surrounding environments and feeding all that grace their tranquil shores. Today, you may enjoy the mighty rivers from new vantage points during leisurely tubing trips across the streams. You will glide across the glassy water to stop-off spots where you may bask in the breathtaking scenes and toss a line in the water with the hopes of catching fish."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Maasai Mara - Iconic African Sunset Scenes",
+      "description": "For many, Maasai Maraâs unique landscapes are the ultimate symbol of the African wilderness. Horizons flooded orange by the falling African sun create silhouettes of buffaloes and giraffes against a backdrop of acacia trees peppering vast open plains. These are the postcard scenes that will seduce you during your stay in one of Africaâs most famous wildlife parks. After checking into your exquisite lodge or campsite suite, you will explore the wilderness circling your base to view the curious creatures hiding beyond the low-hanging shrubbery and tall trees dotting Maasai Maraâs unfolding savanna."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Maasai Mara - Unrivaled Wildlife Spectacles",
+      "description": "Maasai Mara boasts a remarkable collection of wildlife, including Africaâs beloved Big Five, common and rare bucks, colossal creatures such as elephants and hippos, as well as dazzling bird species. Today, you will join a knowledgeable ranger for an in-depth exploration of the environments flanking camp and head for breathtaking viewpoints. If you are traveling during the right time of the year, you may witness the worldâs greatest natural spectacle in the Great Migration from these vantage points. During this event, millions of animals cross the Serengeti and Maasai Mara with drooling predators following closely at their heels."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Maasai Mara - Magic Moments with the Maasai People",
+      "description": "Maasai Mara is a destination cherished for its game viewing opportunities and its connection to the local Kenyan culture. Today, you may submerge yourselves in the ancient stories and fabled heritage during a guided tour of a Maasai village stationed in the wilderness. You will be welcomed by warm, friendly faces and shown around their unique home. You will embrace their simplistic way of life and learn about their distinct customs during traditional performances and in their fascinating artworks. Such experiences are once-in-a-lifetime and share entirely new ways of looking at the world and our relationship with it."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Maasai Mara - Full-On Safari Adventures",
+      "description": "Every morning in Africa, the sun beats down upon the open plains and floods the landscape in a golden embrace calling out to nature like an alarm ringing in a new day. After breakfast, you will enjoy a morning safari drive to a stunning viewpoint overlooking the sweeping verdant pastures of Maasai Mara. This stop is just the beginning of a full-day safari experience to breathtaking scenic destinations dotting the park and hides hidden beneath the foliage where you can watch unsuspicious animals sipping from waterholes."
+    },
+    {
+      "dayNumber": "12",
+      "title": "Maasai Mara - The Sounds of Africa",
+      "description": "You will wake up on your final day to a symphonic soundtrack composed of chirping crickets, whistling birds, and grunting monkeys. This melodic signal that you are still in one of Africaâs most remote and unspoiled regions will be a delightful reminder of your magnificent wilderness adventures across Kenya. You will pack your belongings and join your cheerful hosts for breakfast, where you will tuck into your last perfectly prepared Kenyan meal and bid your farewells to the enchanting African wilderness."
+    }
+  ],
+  "map": ""
+}

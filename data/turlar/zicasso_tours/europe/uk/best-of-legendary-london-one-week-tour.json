@@ -1,0 +1,60 @@
+{
+  "destination": "England",
+  "mainPhoto": "",
+  "id": "best-of-legendary-london-one-week-tour",
+  "tourName": "Best of Legendary London One-Week Tour",
+  "placesVisited": "London, Cambridge (UK), Oxford",
+  "generalInfo": "From Abbey Road to London Bridge, the capital of the United Kingdom enjoys a reputation that is much larger than the city itself, and this seven-day tour of London has been designed to help you reconcile this reputation with the reality of your visit. The distinct thrill of this reality will be revealed through day trips to Oxford and Cambridge, vintage trains rides, and an exploration of the headquarters of British soccer fandom.",
+  "durationDays": "7",
+  "price": "4,000",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "London â The Banks of the Thames River",
+      "description": "Once the center of a global empire, London presents visitors with a blur of unique artwork, superb monuments, and a storied legacy. Today, you will venture into this world of parliaments, palaces, and pop culture on your first day. After arriving at London's Heathrow airport, you will be able to enjoy a scenic orientation by car through the city center. From Buckingham Palace to Westminster Abbey, the iconic sites of the city will come to life before you arrive at your conveniently located accommodation."
+    },
+    {
+      "dayNumber": "2",
+      "title": "London â The City's Many Faces",
+      "description": "A short stroll at dawn will be an excellent way to see London before the rush hour of locals begins their daily commutes to the financial district and other areas of the city. Likewise, a fortifying breakfast will ensure a delicious start to a day. Afterward, you will have a variety of ways that you can spend the day. In the morning, an optional guided tour through London's National Gallery can introduce you to the city's artistic side before enjoying your afternoon with either a helicopter, Harry Potter, or Sherlock Holmes tour."
+    },
+    {
+      "dayNumber": "3",
+      "title": "London â Returning to College",
+      "description": "Oxford and Cambridge have been providing an elite education for centuries. Today, you will visit this illustrious past with a day trip to these rival academies. Between the spires, chapels, and libraries, it will come as no surprise why many who venture here end up studying architecture because both campuses deliver a scenic blend of medieval and renaissance architecture. After returning to London, you can enjoy an evening on the famous Thames River on a cruise that will lead you past the iconic riverside sites."
+    },
+    {
+      "dayNumber": "4",
+      "title": "London â Contemporary Street Art",
+      "description": "Today, London is a cosmopolitan center that possesses growing ethnic diversity, a vibrant art scene, and numerous outdoor markets, providing visitors with a glimpse of what life must have looked like before the arrival of department stores. After enjoying a leisurely morning, you can enjoy a trip to Westminster to see the burial site of English royalty before enjoying a guided excursion through the city's magnificent street art scene. From athletic dancers showing their quickstep to colorful murals that decorate brick facades, London's many attractions will come to life today."
+    },
+    {
+      "dayNumber": "5",
+      "title": "London â Your Inner Futboller",
+      "description": "As you stroll past traditional pubs, it should come as no surprise that Londoners love their football. From rugby to soccer, the English can be quite partisan about their favorite clubs. Today, you will visit sacred ground for English football fans during a trip to Wembley Stadium in London. After you have worked up an appetite exploring the facilities of the stadium, you can make your way to London's famous commercial district to shop your way through the ages at one of London's shopping districts."
+    },
+    {
+      "dayNumber": "6",
+      "title": "London â Through London in Style",
+      "description": "If there is one thing that London is proud of, it is the abundance of class that is expressed by the city's architecture, artwork, and historic pubs. Today, you will be able to enjoy this aspect of English culture on an early 20th-century train that has been outfitted for royalty. The train presents visitors with antique-style upholstery and vintage lighting in each of the distinctive coaches of the train. As you roll through the outskirts of the city, you will wonder if the pinnacle of human enjoyment were not reached in the 1920s because the vintage train will charm you with every turn."
+    },
+    {
+      "dayNumber": "7",
+      "title": "London â Departure",
+      "description": "Spending a week in London is just about enough time to get a feel for the character of the city and to begin plotting your return. From rocking to the rhythm of the river to pondering the heights of Big Ben, this tour will have allowed you to see a side of the city that is often missed by the weekend traveler. After your last English breakfast on this tour, a transfer will ensure your timely arrival at the airport to connect with your departing flight."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,60 @@
+{
+  "destination": "Hindistan",
+  "mainPhoto": "",
+  "id": "TIIK",
+  "tourName": "Kerala’ ya Giriş",
+  "placesVisited": "Hindistan",
+  "generalInfo": "Nehirler,  lagünler ve menderesli durgun sular ile dolu,  hindistancevizi bahçeleriyle kaplı ve palmiyelerle dolu güneşli plajlarla çevrili Kerala,  gerçekten küçük bir cennet dilimi.  Çin balık ağlarına karşı rengarenk teknelerin limanda durduğu balıkçı köylerini keşfederek,  eşşiz durgun sulardan geçerken özel geleneksel kettuvallam ev teknenizde  ( dönüştürülmüş bir pirinç mavnası )  rahatlayın ve egzotik baharat dünyasını keşfedin.<br><br>Bu tur,  rahatsız edici sıcaklıktan dolayı Mayıs ve Haziran aylarında önerilmemektedir.<br><br><strong>Lütfen dikkat: </strong> Bu örnek bir gezi programıdır ve kendi kişisel gereksinimlerinize ve bütçenize uyacak şekilde ayarlanabilir.",
+  "durationDays": "9",
+  "price": "1429",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Geziler &amp; Aktiviteler</strong></p>\n<ul>\n<li>- Kathakali Dans Gösterisi</li>\n<li>- Periyar Ulusal Parkı’ nda Park Giriş Ücretleri</li>\n<li>- Periyar Gölü’ nde Tekne Turu</li>\n<li>- Geleneksel bir ev -teknede bir gece geçirme</li>\n</ul>\n<p><strong>Konaklama</strong></p>\n<p>Tarihi bir otelde 3 gece,  kulübede 2 gece, ev-teknede 1 gece, aile yanında 2 gece</p>\n<p><strong>Yemekler</strong></p>\n<p>7 kahvaltı, 1 öğle yemeği, 1 akşam yemeği</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Kochi' ye Varış",
+      "description": "Kochi  ( ya da Cochin )  adalar ve dar yarımadalar kümesine kurulmuş ve dünyanın en iyi doğal limanlarından birine sahiptir.  Ünlü “Malabar Baharatları” bu limandan ihraç edildi ve Kochi’ ye Araplar,  Hollandalılar,  Portekizliler ve nihayetinde İngilizler gibi çeşitli ziyaretçiler getirdi.  Hepsi de Kochi’ yi Hindistan’ daki en eşsiz ve en büyüleyici şehirlerden biri haline getirerek  mimariye damgasını vurdu."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Kochi",
+      "description": "Bugün Fort Cochin’ de yarım günlük şehir turu yapacaksınız.  Kochi limanının girişinde,  Çin balık ağları büyüleyici bir manzara.  1510’ da Portekizliler tarafından inşa edilen en eski Protestan kilisesi olan St Francis Kilisesi,  kısa bir yürüyüş mesafesinde.  1524’ te ölen Vasco da Gama burada gömülüdür.  Ayrıca Kochi Kalesi’ nde 17.  yüzyıldan kalma bir Yahudi Sinagogu var.  İbrani alfabesiyle yazılmış eski Ahit parşömenleri ve bakır levhalar burada korunmaktadır.  Ayrıca burada Portekizliler tarafından inşa edilen ve 1555’ te Cochin Raja’ ya sunulan bir Hollanda Sarayı da var."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Thekkady",
+      "description": "Bugün,  manzaralı Batı Ghat Dağları’ nın eteklerinde  ( 213 km / 6 saat )  Thekkady’ ye yolculuk yapacaksınız.  Buradaki yolculuk,  Himalaya’ nın güneyinde,  Hindistan’ daki en yüksek sıradağların güzel manzaralarını sunuyor.  Kahve ve çay tarlaları tepelere yayılmış ve çok sayıda kauçuk tarlası var.  Tüm yıl boyunca açık olan Periyar Vahşi Yaşam Alanı’ nı ziyaret etmek isterseniz Thekkady,  kalmak için doğru bir yer.  Ziyaret için en uygun zaman Ekim ve Nisan ayları arasındadır."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Periyar Vahşi Yaşam Alanı",
+      "description": "Bu alan Hindistan’ daki en büyüklerden biridir.  Birçok fil,  sambar,  yaban domuzu,  uçan sincap ve 260’ dan fazla kuş türü var.  Periyar,  geniş bir yapay gölün etrafında yer almaktadır ve alanı keşfetmenin en iyi yolu teknedir,  gölde hayvanlarını su içerken izlemenize olanak sağlar.  Hayvanları görmek için en iyi ihtimal sabahın erken saatleri ya da akşam karanlığıdır.  Birçok hayvan su kenarına gelmektedir ve fillerin,  bir teknenin güvenliğinden yakın bir mesafede gözlemlenebildiği dünyanın sayılı yerlerinden biridir."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Kerala Durgun Suları",
+      "description": "Bugün,  Kerala’ nın kanalları ve lagünleri boyunca yapacağınız ev- tekne gezinizin başlangıç ​​noktası olan Alappuzha için yola çıkacaksınız  ( 145km / 4 saat ) .  Hindistan’ da yapabileceğiniz en sakin ve en dinlendirici şeylerden biri,  kettuuvallam olarak bilinen Kerala ev teknesiyle durgun sularda yapılan bir gezidir. Teknede,  taze hindistan cevizinizi yudumlayarak ve etraftaki huzurun tadını çıkararak rahatlayabileceğiniz ve etrafı seyredebileceğiniz geniş bir açık oturma alanı da mevcut.  Taze pişmiş Hint yemekleri ve soğuk bira bu deneyimi daha da keyifli hale getirecektir."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Marari Plajı",
+      "description": "Bugün,  Kochi’ nin hemen güneyindeki güzel beyaz kumsallı bir köy olan Mararikulam’ a  ( 12 km / 30 dakika mesafede )  transfer edileceksiniz.  Plaj hala sessiz ve sabahın erken saatlerinde sahili ziyaret ederseniz,  gece yakaladıkları balıkları getiren balıkçıları seyretmeniz mümkün.  Marari,  güneşin ve denizin tadını çıkarmak için mükemmel bir yer.  Sahile yakın bir aile evinde iki gece kalacaksınız.  Odalar sade,  ancak odalardan ziyade hamaklarda dinlenmek için çok daha fazla zaman harcayabilirsiniz."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Kochi' den Ayrılış",
+      "description": "Hayatınızın macerası bugün sona eriyor.  Geç vakitte bir uçuşunuz varsa veya tur sonrası konaklama ekleyerek konaklamanızı uzattıysanız görülesi yerleri keşfetmek için daha fazla zamanınız olacak."
+    }
+  ],
+  "map": ""
+}

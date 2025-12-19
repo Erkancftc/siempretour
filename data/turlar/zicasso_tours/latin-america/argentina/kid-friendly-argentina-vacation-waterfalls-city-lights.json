@@ -1,0 +1,60 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "kid-friendly-argentina-vacation-waterfalls-city-lights",
+  "tourName": "Kid-Friendly Argentina Vacation: Waterfalls & City Lights",
+  "placesVisited": "IguazÃº Falls, Bariloche, Buenos Aires",
+  "generalInfo": "During this luxurious 7-day excursion through Argentina, traverse this unique country as a family and be exposed to much of the best that this incredible country has to offer. From the pristine glacial waters of Barilocheâs Lake District to the charming streets of Palermo in Buenos Aires, Argentina fosters the perfect atmosphere for a family getaway. Glide through the sky above the illustrious Iguazu Falls in a private helicopter, listen to the rushing water of waterfalls, indulge in a traditional chocolate-making class in Bariloche, and attend a authentic tango show in Buenos Aires.",
+  "durationDays": "7",
+  "price": "2,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Iguazu â Experience La Garganta del Diablo",
+      "description": "You will arrive at the airport in Misiones, where you will be met and transferred to your luxurious accommodation near Iguazu Falls. Once you arrive at your luxury accommodation, you will have ample time to settle in before meeting your knowledgeable guide to embark on your first adventure in Argentina. When you are ready, you will be transferred to La Garganta del Diablo, which is known as one of the most iconic of Iguazuâs many falls. Upon your arrival at this particular waterfall, you will approach the observation deck, which will lead you into the heart of the falls. After you have had sufficient time to explore the falls and take photos as a family, you will be transferred into the town of Misiones, where you can indulge in your first Argentine meal."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Iguazu â Thrilling Boat Tour to the Falls",
+      "description": "This morning, you will enjoy an Argentine breakfast at your hotel before embarking on your adventures in Iguazu. When you are ready, you will indulge in a private helicopter ride that will fly you over the falls. After your thrilling helicopter ride has concluded, you will be transferred to the base of the falls, where you will be provided with the opportunity to experience Iguazu from an entirely new angle. At the base of the falls, you will be guided to various lookout points, which will allow you to stand on incredible observation decks in the heart of the falls. Once you have seen the falls from a series of lookout points, you will board a ferry that will carry you deeper into the falls."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Bariloche â Explore the Lake District as a Family",
+      "description": "Today, you will fly to the charming town of Bariloche, which is known as the âSwiss Alps of South America.â After you have had time to settle in to your suite, you will meet your expert guide in the lobby to begin the dayâs adventures. When you are ready, you will board a private yacht for an excursion through the charming Lake District. Throughout your tour, you will be guided on leisurely treks through the extraordinary natural landscape, where you will encounter regional flora and fauna. In the evening, you will transfer to the charming city center of Bariloche, where you will marvel at the intricate German and Swiss-influenced architecture and cultural style that characterizes it."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Bariloche â Private Chocolate-Making Class",
+      "description": "This morning, your family will indulge in a traditional Argentine breakfast before continuing your exploration of Bariloche. When you are ready, your family will be led on a private horseback tour through the vast landscape of Bariloche. In the evening, you will be transferred back to the lovely city center, where you will partake in a wonderful chocolate-making class alongside your family. The chocolate in this region is known as some of the best in South America, and you will be absolutely charmed by the opportunity to learn how it is made firsthand. During your class, you will be able to sample the delicious fruits of your labor. Afterward, you will have the evening to spend at your leisure."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Buenos Aires â Discover the Best of the City",
+      "description": "Today, you will have an early morning and breakfast before flying to the magnificent city of Buenos Aires. Upon your arrival, you will be transferred to your luxurious accommodation before meeting your expert guide to begin the dayâs activities. When you are ready, you will embark on a specially curated tour of Buenos Aires and will experience the cityâs top sites and neighborhoods. You will begin your tour with a transfer to the upscale neighborhood of Recoleta, where you will delight in a private tour of the Recoleta Cemetery. From there, you will continue to the city center, where you will experience the bustling life that characterizes this city. Afterward, you will arrive in the historic barrio of San Telmo, where you can meander through the lively Feria San Telmo, which is the neighborhoodâs open-air market that is always brimming with local vendors and traditional Argentine culture."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Buenos Aires â Live Tango Show and Gourmet Dinner",
+      "description": "This morning, your family will indulge in a traditional Argentine breakfast before continuing your exploration of this marvelous city. You will begin with a private transfer to Buenos Airesâ most vibrant neighborhood of La Boca. You will have time to wander through the area at your leisure and to admire the charming shops that are full of handmade products crafted by local artisans. From La Boca, you will be transferred to Bosques de Palermo. You will have ample time to explore the Bosques de Palermo as a family and relax before connecting with your guide to begin your eveningâs exciting activities. This evening, you will attend an incredible tango performance that will be accompanied by an Argentine meal and wine pairing."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Buenos Aires â Farewell to Argentina",
+      "description": "Today, you will enjoy your final breakfast in Argentina before spending the morning exploring the city as a family. You can stroll through the cityâs charming streets once more and sit at a charming cafe to enjoy a final factura or sip of mate . Before you know it, you will have to return to your hotel to gather your belongings and meet your private driver in the lobby for your transfer to the airport."
+    }
+  ],
+  "map": ""
+}

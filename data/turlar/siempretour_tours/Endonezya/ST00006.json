@@ -1,0 +1,85 @@
+{
+  "destination": "Endonezya",
+  "mainPhoto": "",
+  "id": "ST00006",
+  "tourName": "Büyük Endonezya",
+  "placesVisited": "Endonezya",
+  "generalInfo": "Büyük Endonezya Turu ile Asya kıtasının tüm güzelliklerine Siempre Tour farkıyla ulaşacaksınız.<br><br>Turumuz, Siempre Tour'un deneyimli rehber ekibiyle Havaalanı'ndan itibaren başlar ve tekrar tur bitişi sonrasında aynı noktada sonlanır. Tur süresi boyunca rehber ekibi tüm soru ve görüşlerinizi dinlemek için yanınızda olacaktır.",
+  "durationDays": "12",
+  "price": "2250",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "12",
+  "meet": "",
+  "whatExpect": "<ul>\n<li>- Katar Havayolu ile İstanbul/Ankara Jakarta  Gidiş Bali Dönüş Ekomi biletler.</li>\n<li>- 11 gece konaklama</li>\n<li>- Jakarta:        Grand Mercure Hotel’de 1 gece veya benzeri 5 *</li>\n<li>- Bandung:     Grand Mercurebandung Hotel’de veya benzeri otellerde 2 gece</li>\n<li>- Yogyakarta:  Sheraton Mustika’da 2 gece veya benzeri</li>\n<li>- Kediri:          Grand Surya Hotel’de 1 gece Kediri 3 * + hotel</li>\n<li>- Bromo:         Shalimar Boutique Hotel’de veya benzeri mekanlarda 1 gece *</li>\n<li>- Kalibaru:       Margo Utomo Hotel’de 1 gece Hill View veya benzeri</li>\n<li>- Bali: 3 gece   Sofitel Nusa Dua ya da benzeri 5 * otel</li>\n<li>- Yukarıdaki programda belirtilen yemekler</li>\n<li>- Yukarıdaki programdaki gibi turlar ve transferler</li>\n<li>- Giriş, bağış, feribot, otoyol ve otopark ücretleri</li>\n<li>- Siempre Tour Türkçe Rehberlik hizmeti.</li>\n<li>- Siempre tour asistanlık servisi</li>\n<li>- İngilizce konuşan yerel  rehber eşliğinde turlar ve transferler</li>\n<li>- Tur programı sırasında otobüste su</li>\n<li>- Bandung tren bileti – Yogyakarta</li>\n<li>- Devlet vergileri</li>\n<li>- Türsab zorunlu mesleki sigorta</li>\n<li>- Seyahat  sağlık sigortası</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Jakarta",
+      "description": "Soekarno-Hatta Uluslararası Havaalanına Jakarta'ya vardıktan sonra Lokal rehberimiz ve özel otobüsümüzle sizi ağırlayacağımız otelimize transfer. Akşam Yemeğimiz otelimizde."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Jakarta",
+      "description": "Gezi, Jakarta gezisi ile başlıyor; Burada Ulusal Anıt - Merdeka Meydanı'na (Özgürlük Meydanı) yükselen 137 metre yüksekliğindeki sütun göreceğiz. Sonra Bogor Şehrine geçiyoruz. Bogor pek çok şeyle ünlüdür, fakat hepsinden önemlisi 19. yüzyıl başkanlık sarayının hemen arkasında yer alan birinci sınıf Botanik Bahçesi en önemlisidir. Bahçeler resmi olarak 1817yılında açıldı, 80 hektardan fazla alanı kapsar. 15.000'den fazla ağaç ve bitki türü içeriyor. West Java eyaletinin başkenti Bandung'a devam ediyoruz. Akşam yemeğimiz otelde."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Bandung",
+      "description": "Otelde 1 gece"
+    },
+    {
+      "dayNumber": 4,
+      "title": "Yogyakarta",
+      "description": "Yogyakarta'ya gitmek için tren istasyonuna transfer. Yogyakarta 'ya vardıktan sonra doğrudan tur programınızı başlatınız. Yogyakarta ' ya vardıktan sonra, Otelimize yerleşiyoruz. Ardından ünlü JAVANALI SHOW u seyretmek için otelden ayrılıyoruz. 1800 civarında Ramayana performansını görmek için transfer olacaksınız. Akşamları, bu bale100'ün üzerinde profesyonel dansçı ve müzisyen tarafından yürürlüğe giren, hayata başlıyor. Epik bir Hindu şiirine ( Ramayana )dayanan model kral Rama'nın hikâyesi, cava tarzını, kültürünü ve müziğini kapsayan önemli bir yerel dans olmak üzere uyarlandı. Hikâye Hindistan'da çıkarken, Javanalı (Endonezya versiyonu) yerel sanatın ve kültürün temsilcisidir. Hikâye, İdeal eşin, kralın, kardeşin ve hizmetçinin nitelikleri. Tanrılar, ölümlüler, devler, maymunlar ve güzel kadınlar bir kaçırma ve savaşlarla noktalanmış bir kur yapmanın renkli hikâyesini anlatmak için bir araya gelir. Akşam yemeğini yerel restoranda alıyoruz."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Dieng Plateu",
+      "description": "Otelde Erken kahvaltı aldıktan sonra dik dağ duvarlarıyla çevrili yanardağın eski kalderasın da yer alan Dieng Yaylası gezisine başlıyoruz. Yoğun volkanik aktiviteleri bu gölgede göreceğiz: Parlak renkli kükürt yaylar ve göller, köpüren çamur delikleri ve çığlık fumarolları. Telaga Warna Gölü'nü göreceksiniz, suyun su altı kükürt menfezleri ile parlak renklerle boyanmış halde. Dieng Yaylası, aynı zamanda Orta Java'daki en eski Hindu tapınak kompleksinin (7. yüzyılın sonlarından 780'e kadar olan tarihteki yerleşim yerleri) olarak da bilinir. Dünyadaki en büyük Budist anıtlardan biri olan UNESCO Dünya Mirası Listesi olan Borobudur'u ziyaret ediyoruz. Borobudur'un yatay planı büyük bir mandaladır; altı adet dış kare teras ve bunların üzerinde üç dairesel terastan oluşmaktadır. Ana kütük, ana stupa ortadadurur. Endonezya'daki antik alanların en büyük tek konsantrasyonunu içeren Prambanan'ı ziyaret etmek için Yogyakarta'ya geri dönüyoruz. Prambanan Tapınağı Bileşikleri UNESCO Dünya Mirası Listesi'ndedir. Buradaki ana site, 47 metrelik merkezi Siva tapınağı için kaydettiğimiz, Java'nın en zarif ve ihtişamlı şekli olarak kabul edilen Loro Jonggrang kompleksidir. Bir yazıt, kompleksin Budist rakibi üzerinde bir Hindu kralı Rakai Pikatan'ın zaferini işaretlemek için 856 yılında tamamlandığını kaydediyor. Daha sonra,Otelimize geçiyoruz."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Yogyakarta",
+      "description": "Otelde erkenden kahvaltı yapıp hızlı bir şekilde otelden çıkışımızı yapıyoruz. İlk Ziyaretimiz Kerato Yogyakarta bölgesi .Geleneksel Cava mahkeme mimarisinin muhteşem bir örneği. Keraton (sarayı), Çavdar kozmosunun minyatür modelini olarak inşaat edilmiştir; Girişler, avlu, ağaç ve alan belirli bir sembolik anlam taşır. Surakarta bölgesine gidip Radya Pustaka Müzesi'ni ziyaret ediyoruz. 1890 yılında kurulmuş olan Endonezya'nın en eski ikinci müzesidir (eski en eski Jakarta Endonezya Ulusal Müzesi). Müze çeşitli edebiyatları Eski Çevre ve Filemenk dilinde (Hollanda) dillerinde tutuldu. Sonraki ziyaret Sukuh Tapınağı; Orta ve Doğu Java Eyaletleri sınırındaki Mt Lawu'nun (910 metre) batı yamacında yer alan 15. yüzyıl Cava Hindu Tapınağı. Sukuh tapınağı, doğum öncesi ve cinsel eğitim ana teması olan diğer candielerden ayırıcı bir tematik rahatlama sunmaktadır. Kediri ' ye varışımızla otele check-in işlemlerinin ardından akşam yemeğimiz otelimizde."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Kediri",
+      "description": "Kahvaltıdan sonra; Madakaripura Şelale yolunda Bromo bölgesine geciryoruz. Bromo Tengger Semeru: Ulusal Parkı'ndaki şelalelerden biridir. Doğu Java'nun en büyük şelalesidir. Su, yukarıda yoğun ormandaki kas katlara sahiptir. Madakaripura sadece güzel bir yer değil aynı zamanda tarihi bir bölgedir. Bu Bölgenin efsanesi,İlk büyük Endonezya imparatorluğu Majapahit'in başbakanı olan Gadjah Mada'nın adıyla bağlantılı. 1355 yılında Majapahit'in Hayam Wuruk imparatoru, bölgede başbakanlığa topraklar verdi. Gadjah Mada, tüm Endonezya topraklarını Majapahit bayrağı altında birleştirene kadar bu topraklardan gelen gelirleri reddetti. Madakaripura'ya ``Gadjah Mada'nın son konutu`` da denir. Bir efsaneye göre, 60 yaşındaki başbakan bir şelale yakınında ayağı kayar ve şelaleden düşer. İmparator tüm aramalara rağmen bulunamaz. Madakaripura'da yüzmenin İnsanlara sağlık, güç ve gençleştirdiğine inanılır. Bromo ya varışımızla otelimize giriş işlemleri yapıldıktan sonra akşam yemeğini otelimiz de alıyoruz."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Bromo",
+      "description": "Gün doğuşunu ve Bromo Dağı, Batok ve Semeru panoramalarına tanık olmak için Sabah çok erken saat de kalkışımızla Tengger bölgesine gezimiz başlayacak. (hava güzelse muhteşem). Gün doğuşundan sonra ``kum denizine`` doğru gezimiz devam edecek ve Bromo Dağı'nın krater kenarında somut adımları tırmanacağız. Dünyadaki en dikkat çekici yerler keşfedildikten sonra, Kahvaltı için otele geri dönüyoruz. Kalibaru gezisine devam ediyoruz."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Kalibaru",
+      "description": "Sabah kahvaltıdan sonra ``Aroma Turu`` na geçiyoruz: Süt çiftliği yaklaşık 80 büyük başın bulunduğu çiftlikte Vanilya, kahve, hindistancevizi, yılan meyvesi, tarçın, Hindistan cevizi, biber, kauçuk ağacı, kakao vb Topical Bitki ve doğal ürünleri Bulabileceğiniz bir plantasyona ziyaret ediyoruz. Gezi sonrası Hotelimize istirahat etmek için geçiyoruz. Öğleden sonra Ketapang limanına otobüsümüzle gidiyoruz. Bali sınırını geçmek için buradan feribotla devam ediyoruz. Gilimanuk limanından Nusa Dua bölgesine geçiyoruz. Otelimize varışımızla giriş işlemlerinin ardından Akşam yemeğimiz otelde."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Bali",
+      "description": "İyi ile kötü arasındaki öykü savaşı Barong Dansı performansını görmek için Batu Bulan köyünü ziyaret edeceksiniz; Devamında Pura Tirta Empul. Bu Bali'nin en önemli tapınaklarından biri, sihirli güçlere sahip olduğuna inanılan kutsal yayların ve iyileştirme ve manevi amaç için yıkanmak için buraya gelen Balinese yeridir. Dağlık bölgeden daha ileriye doğru sarma yolları sizi Batur'un çarpıcı alanı Kintamani'ye götürecektir. Batur Dağı çevresindeki volkanik alan, uluslararası önemi haiz jeolojik mirası nedeniyle Global Jeopark Ağı'na üye olmuştur. Batur Dağı'nın kendisi küçük bir yanardağdır. Büyük kraterin kalbinde yer almaktadır. Yanardağa bitişik olan büyük hilal şeklindeki Batur Gölü, hepsi krater kenarının yüksek duvarlarıyla çevrilidir. Yerel restoranda öğle yemeği alıyoruz. Daha sonra Padangtegal Kutsal Maymun Ormanı'na giderek burada uzun kuyruklu makaralar olarak adlandırılan maymunları izleyebilirsiniz. Maymun Ormanı, kutsal bir Bali Hindu bölgesini temsil eder; Padangtegal'ın Pura Dalem'inin bulunduğu yerdir. Ubud'un merkezinde Kraliyet Sarayı göreceksiniz. Ardından, yerel sanat pazarında pazarlık becerilerini denemek, galerilerin tadını çıkarmak ya de Ubud sokaklarında dolaşmak için serbest zamanınız olacak.Program sonu otele dönüş. Akşam Yemeğimiz otelde."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Uluwatu",
+      "description": "15.00'de Bukit Kampial'ı ziyaret edeceğiz, aynı zamanda Bukit Doa - ``Namazın Tepesi`` adında, benzersiz bir inanç kompleksi. Tepedeki yan yana, Hindulara, Protestan Hıristiyanlara, Budistlere, Roma Katolik Hıristiyanlara ve Müslümanlara ibadet yerleri duruyor. Sonra muhteşem Pura Luhur Uluwatu yer şekileri. Kayalık Bukit Yarımadası'nın en batı ucunda, Bali Adası'ndaki altı kutsal alanın bir tanesi. Tapınak bir grup yaramaz maymuna ev sahipliği yapmaktadır. Güneş batınca Hint Mitolojisinden Ramayana destanından hikayeleri anlatan ünlü Kecak Ateş Dansı performansını seyredeceğiz . Uluwatu'dan Jimbaran Körfezi'de deniz mahsulleri tadacağız."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Bali",
+      "description": "Kahvaltının ardından tüm misafirlerimiz otelimizi 12 kadar kullanabilirler. Valizlerimizi bagaj odasına bırakıp uçak saatine kadar serbest zamanınızı alış veriş veya otelin sahilinde değerlendire bilirsiniz. Sonrasın da Rehberimizin belirttiği saat de buluşma ve havaalanına transfer."
+    }
+  ],
+  "map": ""
+}

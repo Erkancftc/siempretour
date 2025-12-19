@@ -1,0 +1,65 @@
+{
+  "destination": "Romanya",
+  "mainPhoto": "",
+  "id": "RRHR",
+  "tourName": "Romanya Yürüyüşü",
+  "placesVisited": "Romanya",
+  "generalInfo": "Romen kırsalından geçerken klasikleşmiş rotalardan kurtulun.  Yerel konukevlerinde kalın,  kırsal köyleri ve zengin gelenekleri keşfedin.  Bu dokuz günlük macera,  muhteşem manzaraları,  güzel manastırları ve geleneksel mimariyi izlerken,  sizi iki bölgeye,  Bucovina ve Maramureş’ e götürüyor.<br><br><strong>En Yakın Uluslararası Havaalanı:</strong> Bükreş Henri Coanda Uluslararası Havaalanı (OTP)",
+  "durationDays": "9",
+  "price": "911",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Konaklama</strong></p>\n<p>Yatılı trende 1 gece,  misafirhanelerde 6 gece</p>\n<p><strong>Ulaşım</strong></p>\n<p>Yürüyüş,  özel araç,  yatılı tren</p>\n<p><strong>Yemekler</strong></p>\n<p>7 kahvaltı,  7 öğlen yemeği,  7 akşam yemeği</p>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Bükreş' e Varış",
+      "description": "Romanya’ nın kültürel başkenti Bükreş’ te maceramıza başlıyoruz.  Akşam 20. 30 civarında,  grubun diğer katılımcıları ile buluşup yatılı trenle Bucovina bölgesine doğru yola çıkıyoruz."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Moldovita",
+      "description": "Kahvaltımızın bizi beklediği misafirhaneye kısa bir yolculuk yapıyoruz.  Moldoviţa bölgesinin tipik bir köyünde keyifli bir yürüyüş yapın ve geleneksel Hutsules topluluğuyla bir araya gelin.  Size güzel Romen yumurta boyama sanatını gösterecekler.  Ayrıca,  büyük Bucovina manastırlarından birini - Moldoviţa boyalı manastırı - keşfediyoruz.  Güzel sarı ve turuncu boyalı freskleriyle muhteşem dış cepheye hayran kalacaksınız."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Sucevita",
+      "description": "Suceviţa manastırına giderken ormanlık araziler ve tarlalarda yürüyüş yapmanın keyfini çıkarın.  Nefesinizi kesecek bu kırsal bölge ve büyüklüğü sizi şaşırtacak.  Her bir freskin karmaşık ayrıntılarını ortaya çıkarmak için biraz zaman ayırın ve doğanın huzurunun tadını çıkarın.  Geceyi Suceviţa’ da geçiriyoruz."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Mănăstirea Humorului",
+      "description": "Mănăstirea Humorului köyüne varıncaya kadar ormanlar ve vadiler boyunca yaklaşık 12 km yürüyüş yapıyoruz.  Bu köylü dünyasında,  at arabalarının geçişini seyrederken,  zamanda bir adım geri gidin."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Maramureş’ e Geçiş",
+      "description": "Bu sabah,  hava durumuna bağlı olarak büyüleyici Voroneț manastırını ziyaret edebiliriz.  Daha sonra Maramureș bölgesine 4 saatlik bir yolculuk yapıyoruz.  Boyalı manastırlarıyla ünlü olan Bucovina’ nın aksine Maramureș,  çok farklı bir tarza sahiptir.  Burada en eski ahşap kiliseyi ziyaret ediyoruz ve daha sonra yakın köydeki konukevimize doğru yürüyüş yapıyoruz.  Ahşap kiliselerle süslenmiş uzun biçimli köyleri keşfedin ve sık orman manzaralarına hayran kalın."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Maramureş",
+      "description": "Bu çarpıcı bölgeyi keşfetmek için iki günün tadını çıkarın.  Bir köyden diğerine yürüyüş yaparken dağ çayırlarını,  gölleri,  ormanları ve tarlaları keşfedin.  Güzel iç fresklere sahip etkileyici ahşap kiliseyi keşfedin ve Maramure’ nın en işlek rotalarından da uzak durun.  Hava izin verirse,  ahşap Maramureș mimarisinin en iyisi olan Bârsana manastırına girebiliriz."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Săpânța,  Merry Mezarlığı ve Kaloşvar",
+      "description": "Bugün büyüleyici “Merry Mezarlığı”nı keşfedeceğimiz Săpânța’ ya geçiyoruz.  Her biri özgün,  sıra dışı ve şiirsel hikayeleri yansıtan renkli mezar taşları arasında dolaşın.  Daha sonra,  Komünizm Kurbanları Anıtı Müzesi’ ni ziyaret edebileceğiniz büyüleyici Sighetu Marmaiei şehrine gidiyoruz.  Öğle yemeğinden sonra Kaloşvar’ a doğru yola çıkıyoruz."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Kaloşvar' dan Ayrılış",
+      "description": "Hayatınızın macerası bugün sona eriyor.  Geç vakitte bir uçuşunuz varsa veya tur sonrası konaklama ekleyerek konaklamanızı uzattıysanız görülesi yerleri keşfetmek için daha fazla zamanınız olacak."
+    }
+  ],
+  "map": ""
+}

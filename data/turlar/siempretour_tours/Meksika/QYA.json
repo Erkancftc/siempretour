@@ -1,0 +1,60 @@
+{
+  "destination": "Meksika",
+  "mainPhoto": "",
+  "id": "QYA",
+  "tourName": "Playa Del Carmen’den Antigua’ya",
+  "placesVisited": "Meksika, Belize, Guatemala",
+  "generalInfo": "Güzel bir Karayip sahilinde güneşin batışını izleyin, derin ormanlarla çevrili Maya harabelerini keşfedin ve Meksika, Belize ve Guatemala ile bu hızlı macerada yerel köyleri ziyaret edin.<br><br><strong>En Yakın Uluslararası Havaalanına (geliş):</strong> Cancun Uluslararası Havalimanı (CUN)<br><br><strong>En Yakın Uluslararası Havaalanı (gidiş):</strong> Guatemala City La Aurora Uluslararası Havalimanı (GUA)",
+  "durationDays": "10",
+  "price": "799",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Geziler ve aktiviteler: </strong></p>\n<ul>\n<li>- Caye Caulker</li>\n<li>- Tikal kalıntılarına rehberli gezi</li>\n<li>- Livingston’a Rio Dulce bot turu</li>\n</ul>\n<p><strong>Konaklama:</strong></p>\n<ul>\n<li>- Otellerde 9 gece</li>\n</ul>\n<p><strong>Taşıma:</strong></p>\n<ul>\n<li>- Toplu taşıma, özel araç</li>\n</ul>\n<p><strong>Yemekler:</strong></p>\n<ul>\n<li>- 3 kahvaltı, 1 kahvaltı paketi, 1 atıştırmalık kahvaltı</li>\n</ul>\n<p><strong>Diğerleri:</strong></p>\n<ul>\n<li>- Siempre Tur tur lideri</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Playa Del Carmen’e Varış",
+      "description": "Meksika'ya hoşgeldiniz! Bu turun ilk gecesi Cancún'dan sadece bir saat uzaklıkta olan bir plajlar cenneti olan Playa del Carmen'de geçirilecek. Cennet plajlarının yanı sıra, Tulúm'daki Maya kalıntıları da dâhil olmak üzere isteğe bağlı aktivitelerin keyfini çıkarmak amacıyla ekstra geceler için rezervasyon yaptırmanızı öneririz."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Caye Caulker",
+      "description": "Playa del Carmen'de kahvaltımızı yaptıktan sonra kısa bir yürüyüş yaparak terminale ulaşıyoruz.  Otobüs, taksi ve feribot kombinasyonuyla tam gün olacak şekilde güzel Belize'ye geçiyoruz. Meksika'dan ayrılırken yaklaşık 533 Meksika Pesosu tutarında küçük bir kalkış ücreti ödemeniz gerekecektir. Belizeliler nasıl dinleneceklerini iyi bilirler ve umarım yerel halkın rahatlama konusundaki uzmanlığı Caye Caulker'de geçireceğiniz süre zarfında size de bulaşacaktır. Öyle olmasa da, size \"Yavaş git\", \"Sakin ol\" ve hatta \"Gömlek yok, ayakkabı yok, sorun yok\" diye hatırlatıcı işaretler mevcut. Kumla dolu sokaklarda dolaşmak için ayakkabılarınızı kenara atacağınız Caye Caulker'de akşamları deniz mahsulleri yiyerek, kokteyllerden yudumlayarak ve barların birinde reggae müzik dinleyerek birkaç gece geçireceğiz."
+    },
+    {
+      "dayNumber": 5,
+      "title": "San Ignacio",
+      "description": "Belize'ye hoşça kal diyerek Guatemala'ya büyüleyici bir ada kasabası olan Flores'a geçiyoruz. Belize'den ayrılırken 40 BZD'lik küçük bir ücret ödemeniz gerekecektir ve Guatemala'ya varışta 10GTQ tutarında küçük bir ödeme yapılması gerekmektedir. Flores, İspanyollar tarafından fethedilen ve Peten Itzá Gölü'nün merkezinde bulunan son şehirdir. Flores yolunda, nefes kesen Maya bölgesi olan Tikal'de duruyoruz, Maya dünyasının en büyük şehri olarak kabul edilir ve ormanın derinliklerinde yer alır. Bu kompleks, keşfedilen en büyük Maya sitelerinden biridir ve bilgili yerel rehberimiz ile bölgenin florasını, faunasını ve şaşırtıcı Maya tarihini keşfetmek ve öğrenmek için gün içinde bolca zamanınız olacak."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Flores",
+      "description": "Belize'ye hoşça kal diyerek Guatemala'ya büyüleyici bir ada kasabası olan Flores'a geçiyoruz. Belize'den ayrılırken 40 BZD'lik küçük bir ücret ödemeniz gerekecektir ve Guatemala'ya varışta 10GTQ tutarında küçük bir ödeme yapılması gerekmektedir. Flores, İspanyollar tarafından fethedilen ve Peten Itzá Gölü'nün merkezinde bulunan son şehirdir. Flores yolunda, nefes kesen Maya bölgesi olan Tikal'de duruyoruz, Maya dünyasının en büyük şehri olarak kabul edilir ve ormanın derinliklerinde yer alır. Bu kompleks, keşfedilen en büyük Maya sitelerinden biridir ve bilgili yerel rehberimiz ile bölgenin florasını, faunasını ve şaşırtıcı Maya tarihini keşfetmek ve öğrenmek için gün içinde bolca zamanınız olacak."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Rio Dulce",
+      "description": "Suyun içinde kurulan kabinlerde konaklayabileceğiniz nehir kenarındaki Rio Dulce kasabasına doğru yola çıkıyoruz. Öğleden sonra Livingston'a giden 23 kilometrelik suyolu boyunca yapılan tekne turu, Guatemala'nın en doğal alanlarından birini deneyimlemenize olanak tanır. Livingston, Rio Dulce'nin ağzında, Amatique Koyu'na katılan ve Garifuna halkının yaşadığı yerdedir. Bu canlı küçük kasaba, Guatemala'nın geri kalanından farklı bir Karayip atmosferine sahiptir ve lezzetli yerel spesiyal tapalardan denemek (deniz ürünlerinden yapılan hindistan cevizi çorbası) ve yerel Afrika tarzı punta müziğini dinlemek için harika bir yerdir."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Antigua",
+      "description": "UNESCO Dünya Mirası Alanı olan Antigua, Orta Amerika'daki en keyifli sömürge kasabalarından biridir. Yerli halk, rengârenk kıyafetleriyle şehrin taş sokaklarında ve meydanlarında, el sanatları ve tekstil ürünlerini satıyor. Guatemala'nın kültür merkezi olan Antigua, ülkenin geleneksel müziğini, mimarisini ve sanatını deneyimlemek için ideal bir yerdir. Süslü kiliselerle, manastırlarla, parklarla, plazalarla, kafelerle, restoranlarla, barlarla ve renkli sokak pazarlarıyla zengin ve hayranlık uyandıran volkanlarla çevrili Antigua, asla unutamayacağınız bir yerdir."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Antigua’dan Ayrılış",
+      "description": "Hayatınızın macerası bugün sona eriyor. Geç bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+    }
+  ],
+  "map": ""
+}

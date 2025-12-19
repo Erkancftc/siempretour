@@ -1,0 +1,65 @@
+{
+  "destination": "İspanya",
+  "mainPhoto": "",
+  "id": "STG08025",
+  "tourName": "MSC Seaview ile Batı Akdeniz - 27.Haziran.2020",
+  "placesVisited": "İspanya, Fransa, İtalya",
+  "generalInfo": "Barselona, Ajaccio, Cenova, La Spezia, Civitavecchia, Cannes, Palma de Mallorca, Barselona",
+  "durationDays": "8",
+  "price": "1249",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Barselona (İspanya)",
+      "description": "Barselona (İspanya)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "Ajaccio (Fransa)",
+      "description": "Ajaccio (Fransa)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Cenova / Portofino (İtalya)",
+      "description": "Cenova / Portofino (İtalya)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "La Spezia (İtalya)",
+      "description": "La Spezia (İtalya)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "Civitavecchia/ROMA (İtalya)",
+      "description": "Civitavecchia/ROMA (İtalya)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Cannes (Fransa)",
+      "description": "Cannes (Fransa)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "Palma de Mallorca (Balear Adaları)",
+      "description": "Palma de Mallorca (Balear Adaları)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "Barselona (İspanya)",
+      "description": "Barselona (İspanya)"
+    }
+  ],
+  "map": ""
+}

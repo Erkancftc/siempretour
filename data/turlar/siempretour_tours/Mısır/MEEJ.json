@@ -1,0 +1,105 @@
+{
+  "destination": "Mısır",
+  "mainPhoto": "",
+  "id": "MEEJ",
+  "tourName": "Mısır ve Ürdün En İyileri",
+  "placesVisited": "Mısır, Ürdün",
+  "generalInfo": "Kültürel zenginliklerle dolu 16 günlük bir macerada Mısır ve Ürdün'ü yaşayın. Bu iki inanılmaz ülkede rehberli bir geziyle Kutsal Topraklar'da yolculuk edin.",
+  "durationDays": "16",
+  "price": "1579",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "<p><strong>Konaklama:</strong></p>\n<ul>\n<li>- Otellerde 11 gece, yataklı trenlerde 2 gece, Felucca yelkenli teknede 1 gece (Uyku tulumu gereklidir), Çadır Kamplarında 1 gece</li>\n</ul>\n<p><strong>Yemekler: </strong></p>\n<ul>\n<li>- 15 Kahvaltı , 5 Akşam Yemeği, 1 Öğle Yemeği</li>\n</ul>\n<p><strong>Geziler: </strong></p>\n<ul>\n<li>Varış Transferi,</li>\n<li>Piramitler,</li>\n<li>Sfenks ve Saqqara (Büyük Piramitlerin odalarına girmek ek ücrete tabidir),</li>\n<li>Agilika Adası / Philae Tapınağı,</li>\n<li>Felucca yelken deneyimi,</li>\n<li>Kom Ombo &amp; Edfu,</li>\n<li>Krallar Vadisi (Giriş dahildir, ancak mezarların içine gitmek isterseniz ek bir ücret vardır),</li>\n<li>Mısır Müzesi,</li>\n<li>Eski Kahire Asma Kilisesi,</li>\n<li>Aziz Sergius ve Bacchus Kilisesi, </li>\n<li>Selahaddin Kalesi,</li>\n<li>Muhammed Ali Camii,</li>\n<li>Jerash ve Umm Qais'e günlük gezi,</li>\n<li>Madaba pazar kenti ziyareti, Nebo Dağı ve Umm ar Rases,</li>\n<li>Petra rehberli turu,</li>\n<li>Wadi Rum'da çöl deneyimi,</li>\n<li>Karak ve Wadi Müjib kanyonunu ziyaret edin<br/>\r\n\t </li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Kahire'ye Varış",
+      "description": "Mısır'ın başkentine hoş geldiniz. Aslen M.Ö. 2.000’de kurulmuş ve Afrika’nın en büyük şehirlerinden biri olarak bilinen Kahire, M.Ö. 30’da Roma yönetimi sonucu ortaya çıkmaya başlayan önemli simge yapılar şehri olarak kendini kanıtlamıştır. Özel araçla Arap kültürünün derinliklerine yolculuk yapacağız ve antik tarih, ihtişam ve büyüleyici bir yaşam tarzı ile dolu bir şehri ve ülkeyi keşfetmeye başlayacağız. Bugün varış günü ve hiçbir aktivite planlanmamaktadır, ancak yeterince zamanınız varsa, ülkedeki en büyük kiliselerden biri olan Kahire'deki Mağara Kilisesi'ni keşfetmenizi ve ayrıca Kıpti Müzesi'ni ziyaret etmenizi öneririz. Dünyadaki en büyük Mısır Hıristiyan eserleri koleksiyonuna ev sahipliği yapmaktadır. Havaalanından, kalacağınız otele transferiniz olacak ve yaklaşık 18: 00'da ayrılış öncesi toplantı olacaktır. Siempre Tour aracılığıyla tur öncesi konaklama rezervasyonu yaptırdıysanız, varış havaalanı transferiniz Kahire'ye vardığınız gün yapılacaktır."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Piramidler, Sphinx & Saqqara (Kahire to Aswan)",
+      "description": "Bugün erken yola koyulacağız. Nil Nehri'ni geçtikten sonra, ünlü Piramitleri ve Sfenks'i ziyaret edeceğimiz Giza'ya gidiyoruz. Burada, bu muhteşem mucizeleri keşfetmek için boş vaktiniz olacak. Eski dünyanın yedi harikasından biri olarak kabul edilen Mısır'ın görkemli Piramitleri, ölü Firavunları onurlandırmak için inşa edildi. Giza platosunun bir parçası olan üç büyük piramit, İ.Ö. 3.800 ila 2.800 arasında bir inşaat dönemine dayanıyor ve Güneş'in battığı yerdeki ölülerin alemini birleştirdiği inancı sebebi ile Nil Nehri'nin batı yakasında bulunuyor. Bu muhteşem antik anıtları keşfederek geçen heyecan verici bir günün ardından geceleyin tren istasyonuna gideceksiniz. Geceyi geçireceğiniz treniniz sizi Aswan'a götürecek. Akşam yemeği, gece tren yolculuğuna dahil edilecektir."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Aswan",
+      "description": "Bu sabah romantik Philae Tapınakları ve yakındaki Agilika Adası'na gitmeden önce Aswan istasyonuna varıyoruz. En önemlisi, Isis Tapınağı'nı (tanrıça onuruna) ziyaret edeceksiniz. Bu klasik Mısır tapınağı Aswan'da iki baraj arasında yer almaktadır ve sadece tekneyle ulaşılabilmektedir. Philae Tapınağı'nı ziyaret ettikten sonra, 3830 metre uzunluğundaki etkileyici bir mühendislik şaheseri olan Aswan Barajını ziyaret edeceksiniz. Yerel lezzet ve kültürün tadına bakmak istiyorsanız, Nubian köyünü ziyaret etme ve Nubian evlerinden birinde akşam yemeğinin ve gösterinin tadını çıkarma fırsatınız olacak."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Felucca (Aswan'dan Kom Ombo'ya)",
+      "description": "Bugün Ebu Simbel'in muhteşem güneş Tapınaklarını ziyaret edeceksiniz. Bu tapınaklar, hem Kral II. Ramses ve Kraliçe Nefertari için inşa edilmiş olan Eski Mısır'ın başyapıtları olarak kabul edilir ve hem de yeni Krallığın ihtişamını yansıtır. Her iki tapınak da yüzyıllarca çöl kumlarının altına gömüldükten sonra 1813'te keşfedildi, ancak daha sonra Nil'in yükselen suyunu önlemek için Mısır hükümetinin ve UNESCO'nun yardımıyla 1960'da yerleri değiştirildi. Kaçırılmaması gereken bir ören yeri! Alternatif olarak, Nil Nehri'nde unutulmaz bir yelken macerasına başlayacağınız geleneksel felucca teknenize binmeden önce sabah dinlenebilirsiniz. Öğleden sonra erken saatlerde Aswan'dan ayrılacaksınız ve Kom Ombo'ya doğru yola çıkacaksınız. Felucca'da öğle ve akşam yemekleri servis edilecektir. Lütfen dikkat: Felucca yelken deneyimi için kendi uyku tulumunuzu getirmeniz gerekecektir."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Luxor",
+      "description": "Bu sabah Felucca'dan ayrılacak ve ünlü Kom Ombo tapınağının gideceksiniz. Nil'e bakan Kom Ombo tapınağı Sobek tanrılarına (Timsah Tanrısı) ve Haroeris'e (Şahin Tanrısı) ithafen inşa edilmiştir ve o zamandan beri Mısır tarihinin  bir parçası haline gelmiştir. Kom Ombo'yu keşfettikten sonra Nil Nehri'ni karadan takip edeceksiniz. Bugün için bir sonraki durak Edfu Tapınağı olacak. Edfu tapınağı, hem Yunan hem de Yeni Krallık tapınaklarının özelliklerini içerir. Burada 37m yüksekliğindeki tapınaktan geçip saray ve iç şapelini keşfetme şansı bulacaksınız. Öğleden sonra, şehri ve çevresindeki atraksiyonları keşfetmek için önümüzdeki birkaç gün kalacağımız Luksor'a gideceğiz. Luksor bölgesi muhteşem tapınaklar ve vadilerle doludur; Luksor'u ziyaret ederken kendinizi eski Mısır'ın tam merkezinde bulacaksınız. Luksor’a bazı önemli geziler ekledik, ama bu geziler tercihe bağlı.. Akşam popüler bir seçim olan 'Işık ve Ses' şovu için Karnak Tapınağı'nı ziyaret edeceğiz. Akşamları düzenlenen ışık ve ses şovu, bazı firavunların bhayatlarını anlatacak. Lütfen dikkat: Luksor'da çok sayıda isteğe bağlı gezi vardır. Hepsini yapmak mümkün olmayabilir, ancak Tur Lideriniz sizin için en uygun zamana göre ayarlamaya çalışacaktır"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Luxor",
+      "description": "Modern Luxor'un karşısındaki vadinin derinliklerinde Krallar Vadisi olarak bilinen kraliyet mezar kompleksi yatıyor. Bu sabah Krallar Vadisi'ne bir gezi düzenleyeceksiniz. Vadi, bir zamanlar Mısır hazinelerinin bolluğu ile çevrili 60 mezardan oluşuyordu; en dikkat çeken, ziyaretçilerin görebileceği en ilginç mezar Kral Tutankhamun'un mezarıdır. Krallar Vadisi kompleksine giriş dahildir, ancak girmeye cesaret ederseniz gerçek mezarlar girişi ek ücrete tabidir! Krallar Vadisi'ni gezdikten sonra bir sonraki durağımız Memnon Anıtı olacak. Bu devasa heykeller, sıcak çöl güneşinde 3.400 yıl boyunca hayatta kaldı ve heykellerin hava koşullarından etkilenme durumuna rağmen birçok kişi tarafından ziyaret edildi. Bu öğleden sonra, Luksor bölgesini keşfetmeniz için zamanınız olacak. Tur lideriniz bu gezileri düzenlemenize yardımcı olmak için hazır olacaktır. Belki biraz dinlenmeyi ya da Luksor pazarındaki (Souk) atmosferi yaşamak istersiniz? Çarşı ziyareti, yerel hayata dair gerçek bir kavrayış, yerel ürünler, ev eşyaları, aletler ve diğer eşyaların yanı sıra mücevher, çanta, deri eşya, hediyelik eşya, baharat, eşarp ve diğer her türlü biblo ve diğer eşya satan tüccarları göreceksiniz."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Yatılı Tren (Luxor - Cairo)",
+      "description": "Bugün keşfetmeye devam etmek için serbest bir sabahınız var. Neden Luksor'un antik ve tarihi bölgelerinde sıcak hava balonu yolculuğunu tercih etmiyorsunuz? Bu gezi ymüsaitlik durumuna bağlıdır. Lütfen bu gezintinin çalışmasının hava durumuna bağlı olduğunu unutmayın. Zaten ziyaret etmediyseniz, dünyanın en eski antik yerlerinden biri olan Karnak tapınağını ziyaret etmek için iyi bir zaman. Tapınağın kendisi iki müze içeriyor - Mumyalama süreci hakkında daha fazla bilgi edinebileceğiniz Mumya Müzesi ve antik Mısır eserlerinin küçük ama etkileyici bir koleksiyonunu sergileyen Luxor müzesini göreblirsiniz.. Alternatif olarak, klasik mimari tarzı olan antik Hatshepsut tapınağını da ziyaret etmeye değer. Yoğun bir keşif sabahından sonra Kahire'ye dönen trene binerek Luksor'u terk ediyoruz."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Kahire",
+      "description": "Bu sabah Kahire'deki başlangıç ​​noktamıza geri dönüyoruz. Otelimize giriş yaptıktan sonra Mısır Müzesi'ni ziyaret etmek için yola çıkıyoruz. Burada eski hazineleri göreceksiniz ve eğer şanslıysanız Tutankhamun'un  Altın Ölüm Maskesini görebileceksiniz. Kültür günümüz, Kahire'nin Asılı Kilise ve yakındaki Ben Ezra Sinagogu olarak da bilinen en eski kiliseye doğru devam edecek. Ayrıca 19. yüzyıla ait Muhammed Ali Camii'nde de (Saladin Kalesi olarak da bilinir) büyük yapıyı görecek ve Kahire'nin harika manzaralarını izleyeceğiz. Zamana bağlı olarak, bu öğleden sonra Kahire'yi biraz daha keşfetmek için boş zamanınız olabilir. Bu gece turdaki son geceniz olacak ve istediğiniz gibi değerlendirebileceksiniz, ancak Tur Lideri katılmak isteyen herkes için son bir grup yemeği düzenlemekten memnuniyet duyacaktır."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Kahire'den Amman'a Uçuş",
+      "description": "Bugün Mısır'dan Ürdün'e yolculuk yapma zamanı."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Jerash ve Umm Qais'e Günlük Gezi",
+      "description": "Bu sabah, özel araçla Jerash antik kentine gitmeden önce yeni tur liderinizle kahvaltıda buluşacaksınız. Buradaki kalıntılar Ürdün’ün Greko-Romen mimarisinin en iyi örneklerini sunuyor ve “Ortadoğu'nun Pompeii” olarak bilinen bu kalıntılar son derece iyi korunmuş durumdalar.  Arnavut kaldırımlı sokaklarında dolaşıp, muhteşem anıtlarına, tapınaklarına ve tiyatrolarını görebileceksiniz. Roma egemenliği döneminde binlerce seyirciye araba yarışları düzenleyen ünlü Hipodrom'u ziyaret edebileceksiniz. Sabah keşfinden sonra kuzeybatıdaki Umm Qais şehrine seyahat ediyoruz. Bir zamanlar Gadara şehri olarak bilinen Umm Qais, Celile Denizi'nin ve tarihin bir parçası gibi hissetmenizi sağlayacak antik kalıntılar  sunmaktadır."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Wadi Mujib Canyon & Umm ar Rasas",
+      "description": "Bu sabah 'Mozaikler Şehri' olarak da bilinen Madaba pazar şehrine gidiyoruz, en önemlisi şehir 6. yüzyılda Kudüs ve Kutsal Topraklar Mozaik haritasına ev sahipliği yapıyor. 19. yüzyıl Bizans Yunan Ortodoks St George Kilisesi'nin renkli mozaiğini görebileceksiniz."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Petra",
+      "description": "Bu sabah rehberli tur ile Petra'yı keşfedeceksiniz. Ürdün halkı için değerli olan ve ülkenin ulusal sembolü olan bu arkeolojik hazine karşılaşacaksınız. Dünyanın Yeni Yedi Harikası'ndan biri olan bu gizli değerli yer, mezarlardan, tapınaklardan oluşur."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Wadi Rum",
+      "description": "Wadi Rum'un vahşi doğasına ilerlerken macera devam ediyor. Yıldızların altında serin çöl iklimini deneyimleyeceğimiz bir gecede kamp kurmadan önce kırmızı kum çölünün ve çevresindeki kaya oluşumlarının doğal güzelliğini keşfedeceksiniz."
+    },
+    {
+      "dayNumber": 14,
+      "title": "Karak, Wadi Mujib, Ölü Deniz",
+      "description": "Şehrin kalbine yerleştirilmiş kale ile turumuza başlayacağız. Haçlılar tarafından 12. yüzyılda inşa edilen kalenin stratejik konumu açık havada çok yüksek bir görüş mesafesi sağlamaktadır. Daha sonra turumuza Ürdün'ün Büyük Kanyonu ile devam edeceğiz."
+    },
+    {
+      "dayNumber": 15,
+      "title": "Ölü Deniz",
+      "description": "Ölü Deniz tuzları ve minerallerinden oluşan masmavi sularıyla dikkat çeken Dead Sea Resort'un tadını çıkaracaksınız. Güneşin tadını çıkarırken ve otel havuzunda yüzerken, lezzetli Arap mutfağında yemek yiyip günün geri kalanı boyunca Ürdün Doğu Sahili'nin muhteşem manzaralarını izlerken otel personeli size yardımcı olmak için tüm gün orada olacak.."
+    },
+    {
+      "dayNumber": 16,
+      "title": "Ölü Deniz'den Ayrılış",
+      "description": "Bir ömür boyu hayırlayacağınız maceranız bugün sona eriyor. Uçuşunuz geç saatte ise veya tur sonrası konaklama ekleyerek konaklamanızı uzattıysanız, turistik yerleri keşfetmek için daha fazla zamanınız olacaktır."
+    }
+  ],
+  "map": ""
+}

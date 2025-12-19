@@ -1,0 +1,55 @@
+{
+  "destination": "Costa Rica",
+  "mainPhoto": "",
+  "id": "NCR",
+  "tourName": "San Jose’den San Jose’ye",
+  "placesVisited": "Costa Rica",
+  "generalInfo": "Büyüleyici Kosta Rika'da bir tur atın ve Orta Amerika’daki bu harikalar diyarının doğal güzelliklerini deneyimleyin. Arenal Volkanı'na tanık olun ve yakınlardaki kaplıcalara dalın. Monteverde Bulut Ormanı'nda dev ağaçlar arasındaki bulut ormanının üzerinden uçan heyecan verici bir zipline deneyimi yaşayabilirsiniz. Manuel Antonio Ulusal Parkı’nın güzel lagünlerini, palmiye ağaçlarını ve yemyeşil ormanlarını keşfedin.<br><br><strong>En Yakın Uluslararası Havaalanına (geliş):</strong> San Jose Juan Santamaria Uluslararası Havalimanı (SJO)<br><br><strong>En Yakın Uluslararası Havaalanı (gidiş):</strong> San Jose Juan Santamaria Uluslararası Havalimanı (SJO)",
+  "durationDays": "9",
+  "price": "659",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "19",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<p><strong>Geziler ve aktiviteler: </strong></p>\n<ul>\n<li>- Manuel Antonio Milli Parkı’na giriş</li>\n<li>- Monteverde Bulut Ormanı Koruma Alanı'na giriş</li>\n</ul>\n<p><strong>Konaklama:</strong></p>\n<ul>\n<li>- Otellerde 8 gece</li>\n</ul>\n<p><strong>Taşıma:</strong></p>\n<ul>\n<li>- Toplu taşıma, bot, Özel araç</li>\n</ul>\n<p><strong>Yemekler:</strong></p>\n<ul>\n<li>- 6 kahvaltı</li>\n</ul>\n<p><strong>Diğerleri:</strong></p>\n<ul>\n<li>- Siempre Tur tur lideri</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "San José'ye Varış",
+      "description": "Kosta Rika’nın başkenti San Jose kahve ve şeker kamışı çiftlikleri arasında verimli bir vadide yer almaktadır. Depremlerden dolayı sömürgecilik dönemi mimarisinden pek bir şey kalmamıştır geriye. Fakat 1897’de inşa edilen Ulusal Tiyatro kesinlikle görülmeye değer. Belki buradayken bir performansa denk gelecek kadar şanslısınızdır. Altın Müzesi, Jade Müzesi ve Ulusal Müzeler de yine ziyaret etmek için kesinlikle önerilir."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Manuel Antonio",
+      "description": "Orta Vadi’den Pasifik kıyısına, gür yeşilliklerle kaplı kırsallardan geçerek ülkedeki en ünlü parklardan biri olan Manuel Antonio Milli Parkı’nı görmek için küçük bir köy olan Manuel Antonio’ya gidiyoruz. Bu ünlü park, güzel lagünler, palmiyelerle kaplı plajlar, çok sayıda hayvan ve yemyeşil ormanlarla kutsanmıştır. Manuel Antonio Ulusal Parkı'na ev sahipliği yapan birçok canlı arasında yakalı tembel hayvanlar, pelikanlar, beyaz yüzlü maymunlar, antiloplar ve devasa iguanalar bulunur. Aynı zamanda plajları ile de ünlüdür - maymunların ve rakunların hırsızlıklarından korunmak istiyorsanız eşyalarınıza sahip çıkın!"
+    },
+    {
+      "dayNumber": 4,
+      "title": "Santa Elena & Monteverde",
+      "description": "Bir zamanlar muz ihracatı için çok önemli bir liman olan eski Quepos kasabasına gidiyoruz. Daha sonra, Pasifik Okyanusu'na ulaşmamız için düzleşecek olan yemyeşil tepelerin muhteşem manzarasına tanık olacağımız dik ve engebeli bir dağ yoluna çıkıyoruz. Bulutlara erişen ve 1950'lerde Amerikan Quaker'ları tarafından kurulan küçük Santa Elena kasabasına varıyoruz."
+    },
+    {
+      "dayNumber": 6,
+      "title": "La Fortuna",
+      "description": "Bir sonraki yolculuğumuz, minibüs ve botların bir kombinasyonunun kullanılmasıyla bizi bulut ormanının dağlarından götürüyor. Arenal Gölü'nün ilk ayağı yaklaşık 1 saat 30 dakika sürüyor ve manzara gerçekten muhteşem. Dönüp duran tepeler en sonunda Arenal Volkanı'nın uzak manzaralarına yol açıyor ve kimi yerlerde fotoğraf çekimi için durabiliriz. Yolun kenarında son kez durduğumuzda, bir toprak yoldan aşağı inerek Arenal Gölü kıyısındaki teknemize ulaşıyoruz. Manzara gölden gerçekten inanılmaz ve yaklaşık bir saat boyunca yavaş yavaş Arenal Volkanı'na yaklaşıyoruz. Diğer tarafa vardığımızda, başka bir minibüse binip 30 dakikalık bir seyahatle La Fortuna'ya varıyoruz."
+    },
+    {
+      "dayNumber": 8,
+      "title": "San José",
+      "description": "Başka bir gece için San Jose'ye dönüyoruz. Akşamları, özellikle haftasonu buradaysanız, dünya standartları seviyesindeki restoranlarda yemek yiyebilir ve harika gece hayatına dalabilirsiniz. Lütfen dikkat: Bazı gidişlerde tur lideri sizinle tekrar seyahat etmeyecektir. Bunun yerine bir transfer sizi San Jose'ye götürecektir. Burada bir temsilci sizi karşılayacaktır."
+    },
+    {
+      "dayNumber": 9,
+      "title": "San José'den Ayrılış",
+      "description": "Hayatınızın macerası bugün sona eriyor. Geç bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+    }
+  ],
+  "map": ""
+}

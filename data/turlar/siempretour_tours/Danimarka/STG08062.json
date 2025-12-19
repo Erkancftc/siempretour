@@ -1,0 +1,70 @@
+{
+  "destination": "Danimarka",
+  "mainPhoto": "",
+  "id": "STG08062",
+  "tourName": "Costa Fascinosa İle Norveç Fiyortları - 16.Mayıs.2020",
+  "placesVisited": "Danimarka, Norveç, İsveç, Almanya",
+  "generalInfo": "Copenhag, Denizde Seyir, Hellesylt, Geiranger, Bergen, Stavanger, Göteborg ,Warnemünde, Copenhag",
+  "durationDays": "8",
+  "price": "1249",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "50",
+  "dates": "",
+  "minimumAge": "18",
+  "meet": "",
+  "whatExpect": "<ul>\n<li>Gemide tur süresince tam pansiyon konaklama.</li>\n<li>Türk Hava Yolları ile İstanbul (Yeni Hava Limanı) - Kopenhag - İstanbul (Yeni Hava Limanı) ekonomi sınıfı uçuşlar.</li>\n<li>Kişi sayısına bakılmaksızın Türkçe rehberlik hizmeti.</li>\n<li>Havalimanı ve liman vergileri. (420€)</li>\n<li>Havalimanı – Liman – Havalimanı transferler.</li>\n<li>Tercih edilen kategoride tur süresince konaklama.</li>\n<li>Gemide sabah, öğle, akşam yemekleri ve ara ikramlar.</li>\n<li>Gemideki eğlence ve şovlar.</li>\n<li>Fitness &amp; Spor salonu kullanımı.</li>\n<li>Seyahat süresini kapsayan, seyahat sağlık sigortası. (Vize için geçerli teminatları içermemektedir.) 70 yaş üzeri misafirler için %100 surprim uygulanır.(10€)</li>\n</ul>",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Copenhag (Danimarka)",
+      "description": "Copenhag (Danimarka)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "Denizde Seyir",
+      "description": ""
+    },
+    {
+      "dayNumber": 3,
+      "title": "Hellesylt (Norveç)",
+      "description": "Hellesylt (Norveç)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Geiranger (Norveç)",
+      "description": "Geiranger (Norveç)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "Bergen (Norveç)",
+      "description": "Bergen (Norveç)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "Stavanger (Norveç)",
+      "description": "Stavanger (Norveç)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Göteborg (İsveç)",
+      "description": "Göteborg (İsveç)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "Warnemünde (Almanya)",
+      "description": "Warnemünde (Almanya)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "Copenhag (Danimarka)",
+      "description": "Copenhag (Danimarka)"
+    }
+  ],
+  "map": ""
+}
