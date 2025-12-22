@@ -1,0 +1,235 @@
+[
+  {
+    "destination": "Nepal",
+    "mainPhoto": "",
+    "id": "RNEVC",
+    "tourName": "Everest Ana Kamp",
+    "placesVisited": "Nepal",
+    "generalInfo": "Ölmeden önce yapılacaklar listenizde ikonik Everest Dağı’ na tik atın ve hiçbir zaman unutmayacağınız bir maceraya atılın.  Bu, sadece yürüyüş yapmakla kalmayıp,  Sherpa kültürünü deneyimleyebileceğiniz,  yerel köyleri ziyaret edebileceğiniz ve Nepal’ in sunabileceği en inanılmaz manzaralarla karşı karşıya gelebileceğiniz bir gezi.  Everest Ana Kampı’ na yürüyüş korkaklara göre değil,  aksine sonunda sizde inanılmaz bir başarı duygusu uyandıracak bir macera.<br><br><strong>En Yakın Uluslararası Havaalanı ( Başlangıç Noktası ) :  </strong>Katmandu Tribhuvan<strong> </strong>Uluslararası Havaalanı ( KTM )<br><br><strong>En Yakın Uluslararası Havaalanı ( Bitiş Noktası ) :  </strong>Katmandu Tribhuvan Uluslararası Havaalanı ( KTM )",
+    "durationDays": "15",
+    "price": "FİYAT İSTEYİNİZ",
+    "image1": "siempretour-images/RNEVC/rnevc_2019_10_27_22_19_59_0.jpg",
+    "image2": "siempretour-images/RNEVC/rnevc_2019_10_27_22_19_59_1.jpg",
+    "image3": "siempretour-images/RNEVC/rnevc_everest_1.jpg",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler &amp; Aktiviteler</strong></p>\n<ul>\n<li>- Khumjung ve Khunday köylerine yürüyüş gezisi</li>\n<li>- Ünlü Tyangboche manastırı ziyareti</li>\n<li>- Chukkung Vadisi’ ne yürüyüş gezisi</li>\n<li>- Kalapatthar Manzara Noktası’ na sabahın erken saatlerinde tırmanış</li>\n</ul>\n<p><strong>Konaklama</strong></p>\n<p>Otellerde 2 gece, kulübelerde 12 gece</p>\n<p><strong>Yemekler</strong></p>\n<p>2 kahvaltı, 13 basit kahvaltı</p>\n<p><strong>Diğer</strong></p>\n<p>Gezilerde İngilizce konuşan yerel rehber ( ler )</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Katmandu' ya Varış",
+        "description": "Yaşamak üzere olduğunuz maceradan neler beklemeniz gerektiği konusunda sizi bilgilendirecek olan liderinizle buluşarak turunuza başlayacağınız Nepal’ in hareketli başkenti Katmandu’ ya uçun."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Phakding-Namche Bazaar",
+        "description": "Bu sabah,  Dudh Kosi Nehri’ ne doğru bir inişle yürüyüşe başlamadan önce yürüyüşçüler arasında popüler bir şehir olan Lukla’ ya 40 dakikalık bir uçuş yapıyoruz ve sonra Namche Bazaar’ a giden ana patikaya katılacağımız Phakding’ deki kulübemize ulaşıyoruz."
+      },
+      {
+        "dayNumber": 3,
+        "title": "Namche Bazaar",
+        "description": "Sabah yola çıkıyoruz ve sonra Joeshale’ de öğle yemeği için mola veriyoruz. Öğle yemeğinden sonra,  köyün göbeğinde bir kulübede önümüzdeki iki geçireceğimiz Namache Bazar’ a üç buçuk saat süren bir yolculuk yapıyoruz."
+      },
+      {
+        "dayNumber": 5,
+        "title": "Diboche",
+        "description": "Erkenden yola koyuluyoruz ve öğle yemeği için duracağımız Fungi Tanga’ ya yaklaşık 2 buçuk saat yürüyoruz.  Küçük bir ormandan Tyangboche’ ye doğru yürüyün ve Nepal’ deki en ünlü manastırlardan biri olan Tyangboche manastırını ziyaret edin."
+      },
+      {
+        "dayNumber": 6,
+        "title": "Dingboche",
+        "description": "Diboche’ den ayrılıp Dingboche köyüne tırmanışımıza başlıyoruz. Dingboche’ de internet kafeye gidip evdekilere fotoğraflarınızı gönderebilir veya geceyi dünyanın en yüksek bilardo salonlarından birinde geçirebilirsiniz.  Burada,  hava koşullarına alışarak ve ağrıyan ayaklarımızı dinlendirerek iki gece geçiriyoruz.  Burada geçireceğimiz tüm gün boyunca,  önümüzdeki yolculuğu daha keyifli bir hale getirmek için birkaç hava koşullarına alışma egzersizi yapabilirsiniz."
+      },
+      {
+        "dayNumber": 8,
+        "title": "Lobuche",
+        "description": "Kulübeden erkenden ayrılıp Thukla’ da öğle yemeği için mola veriyoruz ve sonrasında Lobuche’ ye iki buçuk saat yürüyoruz."
+      },
+      {
+        "dayNumber": 9,
+        "title": "Everest Ana Kamp & Gorekhshep",
+        "description": "Bu sabah,  hedefimize doğru son tırmanışımız için Lobuche’ da erkenden uyanıyoruz.  Everest Ana Kampı’ na tüm gün sürecek bir yürüyüş yapacaksınız  ve tamamlanması en çetrefilli ve en zor saatler bunlar.  Everest Ana Kampı’ na ulaştığınızda,  manzara nefes kesici ve keyifli.  Geceyi geçireceğimiz Gorekhshep’ e inmeden önce destansı manzaraları istediğiniz kadar hayranlıkla seyredin."
+      },
+      {
+        "dayNumber": 10,
+        "title": "Pheruche",
+        "description": "Sabahın erken saatlerinde,  muazzam Everest’ in en mükemmel fotoğrafını yakalama fırsatı için gezinin en yüksek yürüyüş noktası Kala Patthar manzara noktasına tırmanmaya hazır olun.  Tırmanışınızdan sonra kahvaltı yapın ve gecelemek için Pheruche’ a doğru yola çıkmadan önce öğle yemeği için tekrardan Thukla’ ya doğru yürümeye başlayın."
+      },
+      {
+        "dayNumber": 11,
+        "title": "Namche Bazaar",
+        "description": "Bugün öğle yemeği için Dibiche’ ye üç saat süren bir yolculuk yapıp sonra Namche Bazaar’ a doğru yürüyüşümüze devam ediyoruz.  Yol boyunca artan oksijenin ve Khumbu Vadisi’ nin en iyi manzaralarının keyfini çıkarın."
+      },
+      {
+        "dayNumber": 12,
+        "title": "Namche Bazaar - Phakding",
+        "description": "Kahvaltıya uyanın ve ardından öğle yemeği için Bhote Koshi vadisinden Manjo’ ya üç saatlik bir yürüyüş yapın.  Öğle yemeğinden sonra,  Phakding’ e geri dönüyoruz."
+      },
+      {
+        "dayNumber": 13,
+        "title": "Phakding - Lukla - Katmandu",
+        "description": "Yürüyüşümüzün son günü,  sabah başladığımız Phakding’ den daha yüksek bir rakımdaki Lukla’ da sonlanan sadece üç saatlik kısa bir yürüyüş günüdür.  Lukla’ da sıcak bir duş imkanınız olabilir ve ertesi sabah Lukla’ dan Katmandu’ ya uçuştan önce dinlenmek için bir fırsatınız olacak."
+      },
+      {
+        "dayNumber": 14,
+        "title": "Katmandu",
+        "description": "Sabahın erken saatlerinde,  Katmandu’ ya 40 dakikalık bir uçuş yapın."
+      },
+      {
+        "dayNumber": 15,
+        "title": "Katmandu' dan Ayrılış",
+        "description": "Hayatınızın macerası bugün sona eriyor.  Geç vakitte bir uçuşunuz varsa veya tur sonrası konaklama ekleyerek konaklamanızı uzattıysanız görülesi yerleri keşfetmek için daha fazla zamanınız olacak."
+      }
+    ],
+    "map": "",
+    "country": "Nepal"
+  },
+  {
+    "destination": "Nepal",
+    "mainPhoto": "",
+    "id": "TMNE",
+    "tourName": "Kapsamlı Nepal",
+    "placesVisited": "Nepal",
+    "generalInfo": "Bu büyüleyici Nepal keşfinde tarihi, kültürü ve doğayı deneyimleyin. Anik tapınakları ve kutsal manastırları ziyaret edin,  Himalayalar üzerinde günbatımını seyredin ve Asya’ nın en iyi milli parklarından birinde safarinin tadını çıkarın.<br><br><strong>Lütfen dikkat: </strong> Bu örnek bir gezi programıdır ve kendi kişisel gereksinimlerinize ve bütçenize uyacak şekilde ayarlanabilir.",
+    "durationDays": "12",
+    "price": "1549",
+    "image1": "siempretour-images/TMNE/tmne_nepal_1",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler &amp; Aktiviteler</strong></p>\n<ul>\n<li>- Katmandu Şehir Turu</li>\n<li>- Bhaktapur Turu</li>\n<li>- Panauti &amp; Namobuddha Manastırı Ziyareti</li>\n<li>- Doğa yürüyüşleriyle Chitwan Milli Parkı</li>\n<li>- Lumbini Şehir Turu</li>\n<li>- Sarangkot Tepesi’ nde Gündoğumu</li>\n<li>- Pokhara Şehir Turu</li>\n</ul>\n<p><strong>Konaklama</strong></p>\n<p>Otellerde 11 gece</p>\n<p><strong>Yemekler</strong></p>\n<p>11 kahvaltı</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Katmandu' ya Varış",
+        "description": "Otelde 1 Gece"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Katmandu",
+        "description": "Bu sabah,  otelinizden alınacak ve Katmandu’ nun en kutsal yerlerinden bazılarında ve civardaki bölgede bir şehir turuna çıkacaksınız. Tanrı Shiva’ ya adanmış en kutsal Hindu tapınaklarından biri olan Pashupatinath Tapınağı’ nı göreceksiniz. Hindu olmayanların tapınağa girmesi yasak olsa da, Bagmati Nehri’ nin doğu kıyısından tapınağın gösterişli mimarisine hayranlıkla bakabileceksiniz."
+      },
+      {
+        "dayNumber": 3,
+        "title": "Bhaktapur, Nagarkot",
+        "description": "Oteldeki kahvaltıdan sonra otelinizden alınacak ve Nagarkot’ a giden yolda bir şehir turuna çıkacaksınız.  Katmandu’ nun 14 km doğusunda yer alan Bhaktapur “Dindarların Şehri” olarak bilinmektedir. Bu antik ortaçağ kenti,  tarihi ve sanatsal mimariyi gözler önüne sermektedir. Rehberinizle birlikte Durbar Meydanı’ nı gezeceksiniz."
+      },
+      {
+        "dayNumber": 4,
+        "title": "Panauti, Namobuddha Manastırı, Dhulikhel",
+        "description": "Himalayalar üzerinde güneşin doğuşunu seyretmek için erkenden uyanın ve ardından kahvaltı için otelinize dönün. Sonra,  güzel manzaraları olan Dhulikhel bölgesine yolculuğunuza başlamak için otelinizden alınacaksınız. Yolda,  birkaç öne çıkan ikona sahip küçük Panauti kasabasında duracaksınız. Indreswor Tapınağı’ nı ve Durbar Meydanı’ nı göreceksiniz. Devam ettiğinizde,  Himalayalar’ ın en yüksek zirvelerinin inanılmaz manzarasına sahip Dhulikhel’ e varacaksınız. Naom Buddha Tepesi’ ndeki Namobuddha’ nın güzel manastırlarını da göreceksiniz."
+      },
+      {
+        "dayNumber": 5,
+        "title": "Chitwan Milli Parkı",
+        "description": "Chitwan Milli Parkı’ nı keşfedeceğiniz yer olan Chitwan’ a manzaralarla dolu bir araba yolculuğu yapın. Chitwan Milli Parkı,  bir Dünya Mirası Sit Alanı’ dır ve yaban hayatı için bir sığınaktır. Sarmaşıkların ve bol miktarda hayvanın bulunduğu ormandaki gizli dünyayı keşfederek parkta iki gece geçirin. Gergedan, bufalo ve eğer şanslıysanız bir Bengal kaplanı görmek için gözlerinizi dört açın. Akşam,  şehirdeki yerel vejeteryan lezzetlerinin tadını çıkarın."
+      },
+      {
+        "dayNumber": 7,
+        "title": "Lumbini",
+        "description": "Buda’ nın doğum yeri olan Lumbini’ ye yolculuk yapın. Otele varış yaptıktan sonra, günün geri kalanını dilediğiniz gibi geçirin. Ertesi gün, Buda’ nın doğduğu yer olan Kutsal Bahçe’ yi  ( Sacred Garden )  ve her birinin Myanmar, Çin ve Tayland gibi ülkeleri temsil ettiği birkaç manastırı ziyaret edeceksiniz. Daha sonra,  geceyi dinlenerek geçirmek için Pokhara’ ya yolculuk yapacaksınız."
+      },
+      {
+        "dayNumber": 8,
+        "title": "Lumbini, Pokhara",
+        "description": "Otelde 1 Gece"
+      },
+      {
+        "dayNumber": 9,
+        "title": "Pokhara",
+        "description": "Güne erken bir başlangıç yapıp Sarangkot Tepesi’ nde gündoğumunu izleyin. Birkaç muhteşem fotoğraf çektikten sonra,  kahvaltı için otele dönün. Bu öğleden sonra,  güzel Davis Şelalesi’ ni ve yerel bir Tibet Mülteci Kampı’ nı ziyaret edin. Fewa Gölü’ nde huzurlu bir tekne gezisinin tadını da çıkarabilirsiniz. Günün geri kalanında dinlenebilir ya da Pokhara’ nın tadını çıkarabilirsiniz. Alışveriş yapmak isterseniz,  Pokhara ipek şallar, yün battaniyeler, değerli mücevherler ve tablolar için mükemmel bir yer."
+      },
+      {
+        "dayNumber": 10,
+        "title": "Katmandu",
+        "description": "Bir son dakika şehir turu için Katmandu Vadisi’ ne dönme vakti.  Krishna Mandir Tapınağı’ nın eşsiz taş mimarisine hayran kalacağınız yakınlardaki Patan Durbar Meydanı’ nı ziyaret edeceksiniz. Katmandu Vadisi’ ndeki en eski yerleşkelerden biri olan Kiratpur’ a da gideceksiniz. Bu şehir,  Kral Siva tarafından yaptırılan tipik Newari mimarisini gözler önüne seriyor. Ayrıca,  Chobhar Boğazı’ nı  ( Chobhar Gorge )  da keşfedecek ve boğazın her iki ucunu birbirine bağlayan asma köprüyü göreceksiniz. Bu köprü,  Jal Binayak Tapınağı’ nın ve yakınındaki Chobhar Mağarası’ nın muhteşem manzaralarını sunmaktadır."
+      },
+      {
+        "dayNumber": 12,
+        "title": "Katmandu' dan Ayrılış",
+        "description": "Hayatınızın macerası bugün sona eriyor.  Geç vakitte bir uçuşunuz varsa veya tur sonrası konaklama ekleyerek konaklamanızı uzattıysanız görülesi yerleri keşfetmek için daha fazla zamanınız olacak."
+      }
+    ],
+    "map": "",
+    "country": "Nepal"
+  },
+  {
+    "destination": "Nepal",
+    "mainPhoto": "",
+    "id": "INHN",
+    "tourName": "Nepal’in Öne Çıkan Yerleri",
+    "placesVisited": "Nepal",
+    "generalInfo": "Nepal'in güzel Annapurna bölgesi, dünyanın en muhteşem manzaralarını ve güzel parkurlarını sunmaktadır. İnanılmaz Himalaya manzarasında tatlı su gölleri, nehirler, şelaleler ve çorak manzaralar arasından dolanan akıntılar bulunuyor. İlginç köylerden yürüyün, arkadaş canlısı yerel dağ kabileleriyle tanışın, etkileyici fauna ve florayı görün ve görkemli karla kaplı dağların zemini üzerine kurulmuş birçok kutsal Budist ve Hindu tapınağına hayran kalın.<br><br><strong>En Yakın Uluslararası Havaalanı(Başlangıç Noktası): </strong>Katmandu Tribhuvan<strong> </strong>Uluslararası Havaalanı(KTM)<br><br><strong>En Yakın Uluslararası Havaalanı(Bitiş Noktası): </strong>Katmandu Tribhuvan Uluslararası Havaalanı(KTM)",
+    "durationDays": "11",
+    "price": "839",
+    "image1": "siempretour-images/INHN/inhn_highlights-of-nepal2019_04_11_02_27_47_0.jpg",
+    "image2": "siempretour-images/INHN/inhn_highlights-of-nepal2019_04_11_02_27_47_1.jpg",
+    "image3": "siempretour-images/INHN/inhn_highlights-of-nepal2019_04_11_02_27_47_2.jpg",
+    "image4": "siempretour-images/INHN/inhn_inhn_profil.jpg",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "19",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler &amp; Aktiviteler</strong></p>\n<ul>\n<li>- Maya Devi Tapınağı</li>\n<li>- Annapurna eteklerinde yürüyüş</li>\n<li>- Chitwan Milli Parkı giriş</li>\n<li>- Tibet Mülteci Kampı ziyareti</li>\n<li>- Tharu Kültürel dans gösterisi</li>\n<li>- Dünya Barış Pagodası’na yürüyüş</li>\n</ul>\n<p><strong>Konaklama</strong></p>\n<ul>\n<li>- Otellerde 8 gece,kulübede 2 gece</li>\n</ul>\n<p><strong>Ulaşım</strong></p>\n<ul>\n<li>- Minibüs,Halk Otobüsü,Yürüyüş,Taksi</li>\n</ul>\n<p><strong>Yemekler</strong></p>\n<ul>\n<li>- 8 kahvaltı</li>\n</ul>\n<p><strong>Diğer</strong></p>\n<ul>\n<li>- Siempre Tur tur lideri</li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Katmandu’ya Varış",
+        "description": "Katmandu Vadisi, bu kadar küçük bir alanda en çok UNESCO Dünya Mirası Sit Alan’ına sahipken ve hem Budistler hem de Hindular tarafından kullanılan geleneksel köylerle ve eski kutsal tapınaklarla ve mabetlerle dolu yemyeşil tarım tepeleriyle çevriliyken, Nepal'in başkenti Katmandu karla kaplı dağlar ile çevrilidir."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Lumbini",
+        "description": "Bugün, Nepal'deki Himalayaların eteklerinde bulunan Lumbini'ye giden tozlu yollardan yolculuk ediyoruz. Lumbini'nin,Gotama Buda’nın (Gautama Buddha) 'barışın elçisi ve Asya'nın ışığı' M.Ö. 623’te doğduğu yer olduğu söyleniyor. Lumbini'deki en önemli tapınak, Buda'nın doğumunun geleneksel yerini gösteren Maya Devi Tapınağı'dır. Tapınak, daha önceki tapınakların bulunduğu yerdedir ve yüzlerce yıldır hac yeri olmuştur. Lumbini, tamamen Hindu'dur, ancak çeşitli uluslardan birçok Budist tapınağı ve mabedi bu kutsal yerin etrafına dağılmış durumdadır."
+      },
+      {
+        "dayNumber": 3,
+        "title": "Chitwan Milli Parkı",
+        "description": "Chitwan Milli Parkı'na gidiyoruz. Park, UNESCO Dünya Mirası listesindedir (1984) ve tek boynuzlu Asya gergedanlarının ve aynı zamanda Bengal kaplanının son popülasyonlarından birine ev sahipliği yapmaktadır. İç Terai'nin subtropikal ovalarında 932 kilometrekarelik bir alana yayılan park, Nepal'in orta güneyinde yer almaktadır. Alan, 175 kilometrekarelik bir alana yayılan Tikauli ormanını kapsamaktadır - Rapti nehrinden Mahabharat'ın eteklerine kadar. Alan, 1973'te ülkenin ilk Milli Parkı oldu."
+      },
+      {
+        "dayNumber": 5,
+        "title": "Pokhara",
+        "description": "Annapurna dağlarının muhteşem manzarasına sahip muhteşem göl kasabası Pokhara'ya gidiyoruz. Kasaba, Nepal'daki ikinci en büyük göl olan Phewa Ta Gölü kıyısında yer almaktadır. Burası, trekking için mükemmel bir yer sağlayan çok sessiz ve tasasız bir kasaba. Burada, sabah yürüyüşünüze hazırlık için birkaç son dakika ekipmanı alabilirsiniz."
+      },
+      {
+        "dayNumber": 6,
+        "title": "Annapurna Foothills",
+        "description": "Büyük bir kahvaltıdan sonra,arabayla yürüyüşümüzün başlayacağı noktaya gidiyoruz ve Annapurna eteklerine tırmanışımıza başlıyoruz, 1900 metredeki ilk geceler konaklayacağımız yere tırmandıkça, manzaralar daha da güzelleşiyor.Kar kaplı zirvelerin,mavi göllerin ve nehirlerin keyfini çıkarıyoruz. Annapurna Himal'i çevreleyen derin vadiler ve yüksek dağlar, subtropikal ormanlardan yüksek, kuru bir manzaraya kadar çeşitli araziler içeriyor."
+      },
+      {
+        "dayNumber": 8,
+        "title": "Pokhara",
+        "description": "Dağ eteklerinde iki geceden sonra,göl kenarında ağrıyan ayaklarınızı dinlendireceğiniz ve manzarayı izleyeceğiniz Pokhara’ya dönüyoruz.Kadınların nasıl ipek kilimler yaptığını izlemek için bir Tibet Mülteci Kampı’nı ziyaret ediyoruz.Gölde bir tekne kiralayabilir ve Japon Barış Pagodası’na da yürüyebilirsiniz.Gölün çevresindeki kırsal bölgeyi keşfetmek için dağ bisikleti kiralayabilirsiniz."
+      },
+      {
+        "dayNumber": 10,
+        "title": "Kathmandu",
+        "description": "Nepal’in başkentinde son bir gece için Katmandu’ya dönüyoruz.Son dakika şehir turu ve hediyelik eşya alışverişi veya tur grubunuzla son bir ‘dal bhat’ yemeğinin tadını çıkarın."
+      },
+      {
+        "dayNumber": 11,
+        "title": "Katmandu'dan Ayrılış",
+        "description": "Hayatınızın macerası bugün sona eriyor. Geç vakitte bir uçuşunuz varsa veya tur sonrası konaklama ekleyerek konaklamanızı uzattıysanız görülesi yerleri keşfetmek için daha fazla zamanınız olacak."
+      }
+    ],
+    "map": "",
+    "country": "Nepal"
+  }
+]

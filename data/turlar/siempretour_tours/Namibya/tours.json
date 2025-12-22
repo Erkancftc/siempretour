@@ -1,0 +1,63 @@
+[
+  {
+    "destination": "Namibya",
+    "mainPhoto": "",
+    "id": "AFWC",
+    "tourName": "Windhoek 'den  Cape Town'a",
+    "placesVisited": "Namibya, Güney Afrika",
+    "generalInfo": "Bu macera kasırgası, Namibya ve Güney Afrika'da sizi sansasyonel manzaralara süpürecek. Antika arabalarla süslenmiş eşsiz Solitaire kasabasını ziyaret edin ve göz alıcı Namib çölünde bulunan muhteşem kum tepelerinin altın rengine hayranlıkla bakın. Güney Afrika'ya doğru ilerlerken Cederberg'de durup, yerel üzüm bağlarını keşfederek uğultulu Cape Town'a varacağız.<br><br><strong>En Yakın Uluslararası Havaalanına (geliş): </strong>Windhoek Hosea Kutako Havalimanı (WDH)<br><br><strong>En Yakın Uluslararası Havaalanı (gidiş): </strong>Cape Town Uluslararası Havalimanı (CPT)",
+    "durationDays": "7",
+    "price": "749",
+    "image1": "siempretour-images/AFWC/afwc_windhoek-to-cape-town2019_04_09_00_30_48_0.jpg",
+    "image2": "siempretour-images/AFWC/afwc_windhoek-to-cape-town2019_04_09_00_30_48_1.jpg",
+    "image3": "siempretour-images/AFWC/afwc_windhoek-to-cape-town2019_04_09_00_30_48_2.jpg",
+    "image4": "siempretour-images/AFWC/afwc_afwc_profil.jpg",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "34",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler ve Etkinlikler</strong></p>\n<ul>\n<li>- Solitaire Kasabası'ndaki oğlak dönencesinde duraklamak</li>\n<li>- Sesriem Kanyonu</li>\n<li>- Sossusvlei ve Ölü Vlei</li>\n<li>- Balık Gölü Kanyonu</li>\n<li>- Şarap Tadımı</li>\n</ul>\n<p><strong>Konaklama </strong></p>\n<ul>\n<li>- 3 gece Otel , 3 gece klübe</li>\n</ul>\n<p><strong>Ulaşım</strong></p>\n<ul>\n<li>- Büyük kamyonlar</li>\n</ul>\n<p><strong>Yemekler</strong></p>\n<ul>\n<li>- 2 Açık Büfe Kahvaltı , 4 Öğle Yemeği , 3 Akşam Yemeği, 4 Kahvaltı</li>\n</ul>\n<p><strong>Diğer</strong></p>\n<ul>\n<li>- Siempre Tour tur lideri , Siempre Tur Şoförü</li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Windhoek'e varış",
+        "description": "Rakım 1650 metre. Windhoek kuzeydeki Eros Dağlarından Güneydeki Auas dağlarına doğru güzel bir vadiye uzanır. Bölgedeki tek şehirdir ve nüfusu 250.000 den fazladır."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Sesriem",
+        "description": "Başkentten ayrılarak oğlak dönencesine doğru yola çıkıyoruz ve ancak olup biteni (sizi nelerin beklediğini)anlayabiliyorsunuz. Buradan, Namib-Naukluft Ulusal Parkı'na yakın, merkez Namibya'nın Khomas Bölgesi'nde küçük bir yerleşim yeri olan Solitaire'ye devam ediyoruz. Bu küçük çöl topluluğunda yalnızca bir benzin istasyonu, postane, fırın ve taşra marketi bulunuyor. Kamyondan inerken, bir an durup, kaktüsler ve kısmen kuma batmış eski araç karkasları ile çevrili bir film setine adım atmış gibi hissedeceksiniz."
+      },
+      {
+        "dayNumber": 3,
+        "title": "Balık Gölü Kanyonu",
+        "description": "Bu sabah, Namib Çölü'nün olağanüstü manzarası için Dune 45 tepesine tırmanma fırsatınız var. Ayrıca koyu renkli deve dikeni ağaçlarının beyaz zemine uzanarak bize eşsiz bir fotoğraf yakalama fırsatı verdiği olağanüstü Sossusvlei and Deadvlei'yi ziyaret edeceğiz. Burası gerçekten bir fotoğrafçı için cennettir."
+      },
+      {
+        "dayNumber": 4,
+        "title": "Orange Nehri",
+        "description": "Güneye, yerel olarak Oranjerivier olarak bilinen Orange Nehri'ne devam ediyoruz.. Burası Güney Afrika'nın en uzun nehridir ve Namibya ve Güney Afrika sınırı boyunca uzanmaktadır. Turuncu nehre giderken, ihtişamıyla yalnızca Kuzey Amerika'daki Büyük Kanyon'un rekabet edebileceği dünyanın en büyük kanyonlarından biri olan ve büyüklüğüyle nefes kesen Fish River (Balık Nehri) Kanyonunda duruyoruz. Kanyona bakan bir görüş açısında park edeceğiz. Kanyon boyunca kısa bir yürüyüş yapabilecek ve fotoğraf çekebileceksiniz."
+      },
+      {
+        "dayNumber": 5,
+        "title": "Cederberg",
+        "description": "Cape Town'a doğru ilerlerken, dereler, şelaleler, serin havuzlar ve muhteşem doğal kaya oluşumları ile kaplı engebeli arazisi ile Cederberg vahşi yaşam alanında bir mola vereceğiz. Burada turumuza dahil şarap tadımı ile yerel şarapları deneyimleyebileceksiniz."
+      },
+      {
+        "dayNumber": 6,
+        "title": "Cape Town",
+        "description": "Afrika'nın güney batı ucunda yer alan ve Atlantik Okyanusu ile simgeleşmiş Masa Dağı arasında yer alan Cape Town, dünyanın en güzel şehirlerinden biri olarak kabul edilmektedir."
+      },
+      {
+        "dayNumber": 7,
+        "title": "Cape Town'dan ayrılış",
+        "description": "Bir ömür boyu süren serüveniniz bugün sona eriyor. Geç saatte bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "country": "Namibya"
+  }
+]

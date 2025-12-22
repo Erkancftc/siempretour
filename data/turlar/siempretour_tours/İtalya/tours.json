@@ -1,0 +1,63 @@
+[
+  {
+    "destination": "İtalya",
+    "mainPhoto": "",
+    "id": "STG08000",
+    "tourName": "MSC Bellisima ile Akdeniz",
+    "placesVisited": "İtalya, Malta, İspanya, Fransa",
+    "generalInfo": "Cenova, Napoli, Messina, La Valetta, Denizde Seyir, Barselona,       Marsilya, Cenova",
+    "durationDays": "8",
+    "price": "910",
+    "image1": "siempretour-images/STG08000/stg08000_msc-bellisima-ile-akdeniz2019_12_23_06_12_57_0.jpg",
+    "image2": "siempretour-images/STG08000/stg08000_msc-bellisima-ile-akdeniz2019_12_23_06_12_57_1.jpg",
+    "image3": "siempretour-images/STG08000/stg08000_msc-bellisima-ile-akdeniz2019_12_23_06_12_57_2.jpg",
+    "image4": "siempretour-images/STG08000/stg08000_msc-bellisima-ile-akdeniz2019_12_23_06_12_57_3.jpg",
+    "image5": "siempretour-images/STG08000/stg08000_msc-bellisima-ile-akdeniz2019_12_23_06_12_57_4.jpg",
+    "image6": "siempretour-images/STG08000/stg08000_msc-bellisima-ile-akdeniz2019_12_23_06_12_57_5.jpg",
+    "imagealt": "",
+    "personNumber": "50",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p>- THY ile ekonomi sınıfı İstanbul - Milano - İstanbul uçuşu</p>\n<p>- Tercih etmiş olduğunuz kategorideki kabinde 7 gece tam pansiyon konaklama</p>\n<p>- Havaalanı - liman - havaalanı transferleri.</p>\n<p>- Grup doluluk oranı 50% ve üzeri olması durumunda Türkçe rehberlik hizmeti garanti edilmektedir.</p>\n<p>- Her gün ve gece için düzenlenen eğlence, animasyon ve şovlar</p>\n<p>- Gemideki sabah, öğle ve akşam yemekleri</p>\n<p>- Kaptanın hoşgeldin partisi ve gala yemeği</p>\n<p>- Fitness</p>\n<p>- Havaalanı ve Liman vergileri</p>\n<p>- Vize için gerekli teminatları da içeren MSC Cruises seyahat Seyahat ve sigorta paketi (70 yaş üzeri %100 sürprim uygulanır Sadece Türk vatandaşlarına sigorta yapılır)</p>\n<ul>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Stockholm (İsveç)",
+        "description": "Otelde 1 Gece"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Stockholm (İsveç)",
+        "description": "Hareket Saati : 07:00"
+      },
+      {
+        "dayNumber": 3,
+        "title": "Helsinki (Finlandiya)",
+        "description": "Varış Saati : 08:00"
+      },
+      {
+        "dayNumber": 4,
+        "title": "St. Petersburg (Rusya)",
+        "description": "Varış Saati : 07:00"
+      },
+      {
+        "dayNumber": 6,
+        "title": "Tallinn (Estonya)",
+        "description": "Varış Saati : 09:00"
+      },
+      {
+        "dayNumber": 7,
+        "title": "Stockholm (İsveç)",
+        "description": "Varış Saati : 09:00"
+      },
+      {
+        "dayNumber": 8,
+        "title": "İstanbul' a Varış",
+        "description": ""
+      }
+    ],
+    "map": "",
+    "country": "İtalya"
+  }
+]

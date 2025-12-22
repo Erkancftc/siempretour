@@ -1,0 +1,852 @@
+[
+  {
+    "destination": "Meksika",
+    "mainPhoto": "",
+    "id": "TMMB",
+    "tourName": "Cancun’ dan Playa Del Carmen’ e",
+    "placesVisited": "Meksika",
+    "generalInfo": "Bu macera,  Meksika’ nın en güzel Maya kalıntılarını muhteşem altın plajlarıyla birleştiriyor. Her biri Maya dünyasının farklı bir perspektifini sunan Chichén Itzá, Palenque ve Uxmal gibi antik uygarlıkları keşfedin. Tura,  dinlenmek için mükemmel bir yer olan Playa del Carmen’ in cennet sahilinde son verin.",
+    "durationDays": "9",
+    "price": "1899",
+    "image1": "siempretour-images/TMMB/tmmb_2019_10_22_05_31_08_0.jpg",
+    "image2": "siempretour-images/TMMB/tmmb_2019_10_22_05_31_08_1.jpg",
+    "image3": "siempretour-images/TMMB/tmmb_2019_10_22_05_31_08_2.jpg",
+    "image4": "siempretour-images/TMMB/tmmb_tmmb_20190501_1639853161.jpg",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "19",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler ve aktiviteler: </strong></p>\n<ul>\n<li>- Rehberli Uxmal turu</li>\n<li>- Rehberli Edzná turu</li>\n<li>- Rehberli Chichen Itza turu</li>\n<li>- Rehberli Palenque turu</li>\n<li>- Rehberli Chicanna,  Xpuijl ve Becan turu</li>\n<li>-  Bacalar lagününde mola</li>\n</ul>\n<p><strong>Konaklama:</strong> </p>\n<p>Otellerde 8 gece</p>\n<p><strong>Yemekler: </strong></p>\n<p>8 kahvaltı</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Cancun' a Varış",
+        "description": "Varışta,  Cancún’ daki otelinize transfer edileceksiniz. Cancún bir zamanlar küçük bir balıkçı köyüydü ve şimdi güzel plajları ve enerjik gece hayatıyla ünlü kocaman bir sayfiye yeridir."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Chichén Itzá & Merida",
+        "description": "Rehberiniz sizi muhteşem Maya şehri Chichén Itzá’ ya götürecek. Bu muazzam kompleks,  Maya tarihinin iki farklı dönemini temsil eden 300 hektarlık bir alana sahiptir: biri tamamen Maya kültürünün etkisi altındadır ve diğeriyse mimarisine ve heykeline yansıyan bir Toltec etkisine sahiptir. Rehberinizle Kukulkán Piramidi,  Kale,  Top Oyunu,  Kaplanlar Tapınağı,  Kutsal Cenote,  Rahibeler Binası ve Savaşçılar Tapınağı’ nı ziyaret edeceksiniz."
+      },
+      {
+        "dayNumber": 3,
+        "title": "Uxmal & Campeche",
+        "description": "Bu sabah Uxmal kalıntılarını ziyaret edeceksiniz. Uxmal bir zamanlar önemli bir Maya ticaret bölgesiydi ve şimdi Yucatan’ daki en iyi restore edilmiş harabelerden birisidir. Bir başka güzel Maya sitesi olan Edzná’ ya gitmeden önce rehberiniz sizi çok sayıda piramitin etrafında dolaştıracak. Burada benzersiz bir beşinci seviye kale olan Grand Akropolise dâhil olmak üzere çok sayıda mükemmel yapıyla karşılaşacaksınız. Merdivenlerdeki detaylı oymalara göz atmayı unutmayın."
+      },
+      {
+        "dayNumber": 4,
+        "title": "Palenque",
+        "description": "Ormanın orta yerindeki Palenque,  muhteşem Maya kalıntılarına ev sahipliği yapmaktadır. Öğleden sonra bu muhteşem arkeolojik siteye rehberli bir ziyaret gerçekleştireceksiniz. Rehberinizle,  burada bulunan büyüleyici piramitleri ve tapınakları keşfedeceksiniz ve Palenque hanedanlığının yükselişini ve düşüşünü öğreneceksiniz. Maya sitelerinin en büyüğü olmasa da Palenque birçok kişinin favorisidir. Özellikle süslü ve iyi korunmuş “Çan Kulesi” mimarisi oldukça ileri düzeydedir ve yazıtları ve duvar resimleri Maya dünyasının en iyilerindendir."
+      },
+      {
+        "dayNumber": 5,
+        "title": "Chicanna & Calkamul Biosphere",
+        "description": "Bu sabah,  Rio Bec bölgesinde bulunan Chicanna’ ya seyahat edeceksiniz. Meksika’ nın bu bölgesi,  Maya binalarının kendine özgü mimari stilleri ile bilinir ve keşfedilecek düzinelerce küçük arkeolojik alan vardır. Sonraki iki günü Calakmul Biyosferi olarak bilinen siteler grubunu keşfetmekle geçireceksiniz. Maya mimarlarının ne kadar da yetenekli olduklarını anlayacağınız Chicanna,  Xpuijl ve Becan turları yapacaksınız."
+      },
+      {
+        "dayNumber": 7,
+        "title": "Playa del Carmen",
+        "description": "Bacalar’ ın nefes kesici lagününde mola vererek pastoral Riviera Maya’ ya gideceksiniz. Bu cennet köşesinde rahatlama şansını yakalayacağınız Playa del Carmen’ e varacaksınız. Bir hafta süren keşif gezisinden sonra,  bu güzel günde Meksika’ nın enfes havasını solumak ve sıcak Karayip Denizi’ ne dalmak için serbestsiniz. Palmiyelerle çevrili plajlarda rahatlayın,  ayak parmaklarınızı şeker beyazı kuma daldırın ve çok sayıda harika restoranların birinde son gecenizin tadını çıkarın."
+      },
+      {
+        "dayNumber": 9,
+        "title": "Playa del Carmen’ den Ayrılış",
+        "description": "Hayatınızın macerası bugün sona eriyor. Geç bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "country": "Meksika"
+  },
+  {
+    "destination": "Meksika",
+    "mainPhoto": "",
+    "id": "MMP",
+    "tourName": "Meksika’ dan Panama City’ e",
+    "placesVisited": "Meksika, Belize, Guatemala, Honduras, Kosta Rika, Panama",
+    "generalInfo": "Milli parklarla, beyaz kumlu plajlarla, büyüleyici sömürge kasabalarıyla, renkli modern şehirlerle ve çok daha fazlasıyla kutsanmış yedi ülkeyi doyasıya yaşayın. Bu farklı fakat kompakt bölgeyi keşfederken birçok Maya kalıntısının ardındaki büyüleyici hikâyeleri öğrenebilir, yaban hayatı açısından zengin yağmur ormanı habitatlarını keşfedebilir, isteğe bağlı olarak su sporlarını deneyebilir, geleneksel pazarlardaki yerel insanlarla tanışabilir ve bir sahil barında kokteylinizi yudumlayabilirsiniz. Seçenekleriniz bir hayli fazla.<br><br><strong>En Yakın Uluslararası Havaalanına (geliş):</strong> Mexico City Benito Juarez Uluslararası Havalimanı (MEX)<br><br><strong>En Yakın Uluslararası Havaalanı (gidiş):</strong> Panama City Tocumen Uluslararası Havalimanı (PTY)",
+    "durationDays": "49",
+    "price": "4189",
+    "image1": "siempretour-images/MMP/mmp_grand-mexico-panama2019_04_11_21_00_23_0.jpg",
+    "image2": "siempretour-images/MMP/mmp_grand-mexico-panama2019_04_11_21_00_23_1.jpg",
+    "image3": "siempretour-images/MMP/mmp_grand-mexico-panama2019_04_11_21_00_23_2.jpg",
+    "image4": "siempretour-images/MMP/mmp_mmp_profil.jpg",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "19",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler ve aktiviteler: </strong></p>\n<ul>\n<li>- Rehberli Teotihuacan antik şehri turu</li>\n<li>- Rehberli Monte Albán harabeleri turu</li>\n<li>- San Cristóbal köy turu</li>\n<li>- Rehberli Palenque turu</li>\n<li>- Rehberli Chichén Itzá turu</li>\n<li>- Caye Caulker</li>\n<li>- Rehberli Tikal kalıntıları turu</li>\n<li>- Livingston’da Rio Dulce bot turu</li>\n<li>- Rehberli Copan kalıntıları turu</li>\n<li>- Roatan Adası</li>\n<li>- Ometepe Adası</li>\n<li>- Manuel Antonio Milli Parkı’na giriş</li>\n<li>- Monteverde Bulut Ormanı Koruma Alanı'na giriş</li>\n<li>- Bocas del Toro</li>\n</ul>\n<p><strong>Ulaşım </strong></p>\n<ul>\n<li>- Özel Araç, Uçak, Halk Otobüsü, Tekne</li>\n</ul>\n<p><strong>Yemekler</strong></p>\n<ul>\n<li>- 25 Kahvaltı, 2 Yerel Kahvaltı, 2 Açık Büfe Kahvaltı, 8 Basit Kahvaltı, 2 Kutu Kahvaltı</li>\n</ul>\n<p><strong>Konaklama</strong></p>\n<ul>\n<li>- 47 Gece Otel, 1 gece Yataklı Otobüs</li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Mexico City’ye Varış",
+        "description": "Mexico City, 20 milyondan fazla nüfusuyla dünyanın en kalabalık şehridir. 1521'de İspanyollar tarafından kurulan Meksika'nın başkenti, deniz seviyesinden 2309 metre yükseklikte ve antik Aztek başkenti olan Tenochtitlan'ın olduğu yerde inşa edilmiştir. Kapsamlı metro sistemi ve tramvay ve otobüsleriyle etrafta dolaşmayı kolaylaştırır. Ve burada görülecek ve yapılacak çok şeyin olduğunu da hatırlatalım."
+      },
+      {
+        "dayNumber": 3,
+        "title": "Oaxaca",
+        "description": "Listemizde sıradaki yer olan Oaxaca (telaffuz edilen wa-ha-ka) dağlar ve gür ormanlarla çevrili güzel bir şehirdir. Yemek yiyebileceğiniz, bir şeyler içebileceğiniz ve dünyayı seyredebileceğiniz çok hoş bir yer olan Plaza de la Constitución buradadır. Otobüs terminaline gitmek için taksilere bindikten sonra, Oaxaca'ya first class şeklinde 4-5 saatlik bir yolculuk yapacağız. Lezzetli sokak yemeklerini tadın ve bu çekici kasabadaki renkli kolonyal binalara hayranlıkla bakın."
+      },
+      {
+        "dayNumber": 4,
+        "title": "San Cristobal’a Gece Otobüsü",
+        "description": "Oaxaca'dan, Oaxaca vadisinin 400 metre yukarısındaki antik Zapoteklerin kutsal şehri Monte Albán'ya rehberli bir gezi düzenleyeceğiz. Pek çok mezar, tören sunakları, tüneller, piramitler ve saraylar, birçok kabartma, resimler ve karmaşık oymalar ile dekore edilmiş Grand Plaza çevresinde keşfedilesi birçok yapı var. Oaxaca'nın güzelliklerinden sonra San Cristobal de las Casas'a gece yolculuğu yapıyoruz."
+      },
+      {
+        "dayNumber": 5,
+        "title": "San Cristóbal",
+        "description": "Dağlık Chiapas bölgesine doğru yükselen büyüleyici San Cristobal de las Casas kentine varıyoruz. Yaylaların ortasında farklı dilleri, elbiseleri ve gelenekleriyle 21 yerli köyle çevrili olan bölgede Meksika'nın en zengin yerli kültürünü bulacaksınız. Şehrin geneline hâkim olan parlak renklerle boyanmış kırmızı kiremitli evler insanı o kadar cezbediyor ki! Amber Müzesi, Kahve Müzesi, Maya Tıp Müzesi ve 'Na Bolom' Kültür Merkezi gibi görülesi çok sayıda ilginç müze var."
+      },
+      {
+        "dayNumber": 8,
+        "title": "Palenque",
+        "description": "Ardından Palenque'ye uzun ve manzaralı bir otobüs yolculuğu yapacağız. Ünlü Lord Pakal ve Kızıl Kraliçe'nin onuruna zenginliklerle doldurulmuş mezarlarla tanınan Palenque kalıntılarına ve kasabaya yapacağımız dokuz saatlik yolculukta güzel manzaralarla karşılaşacaksınız. Bu arkeolojik site, nemli ormanlarla çevrili bir dizi yüksek tapınak, kule, mezar ve piramitlerle 200'den fazla yapıya ev sahipliği yapmaktadır. Kökleri klasik döneme kadar giden en önemli yapılar (MS 400-700) Yazıtlar Tapınağı, Crypt, Saray kompleksi, Haç Tapınağı, Foliated Haç Tapınağı ve Güneş Tapınağı'dır. Süslü frizler, heykeller ve yazıtlarla dekore edilmiş Palenque, tartışmasız en önemli Maya arkeolojik alanlarından biridir. Ormanın içinden geçen yollar çeşitli tapınaklara ve zamanla kayalarda garip figürler oluşturan muhteşem şelalelere yol açmaktadır. Yerel bir rehber ormandaki kazısı yapılmamış kalıntıları görebileceğiniz bir orman yürüyüşüne çıkarmak için size ekstra bir seçenek sunabilir."
+      },
+      {
+        "dayNumber": 10,
+        "title": "Mérida",
+        "description": "Bugün Palenque'den Merida'ya giderken otobüslerde tam bir gün geçiriyoruz. Otobüs terminaline kısa bir yürüyüşten sonra, birinci sınıf bir otobüse bineceğiz ve yolculuk tüm gün sürecektir. Yucatan eyaletinin başkenti olan Mérida 'beyaz şehir', sömürge binaları, kiliseler ve plazaların hoş bir karışımından oluşmaktadır. Pazarlar güzel dokuma ürünleri, hamaklar ve batiklerle dolup taşmaktadır ki bu da burayı el sanatları ve hediyelik eşyalar satın almak için harika bir yer yapmaktadır. Geceleri şehir tiyatro ve konserlerle canlanıyor. Büyük şehir bölgesini keşfe çıkan kapsamlı bir hop on / hop off otobüs turundan El Centro ve Pasaje Montejo Bulvarı'ndaki Arnavut kaldırımlı sokaklarında rahatlatıcı bir at arabası turuna kadar çok sayıda şehir turları sunulmaktadır. Mérida yakınlarını keşfetmek isterseniz büyük flamingo nüfusuyla küçük bir balıkçı kasabası olan Celestún'u ziyaret edebilirsiniz. Yucatan yarımadasının tamamını kapsayacak şekilde, antik Mayalar için kutsal bir yer olarak atfedilen, muhteşem kalker mağaraları ve derin su altı nehirleri ile bağlantılı yerel 'cenotes' (sen-o-tays), tatlı su yüzme deliklerinde yüzebilirsiniz."
+      },
+      {
+        "dayNumber": 12,
+        "title": "Playa del Carmen",
+        "description": "Playa del Carmen'e gitmeden önce, yakın zamanda Dünya'nın Yeni Yedi Harikasından biri olarak kabul edilen etkileyici bir Maya / Toltec sitesi olan Chichén Itzá'ya gidiyoruz. MS 7. ve 10. yüzyıl arasında inşa edilen Chichén Itzá, 1000 yılı aşkın bir süredir Maya için haç merkezidir. En dikkat çekici yer tüylü yılan tanrısı Kukulkan'a ithaf edilen büyük Kukulkan Piramidi'dir ve bir gölge yılanının ekinoks sırasında basamaklardan aşağı inmesine benzer bir hassasiyetle inşa edilmiştir. Chichén Itzá'nın güzelliğinin tadını çıkardıktan sonra, Playa del Carmen'e üç saatlik bir otobüs yolculuğumuz olacak."
+      },
+      {
+        "dayNumber": 19,
+        "title": "Flores",
+        "description": "Belize'ye hoşça kal diyerek Guatemala'ya büyüleyici bir ada kasabası olan Flores'a geçiyoruz. Belize'den ayrılırken 40 BZD'lik küçük bir ücret ödemeniz gerekecektir ve Guatemala'ya varışta da 10GTQ tutarında küçük bir ödeme yapılması gerekmektedir. Flores, İspanyollar tarafından fethedilen ve Peten Itzá Gölü'nün merkezinde bulunan son şehirdir. Flores yolunda, nefes kesen Maya bölgesi olan Tikal'de duruyoruz, Maya dünyasının en büyük şehri olarak kabul edilir ve ormanın derinliklerinde yer alır. Bu kompleks, keşfedilen en büyük Maya sitelerinden biridir ve bilgili yerel rehberimiz ile bölgenin florasını, faunasını ve şaşırtıcı Maya tarihini keşfetmek ve öğrenmek için gün içinde bolca zamanınız olacak."
+      },
+      {
+        "dayNumber": 20,
+        "title": "Rio Dulce",
+        "description": "Suyun içinde kurulan kabinlerde konaklayabileceğiniz, nehir kenarındaki Rio Dulce kasabasına doğru yola çıkıyoruz. Öğleden sonra Livingston'a giden 23 kilometrelik suyolu boyunca yapılan tekne turu, Guatemala'nın en doğal alanlarından birini deneyimlemenize olanak tanır. Livingston, Rio Dulce'nin ağzında, Amatique Koyu'na katılan ve Garifuna halkının yaşadığı yerdedir. Bu canlı küçük kasaba, Guatemala'nın geri kalanından farklı bir Karayip atmosferine sahiptir ve lezzetli yerel spesiyal tapalardan denemek (deniz ürünlerinden yapılan hindistan cevizi çorbası) ve yerel Afrika tarzı punta müziğini dinlemek için harika bir yerdir."
+      },
+      {
+        "dayNumber": 21,
+        "title": "Antigua",
+        "description": "UNESCO Dünya Mirası Alanı olan Antigua, Orta Amerika'daki en keyifli sömürge kasabalarından biridir. Yerli halk, rengârenk kıyafetleriyle şehrin taş sokaklarında ve meydanlarında, el sanatları ve tekstil ürünlerini satıyor. Guatemala'nın kültür merkezi olan Antigua, ülkenin geleneksel müziğini, mimarisini ve sanatını deneyimlemek için ideal bir yerdir. Süslü kiliselerle, manastırlarla, parklarla, plazalarla, kafelerle, restoranlarla, barlarla ve renkli sokak pazarlarıyla zengin ve hayranlık uyandıran volkanlarla çevrili Antigua, asla unutamayacağınız bir yerdir."
+      },
+      {
+        "dayNumber": 23,
+        "title": "Chichicastenango & Panajachel",
+        "description": "Kahvaltıdan sonra Antigua'dan ayrılacak ve Guatemala'nın en ünlü pazar kasabası Chichicastenango'ya gideceğiz. Bu köyün nüfusu yaklaşık Pazar günü 1000 ila 20.000 üzerinde. Yerli halk, çoğunlukla K'iche '(Quiché) Maya halkının torunları, mutfak kaplarından ve tavalardan canlı hindilere kadar her şeyi satmak için yakındaki tepelerden iniyorlar! El sanatları, çantalar, jumperlar ve duvar askıları burada bulunan ucuz mallardan sadece birkaçı. Biraz öğle yemeği yedikten sonra, devasa bir volkanik kraterde su kütlesi olan Atitlan Gölü'ne doğru devam edeceğiz. Sarp, yeşil tepelerle çevrili, Maya köyleri ve çarpıcı sivri konileri olan volkanları ile bilinir. Satıcıların geleneksel tekstil, seramik ve çok daha fazlasını sattıkları yoğun Panajachel köyünde kalacağız."
+      },
+      {
+        "dayNumber": 24,
+        "title": "Panajachel & Lake Atitlan",
+        "description": "Sonraki iki gün, boş zamanlarınızda Panajachel kasabasında dinlenmek veya çeşitli isteğe bağlı geziler arasından seçim yapmak için ücretsizdir. Burada, çevredeki birçok köyden bazılarına tekne turu yapabilir veya muhtemelen gölde yüzmeye gidebilirsiniz. Panajachel'de göl kenarında günbatımı içecekleri içebileceğiniz ana caddeyi kaplayan birçok restoran ve ilginç bar bulunmaktadır."
+      },
+      {
+        "dayNumber": 26,
+        "title": "Quetzaltenango",
+        "description": "Quetzaltenango kasabasına doğru devam edeceğiz. Aktif Santiaguito lav kubbesi ile yükselen Santa Maria da dahil olmak üzere bir yanardağ fonu ile çerçevelenmiştir. Şehir, La Casa de Cultura ve Belediye Tiyatrosu gibi neoklasik binalarıyla bilinir. Quetzaltenango'dan kaplıcalar ve her yetenek için yanardağ yürüyüşleri de dahil olmak üzere birçok harika gezi bulacaksınız."
+      },
+      {
+        "dayNumber": 28,
+        "title": "Antigua",
+        "description": ""
+      },
+      {
+        "dayNumber": 29,
+        "title": "Copán Ruinas",
+        "description": "Bugün Guatemala’dan ayrılıyoruz ve burada yaklaşık 10 GTQ’lık çıkış vergisi ödemek zorundayız. Daha sonra, Honduras'a büyüleyici Copán kasabasına doğru uzun bir otobüs yolculuğuna çıkıyoruz. Lütfen dikkat: Ayrıca 3 USD'lik küçük bir giriş ücreti ödemeniz gerekecektir. Köye yürüme mesafesinde, tüm antik Maya siteleri arasında en iyi korunan ve en merak uyandırıcı olan Copán kalıntıları bulunmaktadır. Rehberli turunuzda, bir zamanlar görkemli ve etkileyici bir yer olan şehrin 16 kralını tasvir eden incelikle oyulmuş dikili taşları (oymalar/heykeller), muhteşem merdivenleri, top kortları ve muazzam ana meydanlarını göreceksiniz."
+      },
+      {
+        "dayNumber": 31,
+        "title": "Tela",
+        "description": ""
+      },
+      {
+        "dayNumber": 32,
+        "title": "Roatán Island",
+        "description": "Bugün Roatán'a gidiyoruz. Bu, mis gibi güneşin battığı güzel Karayip Adaları’nın en büyüğüdür. Adada geliştirilmesi gereken çok şey var, ama aynı zamanda sıcak Karayip sularıyla ıslanmış ıssız bir sahil bulmak kolay. Dünyanın en ucuz dalış ve şnorkelle yüzme aktivitelerinin bulunduğu bu yerde palmiyelerle dolu lagünler, turkuaz sular, dost canlısı yerler, canlı gece hayatı ve muhteşem su altı manzaraları bulacaksınız! Gerçekten unutulmaz bir deneyim olan yunuslarla yüzmeyi ya da bir gün batımı gezisi (isteğe bağlı) ile gerçek Karayip ruhuna erişmeyi seçebilirsiniz."
+      },
+      {
+        "dayNumber": 35,
+        "title": "San José",
+        "description": "Kosta Rika’nın başkenti San Jose kahve ve şeker kamışı çiftlikleri arasında verimli bir vadide yer almaktadır. Depremlerden dolayı sömürgecilik dönemi mimarisinden pek bir şey kalmamıştır geriye. Fakat 1897’de inşa edilen Ulusal Tiyatro kesinlikle görülmeye değer. Belki buradayken bir performansa denk gelecek kadar şanslısınızdır. Altın Müzesi, Jade Müzesi ve Ulusal Müzeler de yine ziyaret etmek için kesinlikle önerilir."
+      },
+      {
+        "dayNumber": 37,
+        "title": "Manuel Antonio",
+        "description": "Orta Vadi’den Pasifik kıyısına, gür yeşilliklerle kaplı kırsallardan geçerek ülkedeki en ünlü parklardan biri olan Manuel Antonio Milli Parkı’nı görmek için küçük bir köy olan Manuel Antonio’ya gidiyoruz. Bu ünlü park, güzel lagünler, palmiyelerle kaplı plajlar, çok sayıda hayvan ve yemyeşil ormanlarla kutsanmıştır. Manuel Antonio Ulusal Parkı'na ev sahipliği yapan birçok canlı arasında yakalı tembel hayvanlar, pelikanlar, beyaz yüzlü maymunlar, antiloplar ve devasa iguanalar bulunur. Aynı zamanda plajları ile de ünlüdür - maymunların ve rakunların hırsızlıklarından korunmak istiyorsanız eşyalarınıza sahip çıkın!"
+      },
+      {
+        "dayNumber": 39,
+        "title": "Santa Elena",
+        "description": "Bir zamanlar muz ihracatı için çok önemli bir liman olan eski Quepos kasabasına gidiyoruz. Daha sonra, Pasifik Okyanusu'na ulaşmamız için düzleşecek olan yemyeşil tepelerin muhteşem manzarasına tanık olacağımız dik ve engebeli bir dağ yoluna çıkıyoruz. Bulutlara erişen ve 1950'lerde Amerikan Quaker'ları tarafından kurulan küçük Santa Elena kasabasına varıyoruz."
+      },
+      {
+        "dayNumber": 41,
+        "title": "La Fortuna",
+        "description": "Bir sonraki yolculuğumuz, minibüs ve botların bir kombinasyonunun kullanılmasıyla bizi bulut ormanının dağlarından götürüyor. Arenal Gölü'nün ilk ayağı yaklaşık 1 saat 30 dakika sürüyor ve manzara gerçekten muhteşem. Dönüp duran tepeler en sonunda Arenal Volkanı'nın uzak manzaralarına yol açıyor ve kimi yerlerde fotoğraf çekimi için durabiliriz. Yolun kenarında son kez durduğumuzda, bir toprak yoldan aşağı inerek Arenal Gölü kıyısındaki teknemize ulaşıyoruz. Manzara gölden gerçekten inanılmaz ve yaklaşık bir saat boyunca yavaş yavaş Arenal Volkanı'na yaklaşıyoruz. Diğer tarafa vardığımızda, başka bir minibüse binip 30 dakikalık bir seyahatle La Fortuna'ya varıyoruz."
+      },
+      {
+        "dayNumber": 43,
+        "title": "San José",
+        "description": "Daha sonra başka bir gece için San Jose'ye dönüyoruz. Akşamları, özellikle hafta sonu buradaysanız, dünya standartları düzeyindeki restoranlarda yemek yiyebilir ve harika gece hayatına dalabilirsiniz."
+      },
+      {
+        "dayNumber": 44,
+        "title": "Bocas del Toro",
+        "description": "Kosta Rika'dan ayrılıp otobüsle Panama'ya gidiyoruz. ? TL çıkış vergisi ve Panama’ya varışta da ? TL giriş ücreti ödemek zorundayız. Botumuza atlayarak onlarca su sporu seçeneğimizin olacağı Bocas del Toro'ya gidiyoruz. Bocas del Toro takımadaları ziyaretçilere çok çeşitli cazibeler ve doğal ortamlar sunuyor; fauna ve flora bolluğundaki lüks yağmur ormanları. Bu güneşli adalarda Karayiplerin en iyileriyle yarışan plajlar, mercan kayalıkları ve kristal berrak sular var. Boş zamanlarınızda Bocas del Toro'nun tadını çıkarmak için iki gününüz var. Dalış, şnorkelli yüzme ve kano gezileri, ve yakındaki Mangrove Ormanı'na bisiklet kiralama ve tekne gezileri gibi seçenekler vardır."
+      },
+      {
+        "dayNumber": 46,
+        "title": "Boquete",
+        "description": "Sonra yaylalara ve büyüleyici dağ köyü Boquete'ye gidiyoruz. Volcan Barú'nun doğu yamaçlarında yer alan Boquete, soğuk iklimlerde güneşlenmek ve mükemmel manzaralara eşlik etmek isteyenler için gittikçe popüler bir yer haline geliyor. Boquete'nin tüm Panama'daki en tatlı portakalları ve en zengin kahvelerden bazılarını ürettiği biliniyor; çünkü çevredeki tepeler ve eğimler sürdürülebilir tarım uygulamalarıyla bilinen alacalı kahve tarlaları ile kaplı. Bu çiftlikler, dünyaca ünlüdür ve dağın daha yüksek kısımlarındaki bulut ormanlarında yaşayan kuşlarla aynı sayıda kuşa ev sahipliği yapar."
+      },
+      {
+        "dayNumber": 48,
+        "title": "Panama City",
+        "description": "Bugün, Panama şehrine kısa bir uçuş uzaklığındaki David'e gidiyoruz. Panama City, Güney Amerika'ya geçiş noktası ve kesinlikle görülmeye değer olan ünlü Panama Kanalı'na ev sahipliği yapıyor. Panama Kanalı Geçişinde bir yer ayırtma seçeneğiniz var, böylece tekne ile ünlü suyolunu gezebilirsiniz. Zaman kısıtlaması nedeniyle bu gezi ile aynı günlerde Panama'dan yapılacak herhangi bir seyahat için rezervasyon yaptırmamanız gerektiğini lütfen unutmayın."
+      },
+      {
+        "dayNumber": 49,
+        "title": "Panama’dan Ayrılış",
+        "description": "Hayatınızın macerası bugün sona eriyor. Geç bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "country": "Meksika"
+  },
+  {
+    "destination": "Meksika",
+    "mainPhoto": "",
+    "id": "YMA",
+    "tourName": "Mexico City’ den Antigua’ ya",
+    "placesVisited": "Meksika, Belize, Guatemala",
+    "generalInfo": "Meksika ve Orta Amerika’ dan devam eden bu tur Meksika,  Belize ve Guatemala’ nın farklı kültürlerini deneyimleme şansı sunuyor.  Toplu taşıma araçlarında yerel insanlarla İspanyolca konuşun,  yerel pazarlardaki esnaflarla ticaret yapın ve antik Maya halkının torunlarının yaşadığı dost köyleri ziyaret edin.  Geçmişe doğru şöyle bir uzanmak ve modern şehirlerin atmosferinin tadını çıkarmak için Teotihuacan,  Monte Alban,  Chichén Itzá,  Palenque ve Tikal tapınaklarını ziyaret edin.<br><br><strong>En Yakın Uluslararası Havaalanına (geliş):</strong> Mexico City Benito Juarez Uluslararası Havalimanı (MEX)<br><br><strong>En Yakın Uluslararası Havaalanı (gidiş):</strong> Guatemala City La Aurora Uluslararası Havalimanı (GUA)",
+    "durationDays": "22",
+    "price": "1579",
+    "image1": "siempretour-images/YMA/yma_2019_10_27_22_50_46_0.jpg",
+    "image2": "siempretour-images/YMA/yma_2019_10_27_22_50_46_1.jpg",
+    "image3": "siempretour-images/YMA/yma_2019_10_27_22_50_46_2.jpg",
+    "image4": "siempretour-images/YMA/yma_2019_10_27_22_50_46_3.jpg",
+    "image5": "siempretour-images/YMA/yma_antigua.jpg",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "19",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler ve aktiviteler: </strong></p>\n<ul>\n<li>- Rehberli Teotihuacan antik şehri turu</li>\n<li>- Rehberli Monte Albán harabeleri turu</li>\n<li>- San Cristóbal köy turu</li>\n<li>- Rehberli Palenque turu</li>\n<li>- Rehberli Chichén Itzá turu</li>\n<li>- Caye Caulker</li>\n<li>- Rehberli Tikal kalıntıları turu</li>\n<li>- LivingstonE’ da Rio Dulce bot turu</li>\n</ul>\n<p><strong>Konaklama:</strong> </p>\n<p>Otellerde 20 gece,  1 gece yataklı otobüs</p>\n<p><strong>Taşıma:</strong> </p>\n<p>Toplu taşıma,  bot,  özel araç</p>\n<p><strong>Yemekler:</strong> </p>\n<p>7 kahvaltı,  2 yerel kahvaltı,  2 açık büfe kahvaltı,  2 atıştırmalık kahvaltı,  1 kahvaltı box</p>\n<p><strong>Diğerleri:</strong> </p>\n<p>Siempre Tour tur lideri</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Mexico City' e Varış",
+        "description": "Mexico City,  20 milyondan fazla nüfusuyla dünyanın en kalabalık şehridir.  1521’ de İspanyollar tarafından kurulan Meksika’ nın başkenti,  deniz seviyesinden 2309 metre yükseklikte ve antik Aztek başkenti olan Tenochtitlan’ ın yerine inşa edilmiştir.  Kapsamlı metro sistemi ve tramvay ve otobüsler etrafta dolaşmayı kolaylaştırır.  Ve burada görülecek ve yapılacak çok şeyin olduğunu da hatırlatalım."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Puebla",
+        "description": "Puebla’ ya gitmeden önce Mexico City’ den rehberli turun keyfini çıkarabileceğimiz Teotihuacan antik şehrine kısa bir otobüs yolculuk yapacağız.  Burada,  M. Ö.  300 yıllarında,  zamanın sislerinde kaybolan bir medeniyetin inşa ettiği muhteşem ve terk edilmiş bir şehirle karşılaşacaksınız.  Tarihi kompleks,  the Street of the Dead,  saraylar,  eski tapınaklar ve Plaza of the Sun’ la birbirine bağlanan Pyramids of the Sun and the Moon,  the Ciudadela gibi tören piramitlerinin büyüleyici bir bileşimidir.  Binalar frizler ve diğer süslü sanat eserleri ile dekore edilmiştir.  Mexico City’ ye geri dönerek iki saatlik rahat bir otobüs yolculuğuyla Puebla’ ya geliyoruz.  Puebla’ da İspanyol kolonyal mimarisine hayran olabilir ve çikolata,  tarçın ve fındık içeren zengin bir baharatlı sos olan poblano’ yu deneyebilirsiniz."
+      },
+      {
+        "dayNumber": 3,
+        "title": "Oaxaca",
+        "description": "Listemizde sıradaki yer olan Oaxaca (wa-ha-ka diye telaffuz edilen) dağlar ve gür ormanlarla çevrili güzel bir şehirdir.  Yemek yiyebileceğiniz,  bir şeyler içebileceğiniz ve dünyayı seyredebileceğiniz çok hoş bir yer olan Plaza de la Constitución buradadır.  Otobüs terminaline gitmek için taksilere bindikten sonra,  Oaxaca’ ya first class şeklinde 4-5 saatlik bir yolculuk yapacağız.  Lezzetli sokak yemeklerini tadın ve bu çekici kasabadaki renkli kolonyal binalara hayranlıkla bakın."
+      },
+      {
+        "dayNumber": 4,
+        "title": "San Cristobal’ a Gece Otobüsü",
+        "description": "Oaxaca’ dan,  Oaxaca vadisinin 400 metre yukarısındaki antik Zapoteklerin kutsal şehri Monte Albán’ ya rehberli bir gezi düzenleyeceğiz.  Pek çok mezar,  tören sunakları,  tüneller,  piramitler ve saraylar,  birçok kabartma,  resimler ve karmaşık oymalar ile dekore edilmiş Grand Plaza çevresinde keşfedilesi birçok yapı var.  Oaxaca’ nın güzelliklerinden sonra San Cristobal de las Casas’ a gece yolculuğu yapıyoruz."
+      },
+      {
+        "dayNumber": 5,
+        "title": "San Cristobal",
+        "description": "Dağlık Chiapas bölgesine doğru yükselen büyüleyici San Cristobal de las Casas kentine varıyoruz.  Yaylaların ortasında farklı dilleri,  elbiseleri ve gelenekleriyle 21 yerli köyle çevrili olan bölgede Meksika’ nın en zengin yerli kültürünü bulacaksınız.  Şehrin geneline hâkim olan parlak renklerle boyanmış kırmızı kiremitli evler insanı o kadar cezbediyor ki! Amber Müzesi,  Kahve Müzesi,  Maya Tıp Müzesi ve ‘ Na Bolom’  Kültür Merkezi gibi görülesi çok sayıda ilginç müze var."
+      },
+      {
+        "dayNumber": 8,
+        "title": "Palenque",
+        "description": "Ardından Palenque’ ye uzun ve manzaralı bir otobüs yolculuğu yapacağız.  Ünlü Lord Pakal ve Kızıl Kraliçe’ nin onuruna zenginliklerle doldurulmuş mezarlarla tanınan Palenque kalıntılarına ve kasabaya yapacağımız dokuz saatlik yolculukta güzel manzaralarla karşılaşacaksınız.  Bu arkeolojik site,  nemli ormanlarla çevrili bir dizi yüksek tapınak,  kule,  mezar ve piramitlerle 200’ den fazla yapıya ev sahipliği yapmaktadır.  Kökleri klasik döneme kadar giden en önemli yapılar (MS 400-700) Yazıtlar Tapınağı,  Crypt,  Saray Kompleksi,  Haç Tapınağı,  Foliated Haç Tapınağı ve Güneş Tapınağı’ dır.  Süslü frizler,  heykeller ve yazıtlarla dekore edilmiş Palenque,  tartışmasız en önemli Maya arkeolojik alanlarından biridir.  Ormanın içinden geçen yollar çeşitli tapınaklara ve zamanla kayalarda garip figürler oluşturan muhteşem şelalelere yol açmaktadır.  Yerel bir rehber ormandaki kazısı yapılmamış kalıntıları görebileceğiniz bir orman yürüyüşüne çıkarmak için size ekstra bir seçenek sunabilir."
+      },
+      {
+        "dayNumber": 10,
+        "title": "Merida",
+        "description": "Bugün Palenque’ den Merida’ ya giderken otobüslerde tam bir gün geçiriyoruz.  Otobüs terminaline kısa bir yürüyüşten sonra,  birinci sınıf bir otobüse bineceğiz ve yolculuk tüm gün sürecektir.  Yucatan eyaletinin başkenti olan Mérida ‘ beyaz şehir’,  sömürge binaları,  kiliseler ve plazaların hoş bir karışımından oluşmaktadır.  Pazarlar güzel dokuma ürünleri,  hamaklar ve batiklerle dolup taşmaktadır ki bu da burayı el sanatları ve hediyelik eşyalar satın almak için harika bir yer yapmaktadır.  Geceleri şehir tiyatro ve konserlerle canlanıyor.  Büyük şehir bölgesini keşfe çıkan kapsamlı bir hop on / hop off otobüs turundan El Centro ve Pasaje Montejo Bulvarı’ ndaki Arnavut kaldırımlı sokaklarda rahatlatıcı bir at arabası turuna kadar çok sayıda şehir turları sunulmaktadır.  Mérida yakınlarını keşfetmek isterseniz büyük flamingo nüfusuyla ünlü küçük bir balıkçı kasabası olan Celestún’ u ziyaret edebilirsiniz.  Yucatan yarımadasının tamamını kapsayacak şekilde,  antik Mayalar için kutsal bir yer olarak atfedilen,  muhteşem kalker mağaraları ve derin su altı nehirleri ile bağlantılı yerel ‘ cenotes’  (sen-o-tays),  tatlı su yüzme deliklerinde yüzebilirsiniz."
+      },
+      {
+        "dayNumber": 12,
+        "title": "Playa del Carmen",
+        "description": "Playa del Carmen’ e gitmeden önce,  yakın zamanda Dünya’ nın Yeni Yedi Harikasından biri olarak kabul edilen etkileyici bir Maya / Toltec sitesi olan Chichén Itzá’ ya gidiyoruz.  MS 7.  ve 10.  yüzyıl arasında inşa edilen Chichén Itzá,  1000 yılı aşkın bir süredir Maya için haç merkezidir.  En dikkat çekici yer tüylü yılan tanrısı Kukulkan’ a ithaf edilen büyük Kukulkan Piramidi’ dir ve bir yılan gölgesinin ekinoks sırasında basamaklardan aşağı inmesine benzer bir hassasiyetle inşa edilmiştir.  Chichén Itzá’ nın güzelliğinin tadını çıkardıktan sonra,  Playa del Carmen’ e üç saatlik bir otobüs yolculuğumuz olacak."
+      },
+      {
+        "dayNumber": 14,
+        "title": "Caye Caulker",
+        "description": "Playa del Carmen’ de kahvaltımızdan sonra kısa bir yürüyüş yaparak terminale ulaşıyoruz.   Otobüs,  taksi ve feribot kombinasyonuyla tam gün olacak şekilde güzel Belize’ ye geçiyoruz.  Meksika’ dan ayrılırken yaklaşık 533 Meksika Pesosu tutarında küçük bir kalkış ücreti ödemeniz gerekecektir.  Belizeliler nasıl dinleneceklerini iyi bilirler ve umarım yerel halkın rahatlama konusundaki uzmanlığı Caye Caulker’ de geçireceğiniz süre zarfında size de bulaşır.  Öyle olmasa da,  size \"Yavaş git\",  \"Sakin\" ve hatta \"Gömlek yok,  ayakkabı yok,  sorun yok\" diye hatırlatmak için işaretler mevcut.  Kumla dolu sokaklarda dolaşmak için ayakkabılarınızı kenara atacağınız Caye Caulker’ de akşamları deniz mahsulleri yiyerek,  kokteyllerden yudumlayarak ve barlarda reggae müzik dinleyerek birkaç gece geçireceğiz."
+      },
+      {
+        "dayNumber": 17,
+        "title": "San Ignacio",
+        "description": "Yerel halk tarafından \"Cayo\" olarak anılan San Ignacio’ ya devam ediyoruz,  bu tarım merkezi de Belize’ nin ‘ macera’  ve ‘ doğa’  başkenti olarak biliniyor.  Çevredeki orman,  vahşi yaşam,  şelaleler,  nehirler ve mağaralar,  nehir aşağı kanoculuktan ve mağaralara dalış yapmaktan el değmemiş Maya törenlerini ve adak kalıntılarını buldukları ünlü Actun Tunichil Muknal mağaralarını ziyaret etmeye kadar çeşitli alternatif turlar için ideal bir yerdir."
+      },
+      {
+        "dayNumber": 19,
+        "title": "Floras",
+        "description": "Belize’ ye hoşça kal diyerek Guatemala’ ya büyüleyici bir ada kasabası olan Flores’ a geçiyoruz.  Belize’ den ayrılırken 40 BZD’ lik küçük bir ücret ödemeniz gerekecektir ve Guatemala’ ya varışta 10GTQ tutarında küçük bir ödeme yapılması gerekmektedir.  Flores,  İspanyollar tarafından fethedilen ve Peten Itzá Gölü’ nün merkezinde bulunan son şehirdir.  Flores yolunda,  nefes kesen Maya bölgesi olan Tikal’ de duruyoruz,  Maya dünyasının en büyük şehri olarak kabul edilir ve ormanın derinliklerinde yer alır.  Bu kompleks,  keşfedilen en büyük Maya sitelerinden biridir ve bilgili yerel rehberimiz ile bölgenin florasını,  faunasını ve şaşırtıcı Maya tarihini keşfetmek ve öğrenmek için gün içinde bolca zamanınız olacak."
+      },
+      {
+        "dayNumber": 20,
+        "title": "Rio Dulce",
+        "description": "Suyun içinde kurulan kabinlerde konaklayabileceğiniz,  nehir kenarındaki Rio Dulce kasabasına doğru yola çıkıyoruz.  Öğleden sonra Livingstone’ a giden 23 kilometrelik suyolu boyunca yapılan tekne turu,  Guatemala’ nın en doğal alanlarından birini deneyimlemenize olanak tanır.  Livingstone,  Rio Dulce’ nin ağzında,  Amatique Koyu’ na katılan ve Garifuna halkının yaşadığı yerdedir.  Bu canlı küçük kasaba,  Guatemala’ nın geri kalanından farklı bir Karayip atmosferine sahiptir ve lezzetli yerel spesiyal tapalardan denemek (deniz ürünlerinden yapılan Hindistan cevizi çorbası) ve yerel Afrika tarzı punta müziğini dinlemek için harika bir yerdir."
+      },
+      {
+        "dayNumber": 21,
+        "title": "Antiqua",
+        "description": "UNESCO Dünya Mirası Alanı olan Antigua,  Orta Amerika’ daki en keyifli sömürge kasabalarından biridir.  Bu güzel kasabayı iyice keşfetmek istiyorsanız turun sonunda konaklama önerebiliriz."
+      },
+      {
+        "dayNumber": 22,
+        "title": "Antiqua' dan Ayrılış",
+        "description": "Hayatınızın macerası bugün sona eriyor.  Geç bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "country": "Meksika"
+  },
+  {
+    "destination": "Meksika",
+    "mainPhoto": "",
+    "id": "TMMM",
+    "tourName": "Mexico City’ den Cancun’ a",
+    "placesVisited": "Meksika",
+    "generalInfo": "Bu enerjik tur, Meksika’ nın sunabileceği en büyülü manzaraların ve seslerin bir kısmını içermektedir.  Nefis yemeklerin tadına bakın, gece boyunca dans edin ve bir ömürlük bu turda Maya harabelerini keşfedin.<br><br><strong>Lütfen dikkat:</strong> Bu örnek bir güzergahtır ve kendi kişisel gereksinimlerinize ve bütçenize uyarlanabilir.",
+    "durationDays": "11",
+    "price": "2379",
+    "image1": "siempretour-images/TMMM/tmmm_2019_10_22_05_33_45_0.jpg",
+    "image2": "siempretour-images/TMMM/tmmm_2019_10_22_05_33_45_1.jpg",
+    "image3": "siempretour-images/TMMM/tmmm_2019_10_22_05_33_45_2.jpg",
+    "image4": "siempretour-images/TMMM/tmmm_2019_10_22_05_33_45_3.jpg",
+    "image5": "siempretour-images/TMMM/tmmm_2019_10_22_05_33_45_4.jpg",
+    "image6": "siempretour-images/TMMM/tmmm_2019_10_22_05_33_45_5.jpg",
+    "imagealt": "",
+    "personNumber": "19",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler ve aktiviteler: </strong></p>\n<ul>\n<li>- Mexico City ve Teotihuacan turu</li>\n<li>- Puebla turu</li>\n<li>- Mitla turu</li>\n<li>-  Sumidero Kanyonu boyunca tekne turu</li>\n<li>- San Cristobal de las Casas turu</li>\n<li>- Agua Azul Waterfalls</li>\n<li>- Palenque turu</li>\n<li>- Campeche oryantasyon turu</li>\n<li>- Uxmal turu</li>\n<li>- Merida oryantasyon yürüyüşü</li>\n<li>- Chichén Itzá turu</li>\n</ul>\n<p><strong>Konaklama:</strong> </p>\n<p>Otellerde 10 gece</p>\n<p><strong>Taşıma:</strong> </p>\n<p>Özel araç</p>\n<p><strong>Yemekler:</strong> </p>\n<p>10 kahvaltı</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Mexico City' e Varış",
+        "description": "Mexico City’ deki uluslararası havalimanına vardığınızda, şoförünüz sizi alacak ve özel araçla otelinize transfer edileceksiniz.  Check-in yaptıktan sonra günün geri kalanı serbest zaman, çünkü turunuzun ilk günü önceden organize edilmiş aktiviteleri olmayan bir gündür."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Mexico City ve Teotihuacan",
+        "description": "Bu sabah özel rehberinizle buluşacak ve günü Mexico City ve yakınlardaki arkeolojik Teotihuacan bölgesini keşfederek geçireceksiniz.  Muhteşem bir Latin-Barok tarzı cephesi ile Mexico City’ nin ana katedrali olan etkileyici Catedral  Sagrario Metropolitano’ yu bulabileceğiniz ana meydan iyi bir başlangıç ​​noktası olacaktır.  Muazzam Zocalo, Montezuma I zamanındaki Aztec yönetiminden bu yana şehrin kalbi olmuştur.  Bu alan bir zamanlar saraylar ve tapınaklar tarafından çevrilmiştir ve şimdi dünyanın ikinci büyük meydanıdır.  Meksika’ nın tarihi, kültürü ve insanı hakkında bir fikir edinecek, Templo Belediye Başkanı ve ülkenin en ünlü sanatçılarından biri olan Diego Riviera’ nın bağımsızlık mücadelesini tasvir eden duvar resimlerini görebileceğiniz Ulusal Saray gibi önemli yerleri ziyaret edeceksiniz."
+      },
+      {
+        "dayNumber": 3,
+        "title": "Puebla ve Oaxaca",
+        "description": "Bu sabah özel rehberinizle buluşacak ve Oaxaca’ ya doğru yola çıkacaksınız.  Pico de Orizaba olarak da bilinen Popocatepetl, Iztaccihuatl, Malinche ve Citlaltepetl gibi Meksika’ nın en tanınmış dört yanardağının dört bir yanında yer alan koloni şehri Puebla’ yı ziyaret edebilirsiniz.  Puebla’ nın tarihi merkezi UNESCO Dünya Mirası listesindedir ve burada 70’ den fazla kilise ve 1000 adet koloni binası bulunmaktadır.  Rehberinizle Zocalo, Katedral ve Tesbih Şapeli’ ni ziyaret edeceksiniz."
+      },
+      {
+        "dayNumber": 4,
+        "title": "Monte Alban ve Mitla",
+        "description": "Bu sabah özel rehberinizle buluşacak ve Zapotekan halkının bir tepeye inşa edilen dini başkenti Monte Alban’ a seyahat edeceksiniz.  Burası piramitler ve mezarlar bakımından zengindir ve panoramik bir manzara sunar.  Kalıntılar, Oaxaca’ nın merkez vadisinde, deniz seviyesinden 1600 metre yükseklikte birleşen üç dağ sırasının doruklarına uzanmaktadır."
+      },
+      {
+        "dayNumber": 5,
+        "title": "Sumidero Canyon",
+        "description": "Bugünkü seyahat oldukça uzun sürecek ve sabahın erken saatlerinde başkent Chiapa de Corzo yönünde Chiapas Eyaleti için yola çıkacaksınız.  Yol boyunca yerel tekne ile seyahat edilen etkileyici Sumidero Kanyonunu ziyaret edeceksiniz.  Kanyon milli park ile çevrilidir ve 1000 metre yüksekliğe kadar dikey duvarlara sahiptir.  Grijalva Vadisi’ nin daha sıcak ormanlarına ve daha çok ormanımsı bölgelerine ulaşacaksınız ve buralarda yükselen şelalelerin altından geçecek ve hatta nehir kenarlarında güneşlenen timsahlara bile rastlayabileceksiniz."
+      },
+      {
+        "dayNumber": 6,
+        "title": "San Cristobal de las Casas",
+        "description": "San Cristobal de las Casas, farklı dilleri, elbiseleri ve gelenekleri olan 21 yerli köyüyle çevrilidir.  Şehre parlak renklerle boyanmış kırmızı kiremitli evler hâkimdir.  Bugün San Cristobal’ a birkaç kilometre uzaklıktaki San Juan Chamula ve Zinacantan’ ın yerli topluluklarını ziyaret edeceksiniz."
+      },
+      {
+        "dayNumber": 7,
+        "title": "Agua Azul Waterfalls",
+        "description": "Bugün, Chiapas Dağları’ ndan inecek, en yeşil vadilere, Palenque ormanlarına kadar uzanacaksınız.  Yol boyunca temiz, turkuaz sularda yüzerek serinleyeceğiniz güzel Agua Azul şelalelerini ziyaret edeceksiniz.  Palenque’ ye varışta, otelinize uğradıktan sonra günün geri kalanı serbest zamandır."
+      },
+      {
+        "dayNumber": 8,
+        "title": "Palenque and Campeche",
+        "description": "Tüm sabah, hala tropikal ormanlarda gizlenmiş olan muhteşem arkeolojik Palenque bölgesine yapılacak rehberli bir geziyle geçirilecektir.  Rehberinizle, burada bulunan büyüleyici piramitleri ve tapınakları keşfedeceksiniz ve Palenque hanedanlığının yükselişini ve düşüşünü öğreneceksiniz.  Maya sitelerinin en büyüğü olmasa da, Palenque birçok kişinin favorisidir.  Özellikle süslü ve iyi korunmuş “Çan Kulesi” mimarisi oldukça ileri düzeydedir ve yazıtları ve duvar resimleri Maya dünyasının en iyilerindendir."
+      },
+      {
+        "dayNumber": 9,
+        "title": "Uxmal ve Merida",
+        "description": "Bugün, sömürge binalarından dolayı “beyaz şehir” olarak da bilinen Yucatán Devletinin başkenti Merida’ ya gideceksiniz.  Yolculuğunuzda Maya kültürünün en önemli yerlerinden biri olan Uxmal’ ın arkeolojik bölgesini ziyaret edeceksiniz.  Uxmal bir zamanlar önemli bir Maya ticaret bölgesiydi ve şimdi Yucatan’ daki en iyi restore edilmiş harabelerden biridir."
+      },
+      {
+        "dayNumber": 10,
+        "title": "Chichen Itza and Cancun",
+        "description": "Bugün Meksika’ daki son noktanız olan Cancun’ a doğru yola çıkacaksınız.  Yol boyunca Chichén Itzá arkeolojik sitesini ziyaret edeceksiniz.  Bu muazzam kompleks, Maya tarihinin iki farklı dönemini temsil eden 300 hektarlık bir alana sahiptir: biri tamamen Maya kültürünün etkisi altındadır ve diğeriyse mimarisine ve heykeline yansıyan Toltec etkisine sahiptir.  Rehberinizle Kukulkán Piramidi, Kale, Top Oyunu, Kaplanlar Tapınağı, Kutsal Cenote, Rahibeler Binası ve Savaşçılar Tapınağı’ nı ziyaret edeceksiniz."
+      },
+      {
+        "dayNumber": 11,
+        "title": "Cancun' dan Ayrılış",
+        "description": "Hayatınızın macerası bugün sona eriyor.  Geç bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "country": "Meksika"
+  },
+  {
+    "destination": "Meksika",
+    "mainPhoto": "",
+    "id": "TMMX",
+    "tourName": "Mexico City’ den Mexico City’ e",
+    "placesVisited": "Meksika",
+    "generalInfo": "Meksika'nın önemli noktalarına yapılacak olan bu kasırga tadındaki macera turu duyularınızı harekete geçirecek.  Teotihuacan'ın gizemlerini ortaya çıkaracak,  Oaxaca'da lezzetli tatları deneyecek ve San Cristobal de las Casas'ın enfes cazibesini keşfedeceksiniz.<br><br><strong>Lütfen dikkat:</strong> Bu örnek bir güzergahtır ve kendi kişisel gereksinimlerinize ve bütçenize uyarlanabilir.",
+    "durationDays": "8",
+    "price": "2189",
+    "image1": "siempretour-images/TMMX/tmmx_tmmx_20190501_1461804166.jpg",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "19",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler ve aktiviteler: </strong></p>\n<ul>\n<li>- Mexico City turu</li>\n<li>- Teotihuacan</li>\n<li>- Mitla turu</li>\n<li>- Sumidero Kanyonu</li>\n<li>- Monte Alban ve Oaxaca şehir turu</li>\n</ul>\n<p><strong>Konaklama:</strong>  </p>\n<p>Otellerde 7 gece</p>\n<p><strong>Yemekler:</strong>  </p>\n<p>7 kahvaltı</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Mexico City' e Varış",
+        "description": "Check-in yaptıktan sonra,  gecenin geri kalanı serbest zamandır."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Mexico City ve Teotihuacan",
+        "description": "Sabah şehri gezmeye başlıyoruz.  Plaza de la Constitucion olarak da bilinen “Zocalo” yu keşfedeceksiniz.  Burası,  Azteklerin Montezuma I zamanında yönetilen ve saraylar ve tapınaklarla çevrilmiş olan kentin kalbi olmuştur.  Sadece bu meydanda Büyük Tenochtitlan Tapınağı kalıntılarından Diego Riviera'nın Ulusal Saray duvarlarındaki bağımsızlık mücadelesinin duvar resimlerine kadar Meksika'nın tarihini ve kültürünü anlayabilirsiniz."
+      },
+      {
+        "dayNumber": 3,
+        "title": "Puebla ve Oaxaca",
+        "description": "Bugün güzel koloni şehri Puebla'ya doğru yola çıkacaksınız.  Pico de Orizaba olarak da bilinen Popocatepetl,  Iztaccihuatl,  Malinche ve Citlaltepetl gibi Meksika’nın en tanınmış dört yanardağının dört bir yanında yer almaktadır.  Şehri gezmek için birçok sebep var; muhteşem yöresel yemeklerin tadına bakmak da dâhil.  Puebla'nın nefis yemekleri ünlü poblana sosu ve en nogada chiles gibi mevsimlik lezzetli yemekleri içerir.  Puebla'nın tarihi merkezi,  UNESCO Dünya Mirası listesindedir.  Kuşkusuz bu onurun nedenlerinden biri,  şehrin tarihi koloni binalarını süsleyen son derece çarpıcı olan döşeme çalışmalarıdır.  Elle boyanan Talavera fayansıyla ünlü Puebla,  Arap etkisi altında İspanyollar tarafından başlatılan bir sanat olan süslemeli ve fırınlanmış kil hususunda ustalaşan Yeni İspanya'nın ilk şehri olmuştur.  İspanyol fayans üreticileri Puebla'da ikamet ettiler ve bu güne kadar geçerli olan bir mükemmellik standardı belirlediler.  Şehrin etrafındaki pek çok kiliseyi ve diğer binaları süsleyen çinileri görebilirsiniz."
+      },
+      {
+        "dayNumber": 4,
+        "title": "Monte Alban ve Mitla",
+        "description": "Bu sabah özel rehberinizle buluşacak ve Zapotekan halkının bir tepeye inşa edilen dini başkenti Monte Alban'a seyahat edeceksiniz.  Burası piramitler ve mezarlar bakımından zengindir ve panoramik bir konumdadır.  Kalıntılar,  Oaxaca'nın merkez vadisinde,  deniz seviyesinden 1600 metre yükseklikte birleşen üç dağ sırasının doruklarına uzanmaktadır."
+      },
+      {
+        "dayNumber": 5,
+        "title": "Mitla - Tehuantepec",
+        "description": "Bugün eski bir Mixtec merkezi olan Mitla'dan başlayarak Oaxaca'yı çevreleyen bölgeleri ziyaret edeceksiniz.  San Pablo Mitla'nın ardından İspanyollar tarafından adı konulan Mitla'nın ilginç,  dar ve renkli sokakları,  çok sayıda Mezcal üreticisi ve satıcısının yanı sıra tekstil tüccarlarına da ev sahipliği yapıyor.  Antik Mixtec kalıntılarını görebileceğiniz kiliseyi ve komşu arkeolojik siteyi ziyaret edeceksiniz."
+      },
+      {
+        "dayNumber": 6,
+        "title": "Sumidero Canyon - San Cristobal de las Casas",
+        "description": "Bugün başkent Chiapa de Corzo yönünde Chiapas Eyaleti için yola çıkacaksınız.  Yol boyunca yerel tekne ile seyahat edilen etkileyici Sumidero Kanyonunu ziyaret edeceksiniz.  Kanyon milli park ile çevrilidir ve 1000 metre yüksekliğe kadar dikey duvarlara sahiptir.  Grijalva Vadisi'nin daha sıcak ormanlarına ve daha çok ormanımsı bölgelerine ulaşacaksınız ve buralarda yükselen şelalelerin altından geçecek ve hatta nehir kenarlarında güneşlenen timsahlara bile rastlayabileceksiniz.  Kanyondaki maceradan sonra,  deniz seviyesinden 2000 metre yükseklikte bulunan San Cristobal de las Casas'a kadar devam edeceksiniz."
+      },
+      {
+        "dayNumber": 7,
+        "title": "San Cristobal de las Casas",
+        "description": "San Cristobal de las Casas,  farklı dilleri,  elbiseleri ve gelenekleri olan 21 yerli köyüyle çevrilidir.  Şehre parlak renklerle boyanmış kırmızı kiremitli evler hâkimdir.  Bugün San Cristobal'a birkaç kilometre uzaklıktaki San Juan Chamula ve Zinacantan'ın yerli topluluklarını ziyaret edeceksiniz."
+      },
+      {
+        "dayNumber": 8,
+        "title": "Mexico City’den Ayrılış",
+        "description": ""
+      }
+    ],
+    "map": "",
+    "country": "Meksika"
+  },
+  {
+    "destination": "Meksika",
+    "mainPhoto": "",
+    "id": "ZMA",
+    "tourName": "Mexico City’ den Playa Del Carmen’ e",
+    "placesVisited": "Meksika",
+    "generalInfo": "Bu tur uğultulu Mexico City metropolünden Playa del Carmen’ in şeker beyazı plajlarına kadar Meksika’ nın en önemli noktalarına kapsamlı bir bakış sunuyor. Teotihuacan’ daki piramitlerin büyüsünü keşfedin,  Oaxaca’ daki sömürge mimarisine bir göz atın,  Monte Alban’ ın Zapotec bölgesindeki muhteşem manzaraların keyfini çıkarın,  San Cristobal de las Casas civarındaki yerli köylerini ziyaret edin,  Palenque çevresini saran ormanlardaki maymunların seslerini dinleyin ve Dünya Mirası listesindeki Chichén Itzá’ yı keşfedin.<br><br><strong>En Yakın Uluslararası Havaalanına (geliş):</strong> Mexico City Benito Juarez Uluslararası Havalimanı (MEX)<br><br><strong>En Yakın Uluslararası Havaalanı (gidiş):</strong> Cancun Uluslararası Havalimanı (CUN)",
+    "durationDays": "13",
+    "price": "869",
+    "image1": "siempretour-images/ZMA/zma_2019_10_27_21_20_41_0.jpg",
+    "image2": "siempretour-images/ZMA/zma_2019_10_27_21_20_41_1.jpg",
+    "image3": "siempretour-images/ZMA/zma_mexico_city_1.jpg",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "19",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler ve aktiviteler: </strong></p>\n<ul>\n<li>- Rehberli Teotihuacan antik şehri turu</li>\n<li>- Rehberli Monte Albán harabeleri turu</li>\n<li>- San Cristóbal köy turu</li>\n<li>- Rehberli Palenque turu</li>\n<li>- Rehberli Chichén Itzá turu</li>\n</ul>\n<p><strong>Konaklama:</strong> </p>\n<p>Otellerde 11 gece,  1 gece yataklı otobüs</p>\n<p><strong>Taşıma:</strong> </p>\n<p>Toplu taşıma</p>\n<p><strong>Yemekler:</strong> </p>\n<p>5 kahvaltı,  2 yerel kahvaltı,  2 açık büfe kahvaltı</p>\n<p><strong>Diğerleri:</strong> </p>\n<p>Siempre Tour tur lideri</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Mexico City' e Varış",
+        "description": "Mexico City,  20 milyondan fazla nüfusuyla dünyanın en kalabalık şehridir. 1521’ de İspanyollar tarafından kurulan Meksika’ nın başkenti,  deniz seviyesinden 2309 metre yüksekliktedir ve antik Aztek başkenti olan Tenochtitlan’ ın olduğu yere inşa edilmiştir. Kapsamlı metro sistemi ve tramvay ve otobüsler etrafta dolaşmayı kolaylaştırır. Ve burada görülecek ve yapılacak çok şeyin olduğunu da hatırlatalım."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Puebla",
+        "description": "Puebla’ ya gitmeden önce Mexico City’ den rehberli turun keyfini çıkarabileceğimiz Teotihuacan antik şehrine kısa bir otobüs yolculuk yapacağız. Burada,  M.Ö. 300 yıllarında,  zamanın sislerinde kaybolan bir medeniyetin inşa ettiği muhteşem ve terk edilmiş bir şehirle karşılaşacaksınız. Tarihi kompleks,  the Street of the Dead,  saraylar,  eski tapınaklar ve Plaza of the Sun’ la birbirine bağlanan Pyramids of the Sun and the Moon,  the Ciudadela gibi tören piramitlerinin büyüleyici bir bileşimidir. Binalar frizler ve diğer süslü sanat eserleri ile dekore edilmiştir. Mexico City’ ye geri dönerek iki saatlik rahat bir otobüs yolculuğuyla Puebla’ ya geliyoruz. Puebla’ da İspanyol kolonyal mimarisine hayran olabilir ve çikolata,  tarçın ve fındık içeren zengin bir baharatlı sos olan köstebek poblano’ yu deneyebilirsiniz."
+      },
+      {
+        "dayNumber": 3,
+        "title": "Oaxaca",
+        "description": "Listemizde sıradaki yer olan Oaxaca (wa-ha-ka diye telaffuz edilir) dağlar ve gür ormanlarla çevrili güzel bir şehirdir. Yemek yiyebileceğiniz,  bir şeyler içebileceğiniz ve dünyayı seyredebileceğiniz çok hoş bir yer olan Plaza de la Constitución buradadır. Otobüs terminaline gitmek için taksilere bindikten sonra,  Oaxaca’ ya first class şeklinde 4-5 saatlik bir yolculuk yapacağız. Lezzetli sokak yemeklerini tadın ve bu çekici kasabadaki renkli kolonyal binalara hayranlıkla bakın."
+      },
+      {
+        "dayNumber": 4,
+        "title": "San Cristobal’ a Gece Otobüsü",
+        "description": "Oaxaca’ dan,  Oaxaca vadisinin 400 metre yukarısındaki antik Zapoteklerin kutsal şehri Monte Albán’ ya rehberli bir gezi düzenleyeceğiz. Pek çok mezar,  tören sunakları,  tüneller,  piramitler ve saraylar,  birçok kabartma,  resimler ve karmaşık oymalar ile dekore edilmiş Grand Plaza çevresinde keşfedilesi birçok yapı var. Oaxaca’ nın güzelliklerinden sonra San Cristobal de las Casas’ a gece yolculuğu yapıyoruz."
+      },
+      {
+        "dayNumber": 5,
+        "title": "San Cristobal",
+        "description": "Dağlık Chiapas bölgesine doğru yükselen büyüleyici San Cristobal de las Casas kentine varıyoruz. Yaylaların ortasında farklı dilleri,  elbiseleri ve gelenekleriyle 21 yerli köyle çevrili olan bölgede Meksika’ nın en zengin yerli kültürünü bulacaksınız. Şehrin geneline hâkim olan parlak renklerle boyanmış kırmızı kiremitli evler insanı o kadar cezbediyor ki! Amber Müzesi,  Kahve Müzesi,  Maya Tıp Müzesi ve ‘ Na Bolom’  Kültür Merkezi gibi görülesi çok sayıda ilginç müze var."
+      },
+      {
+        "dayNumber": 8,
+        "title": "Palenque",
+        "description": "Ardından Palenque’ ye uzun ve manzaralı bir otobüs yolculuğu yapacağız. Ünlü Lord Pakal ve Kızıl Kraliçe’ nin onuruna zenginliklerle doldurulmuş mezarlarla tanınan Palenque kalıntılarına ve kasabaya yapacağımız dokuz saatlik yolculukta güzel manzaralarla karşılaşacaksınız. Bu arkeolojik site,  nemli ormanlarla çevrili bir dizi yüksek tapınak,  kule,  mezar ve piramitlerle 200’ den fazla yapıya ev sahipliği yapmaktadır. Kökleri klasik döneme kadar giden en önemli yapılar (MS 400-700) Yazıtlar Tapınağı,  Crypt,  Saray Kompleksi,  Haç Tapınağı,  Foliated Haç Tapınağı ve Güneş Tapınağı’ dır. Süslü frizler,  heykeller ve yazıtlarla dekore edilmiş Palenque,  tartışmasız en önemli Maya arkeolojik alanlarından biridir. Ormanın içinden geçen yollar çeşitli tapınaklara ve zamanla kayalarda garip figürler oluşturan muhteşem şelalelere yol açmaktadır. Yerel bir rehber ormandaki kazısı yapılmamış kalıntıları görebileceğiniz bir orman yürüyüşüne çıkarmak için size ekstra bir seçenek sunabilir."
+      },
+      {
+        "dayNumber": 10,
+        "title": "Merida",
+        "description": "Bugün Palenque’ den Merida’ ya giderken otobüslerde tam bir gün geçiriyoruz. Otobüs terminaline kısa bir yürüyüşten sonra,  birinci sınıf bir otobüse bineceğiz ve yolculuk tüm gün sürecektir. Yucatan eyaletinin başkenti olan Mérida ‘ beyaz şehri’,  sömürge binaları,  kiliseler ve plazaların hoş bir karışımından oluşmaktadır. Pazarlar güzel dokuma ürünleri,  hamaklar ve batiklerle dolup taşmaktadır ki bu da burayı el sanatları ve hediyelik eşyalar satın almak için harika bir yer yapmaktadır. Geceleri şehir tiyatro ve konserlerle canlanıyor. Büyük şehir bölgesini keşfe çıkan kapsamlı bir hop on / hop off otobüs turundan El Centro ve Pasaje Montejo Bulvarı’ ndaki Arnavut kaldırımlı sokaklarda rahatlatıcı bir at arabası turuna kadar çok sayıda şehir turları sunulmaktadır. Mérida yakınlarını keşfetmek isterseniz büyük flamingo nüfusuyla küçük bir balıkçı kasabası olan Celestún’ u ziyaret edebilirsiniz. Yucatan yarımadasının tamamını kapsayacak şekilde,  antik Mayalar için kutsal bir yer olarak atfedilen,  muhteşem kalker mağaraları ve derin su altı nehirleri ile bağlantılı yerel ‘ cenotes’  (sen-o-tays) tatlı su yüzme deliklerinde yüzebilirsiniz."
+      },
+      {
+        "dayNumber": 12,
+        "title": "Playa del Carmen",
+        "description": "Playa del Carmen’ e gitmeden önce,  yakın zamanda Dünya’ nın Yeni Yedi Harikasından biri olarak kabul edilen etkileyici bir Maya / Toltec sitesi olan Chichén Itzá’ ya gidiyoruz. MS 7. ve 10. yüzyıl arasında inşa edilen Chichén Itzá,  1000 yılı aşkın bir süredir Maya için haç merkezidir. En dikkat çekici yer tüylü yılan tanrısı Kukulkan’ a ithaf edilen büyük Kukulkan Piramidi’ dir ve bir yılan gölgesinin ekinoks sırasında basamaklardan aşağı inmesine benzer bir hassasiyetle inşa edilmiştir. Chichén Itzá’ nın güzelliğinin tadını çıkardıktan sonra,  Playa del Carmen’ e üç saatlik bir otobüs yolculuğumuz olacak."
+      },
+      {
+        "dayNumber": 13,
+        "title": "Playa del Carmen’ den Ayrılış",
+        "description": "Hayatınızın macerası bugün sona eriyor. Geç bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "country": "Meksika"
+  },
+  {
+    "destination": "Meksika",
+    "mainPhoto": "",
+    "id": "ZYG",
+    "tourName": "Playa del Carmen’ den Antigua’ ya",
+    "placesVisited": "Meksika, Guatemala",
+    "generalInfo": "Orta Amerika’ daki en popüler turlarımızdan biriyle ünlü Maya harabesi Chichén Itzá’ ya gitmeden önce Playa del Carmen’ in güzelliğinin tadını çıkarabilirsiniz.  Palenque’ de yemyeşil yağmur ormanları arasında Maya imparatorluğundan kalıntılar bulabilirsiniz.  Antik yerli gelenekler,  San Cristobal de las Casas’ ta ilginç bir biçimde modern din ile el ele giderken Antigua’ da turun zirvesine varmadan önce Chichi pazarlarının canlılığıyla eğlenebilirsiniz.<br><br><strong>En Yakın Uluslararası Havaalanına (geliş):</strong> Cancun Uluslararası Havalimanı (CUN)<br><br><strong>En Yakın Uluslararası Havaalanı (gidiş):</strong> Guatemala City La Aurora Uluslararası Havalimanı (GUA)",
+    "durationDays": "13",
+    "price": "749",
+    "image1": "siempretour-images/ZYG/zyg_2019_10_27_21_32_19_0.jpg",
+    "image2": "siempretour-images/ZYG/zyg_2019_10_27_21_32_19_1.jpg",
+    "image3": "siempretour-images/ZYG/zyg_antigua_1.jpg",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "19",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler ve aktiviteler: </strong></p>\n<ul>\n<li>- San Cristóbal köy turu</li>\n<li>- Rehberli Palenque turu</li>\n<li>- Rehberli Chichén Itzá turu</li>\n<li>- Chichi pazarları</li>\n</ul>\n<p><strong>Konaklama:</strong> </p>\n<p>Otellerde 12 gece</p>\n<p><strong>Taşıma:</strong> </p>\n<p>Toplu taşıma,  turist otobüsü,  yaya</p>\n<p><strong>Yemekler:</strong> </p>\n<p>9 kahvaltı,  2 açık büfe kahvaltı,  1 kahvaltı box</p>\n<p><strong>Diğerleri:</strong> </p>\n<p>Siempre Tour tur lideri</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Playa del Carmen' e Varış",
+        "description": "Meksika’ ya hoş geldiniz! Bu turun ilk gecesi Cancún’ dan sadece bir saat uzaklıkta bir plaj cenneti olan Playa del Carmen’ de geçirilecek.  Cennet plajlarının yanı sıra,  Tulúm’ daki Maya kalıntıları da dâhil olmak üzere isteğe bağlı aktivitelerin keyfini çıkarmak amacıyla ekstra geceler için rezervasyon yaptırmanızı öneririz."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Merida",
+        "description": "Geçireceğiniz yoğun günler,  arkeolojiyle ilgilenenler için sürprizlerle doludur.  İlk olarak,  dünyanın Yeni Yedi Harikasından biri olarak kabul edilen etkileyici bir Maya / Toltec sitesi olan Chichén Itzá’ ya seyahat ediyoruz.  MS 7.  ve 10.  yüzyıl arasında inşa edilen Chichén Itzá,  1000 yılı aşkın bir süredir Mayalar için haç merkezi olmuştur."
+      },
+      {
+        "dayNumber": 4,
+        "title": "Palenque",
+        "description": "Ardından Palenque’ ye uzun ve manzaralı bir otobüs yolculuğu yapacağız.  Ünlü Lord Pakal ve Kızıl Kraliçe’ nin onuruna zenginliklerle doldurulmuş mezarlarıyla tanınan Palenque kalıntılarına ve kasabaya yapacağımız dokuz saatlik yolculukta güzel manzaralarla karşılaşacaksınız.  Bu arkeolojik site,  nemli ormanlarla çevrili bir dizi yüksek tapınak,  kule,  mezar ve piramitlerle 200’ den fazla yapıya ev sahipliği yapmaktadır.  Kökleri klasik döneme kadar giden en önemli yapılar (MS 400-700) Yazıtlar Tapınağı,  Crypt,  Saray Kompleksi,  Haç Tapınağı,  Foliated Haç Tapınağı ve Güneş Tapınağı’ dır.  Süslü frizler,  heykeller ve yazıtlarla dekore edilmiş Palenque,  tartışmasız en önemli Maya arkeolojik alanlarından biridir.  Ormanın içinden geçen yollar çeşitli tapınaklara ve zamanla kayalarda garip figürler oluşturan muhteşem şelalelere yol açmaktadır.  Yerel bir rehber ormandaki kazısı yapılmamış kalıntıları görebileceğiniz bir orman yürüyüşüne çıkarmak için size ekstra bir seçenek sunabilir."
+      },
+      {
+        "dayNumber": 6,
+        "title": "San Cristobal",
+        "description": "Dağlık Chiapas bölgesine doğru yükselen büyüleyici San Cristobal de las Casas kentine varıyoruz.  Yaylaların ortasında farklı dilleri,  elbiseleri ve gelenekleriyle 21 yerli köyle çevrili olan bölgede Meksika’ nın en zengin yerli kültürünü bulacaksınız.  Şehrin geneline hâkim olan parlak renklerle boyanmış kırmızı kiremitli evler insanı o kadar cezbediyor ki! Amber Müzesi,  Kahve Müzesi,  Maya Tıp Müzesi ve ‘ Na Bolom’  Kültür Merkezi gibi görülesi çok sayıda ilginç müze var."
+      },
+      {
+        "dayNumber": 9,
+        "title": "Panajachel",
+        "description": "Meksika’ dan ayrılırken Guatemala’ ya Ciudad Cuauhtèmoc’ tan geçiyoruz.  Meksika’ da 533 MXN ayrılma ücreti ve Guatemala’ da 10Q giriş ücreti ödemek zorundasınız ancak bu ücretler değişebilir.  Guatemalalıların dünyanın en sıcak ve en renkli insanlarından olduklarını göreceksiniz.  Guatemala yaylalarından geçerek Pan American Otoyolu’ na doğru ilerleyeceğiz,  buradan Atitlán Gölü kıyısından Panajachel’ e ineceğiz.  Aşağı inerken 3000 metre yüksekliğindeki göl ve üç yanardağ olan San Pedro,  Atitlán ve Toliman’ ın nefes kesen manzaralarına tanık olacaksınız."
+      },
+      {
+        "dayNumber": 12,
+        "title": "Antiqua",
+        "description": "Bu sabah Guatemala’ nın en ünlü pazar kasabası Chichicastenango’ yu ziyaret ediyoruz.  Bu köyün nüfusu pazarın kurulduğu gün (ziyaret ettiğimiz gün) yaklaşık 20, 000’ in üzerindedir.  Çoğunlukla K’ iche ‘ (Quiché) Maya halkının soyundan gelen yerli halk,  mutfak kap kaçağından hindiye kadar her şeyi satmak için yakındaki tepelerden aşağı inerler! El sanatları,  çantalar,  jumperlar ve duvar asmaları burada bulunan ve pazarlık yapılası şeylerden sadece birkaçıdır.  Öğle yemeğinden sonra pazar kasabasından ayrılıp Antigua’ ya devam ediyoruz."
+      },
+      {
+        "dayNumber": 13,
+        "title": "Antiqua' dan Ayrılış",
+        "description": "Hayatınızın macerası bugün sona eriyor.  Geç bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "country": "Meksika"
+  },
+  {
+    "destination": "Meksika",
+    "mainPhoto": "",
+    "id": "YYC",
+    "tourName": "Playa del Carmen’ den Playa del Carmen’ e",
+    "placesVisited": "Meksika, Guatemala, Belize",
+    "generalInfo": "Dünyanın en pastoral sahil beldelerinden birinde başlayan bu heyecan verici tur,  Meksika,  Guatemala ve Belize’ nin önemli cazibe merkezlerini ve daha az bilinen muhteşem bölgelerini gezmeye yöneliktir.  Basamaklarıyla ünlü piramitlere sahip Chichén Itzá,  Palenque ve Tikal gibi Maya şehirlerini deneyimleyin.  Caye Caulker’ ın Karayip sahillerine ayak basın ve berrak sularda şnorkelle dalmaya gidin.  Chichi pazarlarında fırtına gibi esip canlı kolonyal kasabalardaki atmosferin tadını çıkarın.<br><br><strong>En Yakın Uluslararası Havaalanına (geliş):</strong> Cancun Uluslararası Havalimanı (CUN)<br><br><strong>En Yakın Uluslararası Havaalanı (gidiş):</strong> Cancun Uluslararası Havalimanı (CUN)",
+    "durationDays": "22",
+    "price": "1459",
+    "image1": "siempretour-images/YYC/yyc_2019_10_27_22_58_22_0.jpg",
+    "image2": "siempretour-images/YYC/yyc_playa_Del_carmen_1.jpg",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "19",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler ve aktiviteler: </strong></p>\n<ul>\n<li>- San Cristóbal köy turu</li>\n<li>- Rehberli Palenque turu</li>\n<li>- Rehberli Chichén Itzá turu</li>\n<li>- Caye Caulker</li>\n<li>- Rehberli Tikal kalıntıları turu</li>\n<li>- Livingstone’ da Rio Dulce bot turu</li>\n</ul>\n<p><strong>Konaklama:</strong> </p>\n<p>Otellerde 21 gece</p>\n<p><strong>Taşıma:</strong> </p>\n<p>Toplu taşıma,  bot,  özel araç</p>\n<p><strong>Yemekler:</strong> </p>\n<p>12 kahvaltı,  2 açık büfe kahvaltı,  1 atıştırmalık kahvaltı, 2 kahvaltı box</p>\n<p><strong>Diğerleri:</strong></p>\n<p>Siempre Tour tur lideri</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Playa del Carmen' e Varış",
+        "description": "Meksika’ ya hoş geldiniz! Bu turun ilk gecesi Cancún’ dan sadece bir saat uzaklıktaki plaj cenneti Playa del Carmen’ de geçirilecek.  Cennet plajlarının yanı sıra,  Tulúm’ daki Maya kalıntıları da dâhil olmak üzere isteğe bağlı aktivitelerin keyfini çıkarmak amacıyla ekstra geceler için rezervasyon yaptırmanızı öneririz."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Merida",
+        "description": "Geçireceğiniz yoğun günler,  arkeolojiyle ilgilenenler için sürprizlerle doludur.  İlk olarak,  dünyanın Yeni Yedi Harikasından biri olarak kabul edilen etkileyici bir Maya / Toltec sitesi olan Chichén Itzá’ ya seyahat ediyoruz.  MS 7.  ve 10.  yüzyıl arasında inşa edilen Chichén Itzá,  1000 yılı aşkın bir süredir Mayalar için haç merkezi olmuştur."
+      },
+      {
+        "dayNumber": 4,
+        "title": "Palenque",
+        "description": "Ardından Palenque’ ye uzun ve manzaralı bir otobüs yolculuğu yapacağız.  Ünlü Lord Pakal ve Kızıl Kraliçe’ nin onuruna zenginliklerle doldurulmuş mezarlarla tanınan Palenque kalıntılarına ve kasabaya yapacağımız dokuz saatlik yolculukta güzel manzaralarla karşılaşacaksınız.  Bu arkeolojik site,  nemli ormanlarla çevrili bir dizi yüksek tapınak,  kule,  mezar ve piramitlerle 200’ den fazla yapıya ev sahipliği yapmaktadır.  Kökleri klasik döneme kadar giden en önemli yapılar (MS 400-700) Yazıtlar Tapınağı,  Crypt,  Saray Kompleksi,  Haç Tapınağı,  Foliated Haç Tapınağı ve Güneş Tapınağı’ dır.  Süslü frizler,  heykeller ve yazıtlarla dekore edilmiş Palenque,  tartışmasız en önemli Maya arkeolojik alanlarından biridir.  Ormanın içinden geçen yollar çeşitli tapınaklara ve zamanla kayalarda garip figürler oluşturan muhteşem şelalelere yol açmaktadır.  Yerel bir rehber ormandaki kazısı yapılmamış kalıntıları görebileceğiniz bir orman yürüyüşüne çıkarmak için size ekstra bir seçenek sunabilir."
+      },
+      {
+        "dayNumber": 6,
+        "title": "San Cristobal",
+        "description": "Dağlık Chiapas bölgesine doğru yükselen büyüleyici San Cristobal de las Casas kentine varıyoruz.  Yaylaların ortasında farklı dilleri,  elbiseleri ve gelenekleriyle 21 yerli köyle çevrili olan bölgede Meksika’ nın en zengin yerli kültürünü bulacaksınız.  Şehrin geneline hâkim olan parlak renklerle boyanmış kırmızı kiremitli evler insanı o kadar cezbediyor ki! Amber Müzesi,  Kahve Müzesi,  Maya Tıp Müzesi ve ‘ Na Bolom’  Kültür Merkezi gibi görülesi çok sayıda ilginç müze var."
+      },
+      {
+        "dayNumber": 9,
+        "title": "Panajachel",
+        "description": "Meksika’ dan ayrılırken Guatemala’ ya Ciudad Cuauhtèmoc’ tan geçiyoruz.  Meksika’ da 533 MXN ayrılma ücreti ve Guatemala’ da 10Q giriş ücreti ödemek zorundasınız ancak bu ücretler değişebilir.  Guatemalalıların dünyanın en sıcak ve en renkli insanlarından olduklarını göreceksiniz.  Guatemala yaylalarından geçerek Pan American Otoyolu’ na doğru ilerleyeceğiz,  buradan Atitlán Gölü kıyısından Panajachel’ e ineceğiz.  Aşağı inerken 3000 metre yüksekliğindeki göl ve üç yanardağ olan San Pedro,  Atitlán ve Toliman’ ın nefes kesen manzaralarına tanık olacaksınız."
+      },
+      {
+        "dayNumber": 9,
+        "title": "Panajachel",
+        "description": "Meksika’ dan ayrılırken Guatemala’ ya Ciudad Cuauhtèmoc’ tan geçiyoruz.  Meksika’ da 533 MXN ayrılma ücreti ve Guatemala’ da 10Q giriş ücreti ödemek zorundasınız ancak bu ücretler değişebilir.  Guatemalalıların dünyanın en sıcak ve en renkli insanlarından olduklarını göreceksiniz.  Guatemala yaylalarından geçerek Pan American Otoyolu’ na doğru ilerleyeceğiz,  buradan Atitlán Gölü kıyısından Panajachel’ e ineceğiz.  Aşağı inerken 3000 metre yüksekliğindeki göl ve üç yanardağ olan San Pedro,  Atitlán ve Toliman’ ın nefes kesen manzaralarına tanık olacaksınız."
+      },
+      {
+        "dayNumber": 12,
+        "title": "Antiqua",
+        "description": "Şimdi Guatemala’ nın en ünlü pazar kasabası Chichicastenango’ yu ziyaret ediyoruz.  Bu köyün nüfusu pazarın kurulduğu gün (ziyaret ettiğimiz gün) yaklaşık 20, 000’ in üzerindedir.  Çoğunlukla K’ iche ‘ (Quiché) Maya halkının soyundan gelen yerli halk,  mutfak kap kaçağından hindiye kadar her şeyi satmak için yakındaki tepelerden aşağı inerler! El sanatları,  çantalar,  jumperlar ve duvar asmaları burada bulunan ve pazarlık yapılası şeylerden sadece birkaçıdır.  Öğle yemeğinden sonra pazar kasabasından ayrılıp Antigua’ ya devam ediyoruz."
+      },
+      {
+        "dayNumber": 13,
+        "title": "Antiqua",
+        "description": "UNESCO Dünya Mirası Alanı olan Antigua,  Orta Amerika’ daki en keyifli sömürge kasabalarından biridir.  Yerli halk,  rengârenk kıyafetleriyle şehrin taş sokaklarında ve meydanlarında,  el sanatları ve tekstil ürünlerini satıyor.  Guatemala’ nın kültür merkezi olan Antigua,  ülkenin geleneksel müziğini,  mimarisini ve sanatını deneyimlemek için ideal bir yerdir.  Süslü kiliselerle,  manastırlarla,  parklarla,  plazalarla,  kafelerle,  restoranlarla,  barlarla ve renkli sokak pazarlarıyla zengin ve hayranlık uyandıran volkanlarla çevrili Antigua,  asla unutamayacağınız bir yerdir."
+      },
+      {
+        "dayNumber": 14,
+        "title": "Rio Dulce",
+        "description": "Suyun içinde kurulan kabinlerde konaklayabileceğiniz,  nehir kenarındaki Rio Dulce kasabasına doğru yola çıkıyoruz."
+      },
+      {
+        "dayNumber": 15,
+        "title": "Flores",
+        "description": "Öğleden sonra Livingstone’ a giden 23 kilometrelik su yolu boyunca yapılan tekne turu,  Guatemala’ nın en doğal alanlarından birini deneyimlemenize olanak tanır.  Livingston,  Rio Dulce’ nin ağzında,  Amatique Koyu’ na katılan ve Garifuna halkının yaşadığı yerdedir.  Bu canlı küçük kasaba,  Guatemala’ nın geri kalanından farklı bir Karayip atmosferine sahiptir ve lezzetli yerel spesiyal tapalardan denemek (deniz ürünlerinden yapılan Hindistan cevizi çorbası) ve yerel Afrika tarzı punta müziğini dinlemek için harika bir yerdir."
+      },
+      {
+        "dayNumber": 16,
+        "title": "San Ignacio",
+        "description": "Flores,  İspanyollar tarafından fethedilen ve Peten Itzá Gölü’ nün merkezinde bulunan son şehirdir.  Flores yolunda,  nefes kesen Maya bölgesi olan Tikal’ de duruyoruz.  Maya dünyasının en büyük şehri olarak kabul edilir ve ormanın derinliklerinde yer alır.  Bu kompleks,  keşfedilen en büyük Maya sitelerinden biridir ve bilgili yerel rehberimiz ile bölgenin florasını,  faunasını ve şaşırtıcı Maya tarihini keşfetmek ve öğrenmek için gün içinde bolca zamanınız olacak."
+      },
+      {
+        "dayNumber": 18,
+        "title": "Caye Caulker",
+        "description": "San Ignacio’ dan ayrılırken Belize’ nin merkezinden Belize Şehri’ ne kadar yerel bir otobüsle seyahat edeceğiz.  Buradan Cayes’ e (mangrov adalarına) de bir su taksisinde gideceğiz.  Belizeliler nasıl dinleneceklerini iyi bilirler ve umarım yerel halkın rahatlama konusundaki uzmanlığı Caye Caulker’ de geçireceğiniz süre zarfında size de bulaşacaktır.  Öyle olmasa da,  size \"Yavaş git\",  \"Sakin\" ve hatta \"Gömlek yok,  ayakkabı yok,  sorun yok\" diye hatırlatıcı işaretler mevcut.  Kumla dolu sokaklarda dolaşmak için ayakkabılarınızı kenara atacağınız Caye Caulker’ de akşamları deniz mahsulleri yiyerek,  kokteyllerden yudumlayarak ve barlarda reggae müzik dinleyerek birkaç gece geçireceğiz."
+      },
+      {
+        "dayNumber": 21,
+        "title": "Playa del Carmen",
+        "description": "Otobüsle geçen uzun bir günün ardından,  son bir gece için Playa del Carmen’ e döneceksiniz.  Geceyi leziz Meksika mutfağının tadını çıkararak ve maceranın sonunu birkaç margarita ile kutlayarak geçirin!"
+      },
+      {
+        "dayNumber": 22,
+        "title": "Playa del Carmen’ den Ayrılış",
+        "description": "Hayatınızın macerası bugün sona eriyor.  Geç bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "country": "Meksika"
+  },
+  {
+    "destination": "Meksika",
+    "mainPhoto": "",
+    "id": "QYA",
+    "tourName": "Playa Del Carmen’den Antigua’ya",
+    "placesVisited": "Meksika, Belize, Guatemala",
+    "generalInfo": "Güzel bir Karayip sahilinde güneşin batışını izleyin, derin ormanlarla çevrili Maya harabelerini keşfedin ve Meksika, Belize ve Guatemala ile bu hızlı macerada yerel köyleri ziyaret edin.<br><br><strong>En Yakın Uluslararası Havaalanına (geliş):</strong> Cancun Uluslararası Havalimanı (CUN)<br><br><strong>En Yakın Uluslararası Havaalanı (gidiş):</strong> Guatemala City La Aurora Uluslararası Havalimanı (GUA)",
+    "durationDays": "10",
+    "price": "799",
+    "image1": "siempretour-images/QYA/qya_quetzal-highway2019_04_11_22_09_25_0.jpg",
+    "image2": "siempretour-images/QYA/qya_quetzal-highway2019_04_11_22_09_25_1.jpg",
+    "image3": "siempretour-images/QYA/qya_quetzal-highway2019_04_11_22_09_25_2.jpg",
+    "image4": "siempretour-images/QYA/qya_qya_profil.jpg",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "19",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler ve aktiviteler: </strong></p>\n<ul>\n<li>- Caye Caulker</li>\n<li>- Tikal kalıntılarına rehberli gezi</li>\n<li>- Livingston’a Rio Dulce bot turu</li>\n</ul>\n<p><strong>Konaklama:</strong></p>\n<ul>\n<li>- Otellerde 9 gece</li>\n</ul>\n<p><strong>Taşıma:</strong></p>\n<ul>\n<li>- Toplu taşıma, özel araç</li>\n</ul>\n<p><strong>Yemekler:</strong></p>\n<ul>\n<li>- 3 kahvaltı, 1 kahvaltı paketi, 1 atıştırmalık kahvaltı</li>\n</ul>\n<p><strong>Diğerleri:</strong></p>\n<ul>\n<li>- Siempre Tur tur lideri</li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Playa Del Carmen’e Varış",
+        "description": "Meksika'ya hoşgeldiniz! Bu turun ilk gecesi Cancún'dan sadece bir saat uzaklıkta olan bir plajlar cenneti olan Playa del Carmen'de geçirilecek. Cennet plajlarının yanı sıra, Tulúm'daki Maya kalıntıları da dâhil olmak üzere isteğe bağlı aktivitelerin keyfini çıkarmak amacıyla ekstra geceler için rezervasyon yaptırmanızı öneririz."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Caye Caulker",
+        "description": "Playa del Carmen'de kahvaltımızı yaptıktan sonra kısa bir yürüyüş yaparak terminale ulaşıyoruz.  Otobüs, taksi ve feribot kombinasyonuyla tam gün olacak şekilde güzel Belize'ye geçiyoruz. Meksika'dan ayrılırken yaklaşık 533 Meksika Pesosu tutarında küçük bir kalkış ücreti ödemeniz gerekecektir. Belizeliler nasıl dinleneceklerini iyi bilirler ve umarım yerel halkın rahatlama konusundaki uzmanlığı Caye Caulker'de geçireceğiniz süre zarfında size de bulaşacaktır. Öyle olmasa da, size \"Yavaş git\", \"Sakin ol\" ve hatta \"Gömlek yok, ayakkabı yok, sorun yok\" diye hatırlatıcı işaretler mevcut. Kumla dolu sokaklarda dolaşmak için ayakkabılarınızı kenara atacağınız Caye Caulker'de akşamları deniz mahsulleri yiyerek, kokteyllerden yudumlayarak ve barların birinde reggae müzik dinleyerek birkaç gece geçireceğiz."
+      },
+      {
+        "dayNumber": 5,
+        "title": "San Ignacio",
+        "description": "Belize'ye hoşça kal diyerek Guatemala'ya büyüleyici bir ada kasabası olan Flores'a geçiyoruz. Belize'den ayrılırken 40 BZD'lik küçük bir ücret ödemeniz gerekecektir ve Guatemala'ya varışta 10GTQ tutarında küçük bir ödeme yapılması gerekmektedir. Flores, İspanyollar tarafından fethedilen ve Peten Itzá Gölü'nün merkezinde bulunan son şehirdir. Flores yolunda, nefes kesen Maya bölgesi olan Tikal'de duruyoruz, Maya dünyasının en büyük şehri olarak kabul edilir ve ormanın derinliklerinde yer alır. Bu kompleks, keşfedilen en büyük Maya sitelerinden biridir ve bilgili yerel rehberimiz ile bölgenin florasını, faunasını ve şaşırtıcı Maya tarihini keşfetmek ve öğrenmek için gün içinde bolca zamanınız olacak."
+      },
+      {
+        "dayNumber": 7,
+        "title": "Flores",
+        "description": "Belize'ye hoşça kal diyerek Guatemala'ya büyüleyici bir ada kasabası olan Flores'a geçiyoruz. Belize'den ayrılırken 40 BZD'lik küçük bir ücret ödemeniz gerekecektir ve Guatemala'ya varışta 10GTQ tutarında küçük bir ödeme yapılması gerekmektedir. Flores, İspanyollar tarafından fethedilen ve Peten Itzá Gölü'nün merkezinde bulunan son şehirdir. Flores yolunda, nefes kesen Maya bölgesi olan Tikal'de duruyoruz, Maya dünyasının en büyük şehri olarak kabul edilir ve ormanın derinliklerinde yer alır. Bu kompleks, keşfedilen en büyük Maya sitelerinden biridir ve bilgili yerel rehberimiz ile bölgenin florasını, faunasını ve şaşırtıcı Maya tarihini keşfetmek ve öğrenmek için gün içinde bolca zamanınız olacak."
+      },
+      {
+        "dayNumber": 8,
+        "title": "Rio Dulce",
+        "description": "Suyun içinde kurulan kabinlerde konaklayabileceğiniz nehir kenarındaki Rio Dulce kasabasına doğru yola çıkıyoruz. Öğleden sonra Livingston'a giden 23 kilometrelik suyolu boyunca yapılan tekne turu, Guatemala'nın en doğal alanlarından birini deneyimlemenize olanak tanır. Livingston, Rio Dulce'nin ağzında, Amatique Koyu'na katılan ve Garifuna halkının yaşadığı yerdedir. Bu canlı küçük kasaba, Guatemala'nın geri kalanından farklı bir Karayip atmosferine sahiptir ve lezzetli yerel spesiyal tapalardan denemek (deniz ürünlerinden yapılan hindistan cevizi çorbası) ve yerel Afrika tarzı punta müziğini dinlemek için harika bir yerdir."
+      },
+      {
+        "dayNumber": 9,
+        "title": "Antigua",
+        "description": "UNESCO Dünya Mirası Alanı olan Antigua, Orta Amerika'daki en keyifli sömürge kasabalarından biridir. Yerli halk, rengârenk kıyafetleriyle şehrin taş sokaklarında ve meydanlarında, el sanatları ve tekstil ürünlerini satıyor. Guatemala'nın kültür merkezi olan Antigua, ülkenin geleneksel müziğini, mimarisini ve sanatını deneyimlemek için ideal bir yerdir. Süslü kiliselerle, manastırlarla, parklarla, plazalarla, kafelerle, restoranlarla, barlarla ve renkli sokak pazarlarıyla zengin ve hayranlık uyandıran volkanlarla çevrili Antigua, asla unutamayacağınız bir yerdir."
+      },
+      {
+        "dayNumber": 10,
+        "title": "Antigua’dan Ayrılış",
+        "description": "Hayatınızın macerası bugün sona eriyor. Geç bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "country": "Meksika"
+  },
+  {
+    "destination": "Meksika",
+    "mainPhoto": "",
+    "id": "MCJ",
+    "tourName": "Playa Del Carmen’den San José’ye",
+    "placesVisited": "Meksika, Belize, Guatemala, Honduras, Kosta Rika",
+    "generalInfo": "Meksika ve Orta Amerika, reggae ritimleriyle kulaklarınızı, leziz yemeklerle karnınızı, muhteşem manzaralarla gözlerinizi ve yerel insanların sıcaklığıyla da kalbinizi dolduracak. Zihninizi tarih ve kültürle doldurmaya hazır olun ve güzel el sanatlarının cazibesine direnemeyeceğiniz yerel pazarlarda da cüzdanınızı boşaltın!",
+    "durationDays": "24",
+    "price": "2319",
+    "image1": "siempretour-images/MCJ/mcj_mexico-to-costa-rica2019_04_11_03_39_10_0.jpg",
+    "image2": "siempretour-images/MCJ/mcj_mexico-to-costa-rica2019_04_11_03_39_10_1.jpg",
+    "image3": "siempretour-images/MCJ/mcj_mexico-to-costa-rica2019_04_11_03_39_10_2.jpg",
+    "image4": "siempretour-images/MCJ/mcj_mexico-to-costa-rica2019_04_11_03_39_10_3.jpg",
+    "image5": "siempretour-images/MCJ/mcj_mcj_profil.jpg",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "19",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler ve aktiviteler: </strong></p>\n<ul>\n<li>- Caye Caulker</li>\n<li>- Copan kalıntılarına rehberli gezi</li>\n<li>- Tikal kalıntılarına rehberli gezi</li>\n<li>- Roatan Adası</li>\n<li>- Livingston’a Rio Dulce bot turu</li>\n<li>- Ometepe Adası</li>\n</ul>\n<p><strong>Konaklama:</strong></p>\n<ul>\n<li>- Otellerde 23 gece</li>\n</ul>\n<p><strong>Taşıma:</strong></p>\n<ul>\n<li>- Özel araç, 1 uçuş</li>\n</ul>\n<p><strong>Yemekler:</strong></p>\n<ul>\n<li>- 11 kahvaltı, 2 kahvaltı paketi, 2 atıştırmalık kahvaltı, 3 yerel kahvaltı</li>\n</ul>\n<p><strong>Diğerleri:</strong></p>\n<ul>\n<li>- Siempre Tur tur lideri</li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Playa Del Carmen’e Varış",
+        "description": "Meksika'ya hoşgeldiniz! Bu turun ilk gecesi Cancún'dan sadece bir saat uzaklıkta olan bir plajlar cenneti olan Playa del Carmen'de geçirilecek. Cennet plajlarının yanı sıra, Tulúm'daki Maya kalıntıları da dâhil olmak üzere isteğe bağlı aktivitelerin keyfini çıkarmak amacıyla ekstra geceler için rezervasyon yaptırmanızı öneririz."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Caye Caulker",
+        "description": "Playa del Carmen'de kahvaltımızı yaptıktan sonra kısa bir yürüyüş yaparak terminale ulaşıyoruz.  Otobüs, taksi ve feribot kombinasyonuyla tam gün olacak şekilde güzel Belize'ye geçiyoruz. Meksika'dan ayrılırken yaklaşık 533 Meksika Pesosu tutarında küçük bir kalkış ücreti ödemeniz gerekecektir. Belizeliler nasıl dinleneceklerini iyi bilirler ve umarım yerel halkın rahatlama konusundaki uzmanlığı Caye Caulker'de geçireceğiniz süre zarfında size de bulaşacaktır. Öyle olmasa da, size \"Yavaş git \", \"Sakin ol\" ve hatta \"Gömlek yok, ayakkabı yok, sorun yok\" diye hatırlatmak için işaretler mevcut. Kumla dolu sokaklarda dolaşmak için ayakkabılarınızı kenara atacağınız Caye Caulker'de akşamları deniz mahsulleri yiyerek, kokteyllerden yudumlayarak ve barların birinde reggae müzik dinleyerek birkaç gece geçireceğiz."
+      },
+      {
+        "dayNumber": 5,
+        "title": "San Ignacio",
+        "description": "Yerel halk tarafından \"Cayo\" olarak anılan San Ignacio'ya devam ediyoruz, bu tarım merkezi de Belize'nin 'macera' ve 'doğa' başkenti olarak biliniyor. Çevredeki orman, vahşi yaşam, şelaleler, nehirler ve mağaralar, nehir aşağı kanoculuktan ve mağaralara dalış yapmaktan el değmemiş Maya törenlerini ve adak kalıntılarını buldukları ünlü Actun Tunichil Muknal mağaralarını ziyaret etmeye kadar çeşitli alternatif turlar için ideal bir yerdir."
+      },
+      {
+        "dayNumber": 7,
+        "title": "Flores",
+        "description": "Belize'ye hoşça kal diyerek Guatemala'ya büyüleyici bir ada kasabası olan Flores'a geçiyoruz. Belize'den ayrılırken 40 BZD'lik küçük bir ücret ödemeniz gerekecektir ve Guatemala'ya varışta 10GTQ tutarında küçük bir ödeme yapılması gerekmektedir. Flores, İspanyollar tarafından fethedilen ve Peten Itzá Gölü'nün merkezinde bulunan son şehirdir. Flores yolunda, nefes kesen Maya bölgesi olan Tikal'de duruyoruz, Maya dünyasının en büyük şehri olarak kabul edilir ve ormanın derinliklerinde yer alır. Bu kompleks, keşfedilen en büyük Maya sitelerinden biridir ve bilgili yerel rehberimiz ile bölgenin florasını, faunasını ve şaşırtıcı Maya tarihini keşfetmek ve öğrenmek için gün içinde bolca zamanınız olacak."
+      },
+      {
+        "dayNumber": 8,
+        "title": "Rio Dulce",
+        "description": "Suyun içinde kurulan kabinlerde konaklayabileceğiniz, nehir kenarındaki Rio Dulce kasabasına doğru yola çıkıyoruz. Öğleden sonra Livingston'a giden 23 kilometrelik suyolu boyunca yapılan tekne turu, Guatemala'nın en doğal alanlarından birini deneyimlemenize olanak tanır. Livingston, Rio Dulce'nin ağzında, Amatique Koyu'na katılan ve Garifuna halkının yaşadığı yerdedir. Bu canlı küçük kasaba, Guatemala'nın geri kalanından farklı bir Karayip atmosferine sahiptir ve lezzetli yerel spesiyal tapalardan denemek (deniz ürünlerinden yapılan hindistan cevizi çorbası) ve yerel Afrika tarzı punta müziğini dinlemek için harika bir yerdir."
+      },
+      {
+        "dayNumber": 9,
+        "title": "Antigua",
+        "description": "UNESCO Dünya Mirası Alanı olan Antigua, Orta Amerika'daki en keyifli sömürge kasabalarından biridir. Yerli halk, rengârenk kıyafetleriyle şehrin taş sokaklarında ve meydanlarında, el sanatları ve tekstil ürünlerini satıyor. Guatemala'nın kültür merkezi olan Antigua, ülkenin geleneksel müziğini, mimarisini ve sanatını deneyimlemek için ideal bir yerdir. Süslü kiliselerle, manastırlarla, parklarla, plazalarla, kafelerle, restoranlarla, barlarla ve renkli sokak pazarlarıyla zengin ve hayranlık uyandıran volkanlarla çevrili Antigua, asla unutamayacağınız bir yerdir."
+      },
+      {
+        "dayNumber": 11,
+        "title": "Chichicastenango & Panajachel",
+        "description": "1 night(s) in hotels at Hotel Utz Jay or similar . Upgrade to your own room here."
+      },
+      {
+        "dayNumber": 12,
+        "title": "Panajachel & Lake Atitlan",
+        "description": "2 night(s) in hotels at Hotel Utz Jay or similar . Upgrade to your own room here."
+      },
+      {
+        "dayNumber": 14,
+        "title": "Quetzaltenango",
+        "description": "2 night(s) in hotels at Hotel Las Americas or similar . Upgrade to your own room here."
+      },
+      {
+        "dayNumber": 16,
+        "title": "Antigua",
+        "description": "1 night(s) in hotels at Hotel Posada Los Bucaros or similar . Upgrade to your own room here."
+      },
+      {
+        "dayNumber": 17,
+        "title": "Copán Ruinas",
+        "description": "Bugün Guatemala’dan ayrılıyoruz ve burada yaklaşık 10 GTQ’lık çıkış vergisi ödemek zorundayız. Daha sonra, Honduras'a büyüleyici Copán kasabasına doğru uzun bir otobüs yolculuğuna çıkıyoruz. Lütfen dikkat: Ayrıca 3 USD'lik küçük bir giriş ücreti ödemeniz gerekecektir. Köye yürüme mesafesinde, tüm antik Maya siteleri arasında en iyi korunan ve en merak uyandırıcı olan Copán kalıntıları bulunmaktadır. Rehberli turunuzda, bir zamanlar görkemli ve etkileyici bir yer olan şehrin 16 kralını tasvir eden incelikle oyulmuş dikili taşları (oymalar/heykeller), muhteşem merdivenleri, top kortları ve muazzam ana meydanlarını göreceksiniz."
+      },
+      {
+        "dayNumber": 19,
+        "title": "Tela",
+        "description": "1 night(s) in hotels . Upgrade to your own room here."
+      },
+      {
+        "dayNumber": 20,
+        "title": "Roatan Adası",
+        "description": "Bugün Roatán'a gidiyoruz. Mis gibi güneşin battığı güzel Karayip Adaları’nın en büyüğüdür. Adada geliştirilmesi gereken çok şey var, ama aynı zamanda sıcak Karayip sularıyla ıslanmış ıssız bir sahil bulmak kolay. Dünyanın en ucuz dalış ve şnorkelle yüzme aktivitelerinin bulunduğu bu yerde palmiyelerle dolu lagünler, turkuaz sular, dost canlısı yerler, canlı gece hayatı ve muhteşem su altı manzaraları bulacaksınız! Gerçekten unutulmaz bir deneyim olan yunuslarla yüzmeyi ya da bir gün batımı gezisi (isteğe bağlı) ile gerçek Karayip ruhuna erişmeyi seçebilirsiniz."
+      },
+      {
+        "dayNumber": 23,
+        "title": "San José",
+        "description": "Kosta Rika’nın başkenti San Jose kahve ve şeker kamışı çiftlikleri arasında verimli bir vadide yer almaktadır. Depremlerden dolayı sömürgecilik dönemi mimarisinden pek bir şey kalmamıştır geriye. Fakat 1897’de inşa edilen Ulusal Tiyatro kesinlikle görülmeye değer. Belki buradayken bir performansa denk gelecek kadar şanslısınızdır. Altın Müzesi, Jade Müzesi ve Ulusal Müzeler de yine ziyaret etmek için kesinlikle önerilir."
+      },
+      {
+        "dayNumber": 24,
+        "title": "San Jose’den Ayrılış",
+        "description": "Hayatınızın macerası bugün sona eriyor. Geç bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "country": "Meksika"
+  }
+]

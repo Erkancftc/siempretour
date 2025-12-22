@@ -1,0 +1,195 @@
+[
+  {
+    "destination": "Costa Rica",
+    "mainPhoto": "",
+    "id": "CEP",
+    "tourName": "San Jose’den Panama’ya",
+    "placesVisited": "Costa Rica, Panama",
+    "generalInfo": "Güzeller güzeli Panama’ya geçmeden önce Kosta Rika’nın Pasifik kıyısında dolaşın. Bulutlu ve kimi zaman balta girmemiş ormanlarla, fokur fokur kaynayan çamurlarla, termal göllerle, volkanlarla, sakin adalarla ve bol miktarda vahşi yaşamla karşılaşın. Yolculuk sırasında orman örtüsü boyunca insanın içine neşe katacak zip lineları kullanabilir, kanyonculuğu, raftingi ve kanoyu deneyebilirsiniz. Dünyanın en ünlü kanalına ev sahipliği yapan Panama’ya giderken Bocas del Toro’nun plajları ve sığ kayalıkları sizi büyüleyecek.",
+    "durationDays": "14",
+    "price": "1159",
+    "image1": "siempretour-images/CEP/cep_san-jose-to-panama-city2019_04_10_21_25_10_0.jpg",
+    "image2": "siempretour-images/CEP/cep_san-jose-to-panama-city2019_04_10_21_25_10_1.jpg",
+    "image3": "siempretour-images/CEP/cep_san-jose-to-panama-city2019_04_10_21_25_10_2.jpg",
+    "image4": "siempretour-images/CEP/cep_cep_profil.jpg",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "19",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler ve aktiviteler: </strong></p>\n<p>&gt; Manuel Antonio Milli Parkı’na giriş</p>\n<p>&gt; Monteverde Bulut Ormanı Koruma Alanı'na giriş</p>\n<p>&gt; Bocas del Toro</p>\n<p><strong>Konaklama:</strong> Otellerde 13 gece</p>\n<p><strong>Taşıma:</strong> Toplu taşıma, bot, Özel araç, uçak</p>\n<p><strong>Yemekler:</strong> 7 kahvaltı, 4 atıştırmalık kahvaltı</p>\n<p><strong>Diğerleri:</strong> Siempre Tour tur lideri</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "San Jose’ye Varış",
+        "description": "Kosta Rika’nın başkenti San Jose kahve ve şeker kamışı çiftlikleri arasında verimli bir vadide yer almaktadır. Depremlerden dolayı sömürgecilik dönemi mimarisinden pek bir şey kalmamıştır geriye. Fakat 1897’de inşa edilen Ulusal Tiyatro kesinlikle görülmeye değer. Belki buradayken bir performansa denk gelecek kadar şanslısınızdır. Altın Müzesi, Jade Müzesi ve Ulusal Müzeler de yine ziyaret etmek için kesinlikle önerilir."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Manuel Antonio",
+        "description": "Orta Vadi’den Pasifik kıyısına, gür yeşilliklerle kaplı kırsallardan geçerek ülkedeki en ünlü parklardan biri olan Manuel Antonio Milli Parkı’nı görmek için küçük bir köy olan Manuel Antonio’ya gidiyoruz. Bu ünlü park, güzel lagünler, palmiyelerle kaplı plajlar, çok sayıda hayvan ve yemyeşil ormanlar ile kutsanmıştır. Manuel Antonio Ulusal Parkı'na ev sahipliği yapan birçok canlı arasında yakalı tembel hayvanlar, pelikanlar, beyaz yüzlü maymunlar, antiloplar ve devasa iguanalar bulunur. Aynı zamanda plajları ile de ünlüdür - maymunların ve rakunların hırsızlıklarından korunmak istiyorsanız eşyalarınıza sahip çıkın!"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Santa Elena ve Monteverde",
+        "description": "Bir zamanlar muz ihracatı için çok önemli bir liman olan eski Quepos kasabasına gidiyoruz. Daha sonra, Pasifik Okyanusu'na ulaşmamız için düzleşecek olan yemyeşil tepelerin muhteşem manzarasına tanık olacağımız dik ve engebeli bir dağ yoluna çıkıyoruz. Bulutlara erişen ve 1950'lerde Amerikan Quaker'ları tarafından kurulan küçük Santa Elena kasabasına varıyoruz."
+      },
+      {
+        "dayNumber": 6,
+        "title": "La Fortuna",
+        "description": "Bir sonraki yolculuğumuz, minibüs ve botlarla bizi bulut ormanının dağlarından götürüyor. Arenal Gölü'nün ilk ayağı yaklaşık 1 saat 30 dakika sürüyor ve manzara gerçekten muhteşem. Dönüp duran tepeler en sonunda Arenal Volkanı'nın uzak manzaralarına yol açıyor ve kimi yerlerde fotoğraflar çekimi için durabiliriz. Yolun kenarında son kez durduğumuzda, bir toprak yoldan aşağı inerek Arenal Gölü kıyısındaki teknemize ulaşıyoruz. Manzara gölden gerçekten inanılmaz ve yaklaşık bir saat boyunca yavaş yavaş Arenal Volkanı'na yaklaşıyoruz. Diğer tarafa vardığımızda, başka bir minibüse binip 30 dakikalık bir seyahatle La Fortuna'ya varıyoruz."
+      },
+      {
+        "dayNumber": 8,
+        "title": "San José",
+        "description": "Daha sonra bir geceliğine San Jose'ye dönüyoruz. Özellikle haftasonu buradaysanız dünya standartlarında restoranlarda yemek yiyebilir, muhteşem gece hayatına dalabilirsiniz."
+      },
+      {
+        "dayNumber": 9,
+        "title": "Bocas del Toro",
+        "description": "Kosta Rika'dan ayrılıp otobüsle Panama'ya gidiyoruz. ? TL çıkış vergisi ve Panama’ya varışta da ? TL giriş ücreti ödemek zorundayız. Botumuza atlayarak onlarca su sporu seçeneğimizin olacağı Bocas del Toro'ya gidiyoruz. Bocas del Toro takımadaları ziyaretçilere çok çeşitli cazibeler ve doğal ortamlar sunuyor; fauna ve flora bolluğundaki lüks yağmur ormanları. Bu güneşli adalarda Karayiplerin en iyileriyle yarışan plajlar, mercan kayalıkları ve kristal berrak sular var. Boş zamanlarınızda Bocas del Toro'nun tadını çıkarmak için iki gününüz var. Dalış, şnorkelli yüzme ve kano gezileri ve yakındaki Mangrove Ormanı'na bisiklet kiralama ve tekne gezileri gibi seçenekler vardır."
+      },
+      {
+        "dayNumber": 11,
+        "title": "Boquete",
+        "description": "Sonra yaylalara ve büyüleyici dağ köyü Boquete'ye gidiyoruz. Volcan Barú'nun doğu yamaçlarında yer alan Boquete, soğuk iklimlerde güneşlenmek ve mükemmel manzaralara eşlik etmek isteyenler için gittikçe popüler bir yer haline geliyor. Boquete'nin tüm Panama'daki en tatlı portakalları ve en zengin kahvelerden bazılarını ürettiği biliniyor; çünkü çevredeki tepeler ve eğimler sürdürülebilir tarım uygulamalarıyla bilinen alacalı kahve tarlaları ile kaplı. Bu çiftlikler, dünyaca ünlüdür ve dağın daha yüksek kısımlarındaki bulut ormanlarında yaşayan kuşlarla aynı sayıda kuşa ev sahipliği yapar."
+      },
+      {
+        "dayNumber": 13,
+        "title": "Panama City",
+        "description": "Bugün, Panama şehrine kısa bir uçuş uzaklığındaki David'e gidiyoruz. Panama City, Güney Amerika'ya geçiş noktası ve kesinlikle görülmeye değer olan ünlü Panama Kanalı'na ev sahipliği yapıyor. Panama Kanalı Geçişinde bir yer ayırtma seçeneğiniz var, böylece tekne ile ünlü suyolunu gezebilirsiniz. Zaman kısıtlaması nedeniyle bu gezi ile aynı günlerde Panama'dan yapılacak herhangi bir seyahat için rezervasyon yaptırmamanız gerektiğini lütfen unutmayın."
+      },
+      {
+        "dayNumber": 14,
+        "title": "Panama’dan Ayrılış",
+        "description": "Hayatınızın macerası bugün sona eriyor. Geç bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "country": "Costa Rica"
+  },
+  {
+    "destination": "Costa Rica",
+    "mainPhoto": "",
+    "id": "CER",
+    "tourName": "San Jose’den San Jose’ye",
+    "placesVisited": "Costa Rica",
+    "generalInfo": "Bu, Kosta Rika’yı tam anlamıyla deneyimlemek isteyen doğa severler için enfes bir turdur. Olağanüstü milli parklardan volkanlara, olağanüstü kumsallara, mercan kayalıklarına ve bolca yaban hayatına kadar Kosta Rika’da görebileceğiniz her şey bu turda. Monteverde'nin sisli bulut ormanını keşfedin, Arenal Volkanı'ndan yukarı tırmanın, ve sonra da Cahuita Ulusal Parkı'nın resiflerinde inanılmaz su altı manzarasının tadını çıkarın.",
+    "durationDays": "14",
+    "price": "999",
+    "image1": "siempretour-images/CER/cer_costa-rica-encompassed2019_04_10_21_26_18_0.jpg",
+    "image2": "siempretour-images/CER/cer_costa-rica-encompassed2019_04_10_21_26_18_1.jpg",
+    "image3": "siempretour-images/CER/cer_costa-rica-encompassed2019_04_10_21_26_18_2.jpg",
+    "image4": "siempretour-images/CER/cer_cer_profil.jpg",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "19",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler ve aktiviteler: </strong></p>\n<p>&gt; Manuel Antonio Milli Parkı’na giriş</p>\n<p>&gt; Monteverde Bulut Ormanı Koruma Alanı'na giriş</p>\n<p>&gt; Tortuguero Milli Parkı’na giriş</p>\n<p> </p>\n<p><strong>Konaklama:</strong> Otellerde 13 gece</p>\n<p><strong>Taşıma:</strong> Toplu taşıma, bot, Özel araç</p>\n<p><strong>Yemekler:</strong> 11 kahvaltı</p>\n<p><strong>Diğerleri:</strong> Siempre Tur tur lideri</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "San Jose’ye Varış",
+        "description": "Kosta Rika’nın başkenti San Jose kahve ve şeker kamışı çiftlikleri arasında verimli bir vadide yer almaktadır. Depremlerden dolayı sömürgecilik dönemi mimarisinden pek bir şey kalmamıştır geriye. Fakat 1897’de inşa edilen Ulusal Tiyatro kesinlikle görülmeye değer. Belki buradayken bir performansa denk gelecek kadar şanslısınızdır. Altın Müzesi, Jade Müzesi ve Ulusal Müzeler de yine ziyaret etmek için kesinlikle önerilir."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Manuel Antonio",
+        "description": "Orta Vadi’den Pasifik kıyısına, gür yeşilliklerle kaplı kırsallardan geçerek ülkedeki en ünlü parklardan biri olan Manuel Antonio Milli Parkı’nı görmek için küçük bir köy olan Manuel Antonio’ya gidiyoruz. Bu ünlü park, güzel lagünler, palmiyelerle kaplı plajlar, çok sayıda hayvan ve yemyeşil ormanlar ile kutsanmıştır. Manuel Antonio Ulusal Parkı'na ev sahipliği yapan birçok canlı arasında yakalı tembel hayvanlar, pelikanlar, beyaz yüzlü maymunlar, antiloplar ve devasa iguanalar bulunur. Aynı zamanda plajları ile de ünlüdür - maymunların ve rakunların hırsızlıklarından korunmak istiyorsanız eşyalarınıza sahip çıkın!"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Santa Elena & Monteverde",
+        "description": "Bir zamanlar muz ihracatı için çok önemli bir liman olan eski Quepos kasabasına gidiyoruz. Daha sonra, Pasifik Okyanusu'na ulaşmamız için düzleşecek olan yemyeşil tepelerin muhteşem manzarasına tanık olacağımız dik ve engebeli bir dağ yoluna çıkıyoruz. Bulutlara erişen ve 1950'lerde Amerikan Quaker'ları tarafından kurulan küçük Santa Elena kasabasına varıyoruz."
+      },
+      {
+        "dayNumber": 6,
+        "title": "La Fortuna",
+        "description": "Bir sonraki yolculuğumuz, minibüs ve botlarla bizi bulut ormanının dağlarından götürüyor. Arenal Gölü'nün ilk ayağı yaklaşık 1 saat 30 dakika sürüyor ve manzara gerçekten muhteşem. Dönüp duran tepeler en sonunda Arenal Volkanı'nın uzak manzaralarına yol açıyor ve kimi yerlerde fotoğraflar çekimi için durabiliriz. Yolun kenarında son kez durduğumuzda, bir toprak yoldan aşağı inerek Arenal Gölü kıyısındaki teknemize ulaşıyoruz. Manzara gölden gerçekten inanılmaz ve yaklaşık bir saat boyunca yavaş yavaş Arenal Volkanı'na yaklaşıyoruz. Diğer tarafa vardığımızda, başka bir minibüse binip 30 dakikalık bir seyahatle La Fortuna'ya varıyoruz."
+      },
+      {
+        "dayNumber": 9,
+        "title": "Tortuguero Milli Parkı",
+        "description": "Otobüsle Limon yakınlarındaki Moin limanına gidiyoruz, burada bir tekne bizi Atlantik / Karayip kıyılarında bulunan iç orman kanallarına ve Tortuguero Milli Parkı'na götürmeyi bekliyor olacak. Yaban hayatı ile çevrili ve yoğun bitki örtüsüyle kaplı uzak bir orman kulübesinde iki gece geçiriyoruz. Maymunlara, tembellere, timsahlara, kaplumbağalara, sayısız farklı kuş türüne ve “Jesus Lizard” da dâhil olmak üzere büyük bir hayvan çeşitliliğine tanıklık edeceğiz. Suyun üzerinde yürüdüğü için böyle bir isim verilmiş."
+      },
+      {
+        "dayNumber": 11,
+        "title": "Cahuita",
+        "description": "Cahuita Milli Parkı'na yakın küçük sahil kasabası Cahuita'ya devam ediyoruz. Öğle vakti oraya vardığımızda, Karayip kıyılarının en iyi milli parklarından birini keşfetmek için bolca zamanımız olacak. Kosta Rika'daki en güzel plajlardan birinin yanı sıra, bizi güzel manzaralara götürecek olan yürüyüş rotaları ve patika yollar mevcut. Maymunlara, tembellere, kertenkelelere, kurbağalara ve diğer vahşi yaşam olaylarına dikkat edin. Cahuita ayrıca ülkedeki tek mercan kayalıklarına da ev sahipliği yapmaktadır. Kayalıklar üzerinden şnorkelle dalmanın tek yolu rehberli bir turdur, bu noktada sizi kayalıklara çıkarması için yerel bir rehber kiralayabilirsiniz."
+      },
+      {
+        "dayNumber": 13,
+        "title": "San José",
+        "description": "Son gece için San Jose’ye dönüyoruz."
+      },
+      {
+        "dayNumber": 14,
+        "title": "San Jose’den Ayrılış",
+        "description": "Hayatınızın macerası bugün sona eriyor. Geç bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "country": "Costa Rica"
+  },
+  {
+    "destination": "Costa Rica",
+    "mainPhoto": "",
+    "id": "NCR",
+    "tourName": "San Jose’den San Jose’ye",
+    "placesVisited": "Costa Rica",
+    "generalInfo": "Büyüleyici Kosta Rika'da bir tur atın ve Orta Amerika’daki bu harikalar diyarının doğal güzelliklerini deneyimleyin. Arenal Volkanı'na tanık olun ve yakınlardaki kaplıcalara dalın. Monteverde Bulut Ormanı'nda dev ağaçlar arasındaki bulut ormanının üzerinden uçan heyecan verici bir zipline deneyimi yaşayabilirsiniz. Manuel Antonio Ulusal Parkı’nın güzel lagünlerini, palmiye ağaçlarını ve yemyeşil ormanlarını keşfedin.<br><br><strong>En Yakın Uluslararası Havaalanına (geliş):</strong> San Jose Juan Santamaria Uluslararası Havalimanı (SJO)<br><br><strong>En Yakın Uluslararası Havaalanı (gidiş):</strong> San Jose Juan Santamaria Uluslararası Havalimanı (SJO)",
+    "durationDays": "9",
+    "price": "659",
+    "image1": "siempretour-images/NCR/ncr_nature-trails2019_04_11_21_02_36_0.jpg",
+    "image2": "siempretour-images/NCR/ncr_nature-trails2019_04_11_21_02_36_1.jpg",
+    "image3": "siempretour-images/NCR/ncr_nature-trails2019_04_11_21_02_36_2.jpg",
+    "image4": "siempretour-images/NCR/ncr_ncr_profil.jpg",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "19",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Geziler ve aktiviteler: </strong></p>\n<ul>\n<li>- Manuel Antonio Milli Parkı’na giriş</li>\n<li>- Monteverde Bulut Ormanı Koruma Alanı'na giriş</li>\n</ul>\n<p><strong>Konaklama:</strong></p>\n<ul>\n<li>- Otellerde 8 gece</li>\n</ul>\n<p><strong>Taşıma:</strong></p>\n<ul>\n<li>- Toplu taşıma, bot, Özel araç</li>\n</ul>\n<p><strong>Yemekler:</strong></p>\n<ul>\n<li>- 6 kahvaltı</li>\n</ul>\n<p><strong>Diğerleri:</strong></p>\n<ul>\n<li>- Siempre Tur tur lideri</li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "San José'ye Varış",
+        "description": "Kosta Rika’nın başkenti San Jose kahve ve şeker kamışı çiftlikleri arasında verimli bir vadide yer almaktadır. Depremlerden dolayı sömürgecilik dönemi mimarisinden pek bir şey kalmamıştır geriye. Fakat 1897’de inşa edilen Ulusal Tiyatro kesinlikle görülmeye değer. Belki buradayken bir performansa denk gelecek kadar şanslısınızdır. Altın Müzesi, Jade Müzesi ve Ulusal Müzeler de yine ziyaret etmek için kesinlikle önerilir."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Manuel Antonio",
+        "description": "Orta Vadi’den Pasifik kıyısına, gür yeşilliklerle kaplı kırsallardan geçerek ülkedeki en ünlü parklardan biri olan Manuel Antonio Milli Parkı’nı görmek için küçük bir köy olan Manuel Antonio’ya gidiyoruz. Bu ünlü park, güzel lagünler, palmiyelerle kaplı plajlar, çok sayıda hayvan ve yemyeşil ormanlarla kutsanmıştır. Manuel Antonio Ulusal Parkı'na ev sahipliği yapan birçok canlı arasında yakalı tembel hayvanlar, pelikanlar, beyaz yüzlü maymunlar, antiloplar ve devasa iguanalar bulunur. Aynı zamanda plajları ile de ünlüdür - maymunların ve rakunların hırsızlıklarından korunmak istiyorsanız eşyalarınıza sahip çıkın!"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Santa Elena & Monteverde",
+        "description": "Bir zamanlar muz ihracatı için çok önemli bir liman olan eski Quepos kasabasına gidiyoruz. Daha sonra, Pasifik Okyanusu'na ulaşmamız için düzleşecek olan yemyeşil tepelerin muhteşem manzarasına tanık olacağımız dik ve engebeli bir dağ yoluna çıkıyoruz. Bulutlara erişen ve 1950'lerde Amerikan Quaker'ları tarafından kurulan küçük Santa Elena kasabasına varıyoruz."
+      },
+      {
+        "dayNumber": 6,
+        "title": "La Fortuna",
+        "description": "Bir sonraki yolculuğumuz, minibüs ve botların bir kombinasyonunun kullanılmasıyla bizi bulut ormanının dağlarından götürüyor. Arenal Gölü'nün ilk ayağı yaklaşık 1 saat 30 dakika sürüyor ve manzara gerçekten muhteşem. Dönüp duran tepeler en sonunda Arenal Volkanı'nın uzak manzaralarına yol açıyor ve kimi yerlerde fotoğraf çekimi için durabiliriz. Yolun kenarında son kez durduğumuzda, bir toprak yoldan aşağı inerek Arenal Gölü kıyısındaki teknemize ulaşıyoruz. Manzara gölden gerçekten inanılmaz ve yaklaşık bir saat boyunca yavaş yavaş Arenal Volkanı'na yaklaşıyoruz. Diğer tarafa vardığımızda, başka bir minibüse binip 30 dakikalık bir seyahatle La Fortuna'ya varıyoruz."
+      },
+      {
+        "dayNumber": 8,
+        "title": "San José",
+        "description": "Başka bir gece için San Jose'ye dönüyoruz. Akşamları, özellikle haftasonu buradaysanız, dünya standartları seviyesindeki restoranlarda yemek yiyebilir ve harika gece hayatına dalabilirsiniz. Lütfen dikkat: Bazı gidişlerde tur lideri sizinle tekrar seyahat etmeyecektir. Bunun yerine bir transfer sizi San Jose'ye götürecektir. Burada bir temsilci sizi karşılayacaktır."
+      },
+      {
+        "dayNumber": 9,
+        "title": "San José'den Ayrılış",
+        "description": "Hayatınızın macerası bugün sona eriyor. Geç bir uçuşunuz varsa veya tatil sonrası konaklama ekleyerek konaklamanızı uzattıysanız manzaraları keşfetmek için daha fazla zamanınız olacaktır."
+      }
+    ],
+    "map": "",
+    "country": "Costa Rica"
+  }
+]

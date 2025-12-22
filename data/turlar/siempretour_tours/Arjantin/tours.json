@@ -1,0 +1,256 @@
+[
+  {
+    "destination": "Arjantin",
+    "mainPhoto": "",
+    "id": "HBR",
+    "tourName": "Buenos Aires - Rio Ekspresi",
+    "placesVisited": "Arjantin, Brezilya",
+    "generalInfo": "Güney Amerika’nın en canlı iki şehrini keşfetmek isterseniz, bu tur tam size göre. Buenos Aires ve Rio’nun en güzel parçalarını birleştirin ve görkemli Iguazu şelalelerini ziyaret edin. Tur bittikten sonra Rio’nun güneşli kumsallarında rahatlamak için ekstra zaman ayırmayı unutmayın.",
+    "durationDays": "6",
+    "price": "889",
+    "image1": "siempretour-images/HBR/hbr_hbr_profil.jpg",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "19",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p><strong>Konaklama</strong></p>\n<p>5 gece Otelde</p>\n<p><strong>Yemekler</strong></p>\n<p>1 Yerel Kahvaltı, 2 Açık Büfe Kahvaltısı</p>\n<p><strong>Geziler</strong></p>\n<p>Brezilya' daki Iguazu Şelaleleri</p>\n<p>Arjantin' deki Iguazu Şelaleleri</p>\n<p><strong>Ulaşım</strong></p>\n<p>Özel Araç, Uçak(lar)</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Buenos Aires'e Varış",
+        "description": "Yemyeşil parkları,meydanları ve geniş bulvarlarıyla Buenos Aires Güney Amerika’nın Paris’i olarak bilinir. Aralarında Monet, Renoir ve Cézanne’nin orijinal tablolarının da bulunduğu etkileyici koleksiyonuyla ünlü Museo Nacional de Bellas Arte,başkenti kültür tutkunları için harika bir ziyaret yeri haline getirir.Ayrıca Eva Peron müzesinde ulusal kahraman Evita ile ilgili birçok şey öğrenebilirsiniz."
+      },
+      {
+        "dayNumber": 3,
+        "title": "Foz Do Iguacu",
+        "description": "Dünyanın en olağanüstü şelalelerini,ünlü Iguazu’yu görmek için Arjantin tarafındaki Puerto Iguazu’ya uçuyoruz.Her iki ülkede ziyaret edeceğimiz Iguazu’da dünyadaki 1 veya 2 kataraktlı(çağlayan) şelalelerden farklı olarak 3km uzunluğunda u şeklinde sıralanmış muhteşem 275 katarakt bulunur."
+      },
+      {
+        "dayNumber": 5,
+        "title": "Rio de Janeiro",
+        "description": "Olağanüstü Rio de Janeiro birçok yer görüp birçok şey yapabileceğiniz bir şehirdir.Corcovado’nun tepesindeki Kurtarıcı İsa heykelinin görkemli duruşu,nefes kesici panoramik manzaralarıyla Sugarloaf dağının tepesi ve  rengarenk fayanslarıyla Selaron basamkları tecrübe etmeniz gereken öne çıkan yerlerden bazıları.Merdivenlerden yürüyerek parke taşlı sokaklarda dizilmiş pek çok eski kafe ve mağazaları olan ,tepedeki sakin Santa Teresa mahallesine gidebilirsiniz.Şehrin merkezinde,Rio’nun koloni döneminden kalma eski binalarının çevresinde gezintiye çıkabilir finans bölgesinin gökdelenleri arasında kaybolabilirsiniz.Alternatif olarak botanik bahçelerini ,dünyanın en ünlü plajlarından Copacabana ya da Ipanema’yı veya enfes Rodrigues de Freitas lagününü ziyaret edebilirsiniz.Akşam ise,karnavalı özel yapan şeyi kavramak için gerçek bir samba gösterisinin keyfini çıkarmamanız için hiçbir neden yok."
+      },
+      {
+        "dayNumber": 6,
+        "title": "Rio de Janeiro'dan Ayrılış",
+        "description": "Ömrünüz boyunca unutamayacağınız bir macera  bugün sona eriyor.Eğer geç saatte bir uçuşunuz varsa ya da konaklamanızı ve kalış sürenizi uzatırsanız şehri daha fazla gezmek için ekstra zamanınız olacak."
+      }
+    ],
+    "map": "",
+    "country": "Arjantin"
+  },
+  {
+    "destination": "Arjantin",
+    "mainPhoto": "",
+    "id": "TMNA",
+    "tourName": "Kuzey Arjantin",
+    "placesVisited": "Arjantin",
+    "generalInfo": "Kuzey Arjantin’ de alışılmışın dışında turistik bir macera. Seçkin üzüm bağlarını kuru çöl peyzajlarıyla bir araya getirin ve muhteşem yürüyüş fırsatlarının keyfini yaşayın.<br><br><strong>Önemli not:</strong>  Tur programı model bir programdır ve ihtiyaçlarınıza, bütçenize uygun hale getirilebilir.",
+    "durationDays": "10",
+    "price": "2329",
+    "image1": "siempretour-images/TMNA/tmna_TMNA.jpg",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "",
+    "dates": "",
+    "minimumAge": "",
+    "meet": "",
+    "whatExpect": "<p><strong>Tur ve Aktiviteler</strong></p>\n<ul>\n<li>- Salta şehir turu</li>\n<li>- Cardones ulusal parkı</li>\n<li>- Isasmendi ve Miraluna şaraphane ziyareti</li>\n<li>- Tacuil şaraphanesi ve Colome bağları ziyareti</li>\n<li>- Quilmes kalıntıları ve Pachamama müzesi ziyareti</li>\n<li>- Puna Atacama bölgesinde geziler</li>\n</ul>\n<p><strong>Konaklama</strong></p>\n<p>Otelde 5 gece, kulübede 4  gece</p>\n<p><strong>Yemekler</strong></p>\n<p>9 kahvaltı</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Salta' ya Varış",
+        "description": "Salta kuzeybatı Arjantin’ de Andların etekleri ve bereketli yeşil vadilerle çevrili, İspanyol mimarisini oldukça iyi korumuş bir koloni şehridir. Salta havaalanına vardığınızda şehirdeki otele özel transferiniz için rehberinizle buluşacaksınız. Otele yerleştikten sonra Salta’ yı gezip şehrin bazı ilgi çekici yerlerini görebileceğiniz sakin bir yürüyüşe çıkacaksınız. Önce ana meydan Plaza 9 de Julio’ yu ziyaret edip ana katedral, fotojenik San Francisco kilisesi ve San Bernardo manastırı gibi şehirdeki tarihi koloni yapılarını göreceksiniz."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Cardones Ulusal Parkı, Cachı",
+        "description": "Dağların  yükseklerine Salta’ nın tarım bölgesi Cachi’ ye doğru seyahat ediyoruz. Kıvrımlı yollardan yukarı doğru eşsiz manzaralar eşliğinde yolculuğun keyfini yaşadıktan sonra deniz seviyesinden 3457 m yüksekteki bir patikadan geçeceğiz. Yol üzerinde bacaklarınızı açmak için dev kaktüslere ev sahipliği yapan Cardones ulusal parkında duracağız."
+      },
+      {
+        "dayNumber": 3,
+        "title": "Molinos",
+        "description": "Yüksek bölge şaraplarının merkezi olarak bilinen sakin Molinos köyüne seyahat ediyoruz. 1810’ dan beri çalışan ve küçük bir aile şirketi olan şaraphaneyi ziyaret edeceğiniz Bodega Tacuil’ e gideceğiz. 2597 m.  yükseklikte yetişen üzümlerden üretilen bu şaraplar gerçekten eşsizdir. Öğleden sonra dünyanın en yüksek üzüm bağı olan Bodega Colome’ yi ziyaret edeceksiniz. Buradaki şarap mahzenini ziyaret edin, bazı farklı 1. kalite şarapları tadın ve James Turrell müzesinde sergilenen çarpıcı modern sanat koleksiyonunu görün."
+      },
+      {
+        "dayNumber": 4,
+        "title": "Cafayate",
+        "description": "Yol boyunca küçük köylerden geçerek araçla Cafayate’ ye ilerliyoruz. Ayrıca güzel kaya oluşumları ve derin kanyonları görebileceğiniz Quebrada de las Flecas çölünden geçeceğiz. Cafayate’ ye vardıktan sonra farklı birçok şarabı tadıp nefis öğle yemeğinin keyfini çıkarmak için bazı bağları ziyaret edeceksiniz. Akşam Cafayate’ nin atmosferik şehir meydanını görmek üzere serbest olacaksınız ve zamanlamaya bağlı olarak şehirdeki harika şarap müzesini ziyaret edebilirsiniz."
+      },
+      {
+        "dayNumber": 6,
+        "title": "El Penon (Puna De Atacama)",
+        "description": "Puna de Atacama nın muhteşem yerleşkesi küçük vaha El Penon’ a alışılmışın dışında bir seyahat yapıyoruz. Yol üzerinde Quilmes harabelerinde ve Pachamama müzesinde duracağız. Quilmes kalıntıları Arjantin’ deki en büyük Kolombiya öncesi yerleşim yeriydi. Pachamama müzesi ise özgün yerlilerin yaşamlarına dair ipuçları veren duvar dokumaları, resimler ve heykeller ile ünlüdür."
+      },
+      {
+        "dayNumber": 7,
+        "title": "Campo De Pıedra Pomez, Laguna Grande (Punade Atacama)",
+        "description": "Puna de Atacama’ dan geçerek maceranız devam ediyor. Bu sabah tuhaf volkanik süngertaşı kayalarından oluşan bölge Campo de Piedra Pomez’ i ziyaret edeceğiz. Arjantin’ in bu uzak ve çorak yer şeklindeki beyaz dev kum tepelerine hayran kalacaksınız. Öğleden sonra ise deniz seviyesinden 4150 m.  yükseklikteki tuzlu su gölü Laguna Grande’ ye gideceğiz. Burası Puma flamingolarının yanı sıra diğer kalabalık And ve güney flamingo sürülerine ev sahipliği yapar."
+      },
+      {
+        "dayNumber": 8,
+        "title": "Antofalla Vahası, Calalaste (Puna De Atacama)",
+        "description": "Çölün ortasında bulunan güzel vaha bölgesi Antofalla’ ya seyahat ediyoruz. Burada küçük bir insan topluluğu yaşar ve tuzlu su gölü yüzeyindeki yolculuğumuz öncesi öğle yemeği için burada duracağız. Araçla 4200 m yüksekliğe ilerleyerek muhteşem manzaralara tanık olacağız. Antofalla volkanını ve lamaların otladığı Vega Colorado yeşil alanını göreceksiniz."
+      },
+      {
+        "dayNumber": 9,
+        "title": "Mına Casualıdad, Rıo Grande, Tolar Grande (Puna De Atacama)",
+        "description": "Alışılmışın dışında turist rotasından Arjantin’ in en uzak köşelerinden birine  seyahat ediyoruz. Gezegendeki en yüksek volkanlardan bazılarının çevrelediği terk edilmiş bir maden olan hayalet kasaba Mina Casualidad ‘ ı ziyaret edeceğiz. Terkedilmiş olduğu halde Puna çölünün muhteşem manzaralarına hakim olan eski tren istasyonunu göreceğiz. Geçek üstü yer şekilleriyle çevrili Tolar Grande köyünü de ziyaret etme fırsatınız olacak. Dünyanın en büyük tuz düzlüklerinden birini keşfedecek ve çölün ortasında gizlenmiş bir kum tepesine yürüyüş yapacaksınız. Bu tepenin üzerinden Macon dağı ve Llllaillaco volkanının panoramik görüntülerinin keyfini yaşayabilirsiniz."
+      },
+      {
+        "dayNumber": 10,
+        "title": "Salta' dan Ayrılış",
+        "description": "Ömrünüz boyunca unutamayacağınız bir macera  bugün sona eriyor. Eğer geç saatte bir uçuşunuz varsa ya da konaklamanızı ve kalış sürenizi uzatırsanız şehri daha fazla gezmek için ekstra zamanınız olacak."
+      }
+    ],
+    "map": "",
+    "country": "Arjantin"
+  },
+  {
+    "destination": "Arjantin",
+    "mainPhoto": "",
+    "id": "BXSJR",
+    "tourName": "Rio'ya Yolculuk",
+    "placesVisited": "Arjantin, Brezilya",
+    "generalInfo": "Eğer Güney Amerika’daki en renkli iki şehri karşılaştırmak isterseniz, bu tur tam size göre. Rio, Brezilya’ya seyahatimiz Buenos Aires’ten başlıyor. Bonito’ya gidip şnorkelle berrak mavi göllerin keyfini çıkarmadan önce, Devil’s Throat (Şeytan boğazından) suyun sesini hissedeceğiniz Iguazu şelalelerini ziyaret edeceksiniz. Buenos Aires’i Brezilya’nın ünlü karnaval şehriyle karşılaştırma şansı bulacaksınız.<br><br>Katılış için en yakın uluslararası havaalanı: Buenos Aires Ministro Pistarini Uluslararası Havaalanı (EZE)<br><br>Ayrılış için en yakın uluslararası havaalanı: Rio Galeao Antonio Carlos Jobim Uluslararası Havaalanı (GIG)",
+    "durationDays": "13",
+    "price": "769",
+    "image1": "siempretour-images/BXSJR/bxsjr_bxsjr_profil.jpg",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "34",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p>-Brezilya ve Arjantin’den Iguazu Şelaleleri</p>\n<p><strong>Konaklama</strong></p>\n<p>Hostelde 2 gece , kamp alanında 9 gece, otelde 1 gece</p>\n<p><strong>Ulaşım</strong></p>\n<p>Karayolundan kamyonetle</p>\n<p><strong>Yemekler</strong></p>\n<p>12 kahvaltı 9 öğle yemeği 9 akşam yemeği</p>\n<p><strong>Diğer</strong></p>\n<p>Tur lideri ve sürücü</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Buenos Aires'e Varış",
+        "description": "Buenos Aires şirin yeşil alanları,meydanları ve geniş bulvarları ile çok güzel bir şehir.Otelimizde görülmesi gereken yerlere,ki bunların büyük kısmı yürüme mesafesinde, ve şehrin kalan kısmına seyahat edilebilinen ulaşım ağlarına yakınlığı açısından eşsiz bir konumda.Başkanlık sarayı Casa Rosada(Pembe Saray) nın balkonu Eva Peron un birçok halk konuşmasını yaptığı yer olmasının yanı sıra Madonna’nın Evita filminde ‘Dont cry form e Argentina’ parçasını seslendirdiği balkondur.Eski yönetim binaları Cabildo,the Palacio Municipal’i ve katedrali Plaza de Mayo’nun hemen karşısında görebilirsiniz.Bu plazada her Salı öğleden sonra 70 lerdeki askeri yönetim döneminde kaybolan aile üyeleri akrabalar anısına Plaza de Mayo anneleri marşı söylenir.Puerto Madera bölgesinde muhteşem restoranlar yer alır,renkli binaları ve kültürel tarihi ile La Boca da görülmeye değer bir limandır.Bohem bir yer olan San Telmo yakınında her Pazar büyüleyici bir antika pazarı kurulur.Bir başka görülmesi gereken yer ise başta Eva Peron olmak üzere birçok ünlü ve zengin kişinin gömülü olduğu ve adeta kendi içinde bir kasaba görünümündeki Recoleta Mezarlığı.Geç saatlere kadar hizmet veren gece kulüpleri bar restoran ve sinema salonları nedeniyle Buenos Aires in gece hayatı konusundaki şöhreti hiçte abartılı değildir.Dışarıda harika bir akşam geçirmek için şehre özgü bir tango şovunu izleyin ve dünyanın en iyilerinden olan bifteğin tadına bakmadan Buenos Aires ten ayrılmayın."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Seyir Halinde",
+        "description": "Muazzam Iguazu Şelalelerine geçeceğimiz Puertu Iguazu ya doğru gün boyu uzun bir araç yolculuğumuz var."
+      },
+      {
+        "dayNumber": 3,
+        "title": "Puerto Iguazú",
+        "description": "Devam ederek Puerto Iguazu ya varıyoruz.Yarın şelaleleri görmeye gitmeden bu gece otelimize yakın bar ve kulüpleri gezin."
+      },
+      {
+        "dayNumber": 4,
+        "title": "Foz Do Iguacu",
+        "description": "Bu sabah yağmur ormanlarından geçerek dar köprüler boyunca üstlerinden yürüyeceğiniz Arjantin tarafındaki şelaleleri göreceğiz,ayrıca 14 şelalenin daima yoğun bir damlalar bulutu oluşturacak güçte döküldüğü İspanyolca’da Şeytan Boğazı anlamına gelen Garganta del Diablo da buradadır.Biraz daha sakinleşmek isterseniz, bu etkileyici şelaleleri farklı bir açıdan görmenin eğlenceli bir yolu olarak nehir de bir Zodyak turu yapabilirsiniz."
+      },
+      {
+        "dayNumber": 4,
+        "title": "Foz Do Iguacu",
+        "description": "Bu sabah yağmur ormanlarından geçerek dar köprüler boyunca üstlerinden yürüyeceğiniz Arjantin tarafındaki şelaleleri göreceğiz,ayrıca 14 şelalenin daima yoğun bir damlalar bulutu oluşturacak güçte döküldüğü İspanyolca’da Şeytan Boğazı anlamına gelen Garganta del Diablo da buradadır.Biraz daha sakinleşmek isterseniz, bu etkileyici şelaleleri farklı bir açıdan görmenin eğlenceli bir yolu olarak nehir de bir Zodyak turu yapabilirsiniz."
+      },
+      {
+        "dayNumber": 6,
+        "title": "Seyir halinde",
+        "description": "Kuzeye kıtanın içlerine,Bonito’ya doğru yola çıkıyoruz.Uzun bir yolumuz var ve yolculuğu tamamlamak için sadece bir gece durabileceğiz."
+      },
+      {
+        "dayNumber": 7,
+        "title": "Bonito",
+        "description": "Bonito,Mato Grosso Do Sul eyaletinde yer alır ve nehirlerinin,mağara göllerinin inanılmaz mavisi ile ünlüdür.Sular yerdeki büyük miktarda kalkerlerin arasından süzülür ve tüm kirleri yatağının dibinde biriktirdiği nehirlere Dünya’nın en temiz görünümünü verir."
+      },
+      {
+        "dayNumber": 9,
+        "title": "Parati",
+        "description": "Costa Verde’ye ilerleyerek özelliğini asla kaybetmemiş eski bir Portekiz koloni şehri(1500-1822) olan Parati’ye varıyoruz.Şehir tarihi merkezi sahili ve dağlarıyla ünlü. 17ve 19. Yüzyıllar arasında altın ve kahve ihracatının başlıca limanlarından birisi olan Parati de teknelerle körfez gezileri, yağmur ormanları ve altın patika yürüyüşleri önerilen turlardır."
+      },
+      {
+        "dayNumber": 12,
+        "title": "Rio de Janeiro",
+        "description": "Rio de Janeiro,bilinen adıyla Rio ,Brezilya’nın 2. Büyük şehri ve tartışmasız Dünya’nın en güzel şehirlerinden biridir.17.yüzyılın sonlarında Portekizliler Minas Gerais’te altın ve elmas bulunca Rio bu hazinenin taşındığı başlıca liman haline geldi.1763-1815 yılları arasında Portekiz sömürge döneminde Rio ,Brezilya’nın başkentiydi."
+      },
+      {
+        "dayNumber": 13,
+        "title": "Depart Rio de Janeiro",
+        "description": "Hayatınızın macerası bugün sona eriyor.Eğer geç saatte bir uçuşunuz varsa ya da konaklamanızı ve kalış sürenizi uzatırsanız şehri daha fazla gezmek için ekstra zamanınız olacak."
+      }
+    ],
+    "map": "",
+    "country": "Arjantin"
+  },
+  {
+    "destination": "Arjantin",
+    "mainPhoto": "",
+    "id": "TSTAN",
+    "tourName": "Tango' dan Samba' ya",
+    "placesVisited": "Arjantin, Brezilya",
+    "generalInfo": "Büyüleyici Iguazu şelalelerinde ara vererek, Güney Amerika’ nın en hareketli ve heyecan verici iki şehri Buenos Aires ve Rio de Janeiro’ yu ziyaret edin. Hepsinin başladığı o şehirde ateşli görüntüler ve tango sesleriyle baştan çıkacaksınız. Güney Amerika’ nın Paris’ i olarak bilinen Arjantin’ in başkentinde daha birçok ilgi çekici manzarayla kendinizi büyülenmeye bırakın. Daha sonra kuzeyde muhteşem Iguazu şelalelerini görün ve Rio’ nun  güneşli plajları ve kalabalık sokaklarına ulaşarak Brezilya’ nın çekici samba ritimleriyle kendinizden geçin.<br><br><strong>Önemli not:</strong>  Tur programı model bir programdır ve ihtiyaçlarınıza, bütçenize uygun hale getirilebilir.",
+    "durationDays": "9",
+    "price": "1409",
+    "image1": "siempretour-images/TSTAN/tstan_tstan_20190501_1144038542.jpg",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "",
+    "dates": "",
+    "minimumAge": "",
+    "meet": "",
+    "whatExpect": "<p><strong>Tur ve Aktiviteler</strong></p>\n<ul>\n<li>- Yarım gün Buenos Aires turu</li>\n<li>- Tango gösterisi</li>\n<li>- Arjantin Iguazu şelaleleri</li>\n<li>- Brezilya Iguazu şelaleleri</li>\n<li>- Tam gün Rio de Janeiro turu</li>\n</ul>\n<p><strong>Konaklama</strong></p>\n<p>Otelde 8 gece</p>\n<p><strong>Yemekler</strong></p>\n<p>8 kahvaltı, 1 akşam yemeği, 1 öğle yemeği</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Buenos Aries' e Varış",
+        "description": "Buenos Aires, biraz Avrupa şehirlerini hatırlatan ve Latin Amerika eğilimi gösteren şaşırtıcı bir metropol olduğundan gerçekte Güney Amerika’ nın Paris’ i olarak bilinir. Portenos (liman insanları)  adı verilen şehir sakinleri tutkulu ve cana yakındır.  Amerika’ nın Paris’ i olarak bilinir. Portenos (liman insanları)  adı verilen şehir sakinleri tutkulu ve cana yakındır."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Buenos Aries",
+        "description": "Bugün şehri oluşturan farklı mahalleleri keşfedebileceğiniz panoramik bir tura çıkmak üzere grubunuza katılacaksınız. Herkes toplandıktan sonra, ünlü Colon tiyatrosunu ve portenos (liman bölgesi)  üzerinde yükselen dikilitaşı görebileceğiniz 9 de Julio Avenue boyunca araçla ilerlemeye başlayacağız. Saygı olarak sağlık bakanlığı binasına asılmış 10 kat yüksekliğindeki Evita Peron portresini de görme fırsatı bulacaksınız. Sonrasında Recoleta’ ya kadar yol boyunca güzel yapılarla dolu lüks Palermo semtinden geçeceksiniz. Burada aynı adı taşıyan ve şehrin ünlü sakinlerinin son istirahat yeri olan olağanüstü mezarlığı ziyaret edeceğiz ve Art Nouveau ve neo-Gothic tarzlardaki sayısız çarpıcı mozoleyi görebileceksiniz."
+      },
+      {
+        "dayNumber": 3,
+        "title": "Buenos Aries",
+        "description": "Ertesi günü dilediğiniz gibi geçirebilirsiniz. Eğer biraz dinlenip rahatlamak isterseniz, Rio de la Plata boyunca uzanan 865 akre (1 akre 4047 m2)  büyüklüğünde bataklık arazi üzerindeki Costanera Sur ekoloji rezervi gibi pek çok yeşil alan bulabilirsiniz. Parkın güney girişinden patikayı takip ettiğinizde kendinizi,  balıkçıllara kuğulara ve tepede dırdır eden yeşil papağanlara ev sahipliği yapan küçük göllerden çıkan kamışların arasında bulacaksınız."
+      },
+      {
+        "dayNumber": 5,
+        "title": "Tam Gün Arjantin Şelaleleri",
+        "description": "Bugün kahvaltıdan sonra toplanarak  Arjantin tarafındaki tam gün özel ulusal park geziniz için özel rehberinizle buluşacaksınız. Yaklaşık 1 mil uzunluğundaki patikadan oluşan Lower Circuit (alt devre)  sizi, Carlos Bozzetti gibi harika fotoğraflar çekebileceğiniz daha küçük şelalelerin yakınına götürür."
+      },
+      {
+        "dayNumber": 6,
+        "title": "Yarım Gün Breziya Şelaleleri ve Rio",
+        "description": "Bugün özel rehberinizle 1200 m. lik asma köprüden geçerek Brezilya tarafındaki şelalelere yarım günlük bir gezi yapacaksınız. Yürüyerek, farklı açılardan 275 şelalenin nefes kesen görüntülerine tanık olacaksınız. Brezilya tarafındaki başlıca 4 şelale:  Floriano,  Deodoro,  Benjamin Constant ve Salto Union veya Devil’ s Throat."
+      },
+      {
+        "dayNumber": 7,
+        "title": "Rio De Janerio",
+        "description": "Bugün otelinizden alınarak, tüm gün Rio’ nun en çarpıcı yerlerini gezeceğiniz küçük grupla bir jip turuna çıkacaksınız. Gün ekolojik olarak korunmuş dünyanın en büyük şehir ormanı olan Tijuca ormanında başlıyor. Çin gözlem kulesinde durarak, Ipanema ve Copacabana plajlarının, Guanabara körfezinin ve Niteroi şehrinin enfes manzaralarını izleyebilirsiniz. Kristal berraklığındaki şelalelerin çevresinde gezin ve ormandaki düzgün yollarda yürüyüş yapın. Ulusal park gezisi sonrası kurtarıcı İsa heykelinin yer aldığı Tijuca ormanındaki Corcovado tepesine devam edeceksiniz. Buradaki gözlem noktasından Maracana stadyumu ve Sugar Loaf dağı başta olmak üzere şehrin  pek çok sembolünü görebilirsiniz. Öğle yemeğinin ardından bir zamanlar denizcilerin görsel referans olarak kullandığı Guanabara körfezinin ağzındaki bölgeye gideceksiniz. Burası ayrıcalıklı bir konumdur ve Rio tarihindeki önemi onu ikonik bir sembol haline getirmiştir. 1817’ de 6. D. Joao tarafından egzotik bitkilerin yetiştirilmesi için hizmet vermek üzere kurulan Botanik bahçesinde turumuzu tamamlıyoruz. Pek çok hoş gizlenme yeriyle burası Bossa Nova müziğinin mucitlerinden Tom Jobim’ in favori mekanıydı."
+      },
+      {
+        "dayNumber": 9,
+        "title": "Rio De Janerio' dan Ayrılış",
+        "description": "Ömrünüz boyunca unutamayacağınız bir macera  bugün sona eriyor. Eğer geç saatte bir uçuşunuz varsa ya da konaklamanızı ve kalış sürenizi uzatırsanız şehri daha fazla gezmek için ekstra zamanınız olacak."
+      }
+    ],
+    "map": "",
+    "country": "Arjantin"
+  }
+]
