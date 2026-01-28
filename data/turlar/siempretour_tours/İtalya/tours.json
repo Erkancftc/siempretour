@@ -1,63 +1,1833 @@
 [
   {
-    "destination": "İtalya",
+    "destination": "İtalya",
     "mainPhoto": "",
-    "id": "STG08000",
-    "tourName": "MSC Bellisima ile Akdeniz",
-    "placesVisited": "İtalya, Malta, İspanya, Fransa",
-    "generalInfo": "Cenova, Napoli, Messina, La Valetta, Denizde Seyir, Barselona,       Marsilya, Cenova",
+    "id": "STG09051",
+    "tourName": "Celebrity Infinity ile Adriyatik & Akdeniz - 26 Temmuz 2020 (Kurban Bayramı)",
+    "placesVisited": "İtalya, Hırvatistan, Karadağ, Yunanistan",
+    "generalInfo": "Adriyatik Denizini ve Akdenizi Celebrity Infinity ile farklı bir açıdan keşfedin.",
     "durationDays": "8",
-    "price": "910",
-    "image1": "siempretour-images/STG08000/stg08000_msc-bellisima-ile-akdeniz2019_12_23_06_12_57_0.jpg",
-    "image2": "siempretour-images/STG08000/stg08000_msc-bellisima-ile-akdeniz2019_12_23_06_12_57_1.jpg",
-    "image3": "siempretour-images/STG08000/stg08000_msc-bellisima-ile-akdeniz2019_12_23_06_12_57_2.jpg",
-    "image4": "siempretour-images/STG08000/stg08000_msc-bellisima-ile-akdeniz2019_12_23_06_12_57_3.jpg",
-    "image5": "siempretour-images/STG08000/stg08000_msc-bellisima-ile-akdeniz2019_12_23_06_12_57_4.jpg",
-    "image6": "siempretour-images/STG08000/stg08000_msc-bellisima-ile-akdeniz2019_12_23_06_12_57_5.jpg",
+    "price": "896",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
     "imagealt": "",
     "personNumber": "50",
     "dates": "",
     "minimumAge": "18",
     "meet": "",
-    "whatExpect": "<p>- THY ile ekonomi sınıfı İstanbul - Milano - İstanbul uçuşu</p>\n<p>- Tercih etmiş olduğunuz kategorideki kabinde 7 gece tam pansiyon konaklama</p>\n<p>- Havaalanı - liman - havaalanı transferleri.</p>\n<p>- Grup doluluk oranı 50% ve üzeri olması durumunda Türkçe rehberlik hizmeti garanti edilmektedir.</p>\n<p>- Her gün ve gece için düzenlenen eğlence, animasyon ve şovlar</p>\n<p>- Gemideki sabah, öğle ve akşam yemekleri</p>\n<p>- Kaptanın hoşgeldin partisi ve gala yemeği</p>\n<p>- Fitness</p>\n<p>- Havaalanı ve Liman vergileri</p>\n<p>- Vize için gerekli teminatları da içeren MSC Cruises seyahat Seyahat ve sigorta paketi (70 yaş üzeri %100 sürprim uygulanır Sadece Türk vatandaşlarına sigorta yapılır)</p>\n<ul>\n</ul>",
+    "whatExpect": "<ul>\n<li><strong>* </strong>Türk Hava Yolları ile İstanbul – Venedik ve Roma – İstanbul arası ekonomi sınıfı uçak bileti</li>\n<li><strong>* </strong>Havalimanı ve liman vergileri</li>\n<li><strong>*</strong> Havalimanı-liman-havalimanı arasındaki tüm transferler</li>\n<li><strong>*</strong> 5 Yıldızlı Celebrity Infinity gemimizde <strong>7 gece 8 gün</strong> tam pansiyon (tüm yiyecekler dahil-Specialty Restaurant giriş ücretleri hariç ) konaklama</li>\n<li><strong>* </strong>Gemide düzenlenen animasyon ve aktiviteler</li>\n<li><strong>*</strong> Türkçe Rehberlik Hizmetleri <strong>(Grup kişi sayısı 20’yi aştığı takdirde)</strong></li>\n</ul>",
     "dayInfo": [
       {
         "dayNumber": 1,
-        "title": "Stockholm (İsveç)",
-        "description": "Otelde 1 Gece"
+        "title": "Venedik (İtalya)",
+        "description": "İstanbul Havalimanı buluşmasının ardından THY TK1867 tarifeli sefer ile Venedik’e uçuş, varışı takiben Celebrity Infinity gemimize transfer."
       },
       {
         "dayNumber": 2,
-        "title": "Stockholm (İsveç)",
-        "description": "Hareket Saati : 07:00"
+        "title": "Venedik (İtalya)",
+        "description": "Hareket Saati : 17:00"
       },
       {
         "dayNumber": 3,
-        "title": "Helsinki (Finlandiya)",
-        "description": "Varış Saati : 08:00"
+        "title": "Split (Hırvatistan)",
+        "description": "Varış Saati : 09:00"
       },
       {
         "dayNumber": 4,
-        "title": "St. Petersburg (Rusya)",
-        "description": "Varış Saati : 07:00"
+        "title": "Kotor (Karadağ)",
+        "description": "Varış Saati : 08:00"
+      },
+      {
+        "dayNumber": 5,
+        "title": "Korfu (Yunanistan)",
+        "description": "Varış Saati : 09:00"
       },
       {
         "dayNumber": 6,
-        "title": "Tallinn (Estonya)",
-        "description": "Varış Saati : 09:00"
+        "title": "Denizde Seyir",
+        "description": ""
       },
       {
         "dayNumber": 7,
-        "title": "Stockholm (İsveç)",
-        "description": "Varış Saati : 09:00"
+        "title": "Napoli ( Capri ), İtalya",
+        "description": "Varış Saati : 07:00"
       },
       {
         "dayNumber": 8,
-        "title": "İstanbul' a Varış",
+        "title": "Roma ( Civitavecchia ), İtalya",
+        "description": "Varış Saati : 05:15"
+      }
+    ],
+    "map": "",
+    "country": "İtalya"
+  },
+  {
+    "destination": "İtalya",
+    "mainPhoto": "",
+    "id": "STG08061",
+    "tourName": "Costa Fortuna İle Güney’den Kuzey’e Seyir - 28.Nisan.2020",
+    "placesVisited": "İtalya, Fransa, İspanya, Portekiz, Almanya, Hollanda",
+    "generalInfo": "",
+    "durationDays": "11",
+    "price": "1499",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "50",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<ul>\n<li>Gemide tur süresince tam pansiyon konaklama.</li>\n<li>Türk Hava Yolları ile İstanbul SAW (Sabiha Gökçen Hava Limanı) – Milano MXP / Amsterdam AMS  ,  İstanbul (Yeni Hava Limanı) ekonomi sınıfı uçuşlar.</li>\n<li>Kişi sayısına bakılmaksızın Türkçe rehberlik hizmeti.</li>\n<li>Havalimanı ve liman vergileri. (490€)</li>\n<li>Havalimanı – Liman – Havalimanı transferler.</li>\n<li>Tercih edilen kategoride tur süresince konaklama.</li>\n<li>Gemide sabah, öğle, akşam yemekleri ve ara ikramlar.</li>\n<li>Gemideki eğlence ve şovlar.</li>\n<li>Fitness &amp; Spor salonu kullanımı.</li>\n<li>Seyahat süresini kapsayan, seyahat sağlık sigortası. (Vize için geçerli teminatları içermemektedir.) 70 yaş üzeri misafirler için %100 surprim uygulanır. (15€)</li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Savona (İtalya)",
+        "description": "Savona (İtalya)"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Marsilya (Fransa)",
+        "description": "Marsilya (Fransa)"
+      },
+      {
+        "dayNumber": 3,
+        "title": "Barselona (İspanya)",
+        "description": "Barselona (İspanya)"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 5,
+        "title": "Lizbon (Portekiz)",
+        "description": "Lizbon (Portekiz)"
+      },
+      {
+        "dayNumber": 6,
+        "title": "Vigo (İspanya)",
+        "description": "Vigo (İspanya)"
+      },
+      {
+        "dayNumber": 7,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 8,
+        "title": "Le Havre (Fransa)",
+        "description": "Le Havre (Fransa)"
+      },
+      {
+        "dayNumber": 9,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 10,
+        "title": "Hamburg (Almanya)",
+        "description": "Hamburg (Almanya)"
+      },
+      {
+        "dayNumber": 11,
+        "title": "Amsterdam (Hollanda)",
+        "description": "Amsterdam (Hollanda)"
+      }
+    ],
+    "map": "",
+    "country": "İtalya"
+  },
+  {
+    "destination": "İtalya",
+    "mainPhoto": "",
+    "id": "STG08066",
+    "tourName": "Costa Pacifica İle Batı Akdeniz - 02.Haziran.2020",
+    "placesVisited": "İtalya, İspanya, Malta, Sardinya, Balear Adaları",
+    "generalInfo": "La Valletta, Cagliari, Civitavecchia/ROMA, Cenova / Portofino, Barselona, Palma de Mallorca, Denizde Seyir, La Valletta",
+    "durationDays": "8",
+    "price": "FİYAT İSTEYİNİZ",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "50",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<ul>\n<li>Gemide tur süresince tam pansiyon konaklama.</li>\n<li>Türk Hava Yolları ile İstanbul (Yeni Hava Limanı) - Malta - İstanbul (Yeni Hava Limanı) ekonomi sınıfı uçuşlar.</li>\n<li>Kişi sayısına bakılmaksızın Türkçe rehberlik hizmeti.</li>\n<li>Havalimanı ve liman vergileri. (2800TL)</li>\n<li>Havalimanı – Liman – Havalimanı transferler.</li>\n<li>Tercih edilen kategoride tur süresince konaklama.</li>\n<li>Gemide sabah, öğle, akşam yemekleri ve ara ikramlar.</li>\n<li>Gemideki eğlence ve şovlar.</li>\n<li>Fitness &amp; Spor salonu kullanımı.</li>\n<li>Seyahat süresini kapsayan, seyahat sağlık sigortası. (Vize için geçerli teminatları içermemektedir.) 70 yaş üzeri misafirler için %100 surprim uygulanır. (80TL)</li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "La Velletta (Malta)",
+        "description": "La Velletta (Malta)"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Cagliari (Sardinya)",
+        "description": "Cagliari (Sardinya)"
+      },
+      {
+        "dayNumber": 3,
+        "title": "Civitavecchia/ROMA (İtalya)",
+        "description": "Civitavecchia/ROMA (İtalya)"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Cenova / Portofino (İtalya)",
+        "description": "Cenova / Portofino (İtalya)"
+      },
+      {
+        "dayNumber": 5,
+        "title": "Barselona (İspanya)",
+        "description": "Barselona (İspanya)"
+      },
+      {
+        "dayNumber": 6,
+        "title": "Palma de Mallorca (Balear Adaları)",
+        "description": "Palma de Mallorca (Balear Adaları)"
+      },
+      {
+        "dayNumber": 7,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 8,
+        "title": "La Velletta (Malta)",
+        "description": "Varış Zamanı : 08:00"
+      }
+    ],
+    "map": "",
+    "country": "İtalya"
+  },
+  {
+    "destination": "İtalya",
+    "mainPhoto": "",
+    "id": "STG08070",
+    "tourName": "Costa Pacifica İle Batı Akdeniz - 05.Mayıs.2020",
+    "placesVisited": "İtalya, İspanya, Malta, Sicilya, Balear Adaları",
+    "generalInfo": "La Valletta, Catania, Civitavecchia/ROMA, Cenova / Portofino, Barselona, Palma de Mallorca, Denizde Seyir, La Valletta",
+    "durationDays": "8",
+    "price": "FİYAT İSTEYİNİZ",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "50",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<ul>\n<li>Gemide tur süresince tam pansiyon konaklama.</li>\n<li>Türk Hava Yolları ile İstanbul (Yeni Hava Limanı), Malta, İstanbul (Yeni Hava Limanı) ekonomi sınıfı uçuşlar.</li>\n<li>1 GECE MALTADA 4* OTEL KONAKLAMASI.</li>\n<li>Kişi sayısına bakılmaksızın Türkçe rehberlik hizmeti.</li>\n<li>Havalimanı ve liman vergileri. (2800TL)</li>\n<li>Havalimanı – Liman – Havalimanı transferler.</li>\n<li>Tercih edilen kategoride tur süresince konaklama.</li>\n<li>Gemide sabah, öğle, akşam yemekleri ve ara ikramlar.</li>\n<li>Gemideki eğlence ve şovlar.</li>\n<li>Fitness &amp; Spor salonu kullanımı.</li>\n<li>Seyahat süresini kapsayan, seyahat sağlık sigortası. (Vize için geçerli teminatları içermemektedir.) 70 yaş üzeri misafirler için %100 surprim uygulanır. (80TL)</li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "La Velletta (Malta)",
+        "description": "La Velletta (Malta)"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Catania (Sicilya)",
+        "description": "Catania (Sicilya)"
+      },
+      {
+        "dayNumber": 3,
+        "title": "Civitavecchia/ROMA (İtalya)",
+        "description": "Civitavecchia/ROMA (İtalya)"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Cenova / Portofino (İtalya)",
+        "description": "Cenova / Portofino (İtalya)"
+      },
+      {
+        "dayNumber": 5,
+        "title": "Barselona (İspanya)",
+        "description": "Barselona (İspanya)"
+      },
+      {
+        "dayNumber": 6,
+        "title": "Palma de Mallorca (Balear Adaları)",
+        "description": "Palma de Mallorca (Balear Adaları)"
+      },
+      {
+        "dayNumber": 7,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 8,
+        "title": "La Velletta (Malta)",
+        "description": "Otele Transfer"
+      }
+    ],
+    "map": "",
+    "country": "İtalya"
+  },
+  {
+    "destination": "İtalya",
+    "mainPhoto": "",
+    "id": "STG08073",
+    "tourName": "Costa Pacifica İle Batı Akdeniz - 07.Haziran.2020",
+    "placesVisited": "İtalya, İspanya, Malta, Sicilya, Balear Adaları",
+    "generalInfo": "La Valletta, Catania, Civitavecchia/ROMA, Cenova / Portofino, Barselona, Palma de Mallorca, Denizde Seyir, La Valletta",
+    "durationDays": "8",
+    "price": "FİYAT İSTEYİNİZ",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "50",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<ul>\n<li>Gemide tur süresince tam pansiyon konaklama.</li>\n<li>Türk Hava Yolları ile İstanbul (Yeni Hava Limanı) - Malta - İstanbul (Yeni Hava Limanı) ekonomi sınıfı uçuşlar.</li>\n<li>Kişi sayısına bakılmaksızın Türkçe rehberlik hizmeti.</li>\n<li>Havalimanı ve liman vergileri. (2800TL)</li>\n<li>Havalimanı – Liman – Havalimanı transferler.</li>\n<li>Tercih edilen kategoride tur süresince konaklama.</li>\n<li>Gemide sabah, öğle, akşam yemekleri ve ara ikramlar.</li>\n<li>Gemideki eğlence ve şovlar.</li>\n<li>Fitness &amp; Spor salonu kullanımı.</li>\n<li>Seyahat süresini kapsayan, seyahat sağlık sigortası. (Vize için geçerli teminatları içermemektedir.) 70 yaş üzeri misafirler için %100 surprim uygulanır. (80TL)</li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "La Velletta (Malta)",
+        "description": "La Velletta (Malta)"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Catania (Sicilya)",
+        "description": "Catania (Sicilya)"
+      },
+      {
+        "dayNumber": 3,
+        "title": "Civitavecchia/ROMA (İtalya)",
+        "description": "Civitavecchia/ROMA (İtalya)"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Cenova / Portofino (İtalya)",
+        "description": "Cenova / Portofino (İtalya)"
+      },
+      {
+        "dayNumber": 5,
+        "title": "Barselona (İspanya)",
+        "description": "Barselona (İspanya)"
+      },
+      {
+        "dayNumber": 6,
+        "title": "Palma de Mallorca (Balear Adaları)",
+        "description": "Palma de Mallorca (Balear Adaları)"
+      },
+      {
+        "dayNumber": 7,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 8,
+        "title": "La Velletta (Malta)",
+        "description": "La Velletta (Malta)"
+      }
+    ],
+    "map": "",
+    "country": "İtalya"
+  },
+  {
+    "destination": "İtalya",
+    "mainPhoto": "",
+    "id": "STG08077",
+    "tourName": "Costa Pacifica İle Batı Akdeniz - 09.Haziran.2020",
+    "placesVisited": "İtalya, İspanya, Malta, Sicilya, Balear Adaları",
+    "generalInfo": "La Valletta, Cagliari, Civitavecchia/ROMA, Cenova / Portofino, Barselona, Palma de Mallorca, Denizde Seyir, La Valletta",
+    "durationDays": "8",
+    "price": "FİYAT İSTEYİNİZ",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "50",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<ul>\n<li>Gemide tur süresince tam pansiyon konaklama.</li>\n<li>Türk Hava Yolları ile İstanbul (Yeni Hava Limanı) - Malta - İstanbul (Yeni Hava Limanı) ekonomi sınıfı uçuşlar.</li>\n<li>Kişi sayısına bakılmaksızın Türkçe rehberlik hizmeti.</li>\n<li>Havalimanı ve liman vergileri. (2800TL)</li>\n<li>Havalimanı – Liman – Havalimanı transferler.</li>\n<li>Tercih edilen kategoride tur süresince konaklama.</li>\n<li>Gemide sabah, öğle, akşam yemekleri ve ara ikramlar.</li>\n<li>Gemideki eğlence ve şovlar.</li>\n<li>Fitness &amp; Spor salonu kullanımı.</li>\n<li>Seyahat süresini kapsayan, seyahat sağlık sigortası. (Vize için geçerli teminatları içermemektedir.) 70 yaş üzeri misafirler için %100 surprim uygulanır. (80TL)</li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "La Velletta (Malta)",
+        "description": "La Velletta (Malta)"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Cagliari (Sardinya)",
+        "description": "Cagliari (Sardinya)"
+      },
+      {
+        "dayNumber": 3,
+        "title": "Civitavecchia/ROMA (İtalya)",
+        "description": "Civitavecchia/ROMA (İtalya)"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Cenova / Portofino (İtalya)",
+        "description": "Cenova / Portofino (İtalya) Varış Zamanı : 08:00 Kalkış Zamanı : 17:00"
+      },
+      {
+        "dayNumber": 5,
+        "title": "Barselona (İspanya)",
+        "description": "Barselona (İspanya)"
+      },
+      {
+        "dayNumber": 6,
+        "title": "Palma de Mallorca (Balear Adaları)",
+        "description": "Palma de Mallorca (Balear Adaları)"
+      },
+      {
+        "dayNumber": 7,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 8,
+        "title": "La Velletta (Malta)",
+        "description": "La Velletta (Malta)"
+      }
+    ],
+    "map": "",
+    "country": "İtalya"
+  },
+  {
+    "destination": "İtalya",
+    "mainPhoto": "",
+    "id": "STG08082",
+    "tourName": "Costa Pacifica İle Batı Akdeniz - 14.Nisan.2020",
+    "placesVisited": "İtalya, İspanya, Malta, Sicilya, Balear Adaları",
+    "generalInfo": "La Valletta, Catania, Civitavecchia/ROMA, Cenova / Portofino, Barselona, Palma de Mallorca, Denizde Seyir, La Valletta",
+    "durationDays": "8",
+    "price": "FİYAT İSTEYİNİZ",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "50",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<ul>\n<li>Gemide tur süresince tam pansiyon konaklama.</li>\n<li>Türk Hava Yolları ile İstanbul (Yeni Hava Limanı) - Malta - İstanbul (Yeni Hava Limanı) ekonomi sınıfı uçuşlar.</li>\n<li>Kişi sayısına bakılmaksızın Türkçe rehberlik hizmeti.</li>\n<li>Havalimanı ve liman vergileri. (2800TL)</li>\n<li>Havalimanı – Liman – Havalimanı transferler.</li>\n<li>Tercih edilen kategoride tur süresince konaklama.</li>\n<li>Gemide sabah, öğle, akşam yemekleri ve ara ikramlar.</li>\n<li>Gemideki eğlence ve şovlar.</li>\n<li>Fitness &amp; Spor salonu kullanımı.</li>\n<li>Seyahat süresini kapsayan, seyahat sağlık sigortası. (Vize için geçerli teminatları içermemektedir.) 70 yaş üzeri misafirler için %100 surprim uygulanır. (80TL)</li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "La Velletta (Malta)",
+        "description": "La Velletta (Malta)"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Catania (Sicilya)",
+        "description": "Catania (Sicilya)"
+      },
+      {
+        "dayNumber": 3,
+        "title": "Civitavecchia/ROMA (İtalya)",
+        "description": "Civitavecchia/ROMA (İtalya)"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Cenova / Portofino (İtalya)",
+        "description": "Cenova / Portofino (İtalya)"
+      },
+      {
+        "dayNumber": 5,
+        "title": "Barselona (İspanya)",
+        "description": "Barselona (İspanya)"
+      },
+      {
+        "dayNumber": 6,
+        "title": "Palma de Mallorca (Balear Adaları)",
+        "description": "Palma de Mallorca (Balear Adaları)"
+      },
+      {
+        "dayNumber": 7,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 8,
+        "title": "La Velletta (Malta)",
+        "description": "La Velletta (Malta)"
+      }
+    ],
+    "map": "",
+    "country": "İtalya"
+  },
+  {
+    "destination": "İtalya",
+    "mainPhoto": "",
+    "id": "STG08081",
+    "tourName": "Costa Pacifica İle Batı Akdeniz - 16.Haziran.2020",
+    "placesVisited": "İtalya, İspanya, Malta, Sardinya, Balear Adaları",
+    "generalInfo": "La Valletta, Cagliari, Civitavecchia/ROMA, Cenova / Portofino, Barselona, Palma de Mallorca, Denizde Seyir, La Valletta",
+    "durationDays": "8",
+    "price": "FİYAT İSTEYİNİZ",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "50",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<ul>\n<li>Gemide tur süresince tam pansiyon konaklama.</li>\n<li>Türk Hava Yolları ile İstanbul (Yeni Hava Limanı) - Malta - İstanbul (Yeni Hava Limanı) ekonomi sınıfı uçuşlar.</li>\n<li>Kişi sayısına bakılmaksızın Türkçe rehberlik hizmeti.</li>\n<li>Havalimanı ve liman vergileri. (2800TL)</li>\n<li>Havalimanı – Liman – Havalimanı transferler.</li>\n<li>Tercih edilen kategoride tur süresince konaklama.</li>\n<li>Gemide sabah, öğle, akşam yemekleri ve ara ikramlar.</li>\n<li>Gemideki eğlence ve şovlar.</li>\n<li>Fitness &amp; Spor salonu kullanımı.</li>\n<li>Seyahat süresini kapsayan, seyahat sağlık sigortası. (Vize için geçerli teminatları içermemektedir.) 70 yaş üzeri misafirler için %100 surprim uygulanır. (80TL)</li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "La Velletta (Malta)",
+        "description": "La Velletta (Malta)"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Cagliari (Sardinya)",
+        "description": "Cagliari (Sardinya)"
+      },
+      {
+        "dayNumber": 3,
+        "title": "Civitavecchia/ROMA (İtalya)",
+        "description": "Civitavecchia/ROMA (İtalya)"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Cenova / Portofino (İtalya)",
+        "description": "Cenova / Portofino (İtalya)"
+      },
+      {
+        "dayNumber": 5,
+        "title": "Barselona (İspanya)",
+        "description": "Barselona (İspanya)"
+      },
+      {
+        "dayNumber": 6,
+        "title": "Palma de Mallorca (Balear Adaları)",
+        "description": "Palma de Mallorca (Balear Adaları)"
+      },
+      {
+        "dayNumber": 7,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 8,
+        "title": "La Velletta (Malta)",
+        "description": "La Velletta (Malta)"
+      }
+    ],
+    "map": "",
+    "country": "İtalya"
+  },
+  {
+    "destination": "İtalya",
+    "mainPhoto": "",
+    "id": "STG08085",
+    "tourName": "Costa Pacifica İle Batı Akdeniz - 19.Mayıs.2020 - Ramazan Bayramı",
+    "placesVisited": "İtalya, İspanya, Malta, Sicilya, Balear Adaları",
+    "generalInfo": "La Valletta, Cagliari, Civitavecchia/ROMA, Cenova / Portofino, Barselona, Palma de Mallorca, Denizde Seyir, La Valletta",
+    "durationDays": "9",
+    "price": "FİYAT İSTEYİNİZ",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "50",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<ul>\n<li>Gemide tur süresince tam pansiyon konaklama.</li>\n<li>Türk Hava Yolları ile İstanbul (Yeni Hava Limanı) - Malta - İstanbul (Yeni Hava Limanı) ekonomi sınıfı uçuşlar.</li>\n<li>Kişi sayısına bakılmaksızın Türkçe rehberlik hizmeti.</li>\n<li>1 Gece Malta’da Otel Konaklaması.</li>\n<li>Havalimanı ve liman vergileri. (2800TL)</li>\n<li>Havalimanı – Liman – Havalimanı transferler.</li>\n<li>Tercih edilen kategoride tur süresince konaklama.</li>\n<li>Gemide sabah, öğle, akşam yemekleri ve ara ikramlar.</li>\n<li>Gemideki eğlence ve şovlar.</li>\n<li>Fitness &amp; Spor salonu kullanımı.</li>\n<li>Seyahat süresini kapsayan, seyahat sağlık sigortası. (Vize için geçerli teminatları içermemektedir.) 70 yaş üzeri misafirler için %100 surprim uygulanır. (80TL)</li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "La Velletta (Malta)",
+        "description": "La Velletta (Malta)"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Catania (Sicilya)",
+        "description": "Catania (Sicilya)"
+      },
+      {
+        "dayNumber": 3,
+        "title": "Civitavecchia/ROMA (İtalya)",
+        "description": "Civitavecchia/ROMA (İtalya)"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Cenova / Portofino (İtalya)",
+        "description": "Cenova / Portofino (İtalya)"
+      },
+      {
+        "dayNumber": 5,
+        "title": "Barselona (İspanya)",
+        "description": "Barselona (İspanya)"
+      },
+      {
+        "dayNumber": 6,
+        "title": "Palma de Mallorca (Balear Adaları)",
+        "description": "Palma de Mallorca (Balear Adaları)"
+      },
+      {
+        "dayNumber": 7,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 8,
+        "title": "La Velletta (Malta)",
+        "description": "La Velletta (Malta)"
+      },
+      {
+        "dayNumber": 9,
+        "title": "La Velletta (Malta)",
         "description": ""
       }
     ],
     "map": "",
-    "country": "İtalya"
+    "country": "İtalya"
+  },
+  {
+    "destination": "İtalya",
+    "mainPhoto": "",
+    "id": "STG08086",
+    "tourName": "Costa Pacifica İle Batı Akdeniz - 21.Nisan.2020",
+    "placesVisited": "İtalya, İspanya, Malta, Sicilya, Balear Adaları",
+    "generalInfo": "La Valletta, Catania, Civitavecchia/ROMA, Cenova / Portofino, Barselona, Palma de Mallorca, Denizde Seyir, La Valletta",
+    "durationDays": "8",
+    "price": "FİYAT İSTEYİNİZ",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "50",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<ul>\n<li>Gemide tur süresince tam pansiyon konaklama.</li>\n<li>Türk Hava Yolları ile İstanbul (Yeni Hava Limanı) - Malta - İstanbul (Yeni Hava Limanı) ekonomi sınıfı uçuşlar.</li>\n<li>Kişi sayısına bakılmaksızın Türkçe rehberlik hizmeti.</li>\n<li>Havalimanı ve liman vergileri. (2800TL)</li>\n<li>Havalimanı – Liman – Havalimanı transferler.</li>\n<li>Tercih edilen kategoride tur süresince konaklama.</li>\n<li>Gemide sabah, öğle, akşam yemekleri ve ara ikramlar.</li>\n<li>Gemideki eğlence ve şovlar.</li>\n<li>Fitness &amp; Spor salonu kullanımı.</li>\n<li>Seyahat süresini kapsayan, seyahat sağlık sigortası. (Vize için geçerli teminatları içermemektedir.) 70 yaş üzeri misafirler için %100 surprim uygulanır. (80TL)</li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "La Velletta (Malta)",
+        "description": "La Velletta (Malta)"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Catania (Sicilya)",
+        "description": "Catania (Sicilya)"
+      },
+      {
+        "dayNumber": 3,
+        "title": "Civitavecchia/ROMA (İtalya)",
+        "description": "Civitavecchia/ROMA (İtalya)"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Cenova / Portofino (İtalya)",
+        "description": "Cenova / Portofino (İtalya)"
+      },
+      {
+        "dayNumber": 5,
+        "title": "Barselona (İspanya)",
+        "description": "Barselona (İspanya)"
+      },
+      {
+        "dayNumber": 6,
+        "title": "Palma de Mallorca (Balear Adaları)",
+        "description": "Palma de Mallorca (Balear Adaları)"
+      },
+      {
+        "dayNumber": 7,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 8,
+        "title": "La Velletta (Malta)",
+        "description": "La Velletta (Malta)"
+      }
+    ],
+    "map": "",
+    "country": "İtalya"
+  },
+  {
+    "destination": "İtalya",
+    "mainPhoto": "",
+    "id": "STG08083",
+    "tourName": "Costa Smeralda İle Batı Akdeniz - 16.Kasım.2019",
+    "placesVisited": "İtalya, İspanya, Fransa, Balear Adaları",
+    "generalInfo": "Savona, Marsilya, Barselona, Palma de Mallorca, Denizde Seyir, Civitavecchia/Roma, La Spezia ,Savona",
+    "durationDays": "8",
+    "price": "1199",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "50",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<ul>\n<li>Türk Hava Yolları ile İstanbul Atatürk Hava Limanı - Milano - İstanbul Atatürk Hava Limanı ekonomi sınıfı uçuşlar.</li>\n<li>Kişi sayısına bakılmaksızın Türkçe rehberlik hizmeti.</li>\n<li>Havalimanı ve liman vergileri. (420€)</li>\n<li>Havalimanı – Liman – Havalimanı transferler.</li>\n<li>Tercih edilen kategoride tur süresince konaklama.</li>\n<li>Gemide sabah, öğle, akşam yemekleri ve ara ikramlar.</li>\n<li>Gemideki eğlence ve şovlar.</li>\n<li>Fitness &amp; Spor salonu kullanımı.</li>\n<li>Seyahat sağlık sigortası. 70 yaş ve üzeri %100 surprim uygulanır. (Sigorta aynı zamanda mesleki zorunluluk sigortrası olduğundan iptali mümkün değildir.)</li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Savona (İtalya)",
+        "description": "Savona (İtalya)"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Marsilya (Fransa)",
+        "description": "Marsilya (Fransa)"
+      },
+      {
+        "dayNumber": 3,
+        "title": "Barselona (İspanya)",
+        "description": "Barselona (İspanya)"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Palma de Mallorca (Balear Adaları)",
+        "description": "Palma de Mallorca (Balear Adaları)"
+      },
+      {
+        "dayNumber": 5,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 6,
+        "title": "Civitavecchia/ROMA (İtalya)",
+        "description": "Civitavecchia/ROMA (İtalya)"
+      },
+      {
+        "dayNumber": 7,
+        "title": "La Spezia (İtalya)",
+        "description": "La Spezia (İtalya)"
+      },
+      {
+        "dayNumber": 8,
+        "title": "Savona (İtalya)",
+        "description": "Savona (İtalya)"
+      }
+    ],
+    "map": "",
+    "country": "İtalya"
+  },
+  {
+    "destination": "İtalya",
+    "mainPhoto": "",
+    "id": "STG08084",
+    "tourName": "Costa Vıctorıa İle Büyük Akdeniz & Sicilya - 19.Nisan.2020",
+    "placesVisited": "İtalya, Fransa, İspanya, Malta, Sicilya, Balear Adaları, Sardinya",
+    "generalInfo": "Savona, Toulon, Tarragona, Palma de Mallorca, Denizde Seyir, Cagliari, Palermo, La Valletta, Catania, Salerno, Civitavecchia/ROMA, Savona",
+    "durationDays": "12",
+    "price": "1599",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "50",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<ul>\n<li>Gemide tur süresince tam pansiyon konaklama.</li>\n<li>Türk Hava Yolları ile İstanbul (Yeni Hava Limanı) – Nice / Milano MXP - İstanbul (Yeni Hava Limanı) ekonomi sınıfı uçuşlar.</li>\n<li>Kişi sayısına bakılmaksızın Türkçe rehberlik hizmeti.</li>\n<li>Havalimanı ve liman vergileri. (470€)</li>\n<li>Havalimanı – Liman – Havalimanı transferler.</li>\n<li>Tercih edilen kategoride tur süresince konaklama.</li>\n<li>Gemide sabah, öğle, akşam yemekleri ve ara ikramlar.</li>\n<li>Gemideki eğlence ve şovlar.</li>\n<li>Fitness &amp; Spor salonu kullanımı.</li>\n<li>Seyahat süresini kapsayan, seyahat sağlık sigortası. (Vize için geçerli teminatları içermemektedir.) 70 yaş üzeri misafirler için %100 surprim uygulanır.(15€)</li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Savona (İtalya)",
+        "description": "Savona (İtalya)"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Toulon (Fransa)",
+        "description": "Toulon (Fransa)"
+      },
+      {
+        "dayNumber": 3,
+        "title": "Tarragona (İspanya)",
+        "description": "Tarragona (İspanya)"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Palma de Mallorca (Balear Adaları)",
+        "description": "Palma de Mallorca (Balear Adaları)"
+      },
+      {
+        "dayNumber": 5,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 6,
+        "title": "Cagliari (Sardinya)",
+        "description": "Cagliari (Sardinya)"
+      },
+      {
+        "dayNumber": 7,
+        "title": "Palermo (Sicilya)",
+        "description": "Palermo (Sicilya)"
+      },
+      {
+        "dayNumber": 8,
+        "title": "La Velletta (Malta)",
+        "description": "La Velletta (Malta)"
+      },
+      {
+        "dayNumber": 9,
+        "title": "Catania (Sicilya)",
+        "description": "Catania (Sicilya)"
+      },
+      {
+        "dayNumber": 10,
+        "title": "Salerno (İtalya)",
+        "description": "Salerno (İtalya)"
+      },
+      {
+        "dayNumber": 11,
+        "title": "Civitavecchia/ROMA (İtalya)",
+        "description": "Civitavecchia/ROMA (İtalya)"
+      },
+      {
+        "dayNumber": 12,
+        "title": "Savona (İtalya)",
+        "description": "Savona (İtalya)"
+      }
+    ],
+    "map": "",
+    "country": "İtalya"
+  },
+  {
+    "destination": "İtalya",
+    "mainPhoto": "",
+    "id": "STG09061",
+    "tourName": "Explorer of the Seas ile Akdeniz - 21.Haziran.2020",
+    "placesVisited": "İtalya, İspanya, Fransa",
+    "generalInfo": "<strong>Explorer Of The Seas</strong>, Royal Caribbean Cruises filosuna ait 14 katlı bir gemidir. 1.181 görevlisi ve yolcu kapasitesi 3.114 kişi olup Amerika ağırlıklı personel uyruğu dışında Türk personel de bulunmaktadır.<br><br><strong>Explorer Of The Seas</strong> içindeki özellikleri, cadde görünümlü alışveriş merkezleri, 3 havuz ve su parkı, 6 dev jakuzi, cilt bakımı, yoga, spor salonları, solaryum, kütüphane, kumarhane, iki ayrı kaya tırmanma duvarı, buz pateni pisti, mini golf sahası, tam boy basketbol sahası, dünyaca ünlü mutfaklardan yemek seçenekleri, bar, jazz club, karaoke bar, komedi klübü ve gece klübü, konser salonu, tiyatro salonu, 4D sinema salonu, gümrüksüz alışveriş yapabileceğiniz yüzlerce mağaza bulunmaktadır.",
+    "durationDays": "8",
+    "price": "FİYAT İSTEYİNİZ",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "50",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<ul>\n<li><strong>* </strong>Türk Hava Yolları ile Sabiha gökçen Havalimanı – Roma / Roma – Sabiha Gökçen Havalimanı arası ekonomi sınıfı uçak bileti</li>\n<li><strong>* </strong>Havalimanı ve Liman vergileri <strong>2,900 TL</strong> (Dahildir)</li>\n<li><strong>* </strong>Havalimanı-liman-havalimanı arasındaki tüm transferler</li>\n<li><strong>* </strong>5 Yıldızlı Explorer of the Seas gemimizde 7 gece tam pansiyon (Tüm yiyecekler dahil-özel restoranlara giriş ücretleri hariç) konaklama</li>\n<li><strong>* </strong>Gemide düzenlenen animasyon ve aktiviteler</li>\n<li><strong>*</strong> Türkçe Rehberlik Hizmetleri <strong>(Grup kişi sayısı 20’yi aştığı takdirde)</strong></li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Roma ( Civitavecchia ), İtalya",
+        "description": "Hareket Saati : 17:00"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 3,
+        "title": "Valensiya (İspanya)",
+        "description": "Varış Saati : 08:00"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Palma de Mallorca (Balear Adaları)",
+        "description": "Varış Saati : 09:00"
+      },
+      {
+        "dayNumber": 5,
+        "title": "Barselona (İspanya)",
+        "description": "Varış Saati : 07:00"
+      },
+      {
+        "dayNumber": 6,
+        "title": "Nice, Villefranche (Fransa)",
+        "description": "Varış Saati : 11:00"
+      },
+      {
+        "dayNumber": 7,
+        "title": "La Spezia (İtalya)",
+        "description": "Varış Saati : 07:00"
+      },
+      {
+        "dayNumber": 8,
+        "title": "Roma ( Civitavecchia ), İtalya",
+        "description": "Varış Saati : 05:00"
+      }
+    ],
+    "map": "",
+    "country": "İtalya"
+  },
+  {
+    "destination": "İtalya",
+    "mainPhoto": "",
+    "id": "STG09063",
+    "tourName": "Explorer of The Seas ile Yunan Adaları, İtalya - 01.Ağustos.2020",
+    "placesVisited": "İtalya, Yunanistan",
+    "generalInfo": "<strong>Explorer Of The Seas</strong>, Royal Caribbean Cruises filosuna ait 14 katlı bir gemidir. 1.181 görevlisi ve yolcu kapasitesi 3.114 kişi olup Amerika ağırlıklı personel uyruğu dışında Türk personel de bulunmaktadır.<br><br><strong>Explorer Of The Seas</strong> içindeki özellikleri, cadde görünümlü alışveriş merkezleri, 3 havuz ve su parkı, 6 dev jakuzi, cilt bakımı, yoga, spor salonları, solaryum, kütüphane, kumarhane, iki ayrı kaya tırmanma duvarı, buz pateni pisti, mini golf sahası, tam boy basketbol sahası, dünyaca ünlü mutfaklardan yemek seçenekleri, bar, jazz club, karaoke bar, komedi klübü ve gece klübü, konser salonu, tiyatro salonu, 4D sinema salonu, gümrüksüz alışveriş yapabileceğiniz yüzlerce mağaza bulunmaktadır.",
+    "durationDays": "9",
+    "price": "996",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "50",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<ul>\n<li><strong>* </strong>Türk Hava Yolları ile Sabiha Gökçen – Roma– Sabiha Gökçen arası ekonomi sınıfı uçak bileti</li>\n<li><strong>* </strong>Havalimanı-liman-havalimanı arasında ki  transferler</li>\n<li><strong>* </strong>Havaalanı ve liman vergisi <strong>540 €</strong></li>\n<li><strong>* </strong>5 Yıldızlı Explorer of the Seas gemimizde tam pansiyon (tüm yiyecekler dahil-Specialty Restaurant giriş ücretleri hariç)</li>\n<li><strong>* </strong>Gemide düzenlenen animasyon ve aktiviteler</li>\n<li><strong>*</strong> Türkçe Rehberlik Hizmetleri <strong>(Grup kişi sayısı 20’yi aştığı takdirde)</strong></li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Roma ( Civitavecchia ), İtalya",
+        "description": "Sabiha Gökçen Havalimanı buluşmasının ardından THY tarifeli sefer ile Roma’ya uçuş, varışı takiben Exlporer Of The Seas’e transfer."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Sicilya, Messina (İtalya)",
+        "description": "Varış Saati : 10:00"
+      },
+      {
+        "dayNumber": 3,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 4,
+        "title": "Mikonos (Yunanistan)",
+        "description": "Varış Saati : 08:00"
+      },
+      {
+        "dayNumber": 5,
+        "title": "Atina, Piraeus (Yunanistan)",
+        "description": "Varış Saati : 06:00"
+      },
+      {
+        "dayNumber": 6,
+        "title": "Santorini (Yunanistan)",
+        "description": "Varış Saati : 07:00"
+      },
+      {
+        "dayNumber": 7,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 8,
+        "title": "Napoli ( Capri ), İtalya",
+        "description": "Varış Saati : 07:00"
+      },
+      {
+        "dayNumber": 9,
+        "title": "Roma ( Civitavecchia ), İtalya",
+        "description": "Varış Saati : 05:00"
+      }
+    ],
+    "map": "",
+    "country": "İtalya"
+  },
+  {
+    "destination": "İtalya",
+    "mainPhoto": "",
+    "id": "STG09062",
+    "tourName": "Explorer of the Seas İle Akdeniz İncileri - 26.Temmuz.2020  (Kurban Bayramı)",
+    "placesVisited": "İtalya, İspanya, Fransa",
+    "generalInfo": "<strong>Explorer Of The Seas</strong>, Royal Caribbean Cruises filosuna ait 14 katlı bir gemidir. 1.181 görevlisi ve yolcu kapasitesi 3.114 kişi olup Amerika ağırlıklı personel uyruğu dışında Türk personel de bulunmaktadır.<br><br><strong>Explorer Of The Seas</strong> içindeki özellikleri, cadde görünümlü alışveriş merkezleri, 3 havuz ve su parkı, 6 dev jakuzi, cilt bakımı, yoga, spor salonları, solaryum, kütüphane, kumarhane, iki ayrı kaya tırmanma duvarı, buz pateni pisti, mini golf sahası, tam boy basketbol sahası, dünyaca ünlü mutfaklardan yemek seçenekleri, bar, jazz club, karaoke bar, komedi klübü ve gece klübü, konser salonu, tiyatro salonu, 4D sinema salonu, gümrüksüz alışveriş yapabileceğiniz yüzlerce mağaza bulunmaktadır.",
+    "durationDays": "7",
+    "price": "896",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "50",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<ul>\n<li><strong>*</strong> Türk Hava Yolları ile Sabiha Gökçen – Roma– Sabiha Gökçen arası ekonomi sınıfı uçak bileti</li>\n<li><strong>* </strong>Havalimanı-liman-havalimanı arasında ki  transferler</li>\n<li><strong>* </strong>Havaalanı ve liman vergisi <strong>490 €</strong></li>\n<li><strong>* </strong>5 Yıldızlı Explorer of the Seas gemimizde tam pansiyon (tüm yiyecekler dahil-Specialty Restaurant giriş ücretleri hariç)</li>\n<li><strong>* </strong>Gemide düzenlenen animasyon ve aktiviteler</li>\n<li><strong>*</strong> Türkçe Rehberlik Hizmetleri <strong>(Grup kişi sayısı 20’yi aştığı takdirde)</strong></li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Roma ( Civitavecchia ), İtalya",
+        "description": "Sabiha Gökçen Havalimanı buluşmasının ardından THY tarifeli sefer ile Roma’ya uçuş, varışı takiben Exlporer Of The Seas’e transfer"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Nice, Villefranche (Fransa)",
+        "description": "Varış Saati : 07:00"
+      },
+      {
+        "dayNumber": 3,
+        "title": "Barselona (İspanya)",
+        "description": "Varış Saati : 09:00"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Valencia (İspanya)",
+        "description": "Varış Saati : 09:00"
+      },
+      {
+        "dayNumber": 5,
+        "title": "Cartagena (İspanya)",
+        "description": "Varış Saati : 08:00"
+      },
+      {
+        "dayNumber": 6,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 7,
+        "title": "Roma ( Civitavecchia ), İtalya",
+        "description": "Varış Saati : 05:00"
+      }
+    ],
+    "map": "",
+    "country": "İtalya"
+  },
+  {
+    "destination": "İtalya",
+    "mainPhoto": "",
+    "id": "ST08009",
+    "tourName": "İtalya",
+    "placesVisited": "İtalya",
+    "generalInfo": "İtalya Yarımadasındaki insan varlığının izleri bu İtalik kavimlerin yarımadaya ulaşmalarından çok öncelerine,  200 binyıl öncesi Yeni Taş Çağı’ na kadar dayanır.  İnsanlık tarihinin kültür başkentlerinden olan İtalya’ yı Siempre Tur ile keşfedin.<br><br>Tur boyunca hem rehberlerimizin tarihi anlatımlarından hem de İtalya’ nın tarih kokan doğal güzelliklerinden çok etkileneceksiniz.<br><br>Turumuz,  Siempre Tour’ un deneyimli rehber ekibiyle Havaalanı’ ndan itibaren başlar ve tekrar tur bitişi sonrasında aynı noktada sonlanır.  Tur süresi boyunca rehber ekibi tüm soru ve görüşlerinizi dinlemek için yanınızda olacaktır.",
+    "durationDays": "9",
+    "price": "1930",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "34",
+    "dates": "",
+    "minimumAge": "12",
+    "meet": "",
+    "whatExpect": "<ul>\n<li>- Thy Hava Yolları Tarifeli Seferi İle İstanbul (Adana &amp; Ankara Aktarmalar ) Venedik Ve Napoli (Fco)  - İstanbul(Adana &amp; Ankara Aktarmalar) arası ekonomi sınıfı uçak biletleri</li>\n<li>- Havalimanı vergileri</li>\n<li>- 4 Yıldızlı ve 5 Yıldızlı otellerde 8 gece Zengin kahvaltı dâhil konaklamalar.</li>\n<li>- Programdaki Tüm Turlar</li>\n<li>- Venedik de Nh hotel de Konaklama</li>\n<li>- Venedik de Marco Polo Restoran da akşam yemeği</li>\n<li>- Floransa da Star hotel de Konaklama</li>\n<li>- Roma da Hotel Cicerone,  Start Hotel veya Barcelo Hotelde Konaklama</li>\n<li>- Sorento da Hotel Hilton da Konaklama</li>\n<li>- Napoli de Hotel Accor Hotel veya Exe Hotelde Konaklama</li>\n<li>- Havalimanı - otel - havalimanı transferleri</li>\n<li>- Vaporetto ücreti (15 Euro)</li>\n<li>- Şehir vergileri (25 Euro)</li>\n<li>- Otobüs Şoför bahşişi (10 Euro)</li>\n<li>- Rehber Bahşişi ( 20 Euro )</li>\n<li>- Tüm şehirlerarası transferler</li>\n<li>- Tüm Şehir turları</li>\n<li>- Profesyonel Türkçe rehberlik hizmetleri</li>\n<li>- Zorunlu seyahat sigortası</li>\n<li>- Yurt dışı çıkış vergisi 15 TL</li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Venedik' e Varış",
+        "description": "Havalimanı buluşması sonrası Venedik’ e hareket .  Venedik’ e varışımızın ardından panoramik şehir turumuza başlıyoruz.  San Marco Katedrali ve Meydanı,  Dükler Sarayı,  Canale Grande,  İç Çekme ve Rialto Köprüsünü gördükten sonra şehrin kalbindeki kanalları gezeceğimiz Gondol turuna başlıyoruz.  Tur sonrası otelimize transfer."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Venedik, Floransa",
+        "description": "Sabah kahvaltısından sonra İtalya’ nın ilk başkenti Floransa’ ya hareket ediyoruz.  Floransa şehir turumuzda yürüyerek Duomo Kilisesi (Santa Maria Del Fiore),  Vaftizhane,  Eski Saray,  Ponte Vecchio,  Piazza Signoria gibi kentin en önemli yerlerini gezdikten sonra serbest zaman.  Serbest zamanımızda arzu eden misafirlerimiz alışveriş yaparken arzu eden misafirlerimiz ise Piazza Republica da bulunan birbirinden güzel kafelerde kahvelerini içip geleneksel tatlı Tiramisu nun tadına bakabilirler.  Geceleme otelimizde."
+      },
+      {
+        "dayNumber": 3,
+        "title": "Toscana",
+        "description": "Sabah kahvaltısının ardından tam gün Toscana turumuza çıkıyoruz.  Bölgenin en önemli yerleri Siena ve dünyanın en meşhur eğri çan kulesinin olduğu Pisa kenti gezilerimiz dışında meşhur Toscana bağları ve vadileri göreceğimiz yerler arasında.  Konaklama otelimizde."
+      },
+      {
+        "dayNumber": 4,
+        "title": "Roma",
+        "description": "Kahvaltı sonrası Roma ya hareket.  İspanyol Merdivenleri,  Fontana di Trevi Aşk Çeşmesi,  Piazza Venezia,  Vittorio Emmanuelle Anıtı,  Roma Forumu, Colleseo,  Via Del Corso Caddesini gördükten sonra otele transfer."
+      },
+      {
+        "dayNumber": 5,
+        "title": "Roma",
+        "description": "Kahvaltı sonrası Papaların yazlık sarayını ve muhteşem manzaralar eşliğindeki göller bölgesini görebileceğimiz turumuz için otelden hareket ediyoruz.  Eski krater göllerinin olduğu bölgenin en güzel köyleri bizleri bekliyor olacak.  Bu gezimizin ardından uygun alışveriş yapabileceğiniz markaların olduğu Roma’ nın en büyük Outlet’ ine gidiyoruz.  Daha sonra otelimize dönüş için transfer."
+      },
+      {
+        "dayNumber": 6,
+        "title": "Roma",
+        "description": "Gün boyu Roma sokaklarını keşfedip bu muhteşem Başkentin keyfini çıkarabilirsiniz."
+      },
+      {
+        "dayNumber": 7,
+        "title": "Napoli, Pompei, Amalfi Kıyıları, Sorrento",
+        "description": "Napoli ye varışımızın ardından Vezüv yanardağı eteklerinde bulunan Pompei açık hava müzesi gezimiz başlıyor.  Bu muhteşem antik kentin ziyaretinden sonra Amalfi kıyılarının meşhur kasabası Sorrento ya hareket ediyoruz.  Otele yerleşmemizin ardından Sorrento turu yapıyoruz.  Geceleme otelimizde."
+      },
+      {
+        "dayNumber": 8,
+        "title": "Amalfi Kıyıları, Positano",
+        "description": "Kahvaltı sonrası İtalya’nın en güzel kıyıları olarak adlandırılan Amalfi kıyıları turu Positano turumuza başlıyoruz.  Bu küçük dünyanın en karakteristik koylarından olan Positano turumuzdan sonra güney İtalya’ nın en büyük liman ve sıra dışı kenti Napoli ye geçiyoruz.  Napoli şehir merkezinde yapacağımız panoramik tur sonrası otele hareket."
+      },
+      {
+        "dayNumber": 9,
+        "title": "Capri Adası Turu, Napoli, İstanbul",
+        "description": "Sabah otelde alınan kahvaltı sonrası hareketle; Capri Adası turunu yapıyoruz.  Burada Ada’ nın ana limanı Marina Grande’ yi ve Piazzette Meydanı’ nı ve Ünlülerin yaşadığı evleri görüyoruz.  Sonrasında Napoli’ ye dönüş ve havaalanına transfer.  Türk Havayollarının TK 1454 sefer sayılı uçağı ile 18. 05’ de İstanbul’ a hareket.  Yerel saati ile 21. 15’ de İstanbul’ a dönüş. Otelde alacağımız kahvaltıdan sonra havalimanı için hareket."
+      }
+    ],
+    "map": "",
+    "country": "İtalya"
+  },
+  {
+    "destination": "İtalya",
+    "mainPhoto": "",
+    "id": "ST03101",
+    "tourName": "İtalya - Slovenya - Avusturya Turu",
+    "placesVisited": "İtalya, Slovenya, Avusturya",
+    "generalInfo": "İtalya Yarımadasındaki insan varlığının izleri bu İtalik kavimlerin yarımadaya ulaşmalarından çok öncelerine,  200 binyıl öncesi Yeni Taş Çağı’ na kadar dayanır.  İnsanlık tarihinin kültür başkentlerinden olan İtalya’ yı Siempre Tur ile keşfedin.<br><br>Tur boyunca hem rehberlerimizin tarihi anlatımlarından hem de İtalya’ nın tarih kokan doğal güzelliklerinden çok etkileneceksiniz.<br><br>Turumuz,  Siempre Tour’ un deneyimli rehber ekibiyle Havaalanı’ ndan itibaren başlar ve tekrar tur bitişi sonrasında aynı noktada sonlanır.  Tur süresi boyunca rehber ekibi tüm soru ve görüşlerinizi dinlemek için yanınızda olacaktır.",
+    "durationDays": "5",
+    "price": "FİYAT İSTEYİNİZ",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "18",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<ul>\n<li>- Programda belirtilen Havayolu ile belirtilen parkurda ekonomi sınıfı uçak bileti</li>\n<li>- Havalimanı vergileri</li>\n<li>- Alan/otel/alan transferleri, şehirlerarası transferler</li>\n<li>- Belirtilen 3  ve 4 Yıldız kategori otellerde oda+kahvaltı (Continental kahvaltı) konaklamalar</li>\n<li>- Otel konaklama turist vergileri</li>\n<li>- Programda belirtilen tüm çevre gezileri</li>\n<li>- Zorunlu seyahat sigortası (Mesleki sorumluluk sigortasıdır.)</li>\n<li>- Türkçe tur liderliği hizmeti</li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "İSTANBUL – SALZBURG– HALLSTATT - SALZBURG",
+        "description": "İstanbul Havalimanı Dış Hatlar Terminalinde saat 06.00’de hazır bulunulması. Check–in işlemlerinin ardından Türk Havayolları TK 1381 sefer sayılı uçuşu ile saat 08.15’de Salzburg’a hareket. Yerel saat ile 09.45’te varışın ardından özel otobüsümüzle Hallstatt’a gidiyoruz. Göl kıyısına kurulmuş ve etrafı dağlarla çevrilmiş olan büyüleyici kasaba Hallstatt muhteşem doğal güzelliği ve görselliği ile UNESCO dünya mirası listesinde yerini almış. Tüm renkleri barındıran doğası, biraz koyu renkli gölü ve tam bir tasarım harikası ahşap evleriyle dünyanın en güzel köyü Hallstatt da kuğuları ve muhteşem manzarayı izleyerek, göl kenarında yapılacak yürüyüş ve serbest zaman sonrası, 80 km mesafedeki Mozart’ın notalarının yükseldiği Salzburg’a hareket ediyoruz. Mozart’ın doğduğu yer ve tuz madenleri ile tanınan Salzburg şehir turuna başlıyoruz. Salzburg’un en önemli ve en gözde yerlerinden 900 yıllık tarihe sahip Avrupa’nın en büyük kalesi Festung Hohensalzburg, çiçekler ve birbirinden etkileyici heykellerle donatılmış sahip Mirabell Sarayı bahçesi, Ortaçağ, Barok ve Rönesans dönemine ait binaların bulunduğu eski şehir ve Residens Meydanı, aşıkların aşklarının sonsuza dek sürmesi için, dileklerini yazdıkları kilitlerin asıldığı Makartsteg köprüsü, kuşların ve nehrin sesi ile oluşan mükemmel senfoniyi banklarda oturarak iliklerinize kadar hissedebileceğiniz Salzburg şehrini ikiye ayıran Salzach nehri, tabelaları ferforjeden yapılmış ünlü markaların mağazalarının olduğu Salzburg’un kalbi ve en güzel caddesi Getreidegasse Caddesi, Getreidegasse Caddesi üzerinde dikkatinizi çekecek"
+      },
+      {
+        "dayNumber": 2,
+        "title": "SALZBURG - BLED GÖLÜ – LJUBLJANA",
+        "description": "Sabah kahvaltısı sonrası sürekli fotoğraflarını görüp iç çektiğimiz “Keşke ben de bir gün orada olsam !” diyeceğiniz Avrupa’nın en güzel 10 kasabası listesine giren Bled gölüne hareket. Doğanın insanlığa armağanı, güzelliği dillere destan Bled gölünde yapacağımız yürüyüşte büyülü güzelliği ve huzuru iliklerinize kadar hissedeceksiniz. Bled gölünde geçirilen serbest zamanda yaklaşık 50 dakika sürebilecek tam tur göl turu yapabilir, küçük gezi tekneleri ile gölde gezinti keyfi yaşanabilir, bir miktar ücret ödeyerek çıkabileceğiniz Bled kalesinden muhteşem manzarayı izleyebilirsiniz. Ardından 2016 yılında Avrupa’nın en yeşil kenti ödülünü alan Ljublyana’ya hareket. Ljublyana varışımızı takiben şehir turumuzda İçinden nehir geçen diğer şehirler gibi Ljubljana da bir köprüler şehri. Eski dönemde ayakkabıcıların ürünlerini sergiledikleri şehrin merkezindeki en eski Kunduracılar Köprüsü, şehrin kalbinin attığı Üçlü Köprü, rengarenk aşk kilitleriyle süslü Kasap Köprüsü ile şehrin ve Slovenya bayrağının sembolü olan Ejderhalar Köprüsü, oldukça renkli ve akşamları cıvıl cıvıl olan Ljubljana’nın kalbinin attığı Preseren ve Kongresni Meydanı, duvarları grafitlilerle dolu, sokaklarında eski ayakkabıların sarkıtıldığı, vakit geçirmesi inanılmaz keyifli Trubarjeva Caddesi görüldükten sonra otelimize yerleşme, serbest zaman ve konaklama."
+      },
+      {
+        "dayNumber": 3,
+        "title": "LJUBLYANA – VENEDİK - VERONA",
+        "description": "Sabah kahvaltısından sonra İtalya’nın en çok turist çeken suların içinde en ilginç şehri Venedik’e hareket ediyoruz. Venedik şehir turumuzda görülecek yerler ; siyasi ve dini olayların merkezinde yer almış, günümüzde sosyal hayatın en canlı olduğu noktaların başında gelen yıl içerisinde çok sayıda kültürel organizasyona ev sahipliği yapan San Marco Meydanı, hemen yanı başında Ayasofya dikkate alınarak inşa edilmiş San Marco Bazilikası, Görkemiyle kente denizden gelenlerin ilk dikkatini çeken yapı olan Dükler Sarayı, üzerinde yoğun bir su trafiğini, çevresinde ise birbirinden güzel pek çok tarihi yapıyı barındıran Büyük Kanal, Büyük Kanal üzerinde bulunan geçiş yollarının en eskisi olan Rialto Köprüsü, kenti veba salgınından kurtardığına inanılan Hz. Meryem adına 1687’de inşa edilmiş Santa Maria della Salute Bazilikası, 99 metre yüksekliğe sahip Aziz Mark’ın Çan Kulesi, Venedik de görülecek yerleri bitirdikden sonra serbest zaman. Sonrasında Verona ya hareket ediyoruz. Verona’ya varışımızı takiben yapacağımız şehir turunda 354-1356 yılları arasında savunma amaçlı inşa edilen Ortaçağ döneminden kalma tarihi bir kale olan Castel Vecchio, etrafı her biri birer İtalyan mimarisi örneği olan binalar ile çevrili ve oldukça geniş bir alana sahip, sokak sanatçıları, dükkanlar, kafeler, turistik eşya tezgahları ile dolu şehrin tam kalbi Erbe meydanı; Romeo ve Juliet’in geçtiği şehir olarak ünlü olmuş Verona’da turist akınına uğrayan İngiliz edebiyatçısı Shakespeare‘in romantik eserinde yer alan ölümsüz kahraman Juliet‘ten esintiler bulabileceğiniz Juliet’in evi, Birinci yüzyılda inşa edilen en iyi şekilde korunarak günümüze kadar gelmesi sağlanmış günümüzde hala uluslararası alanda büyük ölçekli etkinliklere ev sahipliği yapan Arena di Verona, Birbirinden güzel İtalyan mimarisine sahip anıtsal yapılar ile çevrili meydan olan Piazza dei Signori, Dükkanlar, kafeler, turistik eşya tezgahları ile dolu oldukça hareketli ve eğlenceli Verona’nın en ünlü meydanı olan Erbe Meydanı gezildikden sonra otelimize transfer. Konaklama otelimizde."
+      },
+      {
+        "dayNumber": 4,
+        "title": "VERONA – GARDA – COMO – MİLANO",
+        "description": "Sabah kahvaltısının ardından etrafında 20’ye yakın kasabanın yerleştiği İtalya’nın cennet"
+      },
+      {
+        "dayNumber": 5,
+        "title": "MİLANO - İSTANBUL",
+        "description": "Sabah kahvaltısının ardından İtalya’nın moda başkentindeki turumuzda dünyada kent merkezine en hakim katedral olarak kabul edilen gün boyu her zaman kalabalık Duomo, Duomo Meydanı’nda, katedralin hemen yanında camdan dev kubbeli ve dört kollu dev pasajın kapısından girdiğiniz anda görkemini ve ihtişamını hissedeceğiniz tüm dünyada en çok fotoğraflanan iç mekanlardan Galleria Vittorio Emanuele’i ziyaret ediyoruz. Saat 12:00 da Mapenza havalimanına hareket. Türk Havayolları’nın TK 1876 sefer sayılı uçuşu ile saat 19.45’de İstanbul’a hareket. Yerel saat 23.40’da İstanbul’a varış ve turumuzun sonu"
+      }
+    ],
+    "map": "",
+    "country": "İtalya"
+  },
+  {
+    "destination": "İtalya",
+    "mainPhoto": "",
+    "id": "STG09070",
+    "tourName": "Jewel of the Seas ile Büyük Akdeniz - 08.Nisan.2020",
+    "placesVisited": "İtalya, İspanya, Fransa, İngiltere",
+    "generalInfo": "<strong>Jewel of the Seas;</strong> rahatlığı, büyütülmüş alanları, panoramik okyanus manzaraları ve her isteğinize özen ile cevap verecek eğitimli personeli ile size tam bir cruise deneyimi sunuyor. Ayırt edici özellikleri arasında on katlı cam merkezi, deniz manzaralı cam asansörler ve Royal Caribbean filosundaki en yüksek oranda dış kabin sayısı bulunmaktadır. Süper yat dizaynı ile karakterize olmuş Radiance Sınıfı gemiler, camlı alanları, sanat eserleri ve heykeller ile tamamlanmış modern mobilyaları ile dikkat çekmektedir. Açık alanları, balkonları ve daha çok cam görünümüyle Radiance Sınıfı gemilerde bir gemide olduğunuzu unutacaksınız.",
+    "durationDays": "12",
+    "price": "FİYAT İSTEYİNİZ",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "50",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<ul>\n<li><strong>* </strong>Türk Hava Yolları ile Sabiha Gökçen – Roma // Barcelona – Sabiha Gökçen arası ekonomi sınıfı uçak bileti</li>\n<li><strong>* </strong>Havalimanı ve liman vergileri <strong>2,900 TL</strong> (Dahildir)</li>\n<li><strong>*</strong> Havalimanı-liman-havalimanı arasındaki tüm  transferler</li>\n<li><strong>*</strong> 5 Yıldızlı Jewel of the Seas gemimizde tam pansiyon (tüm yiyecekler dahil-Specialty Restaurant giriş ücretleri hariç ) konaklama</li>\n<li><strong>* </strong>Gemide düzenlenen animasyon ve aktiviteler</li>\n<li><strong>*</strong> Türkçe Rehberlik Hizmetleri <strong>(Grup kişi sayısı 20’yi aştığı takdirde)</strong></li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Roma ( Civitavecchia ), İtalya",
+        "description": "Sabiha Gökçen- Roma, İtalya arası Türk Hava Yolları tarifeli seferi ile uçuş. Varışı takiben gemimize transfer."
+      },
+      {
+        "dayNumber": 2,
+        "title": "La Spezia (Floransa / pisa ), İtalya",
+        "description": "Varış Saati : 07:00"
+      },
+      {
+        "dayNumber": 3,
+        "title": "Portofino (İtalya)",
+        "description": "Varış Saati : 07:00"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Marsilya ( Provence ), Fransa",
+        "description": "Varış Saati : 09:00"
+      },
+      {
+        "dayNumber": 5,
+        "title": "Sete (Fransa)",
+        "description": "Varış Saati : 08:00"
+      },
+      {
+        "dayNumber": 6,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 7,
+        "title": "Cartagena (İspanya)",
+        "description": "Varış Saati : 08:00"
+      },
+      {
+        "dayNumber": 8,
+        "title": "Cebelitarık (İngiltere)",
+        "description": "Varış Saati : 09:00"
+      },
+      {
+        "dayNumber": 9,
+        "title": "Malaga (İspanya)",
+        "description": "Varış Saati : 08:00"
+      },
+      {
+        "dayNumber": 10,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 11,
+        "title": "Palma de Mallorca (Balear Adaları)",
+        "description": "Varış Saati : 08:00"
+      },
+      {
+        "dayNumber": 12,
+        "title": "Barselona (İspanya)",
+        "description": "Varış Saati : 06:00"
+      }
+    ],
+    "map": "",
+    "country": "İtalya"
+  },
+  {
+    "destination": "İtalya",
+    "mainPhoto": "",
+    "id": "STG08030",
+    "tourName": "MSC Fantasia ile Batı Akdeniz - 02.Ağustos.2020 (Kurban Bayramı)",
+    "placesVisited": "İtalya, İspanya, Fransa",
+    "generalInfo": "Civitavecchia, Palermo, Cagliari, Palma de Mallorca, Valenciya, Marsilya, Cenova, Civitavecchia",
+    "durationDays": "8",
+    "price": "1399",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "50",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p>* Türk Havayolları ile ekonomi sınıfı IST-ROMA-IST      Uçuşlar<br/>\r\n* Gemide   7 gece tam pansiyon konaklama<br/>\r\n* Havaalanı - liman - havaalanı transferleri<br/>\r\n* Türkçe rehberlik hizmeti<br/>\r\n* Gemide düzenlenen  ücretsiz animasyon ve şovlar<br/>\r\n* Kaptanın hoşgeldin partisi ve gala yemeği<br/>\r\n* Havalimanı ve liman vergileri<br/>\r\n* Yurtdışı Seyahat Sağlık ve İptal Sigortası</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Civitavecchia/ROMA (İtalya)",
+        "description": "Civitavecchia/ROMA (İtalya)"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Palermo (Sicilya)",
+        "description": "Palermo (Sicilya)"
+      },
+      {
+        "dayNumber": 3,
+        "title": "Cagliari (Sardinya)",
+        "description": "Cagliari (Sardinya)"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Palma de Mallorca (Balear Adaları)",
+        "description": "Palma de Mallorca (Balear Adaları)"
+      },
+      {
+        "dayNumber": 5,
+        "title": "Valenciya (İspanya)",
+        "description": "Valenciya (İspanya)"
+      },
+      {
+        "dayNumber": 6,
+        "title": "Marsilya (Fransa)",
+        "description": "Marsilya (Fransa)"
+      },
+      {
+        "dayNumber": 7,
+        "title": "Cenova / Portofino (İtalya)",
+        "description": "Cenova / Portofino (İtalya)"
+      },
+      {
+        "dayNumber": 8,
+        "title": "Civitavecchia/ROMA (İtalya)",
+        "description": "Civitavecchia/ROMA (İtalya)"
+      }
+    ],
+    "map": "",
+    "country": "İtalya"
+  },
+  {
+    "destination": "İtalya",
+    "mainPhoto": "",
+    "id": "STG08032",
+    "tourName": "MSC Fantasia ile Batı Akdeniz - 03 Ekim & 07.Kasım.2020",
+    "placesVisited": "İtalya, İspanya, Fransa",
+    "generalInfo": "Cenova, Civitavecchia, Palermo, Cagliari, Palma de Mallorca, Valencia, Marsilya, Cenova",
+    "durationDays": "8",
+    "price": "899",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "50",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p>* Türk Havayolları ile ekonomi sınıfı IST-MİLANO-IST      Uçuşlar<br/>\r\n* Gemide   7 gece tam pansiyon konaklama<br/>\r\n* Havaalanı - liman - havaalanı transferleri<br/>\r\n* Türkçe rehberlik hizmeti<br/>\r\n* Gemide düzenlenen  ücretsiz animasyon ve şovlar<br/>\r\n* Kaptanın hoşgeldin partisi ve gala yemeği<br/>\r\n* Havalimanı ve liman vergileri<br/>\r\n* Yurtdışı Seyahat Sağlık ve İptal Sigortası</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Cenova / Portofino (İtalya)",
+        "description": "Cenova / Portofino (İtalya)"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Civitavecchia/ROMA (İtalya)",
+        "description": "Civitavecchia/ROMA (İtalya)"
+      },
+      {
+        "dayNumber": 3,
+        "title": "Palermo (Sicilya)",
+        "description": "Palermo (Sicilya)"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Cagliari (Sardinya)",
+        "description": "Cagliari (Sardinya)"
+      },
+      {
+        "dayNumber": 5,
+        "title": "Palma de Mallorca (Balear Adaları)",
+        "description": "Palma de Mallorca (Balear Adaları)"
+      },
+      {
+        "dayNumber": 6,
+        "title": "Valencia (İspanya)",
+        "description": "Valencia (İspanya)"
+      },
+      {
+        "dayNumber": 7,
+        "title": "Marsilya (Fransa)",
+        "description": "Marsilya (Fransa)"
+      },
+      {
+        "dayNumber": 8,
+        "title": "Cenova / Portofino (İtalya)",
+        "description": "Cenova / Portofino (İtalya)"
+      }
+    ],
+    "map": "",
+    "country": "İtalya"
+  },
+  {
+    "destination": "İtalya",
+    "mainPhoto": "",
+    "id": "STG08031",
+    "tourName": "MSC Fantasia ile Batı Akdeniz - 24.Mayıs.2020 (Ramazan Bayramı)",
+    "placesVisited": "İtalya, İspanya, Fransa",
+    "generalInfo": "Civitavecchia, Palermo, Cagliari, Palma de Mallorca, Valenciya, Marsilya, Cenova, Civitavecchia",
+    "durationDays": "8",
+    "price": "999",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "50",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p>* Türk Havayolları ile ekonomi sınıfı IST-ROMA-IST      Uçuşlar<br/>\r\n* Gemide   7 gece tam pansiyon konaklama<br/>\r\n* Havaalanı - liman - havaalanı transferleri<br/>\r\n* Türkçe rehberlik hizmeti<br/>\r\n* Gemide düzenlenen  ücretsiz animasyon ve şovlar<br/>\r\n* Kaptanın hoşgeldin partisi ve gala yemeği<br/>\r\n* Havalimanı ve liman vergileri<br/>\r\n* Yurtdışı Seyahat Sağlık ve İptal Sigortası</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Civitavecchia/ROMA (İtalya)",
+        "description": "Civitavecchia/ROMA (İtalya)"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Palermo (Sicilya)",
+        "description": "Palermo (Sicilya)"
+      },
+      {
+        "dayNumber": 3,
+        "title": "Cagliari (Sardinya)",
+        "description": "Cagliari (Sardinya)"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Palma de Mallorca (Balear Adaları)",
+        "description": "Palma de Mallorca (Balear Adaları)"
+      },
+      {
+        "dayNumber": 5,
+        "title": "Valenciya (İspanya)",
+        "description": "Valenciya (İspanya)"
+      },
+      {
+        "dayNumber": 6,
+        "title": "Marsilya (Fransa)",
+        "description": "Marsilya (Fransa)"
+      },
+      {
+        "dayNumber": 7,
+        "title": "Cenova / Portofino (İtalya)",
+        "description": "Cenova / Portofino (İtalya)"
+      },
+      {
+        "dayNumber": 8,
+        "title": "Civitavecchia/ROMA (İtalya)",
+        "description": "Civitavecchia/ROMA (İtalya)"
+      }
+    ],
+    "map": "",
+    "country": "İtalya"
+  },
+  {
+    "destination": "İtalya",
+    "mainPhoto": "",
+    "id": "STG08014",
+    "tourName": "MSC Poesia ile Kanarya Adaları - 14.11.2019",
+    "placesVisited": "İtalya, İspanya, Fransa, Fas, Portekiz",
+    "generalInfo": "Cenova, Marsilya, Barselona, Denizde Seyir, Kasablanka, Denizde Seyir, Santa Cruz de Tenerife, Funchal, Denizde Seyir, Malaga, Denizde Seyir, Civitavecchia, Cenova",
+    "durationDays": "13",
+    "price": "1030",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "50",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p>*  THY ile ekonomi sınıfı İstanbul - Milano (MXP) - İstanbul uçuşu</p>\n<p>*  Tercih etmiş olduğunuz kategorideki kabinde 12 gece tam pansiyon konaklama</p>\n<p>*  Havaalanı - liman - havaalanı transferleri.</p>\n<p>*  Grup doluluk oranı 50% ve üzeri olması durumunda Türkçe rehberlik hizmeti garanti edilmektedir.</p>\n<p>*  Her gün ve gece için düzenlenen eğlence, animasyon ve şovlar</p>\n<p>*  Gemideki sabah, öğle ve akşam yemekleri</p>\n<p>*  Kaptanın hoşgeldin partisi ve gala yemeği</p>\n<p>*  Fitness</p>\n<p>*  Havaalanı ve Liman vergileri</p>\n<p>*  Vize için gerekli teminatları da içeren MSC Cruises seyahat Seyahat ve sigorta paketi (70 yaş üzeri %100 sürprim uygulanır Sadece Türk vatandaşlarına sigorta yapılır)</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Cenova / Portofino (İtalya)",
+        "description": "Cenova / Portofino (İtalya)"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Marsilya, FRANSA",
+        "description": "Marsilya, FRANSA"
+      },
+      {
+        "dayNumber": 3,
+        "title": "Barselona (İspanya)",
+        "description": "Barselona (İspanya)"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 5,
+        "title": "Casablanca (Fas)",
+        "description": "Casablanca (Fas)"
+      },
+      {
+        "dayNumber": 6,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 7,
+        "title": "Santa Cruz de Tenerife (İspanya)",
+        "description": "Santa Cruz de Tenerife (İspanya)"
+      },
+      {
+        "dayNumber": 8,
+        "title": "Funchal (Portekiz)",
+        "description": "Funchal (Portekiz)"
+      },
+      {
+        "dayNumber": 9,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 10,
+        "title": "Malaga (İspanya)",
+        "description": "Malaga (İspanya)"
+      },
+      {
+        "dayNumber": 11,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 12,
+        "title": "Civitavecchia/ROMA (İtalya)",
+        "description": "Civitavecchia/ROMA (İtalya)"
+      },
+      {
+        "dayNumber": 13,
+        "title": "Cenova / Portofino (İtalya)",
+        "description": "Cenova / Portofino (İtalya)"
+      }
+    ],
+    "map": "",
+    "country": "İtalya"
+  },
+  {
+    "destination": "İtalya",
+    "mainPhoto": "",
+    "id": "STG08016",
+    "tourName": "MSC Seaview ile Grand Voyage ( İtalya, İspanya, Brezilya ) - 19.Kasım.2019",
+    "placesVisited": "İtalya, İspanya, Brezilya",
+    "generalInfo": "Civitavecchia, Palermo, Denizde Seyir, Palma de Mallorca, Valensiya, Malaga, Denizde Seyir, Santa Cruz de Tenerife, Denizde Seyir, Salvador, Ilheus, Denizde Seyir, Rio de Janeiro, Santos",
+    "durationDays": "18",
+    "price": "1959",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "50",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p>*  THY ile ekonomi sınıfı İstanbul (SAW)- Roma / Santos - İstanbul uçuşu</p>\n<p>*  Tercih etmiş olduğunuz kategorideki kabinde 17 gece tam pansiyon</p>\n<p>*  1 Gece 4* hotel konaklaması</p>\n<p>*  Havaalanı - liman - havaalanı transferleri.</p>\n<p>*  Vergiler</p>\n<p>*  Grup doluluk oranı 50% ve üzeri olması durumunda Türkçe</p>\n<p>rehberlik hizmeti garanti edilmektedir.</p>\n<p>*  Hergün ve gece için düzenlenen eğlence, animasyon ve şovlar</p>\n<p>*  Gemideki sabah, öğle ve akşam yemekleri</p>\n<p>*  Kaptanın hoşgeldin partisi ve gala yemeği</p>\n<p>*  Fitness</p>\n<p>*  Havaalanı - liman vergileri</p>\n<p>*  Vize için gerekli teminatları da içeren MSC Cruises seyahat</p>\n<p>Seyahat ve sigorta paketi (70 yaş üzeri %100 sürprim uygulanır Sadece Türk vatandaşlarına sigorta yapılır)</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Civitavecchia/ROMA (İtalya)",
+        "description": "Civitavecchia/ROMA (İtalya)"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Palermo (Sicilya)",
+        "description": "Palermo (Sicilya)"
+      },
+      {
+        "dayNumber": 3,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 4,
+        "title": "Palma de Mallorca (Balear Adaları)",
+        "description": "Palma de Mallorca (Balear Adaları)"
+      },
+      {
+        "dayNumber": 5,
+        "title": "Valensiya (İspanya)",
+        "description": "Valensiya (İspanya)"
+      },
+      {
+        "dayNumber": 6,
+        "title": "Malaga (İspanya)",
+        "description": "Malaga (İspanya)"
+      },
+      {
+        "dayNumber": 7,
+        "title": "Santa Cruz de Tenerife (İspanya)",
+        "description": "Santa Cruz de Tenerife (İspanya)"
+      },
+      {
+        "dayNumber": 8,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 13,
+        "title": "Salvador (Breziya)",
+        "description": "Salvador (Breziya)"
+      },
+      {
+        "dayNumber": 14,
+        "title": "Ilheus (Brezilya)",
+        "description": "Ilheus (Brezilya)"
+      },
+      {
+        "dayNumber": 15,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 16,
+        "title": "Rio de Janeiro (Brezilya)",
+        "description": "Rio de Janeiro (Brezilya)"
+      },
+      {
+        "dayNumber": 17,
+        "title": "Santos (Brezilya)",
+        "description": "Santos (Brezilya)"
+      },
+      {
+        "dayNumber": 18,
+        "title": "Santos' tan Ayrılış",
+        "description": ""
+      }
+    ],
+    "map": "",
+    "country": "İtalya"
+  },
+  {
+    "destination": "İtalya",
+    "mainPhoto": "",
+    "id": "STG08027",
+    "tourName": "MSC Splendida ile Lizbonlu Batı Akdeniz - 28 Eylül/07 Ekim/16 Ekim/25 Ekim/03.Kasım.2020",
+    "placesVisited": "İtalya, İspanya, Fas, Portekiz, Fransa",
+    "generalInfo": "Cenova, Denizde Seyir, Malaga, Kasablanka, Denizde Seyir, Lizbon, Denizde Seyir, Barcelona, Marsilya, Cenova",
+    "durationDays": "10",
+    "price": "999",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "50",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<p>* Türk Havayolları ile ekonomi sınıfı IST-MİLANO-IST      Uçuşlar<br/>\r\n* Gemide  9 gece tam pansiyon konaklama<br/>\r\n* Havaalanı - liman - havaalanı transferleri<br/>\r\n* Türkçe rehberlik hizmeti<br/>\r\n* Gemide düzenlenen  ücretsiz animasyon ve şovlar<br/>\r\n* Kaptanın hoşgeldin partisi ve gala yemeği<br/>\r\n* Havalimanı ve liman vergileri<br/>\r\n* Yurtdışı Seyahat Sağlık ve İptal Sigortası</p>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Cenova / Portofino (İtalya)",
+        "description": "Cenova / Portofino (İtalya)"
+      },
+      {
+        "dayNumber": 2,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 3,
+        "title": "Malaga (İspanya)",
+        "description": "Malaga (İspanya)"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Kasablanka (Fas)",
+        "description": "Kasablanka (Fas)"
+      },
+      {
+        "dayNumber": 5,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 6,
+        "title": "Lizbon (Portekiz)",
+        "description": "Lizbon (Portekiz)"
+      },
+      {
+        "dayNumber": 7,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 8,
+        "title": "Barselona (İspanya)",
+        "description": "Barselona (İspanya)"
+      },
+      {
+        "dayNumber": 9,
+        "title": "Marsilya (Fransa)",
+        "description": "Marsilya (Fransa)"
+      },
+      {
+        "dayNumber": 10,
+        "title": "Cenova / Portofino (İtalya)",
+        "description": "Cenova / Portofino (İtalya)"
+      }
+    ],
+    "map": "",
+    "country": "İtalya"
+  },
+  {
+    "destination": "İtalya",
+    "mainPhoto": "",
+    "id": "STG09082",
+    "tourName": "Rhapsody of the Seas Yunan Adaları & Adriyatik - 23.Mayıs.2020 (Ramazan Bayramı)",
+    "placesVisited": "İtalya, Karadağ, Hırvatistan, Yunanistan",
+    "generalInfo": "Seas of Rhapsody, Royal Caribbean International tarafından işletilen Vision sınıfı bir yolcu gemisidir.",
+    "durationDays": "8",
+    "price": "996",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "50",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<ul>\n<li><strong>* </strong>Türk Hava Yolları ile İstanbul – Venedik– İstanbul arası ekonomi sınıfı uçak bileti</li>\n<li><strong>* </strong>Havalimanı-liman-havalimanı arasında ki  transferler</li>\n<li><strong>* </strong>Havaalanı ve liman vergisi <strong>490 € </strong></li>\n<li><strong>* </strong>5 Yıldızlı Rhapsody of the Seas gemimizde tam pansiyon (tüm yiyecekler dahil-Specialty Restaurant giriş ücretleri hariç)</li>\n<li><strong>* </strong>Gemide düzenlenen animasyon ve aktiviteler</li>\n<li><strong>*</strong> Türkçe Rehberlik Hizmetleri <strong>(Grup kişi sayısı 20’yi aştığı takdirde)</strong></li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Venedik (İtalya)",
+        "description": "İstanbul - Venedik arası THY tarifeli sefer ile uçuş, varışı takiben Rhapsody Of The Seas’e transfer."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Dubrovnik (Hırvatistan)",
+        "description": "Varış Saati : 11:00"
+      },
+      {
+        "dayNumber": 3,
+        "title": "Kotor (Karadağ)",
+        "description": "Varış Saati : 07:00"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 5,
+        "title": "Santorini (Yunanistan)",
+        "description": "Varış Saati : 07:00"
+      },
+      {
+        "dayNumber": 6,
+        "title": "Katakolon (Yunanistan)",
+        "description": "Varış Saati : 09:00"
+      },
+      {
+        "dayNumber": 7,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 8,
+        "title": "Venedik (İtalya)",
+        "description": "Varış Saati : 06:45"
+      }
+    ],
+    "map": "",
+    "country": "İtalya"
+  },
+  {
+    "destination": "İtalya",
+    "mainPhoto": "",
+    "id": "STG09081",
+    "tourName": "Rhapsody of the Seas Yunan Adaları & Adriyatik - 25.Temmuz.2020 (Kurban Bayramı)",
+    "placesVisited": "İtalya, Karadağ, Yunanistan",
+    "generalInfo": "Seas of Rhapsody, Royal Caribbean International tarafından işletilen Vision sınıfı bir yolcu gemisidir.",
+    "durationDays": "8",
+    "price": "1096",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "50",
+    "dates": "",
+    "minimumAge": "18",
+    "meet": "",
+    "whatExpect": "<ul>\n<li><strong>* </strong>Türk Hava Yolları ile İstanbul – Venedik– İstanbul arası ekonomi sınıfı uçak bileti</li>\n<li><strong>* </strong>Havalimanı-liman-havalimanı arasında ki  transferler</li>\n<li><strong>* </strong>Havaalanı ve liman vergisi <strong>490 €</strong></li>\n<li><strong>* </strong>5 Yıldızlı Rhapsody of the Seas gemimizde tam pansiyon (tüm yiyecekler dahil-Specialty Restaurant giriş ücretleri hariç)</li>\n<li><strong>* </strong>Gemide düzenlenen animasyon ve aktiviteler</li>\n<li><strong>*</strong> Türkçe Rehberlik Hizmetleri <strong>(Grup kişi sayısı 20’yi aştığı takdirde)</strong></li>\n</ul>",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "Venedik (İtalya)",
+        "description": "İstanbul - Venedik arası THY tarifeli sefer ile uçuş, varışı takiben Rhapsody Of The Seas’e transfer."
+      },
+      {
+        "dayNumber": 2,
+        "title": "Kotor (Karadağ)",
+        "description": "Varış Saati : 13:00"
+      },
+      {
+        "dayNumber": 3,
+        "title": "Korfu (Yunanistan)",
+        "description": "Varış Saati : 09:00"
+      },
+      {
+        "dayNumber": 4,
+        "title": "Atina, Piraeus (Yunanistan)",
+        "description": "Varış Saati : 12:00"
+      },
+      {
+        "dayNumber": 5,
+        "title": "Mikonos (Yunanistan)",
+        "description": "Varış Saati : 07:00"
+      },
+      {
+        "dayNumber": 6,
+        "title": "Argostoli (Yunanistan)",
+        "description": "Varış Saati : 11:00"
+      },
+      {
+        "dayNumber": 7,
+        "title": "Denizde Seyir",
+        "description": ""
+      },
+      {
+        "dayNumber": 8,
+        "title": "Venedik (İtalya)",
+        "description": "Varış Saati : 06:45"
+      }
+    ],
+    "map": "",
+    "country": "İtalya"
   }
 ]
