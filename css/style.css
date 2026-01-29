@@ -7800,6 +7800,104 @@ ul.sidebar-tags li a:hover {
   background-size: 100% var(--u-h);
 }
 
+/* Cascading carousel */
+.cascading-carousel {
+  position: relative;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+.cascading-carousel__viewport {
+  position: relative;
+  height: 360px;
+  overflow: visible;
+}
+
+.cascading-carousel__track {
+  position: relative;
+  height: 100%;
+}
+
+.cascading-carousel__item {
+  position: absolute;
+  top: 0;
+  width: 320px;
+  height: 360px;
+  transition: transform 0.45s cubic-bezier(0.22, 1, 0.36, 1), left 0.45s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.25s ease;
+  transform-origin: center center;
+  will-change: transform, left;
+}
+
+.cascading-carousel__item .trend-item1-carousel,
+.cascading-carousel__item .trend-image {
+  width: 100%;
+  height: 100%;
+}
+
+.cascading-carousel__link {
+  display: block;
+  width: 100%;
+  height: 100%;
+  color: inherit;
+  text-decoration: none;
+}
+
+.cascading-carousel__item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.cascading-carousel__item .overlay-text {
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.25s ease;
+}
+
+.cascading-carousel__item.is-active .overlay-text {
+  opacity: 1;
+  visibility: visible;
+}
+
+.cascading-carousel__item .color-overlay {
+  opacity: 0;
+  transition: opacity 0.25s ease;
+}
+
+.cascading-carousel__item.is-active .color-overlay {
+  opacity: 0.35;
+}
+
+@media (max-width: 991px) {
+  .cascading-carousel {
+    padding: 16px 0;
+  }
+
+  .cascading-carousel__viewport {
+    height: auto;
+    overflow-x: auto;
+    overflow-y: hidden;
+  }
+
+  .cascading-carousel__track {
+    display: flex;
+    gap: 16px;
+  }
+
+  .cascading-carousel__item {
+    position: relative;
+    left: auto !important;
+    transform: none !important;
+    opacity: 1 !important;
+    width: 260px;
+    height: 300px;
+    flex: 0 0 auto;
+  }
+
+}
+
 /* Klavye odağı için erişilebilirlik (opsiyonel) */
 #responsive-menu a:focus-visible {
   outline: none;
