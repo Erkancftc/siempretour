@@ -1,0 +1,75 @@
+{
+  "destination": "South Africa",
+  "mainPhoto": "",
+  "id": "south-africa-multi-activity-holiday",
+  "tourName": "South Africa multi activity holiday",
+  "placesVisited": "",
+  "generalInfo": "This 13-day / 12-night travel experience offers a unique way to discover the unparalleled natural beauty of Southern Africa and will both challenge and pamper you as you wind your way from the winelands of the Western Cape up to the sandy shores of northern KwaZulu Natal. <br/><br/>Kick off your activity-filled adventure in the “Mother City”, Cape Town, with an exhilarating guided cycle ride through the picturesque farm roads and sprawling vineyards of Franschhoek to the West Coast fishing village of Paternoster. Before embarking on the next leg of your journey, unwind a while in the is charming hamlet with its pristine beaches, whitewashed cottages and turquoise water. Seafood lovers will be in heaven as they feast on fresh fish at any of the quaint restaurants in the village.<br/>Follow this with a magical 2-day “slackpacking” journey into the Garden Route’s Tsitsikamma forest. Explore the rugged coastline with its sweeping views of the Indian Ocean, natural fynbos and unspoiled forest without the chore of carrying a heavy backpack; while overnighting in well-appointed accommodation and enjoying exquisite cuisine. Take an early morning dip in the sea or get the adrenaline pumping with an evening quad bike ride, in this bird-watcher’s paradise.  <br/><br/>You'll overnight in Johannesburg before rounding off your vacation in earthy elegance at the exclusive and luxurious Thonga Beach Lodge, nestled between the exquisite dune forests on the KwaZulu Natal north coast. Wake to the sound of the waves and choose what the day will hold. Whether it be early morning guided kayaking on Lake Sibaya, diving the brilliantly coloured coral reefs amongst schools of fish, sharks and dolphins, or simply lazing the day away in a hammock, the choice is yours.",
+  "durationDays": "13",
+  "price": "5345",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "You’ll land at Cape Town International Airport today, and be transported to Parker Cottage (B&B) where you will spend your first night. This ethical and sustainable guesthouse is in the leafy suburb of Tamboerskloof, one of a group of contiguous neighbourhoods known as the City Bowl. Enjoy the day exploring the “Mother City” on one of the many open-top City Sightseeing busses. With over 30 stops, taking you to more than 50 of Cape Town’s top attractions, the bus allows you to hop-on and hop-off at your leisure."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Today marks the first leg of your supported cycling adventure. You’re taking to the saddle with a 50km cycle ride from Jonkershoek Nature Reserve to Franschhoek deep in the Cape Winelands. Tonight, you will stay at the luxurious Akademie Street."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Today you have a slightly longer ride, but the picturesque landscape makes the extra distance worthwhile. After lunch in the olive producing town of Riebeek Kasteel you will cycle onwards to the charming historic town of Tulbagh. Your destination is the elegant Bartholomeus Klip which overlooks the Elandsberg Nature Reserve."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "You’re heading back to the coast today with a transfer from Tulbagh to the stunning West Coast National Park, where you’ll begin your guided cycle ride to your next destination. You’ll spend two nights at the tranquil Strandloper Ocean Boutique Hotel in the quaint fishing village of Paternoster, where you’ll enjoy some well-deserved rest and relaxation."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Today marks the start of the hiking leg of your adventure: You’ll explore the magnificent Tsitsikamma coast with 3 nights in luxury lodges enjoying exquisite cuisine and sweeping views of the Indian Ocean … but without the burden of heavy backpacks. All your luggage will be transported by vehicle to your overnight stops. All you need to carry with you is a light day pack, and your camera! After an early morning flight from Cape Town to George you’ll be transported to your new address where you’ll meet your Dolphin Trail guide. Tonight, you will stay in one of the rustic Dolphin Trail Chalets (fully inclusive)."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "There’s opportunity for an early morning swim or bird watching before your hike today. After crossing Storms River over a suspension bridge, you’ll be guided along ridges and rocky paths until you reach the lookout point with sweeping vistas of the coast towards Plettenberg Bay. Here you’ll relax and enjoy a snack. Be sure to keep an eye out for whales and dolphins! Hike on to your accommodation at Misty Mountain Lodge. Enjoy an exhilarating sunset Quad Bike Tour in the reserve before sitting down to a sumptuous 3-course dinner at the hotel’s restaurant."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "This morning’s hike is mostly at sea level, perfect for a spot of snorkelling enroute. It's a steep climb uphill before being rewarded with a picnic lunch, then a 3km forest walk to The Fernery where you will spend the night. After supper enjoy a jacuzzi or sauna to round off a memorable day."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Start your day with breakfast at The Fernery. Afterward, head to Port Elizabeth Airport for a scenic ride. Fly to Johannesburg and stay at The Peech Hotel in Melrose, a stylish and eco-friendly boutique hotel. Enjoy dinner at the hotel's restaurant, then unwind in your cozy Classic Room for a restful night’s sleep."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "You’re back in the air with a flight to the Kwa-Zulu Natal town of Richards Bay today, where pick up your rental vehicle and make your way to your lodging for the next three nights at the sensational Thonga Beach Lodge. Head out on foot on a guided walk through the forest where you’ll have the opportunity to see some of the multitude of bird, plant, spider and butterfly species from the area. Enjoy scuba diving and snorkelling, as well as kayaking on Lake Sibaya … or just laze the day away soaking up the sun on the unspoiled white sandy beach."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "This is your last day in South Africa. You’ll drive from Thonga Beach Lodge to Durban, where you’ll fly out from Durban International Airport today with what we hope are some outstanding memories to hold onto until we see you again!"
+    }
+  ],
+  "map": ""
+}

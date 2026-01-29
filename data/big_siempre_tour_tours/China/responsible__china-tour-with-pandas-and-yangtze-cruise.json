@@ -1,0 +1,90 @@
+{
+  "destination": "China",
+  "mainPhoto": "",
+  "id": "china-tour-with-pandas-and-yangtze-cruise",
+  "tourName": "China tour with Pandas and Yangtze cruise",
+  "placesVisited": "",
+  "generalInfo": "Discover China’s iconic landmarks and its beloved national treasure—the giant panda—on this 13-day “China Essence &amp; Panda Tour.” The journey begins in Beijing with a visit to the scenic Mutianyu section of the Great Wall, followed by a flight to Xi’an to explore the awe-inspiring Terracotta Warriors. Savor authentic local flavors in the Muslim Quarter before heading to Chengdu, where you’ll take part in an exclusive Panda Keeper Program at the Dujiangyan Panda Base—helping prepare food and clean enclosures while directly supporting conservation efforts. Cruise through the breathtaking Three Gorges on the Yangtze River, soaking in dramatic cliffs and serene landscapes, then continue to vibrant Shanghai to experience the striking contrast between historic charm and futuristic skyline along the Bund. Designed with sustainability in mind, the itinerary minimizes flights by using China’s high-speed rail network, supports locally owned restaurants and guesthouses, and includes meaningful cultural exchanges—like a dumpling-making session with a Xi’an family and a traditional tea tasting in Chengdu.",
+  "durationDays": "13",
+  "price": "3429",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Beijing. Your private guide will be ready to meet and greet you at the arrival hall. A comfortable private car with an experienced driver will transfer you directly to your hotel. Meals:No"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Beijing. Wander through Tian'anmen Square, the largest city square in the world, and arrive at the Forbidden City, the largest imperial palace in the world. Experience the charm of the hutongs, a network of historic alleyways lined with traditional courtyard houses. This one-hour rickshaw tour will take you through narrow streets, into a local home, and across the Silver Ingot Bridge. Learn about the distinctive characteristics of these disappearing courtyards. Meals:Breakfast and Lunch"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Beijing. Freshen up in the morning and start your day at the Temple of Heaven, which was the place where emperors prayed for a good harvest. Ceremony. Then continue to the Great Wall at Mutianyu, which is the section ranked top on TripAdvisor among all the Great Wall sections Meals: Breakfast, Lunch"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Beijing to Xi'an. Walk around the tranquil Summer Palace at a leisurely pace and enjoy the 300-year-old royal garden. Enjoy some Beijing roast duck for lunch. In the afternoon, you will be driven to the train station for your high speed train to Xi'an. Meals: Breakfast ,Lunch"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Xi'an. Visit the the Terracotta Army. Have a silent conversation with the warriors and listen to their stories spanning over 2,000 years. Then discover a local craftsman's cave dwelling and learn how to make clay warriors with your own hands. After lunch, return to the city area and visit the 600-year-old ancient city wall. Meals: Breakfast, Lunch"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Xi'an to Chengdu. Discover more ancient history at Little Wild Goose Pagoda. It houses a collection of Buddhist artifacts and becomes a symbol of Xi'an's rich heritage. From the top level of the pagoda, you will see a panoramic view of Xi'an. Join a local family and learn how to make Jiaozi, Chinese dumplings. This interactive experience offers a unique opportunity to connect with Chinese culture. Enjoy the special lunch of your homemade dumplings. Finally, hop onto a high-speed train for a 4-hour journey to Chengdu. Meal: Breakfast, Lunch"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Chengdu. Get very close to pandas and learn more about them during the Panda Keeper Program in Dujiangyan Panda Base. Meal: Breakfast and lunch"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Chengdu to Chongqing. Start your day at Chengdu People's Park to experience an authentic local life. Begin your journey with a cup of tea. Next, venture to Jinli Old Street, where you can taste delicious local snacks. Try some famous foods, such as bean jelly in chili sauce, sweet potato noodles, and Sichuan-style wontons. Take the bullet train to Chongqing after the tour and then check-in for a Yangtze River cruise that departs at 9 pm. (Note: Fares for Yangtze River cruises vary depending on departure date, cruise line, and cabin category/ship class.) Meal: Breakfast, lunch and dinner"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Yangtze River Cruise. Take a shore excursion to Fengdu Ghost City in the morning. Enjoy the cultural activities on the ship in the afternoon and a night show — War Fires of the Three Kingdoms (optional) after dinner. Meal: Breakfast, lunch and dinner"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Yangtze River Cruise. Visit White Emperor City to see 10-yuan banknote scenery, calligraphy inscriptions. Cruise through the spectacular Qutang Gorge and the magnificent Wu Gorge at noon. Enjoy a shore excursion to Shennv Stream in the afternoon. Enjoy the Crew Cabaret and Talent Show after dinner on the ship. Meal: Breakfast, lunch and dinner"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Yichang to Shanghai. Disembark in the morning, and then join the shore excursion to the Three Gorges Dam. You will be transferred to the tourist center in Yichang city after the tour. Your private guide and driver will escort you to the railway station on time for your bullet train journey to Shanghai. Meal: Breakfast and lunch"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Shanghai. Travel back in time to the golden age of the Bund in the 1920s during our In-Depth Bund Culture Discovery Tour. Enjoy lunch and ascend the tallest building in China — Shanghai Tower. Enjoy freetime in the afternoon. Meal: Breakfast and lunch"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Shanghai departure. Say goodbye to Shanghai and China. Enjoy a private transfer to the airport."
+    }
+  ],
+  "map": ""
+}

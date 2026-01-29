@@ -1,0 +1,85 @@
+{
+  "destination": "Fiji",
+  "mainPhoto": "",
+  "id": "fiji-holidays-island-hopping-tour",
+  "tourName": "Fiji holidays, island hopping tour",
+  "placesVisited": "Viti Levu, Nadi, Sonaisali Island, village visit and traditional kava ceremony, seaplane flight to Mamanuca Islands, flight to Taveuni, snorkelling, diving, hiking, mountain biking, walking and kayaking",
+  "generalInfo": "Enjoy all the delights that beautiful Fiji has to offer on an island hopping tour. This exciting 12-day trip begins on Viti Levu, heading inland to explore its ruggedly beautiful landscape and local villages, many of which still enjoy a relatively untouched existence. Accompanied by a local, knowledgeable guide you’ll come to understand the traditional Fijian culture at a village. Here, you’ll be warmly welcomed by village elders and invited to join a traditional kava ceremony. You also have the chance to explore the wild countryside, with its waterfalls and rainforest, mountainous peaks and hidden pools. By walking or kayaking you can get away from the main circular route around the island and discover its hidden beauty. <br/><br/>The beaches of the Mamanuca Islands are the ideal place to relax. The snorkelling and diving is excellent here, and many of the smaller islands still retain their local customs and traditions. The resort staff will be happy to tell you more.<br/><br/>Round of your trip by heading to the north, which is also like travelling back in time. Here, tourism is very low key and traditional life thrives, which is fun to see and experience. On Taveuni, visit remote, untouched villages, go walking or dive in the beautiful lagoon.<br/><br/>The dry season, from May to October, is the best time to visit Fiji, but the islands’ mild climate make it a great destination all year round, although cyclones are more common between November and April.<br/>",
+  "durationDays": "10",
+  "price": "10350",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Nadi and transfer to nearby Natadola to relax on the beach after the flight."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Enjoy a day the day relaxing by the beach."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Catch your light aircraft to the Mamanuca Islands, enjoying the spectacular views over the islands scattered across the turquoise waters. Our preferred resorts here have excellent environmental policies, and strive to protect both the island environment and the fragile reefs surrounding them."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Dive or snorkel amongst the abundant coral, enjoying the bright colours of the giant clams which are protected in this area."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Relax on the golden sands, or learn traditional crafts with the staff who come from the local villages."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Spend the day kayaking, paddle-boarding or beachcombing."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "A further day to relax and enjoy the tranquillity."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "From the Mamanuca Islands, you will catch a ferry to Port Denarau where you will be transferred to the Nadi airport for your flight up to the northern islands. Fly to Taveuni, one of Fiji's most beautiful islands covered in lush tropical rainforest and flora, where you will spend the next five nights."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Sit back and absorb the views, or relax on the sands."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Take to the water and either snorkel or dive amongst some of the world's best soft corals."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "A final day to relax."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Fly back to Nadi to connect with your departure flight."
+    }
+  ],
+  "map": ""
+}

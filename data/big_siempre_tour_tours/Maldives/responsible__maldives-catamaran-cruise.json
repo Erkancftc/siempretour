@@ -1,0 +1,65 @@
+{
+  "destination": "Maldives",
+  "mainPhoto": "",
+  "id": "maldives-catamaran-cruise",
+  "tourName": "Maldives Catamaran Cruise",
+  "placesVisited": "Goidhoo Atoll, Baa Atoll, North Ari Atoll, Optional activities include: snorkelling, fishing",
+  "generalInfo": "There’s no better way to experience the Maldives than by boat, tailor-made itineraries to suit your requirements are offered.<br/><br/>Sail to coral atolls and beautiful islands and island-hop to your heart’s content. Some will be deserted, some will be little more than sandbars and some inhabited by small fishing communities who will show you their special way of life. <br/><br/>From Male you’ll breeze through South Male Atoll and on to Vaavu Atoll where you will discover solitude, untouched reefs and a famous ship wreck. On the way, you’ll stop at fishing village, and even learn to how to line fish the Maldivian way. There are plenty of snorkelling opportunities where you will be sure to encounter a myriad of colourful reef fish, and the chance to observe nurse sharks, trevally and turtles. <br/><br/>This modern air-conditioned sailing catamaran comes with a crew who’ll prepare all your meals. You could use your fishing skills to help put dinner on the table, or just enjoy being catered for. You can have sundowners on deserted sandbanks and the freshest grilled fish for dinner.<br/><br/>This is a slow-paced and gentle cruise. Lounge on the netting between the two hulls as the boat sails along, or sunbathe on deck.",
+  "durationDays": "1",
+  "price": "3200",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Upon arrival at Male International Airport you will be greeted by our representative and transferred to your home for the next 7 days. You will be settled into your cabin and given a tour of the catamaran before beginning your voyage of discovery! Late afternoon cruise south to Guraidhoo in South Male Atoll, this is time for you to do as you please, relax on the sundeck, sit in the shade of the sun canopy and watch the beauty of the Maldives pass you by and maybe catch sight of dolphins. When at anchorage you can choose to do as much or as little as you please. Options include snorkeling and swimming, fishing or just relaxing."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Following breakfast you have the opportunity to tour the fishing village of Guraidhoo. Accompanied by a guide, time is spent exploring the island with the opportunity to meet the local people, learn about the local way of life including a visit to the Mosque, the local school and the boatyard where you can see how the common wooden boat known locally as a ‘dhoni’ is built. Following lunch taken on board, cruise to Fulidhoo, Vaavu Atoll during which, time is yours to do as you please, relax on the sundeck, sit in the shade of the sun canopy and watch the beauty of the Maldives pass you by and maybe catch sight of dolphins. When at anchorage you can choose to snorkel, swim, fish, visit a sandbank or just relax on board."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Following breakfast cruise to south through Vaavu Atoll. Whilst cruising the time remains yours to do as you please, relax on the sundeck, sit in the shade of the sun canopy and watch the beauty of the Maldives pass you by. Late afternoon transfer ashore to another local island for traditional ‘hedika’ - Maldivian savoury and sweet snack served with black tea and the opportunity to tour the island before returning on board for a relaxing evening."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "This morning spend a relaxing time on a sandbank. For those feeling energetic snorkelling and swimming are available. This evening at sunset experience the art of Maldivian line fishing! The Maldives is unique in that its history depends on tuna fishing and the locals are excellent fishermen using pole and line and are happy to share their skills with you. Your catch will be freshly prepared for you to enjoy."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Following breakfast we go snorkeling in search of nurse sharks, big eyed travelly and turtles. The afternoon there will be a further opportunity to visit a local island and together with your guide discover more about the traditional way of Maldives life."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Following a late breakfast cruise north back into South Male Atoll, whilst cruising the time remains yours to do as you please, relax on the sundeck, sit in the shade of the sun canopy and watch the beauty of the Maldives pass you by. Just before sunset transfer ashore to an uninhabited island before enjoying dinner comprising of fresh grilled fish and a selection of local dishes"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Following breakfast the morning is one of relaxation on board or for those feeling energetic snorkeling and swimming are available. Following lunch cruise back to Hulhumale lagoon. Late afternoon there will be the opportunity to make a visit to Male before returning to the boat for a farewell dinner."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Breakfast on board. Check out 10.00am when you will be transferred back to Male airport in time for your departure flight."
+    }
+  ],
+  "map": ""
+}

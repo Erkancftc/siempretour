@@ -1,0 +1,75 @@
+{
+  "destination": "China",
+  "mainPhoto": "",
+  "id": "china-backpacking-tours",
+  "tourName": "China backpacking tours",
+  "placesVisited": "",
+  "generalInfo": "Spend your time off visiting one of the largest and most exciting countries in the world. Depending on how much time you have, join either our 16 day or 25 day tour. <br/><br/>You will join a group of travelers all keen to see the real China. You will be have an experienced tour guide with you throughout, who can help you make the most out of your time in China! <br/><br/>See the amazing sites of China in a unique way. Travel by public transport and stay in hostels, chosen for their character, on this affordable tour.<br/><br/>Want to add this tour to one of our China teaching projects? Speak to the team!",
+  "durationDays": "16",
+  "price": "1150",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Hong Kong - Victoria Peak"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Yangshuo - Bamboo rafting down the Li River. Optional activities - kayaking, deep water soloing, mud baths, cooking class, a Cormorant fishing demonstration"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Chengdu - Learn some Mandarin, meet the Pandas, Wenshu Monastery, Sichuan Province Museum and a traditional Chinese tea-house Option activities - massage with a blind physical therapist, Sichuan opera, Leshan to see the largest stone Buddha, Tibetan quarter"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Xi'an - Muslim quarter, Silk Road Market, Terracotta Warriors Optional activities - Karaoke, Cycle tour around the city walls"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Shaolin - Deng-Feng for Kung Fu lesson, Madarin lesson, Kung Fu demonstration by masters"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Beijing - Mandarin lesson, Great Wall of China (locals only section) camping in good weather, Olympic Bird's Nest Stadium, Tienanmen Square, The Forbidden City, The Temple of Heaven Optional activities - acrobat show, try Peking Roast Duck For those on the 16 day tour, you will leave on the 15th day to travel back to Hong Kong, unless you would prefer to stay in Beijing"
+    },
+    {
+      "dayNumber": 17,
+      "title": "",
+      "description": "Moganshan - Bamboo nature reserve, cycle tour of local villages, Mogan Mountain"
+    },
+    {
+      "dayNumber": 19,
+      "title": "",
+      "description": "Shanghai - Propaganda History Museum, Ferry across Huangpu River, Nanjing Road Optional activities - Tianzifang, rooftop bar"
+    },
+    {
+      "dayNumber": 22,
+      "title": "",
+      "description": "Fujian - Night in a Tulou, walking tour of UNESCO World Heritage Site, Sample local tea Optional activities - Cycle"
+    },
+    {
+      "dayNumber": 25,
+      "title": "",
+      "description": "Macao - St Paul's, Old Fortress, Venetian Macao Resort Hotel At the end of the tour, you can travel via high speed ferry back to Hong Kong"
+    }
+  ],
+  "map": ""
+}

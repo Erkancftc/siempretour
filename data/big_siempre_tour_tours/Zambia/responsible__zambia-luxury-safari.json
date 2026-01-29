@@ -1,0 +1,45 @@
+{
+  "destination": "Zambia",
+  "mainPhoto": "",
+  "id": "zambia-luxury-safari",
+  "tourName": "Zambia luxury safari",
+  "placesVisited": "",
+  "generalInfo": "A nine-night/10-day trip to Zambia staying at three of the country's top lodges. The trip is completely tailor-made and therefore it can be structured entirely to fit your interests and requirements. It is available seasonally from the 1st April to the 30th November. <br/><br/>This trip commences in Lusaka, before an internal flight to the South Luangwa - for three nights at one of the most exciting openings in the park of the last decade - Sungani Lodge. This family-run lodge not only offers luxury accommodation and a refined food and drink offering but its location on its own in the southern realms of the park affords it complete exclusivity. <br/><br/>After exploring the South Luangwa, fly to the stunning Lower Zambezi for a further three nights at Lolebezi Camp. The unique design strikes you immediately and the camp is just as stunning as the surrounding environment. In the Lower Zambezi there are opportunities to explore not only by game drive and on foot, but also on boat safaris and canoe trips.  <br/><br/>Finally, fly to Livingstone, home of the famous Victoria Falls waterfall. Thorntree River Lodge is one of the most comfortable options in the area, with a privileged position on the banks of the Zambezi River in the Mosi-Oa-Tunya National Park, it provides the perfect spot to finish your trip doing as much or as little as you please. <br/><br/>The trip works equally well in reverse, if it works for your flight arrangements or if you would just prefer to start in Livingstone and then continue with the main safari part of the trip.",
+  "durationDays": "10",
+  "price": "16995",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Lusaka, Zambia where you will be met and directed to an internal flight to Mfuwe Airstrip (depending on the time of your arrival it might be necessary for us to organise an overnight in Lusaka). Upon arrival in Mfuwe you will be met by the team at Sungani to take the short flight (20-25 minutes) in a Cessna 206 to the lodge. You'll be picked up at the airstrip and driven to camp."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Fly back to Mfuwe and onwards to Jeki Airstrip in the Lower Zambezi National Park. Upon arrival you will be met and driven to Lolebezi."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "After three nights in the Lower Zambezi you will be driven back to the airstrip to fly to Livingstone to complete your Zambia itinerary at Thorntree River Lodge."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Your trip comes to an end with a transfer back to Livingstone Airport to meet your flights home."
+    }
+  ],
+  "map": ""
+}

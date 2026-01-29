@@ -1,0 +1,65 @@
+{
+  "destination": "Jordan",
+  "mainPhoto": "",
+  "id": "jordan-photography-tour",
+  "tourName": "Jordan photography tour",
+  "placesVisited": "",
+  "generalInfo": "With minimum 2 persons, learn how to make the most beautiful pictures of your holiday in Jordan with a professional Jordanian photographer. <br/>During this tour a Jordanian photographer will give you a workshop at each site you visit. Capture the magnificent scenery of Jordan, the stunning sunsets and its beautiful faces.<br/>While travelling from North to South you will notice the ever changing landscape, perfect for shooting lots of pictures. Spend a night at Dana Nature Reserve. Visit Petra and camp in the desert Wadi Rum. Finish of your stay with 2 nights at the Dead Sea including an adventure hike at Wadi Mujib. Don't forget a water proof case for your camera whilst exploring the canyon.<br/><br/>Join us on this tour, improve your photography skills and capture your holiday memories.",
+  "durationDays": "8",
+  "price": "2395",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Queen Alia Airport International – Amman Arrival at Amman Queen Alia International airport, after finishing your visa procedures ( the visa is on your expense cost 40 JOD / 57 USD ,and will walk with you through the customs. Your driver will wait for you in the arrival hall, holding a name sign. You will be transferred directly to Amman to the 3* Hotel for overnight"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Amman – Madaba – Karak - Dana In the morning your photographer, will explain the tour through Jordan and introduce you to your fellow travelers. This will be followed by a visit to Citadel and Roman Theatre in Amman, then continue driving to the St. George Church in Mad aba, with its famous mosaic map of the Promised Land. After you drive via the King's Highway to Karak to visit the Crusaders Castle. Continue to Dana Nature Reserve for dinner an overnight stay in Dana Hotel, breakfast included. During the drive towards the South you'll have plenty of time for photography"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Dana – little Petra – Petra After breakfast you can visit the old village of Dana Nature Reserve and surroundings. Optional you can make a hike in the Dana Nature Reserve with a local guide. Lunch boxes are included. In the afternoon we'll depart for Petra and finish the day with a photo stop in beautiful Little Petra. The overnight stay will be in Petra in 3* hotel, breakfast included."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Petra Today you'll have a full day to explore the many monuments in the UNESCO and World Heritage Site Petra. Included is a 2-3 hours guided city tour, to get a good first impression of Petra. After this tour you have the rest of the day to explore Petra by yourself together with the photographer. After your visit to the Siq, Treasury, Street of Facades, Theatre and Colonnaded Street you have the possibility to hike your way to the Monastery and/or the High Place of Sacrifice. It is a lot of climbing, but worth the views! Lunch included inside Petra. However, we can also organize lunch boxes for you, so you can enjoy your lunch when and where you want and enjoy the special places in Petra even more. Overnight stay in the 3* Hotel in Petra, breakfast included"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Petra – Wadi Rum This morning you have time to visit Petra on your own or with guidance. After lunch (around 14.00/ 2 pm) we drive to Wadi Rum. Feel like T.E. Lawrence in the breathtaking scenery of Wadi Rum. You will have the afternoon free to explore the area around of the campsite together with the Jordanian photographer. You could also choose to enjoy a short camel ride upon arrival to Wadi Rum. Enjoy dinner under the stars and spend the night in the Authentic Bedouin Campsite, located inside the protected area of Wadi Rum, dinner and breakfast included. Tonight you could enjoy a photography workshop about how to capture the stars the best on your lens. Overnight at Night Luxury Campsite, including dinner and breakfast"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Wadi Rum – Dead Sea Today you will explore Wadi Rum desert by a 3.5 hours jeep tour. The jeep will stop at each site to give you time to explore the site, scramble around and make beautiful pictures! In the afternoon you transfer to the lowest point on earth’s surface; the Dead Sea. We drive via Dilagha, a beautiful 'hidden' road that crosses Wadi Araba Desert, one of the unique places that we love to introduce to you. At the Dead Sea we have an overnight stay in the 4* Dead Sea Resort, breakfast included"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Dead Sea – Wadi Mujib – Dead Sea Free morning at the Dead Sea. On this day we'll have a workshop and practice with HDR (High Dynamic Range) photography. At 14.00/ 2 pm drive to Wadi Mujib where you will hike the fun water Siq Trail. This hike takes 2-3 hours together with a private RSCN guide and you will learn how to make the most beautiful pictures while being on the move! Note: make sure to bring a water/dust proof case to protect your camera during the tour!! Transfer back to Dead Sea Overnight stay in the 4* Dead Sea Resort, breakfast included"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Dead Sea – Queen Alia International Airport Transfer to the airport for departure, 3 hours in advance of your departure time"
+    }
+  ],
+  "map": ""
+}

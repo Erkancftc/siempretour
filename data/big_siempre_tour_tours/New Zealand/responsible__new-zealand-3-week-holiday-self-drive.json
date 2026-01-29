@@ -1,0 +1,140 @@
+{
+  "destination": "New Zealand",
+  "mainPhoto": "",
+  "id": "new-zealand-3-week-holiday-self-drive",
+  "tourName": "New Zealand 3 week holiday, self drive",
+  "placesVisited": "",
+  "generalInfo": "See the best of New Zealand in three weeks taking in the thermal splendours of Rotorua on North Island and the majestic alpine scenery of Fiordland in the south, with some unforgettable experiences en route.",
+  "durationDays": "23",
+  "price": "3475",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "We greet you on arrival at the airport and take you to your hotel where you can relax before getting to know the ‘City of Sails’."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "A great start to city sightseeing is to ascend the Sky Tower: a SkyWalk is optional! Nearby Queen Street is the main strip and you could end your day with a waterfront dinner in the new Wynyard Quarter."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Collect a rental vehicle and head south to Waitomo Glow Worm caves before being welcomed to a real New Zealand home. Your hosts are delighted to show off the farm, and share a home-cooked dinner with you before you enjoy a good night’s sleep."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "From the Buried Village to Whakarewarewa, Te Puia and Waimangu: all fascinating attractions that blend the two aspects that make Rotorua a must: Maori culture and geothermal activity. We can also recommend an authentic Maori hangi for dinner!"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "On the road south, make time to see the Lady Knox Geyser at Wai O Tapu Geothermal Park. Stop in Taupo for lunch before entering Tongariro National Park, a starkly beautiful volcanic landscape. (Alternatively head east to the Art Deco town of Napier.)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Often described as the finest one day walk in New Zealand, the Tongariro Crossing is a full day traverse of the ‘saddle’ between Mts Tongariro and Ngauruhoe. Shorter walks are also possible. A round of golf on an all-weather course, or a soak in a natural hot pool are other options."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Travel through country towns to Wellington, still the ‘coolest little capital in the world’ thanks to its combination of location, architecture, café culture and laid-back lifestyle. Drop off your rental vehicle before a stroll through Civic Square to a Queens Wharf restaurant."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Board the Interislander ferry to cruise to South Island, boarding a coach in Picton for the transfer to Nelson, the sunniest town in New Zealand."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "It is easy to gush about the beauty of Abel Tasman National Park! Golden beaches, turquoise water and pristine native bush combine to create a natural paradise you can explore by boat, kayak or on foot. We have plenty of tips for you."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Collect a rental vehicle and drive through the challenging Buller Gorge to Westport, with a stop for seal-spotting at Cape Foulwind. Follow the rugged coast to Punakaiki to see the weird blowholes at Dolomite Point."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Today your route takes you down the West Coast, through Greymouth, to Hokitika, keeping the Tasman sea on your right and the Southern Alps on your left."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Hokitika, once a gold rush town, is now a haven for craftspeople and a good place to buy pounamu (greenstone) carvings. Arrive in Franz Josef in time to see the glacier on a guided hike or helicopter trip: landing on the Tasman Glacier is an unforgettable experience!"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Travel south through native rainforest, over mountain streams into the rugged beauty of the Haast Pass. Continue round the shores of glacial Hawea and Wanaka lakes to Wanaka township."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "One of our favourite destinations, the snow-capped peaks, long river valleys and lush native forest are centred around the beautiful lake. There are ‘tramping’ opportunities for every experience level."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "A jet boat trip or a waterfall climb are both guaranteed to set the pulses racing. In the evening, take a seat at Cinema Paradiso: they range from slouchy sofas to a modified Morris Minor!"
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Travel through Central Otago, around the shores of Lake Wakatipu to Te Anau, one of Fiordland’s most beautiful lakes. Round off the day with a lakeside stroll."
+    },
+    {
+      "dayNumber": 17,
+      "title": "",
+      "description": "An early start for one of the world’s most scenic coach trips! Travelling through the National Park is integral to the Milford Sound experience. On arrival, a cruise on the Sound reveals vertiginous cliffs, cascading waterfalls and awesome Mitre Peak."
+    },
+    {
+      "dayNumber": 18,
+      "title": "",
+      "description": "Drive to Queenstown, sometimes called 'The Switzerland of the Southern Hemisphere’ and superbly set on Lake Wakatipu."
+    },
+    {
+      "dayNumber": 19,
+      "title": "",
+      "description": "So much to do, so little time! Stroll in well-kept gardens, cruise Lake Wakatipu or try an adrenalin activity like bungy jumping or an off-road 4X4 tour."
+    },
+    {
+      "dayNumber": 20,
+      "title": "",
+      "description": "Drive through Mackenzie Country to Lake Pukaki and up to Mt Cook Village. Short walks to Kea Point or into the Hooker Valley offer wonderful mountain views. Descend to Twizel to overnight."
+    },
+    {
+      "dayNumber": 21,
+      "title": "",
+      "description": "Make an early stop at the Church of the Good Shepherd, whose altar window frames Lake Tekapu. Cross the tussock plains, so evocative of sheep country, through Fairlie and Geraldine to arrive in Christchurch."
+    },
+    {
+      "dayNumber": 22,
+      "title": "",
+      "description": "Following 2011’s earthquake, this Garden City is rebuilding, blending old (Botanic Gardens, River Avon and the Tram) with new (the Cardboard Cathedral, Container Mall and countless pop-up bars) to reclaim its place as the premier city of South Island."
+    },
+    {
+      "dayNumber": 23,
+      "title": "",
+      "description": "Transfer to Christchurch Airport for your flight home, or ask us about dovetailing this itinerary with one of our Small Group Journeys to extend your time in New Zealand."
+    }
+  ],
+  "map": ""
+}

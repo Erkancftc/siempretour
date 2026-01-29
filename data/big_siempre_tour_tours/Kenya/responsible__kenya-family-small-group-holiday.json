@@ -1,0 +1,65 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "kenya-family-small-group-holiday",
+  "tourName": "Kenya family small group holiday",
+  "placesVisited": "Nairobi, Lake Nakuru, Elephant Orphanage and the Giraffe Centre, Lake Naivasha, Great Rift Valley, Loita Hills, Bush and riverside camps, All day game drive in Masai Mara National Reserve",
+  "generalInfo": "This eight day African adventure takes you from the hustle and bustle of Nairobi to the peace and tranquillity of the Masai Mara to ensure you get to appreciate all sides of Kenya, plus plenty more besides. <br/><br/>As this is a small group holiday for families (max 31 travellers) you’ll be able to make new friends along the way, with campsites on the banks of lakes Nakuru and Naivasha providing wildlife watching opportunities aplenty as well as lots of downtime moments to allow everyone to rest and relax.<br/><br/>After you’ve all caught your breath it’s time to ramp up the excitement as you journey into the Great Rift Valley and go on game drives in the Masai Mara National Reserve. Game drives and overland travel between a couple of the locations can be lengthy so this family holiday is better suited for older kids rather than little ones.<br/><br/>Conservation projects and meeting Masai communities further involve families with older children as well as opportunities to safely observe lions, cheetahs, zebras and rhinos in their natural environment.<br/><br/>From tribal culture to animal protection, local authorities and NGO’s are committed to keeping Kenya just as she’s been for generations which is good news for families looking for an authentic African experience that’s all set to enthrall and inspire in equal measures.  <br/>",
+  "durationDays": "8",
+  "price": "1800",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Nairobi.",
+      "description": "Jambo! Welcome to Kenya. Your adventure begins in Nairobi Your adventure begins with a welcome meeting at 5 pm tonight. You can arrive at any time as there are no activities planned until this important meeting. If you and your family arrive early, perhaps maybe head out and explore visit the National Museum of Kenya, the Karen Blixen Museum or the highly recommended explore Bomas of Kenya where traditional homesteads of several Kenyan tribes are displayed in an outdoor village. Or, to get a glimpse of some animals, or head to the David Sheldricks Elephant Orphanage and the Giraffe Centre. After your meeting, maybe get to know the other families over dinner at a local restaurant."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Lake Nakuru .",
+      "description": "After breakfast, you and your family will visit Langata Giraffe Sanctuary. See the animals up close and learn about the sanctuary’s conservation project. Then, continue to Nairobi National Park – a large game reserve known for breeding endangered black rhinos. When you arrive, set up camp then watch the sunset as you sit down to dinner with your family."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Lake Naivasha .",
+      "description": "Get the family together, and set out on an early morning game drive around Lake Nakuru. As you drive, be sure to look out for the white rhinos that can often be found around the shores. After, meet some of the friendly locals at the nearby village before continuing to Lake Naivasha. When you arrive, the rest of the day is free for you to explore camp at your own pace. Maybe hire a bike or simply relax or play a board game with your family."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Lake Naivasha.",
+      "description": "After breakfast, you and your family will head towards Crater Lake. When you arrive, lace up your walking shoes and set off on a guided walk along one of the many trails. The waters of the lake draw many animals to the area. As you walk, look for giraffes wandering among the acacia, buffaloes wallowing in the swamps and colobus monkeys calling from the treetops. Later, maybe take the family on an optional boat ride across the lake or simply relax at camp - the kids will love the nearby swimming pool!"
+    },
+    {
+      "dayNumber": 5,
+      "title": "Great Rift Valley and Loita Hills .",
+      "description": "Say goodbye to Lake Naivasha as you travel to Loita Hills. Along the way, you’ll stop in Narok to get some groceries. Today's drive crosses the Great Rift Valley and into the remote region that’s home to the traditional Maasai people. Meet the Maasai warriors, who are known for their vibrant red dress and elaborate jewellery.Then, hear from a local elder as they teach you about Maasai and their history and culture. Later, you'll be shown around a traditional Maasai home and see where the resident cattle are kept."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Maasai Mara .",
+      "description": "This morning, drive to the Masai Mara National Reserve – a large, preserved savannah along the Tanzanian border known for its grassy plains, rolling hills and wildebeest who traverse the plains during their annual migration. After setting up camp, sit down to some lunch, then head out on a 4WD game drive through the national reserve. Along the way, you’ll see animals like lions, cheetahs, elephants and zebras roaming the plains or drinking from nearby waterholes, so be sure to have your camera ready!"
+    },
+    {
+      "dayNumber": 7,
+      "title": "Maasai Mara .",
+      "description": "Rise early and venture into the Masai Mara National Reserve for a full day of game driving. Explore this diverse environment and see a plenty of wildlife, like lions, elephants and cheetahs. After, head back to camp for lunch by the side of the Mara River – a great chance to spot crocodiles and hippos. Relax during the heat of the day before setting off on another game drive this afternoon. Tonight, maybe tell stories by the campfire or stargaze, before falling asleep to the sound of the wilderness."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Nairobi.",
+      "description": "This morning, you’ll cross the plains of the Mara and climb the Rift Valley’s eastern wall past Mount Suswa on the return drive to Nairobi . En route, maybe stop for lunch or at a nearby town for one final bit of shopping.When you arrive in Nairobi, your adventure comes to an end. If you’d like to stay longer – and it’s recommended you do – just speak to your booking agent ahead of time."
+    }
+  ],
+  "map": ""
+}

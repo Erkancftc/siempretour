@@ -1,0 +1,50 @@
+{
+  "destination": "Tanzania",
+  "mainPhoto": "",
+  "id": "tanzania-safari-holiday-tailor-made",
+  "tourName": "Tanzania safari holiday, tailor made",
+  "placesVisited": "",
+  "generalInfo": "Your unforgettable safari adventure covers multiple game drives across all four premier wildlife parks in northern Tanzania. Immerse yourself in the region’s remarkable biodiversity, from iconic Big Five species to sweeping herds of plains game. With expert guides leading the way, this journey offers a rare opportunity to experience the untamed beauty of African wildlife at its finest.",
+  "durationDays": "8",
+  "price": "5199",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arusha - You will be met on arrival at Kilimanjaro (JRO) airport, look out for your personal welcome sign, and transfer to Arusha for the night before setting off on your adventure."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Tarangire - Your guide will meet you after breakfast and drive you to Tarangire National Park. Tarangire is home to large herds of Elephant, sometimes up to three hundred strong, and in the dry season they can often be joined by equally impressive herds of Wildebeest and Buffalo."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Tarangire to Ngorongoro Crater - Leave your lodge after breakfast and drive to the stunning Lake Manyara National Park for a morning game drive. The extraordinary birdlife, burgeoning primate population and tree climbing lions are amongst the most important lures of the park. Enjoy lunch before we drive on to your new lodge situated in the Ngorongoro Crater Conservation area. The afternoon is free at your leisure: the perfect time to go for a short walk or simply relax and drink in the views."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Your Serengeti adventure begins with a scenic drive into the iconic plains, including a picnic lunch and game viewing along the way to your lodge, where sweeping wilderness views and an unforgettable sunset await. Over these three days, you will venture deep into the park on full-day game drives in search of the Big Five and marvel at the incredible plains game in the region. Each evening offers time to unwind at your lodge and absorb the sights and sounds of the Serengeti, as your connection to this remarkable landscape grows."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Today is your departure day and we will transfer you to the airstrip for your light aircraft flight back to Kilimanjaro (JRO) airport in good time to connect with your return international flight."
+    }
+  ],
+  "map": ""
+}

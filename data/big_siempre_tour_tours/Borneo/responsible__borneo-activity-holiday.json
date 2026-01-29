@@ -1,0 +1,85 @@
+{
+  "destination": "Borneo",
+  "mainPhoto": "",
+  "id": "borneo-activity-holiday",
+  "tourName": "Borneo activity holiday",
+  "placesVisited": "Kota Kinabalu, Kiulu Valley, White water rafting, Trekking between villages, Climb Mt. Kinabalu, Via Ferrata, Hot springs, Kinabatangan Wildlife Reserve, Sepilok Orangutan Sanctuary, Rainforest Discovery Centre with canopy walkway",
+  "generalInfo": "There is so much to love about this activity holiday in Borneo, not least the fact that it is tailormade, so that the itinerary can be shaped to your own dates and interests. <br/><br/>The adventure begins in Kota Kinabalu, where after a delicious Malaysian dinner, you’ll head out to the beautiful Kiulu Valley. Here you’ll get wet and wild with some white water rafting over Grade II rapids, followed by a meandering cycle ride to the campsite where you’ll spend the night.<br/><br/>Over the next few days you’ll trek through forests, over hilly terrain, between villages where people speak little English but a friendly smile goes a long way. You’ll sleep in hammocks, tents and mountain huts, and feast on traditional cuisine. The destination is Mt. Kinabalu, the tallest mountain in the Malaysian archipelago, which you’ll climb in time to catch daybreak on the summit, and stunning views all the way down to the South China Sea. Heading back down afterwards, perhaps try the Via Ferrata on the mountain, and certainly don’t miss the soothing hot springs back at your accommodation.<br/><br/>Many tours might end on this accomplishment, but this trip goes far beyond. Explore a renowned wildlife reserve, where orang-utans, crocodiles and elephants are regularly seen, take a dawn river cruise as the proboscis monkeys come to life, and visit an orang-utan sanctuary in time for lunch.<br/><br/>Arriving back in Kota Kinabalu, you’ll have a day to recharge your batteries, doing as little or as much as you feel like. Some last-minute shopping and sightseeing perhaps, mountain biking, or just chilling by the hotel pool. <br/>",
+  "durationDays": "12",
+  "price": "3500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "We will be met at the airport and transferred to our 3* hotel in the centre of Kota Kinabalu. Dinner this evening will be at a typical Malaysian restaurant featuring local food."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "This morning we will take a short bus transfer to the beautiful Kiulu valley where we go white water rafting on the Kiulu River (Grade 2), followed by a BBQ lunch and some time to relax by the river. In the afternoon we set out on our bikes and cycle through the Kiulu valley to our campsite at Rangalau Camp."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "This morning we wake up to the view of Mount Kinabalu. After breakfast, we need a 25 minute transfer to begin trekking into a remote area of Sabah. Moving away from the river and out of the dense jungle, we pass through the occasional village. The trekking is hot and sweaty with some steep hills to climb. Tonight we sleep in tents or hammocks or the village community hall at Kampung Sinasang where the ladies in the village will cook us a typical Malaysian feast."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "We continue our trek from Kampung Sinasang through beautiful forest, to our next camp at a village called Rungus Mahaba. Again it will be a tough day as much of the terrain is hilly but the views are spectacular and we pass through a pretty village with very friendly local people. We slleep in tents or hammocks or the village community hall."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "After breakfast, we set off trekking again until we reach Pekan Nabalu, a little market area on the road to Mount Kinabalu. From here, we will take a short bus tranfer to Kundasang where we will stay overnight in a 2* hotel which has the most amazing views of Mount Kinabalu."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Today, we transfer to the National Park where we begin our 7 km climb up to the mountain hut on the slopes of Mount Kinabalu. Tonight we sleep in dorms at the mountain huts at Laban Rata, some 3280 mets ASL."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "This morning we depart from our hut at 3am and trek up to the summit, as the sun is rising. It is a spectacular view of the foothills, down to the South China Sea. If the weather is fine, there is the option to do the Via Ferrata route on the mountain on the way back down to our resthouse. From the resthouse, we descend back to the park HQ and take a bus to poring Hot Springs to spend the evening relaxing our tired legs in the baths."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Our next destination is the Kinabatangan Wildlife Reserve. On arrival, we will have time to settle in before heading out on an afternoon and sunset river cruise. This reserve is famous for its abundance of wildlife and we guarantee that you will see proboscis monkeys in the wild. There are also regular sightings of wild orangutan, elephants, gibbons, hornbills and crocodiles."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "We wake up before the sun rises to embark on a dawn river cruise to watch the wildlife come to life. It is fascinating to watch the proboscis monkeys waken in their canopy homes. After breakfast, we transfer to Sepilok Orangutan Sanctuary via Gomantong caves arriving in time for the afternoon feeding session."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Before we leave for our flight to Kota Kinabalu, we will have time to visit the Rainforest Discovery Centre and the canopy walkway. Tonight we stay in a small beach resort with a swimming pool."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Today is free from organised activities. However, there are many options to keep us busy including a mountain biking trip, a visit to a tropical island, adventure park or wildlife park. There is also the option to go into the city for any last minute shopping or you can simply relax by the swimming pool."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Transfer to airport, expedition ends"
+    }
+  ],
+  "map": ""
+}

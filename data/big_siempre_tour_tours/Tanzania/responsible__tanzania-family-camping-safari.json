@@ -1,0 +1,75 @@
+{
+  "destination": "Tanzania",
+  "mainPhoto": "",
+  "id": "tanzania-family-camping-safari",
+  "tourName": "Tanzania family camping safari",
+  "placesVisited": "",
+  "generalInfo": "Private Tailor made trip available from June-November<br/><br/>Away from the masses, this is a  great 'bush camping'  family adventure exploring the stunning Selous, Ruaha &amp; Mikumi game reserves in Southern Tanzania. <br/>The itinerary gives you the opportunity to view a myriad of African animals on your own personal safari away from the masses of tour buses.  <br/><br/>Highlights<br/>•\tVisit the Selous &amp; Ruaha Parks <br/>•\tGame viewing on the Rufiji River<br/>•\tRuaha National Park<br/>•\tA  connoisseur’s safari <br/>•\tCamping in the ‘bush’<br/><br/>Selous Game Reserve, Africa’s largest protected area uninhabited by man, offers the lucky few visitors an experience in absolutely wild and unspoiled bush. The park varies from rolling grassy plains to open woodlands and rocky outcrops cut by the Rufiji River – the lifeblood of the park, whose tributaries form a network of lakes, lagoons and channels that offer a superb method of game viewing especially during the dry season (from June to October).  Selous hosts Tanzania’s greatest population of elephants as well as being one of the few areas you can see  African wild dogs.  You will  also get the opportunity to explore Ruaha National Park which  derives its name from the Great Ruaha River that flows through the Rift Valley on the eastern part of the Park creating spectacular gorges.   Finally visiting  Mikumi National park, the 4th largest in Tanzania and a great spot for big game viewing as well as bird watching.  <br/>Exploring on foot, by boat and by 4WD and sleeping in tents you will get a true appreciation of the best Southern Tanzania has to offer.  <br/><br/>Selous Game Reserve<br/>Selous Game Reserve, Africa’s largest protected area uninhabited by man, offers the lucky few visitors an experience in absolutely wild and unspoiled bush. The park varies from rolling grassy plains to open woodlands and rocky outcrops cut by the Rufiji River – the lifeblood of the park, whose tributaries form a network of lakes, lagoons and channels that offer a superb method of game viewing especially during the dry season (from June to October). Selous hosts Tanzania’s greatest population of elephants. <br/><br/><br/>Ruaha National Park<br/>Due to its’ distance from any major city, very few tourists visit this park. Ruaha National Park has a varied and fascinating terrain with wild fig trees, rare baobab forests and gorges of glowing orange sandstone. Compared with Selous, here you won’t find big grassy plains nor lakes (so you won’t be able to do safaris by boat). The Great Ruaha River contain swirling rapids and deep pools crowded by dozens of crocodiles and hippos fighting each other. Ruaha is a good place to spot predators. In fact, apart from lions, jackals and hyenas, we saw a group of wild dogs hunting.<br/><br/>Private Tailor made trip available from June-November",
+  "durationDays": "13",
+  "price": "3195",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "ARRIVAL (D): Arrive at the airport, then be met and driven down south to Selous Game Reserve. Depending on the time of your arrival you will settle in and later depart for evening boat cruise along Rufiji River. Return for your dinner and overnight at Selous Hippo."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "CAMPING DAY AT LAKE TAGALALA (B, L, D): Adventurous camping day! Check out from the camp then drive into the middle of the reserve to set up your camp at the bank of Lake Tagalala. Later in the afternoon, drive through the reserve for sunset game drive. Our professional and experienced cook will prepare African dishes for dinner."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "JOURNEY TO MOROGORO (B, L, D): An early start, break up your camp and drive to Morogoro, stopping for lunch en-route. Overnight at Morogoro Hotel"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "DISCOVERING RUAHA NATIONAL PARK (B, L, D): An early start from your hotel, transfer to Ruaha National Park with lunch en-route. At Ruaha you will sty at Msembe Bandas. These are basic, but clean rooms located on a bend in the Ruaha River. Giraffe and elephants frequently walk between the rooms and cheetahs have been seen on the river bed. Here you will have dinner."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "EXPLORING RUAHA NATIONAL PARK (B, L, D): three full days Ruaha National Park. There will still be plenty for you to see in this large, stunning park. Look for wild dogs and leopards near the kopje or watch large herds of elephants and buffalo coming down to drink"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "RUAHA TO UDZUNGWA MOUNTAIN PARK (B, L, D): After breakfast drive to Udzungwa Mountain National Park, lunch as you go, dinner and over night at Hondo Forest Campsite."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "WONDERFUL HIKING IN UDZUNGWA PARK (B, L, D): Breakfast then drive to Udzungwa Mountain National Park. Make final preparations for your trek into the mountains, including a visit to the park HQ to complete the formalities. The hike up to Sanje Waterfalls is relatively short (max 2hrs) but is quite steep in places. This is the park's most popular attraction, although it is unlikely that you will meet any other hikers. Once at Sanje there will be time to explore the forest and waterfalls, and even go for a swim in one of the plunge pools. There after return to the camp and spend the rest of the day here."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "UDZUNGWA TO MIKUMI (B, L, D): After early breakfast, leave Udzungwa for Mikumi with packed lunch. Proceed with a game drive, dinner and overnight at Bastian campsite."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "DAR ES SALAAM (B): Morning game drive, transfer to Dar and the Mediterranneo hotel for your overnight stay. ere you will stay on a bed and breakfast basis giving you the choice between the excellent restaurant and local pub for your evening meal."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "DEPARTURE (B): Transfer to airport/ or why not extend your stay a few days on a beach or one of the lovely island resorts."
+    }
+  ],
+  "map": ""
+}

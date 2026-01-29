@@ -1,0 +1,60 @@
+{
+  "destination": "Rwanda",
+  "mainPhoto": "",
+  "id": "rwanda-highlights-tour",
+  "tourName": "Rwanda highlights tour",
+  "placesVisited": "Kigali, optional: guided tour or visit to local markets, Nyungwe Forest, chimpanzee trekking, Lake Kivu, Volcanoes National Park, gorilla tracking, Kigali Genocide Memorial and Education Centre",
+  "generalInfo": "Track chimpanzees, monkeys and baboons in Nyungwe National Park; travel deep into the forests of Parc National des Volcans in search of mountain gorillas; explore Kigali, the vibrant capital of Rwanda; then relax on the shores of Lake Kivu.<br/><br/>This week-long adventure in Rwanda includes the highlights of this fascinating country, from once-in-a-lifetime wildlife encounters to lakeside relaxation, immersed in natural beauty. You'll arrive into Kigali, then transfer to Nyungwe National Park, where you will get the chance to track chimpanzees, spot monkeys and baboons and walk across a canopy walkway. Hiking deep into the forests of Parc National des Volcans, you'll trek to encounter families of endangered mountain gorillas in their natural habitats. After jungle adventures, you'll relax on the stunning, palm-fringed shores of Lake Kivu. Return to Kigali to explore colourful markets, learn about the devastating Rwandan genocide at the Kigali Genocide Memorial Centre (a difficult, but poignant place to visit) and discover life in a modern East African city.",
+  "durationDays": "7",
+  "price": "7450",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Kigali - Our representatives will meet you upon arrival in Kigali and transfer you to your hotel. Explore the vibrant capital of Rwanda this afternoon with your guide. Visit bustling local markets and the Caplaki Craft Village to see craftsmen selling handicrafts in wooden huts."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Transfer to Nyungwe Forest - Enjoy driving through Rwandan countryside to Nyungwe Forest National Park, located in Rwanda’s mountainous southwest, near the border with Burundi. This scenic journey takes approximately five hours. You have the option to visit the King’s Palace Museum at Nyanza and the Ethnographic Museum of Rwanda (Rwanda National Museum) in Butare. You will be taken to your next accommodation where you will stay 2 nights."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Tracking Chimpanzees in Nyungwe Forest National Park - Join a guided hike through the dense forest of Nyungwe Forest National Park in search of chimpanzees. This is a phenomenal wildlife experience on par with gorilla trekking, although it is lesser known. During your time in Nyungwe Forest National Park, you’ll also have an opportunity to walk across the canopy walkway: a 200-metre bridge suspended between giant trees, 50 metres above the forest floor. The walkway offers incredible views of the forest's upper canopies and is a great opportunity to spot wildlife and birds."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Transfer to Lake Kivu - Leave Nyungwe and head for your next destination, the sandy shores of Lake Kivu. Upon arrival, you are free to enjoy the beauty of the lake, relax on the shore and take part in optional water-based activities such as stand-up paddle boarding, water-skiing, jetskiing and windsurfing. You might also want to visit the nearby coffee plantations, hike through banana groves, rainforest and woodlands, cycle though lush green hills or visit local communities to gain an insight into the rural life and Rwandan culture. You will be taken to your luxury accommodation for 1 night."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Transfer to Parc National des Volcans - After breakfast, you’ll be driven from Lake Kivu to Parc National des Volcans (Volcanoes National Park). On arrival at your accommodation, you’ll be briefed about tomorrow’s gorilla trek."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Track Gorillas in Parc National des Volcans - Drive to Kinigi, located in the foothills of Virungas in Parc National des Volcans, after breakfast. Your guide and tracker will lead you deep into the forest in search of your allocated gorilla family. This trip might last anywhere between 30 minutes to eight hours depending upon the exact location of the specific gorilla family you’re tracking. Spend up to one hour quietly observing the gorilla family. The gorillas are likely to be just a few metres away from you and they will continue to go about with their daily lives, feeding and interacting with each other under the watchful gaze of the silverback. Transfer back to your accommodation late in the afternoon and you are free for the remainder of the day."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Depart from Kigali - We will drive you to Kigali in the morning. Visit the Kigali Genocide Memorial, which commemorates the 1994 genocide against the Tutsi, and learn more about this painful episode in Rwandan history. You will then be transferred to the airport for your flight home."
+    }
+  ],
+  "map": ""
+}

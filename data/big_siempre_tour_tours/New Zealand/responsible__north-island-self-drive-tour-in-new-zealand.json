@@ -1,0 +1,65 @@
+{
+  "destination": "New Zealand",
+  "mainPhoto": "",
+  "id": "north-island-self-drive-tour-in-new-zealand",
+  "tourName": "North Island self drive tour in New Zealand",
+  "placesVisited": "",
+  "generalInfo": "This 8-day circular tour starts in Auckland and finishes in Auckland. Explore the Central North Island's jewels. Starting in Auckland visit the famous Waitomo Caves, Rotorua's culture and geothermal attractions and the wonderful golden beaches of the Coromandel and the Bay of Plenty.",
+  "durationDays": "8",
+  "price": "2298",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Welcome to Auckland! Meet your private driver who will give you an information pack including maps and driving instructions, then take you to your hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Collect your car then head south to the Waitomo Glow Worm Caves. Explore a 30-million-year-old limestone cave network travelling deep underground to see stalactites and stalagmites."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Today cross the lush farmland of the Waikato as you make your way inland to Rotorua. Pass through several small farming towns, before arriving to Rotorua, the geothermal region of the north island."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Your day in Rotorua could be spent immersed in culture or sampling the many adventures to be had. In the evening visit Mitai Maori Village, to give you an awe-inspiring introduction to the indigenous Maori culture."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Travel along the scenic route of the Bay of Plenty before reaching the idyllic Coromandel Peninsula where you will stay for the next 2 nights."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Spend the day relaxing at one of the many white sandy beaches or exploring the inland forests. We recommend taking a boat trip to explore the volcanic coastline with its many caves, blowholes and golden beaches."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Cross the Coromandel Ranges descending down to the Firth of Thames where there is an out of way spot to see wading shorebirds on the coastline. Then travel across the Hauraki Plains to Auckland for your last night in New Zealand."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Explore more of vibrant Auckland city, known as 'City of Sails,' before dropping your rental car at the airport and flying home. Alternatively continue your holiday in New Zealand and see the South Island with one of our many tours..."
+    }
+  ],
+  "map": ""
+}

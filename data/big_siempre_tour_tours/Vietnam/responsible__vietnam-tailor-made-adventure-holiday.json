@@ -1,0 +1,100 @@
+{
+  "destination": "Vietnam",
+  "mainPhoto": "",
+  "id": "vietnam-tailor-made-adventure-holiday",
+  "tourName": "Vietnam tailor made adventure holiday",
+  "placesVisited": "",
+  "generalInfo": "Get off the beaten track and explore remote areas of fascinating Vietnam on this 17-day private holiday. Starting with an exploration of the bustling streets of Hanoi, journey to picturesque Halong Bay to enjoy time to relax in the bay with kayaking or swimming and a sumptuous dinner under the stars onboard a fabulous junk boat. <br/><br/>Board a fun and comfortable overnight train to Lao Cai and drive to the northern hilltribe town of Sapa to enjoy the lush mountain scenery, take a boat ride on the Chay River and enjoy trekking and village visits. Watch the locals at work at the morning market - especially keep an eye out for the colourful Flower H'mong people. <br/><br/>Return and fly south to Ho Chi Minh City for a rather marked change of pace! Drive to Nam Cat Tien National Park to enjoy discovering the flora and fauna and to search for the resident wildlife on both daytime and night time walks. Return to Ho Chi Minh City and visit the well known Cu Chi Tunnel complex and explore the city sights: Notre Dame Cathedral, the historic Post Office and the Opera House. <br/><br/>Finally head even further south to the remote and quiet island of Phu Quoc for a spot of relaxation - the island is often overlooked by many visitors to the country resulting in a relatively relaxed pace of island life, the perfect end to a varied and adventurous Vietnam holiday.",
+  "durationDays": "17",
+  "price": "5095",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Depart on an overnight flight to Hanoi."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Land Hanoi and transfer to your hotel. The remainder of the day is at leisure to explore."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Enjoy a city tour of Hanoi taking in the key sights including the One Pillar Pagoda and Ho Chi Minh's Mausoleum. Enjoy a traditional Vietnamese coffee with your guide on the banks of the Hoan Kiem Lake while watching the city pass by. (B,L)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Drive to Halong Bay and board a small junk boat for a night in stunning Halong Bay. Enjoy time to kayak or swim and explore the limestone caves. Return to the boat and indulge in a sumptuous dinner and a sunset cocktail. (B,L,D)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Explore a local fishing village to learn about life in the bay. After brunch return to the city and enjoy a spot of free time before boarding the overnight train to Lao Cai in Sapa. (B,L)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Arrive into Lao Cai station and drive north to Sapa town. Enjoy breakfast in town followed by a trek through remote mountain scenery to the hill tribe villages of Cat Cat, a Vun and Cau May. Transfer to the hilltop Topas Eco Lodge for the night. (B,L)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Explore a morning market today, there are a variety of markets held on different days of the week so which one you visit will depend on when you arrive. The colourful Flower H'mong people can often be found at many of the markets selling their wares. This afternoon enjoy a boat trip on the Chay River to watch the stunning mountain scenery glide by. (B,L)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Spend today exploring at your own pace. In the evening return to Lao Cai and board the overnight train back to Hanoi. (B)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Arrive into Hanoi and drive to the airport for the short flight south to bustling Ho Chi Minh City. Enjoy the day at leisure to rest or explore. (-)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Drive to Nam Cat Tien National Park and check in to the Forest Floor Lodge in time for lunch. This afternoon enjoy a walk through the park to see the flora and fauna before a fun night drive to search for nocturnal wildlife. (B,L,D)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Take a speedboat to Tien Island this morning and visit the rehabilitation centre located here. Learn a little about the important work that is being done at the centre. After lunch, enjoy a forest hike to Crocodile Lake, board a boat and head out onto the water to search for crocodiles. (B,L,D)"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "After breakfast enjoy a short hike before returning to Ho Chi Minh City. Enjoy the remainder of the day at leisure. (B)"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Drive out to the Cu Chi Tunnels today to discover how the Vietcong lived in the tunnels for extended periods during the fighting. From here, return to the city and enjoy a city tour taking in the main sights. (B,L)"
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Transfer to the airport and fly to Phu Quoc and transfer to your beachside resort. Enjoy time to relax on the white-sand beach. (B)"
+    },
+    {
+      "dayNumber": 17,
+      "title": "",
+      "description": "Return to the airport and fly to Ho Chi Minh City to connect with your international flight back to the UK. (B)"
+    }
+  ],
+  "map": ""
+}

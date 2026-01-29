@@ -1,0 +1,55 @@
+{
+  "destination": "Egypt",
+  "mainPhoto": "",
+  "id": "cairo-bahariya-oasis-holiday-egypt",
+  "tourName": "Cairo & Bahariya Oasis holiday, Egypt",
+  "placesVisited": "",
+  "generalInfo": "This journey combines Egypt’s most famous ancient landmarks with a unique desert adventure in the Western Desert. Starting in Cairo, travellers explore iconic sites such as the Pyramids of Giza, the Grand Egyptian Museum, Memphis, and Saqqara, gaining insight into the foundations of ancient Egyptian civilisation.<br/>The experience then shifts to the peaceful landscapes of Bahariya Oasis, offering a slower pace and a completely different side of Egypt. Travellers enjoy guided 4x4 desert safaris through the Black Desert and the White Desert, discovering natural rock formations, desert valleys, and remote viewpoints.<br/>Designed by local experts, the trip balances history, nature, and light adventure, while allowing time to relax, enjoy desert scenery, and experience Egypt beyond the usual tourist routes. It is ideal for travellers looking for cultural depth combined with authentic desert exploration.",
+  "durationDays": "6",
+  "price": "1495",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Upon arrival at Cairo International Airport, meet & assist through arrival formalities. Transfer to your hotel, check in, and enjoy a relaxed evening. Overnight stay in Cairo."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "After breakfast, visit the Pyramids of Giza and the Sphinx, followed by stops at traditional papyrus and jewelry workshops (Local stores). Continue to the Grand Egyptian Museum, located between Cairo and the Giza Plateau, showcasing remarkable rare artefacts from Ancient Egypt. Return to your hotel for the overnight stay."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Early breakfast, travel by air-conditioned vehicle to Bahariya Oasis (approximately 5 hours). Upon arrival, check in at your hotel, then head out on a 4x4 desert safari to visit Lake Qarun, English Mountain, the Black Desert, and Jabal El Maghrafa. Return to the hotel and overnight stay."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "After breakfast, embark on a 4x4 safari into the White Desert, exploring unique rock formations such as Mushroom Rock, Crystal Mountain, and Agabat Valley, that includes a (light lunch). Later in the afternoon, return to Cairo by air-conditioned vehicle. Check in at your hotel and overnight stay."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "After a delicious breakfast, visit the open-air museum of Memphis, the first capital of ancient Egypt. Continue to Saqqara to explore the Step Pyramid of Djoser, the oldest major stone structure in the world. Lunch is on your own. Return to your hotel and overnight stay."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "After breakfast, check out from your hotel and transfer to Cairo International Airport for your onward journey."
+    }
+  ],
+  "map": ""
+}

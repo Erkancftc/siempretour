@@ -1,0 +1,65 @@
+{
+  "destination": "Senegal",
+  "mainPhoto": "",
+  "id": "senegal-culture-and-tradition-tour",
+  "tourName": "Senegal culture and tradition tour",
+  "placesVisited": "",
+  "generalInfo": "Embark on an unforgettable 8-day journey through the cultural heart of Senegal. This immersive circuit is designed to take you beyond the typical tourist trails and into the vibrant soul of West Africa. From the bustling markets and historical landmarks of Dakar to the serene beauty of the Saloum Delta, you will discover a land of rich traditions, breathtaking landscapes, and warm, welcoming people.<br/><br/>Your adventure begins in the dynamic capital, Dakar, where you will explore the historic Plateau, the poignant House of Slaves on Gorée Island (a UNESCO World Heritage site), and the impressive African Renaissance Monument. You will then journey to the unique Lac Rose, a pink-hued lake where you'll witness the traditional salt harvesting process. The journey continues to the Lompoul desert for a magical night in a charming desert camp, complete with a camel ride at sunset.<br/><br/>Next, you will explore the colonial elegance of Saint-Louis (another UNESCO World Heritage site), with its charming architecture and vibrant fishing quarter. The trip then takes you into the heart of Senegalese rural life with visits to traditional Sérère and Peul villages, offering a unique opportunity to interact with local communities and learn about their customs and crafts. You will navigate the stunning mangroves of the Saloum Delta (a UNESCO Biosphere Reserve) by pirogue, observing the rich birdlife and visiting picturesque fishing villages.<br/><br/>Finally, you'll discover the unique shell island of Joal-Fadiouth before concluding your trip on the beautiful beaches of Saly. Throughout your journey, you will stay in carefully selected, comfortable, and charming hotels and lodges that reflect the local character and hospitality. This circuit is a perfect blend of cultural discovery, natural beauty, and authentic human connection, offering a deep and meaningful travel experience.",
+  "durationDays": "8",
+  "price": "1500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival in Dakar Welcome at Blaise Diagne International Airport (AIBD) by our team. Transfer and check-in at Axil Hôtel Dakar (4-star). Free evening and overnight at the hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Dakar & Gorée Island Morning tour of Dakar: Kermel market, historic Plateau, African Renaissance Monument, Museum of Black Civilizations. Lunch in Ngor. Afternoon ferry to Gorée Island (UNESCO): Visit the House of Slaves and explore the colorful streets. Return to Dakar for the night."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Lac Rose – Lompoul Desert Journey to Lac Rose (Retba): discover the lake, meet salt collectors. Lunch at the lake. Continue to the Lompoul desert and check into Okai Hôtel – Lompoul. Sunset camel or 4x4 ride in the dunes. Dinner and overnight in the desert."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Lompoul – Saint-Louis Travel to Saint-Louis (UNESCO). Lunch in a local restaurant. Afternoon guided tour of the historic island, Faidherbe Bridge, and the fishermen's quarter. Check-in at Hôtel La Résidence – Saint-Louis. Free evening and overnight at the hotel."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Saint-Louis – Sérère & Peul Villages – Kaolack Travel towards Kaolack, visiting traditional Sérère and Peul villages en route. Meet locals and observe traditional farming and crafts. Lunch with local specialties. Arrival and check-in at Relais de Kaolack. Free evening and overnight in Kaolack."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Kaolack – Saloum Delta – Palmarin Journey to the Saloum Delta (UNESCO Biosphere Reserve). Pirogue excursion through the mangroves: birdwatching and visiting fishing villages. Lunch at a lodge by the water. Check-in at King Baobab Lodge – Palmarin. Dinner and overnight at the lodge."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Palmarin – Joal-Fadiouth – Saly Visit Joal-Fadiouth, the unique shell island with its mixed cemetery and stilt granaries. Lunch in the fishing port of Mbour. Continue to the beach resort of Saly. Check-in at Royam Hôtel – Saly. Free evening and overnight in Saly."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Departure Free time depending on your flight schedule. Transfer to Blaise Diagne International Airport (AIBD) for your departure."
+    }
+  ],
+  "map": ""
+}

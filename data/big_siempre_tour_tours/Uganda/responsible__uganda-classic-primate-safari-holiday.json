@@ -1,0 +1,60 @@
+{
+  "destination": "Uganda",
+  "mainPhoto": "",
+  "id": "uganda-classic-primate-safari-holiday",
+  "tourName": "Uganda classic primate safari holiday",
+  "placesVisited": "",
+  "generalInfo": "This tour will bring you close to two great apes i.e. Mountain Gorillas and Chimpanzees in their natural habitat and the incredible golden monkeys. The experience in the wildernesses of Uganda’s tropical rain forests as you search for these creatures is fulfilling when topped up with sighting of other wildlife in the forests.",
+  "durationDays": "7",
+  "price": "4840",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "ARRIVAL - Your Uganda safari begins today with your arrival at Entebbe International Airport where you will be welcomed by a Kagera Safaris representative and transferred to your hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "TO QUEEN ELIZABETH NATIONAL PARK - Today your driver guide will transfer to Queen Elizabeth National park, the medley of wonders. Enjoy the beautiful scenery of Uganda along the way and have a brief stopover by the Equator monument."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "CHIMPANZEE TREKKING IN KYAMBURA GORGE & BOAT SAFARI - In the morning, transfer to Kyambura gorge for chimpanzee trekking. Receive a briefing from the ranger guide and start the trek. In the afternoon you will take a relaxing boat safari on Kazinga Channel, you will have an opportunity to view different species of birds on the banks, hippos, crocodiles etc."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "GAME DRIVE & TRANSFER TO MGAHINGA GORILLA NATIONAL PARK - After an early breakfast, transfer to the park for a game drive in search of other wildlife life like elephants, water bucks, kobs and and the elusive leopards etc. Enjoy photo moments during the game drive and opportunitis to watch the animals feed and stroll in the national park. After this experience, depart for Mgahinga gorilla national park."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "GORILLA TREKKING - The driver guide will transfer you to briefing point. You will receive briefing from the ranger guide and start your hike. This park is currently home to one habituated gorilla family. You have up to one hour in the presence of the gorillas. Consider hiring a porter to help with carrying your extra luggage."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "GOLDEN MONKEY TREKKING Your driver guide will transfer you to the briefing area. After a brief from the ranger guide, start your hike up in search of the golden monkeys. Enforcement officers join you to help in case you meet buffaloes which can be dangerous. The golden monkeys are more active than the gorillas and you will follow them as they move to feed. Like gorilla trekking, you are only allowed 1 hour with the golden monkey."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "ENTEBBE | DEPARTURE: Have an early breakfast and transfer to Entebbe with a stopover at the Equator monument for lunch, pictures and shopping."
+    }
+  ],
+  "map": ""
+}

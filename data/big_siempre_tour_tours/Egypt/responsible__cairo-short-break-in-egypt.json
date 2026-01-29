@@ -1,0 +1,50 @@
+{
+  "destination": "Egypt",
+  "mainPhoto": "",
+  "id": "cairo-short-break-in-egypt",
+  "tourName": "Cairo short break in Egypt",
+  "placesVisited": "",
+  "generalInfo": "Cairo is a bustling city, Africa's largest, and has great contrasts between its ancient history and modern-day importance. This short tour gives you a taste of the city, its museums and monuments, and is ideal for those short of time or who may have visited other parts of Egypt already. The tour begins with a guided sightseeing tour to Egypt's most well known landmark - the Great Pyramids of Giza and Sphinx. We also visit the Step Pyramid at Saqqara today to learn about the history and evolution of pyramid building. On day two we take a city tour of Cairo where we visit the Egyptian Museum of antiquities, the Citadel, several mosques (or alternatively Coptic Cairo) and the busy Khan-el-Khalili bazaar. The final day of sightseeing takes us north to the Mediterranean town of Alexandria where we spend a full day touring the city before returning to Cairo to finish the tour",
+  "durationDays": "5",
+  "price": "1499",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Egypt & transfer to hotel You arrive at Cairo airport where we greet you and transfer you to your hotel. Our local rep. welcomes you, helps you settle into the hotel, and outlines the plan for the next few days. | OVERNIGHT"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Visit the Pyramids, Sphinx & Saqqara After breakfast we have a brief pre-tour briefing before we take you on a tour of Gisa and Saqqara. Gisa was built around 4600 years ago as a necropolis (cemetery) for the pharaoh Khufu (Cheops). The successor of Sneferu, Khufu was known as a tyrant and in his arrogance decided to have built a tomb that was bigger and better than all others. Standing 500 feet high and 750 feet at its base the Pyramid of Khufu is an awesome man-made structure constructed of giant blocks of stone covered in a hard limestone casing. The casing has, over the years, been stripped away to leave exposed the inner block structure. Together with the smaller pyramids of Khafre (Chephern) and Menkaure (Mycerinus), the majestic sight of these enormous structures rising out of the desert is a breathtaking spectacle. Here you have the chance to climb inside one of the pyramids (there are a limited number of tickets available, so we cannot guarantee this). You have another guided tour around the sphinx and some free time to walk around and take photos. From here we take you to Saqqara, which lies 25km to the south of Cairo. Djeser's (Zoser's) Step Pyramid (built 4700 years ago) dominates the skyline and is believed to have been the ancient Egyptians' first attempt at Pyramid building. The entire 7km stretch of desert at Saqqara is a treasure trove of pyramids, temples and tombs, which we will have plenty of time to explore, while we learn about the history of pyramid building in Egypt. After a full day a sightseeing we return to the luxurious hotel for a relaxing evening. | OVERNIGHT"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Cairo city tour & dinner cruise After breakfast we begin our tour of Cairo. Founded in 969 AD by Gohar, a Fatimid army leader, El Kahera (Cairo) soon became the capital of Egypt. Subsequent additions like the El Azhar mosque, the Islamic University, and defensive walls and a citadel, built by Saladin in 1179, have helped Cairo remain Egypt's principal city. The 16-year reign of Ismail (1830-1895) ushered in a new period of expansion and modernisation in Cairo. Areas like Heliopolis, Dokki and Roda were added, while gardens, Opera houses, large hotels and wide, tree lined avenues were built. Further post revolutionary, urban expansion has left Cairo as one of the world's largest cities. Today it is a bustling metropolis of over 20 million people, a strange mix of modern and old, a unique blend of diverse cultures and a gateway to Egypt's past. Your tour includes a visit to the Egyptian Museum (which houses a vast collection of artefacts from Egypt's past, including the famous King Tutunkhamun display), the Citadel (a collection of mosques and palaces, with a great view over the city), and the Khan al Khalili bazaar (a mazy market that offers a window to the past and a guaranteed souvenir). Finally, this evening we enjoy a dinner cruise on the River Nile. During the meal, their will be traditional Sufi dancing and fun, exotic belly dancing. | OVERNIGHT"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Alexandria tour We leave Cairo behind today and head north to the Mediterranean city of Alexandria. Today's tour is flexible, but we normally include the Roman amphitheatre, which has twelve semi-circular marble tiers and is in remarkably good condition, the Citadel built on the site of the famous ancient lighthouse, and also Pompeys Pillar and the Catacombs of Kom al-Shoqafa, which is the largest Roman cemetery in Alexandria. Dating from the beginning of the Second Century AD this cemetery displays a unique blend of Pharaonic and Roman art. In the late afternoon we return to Cairo. | OVERNIGHT"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Transfer to the airport for departure Your tour ends today and your time is free in Alexandria until we transfer you back to Cairo airport for your flight home. If your flight departs from Cairo early this morning we suggest spending the previous night in Cairo instead of Alexandria. | OVERNIGHT"
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,50 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "luxury-argentina-holiday-tailormade",
+  "tourName": "Luxury Argentina holiday, tailormade",
+  "placesVisited": "",
+  "generalInfo": "In two weeks, discover Argentina’s most revered places without compromising on comfort. From vibrant city life to ancient forests, glacier-fed lakes and world-class wines, you’ll experience it all whilst escaping the crowds and staying at South America’s most spectacular hotels and lodges. <br/><br/>Begin in Buenos Aires, immersing yourself in Argentina’s culinary scene and the rhythms of tango. Fly south to Patagonia, where surreal landscapes amaze at every turn. Continue north to Argentina’s renowned winelands with a stay at boutique winery, where time is spent exploring the vineyards, attending tastings, wandering the Andean foothills or simply relaxing on the estate grounds. End your stay in the Sierras Chicas of Cordoba for an authentic experience of Argentine gaucho culture. <br/><br/>Every detail of this experience has been seamlessly curated, with excursions, transfers and gourmet meals to show you an authentic and luxury journey through Argentina. This trip can be tailored to your interests, so let us know your preferences.",
+  "durationDays": "15",
+  "price": "11802",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Buenos Aires: Welcome to the Buenos Aires. Upon arrival, settle into your luxury hotel in cosmopolitan Puerto Madero. Over the next few days, let your expert local guide show you the city highlights and history on a walking tour and indulge on a culinary journey through Argentine gastronomy at a traditional Asado experience."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "El Calafate: Fly south to Patagonia and journey to an exclusive lodge, nestled in a stunning natural setting. Hidden from the crowds, this gem offers a multitude of outdoor activities where you can hike, bike or horse-ride several unexplored trails. During your stay, visit Los Glaciares National Park with a guide and admire the Perito Moreno Glacier. Strap on your crampons and hike across the glacier itself for a unique and close-up perspective of one of the world’s most impressive glaciers."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Winelands: Continue to Mendoza, the heart of Argentina’s winelands and home of the Malbec. Stay at a luxury boutique winery nestled in the foothills of the Andes. During your stay, savour private wine tastings and vineyard tours, experience a cooking class with a signature chef and dine on the regions fresh and seasonal ingredients, all while soaking up the mountain views and temperate weather. For adventure, venture to the Andes on horseback or foot or cycle between vineyards."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Cordoba: Fly north to Cordoba, for a contrasting landscape and experience. Stay on a traditional family ranch, where you are welcomed to experience the best horse-riding and gaucho culture. Explore trails through pastures, spot a variety of bird species, hike to secluded waterfalls and indulge in home-cooked family meals and discover the endangered traditions and culture of Argentina’s rural communities."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Buenos Aires: Say goodbye to Cordoba and fly south to Buenos Aires, where you’ll spend one final night before heading home. For your final night, with your guide, head to an underground milonga where you can experience an authentic Tango and discover the heartbeat of Buenos Aires."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,55 @@
+{
+  "destination": "Japan",
+  "mainPhoto": "",
+  "id": "japan-15-day-tour-ancient-forts-futuristic-cities",
+  "tourName": "Japan 15 day tour, ancient forts & futuristic cities",
+  "placesVisited": "",
+  "generalInfo": "Tokyo - Hakone/Fuji - Hiroshima - Kyoto - Osaka - Kanazawa - Tokyo<br/><br/>Experience the incredible contrasts of Japan in this varied itinerary, taking you around the heart of the country in just over two weeks. You’ll see the unique pop-culture of Japan’s neon-lit cities, try amazing foodie treats, take in the majesty of Mount Fuji, and glimpse the country’s intriguing and occasionally tragic history as you speed around on hi-tech bullet trains.",
+  "durationDays": "14",
+  "price": "3750",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Let’s go Tokyo!: Dive straight into one of the world's most electric cities, where ancient temples sit among neon-soaked streets. Tokyo with delectable food at every turn, neighborhoods each rich with their own personalities, and that unmistakable buzz of a place that feels like it never stops moving. Explore everything from the historic Geisha district to Tokyo’s vibrant pop culture, then pick up your rail pass and experience Japan's legendary train network as you head toward the iconic silhouette of Mount Fuji."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "At the foot of Fuji: Enjoy the slower pace of Japan in Hakone. Stay in a traditional ryokan, where you’ll sleep on tatami mats, soak in natural hot spring baths, and have kaiseki meals served to your room. Outside, Hakone is hardly limited for options. From idyllic lake cruises, mountain railways and hiking trails into the forests, to the striking torii gate of Hakone Shrine. And, of course looming over it all, where the land meets the sky: Mount Fuji. Take your time here to embrace the peace Hakone brings. Then it's back on the rails toward Hiroshima."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Hiroshima, peace and paper cranes: Visit the Peace Memorial Park, a place of profound reflection for this once war-shattered city. You’ll also discover Hiroshima’s developing scene of vibrance, love and prosperity, welcoming you with fantastic food and genuine warmth. Your guide will take you on a journey through the city, to various historic sights such as the Shukkeien Garden."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Travel to Kyoto via Himeji to visit the famous castle: Zen gardens, temple bells and tea ceremonies that feel as if they slow down time. We wholeheartedly believe that the best way to discover this thriving city is by bicycle. Pedal through narrow backstreets, along willow-lined canals, past traditional wooden houses where craftspeople still practice centuries-old trades. Stroll through the grounds of the Himeji Castle, a UNESCO World Heritage Site, and take in the panoramic views of Kyoto from the pinnacle. End your days enjoying a delicious meal in one of the many traditional restaurants here with a cup of local, warmed sake."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Dazzling lights of Osaka: The place where locals come to eat, laugh, and live well. Wander through castles and temples rich in Samurai history and their beautifully serene gardens.Then, your local guide will take you downtown to bustling Dotonburi where you’ll lose yourself in the neon-lit streets home to some of Japan's best food.There's a reason they say \"kuidaore\" here, eat until you drop! You’ll have plenty of free time too to take in the city at your own pace, discovering the array of impressive sites here in Osaka, such as the ancient Shitennouji Temple, the Gardens of Paradise and the Abeno Harukas skyscraper."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Turrets & temples of Kanazawa: Up on the northern coast sits Kanazawa, a city that escaped wartime destruction and kept its samurai and geisha districts beautifully intact. Wander the lanes on foot, visit some of Japan's most celebrated gardens, explore the famous Kenroku-en castle, and feast on incredibly fresh seafood, you're right by the Sea of Japan here. It's a fitting finale before your final night back in Tokyo and your journey home."
+    }
+  ],
+  "map": ""
+}

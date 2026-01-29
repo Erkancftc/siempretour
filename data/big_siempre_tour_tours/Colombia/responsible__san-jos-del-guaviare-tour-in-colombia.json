@@ -1,0 +1,45 @@
+{
+  "destination": "Colombia",
+  "mainPhoto": "",
+  "id": "san-jos-del-guaviare-tour-in-colombia",
+  "tourName": "San José del Guaviare tour in Colombia",
+  "placesVisited": "",
+  "generalInfo": "Embark on a once-in-a-lifetime adventure to the stunning natural wonders of San José del Guaviare. Over the course of four days, you'll explore some of the region's most breathtaking sights, from the ancient Gate of Orion to the vibrant Red River.<br/><br/>One of the highlights of your trip will be the chance to spot pink dolphins at Nare Lagoon, one of the few places in the world where these rare creatures can be found. Witness their playful antics as they swim and jump in the water, creating memories that will last a lifetime.<br/><br/>Another unforgettable experience awaits at Cerro Azul, where you'll encounter ancient rock art dating back thousands of years. Learn about the fascinating history and cultural significance of these intricate designs, and marvel at the skill and artistry of the ancient peoples who created them.<br/><br/>Before flying back, you'll have the opportunity to relax and unwind in the region's beautiful natural pools. Take a refreshing dip in crystal-clear waters surrounded by lush jungle scenery, immersing yourself in the tranquility and natural beauty of the region.<br/><br/>Throughout your journey, you'll be accompanied by expert local guides who will share their knowledge and expertise about the region, its people, and its culture.",
+  "durationDays": "4",
+  "price": "907",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Enjoy a relaxing 1 hr flight to San Jose. There are limited flights to San Jose and you'll be arriving at approximately 13:21 am. On arrival, you'll be collected from the airport and taken directly on your tour. Explore the stunning rock formations of Puerta de Orión, standing at 50ft wide and 40ft high, with two large holes. During December, you can observe the constellations of Orion's Belt through the upper hole. Then, enjoy a leisurely walk through the beautiful Red River area for around 2km, before heading to Caño Sabana. Admire the colorful water plant Macarenia clavíagera, unique to Colombia, and take plenty of photos. While swimming is not permitted, you can relax and soak up the magical scenery."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Leaving shortly after breakfast around 6:30 am you'll journey in a 4x4 for 2.5-3 hours to the Laguna Damas de Nare. Once here you'll enjoy an hour walk (with a few stops) for approximately 3.5km (2mi) through a beautiful natural forest full of exotic plants, birds, and monkeys. At the conclusion of this walk, you'll stop for a short break before climbing into a canoe to explore the lagoon in search of the Pink Dolphins. You'll also have the opportunity to have a swim in the lagoon, with the odd dolphin possibly playing with your feet while you're enjoying the warm waters. Next, you're back to land for a wonderful typical lunch before heading walking back through the magical forest and your waiting transport to your hotel."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Leaving shortly after breakfast at around 7:30 am you'll travel for approximately 2 hours to get to the archeological site of Cerro Azul. Once here you'll be walking through a natural jungle and a cave measuring 210m (688ft). The hike will be approximately 3 km to reach the top of the hill, during the walk and being at the top of Cerro Azul you'lle be surrounded by nature and culture, having encounters with the rock paintings of animals, people, plants, and daily life dating back more than 12000 years bp."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Embark on a morning swim in Los Pozos Naturales' natural water wells. Marvel at the changing tones of the water and the depth of some water holes. Then, enjoy a last lunch with new friends before returning home."
+    }
+  ],
+  "map": ""
+}

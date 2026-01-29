@@ -1,0 +1,100 @@
+{
+  "destination": "India",
+  "mainPhoto": "",
+  "id": "golden-triangle-and-kerala-tour",
+  "tourName": "Golden Triangle and Kerala Tour",
+  "placesVisited": "",
+  "generalInfo": "Experience a real taste of India on this tour.  The 'Golden Triangle' combines India’s most famous sights - historic Delhi, the legendary Taj Mahal at Agra and the Pink City of Jaipur.  In Kerala you visit the harbour city of Cochin, Periyar Wildlife Sanctuary in the Western Ghat mountains, spend two nights on a houseboat in Kerala's backwaters and finish at a beach for a couple of days relaxation.  This tour uses economy hotels, guesthouses and homestays so there are plenty of opportunities to upgrade if required.  There are airlines that allow an 'open jaw' flight into Delhi and out of Cochin, we have included Air India in the quote who fly direct to Delhi and back direct from Cochin..",
+  "durationDays": "16",
+  "price": "2995",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Depart the UK. Arrive Delhi the same day. Transfer to accommodation. Three nights in Delhi."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Sightseeing - Old Delhi. Evening cookery class and dinner at Saffron Palate."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Sightseeing - New Delhi."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Transfer to the railway station. Take Gatimaan Express train. Depart Delhi 08.10 arrive Agra 09.50 [not operational on Fridays]. Agra sightseeing. One night in Agra."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Transfer to Jaipur visiting Fatehpur Sikri and Abhaneri Stepwell enroute. Two nights in Jaipur."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Sightseeing - Jaipur"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Transfer to Jaipur Airport. Fly Jaipur to Cochin via Chennai. Transfer to Fort Cochin. Two nights in Cochin."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Sightseeing - Cochin. Evening - Kathakali performance."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Transfer to Thekkady [Periyar Wildlife Sanctuary]. Visit spice plantation on the way. Two nights in Thekkady."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Morning - Soft Trek. Evening - Kalaripayattu performance."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Transfer to backwaters to arrive before lunch. Two nights on board your exclusive houseboat."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Full day on houseboat - cruising morning and afternoon."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Disembark from houseboat and transfer to Mararikulam beach area. Two nights at Mararikulam."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Day free to relax / explore the area."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Transfer to Cochin Airport for your flight home."
+    }
+  ],
+  "map": ""
+}

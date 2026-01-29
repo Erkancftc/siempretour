@@ -1,0 +1,50 @@
+{
+  "destination": "Tanzania",
+  "mainPhoto": "",
+  "id": "serengeti-holiday-in-tanzania-the-big-five",
+  "tourName": "Serengeti holiday in Tanzania, the big five",
+  "placesVisited": "",
+  "generalInfo": "Discover Tanzania’s Ultimate Safari Adventure <br/><br/>Embark on an unforgettable journey through Tanzania’s legendary northern circuit, where two of Africa’s most spectacular wildlife destinations await: the Serengeti and the Ngorongoro Crater.<br/> The Serengeti – Where the Wild Still Roams Free<br/>Just the mention of Serengeti stirs the imagination — endless golden plains, dotted with iconic acacia trees, alive with Africa’s greatest wildlife spectacle. Watch lions surveying the horizon from rocky kopjes, hyenas bickering over a feast, and vultures soaring overhead. Here, every game drive is a front-row seat to nature’s greatest theater.<br/><br/>Ngorongoro Crater – Nature’s Living Eden<br/>Descend into the world’s largest intact volcanic caldera, formed two million years ago, and step into a wildlife paradise unlike anywhere else. The crater floor dazzles with shimmering lakes painted pink by flamingos, lush forests, and sweeping grasslands. With the highest concentration of predators on earth, encounters with lions, leopards, jackals, and hyenas are almost guaranteed. Lucky guests may even spot the elusive cheetah!<br/><br/> Beyond the Safari Jeep<br/>Your adventure doesn’t stop with game drives. Take a guided walk with an armed ranger along the Ngorongoro rim or the remote Empakai Crater for breathtaking vistas. Or, journey back in time with a visit to Olduvai Gorge, the world-renowned “Cradle of Humankind,” where some of our earliest ancestors once roamed.<br/>This is more than a safari. It’s a once-in-a-lifetime experience that will stay with you forever.",
+  "durationDays": "5",
+  "price": "3500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Welcome to Tanzania! Upon arrival at Kilimanjaro International Airport you'll meet with your guide and transferred to your lodge in Arusha for an overnight stay. As locals Tanzanians, our guides know the country with unrivaled familiarity so you’ll be in good hands from the moment you land to the time you leave. Transit time 1hr."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Today after breakfast head off to Tarangire National Park for a game drive. This relative secrecy is odd because during the dry season it's a part of the migratory movement and is second only to Ngorongoro Crater in concentration of wildlife. Later on drive to your lodge for an overnight stay."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Today after breakfast drive to Ngorongoro highlands for Crater tour .Ngorongoro Crater believed to have formed some 2 millions years ago, harbors an astonishing variety of landscapes-forests ,peaks ,craters, valleys ,rivers and lake and plains including the world famous Olduvai Gorge, where some of our earliest human ancestors once hunted and gathered. Late in the afternoon drive to Serengeti with game on route,arrive at your tented camp before dark. Transit time from Ngorongoro crater to Serengeti is 3hrs."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Today a fully day game drive in Serengeti, enjoy the beautiful sunrise in the morning, game drive through the phenomenon landscapes from the sea of waving grass to the rock out crop hills which are the hiding places for lioness and leopards . The Serengeti ecosystem supports some of the most plentiful mammal populations left anywhere on earth, and animals here seems bigger, stockier, stronger, and studier than elsewhere in Africa. Return to the camp before dark for overnight."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Today early morning after breakfast you'll be transferred to Kilimanjaro International airport for your flight back home or you can extend this program to Zanzibar or Mafia Islands . This will be the end of your trip to Tanzania."
+    }
+  ],
+  "map": ""
+}

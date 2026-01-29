@@ -1,0 +1,75 @@
+{
+  "destination": "Nicaragua",
+  "mainPhoto": "",
+  "id": "nicaragua-nature-and-culture-tour",
+  "tourName": "Nicaragua nature and culture tour",
+  "placesVisited": "",
+  "generalInfo": "Discover Nicaragua’s lesser-visited treasures, starting in historic León. Wander its cobbled streets, admire colonial architecture, and soak up its rich culture dating back to the 1600s.  <br/><br/>In Granada, a UNESCO-listed gem, explore stunning colonial landmarks like the San Francisco Convent and La Merced Church. Stroll its charming streets and embrace the city's vibrant energy.  <br/><br/>From Granada, cruise to the Isletas de Granada, a cluster of 365 islands on Lake Nicaragua. Visit fishing villages, tranquil resorts, and enjoy the serene natural beauty.  <br/><br/>End your journey in San Juan del Sur, a laid-back Pacific beach town. Relax on golden sands, swim in clear waters, or take in spectacular ocean sunsets.",
+  "durationDays": "11",
+  "price": "3195",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Managua, Nicaragua’s capital, then travel 1.5 hours to León—an historic colonial town founded in the 1600s. Explore its artistic heritage, sample local cuisine, and experience its lively nightlife. Stay two nights at Hotel el Convento, conveniently located in the town center."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Start your day early and head to Cerro Negro Volcano for a board-down adventure on its active slopes, learning about the area’s geology as you go. Afterwards, explore León’s historic centre and appreciate its colonial architecture. Wrap up with a visit to the busy fruit and vegetable market to experience local life and culture firsthand."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Travel south to Granada, a UNESCO World Heritage Site. Check into Hotel Plaza Colon for a three-night stay overlooking the main square. Then set off on a guided walk to learn about the city’s colonial-era architecture and explore notable landmarks, including the ancient city walls, San Francisco Convent, and La Merced Church—where you can climb the bell tower for panoramic views."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Explore the cloud forest near Mombacho Volcano, watching for local wildlife and taking in panoramic views. Travel by 4x4 through the Mombacho Nature Reserve, with a coffee stop along the way. On a guided hike, traverse diverse landscapes and spot native species, ending with spectacular views over Granada. Then break for lunch at the tranquil Apoyo Lagoon. Near sunset, head to Masaya Volcano to see the green “Chocoyos” (parakeets) in their sulphurous habitat. Experience the volcano’s nocturnal sights and sounds, and finish at a viewpoint to glimpse the crater’s lava formations from 2006."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Enjoy a relaxed day exploring the city at your own pace. If you prefer a more immersive experience, choose from our optional add-ons: a coffee tour, a cigar-making workshop, or a visit to a nearby rural community—all designed to deepen your connection with the local culture."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Transfer to Marina Cocibolca for a short boat ride to the Isletas de Granada. Formed by an ancient Mombacho Volcano eruption, these 365 tiny islets feature small fishing communities, private homes, and eco-lodges. Spend two nights at Isleta el Espino, a secluded private island offering just five rooms for a more intimate experience."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Enjoy a relaxed day to unwind or explore this unique setting at your own pace. Choose from optional activities like a boat tour of the islands, a kayaking excursion, or a yoga session. If you like, wrap up the day with a soothing massage, surrounded by the peaceful sounds of nature."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Travel by boat and road for about 2.5 hours to reach San Juan del Sur on the Pacific Coast. Formerly a small fishing village, it’s now a popular beach destination while keeping its laid-back charm. The crescent-shaped bay is ideal for relaxing swims, set against an unspoiled natural backdrop. Stay three nights at Morgan’s Rock Hacienda & Ecolodge."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "During your stay at Morgan’s Rock Hacienda & Ecolodge, choose from a variety of complimentary activities in a stunning natural setting. Start your day with breakfast at the farm, then head out for birdwatching, jungle hikes, or kayaking. If you prefer a slower pace, enjoy a casual fishing session. Tailor each day to your own balance of adventure and relaxation in this secluded paradise."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Depart the beautiful Pacific Coast for the transfer to Managua and your onward flight."
+    }
+  ],
+  "map": ""
+}

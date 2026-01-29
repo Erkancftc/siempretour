@@ -1,0 +1,105 @@
+{
+  "destination": "Solomon Islands",
+  "mainPhoto": "",
+  "id": "solomon-islands-tour",
+  "tourName": "Solomon Islands tour",
+  "placesVisited": "",
+  "generalInfo": "Journey to the remote Solomon Islands and discover pristine beaches fringed by swaying palm trees, colourful coral reefs teeming with marine life and fascinating WWII sites. This four-island discovery itinerary takes in the best of the best with visits to four key islands. Explore Guadalcanal and the capital Honiara, home to interesting WWII sites and the jumping off point for travel to Iron Bottom Sound for world-class wreck diving. Continue to western province and delve into the wonders of Munda and Gizo where activities include deep sea fishing, snorkelling, diving, village visits, jungle hikes and more. Snorkel crystal clear waters over a WWII Hellcat fighter plane and visit Skull Island, a shrine which houses the skulls od Rendovan chiefs. <br/>End your Solomon Islands sojourn at Uepi Island Resort which sits in picturesque Marovo Lagoon. Regarded as the largest salt-water lagoon in the world, Marovo Lagoon is home to a host of sea life including manta rays and an abundance of reef sharks. Spend the days exploring fringing coral reefs above or beneath the waves, hiking the island rainforest or relaxing on sandy beaches.",
+  "durationDays": "16",
+  "price": "3525",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Land Honiara. Transfer to hotel and enjoy the remainder of the day at leisure."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Today is free at leisure to relax at the resort or we can arrange excursions. Why not head out on an island tour taking in various WWII sites including the open air Vilu Museum and the US War Memorial which offers panoramic views of the surroundings. (B)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "A further free day on Guadalcanal. Maybe spend the day diving in Iron Bottom Sound, a watery graveyard for numerous ships and aircraft dating back to WWII or maybe take a trek to Mataniko or Tenaru Waterfall. (B)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Return to the airport and fly to Munda. Land and resort staff will collect you and transfer you to Zipolo Habu Resort on nearby Lola Island which sits in Vona Vona lagoon. Enjoy the day at leisure to relax or explore the island further with a jungle hike across the island. (B/L/D)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Spend today touring neighbouring islands and nearby waters to discover WWII sites. See a fully intact US tank, a Japanese bunker system, underground clinic and a sunken Japanese freighter. The trip will also include a visit to nearby Skull Island to visit the shrine of local warrior chiefs. (B/L/D)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Jump aboard a boat with a packed lunch and head out to a deserted island which offers snorkelling and fishing. (B/L/D)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "This morning depart the resort and head towards Gizo by speedboat. On the way the journey will be broken by a stop to snorkel crystal clear waters over a downed WWII Hellcat fighter plane. Arrive at Fatboys Resort and enjoy time to relax. (B/D)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Make the short journey across to Kennedy Island, a small uninhabited island named after JFK. Kennedy and his crew swam here for refuge after a Japanese destroyer wrecked their ship in August 1943. Take a short tour of the island which also offers the chance to snorkel from its beach. Return to the resort and enjoy the afternoon free to snorkel, kayak, paddle board or maybe walk the island trails. (B/D)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Spend today on Njari Island. This island is almost entirely covered in trees and offers world class diving and snorkelling amidst a huge variety of marine life (in 2004 279 species of fish were counted on a single tank dive). Enjoy snorkelling, swimming or relaxing with a beachside BBQ. End the day back at the resort for dinner. (B/L/D)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Today is free to enjoy resort facilities. (B/D)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "This morning take the boat back to Gizo airstrip and fly to Seghe, Marovo Lagoon. Land and meet resort staff for the transfer to Uepi Island Resort. This afternoon why not head to the colourful house reef for some snorkelling. (B/L/D)"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Spend the early morning on a manta snorkel, a fabulous experience allowing you to get close to a family of manta rays. The mantas are not guaranteed but they are regular visitors to the resort. Head into the water and wait for the mantas to approach, this is a magical experience and a fabulous start to the day. Return for breakfast before enjoying the remainder of the day free to snorkel, dive, kayak, fish or trips can be arranged to villages and remote islands. (B/L/D)"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "This morning will be spent exploring nearby Chubikopi village. Discover village homes and see the village school before meeting villagers to talk about island life. Return to the resort for the afternoon at leisure. (B/L/D)"
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "A free day to dive, snorkel or explore further afield. Facilities include kayaks and hobie cats for rental plus an abundance of snorkelling opportunities,(B/L/D)"
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Today return to the airport and fly back to Honiara. Arrive and transfer to the hotel. The remainder of the day is free. (B)"
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Return to Honiara airport for your onward journey. (B)"
+    }
+  ],
+  "map": ""
+}

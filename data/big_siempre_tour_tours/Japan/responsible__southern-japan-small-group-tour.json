@@ -1,0 +1,85 @@
+{
+  "destination": "Japan",
+  "mainPhoto": "",
+  "id": "southern-japan-small-group-tour",
+  "tourName": "Southern Japan small group tour",
+  "placesVisited": "Osaka, Takamatsu, Ritsurin Garden, Naoshima Island, Kotohira shrine, Iya Valley, Matsuyama, Dogo onsen, Hiroshima, Nagasaki, Dejima, Yakushima",
+  "generalInfo": "This tour gets off to the best possible start - in the lively city of Osaka, Japan’s unofficial culinary capital and a place where the motto is ‘eat until you drop’ - if you try one food here, make it the okonomiyaki - the traditional savoury pancake.<br/><br/>Heading west by train, you’ll pause in Takamatsu, where you can explore the Ritsurin Garden, a beautiful, tranquil landscape dating back to the Edo period. Soak up the unique cultural atmosphere in the art galleries of Naoshima Island, before moving on to explore Japanese history and religion with a series of interesting stops. <br/><br/>Kotohira is Shikoku’s most popular shrine, dedicated to seafaring and thronged with pilgrims - it’s 785 steps up to the main hall, but the views are worth it. You’ll see a restored samurai house in the Iya Valley, along with the incredible bridges that have spanned the gorge for 800 years. Later, the tour visits Matsuyama, home to a superb castle, as well as one of the oldest onsens in Japan, where you can enjoy a relaxing soak.<br/><br/>Travelling through Nagasaki and Hiroshima is a time for reflection on the tragedies that occurred in these cities, but you may be surprised at how picturesque they are too, with many interesting cultural attractions worth investigating.<br/><br/>Finally, a few days roaming through Japan’s lush natural scenery before you return to Osaka. The well-known Studio Ghibli film ‘Princess Mononoke’ is said to have drawn inspiration from the fragrant forests of Yakushima, and Nagata Inakahama beach is an absolutely dreamy spot, where turtles come to lay their eggs in the sand by moonlight. If you’re there at the right time of year, maybe you can watch.<br/>",
+  "durationDays": "12",
+  "price": "4125",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Osaka.",
+      "description": "Konnichiwa! Welcome to Japan. Your adventure begins in vibrant Osaka, the country’s unofficial culinary capital, whose motto is 'Kuidaore' (eat until you drop). Your adventure begins with a welcome meeting at 6 pm where you'll meet your trip leader and fellow travellers. You can arrive at any time during the day, as no activities are planned until then. After the meeting, perhaps join your new travel companions for an optional dinner at a local restaurant."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Takamatsu.",
+      "description": "Depart Osaka this morning and begin the journey west. Take the train across the bridge spanning the stunning Inland Sea and onto Takamatsu. This may be the largest city on the island of Shikoku (the smallest of Japan’s four main islands), but it's a beautifully unpretentious town full of history, top-notch food and interesting local art. Here, you'll visit Ritsurin Garden – one of the most beautiful gardens in the country. Dating back to the Edo period, it comprises several ponds and arched bridges designed around strolling paths, tea pavilions and historic trees, with a western garden in addition to the Japanese one. The garden also houses the Sanuki Folkcraft Museum, which displays a variety of ceramics and basketwork dating from the time of the Tokugawa shoguns."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Naoshima Island/Takamatsu.",
+      "description": "Take the ferry this morning for a daytrip to the island of Naoshima, in the Inland Sea between Takamatsu and the mainland – famous worldwide for its modern art galleries, museums, avant-garde architecture and lovely natural setting. Explore the island by public bus or bicycle to take you between the galleries and installations. Wander between artworks, hear the sound of waves lapping at quiet coves and stumble upon the wonderful outdoor sculptures. Return to Takamatsu after a full day on the island, where you’ll have a free night."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Matsuyama.",
+      "description": "This morning, take the train and head west to Matsuyama – one of Japan’s least discovered prefectures coined ‘the citrus state’ by the locals. When you arrive and have maybe picked up a mikan (mandarin) or two, visit the hill-top Matsuyama Castle with your group. This is one of Japan's most impressive surviving castles, sitting right in the middle of the city. Unlike most castles in Japan, this one has an exciting collection of artefacts inside, so take the chance to check them out and learn a little more about Matsuyama's feudal history while you’re there. This afternoon, you’ll have some free time to relax and unwind at the Dogo Onsen – one of the oldest bath houses in Japan – or if you’d prefer more exploration, maybe visit Ishiteji Temple – the 51st of the 88 temples that make up Shikoku’s 88 Sacred Temples circuit (Japan’s most famous pilgrimage route)."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Usuki.",
+      "description": "When you arrive around midday, take a public bus to the village to visit the local Shochu distillery, where you’ll get to see how Shochu (much loved in Kyushu, distilled from rice, barley etc)) is made, followed by a tasting of their finest."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Beppu.",
+      "description": "Say goodbye to your hosts after a traditional home-cooked breakfast. Then, head to Beppu, famous for its variety of hot springs and onsens in Kyushu. Have lunch at a specialty restaurant that offers a unique dining experience where you can select the food you’d like, put the dishes in a steamer and watch as they’re cooked by the steam of the hot springs! This means your food will be infused with all the healthy minerals of the baths. Then, you’ll visit Jigoku (which translates to 'hell') – a collection of differently coloured steaming hot spring pools with different benefits. After, head to a local onsen for a relaxing soak. The evening is yours to spend your way in this relaxing city."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Beppu.",
+      "description": "Today is a free day in Beppu. This is the perfect opportunity to take it easy in this onsen town, soaking your muscles and taking advantage of the benefits. Maybe explore other onsens in the city or alternatively, explore Beppu at your own pace. Maybe check out Jigoku Onsen Museum or take the Mount Tsurumi ropeway to the top for views overlooking the city. The lower station of the ropeway is a great spot for cherry blossom season! You might like to visit the Yawata Asami Shrine, Beppu Tower or take a daytrip out the nearby Yufuin town. The day is yours!"
+    },
+    {
+      "dayNumber": 8,
+      "title": "Mount Aso.",
+      "description": "Today is all about chasing views! Hop in your private transfer this morning and head to Mt Aso, stopping at Ogi Rice Terrace along the way. Soak up the scenic landscape of Ogi between Mt Aso and the Kuju Mountains Range. When you’ve snapped some photos, head on to the Daikanbo Observatory for some excellent views of the five central peaks of the mountain. This viewpoint is also known as the Nehan-zo, or Nirvana Buddha, referencing the image of Buddha in repose. Stop for lunch, then get ready for a hike either on the moon-like Sunesenri trail to Nakadake Crater – the largest among the five craters of the mountain or to Kusasenri trail on the grassland, depending on crater's accessibility. After your hike, continue your journey to your accommodation for tonight – you’ll be staying in a traditional Japanese inn, right in the caldera formed from ancient volcano eruptions. Surrounded by rice fields, you’re in for a peaceful night here."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Nagasaki.",
+      "description": "This morning, say goodbye to your scenic guesthouse and hop back on the train to Nagasaki, arriving in the early afternoon. Nagasaki was the sole port in Japan to trade with Dutch and Portuguese back in the 16th century, so city has a fascinating mixture of traditional Japanese and western architectural influence. Follow your leader on an orientation walk, then head over to Glover Garden – an open air museum where you can see some of the old foreign merchant houses. See the Former Glover House, the oldest wooden western style building, and learn about a unique part of history in Nagasaki. You then have a free afternoon, so maybe ask your leader where to grab dinner."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Nagasaki.",
+      "description": "Wake up in Nagasaki this morning – the coastal city set on a natural harbour has surrounding hills with many viewpoints over the scenic hub. Visit the Peace Park and Atomic Bomb Museum for a sobering reminder of what happened on that dreadful day – the 9th of August 1945. You'll also have the chance to attend a talk given by a A-bomb survivor, no doubt a sobering and powerful talk. If you wish to reflect and explore further, there are some other interesting museums nearby worth visiting. You will have a day pass for the trams in the city, so take the time to explore Nagasaki in your free afternoon. Consider heading over to Dejima – this artificial island was once a Dutch trading post in the 17th to the 19th centuries (and the sole foreign presence in the whole country at one point). The 26 Martyrs Memorial, Oura Catholic Church, and Dutch Slopes also give you a glimpse into the life of the early Christians and European traders in Japan. The Hidden Christian Sites in the Nagasaki Region are also on the UNESCO World Heritage List. This evening, maybe slurp up some champon noodles (ramen, Nagasaki-style)!"
+    },
+    {
+      "dayNumber": 11,
+      "title": "Osaka.",
+      "description": "Say goodbye to Kyushu and jump on the shinkansen back to Osaka. When you arrive this afternoon, soak up some free time to relax or explore. Tonight, why not head out for dinner and drinks with your leader and fellow travellers, to celebrate an amazing trip in southern Japan."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Osaka.",
+      "description": "With no further activities planned, your trip comes to an end this morning. That doesn’t mean your time in Japan has to end! There is plenty to do and explore in Osaka, so if you’d like to extend your stay, just speak to your booking agent ahead of time."
+    }
+  ],
+  "map": ""
+}

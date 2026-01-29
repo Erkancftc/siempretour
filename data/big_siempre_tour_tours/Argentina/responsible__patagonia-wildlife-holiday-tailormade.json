@@ -1,0 +1,60 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "patagonia-wildlife-holiday-tailormade",
+  "tourName": "Patagonia wildlife holiday, tailormade",
+  "placesVisited": "",
+  "generalInfo": "Journey deep into the rugged wilderness of Patagonia, exploring the remote and untouched gems of southern Argentina and Chile, by air, land, and sea. <br/><br/>Begin in Argentina’s vibrant capital before heading to the UNESCO World Heritage Site, Peninsula Valdes, a haven of teeming wildlife and windswept landscapes. Visit penguin colonies, spot southern right whales and immerse yourself in one of the continent’s most extraordinary natural environments.  <br/><br/>Journey to Ushuaia, the world’s southernmost city, navigate the Beagle Channel and explore Tierra del Fuego National Park. Continue to Los Glaciares National Park, where over six nights you’ll divide your time between El Calafate and El Chalten. Cross Chile’s border and end your wild Patagonia adventure in Torres del Paine National Park. Here, guided activities highlight the pristine landscapes, local culture, and conservation efforts, with the exciting possibility of spotting a puma in its natural habitat. <br/><br/>Excursions are led by expert local guides in small-group tours. Accommodation has been hand-picked by us to ensure a comfortable and enriching experience. This trip can be tailored to your interests, so let us know your preferences.",
+  "durationDays": "17",
+  "price": "7616",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Buenos Aires: Arrive in Buenos Aires and private transfer to your charming boutique hotel. Spend the afternoon at leisure and explore the vibrant capital on foot and visit its best and distinct neighbourhoods including La Boca, Recoleta and Palermo."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Puerto Madryn: Fly south to the windswept shores of Puerto Madryn, a lively seaside town and the gateway to Argentine Patagonia’s marine wonders. In the coming days, with a knowledgeable guide explore the UNESCO World Heritage Site of the Peninsula Valdes, one of the world’s premier destinations for wildlife watching. Depending on the season, marvel at southern right whales, wander among the world’s largest Magellanic penguin reserve, observe colonies of elephant seals and seal lions and watch out for roaming guanacos, foxes, and armadillos along the way."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Ushuaia: Fly to the end of the world and spend three nights in Ushuaia, nestled between snow-capped mountains and the Beagle Channel, a stay here offers a mix of dramatic landscapes and adventure. Spend a half day navigation on the Beagle Channel and observe colonies of South American sea lions, see the Les Eclaireurs Lighthouse, and listen to the history of the native inhabitants, the Yamanas."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "El Chalten: Journey north to El Calafate and take a scenic bus to the mountain village of El Chalten, located in Los Glaciares National Park. Known as Argentina’s trekking capital, El Chalten is the gateway to some of Patagonia’s most breath taking wilderness. Your time here is at leisure to explore the network of well-marked trails, ranging from gentle walks to more challenging hikes. Each trail offers dramatic views of glaciers, lakes, jagged peaks and lenga forests."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "El Calafate: Take the comfortable shared bus to El Calafate and spend three nights in this charming town, gateway to the Southern Patagonia Ice Field. During your stay, delve into Patagonia’s cultural past on a half-day excursion, tracing the stories of early explorers and their encounters with the native Tehueleche people. The next, venture off-the-beaten path on a full-day tour to Estancia Cristina and marvel at the natural wonder of the Upsala Glacier. Sail across Lago Argentino past ice floes and giant bergs and experience a true isolated Patagonia experience."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Torres del Paine: Cross the border into Chile and transfer to your estancia lodge in Torres del Paine, Chilean Patagonia’s largest working estancia. Here, the preservation of local wildlife and celebration of Patagonian traditions lie at the heart of daily life. During your stay, all meals and activities are included where you can immerse yourself in the epic landscapes of the national park on horseback or on foot and discover the estancia’s inspiring conservation philosophy. A highlight of your visit includes a half-day conservation safari with the Cerro Guido Foundation. Learn about the pioneering efforts to protect Patagonia’s ecosystem and witness the elusive puma roaming freely in its natural habitat."
+    },
+    {
+      "dayNumber": 17,
+      "title": "",
+      "description": "Santiago: Say goodbye to Patagonia and fly north to Santiago, where you’ll spend one final night before heading home. If you would like to make the most of your time in the capital, we can arrange a guided city tour or recommend some wonderful places to eat- just let us know your preferences."
+    }
+  ],
+  "map": ""
+}

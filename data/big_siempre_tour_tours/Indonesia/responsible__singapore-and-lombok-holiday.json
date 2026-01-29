@@ -1,0 +1,65 @@
+{
+  "destination": "Indonesia",
+  "mainPhoto": "",
+  "id": "singapore-and-lombok-holiday",
+  "tourName": "Singapore and Lombok holiday",
+  "placesVisited": "Singapore, Hotel Sofitel So, Lombok, Hotel Tugu Lombok Optional overnight ascent of Mount Rinjani Volcano, Optional Gili Islands excursion",
+  "generalInfo": "Combine Singapore with snorkelling. Spend three nights in one of the world’s most impressive cities, then seven nights on one of Indonesia’s celebrated islands: that’s the beauty of travelling in South East Asia, where short flights connect exciting cities to beautiful beaches.<br/> <br/>As far back as the 14th century Singapore was a global trading post. Now the city glistens, its pristine efficiency is a sight to behold, and its Gardens by the Bay will leave most botanists breathless. For your time in the city you’ll stay in Sofitel So, a modern city hotel just 15 minutes walk from Marina Bay. Its rooftop pool means you can swim under skyscrapers. You could enjoy the rooftop pool bar or you could get out to the night markets and choose from a medley of Malay, Chinese and Indian cuisines: chicken rice, twisting plates of the city’s eponymous noodles, and seafood curry.<br/><br/>From Singapore it’s just a short hop to Lombok. This Indonesian island sits next to Bali and it’s famous for its gorgeous Gili islands, which sit just off its west coast. Here the snorkelling and diving has attracted attention across the world. Tugu Lombok, your home for the week, is a boutique hotel that sits on a jungle-ringed white sand beach on Lombok’s west coast, looking out towards the Gili islands themselves.  The hotel’s traditional Lombok style means wooden beds, luxuriously heavy drapes at the windows and even unusual copper baths. Antiques don’t look out of place in each beautifully-appointed room, and bamboo-lined paths are lit by old oil lamps. The hotel’s on-site spa is set in the walls of an ancient Hindu temple.  <br/><br/>Expect plenty of temptations on the spa menu, dine in a pretty pavilion, and snorkel and kayak straight off the beach. Turtles nest on the beach between March and October. The more hardy and adventurous can attempt the challenging overnight ascent of Mount Rinjani Volcano, the second highest in Indonesia. More delights await below the water at the Gili islands. You can arrange a diving excursion with the hotel and see sharks, octopus and more turtles. <br/>",
+  "durationDays": "13",
+  "price": "3575",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "This evening you will fly from London to Singapore with Singapore Airlines."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "On arrival you will be met by your driver and transferred to your hotel."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Day at leisure to explore Singapore."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Day at leisure to explore Singapore."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Morning at leisure. In the afternoon you will be transferred to the airport for your flight to Lombok. Please ensure you have $25 for your visa on arrival which you will obtain at the airport. Having cleared immigration you will be met by your driver and guide and transferred to your beach hotel."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Day at leisure"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "You have most of the day to enjoy relaxing at your hotel before an early evening transfer to the airport in time for your flight to Singapore. On arrival connect to your onward flight to London."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Early morning arrival into London Heathrow"
+    }
+  ],
+  "map": ""
+}

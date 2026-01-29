@@ -1,0 +1,75 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "kenya-s-big-five-safari-and-beach-honeymoon",
+  "tourName": "Kenya's big five safari and beach honeymoon",
+  "placesVisited": "",
+  "generalInfo": "Few honeymoon experiences can match the thrill and romance of a Kenyan safari followed by time on the Indian Ocean’s white sand beaches. Kenya offers one of the best safari and beach combinations in Africa, with superb wildlife, dramatic landscapes, and palm-fringed shores.<br/><br/>Your journey begins with a night in Nairobi, staying near Wilson Airport to allow an easy start the next morning. From here, fly to the Samburu National Reserve, known for its striking landscapes, excellent elephant sightings and rich cultural encounters. After a few days exploring this dramatic region, fly south to the legendary Maasai Mara - famous for its big cats, sweeping plains, and some of the best guiding in Africa.<br/><br/>To complete your honeymoon, head to Diani Beach on the Kenyan coast. Here, spend your days unwinding in the sun, swimming in turquoise waters, and dining on fresh seafood before returning to Nairobi for your flight home.",
+  "durationDays": "13",
+  "price": "5750",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "On arrival in Nairobi, you’ll be met at the airport and transferred to Ole Sereni Hotel, conveniently located nearby, for your first night in Kenya."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "After breakfast, you'll be transferred to Wilson Airport for a scenic light aircraft flight north to the striking landscapes of Samburu National Reserve. A short drive takes you to Saruni Samburu, your base for the next three nights. Settle into your spacious villa, enjoy lunch with a view, and take time to unwind before heading out on your first afternoon game drive. Samburu is known for its dramatic scenery and excellent elephant sightings, along with a host of other unique wildlife."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "As dawn breaks over Samburu, you’ll be greeted with tea and coffee before setting off to explore the reserve in the soft morning light. Watch predators retreating into the bush after a night of hunting, spot herds of antelope basking in the warmth of the sun, and soak in the serene tranquillity of the Samburu mornings. Between activities, relax by the infinity pool, enjoy the sunshine, and experience the warm hospitality of the staff. The food at Saruni Samburu is a highlight, with dishes crafted from seasonal, locally sourced ingredients."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "One of the hardest decisions during your stay at Saruni Samburu is choosing which activity to try next. In addition to traditional game drives, you can enjoy guided walks to get up close to the smaller wildlife and learn about the diverse trees and plants of the region. You can also visit a local elephant sanctuary, experience the culture of a traditional Samburu village, and explore ancient rock art in hidden caves. For something extra special, Saruni Samburu offers helicopter trips over the reserve, complete with sundowners - an unforgettable way to take in the stunning landscape."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "After a final breakfast on the terrace with views over the plains, you’ll be transferred to the airstrip for a light aircraft flight to the Maasai Mara. Upon arrival, a short transfer will take you through the reserve to Saruni Mara, nestled in the exclusive Mara North Conservancy, which borders the main Maasai Mara National Reserve. Here, you’ll enjoy exceptional game viewing in a quieter, privately managed area - an ideal setting for an unforgettable safari experience."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Spend the day with your highly experienced guide, immersing yourself in the exceptional game viewing that the Mara is known for. The region is famous for its excellent lion and leopard sightings, with large herds of plains game offering thrilling hunting opportunities. Elephant sightings are frequent, and iconic animals like giraffe and zebra are abundant. Honeymooners visiting between August and October will have the chance to explore the main reserve, witnessing the awe-inspiring Great Migration and, if lucky, one of the dramatic river crossings."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Alongside the morning and afternoon game drives, Saruni Mara offers a variety of alternative activities. The nearby Olchorro Conservancy is home to a renowned rhino sanctuary, where you can get up close to these majestic creatures and learn about the vital conservation efforts in place to protect them. For an unforgettable experience, you can also take a hot air balloon ride at sunrise, offering stunning views of the Mara, followed by a celebratory Champagne breakfast on the plains - an incredible way to start your day and a perfect Honeymoon memory."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "After breakfast at the camp, you’ll be transferred to the airstrip for a light aircraft flight to Diani Beach, one of Kenya’s most stunning coastal destinations. A short drive from the airstrip will bring you to Sands at Nomad, a tranquil beach retreat just steps from the pristine white sands of Diani Beach and the warm Indian Ocean. Unwind beneath the shade of palm trees, take a dip in the beautiful pool, and indulge in some of the finest seafood Kenya has to offer at the charming beachside restaurant."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Spend your days at Diani Beach, soaking up the serene atmosphere of this coastal paradise. The year-round warm weather is complemented by a gentle breeze, perfect for relaxation without disruption. For those seeking adventure, there's plenty of wind for watersports like sailing, windsurfing, and kitesurfing. Alternatively, explore the vibrant underwater world with diving opportunities from one of Kenya’s top dive schools, located next to the hotel. You can also venture out to discover nearby Diani or simply unwind and enjoy the beautiful surroundings of this stunning beachfront retreat."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "After a morning of relaxation, you will be transferred to Diani Airport for your light aircraft flight back to Nairobi Wilson. Upon arrival, a driver will be waiting to take you to the international airport for your flight home."
+    }
+  ],
+  "map": ""
+}

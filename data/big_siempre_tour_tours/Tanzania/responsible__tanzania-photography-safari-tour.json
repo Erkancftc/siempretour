@@ -1,0 +1,50 @@
+{
+  "destination": "Tanzania",
+  "mainPhoto": "",
+  "id": "tanzania-photography-safari-tour",
+  "tourName": "Tanzania photography safari tour",
+  "placesVisited": "",
+  "generalInfo": "Experience Africa at its best during an exclusive photo safari in Tanzania. Traverse the sweeping Serengeti plains, witnessing the mighty Great Migration in action, and Venture into the Ngorongoro Crater, a UNESCO-listed wonder brimming with diverse animal life in a dramatic natural arena. You'll photograph a wealth of wildlife - including big cats and large herds of elephants - against striking vistas. <br/><br/>This safari offers an incredible opportunity to immerse yourself in one of the world’s most extraordinary wildlife destinations. Whether capturing the vast elephant gatherings in Tarangire or the dynamic movement of migrating herds in the Serengeti, every moment is designed to provide exceptional photographic experiences across Tanzania’s iconic landscapes.  <br/><br/>Our Tanzania photo safari is thoughtfully crafted to bring you to the best locations for wildlife encounters and photography. To elevate your experience, professional photographer Lucia Griggi will accompany the journey, offering expert guidance and hands-on tutoring. With a small group limited to just four participants, you'll receive personalized instruction, helping you refine your skills—no matter your level of expertise.",
+  "durationDays": "8",
+  "price": "7995",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive at Kilimanjaro International Airport and transfer to your hotel for a pre-safari briefing."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Embark on a game drive in Tarangire, known for its vast elephant herds and ancient baobabs. Enjoy a classic safari picnic before heading to Karatu, a lively town in the northern highlands."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Descend into the Ngorongoro Crater, a natural wonder teeming with wildlife. After an unforgettable game drive, continue to the Serengeti for an evening safari."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Spend four days photographing the Serengeti’s diverse landscapes and iconic wildlife, including lions, cheetahs, and the Great Migration. Enjoy full-day game drives with expert photography guidance."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Start with a sunrise game drive before flying from Seronera Airstrip to Kilimanjaro International Airport for your onward journey."
+    }
+  ],
+  "map": ""
+}

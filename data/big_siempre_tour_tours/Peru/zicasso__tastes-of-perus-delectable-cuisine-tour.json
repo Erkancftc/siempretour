@@ -1,0 +1,60 @@
+{
+  "destination": "Peru",
+  "mainPhoto": "",
+  "id": "tastes-of-perus-delectable-cuisine-tour",
+  "tourName": "Tastes of Peru's Delectable Cuisine Tour",
+  "placesVisited": "Lima, Paracas, Catapalla, Cusco, Machu Picchu, Aguas Calientes",
+  "generalInfo": "Taste-test your way through Peru's most delectable cuisine during this 7-day adventure. Gaze over Lima's iridescent waters, and crunch into the intoxicating seafood medley that is known as ceviche . Venture beyond the city for an illustrious wine tasting experience in Catapalla. Your Peruvian adventure will culminate in a jaw-dropping expedition to the UNESCO World Heritage Site ruins of Machu Picchu, where you will be provided with the opportunity to sample authentic cuy .",
+  "durationDays": "7",
+  "price": "2,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Lima - Sunset Dinner with Ocean Views",
+      "description": "Upon your arrival, you will meet your expert guide, who will transfer you to your luxurious accommodation in the heart of the city. Shortly, you will arrive at your luxurious accommodation in the prestigious neighborhood of Miraflores. You can enjoy a few hours of relaxation as you settle into your suite that will be complete with a private balcony. Then, as the sun begins to set, you can venture into the city to enjoy your first dinner in Peru along the shoreline. You can choose from a variety of restaurants, each offering beautiful displays of some of Peru's most prized dishes, including ceviche ."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Lima - Ceviche Cooking Class",
+      "description": "Today, you will explore Lima's downtown and immerse yourself in the local history and culture. First, you will make your way along the coastline, where Pacific Ocean waters sparkle and locals gather. You will stroll through picturesque parks, such as the Parque del Amor. Then, you will be able to stroll down the city’s cobbled streets as your guide points out some of the key features of Spanish architecture and Inca design. In the afternoon, you will have the unique opportunity to participate in an authentic ceviche cooking class alongside a Michelin-starred chef."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Lima - Pisco Sour Tasting",
+      "description": "Today, you will witness the city from an entirely new perspective as you venture to the charming Barranco District. Then, in the evening, you will sample some of the region's most prized variations of pisco sour from a unique vantage point. In the morning hours, you will meet your guide in a grassy plaza beside the pristine shoreline to begin your tour. You will follow your guide and become lost in the wonder and whimsy of the Barranco District, where street art abounds from every corner against muted brick streets. Later, you will return to downtown Lima, where you will indulge in a pisco sour course with an expert."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Paracas - Scenic Cruise to Islas Ballestas",
+      "description": "Today, you will set sail and explore Peru's indigenous wildlife during a luxurious cruise of the Islas Ballestas. You will depart from Lima in the morning as the sun rises over the glistening ocean water. Soon, you will arrive in the city of Paracas, where a cool ocean breeze will waft through the downtown area. Here, you will join your expert guide and set off on a luxurious cruise to the Islas Ballestas. In the evening, you will return to shore and enjoy a lovely beachside dinner in the town of Paracas."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Catapalla - Wine Tasting and Tour",
+      "description": "Today, you will travel to Peru's mesmerizing countryside to taste some of the finest wines that the region has to offer. As you arrive at a vineyard, you will be greeted by your expert sommelier. You will begin with a tour of the illustrious grounds, where you will learn about regional grape variety before sampling some of the local vintages. In the early afternoon, you will be provided with an hour or two of self-exploration before sampling several regional wines. In the late afternoon, you will embark on a short hike around the town of Catapalla, where you will cross over a beautiful suspended bridge and appreciate views of the rushing river waters. For adventure-seekers, you will be provided with the opportunity to partake in white water rafting."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Aguas Calientes - Machu Picchu UNESCO Ruins via Cusco",
+      "description": "Today, your plane will descend on the city of Cusco. Shortly after, you will board your luxurious train in the neighboring city of Poroy to Aguas Calientes, which is located at the base of the famed UNESCO World Heritage Site ruins. In Aguas Calientes, you will meet your expert guide for an immersive tour of the ruins of Machu Picchu. Alongside your guide, you will visit key features, such as the Sacred Rock, Temple of Three Windows, and the Royal Tomb. For those who are interested, you can also climb Huayna Picchu, which is the massive mountaintop that looms in the ruins' background."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Aguas Calientes - Departure",
+      "description": "After breakfast, you can explore the town's small center and shop for souvenirs. Depending on the timing, you could also appreciate the town's namesake, Aguas Calientes, as you dip your toes into the natural hot spring waters. In the afternoon, you will say goodbye to this beautiful place as you begin your journey home. Once again, you will board a luxury train for your return trip to Cusco. Shortly, you will return to Cusco, where you will board a regional flight back to Lima. In Lima, you will connect to international flight home."
+    }
+  ],
+  "map": ""
+}

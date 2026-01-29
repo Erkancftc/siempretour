@@ -1,0 +1,100 @@
+{
+  "destination": "Costa Rica",
+  "mainPhoto": "",
+  "id": "costa-rica-2-week-nature-tour",
+  "tourName": "Costa Rica 2 week nature tour",
+  "placesVisited": "",
+  "generalInfo": "A comprehensive tour focusing on all aspects of natural history - animals, plants, birds, amphibians with scenery and a little culture as the group travels from region to region. Designed to include time in all the country's key habitats at a sensible place. Explore the wildlife-rich flooded forest of Tortuguero, the lowland rainforest of Sarapiqui and world famous La Selva biological station, the San Gerardo de Dota cloud forest and the tropical dry forest. You will also see Poas and Arenal, two of the country’s largest and most active volcanoes, and visit the central and south Pacific coasts including a day trip by boat to the remote, biodiverse Corcovado National Park on the Osa Peninsula. <br/><br/>You stay at good quality, comfortable mid-range hotels and lodges and are escorted throughout by a bilingual local naturalist guide.<br/><br/>The tour runs during Costa Rica’s dry season (January-April) and has been carefully designed to make the most of your time away.<br/><br/>For those based in the UK, the tour dates would fit the British Airways schedule who fly direct from London Gatwick to/from San Jose.",
+  "durationDays": "15",
+  "price": "4995",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival San Jose. Stay for 2 nights at a comfortable hotel in the central valley. Meet rest of group this evening."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Poas volcano & Doka coffee estate. Today we drive through lush coffee cultivation regions then cloudforest up to the stunted trees and bush on the slopes of Poas Volcano. Walk to the crater’s lip to peer down onto the hot aquamarine lake below (clouds allowing!). Then we visit Doka coffee estate where we learn about the processes involved in cultivating, harvesting and roasting the coffee beans."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Tortuguero. Early morning by road then boat to the flooded forest at Tortuguero, one of the best locations for wildlife in Costa Rica. Here we stay for 2 nights at a cabin-style lodge p.m visit Tortuguero village and the local beach."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Tortuguero. Full day in Tortuguero including an excursion by boat through the narrow channels of the flooded forest for wildlife viewing (shared with others)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Sarapiquí. a.m transfer by boat and road to a local restaurant where we have lunch. Then travel to Puerto Viejo de Sarapiquí in the lowland rainforest where we stay for the night. Afternoon free to enjoy the lodge grounds"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "OTS La Selva Biological Station. Today we visit one of the world’s most important centres for research into tropical rainforest. One of La Selva’s bilingual naturalists will escort us for a guided walk and provides an overview of their research, education and conservation programmes. Showy birds such as toucans, parrots, trogons, and hummingbirds, and mammals such as monkeys, peccaries, agoutis, and coatis, are seen frequently. Then travel up to La Fortuna near the Arenal volcano for a 2 night stay at a lodge with volcano views."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Arenal volcano region. a.m we take a walk along a system of trails and suspended walkways through the forest canopy for chances to see a variety of bird and wildlife p.m we visit the hot springs for relaxation in thermal pools; dinner is included."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Gulf of Nicoya and Carara area. Today we explore the tropical dry forest and cowboy ranching region of Costa Rica, ending in the Carara area in the mid-Pacific for 2 nights, a transitional zone between the dry forests of the north and the rainforests of the south."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Tarcoles river and Carara National Park. Morning boat trip on the Tarcoles river for chances to spot waterbirds and American crocodiles, then on to the Carara National Park. It is in this coastal area that we can witness the wonderful sight of scarlet macaw returning from their feeding grounds to their roosts in the mangroves (particularly reliable between January and March)."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Manuel Antonio National Park, to Dominical. In the morning we visit Manuel Antonio National Park for some of Costa Rica's most beautiful coastal scenery. Breakers wash up to a rainforest teeming with wildlife - monkeys, coatimundi, racoons, sloths, iguanas, toucans and parrots. There are sparkling white sand beaches, coral reefs and forest hiking trails. We then head further south down the coast to Dominical for a 2 night stay at a hotel just outside of town."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Corcovado National Park on the Osa Peninsula. A full day excursion by boat to Corcovado National Park, one of the most biodiverse places on earth. On arrival we enjoy a guided walk through the park where one can see all four species of monkey in Costa Rica, mammals such as sloth, anteater and more rarely tapir and a great variety of birds, plants, and trees. There are also chances to see a variety of marine life such as dolphins, whales and turtles on route."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Southern Highlands at San Gerardo de Dota. We stop to visit Los Cusingos garden reserve on route to the cloudforest valley of San Gerardo de Dota, where we stay for 2 nights at a mountain lodge. This area is one of the most reliable places in Costa Rica to see the beautiful resplendent quetzal."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Quetzal spotting in the cloudforest. We take a walk through the cloudforest in search of the resplendent quetzal and appreciate other flora and fauna in this unique ecosystem."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Lankester Botanical Gardens and San Jose. We make a stop to visit Lankester botanical gardens, a major centre for orchid research in Central America and the Caribbean before heading to the capital San Jose for a final night in the heart of downtown."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "San Jose, depart Costa Rica. After a morning walking tour around downtown, we travel to San Jose airport to catch flights home."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,90 @@
+{
+  "destination": "Jordan",
+  "mainPhoto": "",
+  "id": "jordan-wildlife-and-nature-tour",
+  "tourName": "Jordan wildlife and nature tour",
+  "placesVisited": "",
+  "generalInfo": "A stay at any of the locations on this itinerary will make for an unforgettable and truly unique experience that brings you close to Jordan’s nature and wildlife. Accommodation includes properties that are run by the Royal Society for the Conservation of Nature (RSCN) provides small, intimate lodges at many of its nature reserves.<br/><br/>Filled with up close wildlife encounters, authentic experiences with local Jordanian people, awesome historic sights and breath-taking landscapes.<br/>See a unique and special side of Jordan that is off the beaten track and beyond the guide books.<br/><br/>Highlights include;<br/>Azraq Wetland Reserve<br/>Ajloun Forest Reserve<br/>Mujib Nature Reserve<br/>Dana Nature Reserve and Feynan Ecolodge<br/>Wadi Rum<br/>Jerash <br/>Petra<br/>Madaba, Mt. Nebo and Kerak <br/>Aqaba<br/><br/>Female guide available upon request.",
+  "durationDays": "13",
+  "price": "3625",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arriv in Amman where you will be met and transferred to your Amman Hotel,"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Travel to The Shaumari Wildlife Reserve is famous for its Oryx Antelope. Travel on to the Azraq Wetland Reserve for your overnight stay."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Free time to enjoy Azraq Forest Reserve Azraq is a unique wetland, located in the heart of the arid Eastern Desert, which is a migratory stopover for birds from three continents. From the walkways and hides, visitors get the chance to observe birds close at hand, including local, migratory and occasional rare species. Many interesting archaeological sites lie within easy reach of Azraq Lodge, including the famous but misnamed ‘desert castles’: Qasr Amra, Qasr Kharana and Azraq Castle. Qasr Amra is one of the best-preserved Umayyad bathhouses in the world and a World Heritage Site. Overnight Azraq Wetland reserve."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "After breakfast enjoy your morning at leisure before making your way to Ajloun Forest Reserve. In the afternoon, enjoy hiking Soap Makers Trail in Ajloun. Overnight Ajloun."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "This morning embark on the Prophets Trail hike before leaving to visit the sites at Jerash. After this travel to Mujib. At 410 meters below sea level, the Mujib Biosphere Reserve is the lowest nature reserve on Earth. Its rugged and spectacular mountains border the Dead Sea coast and are dissected by several river-filled canyons that offer the best river and adventure hikes in Jordan. The breathtaking scenery and the challenge of negotiating Mujib’s fast-flowing rivers make the Reserve one of Jordan’s most popular natural attractions. Dinner & Overnight at Mujib."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "This morning travel from Mujib to Madaba and Mt. Nebo and onto Kerak before reaching your final destination of Dana. Dana is Jordan’s largest nature reserve, covering some 320 square kilometers of spectacular mountains and Wadis along the face of the Great Rift Valley. From scorching sand dunes in the west to cool mountaintops in the east, the Dana Biosphere Reserve is home to a great variety of wildlife. There are plants and animals characteristic of true desert, of Mediterranean forests and of the dry plains of Russia. Dinner & Overnight in Dana."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "After breakfast enjoy a Dana Village Guided Trail and then transfer to Feynan Ecolodge . Dinner & Overnight at the Lodge."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Make the journey from Feynan Eco-lodge to Petra. This evening enjoy Petra kitchen. Great care has been taken to make The Petra Kitchen a truly Jordanian experience, right down to the furnishings, all crafted in Jordan, the tableware, all produced by the Iraq al Amir Women’s Co-operative. Overnight at the hotel in Petra."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "After breakfast, your guide will meet you at your hotel to take you on a full day tour of Petra. Start with a short horse ride to the entrance, then walk through the Siq, a narrow and winding fissure between the cliffs, to reach the Treasury, the Roman Theater, the Courts, Qasr Bint Pharaoun, Temple of the Winged Lion and other monuments. A break for optional lunch or you may wish to climb up to the Monastery. A romantic way to see Petra, Petra by Night is not your typical sound-and-light show. No coloured laser beams, no booming amplified music or recorded actor narratives—just a remarkable chance to experience Petra as the ancient spice caravan travellers must have seen it. ***Petra by Night takes place on Monday, Wednesday & Thursday only."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "After breakfast you will be driven to Wadi Rum. When you arrive you will be swapped over to a 4x4 jeep ride in to the desert. Transfer to Camp – Dinner & Overnight Wadi Rum, the largest and most magnificent of Jordan's desert landscapes, described by Lawrence as \"vast, echoing and God-like\". The sand stone mountains, matching the colour of knife-edged dunes, can be explored by off-road vehicle, by camel or on foot."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Enjoy breakfast in the early morning sun before saying goodbye to the desert for some R&R in Aqaba by the coast."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Relaxing and enjoy a day at leisure at your resort or enjoy diving or snorkelling experience nearby. Please ask for further details. Overnight Aqaba."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Check out and you will be collected by private transfer to the airport for your flight home."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,45 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "peninsula-valdes-whale-watching-tour-in-patagonia",
+  "tourName": "Peninsula Valdes whale watching tour in Patagonia",
+  "placesVisited": "Puerto Madryn, Valdes Peninsula, sea elephant colony at Caleta Valdes, Puerto Piramides, Golfo Nuevo bay, Penguins in Punta Tombo",
+  "generalInfo": "This whale watching tour in Argentina takes you to the Valdes Peninsula. Based in the town of Puerto Madryn, you’ll spend two days experiencing the incredible local marine wildlife in beautiful surroundings. <br/><br/>On the first day you’ll take a full day's tour of the UNESCO World Heritage listed Valdes Peninsula, where you’ll see a colony of sea elephants at Caleta Valdes and then take a boat trip around the Golfo Nuevo bay where, from June to December, you’ll be able to see majestic southern right whales swim past you. <br/><br/>The next day you’ll drive south to Punta Tombo to see the largest colony of Magellan penguins in South America, which reaches 500,000 birds during peak season. You could even choose to walk amongst them to witness their habits up close. <br/>",
+  "durationDays": "4",
+  "price": "1195",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Puerto Madryn- Valdes Peninsula: Upon arrival, you will be taken to your hotel in Puerto Madryn, shared service."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Puerto Madryn- Peninsula Valdes: After breakfast you will be led on a full day's tour of the Valdes Peninsula (shared service). To enter this UNESCO World Heritage site, you will cross an incredibly narrow strip of land with sea on both sides. Further along you will arrive at Caleta Valdes, a large natural creek that is home to a colony of sea elephants. After admiring Caleta Valdes you'll continue along the road as it drops suddenly down into a crescent of golden cliffs overlooking a bright blue bay and the small village of Puerto Piramides. Here herds of southern right whales tend to arrive in June. You will take a boat trip around the Golfo Nuevo bay and watch these immense creatures gliding past. The peninsula navigation allows you to get unusually close to the whales. You will even get wet if they jump! While the whales may be seen from late June to mid December, the sea elephants and sea lions are permanent residents. Following your tour you will return to your hotel in Puerto Madryn."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Puerto Madryn- Penguins in Punta Tombo: Today you will leave Puerto Madryn and drive 120km south to visit the largest colony of Magellan penguins in South America. The colony's population reaches over half a million birds during the peak season, and the best time to visit is between October and April. One of the greatest features of this reserve is the fact that you can literally walk among the penguins and observe their habits (at an additional cost). You will then return to your hotel in Puerto Madryn just in time to enjoy the sunset."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Puerto Madryn: At the appropriate time you will be transferred from your hotel to the airport to take your flight or bus (shared service)."
+    }
+  ],
+  "map": ""
+}

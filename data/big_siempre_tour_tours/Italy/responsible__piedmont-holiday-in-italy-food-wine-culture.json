@@ -1,0 +1,65 @@
+{
+  "destination": "Italy",
+  "mainPhoto": "",
+  "id": "piedmont-holiday-in-italy-food-wine-culture",
+  "tourName": "Piedmont holiday in Italy, food, wine & culture",
+  "placesVisited": "",
+  "generalInfo": "Discover the landscapes of the Langhe region of northern Italy set between the Alps and the Apennine mountains, famous from the rolling vineyards and the Barolo wine. This land is blessed with rich and fertile lands that produce extraordinary specialties included gourmet cheeses, delicious pastries and hazelnut chocolates. As you walk amongst vineyards between picturesque medieval villages, elegant castles and feudal towers. You will have plenty of opportunity to enjoy the food and wine of the area.",
+  "durationDays": "8",
+  "price": "2942",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "There are few more enticing destinations for gourmet travelers than the Langhe region, in the heart of Piedmont that's renowned world-wide for its succulent white truffles, velvety red Barolo and Barbaresco wines and wonderful fruit. Meeting with your guide at 6pm at the hotel for the general briefing, Dinner and overnight stay in Barolo."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "From Barolo descending gently to Talloria Valley we will reach Novello, a belvedere town before continuing through panoramic fields which offers views into the two neighboring valleys. The hike will end in the beautiful and elegant town of Monforte. Visit a local winery and lunch. Free time in the afternoon to relax and discover this lovely little village. Dinner not included and overnight stay in hotel in Barolo."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "After breakfast a soft hike will take you to the quiet village of Castiglione Falletto. Private transfer to a local Agriturismo where you will enjoy a cooking class! Once back in Barolo, you have time to visit the famous Wine Museum and the Regional Enoteca. Dinner not included and overnight stay in Barolo"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Private transfer from Barolo to Neive, one of the most beautiful town in Italy. We follow the famous Barbaresco wine route, the second great appellation of the Langhe, hiking through some of the most beautiful countryside this land has to offer. Once in Barbaresco, light lunch and wine tasting in a local winery. We proceed along the Tanaro valley back to Neive. Bus to Alba and overnight stay. Dinner in local restaurant"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Let your nose carry you through town to the traditional and simple, wonderful restaurants, shops and bars that seem to be dotted along every cobblestone street. A visit in the underground is also a special way of knowing this old city."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "In the morning, short transfer (20 min/16 km) to the village of La Morra, the trail of today through vineyards and hazelnut, area of pheasants and deer, leads us to the village of Roddi, where we can assist to a research demonstrations of truffle dog and enjoy a tasting of the gems of the territory, the truffle. Following the bank of Tanaro river will walk back to Alba."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "After breakfast train to Turin. A day to discover this elegant and vibrant city, rich in history and culture with beautiful squares, baroque palaces and shopping streets. Dinner and overnight stay in hotel in Turin"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "After breakfast, individual transfer to Turin airport"
+    }
+  ],
+  "map": ""
+}

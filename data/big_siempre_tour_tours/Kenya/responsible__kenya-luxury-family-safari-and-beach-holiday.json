@@ -1,0 +1,45 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "kenya-luxury-family-safari-and-beach-holiday",
+  "tourName": "Kenya luxury family safari and beach holiday",
+  "placesVisited": "",
+  "generalInfo": "Experience three owner run properties, while covering three very different ecosystems and encountering their tribal inhabitants, whose authentic, traditional<br/>and colourful tribal ways remain relatively untouched. <br/>• On El Karama Ranch, explore 14,000 acres of private wilderness, frequented by<br/>abundant wildlife.<br/>• The El Karama’s Kids Bush School provides tailor made, educational safari<br/>activities for all children throughout their stay.<br/>• Enjoy the exclusivity of Enonkishu Conservancy, whose commitment to<br/>sustainable rangeland management is encouraging more modern and more<br/>viable livestock enterprises that support local communities.<br/>• Considered the best beach in Kenya, Diani offers all of the activities of a beach<br/>visit in the seclusion of a lavish, opulent private villa",
+  "durationDays": "10",
+  "price": "10440",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive Nairobi and transfer to your flight to Nanyuki for road transfer to El Karama Ranch for a 3 night stay. This award winning eco-lodge on 14,000 acres of private wilderness was designed, built and is operated by owners Murray and Sophie Grant. The lodge’s safari cottages and river side tents are dotted on the banks of the Ewaso Nyiro River; frequented by an abundance of wildlife, including four of the Big 5. With a passion for connecting all guests’ to the marvel of the natural world, the El Karama team value the importance of contributing to the long term sustainability of Laikipia. Interactive conservation projects for guests to involve themselves in are numerous, from monitoring lions to the reforestation of indigenous forests. Designed as a ‘home-away-from-home’ the passion for family, sustainability and home grown produce is prominent throughout El Karama; from farm to fork meals enjoyed by the eco swimming pool to tailor made Kids Bush School activities and adventure fly camping, El Karama is an ideal family safari destination."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Flight from Nanyuki to the Masai Mara, where you stay for 3 nights at House in the Wild. House in the Wild is a private family-owned and operated boutique lodge perched on the banks of the Mara River on the Enonkishu Conservancy. On what was once an intensive commercial farm on the northern edge of the Mara ecosystem, the rewilding project was the first of its kind where the land use on the edge of the Mara has reverted back to nature. Over the last ten years, the project has seen the range lands return to their natural state, with common sightings now of wild dog, leopard and of course the resident pride of lion on the base of the Kileleoni Hill. House in the Wild is hosted by the Wood family and their dedicated team of staff who are all from the local community. The mess area and four cottages offer the warmth and rustic charm of a family lodge, with all the home comforts you could ask for."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Fly from the Masai Mara to Ukunda, for 3 nights on Kenya's stunning coast. Alfajiri Villas provide privacy, exclusivity and luxury on Kenya’s famous Diani beach. Owner run and hosted, each opulent private villa has its own private swimming pool and access to the beach and warm water of the Indian Ocean. With delicious cuisine, the menus have a Mediterranean influence, with fresh produce sourced from local farms and of course the sea. Internationally recognised service is 24/7 and provided by a designated butler. Enjoy the magnificent views and swim in the pool of your private villa, walk on the ten kilometre-long white sandy beach, relax and enjoy a massage, go snorkelling on the edge of the coral reef, play golf at the 18-hole course nearby, visit the Shimba Hills National Reserve or explore the local craft markets. Guests can do as little or as much as they like, hosts Marica and Fabrizio plan individual daily itineraries for their guests."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Flight from Ukunda to Nairobi for your onward flight arrangements."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,60 @@
+{
+  "destination": "Germany",
+  "mainPhoto": "",
+  "id": "germany-holiday-winter-wonderland",
+  "tourName": "Germany holiday, winter wonderland",
+  "placesVisited": "",
+  "generalInfo": "This “German winter tale” will take you from the Rhine River in Cologne to the Isar River in Munich, from North Rhine Westfalia to Bavaria, visiting interesting cities en route including Frankfurt, the financial center of Germany, the old university city of Heidelberg, the charming area of Lake Constance that is bordered by three countries. Finally, you will visit the Fairy Tale Castle of Neuschwanstein and enjoy the highlights of Munich, the capital of Bavaria.",
+  "durationDays": "7",
+  "price": "4099",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Welcome in Germany! Upon arrival, you will be greeted by your driver guide who will take you on a city tour of Cologne including the cathedral, an impressive Gothic church monument, the city's landmark. In the afternoon you will travel by car along the Rhine River through the Rhine valley towards Koblenz. En route you will discover many castle ruins and the famous Loreley Rock. Upon availability, as the Rhine cruise boats do not operate regularly during the winter season, you might catch a boat from Boppard, a village on the Rhine river, to St. Goar. Otherwise, you will continue by road and arrive in Frankfurt in the early evening. This evening we will visit the historical and well-preserved Old Town, listed a World Heritage site, with the Chapel Bridge, the longest and one of the best preserved covered bridges in Europe."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "You will spend the morning in Frankfurt, the most international city in Germany, the largest financial centre on the continent, the historical city of coronations, the city of Goethe and the Frankfurt School of philosophy. Of historical importance is St. Paul's (Paulskirche), a church with great political symbolism in Germany. Around noon time you will continue to Heidelberg. The city is known worldwide for its university and castle, for five hundred years the residence of the Prince Electors of the Palatinate. You will be enchanted both by its Medieval character and modern lifestyle in the city. Heidelberg is a great place to explore the past and presence and learn about the German culture."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "After breakfast, we continue to Stuttgart. The city is home of two brands of Germany's car industry, Porsche and Mercedes. If interested visit the Mercedes-Benz Museum that displays the company's history of 130 years. In the late afternoon we will arrive in Baden-Baden, along with Wiesbaden, the most famous spa in Germany."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "We suggest some free time in the morning to go on a leisurely walking tour of Baden-Baden including a visit of the historical Caracalla Spa dating back to ancient Roman times. In the afternoon we will start out on a scenic route and enjoy the views along the Black Forest High Road in the Southern Black Forest Region with a stop at the German Clock Museum en route. In the early evening we will arrive at Konstanz on the shores of Lake Constance. Inside the lake Austria, Germany and Switzerland have a joined border point. Wonderful views of the Swiss Alps across the lake! Leisurely walking tour of the precious old town of Konstanz in the evening."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "After breakfast, we will go on a short ferry cruise from Konstanz to Meersburg and continue on a picturesque route to the area of Allgäu located both in the German Federal states of Baden-Württemberg and Bavaria. In the afternoon we will reach Hohenschwangau and visit Neuschwanstein Castle. Find out about the myth of King Ludwig II, the most enigmatic of the Bavarian Kings. Known for his affinity with extravagance and fine arts he was called “The Fairy Tale King”. Herrenchiemsee and Linderhof castles are considered as his top architectural achievements. Neuschwanstein is the best known and, regarding its setting, most spectacular of the royal Bavarian castles. It served as inspiration for Walt Disney's fairy tale castles."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "After breakfast, we will continue towards Innsbruck and pass by the village of Oberammergau, famous for its Passion Play staged by the villagers every ten years. We will make a stop at Garmisch-Partenkirchen, one of Germany's famous winter sports resorts, site of the 1936 Olympic Winter games. In the early afternoon we will reach Innsbruck, the capital of the Austrian province of Tyrolia. The city is located in a valley surrounded by the Alps on three sides and was the site of the Olympic Winter games in 1964 and 1976. Its landmark is the Golden Roof (Goldene Dachl). When this street was founded over 700 hundred years ago, there were only a few farm houses here in the New Town. Life still revolved around the Old Town, which was surrounded by powerful medieval city walls and was only accessible from Maria-Theresien-Street through the St. Jörgen Gate. After a visit to Swarovski's Crystal World we will continue to Munich and arrive there in the evening. Munich's Italianate architectural splendor and old-world charm adds a Southern European touch to the city. The Bavarian capital with more than 100 theaters and museums and a multi-ethnic community offers a very vivid cultural life. The annual Oktoberfest with more than six million visitors during sixteen days has turned into a global trademark. The city is home of BMW, MAN and Siemens and many high-tech and IT-companies. You will enjoy the festive Christmas atmosphere."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Departure (or individual extension). Explore Munich on our city tour and enjoy its international atmosphere and the many genuine Bavarian locations and in town. Transfer to Munich Airport for your departure flight"
+    }
+  ],
+  "map": ""
+}

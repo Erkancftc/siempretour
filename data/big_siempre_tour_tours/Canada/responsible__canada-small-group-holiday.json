@@ -1,0 +1,100 @@
+{
+  "destination": "Canada",
+  "mainPhoto": "",
+  "id": "canada-small-group-holiday",
+  "tourName": "Canada small group holiday",
+  "placesVisited": "Calgary, Banff National Park, Lake Louise, Icefields Parkway, Jasper National Park, Clearwater, Helmcken Falls, Whistler, Vancouver Island, Pacific Rim National Park, Victoria, Vancouver",
+  "generalInfo": "Starting in Calgary and ending in Vancouver, this two week, small group holiday takes us on a sensational journey across the Canadian Rockies, national parks, mountain towns and the rugged rainforests of Vancouver Island. <br/><br/>The view out over the Rockies from Sulphur Mountain, in Banff National Park, are unbeatable, and the perfect introduction to our tour. From the glassy turquoise waters of Lake Louise to deep forest valleys, Canada’s oldest national park is a picture of perfection. Once we’ve relaxed in the warming waters of the geothermal springs, we’ll hit the highway and drive along the famous Icefields Parkway, a scenic road trip that runs between hundreds of glaciers and icy waterfalls. <br/><br/>Keep your eyes peeled for moose and bears as we explore the vast wilderness of Jasper National Park, where alpine meadows and salmon-filled rivers rub shoulders with snow-capped mountain peaks. Adventurous travellers can take a thrilling ride down the river in a raft or kayak, or see the trails on two wheels. <br/><br/>From Clearwater and views of Mount Robson, the highest point in the Canadian Rockies, we’ll head to the impressive cascade of Helmcken Falls, almost three times higher than Niagara. The mountain resort town of Whistler is famous for its skiing, but in the warmer months its slopes and cable cars offer access to beautiful hiking trails. We’ll leave mainland Canada with a ferry to Vancouver Island, and the hugely contrasting temperate rainforest, before returning across whale inhabited waters to the bustling metropolis of Vancouver.",
+  "durationDays": "15",
+  "price": "4999",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Join tour in Calgary",
+      "description": ": Our tour of the Rockies and Pacific Coast starts in Calgary. This dynamic city is a rich fusion of modern architecture and traditional heritage, where the pioneering history of the Canadian West is woven into everyday life. Due to the number of flights arriving into Calgary late in the day, our tour leader - who for the duration of the tour will also be our driver - will meet you in the hotel reception on the morning of day two. A message will be left at reception with details of timings as well as anything else you'll need for the day. There are no activities planned today, so you're free to arrive at any time. If you'd like an airport transfer, you'll need to arrive into Calgary International Airport (YYC), which is a 20-minute drive from the hostel. If your flight arrives earlier in the day, you might like to explore the city and soak up the friendly ambience. Filled with museums, shops and cafes, the centre of the city is a great place to meander and take in Calgary's culture, as well as the ever-present mountains that provide an awe-inspiring backdrop."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Visit Calgary, drive to Canmore, explore Kananaskis Country",
+      "description": ": We'll waste no time this morning, taking a quick drive through the centre of Calgary as we head west into the Rockies, their peaks rearing up in the background like a distant tidal wave. To the west of Calgary lie the stunning landscapes of Kananaskis Country, Alberta's breathtaking mountain playground. Driving out of the city, we'll head along the Trans-Canada Highway (Highway 1) towards the Peter Lougheed Provincial Park. This landscape is home to bears, elk, moose, and mountain lions. Our base for the next three nights will be the small town of Canmore, situated in the picturesque Bow Valley. Described as the gateway to the Rockies, it's the perfect starting point for exploring the nearby Kananaskis Country and Banff National Park. This afternoon, we'll head into Kananaskis country and the valleys of this region on foot. We'll look to take a hike on either the Ptarmigan Cirque Trail or the Grassi Lakes Trail - each one a well-marked path approximately four kilometres (2.5 miles) in length. Each hike involves a steady climb from the outset with a steady descent to return, with an average of 250 metres accumulated ascent and descent. We expect these trails to take between 1.5 - 2 hours."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Full day visit to Lake Louise and Moraine Lake",
+      "description": ": Over the next two days, we'll explore the majestic peaks and glacial lakes of Banff National Park. We'll be following well-marked trails to uncover stunning vistas and perfumed pine forests. We'll take the hour-long drive this morning to postcard-perfect Lake Louise and its next-door neighbour, Moraine Lake. Tom Wilson, the first white Canadian to see Lake Louise, when he was led there by a local native in 1882, wrote 'I never, in all my explorations of these five chains of mountains throughout western Canada, saw such a matchless scene… I felt puny in body but glorified in spirit and soul'. Despite the increasing number of visitors to the lake, it's still possible to experience the awe Wilson had when he first laid eyes on it. At Lake Louise we plan to head out on foot along the Lake Agnes trail. This hike is steep, so be prepared for an initial ascent through dense forest. When the trees start to thin, we'll keep our eyes peeled for the dazzle of the lake below, as the path slows into switchbacks that lead us more gently to the summit. We're rewarded for our efforts with the promise of refreshments at the Lake Agnes Tea House, before returning the same way that we came up. The total length of the trail is seven kilometres (4.5 miles) and may take approximately 3 hours. If you'd prefer a less active option, enjoying a drink on the terrace of the Fairmont Chateau Lake Louise or taking a stroll around the perimeter of the lake offer a more leisurely way to soak up the views. During the summer months, once the lake is fully defrosted, canoes are also available for hire."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Walk on the Medecine Trail with an indigenous guide; optional aerial tram ride up Sulphur Mountain",
+      "description": ": We'll drive from Canmore to Banff this morning, towards the beautiful meadows of Cascade Ponds. Here, we set out on foot with a local and knowledgeable indigenous guide from the Cree Iroquois community, to explore the Medecine Trail, an easy walk of around 1.5km (one mile). Working with a female-owned indigenous organisation, this walk aims to connect travellers with the land, as the guide shares their traditions and knowledge of the plants and wildlife around them. We're free this afternoon to discover Banff, a quaint resort town that exudes Canadian spirit. For those who want to explore further, there'll be an optional excursion by aerial tram to the top of Sulphur Mountain - if the weather is clear, the views across the Rockies are breathtaking. History fans might like to take a trip to the Whyte Museum of the Canadian Rockies, a small but fascinating collection of art and heritage materials that preserves and showcases the history and ideas of mountain cultures, For the more active amongst us, there's also the chance to hike up Tunnel Mountain, a popular self-guided hike that starts in the town itself and rewards walkers for their uphill efforts with spectacular views of the town and forest below."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Drive to Jasper National Park via Icefields Parkway",
+      "description": ": Today, we'll drive along one of the world's top scenic highways, the Icefield Parkway. Spectacular scenery unfolds at every turn, and we'll likely encounter wildlife along the road too. We'll continue northwards and pass alongside the Columbia Icefield where we'll stop to marvel at the Athabasca Glacier. For those feeling adventurous, there'll be the option to take a guided hike onto the glacial ice - this should be booked at the start of your trip, our tour leader will give you more information. Afterwards, we'll continue up the scenic highway towards Jasper, making more stops en route. If you're hoping to spot a grizzly, our eagle-eyed tour leader will keep an eye out for bears while we travel. Our journey today may take up to 10 hours as we'll make a variety of stops along the route."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Walk in the woodlands of Jasper National Park, optional trip to Miette hot springs",
+      "description": ": We'll start today with a short hike (approximately three kilometres) on an easy walk called the Moose Lake Loop. This trail stays mostly within the woodlands, cresting small hills and across hollows. Much of the environment here was shaped by a massive landslide that happened millennia ago, where half a billion cubic metres of rock fell from the ridge on the side of Maligne Lake, blocking the valley and causing the lake to grow considerably to today's size. Along the way we'll see mossy, lichen-encrusted boulders, with this huge geological event forming something of a natural rock garden. On the way back there is the option to take a dip in the warm, mineral-rich waters of the Miette Hot Springs. Please note that following on from the 2024 wildfires in Jasper National Park, there is some uncertainty of what will and won't be open this season. This day will therefore have a degree of flexibility, and the Tour Leader may adjust the trip depending on what is open and accessible."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Head to Clearwater via Mount Robson",
+      "description": ": This morning, we'll head northwest along Highway 16, through Mount Robson Provincial Park. Along the way, we'll get to see Mount Robson itself, the highest peak in the Canadian Rockies (3954m). It's so tall that it has its own weather patterns and, if we're lucky, we'll be able to view it from top to bottom. From here, we'll enjoy a hike along Fraser Canyon to Overlander Falls (a one-kilometre/45-minute walk) before continuing to Clearwater."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Visit the Wells Gray Provincial Park",
+      "description": ": This morning, we'll head out to the nearby Wells Gray Provincial Park, home to Helmcken Falls, which (at 127 metres) is higher than Niagara Falls. There are unexpectedly spectacular views from all along the park entrance road and great opportunities for wildlife spotting. We'll spend the day here travelling along the park road and making stops at the many waterfalls and lakes along the way, taking walks and exploring the area on foot. As well as Helmcken Falls, we'll visit Spahats Creek, from where we can take an easy walk to the 61-metre high Spahats Falls. These impressive falls cascade down through layers of pinky-red volcanic rock, and from the observation point we should also have a great view down the Clearwater Valley. The rest of our itinerary for the day will rely on our Tour Leader; we might visit the spectacular Dawson Falls, walking to its two viewpoints and feeling its mighty spray. We may also visit Shadow Lake, a peaceful wilderness that has some great birding opportunities, or Clearwater Lake, with its lakeshore trail and peaceful atmosphere. While our Tour Leader will make decisions on the spot, we can expect to be outdoors for much of the day with a variety of short walks on offer."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Journey to Whistler",
+      "description": ": We'll have a long drive, around six hours, ahead of us today, as we travel south to Whistler. En route, we'll make various stops to soak up the scenery. We'll travel through the mountains of interior British Colombia, the landscape changing with the shifting climate, stopping at several viewpoints such as Seton or Kalamalka Lake to stretch our legs. This evening, we'll enjoy a meal in one of Whistler's many restaurants and, for those who wish, follow it up with a night on the town."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Free day in Whistler, walk or take cable car ride",
+      "description": ": Today is free to enjoy Whistler and the variety of activities on offer here. You might like to take a cable car up one of the nearby peaks and hike a trail. There are plenty of trails in and around Whistler, taking in either the rugged mountains or the peaceful shores. Alternatively, a visit to the Lil'wat Cultural Center in nearby Squamish provides rich insight into the indigenous heritage of the Squamish and Lil'wat Nations."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Ferry to Nanaimo, drive to Pacific Rim National Park",
+      "description": ": This morning, we'll follow Route 99 (more famously known as the Sea to Sky Highway) toward the Pacific Coast and Vancouver. We'll continue to Horseshoe Bay from where we'll catch the ferry across to Nanaimo on Vancouver Island. Although the island stretches almost 500 kilometres from north to south, it has a population of just 500,000 and, with its numerous provincial parks, it's easy to escape into the wilderness. En route to Pacific Rim National Park, we'll stop in MacMillan Provincial Park where we'll take a short walk to the famous Cathedral Grove, a striking group of huge Douglas Firs. Some of these incredible trees reach up to 70 metres high, are two metres thick and are estimated to be up to 1000 years old. We'll then continue to the National Park which stretches for 130 kilometres and is teeming with mountains, coastal rainforest, wild beaches, and unkempt marine landscapes. We'll spend tonight in Ucluelet near Tofino. Including time spent on the ferry, our journey today may take approximately eight or nine hours."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Free day for optional whale watching or sea kayaking",
+      "description": ": Today we're free to choose from a variety of activities. The two most popular excursions are both out to sea. The more energetic amongst us might like to explore the wild coastline and hidden coves by kayak. Alternatively, there'll be the chance to go whale watching from one of the coastal villages in the park. There'll also be the opportunity to go black bear watching from a zodiac boat or take an optional walk along one of the park's many trails. For a chance to interact further with the island's First Nations peoples, there is the option to take a water taxi to Meares Island, and be guided by a local from the Nuu-chah-nulth First Nations group along the Big Tree Trail, through old growth forest and past some of the largest trees in British Columbia. Our local guide will be on hand to organise these trips."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Drive to Victoria, free time to explore",
+      "description": ": We'll head south today, away from the wilderness of the Pacific Rim National Park and towards the much gentler scenery of Victoria. On the way, we'll make stops to view the totem poles carved by the First Nations of the North West Coast. In 1884 the Federal Government outlawed 'pot latching' and this unique art form nearly died out. Fortunately, in recent times, there has been a revived interest in this proud tradition and the totems that can be found along this stretch of coast are strong reminders of the island's native people. This afternoon, we'll have free time to explore Victoria. We highly recommend visiting the Royal British Columbia Museum or grabbing a seat at one of the pavement cafes to watch the world pass by."
+    },
+    {
+      "dayNumber": 14,
+      "title": "Ferry to Vancouver and orientation tour",
+      "description": ": Vancouver (the Jewel of North America) beckons us today. As cosmopolitan as the city is, reaching to the Pacific Ocean and surrounded by Mount Seymour and Grouse Mountain, it's impossible to forget Canada's abundant natural beauty. During the afternoon, we'll have a brief orientation tour, as well as the opportunity to discover Stanley Park (optional). Later this evening, we recommend a visit to Gastown, an upbeat neighbourhood with plenty of local restaurants and bars."
+    },
+    {
+      "dayNumber": 15,
+      "title": "Trip ends in Vancouver",
+      "description": ": Our tour of the Rockies and Pacific Coast ends at our hotel in Vancouver. There are no activities planned today, so you're free to depart at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer, you need to depart from Vancouver International Airport (YVR), around a 40-minute drive from the hotel."
+    }
+  ],
+  "map": ""
+}

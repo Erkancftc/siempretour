@@ -1,0 +1,35 @@
+{
+  "destination": "Tanzania",
+  "mainPhoto": "",
+  "id": "tanzania-luxury-family-safari-and-beach-holiday",
+  "tourName": "Tanzania luxury family safari and beach holiday",
+  "placesVisited": "",
+  "generalInfo": "Tanzania is a land of superlatives: home to the world’s largest intact caldera, the continent’s highest mountain, and wildlife populations exceeding four million.<br/><br/>With so much to see and do, exploring it all can feel daunting. But with some of the region’s finest camps and lodges – and the convenience of a private jet – it suddenly becomes entirely achievable.<br/><br/>This luxury trip is designed to transform the safari experience from remarkable to truly unforgettable. Guests travel between Tanzania’s most luxurious lodges in comfort and style aboard an intimate, executive jet, with all flights carbon neutral. The journey takes you through elephant-rich Tarangire, a stop at the Ngorongoro Crater, and front-row access to the Serengeti’s incredible wildlife and landscapes.<br/><br/>Finish this amazing trip with some time relaxing on the island of Zanzibar: Activities include kayaking, diving, use of snorkelling equipment, gym and tennis.",
+  "durationDays": "12",
+  "price": "10590",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Following breakfast, you transfer to Lake Manyara airstrip. Fly to Zanzibar and transfer to Stone town for 1 night on a bed and breakfast basis. Explore Stone Town, Zanzibar’s atmospheric historic heart, where narrow alleys reveal centuries of Swahili, Arab, Indian and European influence. Visit the former Sultan’s Palace and the Old Fort, wander through bustling markets, and admire the carved wooden doors and coral-stone buildings that define the town. A guided walking tour brings the history to life, while time at the waterfront or a visit to the Freddie Mercury Museum offers a glimpse into Stone Town’s cultural past and present."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Transfer to Zanzibar airport for onward arrangements"
+    }
+  ],
+  "map": ""
+}

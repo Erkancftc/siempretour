@@ -1,0 +1,70 @@
+{
+  "destination": "Colombia",
+  "mainPhoto": "",
+  "id": "luxury-colombia-adventure-tour-rainforests-beaches-and-culture",
+  "tourName": "Luxury Colombia Adventure Tour: Rainforests, Beaches, and Culture",
+  "placesVisited": "Amazon Rainforest, Santa Marta, Parque Tayrona, Bogotá, Puerto Nariño",
+  "generalInfo": "Discover the tropical and the exotic in the world’s second-most biodiverse country on the planet during your 9-day Colombia adventure tour. You will travel through the Amazon Rainforest to find signs of wildlife and preserved indigenous communities. You will explore the depths of the Caribbean Sea on a scuba adventure for views of colorful fish. From sampling delicious cuisine to uncovering secluded beaches, you will revel in the thrill of discovery.",
+  "durationDays": "9",
+  "price": "8,100",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Bogotá - Arrive in Colombia’s Capital",
+      "description": "The vibrant city of Bogotá embodies urban sophistication, historic grandeur, and traditional beauty set beneath the surrounding Andean peaks. Your private transfer will meet you upon arrival at El Dorado International Airport and escort you to the comforts of your luxury accommodation. The remainder of the day is at your leisure to discover the cobbled lanes leading to Plaza de Bolivar and the spectacular panoramic views from the summit of Cerro de Monserrate at 10,341 feet above sea level. The Museo del Oro displays the history of gold in Colombia with more than 55,000 artifacts."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Puerto Nariño - Transfer to the Amazon to Reach Puerto Nariño",
+      "description": "You will fly to Leticia to reach the heart of Colombia’s Amazon Rainforest. The tropical heat will permeate the air as you travel with your private transfer to the pier to board a boat bound for Puerto Nariño. You can watch for signs of pink river dolphins as you glide down the Amazon River. Manicured sidewalks cut through the heart of town to reveal cisterns collecting rainwater. At nightfall, you will trek the jungle with your guide in search of nocturnal wildlife to find the likes of kinkajous scrambling through the trees in search of flower nectar."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Puerto Nariño - Discover the Flooded Jungle",
+      "description": "Your guide will lead you down the Amazon River in search of the jungle’s hidden lakes. During the dry season, the water recedes to show tree bases reaching 100 feet deep. Tapirs graze on the riverbanks in search of leaves and twigs, while manatees often emerge from the water with their brownish skin and white chests. You can cast your lines into the water to try catching piranhas, which can grow to up to two feet long. You will visit a Tikuna village to view woven bags, wooden masks, and bark-cloth scrolls, and the caiman lurking on the riverbanks."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Puerto Nariño - Explore the Highland Jungle",
+      "description": "In the morning, you can wander through the primary jungle with your guide to learn about the native trees and the medicinal plants growing beneath the canopy. The cool morning air will quickly give way to the tropical heat as you travel to the Peruvian Amazon. Explore the micro-ecosystem that supports pink river dolphins in the water and sloths in the trees. Acai berries grow wild near ancient seibu trees. Your guide will share local legends before you join an indigenous craft workshop to craft weave a bag or decorate a gourd before your thrilling night safari."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Santa Marta - Traverse Tabatinga and Transfer to Santa Marta",
+      "description": "Your guide will lead you to Tabatinga, the town overlooking the point at which the Amazon enters Brazil. The scent of sugar and chocolate drifts through the streets that are lined with shops and dangling hammocks. One hundred life-sized wood carvings representing the Amazon’s diverse flora and fauna fill the galleries of the Centro de Interpretacion Natutama. You will walk along the river to find the confluence where Brazil, Peru, and Colombia meet before your flight to Santa Marta. Your private transfer will escort you to your gorgeous hotel immersed in the ambiance of South America’s oldest European-founded town."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Santa Marta - Wander the Caribbean",
+      "description": "In the bright light of the morning, the Caribbean sunlight will wash over the white-sand beaches that edge Santa Marta. You will board your boat with your certified guide and venture into the waters for a private scuba diving excursion. The crystal-clear Caribbean Sea will welcome you with temperate water as you dive on the edges of the protected borders of Tayrona National Park, which covers 58 square miles. Coconut palms and thick rainforest cover the coastline while the sea fills with visions of the submarine ecosystem. Vibrant coral and sponges give way to Hawksbill turtles nibbling on seagrass and the creamy black and red stripes of lionfish."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Santa Marta - Adventure through Parque Tayrona",
+      "description": "Your guide will lead you to the white sandy beaches and the dense rainforest of Tayrona National Park in the morning, which covers 30,000 acres of land. The trails will wind beside rushing rivers and gentle cascades fed by the tropical rain. The guttural call of howler monkeys will echo through the trees audible up to three miles away. You can spot jaguar tracks sunken into the trails and the sounds of blue-headed parrots. The trail will lead through the dense jungle terrain and open to the bright turquoise waters lapping at the pristine sands."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Santa Marta - Delight in Pristine Tayrona Beaches",
+      "description": "At breakfast, you will find the enticing aromas of coconut and pineapple fading beneath the scent of rich fresh-brewed coffee. Your guide will meet you in the lobby and take you to a pristine beach rarely visited by tourists. You can dig your toes into the warm white sands to enjoy the powdery texture and bask in the shade cast by the soaring palm trees. The lush tropical mountains will pierce the sky in the background as you enjoy the soothing sound of lapping waves. You can snorkel, swim, and sunbathe before returning to your hotel in the afternoon."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Santa Marta - Depart for Home",
+      "description": "In the morning, the aroma of fresh coffee will linger along the cobbled lanes of the historical city before the scent of tropical fruits like mango, borojo, and caimito take over. Wander the streets to enjoy the many beautiful displays in the boutique stores or revel in the opulence of Quinta de San Pedro Alejandro, an estate that housed revolutionary hero Simon Bolivar. Your private transfer will meet you at the hotel when you are ready and escort you to Simon Bolivar International Airport for your flight home."
+    }
+  ],
+  "map": ""
+}

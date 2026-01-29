@@ -1,0 +1,85 @@
+{
+  "destination": "Usa",
+  "mainPhoto": "",
+  "id": "south-carolina-self-drive-holiday-in-usa",
+  "tourName": "South Carolina self drive holiday in USA",
+  "placesVisited": "",
+  "generalInfo": "This 12-day custom itinerary begins in Charleston, one of the South’s most vibrant and historical cities. Well-known for its pastel-coloured antebellum houses, swaying palm trees and a lovingly preserved low-level skyline with no buildings higher than a church-spire, the city has a storied past that is best discovered on foot.<br/><br/>Two hours away lies the low-country resort of Montage Palmetto Bluff, a nature-lovers haven for the well-heeled traveller. Spend a few days exploring the pristine waterways that surround the resort and learn about the ecology of the area by boat, bicycle or walking with a resident naturalist. You will have the opportunity to observe native birdlife including wood stork, roseate spoonbill and egret as well as wild dolphin playing amongst the marshes. You should also keep an eye out for the alligators that peruse the resort’s natural lagoons.<br/><br/>From the quaint town of Bluffton, you will drive on to Hilton Head Island, a coastal gem with white sand beaches, an abundance of diverse wildlife and miles of protected shoreline. You can visit the Pickney Island National Wildlife Refuge to spot heron and white-tailed deer or hike through Sea Pines Forest Preserve. We also recommend visiting the Coastal Discovery Museum, where you can learn all about the sea turtles that nest and hatch on the beaches of Hilton Head. With the temptation to drive for hundreds of miles on a road-trip in America, this is a single-state itinerary that slows you down to experience the raw natural beauty of one of America’s lesser visited states by international tourists.",
+  "durationDays": "12",
+  "price": "4500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Begin your journey by boarding your international flight to Charleston, SC. On arrival in Charleston, you will make your own way to your hotel. The rest of the evening is yours to enjoy. Why not take a stroll up neighboring King Street and enjoy dinner at a local restaurant"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "After a leisurely breakfast, you will head out for the day to meet your local guide for a walking tour of Charleston. Knowledgeable and friendly, your guide will tell tales of the Revolutionary and Civil wars, as well as give you insider tips on the best spots to eat and drink in Charleston. Your guide can also give you recommendations for museums if you wish to further develop your knowledge of the city’s history. Later that afternoon, you may wish to visit the Old Slave Mart Museum, Fort Sumter or one of the antebellum houses, once lived in by a wealthy family."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "The day is yours to enjoy. Visit a nearby plantation on the outskirts of Charleston along the May River Road, peruse the boutiques of King Street or take a culinary tour of the city’s best restaurants."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Picking up your rental car, drive two hours south to the town of Bluffton, where you will find Montage Palmetto Bluff. Time it right, and you can say hello to the resident pups at check-in before being shown to your lagoon view room. Take in the surroundings on your porch and see if you can spot one of the alligators who live in the lagoon before heading out for dinner. Be sure to stop by the fire-pit and the s’mores cart before retiring for the night."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "This morning, explore by bicycle and admire the salt-marsh landscape that surrounds the resort. Enjoy lunch by the pool, and then head down to the pier for your eco-boat tour out on the water. Search for wild dolphins and keep your eyes to the sky to admire resident birdlife."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Spend another day at leisure at the Bluff. Take your pick from a variety of activities on offer, from kayaking out to a remote sand-bar to visiting fascinating Daufuskie Island to learn about Gullah culture, there is plenty to enjoy."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Say goodbye to the Bluff and head into town to learn about the historic churches and buildings that are preserved here. Take a stroll to the general store to pick up some souvenirs and enjoy a fresh fruit smoothie at one of the independent cafes. Then, take the short 15-minute drive to Hilton Head Island and enjoy an afternoon at the beach."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Rise early and head to the Pickney Island National Wildlife Refuge, where you can explore over 14 miles of hiking trails. Brightly coloured painted buntings are easily spotted in the summer months, but be sure to bring binoculars to spot more elusive birds – there are over 250 in the refuge. The refuge is also one of the best places in the state to see yellow-crowned night herons. Those looking for an active day can hike to White Point, where you will be rewarded with a small, pristine beach as well as sweeping views of the water – the hike is 7.8 miles round-trip."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Today, visit the Coastal Discovery Museum to learn about sea turtles and in the afternoon, visit the Harbor Town Lighthouse to view artefacts from island's historic eras. Once you reach the top of the lighthouse, you will be rewarded with panoramic views over the island's landscape."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Soak up the Carolina sunshine on the beach today, or for more active travelers, head to the Sea Pines Forest Preserve for hiking trails. You may also wish to rent a kayak and explore the waterways and creeks surrounding the island."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Spend your last day catching some rays by visiting one of the many beaches on the island. You will have the day to relax before driving back to Charleston to drop your car off and catch your overnight flight home."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Arrive home today to complete your journey."
+    }
+  ],
+  "map": ""
+}

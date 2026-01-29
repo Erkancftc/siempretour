@@ -1,0 +1,55 @@
+{
+  "destination": "Tanzania",
+  "mainPhoto": "",
+  "id": "tanzania-fly-in-safari-and-beach",
+  "tourName": "Tanzania fly in safari and beach",
+  "placesVisited": "",
+  "generalInfo": "These fly-in safari options are excellent for guests who are short of time, or perhaps wanting to enjoy multi-destinations or countries in one safari. Camps are intimate, - with focus being on service, location and experience. Depending on the time of year, you may enjoy three or more nights.  Camps are located in the heart of the migratory routes in the Serengeti, we have a range of well-priced packages for those guests who are really keen to enjoy an authentic safari under canvas in the right place, at the right time. Finish your trip with a flight down to  Zanzibar for 5 nights at a stunning beach resort on an all inclusive basis",
+  "durationDays": "10",
+  "price": "4980",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive Kilimanjaro airport, transfer on arrival to Forest Hill Lodge or similar on bed and breakfast basis"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Collect and transfer to Arusha local airport for flight to Ndutu, Central or Northern Serengeti, depending on time of year. Meet at the airstrip by camp guide, and taken to the tented camp to settle in. All meals and selected drinks are included. The next three nights/four days will be spent enjoying game drives in the area. This safari is based on shared game drive activities, but it is possible to organise a private vehicle if you prefer, at an additional cost"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "You spend the day on morning and afternoon game drives in the Serengeti. This is an immersive, edge-of-your-seat experience, shaped by the vastness of the landscape and the sharp eye of your skilled guide. Before sunrise, the plains lie in shadow, and every rustle or distant call feels charged with possibility. When the first light stretches across the horizon, long and golden, tracks and contours emerge from the dust, hinting at the wildlife moving unseen. Lions might be lounging in the shade, elephants shifting through brush, or cheetahs crouched in the distance—but you never know which will appear next, and no two days or drives are the same. The guide’s expertise turns subtle signs—a broken twig, faint paw-prints, a bird’s sudden flight—into a roadmap of anticipation, keeping you alert to every movement. As the sun dips low, the plains ignite in amber, and sundowners in the savannah offer a chance to reflect on nature's powerful beauty. Balloon safari optional. Overnight Tented Camp on full board basis inclusive of selected drinks"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Game drives (morning/afternoon). Balloon safari optional. Overnight Tented Camp on full board basis inclusive of selected drinks"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Return to airstrip for flight to Zanzibar, direct or via Arusha, collect on arrival and transfer to your accommodation on the coast for 5 nights on all inclusive basis"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Transfer to Zanzibar airport for departing flight"
+    }
+  ],
+  "map": ""
+}

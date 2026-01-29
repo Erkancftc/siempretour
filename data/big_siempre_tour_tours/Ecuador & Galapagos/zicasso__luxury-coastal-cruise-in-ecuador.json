@@ -1,0 +1,65 @@
+{
+  "destination": "Ecuador & Galapagos",
+  "mainPhoto": "",
+  "id": "luxury-coastal-cruise-in-ecuador",
+  "tourName": "Luxury Coastal Cruise in Ecuador",
+  "placesVisited": "Guayaquil, Puerto Bolívar, Naranjito, Playas, El Morro, Isla de la Plata, Puerto Lopez, San Mateo, Manta",
+  "generalInfo": "Experience immersive wonder along pristine coastline and in inspiring nature during your exclusive eight-day Ecuador tour. Uncover the full splendor of the nation’s wealth of colorful flora, vibrant fauna, mouthwatering traditional cuisine, and welcoming cultural traditions as you sail the shoreline on a luxurious yacht. With naturalist guides, regional chefs, and the benefits of local knowledge, you can delight in the grandeur of Ecuador’s coastline like never before.",
+  "durationDays": "8",
+  "price": "13,100",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Guayaquil - Welcome to Unique Ecuador",
+      "description": "Known mainly as the gateway to the Galapagos, Guayaquil gives you the perfect welcome to Ecuador. Your private transfer will greet you at the airport upon your arrival and lead you on an exploration beginning in the charm of the historical Las Penas neighborhood. A mixture of preserved colonial architecture shines a light on homes that once survived pirate attacks near galleries that display contemporary artists. Atop Cerro Santa Ana, embrace the stunning panorama that sweeps across the coastline. In the evening, board the yacht and relax with an inviting artistic dinner display that promises the experiences to come."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Puerto Bolivar - Enjoy Plantation Life and Flavor",
+      "description": "Upon reaching Naranjito, your guide will take you to a traditional hacienda to explore cocoa production along the coast. The plantation may carry aromas of the sea breeze and drying beans. Learn the art of cultivating, harvesting, fermenting, and drying cocoa before processing the beans into chocolate, and sample the natural bitter-sweet flavor. Take your time floating down the property’s river, where tropical flowers burst with color and three-toed sloths cling to the trees. At lunch, sample local organic ingredients and learn how to milk a cow, before designing your own chocolate bar with the help of the expert chocolatier."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Playas - Explore Forest Fauna and Serenity",
+      "description": "Disembark the yacht to discover the wonders of the Puyango Petrified Forest. The trails take you back in time to an era once covered by ocean and now decorated with marine fossils and one of the world’s largest collections of petrified wood. Life still thrives among the trees, as deer graze, squirrels forage, armadillos waddle, and small leopards hunt in the secluded landscape. At a nearby hacienda, you can experience the traditions of an organic banana plantation and learn the process of cultivation to exportation, before basking beneath the stars after dinner on the yacht to observe the constellations."
+    },
+    {
+      "dayNumber": "4",
+      "title": "El Morro - Embrace Artisan Crafts and Wildlife",
+      "description": "Arrive in Playas with an introduction to the Huancavilca culture. Skilled navigators crafted rafts and traded their work for textiles and gold. Your guide will lead you to a surprising vineyard that understands how fossils found in the limestone add extra nutrients for the vines, observed in the New Latitude wines. The chef will provide a tasting menu that accentuates the characteristics of the wines, from emphasizing notes of stone fruit to aromas of berries. Once in El Morro Wildlife Refuge, you can find the briny aroma as you search mangrove canals or listen for the chatter of bottlenose dolphins."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Puerto Lopez - Delight In the Small Galapagos",
+      "description": "Machalilla National Park is often referred to as the “Small Galapagos” and Isla de la Plata captures the treasures of the wildlife and wilderness for which the larger archipelago is known. Follow the trails along the rugged crags and brush of the volcanic island as blue-footed boobies bray and frigates glide on the sea breeze. During the season you may even spot whales breaching off the coast. Venture deep into the water on a snorkeling expedition and circle the protruding coral and sea gardens in hopes of finding soaring stingrays and impressive whale sharks in the crystal-clear sea."
+    },
+    {
+      "dayNumber": "6",
+      "title": "San Mateo - Find Archeological and Natural Charm",
+      "description": "The endless delights of Ecuador will become apparent in Agua Blanca, home to archeological pieces that reflect one of South America’s oldest civilizations, dating back to 1500 BC. Elements of temples and ancient squares provide a glimpse into daily life. In the forest, you can watch colorful butterflies waft through the trees and dip your toes into the warmth of a natural sulfurous lagoon that can soothe your skin. Kayak on the water or indulge in the white sands of the coastline, before sampling local cuisine with a private cooking class on the yacht."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Manta - Visit Coastline, Artisans, and Heritage",
+      "description": "In the morning you can hike through the tropical forest of the Refuge of Coastal Marine Wildlife Pacoche. You may hear the guttural yowl of howler monkeys as you travel in the dense jungle terrain. At the Reserve Lighthouse, embrace the views at the lookout that sweeps to neighboring beaches, including a known nesting ground for marine turtles. Sample local recipes and ingredients at lunch, accompanied by ancestral traditions guided by the experienced hands of the yacht’s executive chef, before visiting the artisan community of Pile, known for hand-weaving beautiful crafts, including stylish toquilla straw hats."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Manta - Depart for Home",
+      "description": "Manta is one of Ecuador’s fastest-growing cities, with a charming coastline you can see as you depart the yacht. Enjoy your time at the nearby coastal town of Santa Marianita, where you can embrace adventure with a windsurf lesson, relax with a fishing excursion, or watch for frigates near the point. As your unique Ecuador journey comes to an end, you can extend your trip with time exploring the Amazon or Andes. If you do not choose to extend your experience, your private transfer will escort you to the airport when you are ready."
+    }
+  ],
+  "map": ""
+}

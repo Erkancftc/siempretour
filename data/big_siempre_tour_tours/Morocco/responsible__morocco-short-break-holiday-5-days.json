@@ -1,0 +1,50 @@
+{
+  "destination": "Morocco",
+  "mainPhoto": "",
+  "id": "morocco-short-break-holiday-5-days",
+  "tourName": "Morocco short break holiday, 5 days",
+  "placesVisited": "Marrakech, guided tour including Djemâa El Fna square, day excursion to the Atlas Mountains, visit a Berber family",
+  "generalInfo": "A 4 night short break to experience the highlights of what Morocco has to offer. From noise, colour and smells of the Souks &amp; Medinas to the stunning journey through the backdrop of the Atlas Mountains. This is tour is a great introduction to those that have never been to Morocco or only have a short time in which to become acquainted with this mystical and magical country.<br/><br/>Your holiday includes:<br/>* 4 nights accommodation on bed &amp; breakfast basis at KECH hotel 4* or similar depending on availability<br/>* City tour of Marrakech &amp; Entrance fees to monuments<br/>* Guide for city tour of Marrakech &amp; excursion to Atlas Mountains. <br/>* Transfer Marrakech airport/hotel/airport<br/>* Cooking class<br/>* Meals as specified (B=Breakfast, L=Lunch, D=Dinner)<br/>* Services of our local agents in Morocco<br/><br/>Your holiday excludes:<br/>* International flight tickets &amp; airport taxes<br/>* Any meals not specified<br/>* Anything not stated above<br/>* Beverages <br/>* Travel Insurance<br/>* Tipping for guide, driver and hotel staff<br/>* Porterage at airport<br/>* Personal expenses",
+  "durationDays": "5",
+  "price": "1145",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Depart on your outbound UK flight to Marrakech. Upon arrivalyou will be met by your driver guide and transferred to your hotel. Check in and the evening and dinner is at your leisure."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Enjoy a guided tour of Marrakech, the day’s highlights include: El Bahia Palace, standing in a 2-acre garden, a haphazard arrangement of secret luxury rooms opening on to inner courtyards. Explore Souks, a riot of colour, noise and activity. Continue to Djemâa El Fna square, in the past a centre for public meetings and even riots, today it provides constant ever-changing entertainment. It is a square where a real image and the charm of Moroccan folklore is operating: story tellers, snake charmers, acrobats, folkloric bands. Return to your hotel for dinner at leisure and overnight. (B)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Head out for a day excursion to the Atlas Mountains. From Marrakech take the road to Amizmiz up to the Lalla Takerkoust Dam. Continue through villages, Kasbahs and experience the way of life of the locals. Continue to Relais du lac, for the views from the dam. En route back to Marrakech, visit a Berber family house and have tea with them. Experience the way of life and their way of cooking such as women preparing the bread and a Berber tagine. Return to your hotel for the evening at leisure. (B)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Today is entirely at your leisure to explore or relax and enjoy the hotel facilities. Head out to the souk for souvenir’s to take home. (B)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "You will be met at your hotel to and transfer to Marrakech airport for your return flight. (B)"
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,65 @@
+{
+  "destination": "Vietnam",
+  "mainPhoto": "",
+  "id": "vietnam-classic-tour-north-to-south",
+  "tourName": "Vietnam classic tour, North to South",
+  "placesVisited": "",
+  "generalInfo": "Discover the timeless beauty of Vietnam on this 8-day classic journey, taking you from the elegant streets of Hanoi to the natural wonder of Halong Bay, and ending in the lively buzz of Ho Chi Minh City. Blending rich history, breathtaking scenery, and authentic cultural experiences, this itinerary offers the perfect balance of exploration and comfort.<br/><br/>Ideal for first-time visitors and cultural explorers, the tour features UNESCO World Heritage Sites, street food adventures, overnight cruising, and local-led city tours. From wandering lantern-lit lanes in Hanoi’s Old Quarter to gliding past limestone karsts in Halong Bay, every moment deepens your connection to Vietnam’s heritage and everyday life.<br/><br/>Your journey begins in Hanoi, Vietnam’s historic capital. Walk through the bustling Old Quarter, visit landmarks like the Temple of Literature and One Pillar Pagoda, and witness the traditional art of the water puppet show. Savor local flavors on a guided street food tour, or take part in an optional cooking class with a local chef.<br/><br/>Next, sail through the breathtaking beauty of Halong Bay on a traditional wooden junk boat. Spend the night aboard, enjoying kayaking, cave excursions, and a sunset cooking demo on deck. Wake to sunrise over the water and indulge in freshly prepared seafood meals while surrounded by emerald waters and soaring cliffs.<br/><br/>The adventure concludes in Ho Chi Minh City, Vietnam’s southern hub of energy and history. Explore colonial-era architecture, including the Notre-Dame Cathedral and Central Post Office, and gain insight at the War Remnants Museum. Dive into market life at Ben Thanh and enjoy vibrant evenings in rooftop lounges or street food alleys.<br/><br/>A day trip to the Cu Chi Tunnels reveals a powerful chapter of Vietnam’s past, while an optional extension to the Mekong Delta offers a peaceful cruise through palm-shaded canals and visits to traditional villages.",
+  "durationDays": "8",
+  "price": "945",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival in Hanoi & Transfer to hotel"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Hanoi City Excursion"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Hanoi - Halong Bay, Overnight at Cruise"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Halong Bay - Hanoi excursion"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Fly to Ho Chi Minh and Free Day"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "City Tour & Cu Chi Tunnels Tour"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Full Day Excursion to Mekong Delta"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Ho Chi Minh Departure"
+    }
+  ],
+  "map": ""
+}

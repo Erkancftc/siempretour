@@ -1,0 +1,125 @@
+{
+  "destination": "Morocco",
+  "mainPhoto": "",
+  "id": "grand-tour-of-morocco",
+  "tourName": "Grand tour of Morocco",
+  "placesVisited": "",
+  "generalInfo": "From the pandemonium of Marrakech's souks to the tranquillity of the High Atlas and the surreal plains of the Sahara, Morocco is a tapestry of diverse sights and sounds. Wind through the very heart of this majestic country, exploring imperial cities, Berber villages and fortified towns and getting a flavour for local life, dining on fragrant tagines and refreshing mint teas. Hitting all the must-sees, our Grand Tour dives deep into the history, culture, and landscapes that make Morocco simply unforgettable. <br/> Imperial icons - Explore the souks, medinas and kasbahs of Morocco's regal cities including Marrakech, Meknes, and Fes.<br/> Journey into the Sahara - Adventure into the golden dunes of the Sahara on camelback before sleeping under the stars at two traditional camps.<br/> Unwind by the coast - Recoup by the Atlantic Coast and soak up the laidback atmosphere of Mirleft and Essaouira. <br/> <br/> <br/>",
+  "durationDays": "20",
+  "price": "2095",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Trip starts in Marrakech",
+      "description": ": Our tour starts in the Red City. With its dusty rooftops, maze-like streets and bustling souks, Marrakech encompasses the essence of Morocco. Head to the medina and people watch while you sip a mint tea in Jemaa el-Fna (the main square) or visit the Jardin Majorelle, just a short walk from our hotel. There are no activities planned for today, so you're free to arrive at any time. If you'd like an airport transfer, you'll need to arrive at Marrakech Menara Airport (RAK), which is around a 20-minute drive from our hotel. Our tour leader will meet you in the hotel reception at 6pm for a welcome meeting and then an optional dinner. If you arrive later, they'll catch you up as soon as possible."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Explore Marrakech's souks, squares and must-see sites on foot",
+      "description": ": Today we'll dive straight into the heady delights of Marrakech with a guided tour of the city. Marrakech is a destination like no other, offering a vibrant new sight, sound, or scent at every turn. We'll pass by the rose-coloured Koutoubia (booksellers) Mosque on the way to Bahia Palace, famous for its decorated stucco walls and marble floors. We'll fuel up on fresh pastries from a traditional bakery before continuing to the medina on foot. There, we'll be guided through the labyrinth of spice-scented souks, passing by craftsmen selling rugs, leather goods and crockery, before dropping by a spice shop to sample ripe dates and almonds. Finally, we'll navigate our way out and into the energetic Jemaa el-Fna Square. This afternoon you're free to explore more at your own pace - amongst the array of must-see sites are Ben Youssef Madrasa, the Dar Si Said Palace, and the Menara Gardens, tick them off your list or delve back into the maze-like souks. In the evening, there'll be the option to visit a traditional hammam."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Experience Casablanca and Rabat",
+      "description": ": Today starts with a drive to Casablanca followed by a visit to Casablanca's Hassan II Mosque, the seventh largest mosque in the world and the largest on the continent of Africa. Built in honour of the King's 60th birthday, this spectacular mosque is a feat of engineering and can hold an astounding 105,000 worshippers. Sitting right next to the water - to honour the Quran, which states \"the throne of Allah was over the water\" - it's a meeting spot for locals to socialise and, of course, worship. Once we've marvelled at the marble exterior, we'll head inside for a tour. Departing Casablanca, we'll head down the coast to Morocco's capital, Rabat. Established as the country's capital in 1912, by the French, Rabat has a distinct history, which dates as far back as 8BC, when settlers arrived in what is now the Chellah district. This evening, you'll have free time to explore the city or walk down to the waterfront where you can watch the sunset over the estuary."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Rabat and journey to Chefchaouen",
+      "description": ": After breakfast, we'll begin our day with a guided tour around the capital. Starting in the historic centre, we'll stroll towards the Hassan Tower and spend time inside the marble interiors of the Mausoleum of Mohammed V. Next, we'll wander the cobbled streets of Kasbah des Oudaias, the fortified area of the city, distinctly infused with Andalucian flavour. Tour finished, we'll break for lunch before journeying on to Chefchaouen. It's a long drive and will take most of the afternoon, arriving into the famous 'blue town' around early evening."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Guided tour to explore Chefchaouen",
+      "description": ": Today we'll delve into the treasures of Morocco's 'blue town', nestled into the Rif Mountains. With its stacked white and blue houses and narrow, winding lanes, Chefchaouen is a prime example of Andalusia's influence over Morocco. After a busy few days in the imperial cities, it offers a welcome slower pace and relaxed atmosphere. From the cobbled medina and the Plaza Uta El Hammam to the red walls of the kasbah and the Grand Mosque, we'll wander through Chefchaouen's highlights before having a free afternoon to explore at your own pace."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Cross the Rif Mountains to Volubilis, Meknes and Fes",
+      "description": ": Crossing the Rif Mountains, this morning we'll make our way to the ancient ruins of Volubilis. Morocco's best-preserved Roman site, Volubilis was once the capital of the province of Mauritania Tingitana and home to 20,000 people. We'll take the chance to explore the UNESCO World Heritage Site before continuing on to Meknes. Once the heart of the Moroccan Sultanate, Meknes was built by the tyrant, Moulay Ismail and in its heyday was teeming with opulent palaces and grand gateways. Today, much of Meknes has crumbled, though its regal essence remains. We'll get a flavour for it with a visit to the old granary of Heri es-Souni and the Mausoleum of Moulay Ismail, before departing for Fes, our base for the next two nights."
+    },
+    {
+      "dayNumber": 7,
+      "title": "The highlights of Fes",
+      "description": ": Today, we'll wake up in the oldest of Morocco's imperial cities, Fes. In its golden age, Fes was a hub of art, philosophy and trade and is still referred to as Morocco's artisan capital. We'll begin in Fes el Jadid - known as 'new Fes' despite dating back to the 13th century. The highlight of this morning is the Royal Palace where we'll stop to marvel at the intricate golden doors (the palace isn't open to visitors but is still a Morocco must-see for its majestic exterior alone). Once we've explored Fes el Jadid, we'll head out and up to the viewpoint at Borj Nord for a look at the sprawling city from above. After lunch, we'll delve into Fes el-Bali, the oldest quarter of the city, with a guided tour. We'll meander through the medina and souks - where you'll see weavers, coppersmiths and tanners at work and be tempted by the smell of Harira soup and Berber pancakes. We'll also drop by the al-Attarin Madrasa, one of the most beautiful medieval colleges in Morocco."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Drive over the Middle Atlas to Erfoud",
+      "description": ": Today we'll spend the full day on the road to Erfoud. As we wind our way up the Middle Atlas, we'll pass by the small mountain village of Azrou, which translates from Berber as 'the rock'. Up here in their mountain stronghold, the fiercely independent Berbers - the Lords of the Atlas - live by their own traditions. The Berber way of life is unique and lost to most of North Africa and music, dance, language, and religion are far removed from the rest of the Arab world. We'll continue into Berber sheep raising country and head towards Timadite and over the Col du Zad, before crossing the Tizi Talghemt Camel Pass and continuing via the Gorge du Ziz to Er Rachidia. Finally, we traverse a broad plateau past Meski Oasis, the so called 'Blue Spring' that borders the arid desert plains. Our last stop for today will be the desert settlement of Erfoud."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Fortified villages and overnight camp in the desert at Erg Chebbi",
+      "description": ": Our day starts by following the meandering Ziz River towards Rissani where you'll notice the landscape begin to change as we edge closer to the dramatic dunes of the Sand Sea. The holy city of Rissani is the homeland of the Alaouite dynasty, who reigned in the region for 300 years. This morning, we'll take the opportunity to visit the founder's mausoleum before we explore the local ksour (fortified villages). In the afternoon, we'll continue to Merzouga, a small village on the outskirts of the desert. From here, we'll swap bus for camels and journey on into the dunes of Erg Chebbi. Our home for tonight is right here in the desert, at a Berber camp, where we can relax by the campfire and fill up on traditional tagine. Our camp is basic but comfortable - the twin share tents are fully equipped with full size single beds with mattresses, blankets, and pillows and there are charging points for phones and cameras. The camp site is right on the edge of the magnificent sand dunes, after a refreshing glass of mint tea you may wish to take a stroll amongst the dunes to witness the sun setting over the Sahara Desert, the light at this time in the late evening casts shadows over the dunes making them a photographers dream. Dinner is served under the stars after which we retire to a campfire. Note that the camp has shared bathroom facilities, showers are simple and hot water and good water pressure aren't guaranteed."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Sunrise at Erg Chebbi and travel to Todra Valley",
+      "description": ": This morning, we'll wake up before dawn to watch the sun rise over the Sahara from the top of the sand dunes. After breakfast, we'll depart the desert by camel, a true Moroccan experience. Our route today takes us along the southern slopes of the Atlas to Tinerhir. We'll have time to explore the area and wander the lush grounds that line the banks of the river, an oasis of date palms, olive groves and fruit orchards. Finally, we'll continue on to our hotel in the upper Todra Valley, where we'll spend two nights."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Walk in Todra Gorge",
+      "description": ": Today there'll be the opportunity to join our tour leader on an optional walk to Abdelali viewpoint, from where there are excellent panoramas across to the Jebel Sahro and down into the gorge. There are two hiking options, a circular walk which is 10km (around 6 miles) in length and a hike to a viewpoint at Abdelali and back which is 6km (3.7 miles). We usually undertake the 10km (6.2 mile) hike, however the route is exposed to the elements, so depending on the weather, we might opt for the shorter option. The trek begins in the middle of the narrow gorge following the main road before joining a small mule path going up gradually along a ravine. The path climbs about 500m (550 yards) to a small pass with views looking down the gorge and the Jebel Sahro range. The descent is 550m and is again on a rocky, narrow path that can be steep in some sections. The trek is considered as moderate-to-challenging and in high temperatures it can be more demanding. Walking boots with ankle support are essential. The shorter 6km walk follows the main road of the gorge before joining a small mule path, gradually working our way up the ravine to the viewpoint, where we're treated to vistas of the Jebel Sahro range and down into the gorge. If you don't fancy the hike, you might like to explore the gorge valley floor, following the path of the river, or take in the scenery from one of the nearby cafes."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Valley of 1000 Kasbahs and Ait Ben Haddou",
+      "description": ": This morning, we head west to make a short stop in El Kelaa des M'Gouna. Famous for its roses, the town is blanketed by a landscape of scented blooms each spring, which are harvested in the May during the Festival of Roses. The blossoms are used to make rosewater, which is sold throughout the Islamic world. Driving on through the Dades Valley, we enter the Valley of 1000 Kasbahs, an oasis land teeming with kasbahs and towns that each have their own distinct character. You'll notice the mud and straw structures become more ornate as we travel further along the valley. This afternoon, we'll visit the fortified Berber settlement of Ait Ben Haddou, a UNESCO World Heritage Site widely considered to be one of Morocco's most picturesque spots. You might recognize the ornate crenelated towers from scenes in Jesus of Nazareth and Lawrence of Arabia, which both took advantage of the dramatic setting."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Draa Valley, Tamgroute and Erg Chegaga",
+      "description": ": Today, we head back into the desert and drive through the Draa Valley, an oasis lined with Berber villages and ruined kasbahs and backed by lush green plains and the snow-capped mountains beyond. We'll stop at a pottery cooperative in Tamgroute, a historical town known for its 15th-century library that houses books over 700 years old. After a visit to the library, we'll journey on to Mhamid and swap our bus for 4WD jeeps to continue off road and into the sand dunes of the Sahara. After getting settled into our camp in Erg Chegaga, our tour leader will take us on a walk up the dunes for a vista of the surrounding desert, telling us a bit about the flora and fauna found amongst the sands. Our home tonight is a traditional nomad camp with tents that sleep 3-5 people each, bedding is provided. The camp has a restaurant tent where we can eat a dinner and breakfast prepared by the crew."
+    },
+    {
+      "dayNumber": 14,
+      "title": "Explore the Sahara, Foum Zguid and Tata",
+      "description": ": Today, we'll leave the camp after breakfast and take 4WDs to the oasis town of Foum Zguid. The drive is 90km and will take between three and four hours. As we're driving through desert tracks, the road will be bumpy, but we'll be rewarded with the surreal experience of driving across desert plains without a human or animal in sight. At Foum Zguid, we'll board our bus and start our journey to Tata. Along the way, we'll stop at Tissinnt, where we'll take in the waterfalls and meet the local nomads of the area. On arrival in Tata, our destination for tonight, we'll have time to soak in the town's pink facades and laidback charm."
+    },
+    {
+      "dayNumber": 15,
+      "title": "Cross the Anti-Atlas to Mirleft",
+      "description": ": This morning, we'll drive through the Anti-Atlas, a wild landscape of barren desert and rocky outcrops. We'll pass by small villages and stretch our legs with a walk through the Taghjijt Valley, an oasis of palms, and buy dates to snack on from a local farmer before we stop at the gateway of the Sahara, Goulemin. We'll have lunch in the small town and stretch our legs with a walk through the Taghjijt Valley, an oasis of palms, and buy dates to snack on from a local farmer. As we continue our journey, the landscapes become greener and lusher - a sure sign that the Atlantic Ocean is almost in sight. Tonight, we'll settle into the small town of Mirleft, just off the coast, where we'll have free time to explore the beach, a ten-minute walk from our hotel, or relax by the pool before dinner."
+    },
+    {
+      "dayNumber": 16,
+      "title": "Sous-Massa National Park and Taroudant",
+      "description": ": Today we'll drive north through the Sous Valley, passing through forests and plantations to the Sous-Massa National Park, a reserve set on the Sous-Massa River and the Atlantic Ocean. The park is home to several traditional Berber villages, but the real attraction is the vibrant bird life - keep your eyes peeled to spot the Bald Ibis that call the park home. Afterwards, we'll continue to Taroudant, the former capital of the south of Morocco, where our tour leader will give us a short orientation. With its golden rampart, this Amazigh town is one of the most beautiful in Morocco's south. Take a while to stroll in the shade of the towers and delve into the souk, where you'll be tempted by stalls selling cooked meats and flatbreads that fill the air with a smoky aroma - the perfect way to finish a long day."
+    },
+    {
+      "dayNumber": 17,
+      "title": "Travel the Atlantic Coast to Essaouira",
+      "description": ": This morning, we'll set off on the four-hour drive to the historic port town of Essaouira, where we'll spend the next two nights. Arriving in time to have lunch, we'll head to a traditional Moroccan restaurant or down to the port to taste the fresh seafood cooked over charcoal by the local sellers. Our tour leader will take us on a walking tour to help us get our bearings, dipping into the ancient walls of the town and into the market. We'll be staying in a traditional riad - a Moroccan house built around a central courtyard. Riads are popular and can get booked up quickly so at times we might stay in an alternative accommodation to the one listed, we'll always ensure the quality is the same standard."
+    },
+    {
+      "dayNumber": 18,
+      "title": "Full day in Essaouira",
+      "description": ": Today is free to spend as you wish in the charming port town of Essaouira. A day is just enough time to settle into the relaxed but lively way of life here. Head into the old walled medina into the maze of streets lined with craftsmen selling souvenirs from handmade leather belts to jewellery to wooden boxes inlaid with mother of pearl. Outside of the medina, you can take in the Mellah (the old Jewish Quarter) before sinking your feet into the golden sands of the beach and watching as the fishermen return to shore with their day's catch."
+    },
+    {
+      "dayNumber": 19,
+      "title": "Return to Marrakech",
+      "description": ": After breakfast, we'll say goodbye to the coast and head inland back to Marrakech. We'll arrive around lunch time and the afternoon will be free to spend as you wish. In the evening, we'll have a final group meal and toast to the end of our Moroccan adventure. To make the most of our final night in the Red City, we'll stay in a traditional riad. If our usual accommodation is fully booked, we'll ensure the alternative is up to standard. 26"
+    },
+    {
+      "dayNumber": 20,
+      "title": "Trip ends in Marrakech",
+      "description": ": Our tour of Morocco ends at our hotel in Marrakech. There are no activities planned today, so you're free to depart at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer, you need to depart from Marrakesh Menara Airport (RAK)."
+    }
+  ],
+  "map": ""
+}

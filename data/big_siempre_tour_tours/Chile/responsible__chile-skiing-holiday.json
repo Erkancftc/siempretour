@@ -1,0 +1,45 @@
+{
+  "destination": "Chile",
+  "mainPhoto": "",
+  "id": "chile-skiing-holiday",
+  "tourName": "Chile skiing holiday",
+  "placesVisited": "",
+  "generalInfo": "On this 7-day itinerary, you'll enjoy a private tour of Santiago's historic centre, the famous port town of Valparaíso, and an organic vineyard with some of the best grapes in the world. Finally, you will head to one of the best ski centres in the Andes to enjoy an all-inclusive service as you hit the slopes! <br/><br/>Ski season in Chile is July-September although this can vary slightly season to season. The resort has a ski school for adults and children for skiing and snowboarding and also offers guided ski tours around the nearby mountains. The resort also welcomes people with physical or mental disabilities for adapted skiing.<br/><br/>Short itinerary:<br/>Day 1: Airport – Santiago / Private “City Tour”.<br/>Day 2: Santiago – Private Tour “Valparaiso &amp; Wine”.<br/>Day 3 to 6: Santiago – Portillo Ski Center. <br/>Day 7: Portillo Ski Center – Santiago.  <br/><br/>Included: <br/>- 2 nights at the Eco Boutique Hotel Bidasoa - Breakfast only. Food samples provided on day 1. <br/>- 4 nights at the Portillo Ski Center - All inclusive.<br/>- All transfers and activities mentioned in the itinerary. <br/>- Unlimited access to rope bridges, heated pool, sauna, jacuzzi, weights room, gym, and yoga classes, cinema, games room, activities for kids, young people and adults, nightclub, piano bar, ski and boot lockers at Portillo Ski Center. <br/><br/>Not included:<br/>- Any meals not specified in the itinerary<br/>- Travel insurance <br/>- International flights and airport taxes<br/><br/>",
+  "durationDays": "7",
+  "price": "4985",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "SANTIAGO PRIVATE CITY TOUR - When you arrive at Santiago airport, a private van will be waiting to take you to your hotel. Depending on your arrival time, once you’re settled into the hotel we’ll begin a City Tour of Santiago at 2 pm approx. We’ll visit various places of significance such as the seat of the government, the multicultural square Plaza de Armas, the picturesque Central and la Vega Market, the San Cristobal Hill and some historic areas including Lastarria, Bellas Artes, and Santiago Centro. Finally, you will be taken back to your accommodation."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "VALPARAISO & WINES - PRIVATE TOUR - On day 2 you'll head to the coast to explore the historic port town and UNESCO World Heritage Site of Valparaíso. Try one of the local trolleybuses or elevators to climb the hills. Here you can also enjoy the street art that makes the city famous as well as the views of the hills, port and ocean. After lunch, you'll return inland to the vines of the Casablanca Valley, world-renowned for its wine production. We'll stop off at the Emiliana vineyard (or similar) for a tour around ts incredible organic vines, where we’ll have the opportunity to sample several types of grape along with locally-produced cheese or chocolate. finally we will return to Santiago."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "PORTILLO SKI CENTER - After breakfast at your hotel in Santiago, a van will be waiting to take you to the Portillo Ski Center, located in the Andes province. The center is considered to be an excellent skiing destination due to its first-class facilities and services. It has 14 rope bridges, 35 pistes and 500 hectares of land, making it an unmissable destination for lovers of skiing! At the centre, you will be able to enjoy 4 nights and 5 days of an all-inclusive programme, including 4 daily meals (breakfast, lunch, tea and supper), unlimited access to the rope bridges and all the resort’s facilities such as heated swimming pool, saunas, jacuzzis, yoga classes and more. You will enjoy both sport and relaxation activities."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "AIRPORT TRANSFER - On the final day, your transfer will pick you up from the ski centre to take you to the airport. We hope you enjoyed your trip!"
+    }
+  ],
+  "map": ""
+}

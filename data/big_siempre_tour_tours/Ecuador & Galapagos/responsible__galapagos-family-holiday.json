@@ -1,0 +1,65 @@
+{
+  "destination": "Ecuador & Galapagos",
+  "mainPhoto": "",
+  "id": "galapagos-family-holiday",
+  "tourName": "Galapagos family holiday",
+  "placesVisited": "Quito, Isla San Cristobal, Floreana Island, Isla Santa Cruz, Charles Darwin Research Station",
+  "generalInfo": "The Galapagos Islands are home to wildlife and landscapes found nowhere else on earth, and this family holiday presents a fantastic opportunity to immerse yourself in this incredible living museum. The whole family can enjoy watching an all-star cast of birds, reptiles and mammals in their natural environment as they feed, doze and play around the mountains and coastline of Isla San Cristobal and Isla Santa Cruz. <br/><br/>There are too many incredible creatures to mention, but highlights include majestic giant tortoises, Galapagos crabs, marine iguanas, frigate birds, whales, dolphins and sharks. You could also choose to get up close and personal under the water by snorkelling with playful sea lions. <br/><br/>On this trip you’ll be joined by likeminded families from across the world. An experienced guide will lead your trip and help both the adults and the kids make the most of the experience. No physical preparation is necessary and all activities will be within reach of each member of the family. <br/>",
+  "durationDays": "8",
+  "price": "2090",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Quito.",
+      "description": "Bienvenidos! Welcome to Ecuador. Your adventure starts with a welcome meeting at 5 pm tonight in Quito – Ecuador’s capital, sitting high in the Andean foothills at an altitude of 2850 m. If you arrive early, maybe visit the Church of the Society of Jesus (Compania de Jesus), join a market tour Urban Adventure or walk down the famous Calle La Ronda – Quito's oldest street. Tonight, maybe join your fellow travellers and their families for dinner and get to know each other."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Isla Santa Cruz.",
+      "description": "Today, you’ll take the short flight to Isla Santa Cruz, one of the main hubs of the Galapagos. When you arrive, visit the Highlands where you can see giant tortoises roaming free in their natural habitat. These fascinating animals can weigh as much as 400 kg (and naturally, are very popular with the kids!). Then, continue to the town of Puerto Ayora. Join your local leader on a short walk around town to get your bearings then enjoy some free time to continue exploring at your own pace."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Isla Isabela.",
+      "description": "Say goodbye to Santa Cruz and jump on a speedboat to Isla Isabela. Known for wildlife like penguins and sea lions, this island straddles the equator and is the largest island in the Galapagos archipelago. When you arrive this afternoon, set out on a family kayaking adventure. Navigate the distinct volcanic rock formations as you paddle on clear, turquoise waters, and be sure to look out for local wildlife and marine life along the way! Tonight, maybe wander through town and find a local restaurant for dinner."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Isla Isabela.",
+      "description": "This morning, hop on a small Zodiac boat and cruise to Las Tintoreras (Shark Alley) to look for blue-footed boobies and the Galapagos penguin. Then, take a short walk on this isolated islet and learn how it’s a popular iguana nesting site, before swapping your hiking boots for a snorkel. Dive under the clear water and swim with colourful fish and green sea turtles through the winding underground lava tubes. After, dry off and return to Isla Isabel. When you arrive, visit the Arnaldo Tupiza Tortoise Breeding Centre to see giant tortoises in all stages of their development. After learning about the thousand tortoises that live here, you’ll head to a brackish lagoon to observe flamingos. Later today, join a local family for a cooking class and learn to make empanadas for dinner."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Isla Isabela.",
+      "description": "Start your last day on Isla Isabela by heading to the Sierra Negra Volcano – one of the Galapagos’ most active volcanoes and the world's second-largest crater! When you arrive, you'll set off for a family-friendly hike to explore the unique landscapes and take in the views. After your hike, you’ll have some free time to find a local cafe for lunch. This afternoon, maybe go swimming and relax at Concha de Perla Beach. Known for its beautiful lagoons full of mangroves, this is a great spot to go for a walk along the sandy shore or snorkel among the vibrant coral reefs."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Isla Santa Cruz.",
+      "description": "This morning, take a speedboat back to Isla Santa Cruz. When you arrive in Puerto Ayora, visit the Charles Darwin Research Station. Then, join a local artist who’s passionate about sustainability during a hands-on creative activity. Using plastic collected from the local beaches, you'll learn how waste can be transformed into meaningful art, while gaining insight into ocean conservation efforts. Tonight, maybe find a local restaurant for dinner – your local leader will have the best recommendations."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Quito.",
+      "description": "After breakfast, board a plane and make the return flight back to Quito. When you arrive, the rest of the day is free for you to explore at your own pace – maybe see the city from above on the teleferiqo sky cable cars. Tonight, maybe join your group tonight for one last meal together and toast to an amazing adventure."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Quito.",
+      "description": "With no activities planned for today, you can depart at any time. If you are staying in Quito longer, maybe wander the Otavalo Indigenous Market and Condor Park or see a performance at the Ballet Folklorico Ecuatoriano de Jacchigua. Your booking agent will be able to help you if you’d like to stay longer, just speak with them ahead of time!"
+    }
+  ],
+  "map": ""
+}

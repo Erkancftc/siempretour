@@ -1,0 +1,55 @@
+{
+  "destination": "Italy",
+  "mainPhoto": "",
+  "id": "umbria-family-holiday-italy",
+  "tourName": "Umbria family holiday, Italy",
+  "placesVisited": "",
+  "generalInfo": "You’ll be based at a villa  in a park with a great outdoor pool and an equestrian center.<br/>From there you’ll  walk through the Nestore valley and go with electric cars to visit vineyards and olive groves  of the Cantine di Monte Vibiano. Then a visit of the wine cellar and a wine tasting for the adults and a bruschetta for the kids. Lunch in the grocery of a small town with tipical products.<br/>In the afternoon you’ll have a lot of fun with a cooking class that will teach you the secrets of Italian food. <br/>The next day you’ll visit the Trasimeno Lake, the biggest lake of Central Italy. A skipper will bring you on a boat to discover the beautiful islands and the lake’s history.<br/>Umbrian country roads are perfect for a ride with hybrid bikes. Your guide will show you small medieval towns and the incredible countryside.<br/>The last day we’ll go to Umbria capital city, Perugia but first of all it’s worth it a visit to the local farmers market in the immediate outskirts of the town and a mozzarella tasting. You’ll visit the incredible underground medieval town, the deep Etruscan well and the Science and Technology Centre that will fascinate kids and adults too.<br/>This is only one of the tours we can arrange for you. We can give you different proposals depending on how many days would you like to stay in Umbria,  the age of the kids  and your preferences.<br/>We have also very good baby sitters if adults wish to do something special by their own.",
+  "durationDays": "6",
+  "price": "2500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Pick up at Perugia train station or airport – transfer to your villa – dinner and overnight"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Walking through the Nestore valley to visit a wine cellar and go uphill with electric cars – lunch in Mercatello – cooking class - dinner and overnight"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Visit of the Trasimeno Lake and its islands with a sail boat"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Biking day through the Umbrian countryside"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "visit of Perugia farmers market and of the old town"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "transfer to Perugia train station"
+    }
+  ],
+  "map": ""
+}

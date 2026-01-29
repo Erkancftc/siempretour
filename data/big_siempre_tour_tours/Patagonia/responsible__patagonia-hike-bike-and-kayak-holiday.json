@@ -1,0 +1,65 @@
+{
+  "destination": "Patagonia",
+  "mainPhoto": "",
+  "id": "patagonia-hike-bike-and-kayak-holiday",
+  "tourName": "Patagonia hike, bike and kayak holiday",
+  "placesVisited": "",
+  "generalInfo": "Designed for the adventurous traveller, this three-week adventure takes you deep into the heart of Patagonia, exploring its most iconic landscapes in an active way. Across one trip, you’ll bike, hike, drive, kayak, and sail through some of South America’s most spectacular scenery.<br/><br/>Arrive in Buenos Aires, Argentina’s striking capital, before flying south to the pristine landscapes of Argentina’s Lake District, dividing your time between San Martin de Los Andes and Bariloche. Explore Lanín National Park and Nahuel Huapi National Park with a rental car, and drive the iconic Route of the Seven Lakes; a breath-taking journey through Patagonia’s alpine scenery. Paddle across the majestic Lake Gutierrez and sail the Andean Lake Crossing into Chile.<br/> <br/>Once in Chile, marvel at the snow-capped Osorno Volcano before heading south to Torres del Paine National Park for a multi-day trek along the famous W Trek, traversing forested valleys, glaciers and granite peaks. <br/><br/>Excursions are a mix of private and small-group tours, led by expert local guides. Accommodation has been hand-picked by us to ensure a comfortable and enriching experience. This trip can be tailored to your interests, so let us know your preferences.",
+  "durationDays": "20",
+  "price": "6056",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Buenos Aires: Begin your active Patagonia adventure in the lively city of Buenos Aires. After settling into your boutique hotel, embark on a private bike tour with a local guide, exploring the city’s diverse neighbourhoods. Cycle through upscale Palermo Chico, walk around Recoleta Cemetery and admire French-style mansions at Plaza San Martin."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "San Martin de Los Andes: Fly south to Argentina’s serene Lake District. Set on the shores of Lake Lacar and surrounded by the Lanin National Park, San Martin de Los Andes is the perfect place for outdoor enthusiasts. Pick up your rental-car and explore this lakeside town. Choose from one of the many well-marked hiking trails in the national park, and pass through ancient araucaria forests, beautiful lakes and views of the Lanin Volcano."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Bariloche: Self-drive to the alpine town of Bariloche via the iconic Route of the Seven Lakes, stopping for short hikes along the way. Make sure to hike to Cerro Campanario for one of Patagonia’s most sweeping panoramas overlooking Nahuel Huapi National Park. The next day, paddle across the calm waters of Lago Gutierrez on a half-day kayak tour, surrounded by mountains and native forest views."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Puerto Varas: Cross into Chile, on the famous Andean Lake Crossing, sailing past turquoise waters and snow-capped volcanoes. Arrive in Puerto Varas, the gateway to Chile’s Lake District. On a full-day excursion visit Petrohue Falls and ascend Osorno Volcano for panoramic views of the lake, river and surrounding volcanoes."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Torres del Paine: Journey deeper into Patagonia and fly to the charming port town of Puerto Natales. Embark on an unforgettable journey through Torres del Paine National Park, combining the iconic highlights of the W trek with the comfort of Eco Camp’s sustainable suite domes. Hike into the French Valley, navigate by boat to Grey Glacier to see its majestic ice formations and ascend to the base of the towers for that iconic view of the granite spires. Over the five days, cover approximately 38 miles with your expert local guide and experience Patagonia’s superlative environment."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Puerto Natales: Transfer to Puerto Natales and embark on a full-day boat navigation through Patagonia’s hidden fjords, ending at the impressive Balmaceda and Serrano Glaciers."
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "El Calafate: Cross the border into Argentinian Patagonia by public bus. An affordable and eco friendly way to admire the region’s dramatic landscapes. Spend three nights in El Calafate, gateway to the Southern Patagonia Ice Field and spectacular Perito Moreno Glacier. Venture off-the-beaten path on a full-day tour of the remote Cerro Mayo and Cerro Negro glaciers, ending at the iconic Perito Moreno Glacier. The next day, delve into Patagonia’s cultural past on a half-day excursion, tracing the stories of early explorers and their encounters with the native Tehueleche people."
+    },
+    {
+      "dayNumber": 19,
+      "title": "",
+      "description": "Buenos Aires: Say goodbye to Patagonia and fly north to Buenos Aires, where you’ll spend one final night before heading home. If you would like to make the most of your time in the capital, we can arrange a guided tour or recommend some wonderful places to eat- just let us know your preferences."
+    }
+  ],
+  "map": ""
+}

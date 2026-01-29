@@ -1,0 +1,65 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "samburu-and-masai-mara-safari-kenya",
+  "tourName": "Samburu and Masai Mara safari, Kenya",
+  "placesVisited": "",
+  "generalInfo": "A life-enriching journey into some of Kenya’s less well-known protected areas, with the opportunity to enjoy exceptional wildlife viewing and authentic, immersive cultural encounters. Plus, you’ll get to see the difference that conservation initiatives are making. Choose to follow our suggested safari (as outlined below), featuring the very best of experiences, or ask our team to adjust the programme to your specific preferences and create your perfect tailormade safari experience, far from the beaten path.",
+  "durationDays": "8",
+  "price": "6090",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "On arrival you will be transferred from Jomo Kenyatta International Airport to Wilson Airport (both in Nairobi). One-hour* scenic flight to Samburu, to be met by our Samburu guide for your camp transfer or game dive (approximately 1.5 hours*). Enjoy an afternoon game drive and sundowners in the Sera Community Conservancy."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Get up to an early morning black rhino tracking experience followed by a visit to the Kisima Hamsini Singing Wells. Enjoy a picnic lunch and return to camp to relax by the swimming pool. Take part in a Candlelit bush dinner with traditional Samburu dancing."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Join your guide on a Morning game drive (including a bush breakfast) en route to Saruni Samburu, looking out for the Samburu Special Five. Arrival at Saruni Samburu in time for an al fresco lunch overlooking the Kalama Conservancy. Relaxing afternoon in the lodge (including a complimentary half hour back & neck massage in the Samburu Wellbeing Space). Short evening game drive culminating in sundowners at a waterhole, before a starlit dinner back at the lodge."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Continue to explore the wonders of Samburu with a morning game drive along the Ewaso Nyiro River. Enrol in our Warrior’s Academy for the afternoon and immerse yourself in traditional Samburu culture. Evening game drive in Kalama Conservancy, ending with a starlit bush dinner followed by a night drive back to the lodge."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Depart Samburu on your morning* flight and arrive in the Masai Mara an hour and a half* later. Enjoy your first Mara game drive with a picnic lunch, or head to Basecamp Wilderness to relax and refresh. Afternoon game drive in the private Mara Naboisho Conservancy followed by dinner in camp and an optional night game drive."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Early morning game drive, returning to the camp for lunch. Afternoon game drive to explore the secret haunts of elusive leopards or majestic lion prides in this untamed paradise. Bush dinner under the vast African sky, with traditional Maasai singing and dancing. Return to the camp, where the wild sounds of the night will serenade you as you drift into a peaceful sleep."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Enjoy guided bush walks through the saddle valley surrounding Basecamp Wilderness, or a game drive in search of the exceptional wildlife of Naboisho Conservancy. Private dinner in the camp with just your partner or family – a chance to catch up on all the adventures you’ve shared."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Drive through the Mara Naboisho conservancy to the airstrip, looking out for wildlife on the way. Arrive in Nairobi with option to have dinner at the Talisman or Carnivore restaurant (flight times permitting; dinner on your own account) and later transfer* to Jomo Kenyatta International Airport,"
+    }
+  ],
+  "map": ""
+}

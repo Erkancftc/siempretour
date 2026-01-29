@@ -1,0 +1,75 @@
+{
+  "destination": "Chile",
+  "mainPhoto": "",
+  "id": "romantic-10-day-getaway-to-chile-cities-mountains-beaches",
+  "tourName": "Romantic 10-Day Getaway to Chile: Cities, Mountains & Beaches",
+  "placesVisited": "Santiago (City), San Pedro de Atacama, Iquique",
+  "generalInfo": "On this 10-day tour of Chile, experience the best of the country’s most romantic destinations in complete luxury. From the gorgeous beaches of Iquique’s Pacific Coast to the vast beauty of the Atacama Desert, Chile is the perfect destination for a romantic getaway. Attend a riveting Chilean cultural performance accompanied by a traditional gourmet dinner, sip on the country’s finest vintages in the Maipo Valley, indulge in a hot air balloon ride over the Atacama Desert.",
+  "durationDays": "10",
+  "price": "3,700",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Santiago – Cultural Show with Dinner",
+      "description": "You will arrive at the airport in Santiago, and your private driver will greet and transfer you to your luxurious accommodation in the heart of the Lastarria neighborhood. You will be captivated by the distinctive Latin feel of the city as you ride through the city. After you have had time to settle in, you will meet your driver in the lobby to begin your first official tour of Santiago. Today, you will attend a traditional Chilean cultural performance of song and dance that will be accompanied by dinner. After dinner, you will have the chance to experience Santiago’s infamous nightlife."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Santiago – Santiago’s Top Sites",
+      "description": "This morning, your guide will lead you on a tour of the city. The tour will also be customized to your interests. Therefore, no two tours are ever identical. Your tour may begin in the trendy Bellavista neighborhood, where you and your partner can stroll through the streets and admire the variety of unique street art that lines the colorful buildings. Soon, you will arrive in the historic neighborhood of Lastarria. In the afternoon, you will have your choice of touring one of Santiago’s finest museums. These can include the Chilean Museum of Pre-Columbian Art or the Museum of Memory and Human Rights."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Santiago – Cerro San Cristobal",
+      "description": "You will begin your day with one of Santiago’s most iconic attractions: Cerro San Cristobal. After breakfast, you will board the city’s famed funicular and ascend to the summit of the hill. From the top, you can admire spectacular views of the entire city of Santiago and the snow-capped Andes Mountains. Your tour will allow you to explore more of this incredible landscape. Soon, you will be led to a clearing, where a romantic picnic will have been set out for you and your partner. When you are ready, you will descend from Cerro San Cristobal and have the rest of the afternoon to explore Santiago at your leisure. In the evening, your guide will lead you to the top of Santa Lucia Hill."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Santiago – Valparaiso and Viña del Mar",
+      "description": "Today, you will embark on a full-day excursion to the city of Valparaiso and the town of Viña del Mar. To reach these enclaves, you will board your private coach for a quick transfer to the port city of Valparaiso. Upon your arrival, your guide will lead you on a tour of the city’s most significant sites. Once you have had some time to explore on your own, you will transfer to the oceanside town of Viña del Mar. Upon your arrival, your guide will lead you on a quick tour of the area’s noteworthy sites, including the infamous Flower Clock, before leaving you to relax on the beach."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Maipo Valley – Romantic Winery Tour",
+      "description": "This morning, you will transfer to the Maipo Valley, which is Chile’s top wine region. You will arrive at your opulent accommodation, where you will have some time to relax and settle in to your new surroundings. When you are ready, you can meet your guide to begin your official exploration of this incredible region. You will begin your explorations of the Maipo Valley with a tour of the area’s top wineries. During your tour, you will have the exclusive opportunity to meet the winemakers. In the afternoon, you and your companion will partake in a marvelous wine tasting of the region’s highest-quality vintages."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Maipo Valley – Natural Hot Springs",
+      "description": "This morning, you can indulge in a leisurely trek through the Maipo Valley. At the conclusion of your hike, you will be transferred to some natural hot springs. You and your partner can relax with an afternoon spent enjoying this natural phenomenon. During your dip in the healing waters of the spa, you will be offered a delicious array of regional wine and cheese. When you are ready, you can transfer to your accommodation and spend the rest of the day at your leisure."
+    },
+    {
+      "dayNumber": "7",
+      "title": "San Pedro de Atacama – Desert Stargazing",
+      "description": "This morning, you will fly to the Atacama Desert. Upon your arrival, your private driver will greet and transfer you to your luxurious ecolodge and spa accommodation in the heart of San Pedro de Atacama. Once you have had sufficient time to freshen up, you will partake in a bike tour through the vast Atacama Desert that will have you stopping at the region’s most significant sites. In the evening, your guide will lead you on a tour of the Moon Valley, which has been named for its likeness to the moon’s surface."
+    },
+    {
+      "dayNumber": "8",
+      "title": "San Pedro de Atacama – Hot Air Balloon Ride",
+      "description": "This morning, you will have a hot air balloon ride at sunrise. Your hot air balloon will slowly ascend to the sky, providing you with extraordinary views of the boundless Atacama Desert. Once your ride has concluded, you will enjoy breakfast before transferring to the sand dunes of the Atacama. Upon your arrival, you will partake in a sandboarding experience. Once you have had your fill of sandboarding, you will have the remainder of the evening to spend at your leisure."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Iquique – Relax on Playa Cavancha",
+      "description": "This morning, you will fly to the beachside city of Iquique. Known for being a popular Chilean vacation destination, Iquique is the perfect place to end your trip to Chile. When you arrive, your driver will transfer you to your accommodation, where you can have some time to relax. When you are ready, your guide will lead you on a brief tour of Iquique’s historic city center before transferring you to the Playa Cavancha beach. You can spend the afternoon relaxing on the beach and enjoying your final day in Chile. In the evening, your guide can provide you with excellent dining recommendations."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Iquique – Departure",
+      "description": "Today, you will enjoy your final breakfast in Chile before having the morning to spend at your leisure. Soon, you will transfer to the airport for your flight home."
+    }
+  ],
+  "map": ""
+}

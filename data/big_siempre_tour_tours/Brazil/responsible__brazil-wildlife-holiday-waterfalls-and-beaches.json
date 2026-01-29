@@ -1,0 +1,50 @@
+{
+  "destination": "Brazil",
+  "mainPhoto": "",
+  "id": "brazil-wildlife-holiday-waterfalls-and-beaches",
+  "tourName": "Brazil wildlife holiday, waterfalls and beaches",
+  "placesVisited": "",
+  "generalInfo": "Explore the epic wildlife of the Pantanal, the crystal-clear waters of Bonito, world-famous Iguazu Falls, and the paradise beaches and bays of the Green Coast, all the way through to Rio de Janeiro.",
+  "durationDays": "16",
+  "price": "4500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "PANTANAL - Start your journey in the largest wetlands on the planet, the mighty Pantanal. During your time here you will discover a huge diversity of flora and fauna by river boat, canoe, walking trails, 4x4 jeeps and even on horseback."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "BONITO - Continue by land to another natural highlight of Brazil; the crystal-clear waters of Bonito. Here you will suit-up with our snorkelling gear and float gently downstream, admiring huge numbers of colourful fish beneath the water, as monkeys watch-on from the trees above. On the way we will also go hiking along a trail of 12 beautiful waterfalls at Boca da Onça, with a chance to swim in their clean and clear pools."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "IGUAZU FALLS - Consisting of over 300 individual waterfalls, and surrounded by rainforest, there is nowhere else quite like Iguazu. Straddling the border between Brazil and Argentina, we will fully explore both sides to immersive yourselves in this natural wonder."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "PARATY - After a flight to Sao Paolo, you will be driven to the coastal town of Paraty, a preserved colonial gem and the perfect place to explore the beaches, coves, jungles and waterfalls of the Green Coast. Take a small boat trip to neighbouring bays, kayak to a mangrove forest, take a jeep tour into the mountains, or simply explore the cobblestone streets of this gorgeous town."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "RIO DE JANEIRO - From Paraty we drive to Rio, known as 'The Marvelous City' for good reason. Here you can choose an evening tour with our local guide to experience Rio's famous nightlife, visits to the iconic Sugarloaf and Corcovado Mountains (including the Statue Of Christ The Redeemer), hike to an alternative view of the city through the rainforest, or simply just relax by the beach!"
+    }
+  ],
+  "map": ""
+}

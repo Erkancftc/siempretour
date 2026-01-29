@@ -1,0 +1,60 @@
+{
+  "destination": "Peru",
+  "mainPhoto": "",
+  "id": "savor-the-excellent-cuisine-of-peru-immersive-culinary-tour",
+  "tourName": "Savor the Excellent Cuisine of Peru: Immersive Culinary Tour",
+  "placesVisited": "Lima, Cusco, Machu Picchu, Aguas Calientes, Sacred Valley, Puno, Lake Titicaca",
+  "generalInfo": "Feast on the enticing charcoal-grilled potatoes and crispy meat of ancient civilizations. Dig your toes into sandy beaches as you crunchy into the citrusy lemon-lime flavors of ceviche . Clink your glasses of frothy pisco sour and look out on the mystic Sacred Valley. When you travel to the distant land of Peru, you are sure to be dazzled by the lush landscapes, enthralled with riveting tales of centuries past, and of course, enticed by some of the world's finest cuisine.",
+  "durationDays": "7",
+  "price": "2,600",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Lima – International Arrival and Sunset Dinner Along the Pacific",
+      "description": "As you look out the airplane window, your gaze will fall towards the shimmering waters of the Pacific Ocean outstretched below. The warm Peruvian sun glistens over the crashing riptide as colorful birds flock to the jagged cliffs nearby. After landing at Lima's International Airport, you will board your private ground transport to the vibrant downtown. Soon, you will arrive in the heart of Lima's opulence and prestige as you round the verdant parks along water's edge to the esteemed neighborhood of Miraflores. There, you will settle in at your luxury hotel and enjoy a steeping cup of traditional mate de coca herbal tea. Then, after a bit of uninterrupted rest, you will venture into the city in the evening to admire the whimsical cobbled streets of the historic district. Shady palm trees at the Plaza de Armas provide the ideal resting place as you marvel at the exquisite colonial architecture of Lima's grand basilica, ornate wooden balconies, and intricate stone fountains. In the evening, you will return to the soothing sounds of crashing waves. An elegant three-course meal awaits you, including Peru's beloved escabeche , a regional favorite of exquisitely marinated chicken and pickled vegetables."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Lima – Private Ceviche Cooking Class",
+      "description": "In the morning, you will awake for a thrilling day in the nation's capital, filled with sightseeing and culinary excellence. After a light breakfast at your hotel, you will meet your private tour guide in the renowned Parque del Amor to embark on a tour of the city's highlights. As a group, you will partake in a scenic bike ride along the coastline as exotic birds coo overhead. You will weave past the stoic Miraflores Lighthouse as waves lap fervently along the beaches below. Children pull kite strings as they navigate strong gusts of wind while families picnic in the grassy parks nearby. Before long, you will be greeted by the electric red, orange, and yellow hues of the flamboyant Barranco District. You can cross the famed Puente de los Suspiros bridge to admire historic Spanish mansions refashioned as trendy bars and restaurants. In between buildings, street art pops for all to adore. In the afternoon, you will roll up your sleeves for a thrilling ceviche cooking class alongside a master chef. Together, you will chop pepper and onion and saute locally-sourced seafood. As the course concludes, you can sink your teeth into this national gem paired with a glass of sweet red wine."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Cusco – Cuy Sampler Event and City Tour",
+      "description": "On the following day of your Peruvian adventure, you will escape the modern metropolis of Lima for a cultural exploration of epic proportions when you venture to the heart of the Inca Empire. After a short flight from Lima's International Airport, you will touch down in captivating Cusco city where travelers from around the world convene en route to the famed ruins of Machu Picchu. In the morning hours, you will join your seasoned guide on a tour of the city's colorful and boisterous San Pedro Market. You can banter with locals as you peruse booth after booth of artisan crafts, fresh produce, and enticing freshly squeezed fruit juices. You can sip on a local favorite, maracuya , as you stroll amongst the white stucco neighborhood of San Blas and marvel at Cusco's Cathedral. Later that evening, you will take part in a local culinary sampler event at a five-star restaurant in the Plaza de Armas. You will sit down for a luxurious three-course meal paired with an exquisite glass of red wine and sample Peruvian staples, including Cusco's authentic delight: cuy , or guinea pig, grilled to perfection and served with a hearty dose of peppers and potatoes."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Machu Picchu/Aguas Calientes – UNESCO World Heritage Site",
+      "description": "The following day, your expedition will take you to new heights, quite literally as you embark on a summit to the UNESCO World Heritage site of Machu Picchu. Early morning, you be whisked off on a luxury train ride from the neighboring town of Poroy to the base of the acclaimed ruins. As you make your way along the serene Urubamba River, you can look out on the breathtaking terracing and sunkissed rolling hills of the Sacred Valley from the train car's panoramic windows. A cup of mate tea will serve you well as you acclimate to the altitude. A few hours later, you will arrive in the mystical mountain town of Aguas Calientes. Here, your guide will show you to your five-star hotel nestled into the foothills complete with a private balcony. By late morning, you and your guide will wind up jaw-dropping switchback roads before arriving at the legendary ruins themselves. Together, you will marvel at the site's most fascinating features, including Sacred Rock and the Principal Plaza. Then, enjoy some self-exploration to visit other notable sites like the Temple of Three Windows and Group of Three Doors. Meanwhile, you will marvel at the Andes mountains cascading into the distant horizon."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Sacred Valley – Pisco Tasting and Horseback Riding",
+      "description": "The sunlight sparkles on the swift waters of the Urubamba River. Above, the majestic Andean condor spreads its wings, swooping and swerving in search of tantalizing prey. A few hours later, after a romantic return train ride, you will arrive at the fascinating ruins of Ollantaytambo tucked neatly into the Sacred Valley. Here, along with your guide, you will walk amongst the massive stone terracing and careful irrigation system built by the Incas hundreds of years prior as they escaped Spanish invasion in Cusco. Isolated cowbells ring out in the distance of an otherwise tranquil abyss. Then, in the afternoon, you will continue to explore the lush landscapes of the Valley on a picturesque horseback ride. You will gallop through sunkissed fields, past quaint villages, and far-reaching farmlands, to the unassuming yet beautiful town of Pachar. Here, in the illustrious countryside, you can delight in a pisco sour tasting event. A celebrated pisco expert will guide you through several variations of Peru's beloved national drink as you compared the citrusy, lemon-lime flavors of this frothy favorite. Sunset elicits the Valley's true beauty as the grasslands begin to glow at near-dusk."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Puno/Lake Titicaca – Fresh Lake Trout and Uros Islands",
+      "description": "The mesmerizing deep blue waters of Lake Titicaca await you the following day as you venture south. In the early morning hours, you will board a short regional flight from Cusco to the lake's base city of Puno. An ornate basilica flanks the central Plaza de Armas, just a short walk from your luxury hotel accommodations. You will spend the day on a serene boat cruise atop the shimmering lake waters. Surrounding the lake are verdant, undulating hills juxtaposed with the lake's rich blue waters. By noon, you will arrive at the famous Uros Islands, or \"floating islands\" as they're often referred to. The Uros people constructed these fascinating artificial masses as they escaped persecution by the Inca Empire. After stepping foot on the island, you will take part in a reed weaving class where you will learn how locals have maintained their homes for centuries. In the afternoon, you will dock along the shores to indulge in a local feast of fresh trout, sauteed in citrusy lemon dressing, and served with a beautiful array of greens and a glass of sparkling white wine. From the restaurant's private patio, you can enjoy a 360-degree view of the lake and the expanses of greenery beyond."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Lima – International Departure",
+      "description": "On your last day in Peru, you will return to Lima for one final day of self-guided exploration. Your morning begins with a tour of the House of Peruvian Gastronomy, where you will see how famous dishes like pachamanca and pollo a la brasa have been prepared for thousands of years. Later that day, you can choose between a visit to the National Museum of Peruvian Culture or peruse the city's Art Museum of Lima. After a light lunch along the Plaza de Armas, you can indulge in an afternoon of shopping and leisure as you return to the picturesque coastline and the distinguished neighborhood of Miraflores. Then, by late afternoon, you will meet your private ground transfer in front of your hotel, where you will be whisked away to Lima's International Airport. You will say your final goodbyes to your tour guide before boarding your flight home. As you once again look out the plane window, this time at the setting sun, you will taste the lemon-lime zest of ceviche of Lima, the crisp grilled trout of Lake Titicaca, and the delectable pisco sour of the mystical Sacred Valley. It's not a forever farewell, merely a brief parting until your return to delve further endless array of eclectic Peruvian cuisine."
+    }
+  ],
+  "map": ""
+}

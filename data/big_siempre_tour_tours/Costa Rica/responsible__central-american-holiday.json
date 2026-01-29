@@ -1,0 +1,150 @@
+{
+  "destination": "Costa Rica",
+  "mainPhoto": "",
+  "id": "central-american-holiday",
+  "tourName": "Central American holiday",
+  "placesVisited": "",
+  "generalInfo": "Set out on a 25-day adventure through Central America. From the lush rainforests of Costa Rica to the smouldering volcanoes of Nicaragua and the paradise beaches of Panama, tick off bucket list sights and discover lesser-known gems. Learn about the ancient Mayan civilisation in Copan, Honduras, and fall in love with the cobbled streets of Antigua, Guatemala, as we uncover six diverse countries.<br/> <br/> Paradisal beaches - Unwind on the beautiful island of Bocas del Toro, snorkelling in the warm waters of the Caribbean Sea.<br/> Ancient sites - Discover the ancient Maya at impeccable UNESCO World Heritage sites and beyond.<br/> Wildlife - Search for the elusive quetzal in Monteverde Cloud Forest Reserve, Costa Rica.<br/> <br/>",
+  "durationDays": "25",
+  "price": "4795",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Join tour in Panama City (Panama)",
+      "description": ": Our trip starts today in Panama City, Panama's eclectic capital with its curious mixture of old colonial Spanish architecture and modern American city buildings. Built on the back of the trade and plunder from the Spanish colonies in South America, Panama City was a key trade route as gold and silver were transported by mule through the rainforest of the Darien region, up to the Caribbean. Due to the number of evening flights into Panama City, our tour leader plans to do the welcome meeting on the morning of day two and will leave a message in our hotel reception with details on timings and everything else that you'll need for the day. There are no activities planned today, so you're free to arrive in Panama City at any time. If you'd like an airport transfer today, you'll need to arrive into Tocumen International Airport (PTY), approximately a 45-minute drive away from our hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Panama Canal visit; afternoon free to explore the city",
+      "description": ": This morning, we'll visit the Miraflores Locks to see the famous Panama Canal and appreciate the scale of this engineering miracle. Running 50 miles, the canal was carved out of the rainforest and through hillsides, lakes were dammed and locks built. After a serious French attempt costing more than 20,000 lives, the US successfully completed this remarkable endeavour after ten years of toil in 1914. This afternoon has been left free for you to indulge in a little exploring of your own. 'Casco Viejo', full of Spanish plazas and colonial buildings, is a total contrast to the giant skyscrapers of the modern town and a great place to absorb the ambience of the city."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Drive to David then head to Boquete",
+      "description": ": This morning, we'll take a bus to Panama's beautiful southwest Chiriqui Province. This region is home to the Volcan Baru, a volcanic peak that at 3,475 metres is the highest point in the country. The volcanic soil makes this a productive region, abundant in coffee and banana plantations, sugarcane crops and livestock. Heading for the provincial capital of David, we'll transfer into the cool fertile highlands to the town of Boquete. Located amidst a spectacular natural setting Boquete is a perfect base for walking into the surrounding hills, relaxing, or bird watching."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Drive and boat to the Bocas del Toro Archipelago",
+      "description": ": We'll have a free morning to enjoy time in Boquete before we for Almirante Port this afternoon. From there, we'll take a boat to the Isla Colon and the small town of Bocas de Toro, our base for exploring the stunning archipelago and the equally spectacular Parque Nacional Marino Isla Bastimentos. The archipelago itself is made up of several beautiful, forested islands lying in the warm Caribbean waters just to the south of Costa Rica and the laid-back beaches and dazzling reefs make this the ideal Caribbean paradise to relax or explore."
+    },
+    {
+      "dayNumber": 5,
+      "title": "In Bocas del Toro, optional snorkel trip",
+      "description": ": Today is free to fully enjoy this lovely island. The island is ringed with stunning beaches and there are opportunities to snorkel in the rich waters offshore. You might like to take a snorkel boat trip to explore the incredible marine life further. You can also visit the marine park itself, which is an important nesting ground for sea turtles, as well as being an important reserve for an abundance of marine and land-based life."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Journey to Sarapiqui (Costa Rica)",
+      "description": ": Returning to the mainland by boat, we'll turn north and set out on a full day's drive to the Costa Rican town of Puerto Viejo Sarapiqui. We'll cross the border at Guabito, into the Caribbean lowlands of Limon Province. It's worth noting that border crossings can take some time so we recommend bringing a book and snacks. Puerto Viejo lies at the confluence of the Puerto Viejo and the Sarapiqui rivers, an area of tropical rainforest that was once an important hub on the Caribbean trade routes. The area lies in the shadow of the Central Cordillera Mountains, sandwiched between the Braulio Carrillo N.P. to the west and the Tortuguero N.P. and Barra del Colorado National Refuge to the east."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Travel to Arenal; optional evening bathe in hot springs",
+      "description": ": This morning, we'll have a chance to explore a little more of Puerto Viejo and its environs. This area has been at the forefront of conservation for several years and La Selva Biological Station on the outskirts of town has done a great deal to involve the local community directly in the research and conservation of the area. You may like to take a walk along one of the many trails, or perhaps take a boat ride along the river, to see for yourself some of the beautiful forest that covers this fertile region. In the afternoon, we'll drive on, skirting the great central volcanic massif, past fertile farmlands, rich with a diversity of tropical crops, bringing us within sight of Arenal, Costa Rica's most active volcanic cone. This classic cone, which rises to 1,633 metres, is covered by a tangled mass of vegetation on one side whilst the other is starkly barren and scarred by lava flows. We recommend an evening bath in the nearby thermal baths this evening (optional)."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Drive to Monteverde Cloudforest Reserve via Arenal Volcano",
+      "description": ": This morning, we'll visit the still-active Arenal Volcano, set in an area of the national park covering some 9,884 acres. The volcano has been fairly constantly active since the late 1960s and together with the impressive manmade Lake Arenal, the largest in Costa Rica, has helped the area to regenerate through tourism. After our visit, we'll continue to the Monteverde Cloud Forest Reserve, one of the last remaining habitats in Central America of the famous Resplendent Quetzal, only occasionally sighted by eager travellers. The reserve covers an area of 10,522 hectares and contains a staggering diversity of flora and fauna; 2,000 species of plant, 400 species of birds and 100 different species of mammals."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Guided reserve walk; optional canopy tour and night walk",
+      "description": ": Rising early, we'll head into the reserve for a guided walk through the cloud forest, searching for a glimpse of the three-wattled bellbird or the Quetzal, whose feathers were traded as valuable items throughout pre-Columbian America. You have the afternoon free to explore this forest haven; you may wish to participate in the many amazing optional activities around the Reserve such as an exhilarating zip-wire experience as you whiz through the canopy, or perhaps exploring the forest on suspension bridges strung at canopy height. Alternatively, the area's butterfly farm and orchid gardens are both well worth a visit. Tonight, we also have the option to take a night walk, discovering how the forest comes alive after dusk."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Transfer to Rincon de la Vieja and free afternoon for optional hiking",
+      "description": ": Our journey through Costa Rica's forests and jungles continues today as we head towards the Rincon de la Vieja National Park, an enormous adventure playground located close to the Nicaraguan border in Guanacaste Province. The National Park has room for two volcanoes, of which one is still active, surrounded by a lush area of lagoons and craters, punctuated with steaming vents and pools of boiling mud. The changing elevation ranges of the park have resulted in an area of diverse habitats that house a variety of vegetation and wildlife. On arrival we'll have the option to relax at our eco-lodge, or alternatively, we can choose to do some nature walks in the National Park, take a horse ride to the Oropendola Waterfall, or walk to the park's mud and hot springs."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Visit the Rincon de la Vieja National park",
+      "description": ": This morning, we'll visit the Rincon de la Vieja, with the aim of hiking along the Las Pailas Trail. This approximately three-kilometre hike is moderately difficult due to the uneven ground and the many large roots and rocks to tackle, but we'll take a leisurely pace and enjoy the diverse scenery of the trail. We'll be crossing bridges, walking through the forest and across fields, all the while discovering the most impressive features of the park: the steam vents, or fumaroles. These incredible volcanic features pop out of the woods and forests as if from nowhere, along with bubbling ponds and mud pools from the underground volcanic heat and gases. During the first section of the trail, we'll have the opportunity to spot wildlife in the forest, from a variety of bird species (toucans, blue-crowned motmots and flycatchers among many others), as well as spider monkeys, coatis or sloths if we're lucky. This afternoon, we have free time to enjoy some of the many optional activities on offer. There is plenty of hiking to be had nearby, as well as horse riding or a walk to mud and hot springs."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Travel to Ometepe (Nicaragua); optional walks",
+      "description": ": Crossing the border into Nicaragua this morning a short drive brings us to San Jorge, the departure point for ferries to Ometepe Island. We cross into Nicaragua at the land border crossing called 'Frontera Penas Blancas' - this information will be needed when applying for your Honduras visa for your point of entry into the CA-4 countries. Border crossings can take some time so please be patient. Once in Nicaragua, a short drive brings us to San Jorge, the departure point for ferries to Ometepe Island. Ometepe is made up of two volcanoes connected by an isthmus; indeed its name comes from the Nahuatl language and means 'two hills'. The perfect cone of Concepción volcano soars from the depths of Lake Nicaragua to 1610m, only just dwarfing the neighbouring Maderas volcano at 1,394 metres. Our time here is free for you to explore at your own pace and there are many things to do during our time here. You can explore by local bus or truck, perhaps searching out pre-Colombian petroglyphs carved by the indigenous people, or taking in some of the highlights of the island and some short walks on the volcanic slopes (all optional). The forests echo with the sounds of howler monkeys and parrots and the canopy hides sloths and hawks amongst its lush foliage. Alternatively, you could visit the San Ramon Falls. For the less energetic, some of the black sand beaches are the perfect spot to drink in the stunning views across the lake."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Free day to discover Ometepe Island",
+      "description": ": Today is left free to further explore these amazing volcanic islands. There are several optionals you might like to get involved with, including spending the day at the San Ramon waterfalls, horseback riding or heading out on an island tour. Our tour leader will explain these in more detail and you can find the prices in the Budgeting and packing section under Trip information."
+    },
+    {
+      "dayNumber": 14,
+      "title": "Journey to the mainland and head to Granada",
+      "description": ": We'll return to San Jorge by boat this morning and from there drive to Granada. Atmospheric Granada is a colonial gem, situated at the foot of Mombacho volcano on the northwest shore of Lake Nicaragua. It was the first colonial city in Nicaragua, founded in 1524 by the conquistador Hernandez de Cordoba and is set off by baroque and renaissance buildings which is a pure visual delight. We'll have a city tour this afternoon, which will include visits to the Parque Central, the Monument to the War of Independence, the plaza and the convent of San Fransisco, which holds the largest collection of stone sculptures from the early Americans who lived in Granada before the Spaniards."
+    },
+    {
+      "dayNumber": 15,
+      "title": "Morning hiking the Mombacho crater; afternoon free to explore",
+      "description": ": This morning, we have the chance to hike the scenic loop around Mombacho Volcano, located in Mombacho Volcano Natural Reserve. This is a short but demanding hike, covering 1.5 to 2 km in total and taking around 2.5 to 3 hours due to the terrain. The trail starts at 1,025 metres and descends to 900 metres, meaning there's an elevation loss of 125 metres on the way down and a matching elevation gain of 125 metres on the way back up. While the ascent and descent are gradual rather than steep, the nature of the trail requires a steady pace. This afternoon has been left free for you to continue exploring Granada at your own pace."
+    },
+    {
+      "dayNumber": 16,
+      "title": "Drive to Leon; city tour and optional Cerro Negro Volcano hike",
+      "description": ": We'll drive to the old colonial capital of Leon today, lying in the shadow of the Cordillera de los Maribios Mountains. Defined by its graceful Spanish colonial architecture and fascinating political history, we will soon discover why Leon is considered to be Nicaragua's historical, cultural, educational and religious capital. The best way to explore this captivating city is by foot, as much of its charm lies in the narrow colonial streets and architecture, art galleries, museums and cafes. Leon's history is fascinating, like no other town in Central America. The town was dismantled, moved, and rebuilt due to volcanic activities, ransacked (and reconstructed!) by pirates, it won and lost its struggle as the most important city in Nicaragua against Managua, and several presidents were assassinated here. It's the place where famous poets are buried, where the largest cathedral in Central America stands, and is a hotbed for revolutionaries due to the big university located in Leon. On arrival, we'll embark on an orientation walk of the city. The afternoon is left free for optional activities. You may opt for a hike on the nearby Cerro Negro Volcano - one of the most active volcanoes in Nicaragua. The hike takes approximately 90 minutes at a moderate pace, and there are stunning views across the Pacific Ocean as well as the surrounding countryside. The fun is in bouncing down the volcano, as we run/jump/walk down through the scree."
+    },
+    {
+      "dayNumber": 17,
+      "title": "Journey to El Salvador via the Gulf of Fonseca",
+      "description": ": This morning, we wave goodbye to Nicaragua and head to the smallest country in Central America- El Salvador. Don't let its size fool you; the country is teeming with towering volcanoes, a spectacular coastline, and beautiful colonial towns and villages. We start our day by driving to the coastal town of Potosí, before hopping on the water taxi across the Gulf of Fonseca. On the journey, you can see the islands of three countries: El Salvador, Honduras, and Nicaragua. Be prepared for a wet boarding or landing- you may need to wade into waist-deep water to get on or off the boat. It is worth bringing aqua shoes or flip flops for this day. A dry bag would be desirable. Once on board, the crossing can be bumpy- adding to the sense of adventure! If the weather's choppy, expect some sea spray- so a poncho or rain jacket might be a good idea. The crossing should take around two hours, plus some time to enjoy the beach. Our destination is the port town of La Unión. On arrival, we will head out to Conchagua town for a walk and an optional group dinner. The country's national dish is pupusas-these delicious circles of corn dough are stuffed with a mixture of black beans, vegetables, cheese, and meats. We estimate our journey time door to door today will be around 7 hours. Please be patient; crossing borders can be quite a slow process, so ensure you have a book and snacks with you to keep you going."
+    },
+    {
+      "dayNumber": 18,
+      "title": "Visit to San Salvador city and Joya de Ceren Archaeological site; drive to Suchitoto",
+      "description": ": After breakfast, we'll set off for the capital of El Salvador, San Salvador city, around a four hour drive. Founded in 1525 by the Spanish conquistador Pedro de Alvarado, it was declared a city in 1546. Upon arrival your tour leader will provide you with a panoramic city tour of all the capital's main sights. After free time for lunch, we will head to the Joya de Cerén Archaeological Site, around 1 hour drive from San Salvador. This pre-Hispanic farming village, much like Pompeii and Herculaneum in Italy, was buried by the eruption of the Laguna Caldera volcano around AD 600. The remarkably well-preserved remains offer a unique glimpse into the daily life of Central American communities who farmed the land during that period. In the afternoon, we'll have a 90-minute drive to the peaceful lakeside town of Suchitoto, where we will spend the next two nights."
+    },
+    {
+      "dayNumber": 19,
+      "title": "Free day in Suchitoto; Optional boat trip on Lake Suchitlan or Indigo workshop",
+      "description": ": Today has been left free to explore all that Suchitoto has to offer. The town itself seems timeless, with cobbled streets, whitewashed buildings, and an impressive colonial church in a leafy plaza. It was once at the heart of the country's indigo trade, and we have the opportunity to take part in an indigo workshop this afternoon. Alternatively, you may take a boat trip out onto Lake Suchitlan, where over 200 bird species have been recorded including hawks and falcons."
+    },
+    {
+      "dayNumber": 20,
+      "title": "Transfer to Copan, Honduras",
+      "description": ": This morning, we will embark on two border crossings, first entering Guatemala before continuing into Honduras at the border known as Frontera El Florido. It will take around six hours including a lunch stop and customs formalities, before we arrive at this small, relaxed town just the other side of the Guatemala-Honduras border. With a small plaza principal, and some cafes and restaurants to enjoy, the town of Copan is so unassuming that it's hard to believe that it's home to one of the jewels of the ancient Mayan world. We may not have a lot of time here when we arrive, but we'll take a stroll around the charming town centre this evening before dinner. We remind customers again to please note that crossing borders can be quite a slow process, so ensure you have a book and snacks with you to keep you going."
+    },
+    {
+      "dayNumber": 21,
+      "title": "Visit the UNESCO Site of Copan, free afternoon",
+      "description": ": This morning, we'll visit the UNESCO World Heritage Site with a local guide. Everyone familiar with Catherwood's incredible drawings (which first appeared in John Stephens' 1841 narrative - 'Incidents of Travel in Central America and Yucatan') will recognise scenes and objects from this marvellous site. Stephens actually bought the entire site for US$ 50 from a local farmer! The Great Plaza is one of the most amazing achievements of the Classic Maya period (AD 750) and contains the greatest collection of Maya sculptures anywhere in Meso-America. The famous Hieroglyphic Stairway is composed of 2500 individual glyphs; its sides are flanked by serpentine birds and snakes. We have the whole day to enjoy this special place, leaving you plenty of time to explore on your own. In the afternoon you may like to visit the museum dedicated to the site or visit some nearby hot springs or Macaw Mountain (optional)."
+    },
+    {
+      "dayNumber": 22,
+      "title": "Drive to Antigua (Guatemala); walking tour of the town",
+      "description": ": We'll head into Guatemala this morning, to the stunning city of Antigua, set in a beautiful valley between the volcanoes Agua, Fuego and Acatenango. An orientation tour of this graceful old colonial city, with its cobbled streets and lovely old buildings identifies it as one of the most charming in the country and shows how it can justly claim to be one of the most picturesque in Central America, despite the damage caused by a series of earthquakes and floods over the ages. This afternoon, we intend to take a walking tour of the town. Much of Antigua has been repeatedly devastated by earthquakes, but still, it retains a graceful charm and its buildings and ruins give it the air of a snapshot in time."
+    },
+    {
+      "dayNumber": 23,
+      "title": "Free day to explore Antigua or optional trip to Chichicastenango Market",
+      "description": ": The next two days are free to explore more of the city and its environs as you wish. Antigua itself deserves at least a day's wandering, you may like to visit churches, colonial buildings, and museums as well as spend time shopping in its many markets. Alternatively, you might like to visit the close by Mayan site; Iximche, once the capital of the Cakchiquel Maya, founded in the 15th century. Set within pine forests the ruined city was once believed to be home to some 10,000 people at its height, until the arrival of the Spanish conquistadors resulted in its eventual destruction in 1526. There is also the option, on one of your two days in Antigua, to visit the Maya site of Tikal. This full-day trip entails a domestic flight from Guatemala City to Flores, before the drive to the majestic jungle-clad ruins, which were, in their prime, the pride of the Maya empire."
+    },
+    {
+      "dayNumber": 24,
+      "title": "Free day to spend in Antigua or choose to visit Lake Atitlan",
+      "description": ": For those not wishing to spend the day exploring the city, a day trip to Lake Atitlan takes in one of Guatemala's most stunning locations. Panajachel, on the shores of the spectacular lake, is an old Spanish settlement that has attracted foreigners to its charming location for years. The lake itself is an old caldera, its deep waters surrounded by the towering volcanic peaks of its neighbours. This is an ideal place to shop for those last-minute presents, or just enjoy the ambience of its lakeside setting. Alternatively, you could visit Guatemala City, the bustling country capital, which is situated on a high plateau (1,495 metres) and possesses all the usual contradictions found in large Latin American cities: elegant tree-lined boulevards and high-rise architecture alongside crowded shanties. It also has several sites and museums that are worth visiting, including the Ixchel Museum, with its displays of Guatemalan textiles and arts, or the majestic Palacio National in the Plaza Major."
+    },
+    {
+      "dayNumber": 25,
+      "title": "Tour ends Antigua",
+      "description": ": The trip ends this morning at our hotel in Antigua Guatemala. There are no activities planned today, so you're free to depart at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from La Aurora International Airport (GUA). The drive between the airport and our hotel can take between 90 minutes and four hours depending on the traffic and the time of day."
+    }
+  ],
+  "map": ""
+}

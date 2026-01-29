@@ -1,0 +1,75 @@
+{
+  "destination": "Egypt",
+  "mainPhoto": "",
+  "id": "slow-paced-exploration-of-egypt-tour",
+  "tourName": "Slow-Paced Exploration of Egypt Tour",
+  "placesVisited": "Cairo, Aswan, Esna, Luxor",
+  "generalInfo": "Cruise around the ancient highlights of Egypt on this 10-day tour handcrafted for senior travelers. Enjoy a slow pace as you discover highlights all along the Nile, from the Valley of the Kings to laid-back Aswan. Including a three-day Nile cruise and fly-in excursion to Abu Simbel, you’ll uncover 5000 years of history at your own pace.",
+  "durationDays": "10",
+  "price": "3,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Cairo – The Great Pyramids of Giza",
+      "description": "Touch down in Cairo and you will be immediately greeted by a local guide, who will help you navigate customs and sidestep all the touts. Whisked into a private vehicle you’ll head straight for the sanctuary of Giza, where your hotel has a private rooftop overlooking the pyramids. Central Cairo can be overwhelming but it’s quiet out here, sat on the roof, dining on local cuisine, the pyramids illuminated on their nightly light show. There’s simply no better view of this show than the one from your hotel rooftop."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Cairo – Egyptologist Tour of the Pyramids",
+      "description": "You can step straight out of the hotel into the archaeological site, for a morning immersed in the Pyramids of Giza. Wander past the Sphinx and gasp at the scale of the pyramids. Step inside history and wander inside one of the pyramids, in awe at the size of the structure. Explore the Valley Temple and take your time in this immense place, with an Egyptologist guide providing the inside track on what happened. Then after lunch, you’ll visit earlier smaller pyramids, a great insight into how these famous structures developed."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Cairo – Egyptian Museum and Khan El-Khalili Bazaar",
+      "description": "For senior travelers it’s recommended to spend three days in Cairo, so you can dedicate appropriate time to the Egyptian Museum. No museum on the planet can match this one, with its 120,000 artifacts and complete ancient Egyptian story. You’ll spend a whole morning with a specialist guide, following 5000 years through the Mummies Room and different displays. After lunch you will be immersed in a living history at Khan El-Khalili, an atmospheric bazaar that hardly seems to have changed since the 14th century. Like yesterday, relax on your hotel rooftop in the evening."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Aswan – Laid-Back Indulgence in Aswan",
+      "description": "Fly to Aswan and you will immediately appreciate the change in atmosphere. Stretching out along the River Nile, this charming town reflects the slow pace of desert life. It’s a perfect place to stop and relax for a few days, while still being immersed in history. Today’s itinerary has been left free and you will have a local guide at your disposal. Visit Aswan High Dam then compare it to the Temple of Philae, where stories of Isis and Hathor evoke another time. Marvel at the Unfinished Obelisk and grasp the monumental scale of earlier centuries."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Aswan – Abu Simbel Temples",
+      "description": "It’s an early start this morning as you will be flying to Abu Simbel at dawn. This is ideal because you can touch down and explore the temples long before tour buses arrive from Aswan. Wander around the massive rock-cut temples and soak in the story of Ramses II, comparing details from the Sun Temple to Temple of Hathor. It’s cooler at this hour. As the heat rises the crowds emerge, so you can escape and fly back to Aswan for a leisurely afternoon along the river."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Aswan – Cruising Around the Nile",
+      "description": "Just like day four, today has been left free so you can relax and slowly explore more of Aswan. A private boat can take you around Nile islands. With the wind in the sail, there will be a sense of exploration from yesteryear. The local bazaar is a great place to hang out doing nothing at all, with small cafe terraces offering a good opportunity to meet locals over a cup of coffee. Later today you will board your small-boat luxury cruise and set off down the Nile. All meals are included throughout your time on the boat."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Esna – River Nile Cruise",
+      "description": "Sit back and relax as you cruise towards Kom Ombo, where a majestic temple reveals Sobek and Horus. One is the crocodile god, the other a human with a falcon head, and the two rivals evoke stunning stories. Continue to Edfu and enjoy a few hours at Horus Temple, which was once buried under sand for 2000 years. It’s Egypt’s best-preserved temple and a superb insight into ancient temples before looters. Continue along the river throughout the afternoon, lounging on a deck as the desert rolls by."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Luxor – Wander the East Bank",
+      "description": "Cruise slowly towards Luxor this morning, taking in small villages and desert dunes along the way. After lunch on the boat, you’ll spend the afternoon exploring Luxor’s East Bank, where an avenue of excavated sphinx will lead you to the massive pillars of Karnak Hypostyle Hall. Evoking towering history, the pillars narrate hieroglyphic tales beyond comprehension. Walking the other way you’ll explore Luxor Temple, another magnificent insight into ancient Egypt. Then spend your final night on the boat, lounging in luxury as the wonders of past civilizations rise on either side of the banks."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Luxor – Luxor West Bank",
+      "description": "While the East Bank is a mix of monuments and modern city, the West Bank is a vast archaeological site cascading far into the desert. It’s here you will explore the Valley of the Kings, the famous burial ground that includes Tutankhamen’s tomb. But it’s perhaps the Temple of Queen Hatshepsut and Colossi of Memnon that are most memorable, the sheer audacity of these structures impossible to comprehend given their age. This is a private tour and you will explore in the early morning and late afternoon, when it’s cooler and quieter."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Luxor – Hot Air Balloon Ride",
+      "description": "Complete your ten days in Egypt with a beautiful sunrise hot air balloon flight, the Valley of the Kings stretching elegantly beneath you. There will be time to relax and freshen up back on the boat before you take a flight back to Cairo and continue on your journey home."
+    }
+  ],
+  "map": ""
+}

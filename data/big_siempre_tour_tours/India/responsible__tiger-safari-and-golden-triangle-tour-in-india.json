@@ -1,0 +1,80 @@
+{
+  "destination": "India",
+  "mainPhoto": "",
+  "id": "tiger-safari-and-golden-triangle-tour-in-india",
+  "tourName": "Tiger safari and Golden Triangle tour in India",
+  "placesVisited": "Guided tour of Old Delhi, Jama Masjid mosque, Agra, Taj Mahal, Red Fort, Itmad-ud-daulah, game drives in Ranthambhore, Jaipur, Delhi",
+  "generalInfo": "Explore the ancient land of India and discover a country that's blessed in a rich variety of culture, heritage and wildlife. For first-timers, the Golden Triangle and Tiger Safari offers a fantastic introduction to the diverse country and really encapsulates the essence of India.<br/><br/>This 11-day tour starts in the history-rich capital of Delhi. Explore the cities hidden corners, bustling bazaars and local specialities. From here travel by rail to Agra to see the majestic Taj Mahal at sunrise. Your journey then takes you into the colourful state of Rajasthan, visiting Ranthambhore National Park for its impressive fort and abundant wildlife. From here your adventure will continue onto the pink city of Jaipur where you can visit the beautiful Amber Palace. <br/>",
+  "durationDays": "11",
+  "price": "3445",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Depart the UK on a direct flight from London to Delhi. Overnight on flight."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "You will be met on arrival at Delhi International Airport and will be taken to your hotel. In the afternoon you will have a guided tour of Old Delhi including a visit to Jama Masjid mosque and a cycle rickshaw ride through the bustling bazaar area."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Explore the contrasts of Old and New Delhi on a private guided tour. This includes the enormous Jama Masjid from which you can walk through the bazaars and narrow streets - a great way to absorb the sights and sounds of Old Delhi. See the monumental buildings set along wide boulevards of Lutyens' New Delhi, including India Gate and the President's residence."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "This morning you will be taken to the railway station where you will take the train to Agra. In the afternoon, take a private guided walk around Agra's sights, such as the impressive Moghul Red Fort. The Red Fort is a great preview to visiting the Taj Mahal in the morning - the two were built during the same period and have much shared history."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Visit the magnificent Taj Mahal at sunrise this morning, the quietest and most tranquil time to visit, before the crowds arrive. In the afternoon you will be taken to the station to catch your train to Sawai Madhopur, the station that serves Ranthambhore National Park."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Morning and afternoon game drives in Ranthambhore are included today. This world-famous national park was once the private hunting ground of the Maharaja of Jaipur. Today the park is well-visited due to its high number of tiger sightings in the jungle, and at natural and man-made pools."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Rise early for your last morning game drive in Ranthambhore. In the afternoon you will drive on to the Pink City of Jaipur which will take approximately four hours."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Spend the day exploring Jaipur's sights. Visit the Palace of the Winds, the Jantar Mantar Observatory and the impressive Amber Fort just outside of the city."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Morning at leisure to relax at your hotel. In the afternoon you will head out on a tour of Jaipur's bustling bazaars, offering the opportunity to get behind the scenes of local markets with the chance to meet local traders and artisans."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Today you will be driven back to Delhi. The journey takes approximately five to six hours. Rest of the day at leisure."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Transfer to the airport for your flight home."
+    }
+  ],
+  "map": ""
+}

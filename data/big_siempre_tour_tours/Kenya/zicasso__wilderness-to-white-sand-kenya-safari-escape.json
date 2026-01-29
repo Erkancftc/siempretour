@@ -1,0 +1,75 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "wilderness-to-white-sand-kenya-safari-escape",
+  "tourName": "Wilderness to White Sand: Kenya Safari Escape",
+  "placesVisited": "Nairobi, Lewa Wildlife Conservancy, Meru National Park, Mara Naboisho Conservancy, Mombasa, Diani Beach",
+  "generalInfo": "Safari landscapes and the Indian Ocean beach will complement a vacation that transports you into an entirely different world. This two-week vacation celebrates the beauty of Kenya and the inimitability of its atmosphere. Escape the stress of home and bask in the wilderness where animals are your close neighbors in three contrasting safari destinations: Lewa, Meru, and the Masai Mara. After eight days of intimate encounters, you fly to Diani where silence and solitude complete your getaway.",
+  "durationDays": "14",
+  "price": "22,100",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Nairobi – Wildlife and the City",
+      "description": "Nairobi symbolizes Kenya’s appeal. This is a big, bustling capital that also has a huge national park at its heart. Elephants and giraffes will wander before apartment blocks and roads. From the hotel, you can see buffalo and even rhinos. There will be silence and solitude, which is something that you would never expect from a big city. A layover in Nairobi is a necessity, but by staying next to Nairobi National Park, you will have the immediate feeling of the laid-back ambiance of the wild."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Lewa Wildlife Conservancy – Easy Big Five Introductions",
+      "description": "Traveling by light aircraft, you will reach the Laikipia Plateau, which is a wilderness area that is has been converted into a series of private conservancies. Wildlife will move and migrate freely between the conservancies, and territorial animals tend to control their part of the conservancy. Local guides know exactly where the animals roam, so it will easy to gain first impressions of Africa’s famous wildlife. Both lions and leopards will be a feature of Lewa Wildlife Conservancy. Elephants and buffalo will start to blur into the landscape as they are so numerous in this part of the world. Then, you will witness the rhinos, which are a thriving population of both black and white beasts that will offer superlative encounters during your first day of the safari."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Lewa Wildlife Conservancy – On Safari with All the Classic Animals",
+      "description": "In Lewa, you will take the safari slowly. Leisurely game drives follow lionesses in the grass, and an hour can be spent having coffee and cake beside a pool of hippos. Down by a watering hole, you can watch and wait, admiring the playful antics of different elephant herds. Sometimes, you will traverse across the bush, tracking giraffes in the trees or getting closer to the hyenas. Most of the time, you will travel very slowly, ambling between different wildlife and birdlife. Admire the daily drama as lions battle with buffalo herds that will not back down, and watch for baby rhinos that hide underneath their mother’s swollen belly. Compared to the Masai Mara, Lewa is a small safari destination. This is a bountiful stretch of land with a full variety of big game. Safari activities do not need to be long in such a compact wilderness. Trackers will head out before you and radio the most interesting sights to your guides. You will explore for a few hours and then return to the lodge where you can rest up and continue to enjoy all the animals. The lodge will blend into the landscape, and antelope will come to graze nearby. It overlooks a watering hole with soft lighting that will illuminate an evening procession of animals coming to drink. This is safari at its easiest, and you will quickly lose track of your stresses back home."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Meru National Park – Rare and Endangered Species",
+      "description": "You will cross luscious, pastoral lands on a transfer to Mount Meru, which is the mountain’s volcanic cone. Nestled in the foothills, you will find riverine forests and swamps. Beyond these, there is an arid mountain, one that stretches north towards the Sahara. Meru’s slopes provide refuge for wildlife, which is a place for them to refresh after a tough journey across desert plains. Here, Somali ostrich will scamper across vast plains, and Grevy’s zebra will roam between great baobab trees. Gerenuk will stretch their long necks towards low-lying fruit, and monkeys will chatter away in the treetops. Rather than the classic Big Five, Meru will highlight an alternative, wildlife world. This is the home of rare and unusual species. Traveling here, you will marvel at how the scenery changes. Once on the Meru slopes, you will escape into a very intimate realm. As there are few predators, wildlife will be less skittish and more likely to get very close to you. On a walking safari, you can get even closer, especially when looking up at towers of huge giraffes. Like Lewa, the safari program will be adaptable and can be created using different activities. Long parts of each day can be spent relaxing, sitting at the lodge, and appreciating what surrounds you."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Mara Naboisho Conservancy – Guided in the Grasslands",
+      "description": "With a short safari flight, you will swap the mountains for the plains, landing on the vast openness of the Masai Mara. Here, you will not be staying in the main national reserve. Mara Naboisho is contiguous, and the safari is far more personal then what you have experienced. Access is only permitted for guests at one of the camps in the conservancy. That means no day-trippers or overloaded budget safari vehicles. Furthermore, because guides will be able to take you off the trail, safari vehicles will be highly dispersed, and restrictions in the national reserve mean vehicles will tend to be clustered together. You will touch down, and Masai warrior guides will lead your first activity. You will venture across the plains, feeling your connection to the land. The Masai have coexisted with lions and elephants for millennia, so it will be very safe with these warriors that lead the journey. So, you will walk with the zebra amongst the wildebeest and with giraffes as silhouettes along the horizon. Later in the day, you will have your first Masai Mara game drive, the focus switching towards safe encounters with predatory cats. As this conservancy is much quieter in terms of vehicle and people traffic, it has become a haven for leopards and cheetahs to raise their cubs. Spotting them will be an unforgettable highlight of the safari."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Mara Naboisho Conservancy – Full-Day Game Drive",
+      "description": "To appreciate the Masai Mara, you must understand its scale. A hundred zebras are cute, but a herd of 10,000 is another experience entirely. Likewise, the quantity of wildebeest is astonishing, even outside the great wildebeest migration. Crossing the Mara on a full-day game drive, you will explore lush grasses that are covered in grazers. Clusters of rocks, which are known as kopjes , will be where the lions watch the plains, often in prides of 15 strong. Hippos and crocodiles will provide drama at the Mara River, and as the drive continues, it will be impossible to count the number of different species that you encounter."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Mara Naboisho Conservancy – Final Safari Moments",
+      "description": "Lions will prowl the plains at dawn and will be elegant and enchanting as they move across the dew. Hippos will barrel towards the water, quarreling as they go. On a lonely acacia branch, a leopard may snooze and then open its piercing blue eyes at you. Returning from a game drive, you will find a wildebeest herd grazing around the camp. Thomson’s gazelles will mark the scenery with their numbers in the tens of thousands. There will be life everywhere, and such an abundance will help to make the safari even more escapist. When giraffes are your near neighbors, it will be easy to forget what a city or a street is like, and the more time you spend here, the more your senses will understand and appreciate the minute details."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Diani Beach – White-Sand Escapism",
+      "description": "After a final morning game drive, you will fly from the Masai Mara to Mombasa. From here, it will be a 30-minute drive south to Diani Beach. Once the beach begins, it does not seem to end. Palms will rise the highest in the thick, overhanging forest, and monkeys will shout from the trees. The forest protects the beach, casting it adrift from everything else. So, when you walk on the beach, all you will see is the white sand and the trees along with the Indian Ocean. A reef will catch most of the waves about a mile offshore, so the tidal waters will be more like a lagoon: perfect for splashing your feet during your first day on the coast."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Diani Beach – Lazy Days on the Indian Ocean",
+      "description": "For these three days, you will continue to feel cut off from the rest of the world. The thick forest will make Diani seem like an island, even if it is a 30-mile beach. With monkeys around, it can sometimes feel like you are back on safari, but mostly these three days will involve doing nothing at all. You will feel the silence, bask in the solitude, create the only footprints in the sand, and spend lazy hours gazing across the ocean. While Indian Ocean islands are small and very popular, Africa’s Indian Ocean coastline remains mostly unknown and hugely underrated. Perhaps, if it were somewhere else, this beach would be very busy. Instead, you can look around and hardly see another soul."
+    },
+    {
+      "dayNumber": "14",
+      "title": "Mombasa – Departure",
+      "description": "By now you will have spent four days resting around the beach, and unfortunately, it is time to return to the real world, although your safari will have taught you to redefine what a real world means. You will fly from Mombasa back to Nairobi where you will meet your international outbound flight."
+    }
+  ],
+  "map": ""
+}

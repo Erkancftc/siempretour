@@ -1,0 +1,75 @@
+{
+  "destination": "Uganda",
+  "mainPhoto": "",
+  "id": "western-uganda-wildlife-small-group-tour",
+  "tourName": "Western Uganda wildlife small group tour",
+  "placesVisited": "",
+  "generalInfo": "Embark on this small-group tour, thoughtfully crafted for those who long for more than just a holiday. Join a tour that gives you a meaningful experience filled with discovery, connection, and the chance to witness the majesty of nature's incredible creatures up close. <br/><br/>As you traverse Uganda's renowned national parks, you'll find yourself immersed in the beauty of the natural world. Begin your adventure in Kibale Forest National Park, where you'll walk through lush greenery, home to chimpanzees and a tapestry of primates. The journey continues in the vast savannahs of Queen Elizabeth National Park, where the sight of elephants roaming and hippos lounging in the water is breathtaking. And in the serene Ishasha sector, you may even catch glimpses of the elusive tree-climbing lions.<br/><br/>Perhaps the most profound experience awaits you in the misty jungles of Bwindi National Park, where you’ll have the rare opportunity to meet mountain gorillas face-to-face. This intimate encounter is an unforgettable and life-changing experience that will stay with you forever, touching your heart and deepening your connection to the natural world.",
+  "durationDays": "10",
+  "price": "3345",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival in Uganda - Upon arrival at Entebbe Airport, your guide will welcome you, who will facilitate your transfer to your accommodation for the evening. This day allows for relaxation following your journey. Overnight at either Papyrus Guesthouse or Via Via Guesthouse (B)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Kibale Forest National Park - After breakfast, you will embark on a six-hour drive to Kibale Forest. Following your arrival, you will have an opportunity to explore the local community. Kibale Forest is renowned for its diverse primate population, including habituated chimpanzees, various species of monkeys, elephants, and other wildlife. Overnight at either Turaco Treetops or Guereza Canopy Lodge (HB)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Chimpanzee Tracking in Kibale and Transfer to Queen Elizabeth National Park - Kibale National Park offers a 90% chance of encountering chimpanzees. Tracking can be arranged for morning or afternoon and this activity is unsuitable for children under 12. Additionally, visits to the Bigodi Wetland Sanctuary or a night walk to observe nocturnal wildlife are available for those interested. Overnight at either Turaco Treetops or Guereza Canopy Lodge (HB) Included today: chimp tracking, Bigodi Swamp Walk"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Transfer to Queen Elizabeth National Park - This morning, you will travel approximately four hours to Queen Elizabeth National Park, with a scheduled stop at the equator for photographic opportunities. Upon arrival, there will be time for an afternoon game drive in this biodiverse reserve known for its population of tree-climbing lions. Overnight at either Kasenyi Safari Camp or Kikorongo Safari Lodge (HB) Included today: game drive"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Kazinga Channel - The day begins with a morning game drive and an afternoon boat trip on the Kazinga Channel, home to a significant population of hippos and Nile crocodiles. Pending prior booking, an experimental lion tracking activity can also be arranged. Overnight at either Kasenyi Safari Camp or Kikorongo Safari Lodge (HB) Included today: game drive, boat trip"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Ishasha Sector - Following breakfast, the tour continues with a drive through Queen Elizabeth National Park to the Ishasha sector, famed for its tree-climbing lions and abundant wildlife, including buffalo and elephants. There is a potential opportunity to observe the rare shoebill along the shore of Lake Edward. Optional activities such as chimp tracking or forest walks can also be arranged. Overnight at either Ishasha Jungle Lodge or Enjojo Lodge safari tent (HB) Included today: game drives"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Bwindi Impenetrable Forest - The day commences with an early morning game drive in Ishasha in search of tree-climbing lions, followed by a drive to Bwindi Impenetrable Forest. This area is a habitat for nearly half of the world's mountain gorilla population. The choice of accommodation will depend on the specific gorilla group scheduled for tracking. Overnight at a lodge in Bwindi* Included today: game drive *Lodging options are based on tracking area: Buhoma Haven Lodge (HB), Bakiga Lodge (HB), Gorilla Close Up Lodge (HB), or Rushaga Gorilla Camp (HB)."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Gorilla Trek - An early morning departure with a ranger will lead you to track mountain gorillas. The trek, which can take 1-3 hours, culminates in an hour spent observing these magnificent creatures. This experience is sure to be memorable. Overnight at a lodge in Bwindi (HB) Included today: gorilla trek"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Lake Mburo National Park - After breakfast, a four-hour drive will take you to Lake Mburo National Park. In the afternoon, there will be options for a game drive or an optional boat excursion on the lake. A night game drive will also be available to see leopards and other nocturnal wildlife. Overnight at Rwakobo Rock or Kigarama Wilderness Lodge (HB) Included today: game drive, night game drive"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Return to Entebbe - If time permits, a final game drive or walk can be scheduled in the morning. The group will return to Entebbe, approximately five hours away, with a stop for photographs at the equator before transferring to the airport for departure. Included today: game drive or game walk *For departing flights, booking for no earlier than 18:00 on day 10 is advised."
+    }
+  ],
+  "map": ""
+}

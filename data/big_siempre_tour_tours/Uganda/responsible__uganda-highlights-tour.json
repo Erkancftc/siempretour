@@ -1,0 +1,60 @@
+{
+  "destination": "Uganda",
+  "mainPhoto": "",
+  "id": "uganda-highlights-tour",
+  "tourName": "Uganda highlights tour",
+  "placesVisited": "",
+  "generalInfo": "This 12-day adventure offers an unforgettable introduction to Uganda’s remarkable wildlife and landscapes. Journey from the savannahs of Murchison Falls and Queen Elizabeth National Park to the rainforests of Kibale and Bwindi, home to chimpanzees and endangered mountain gorillas.<br/>Along the way, enjoy game drives, river cruises, and immersive cultural experiences, with time to unwind at scenic Lake Mutanda. The trip ends with a peaceful stay in Lake Mburo National Park, rounding off a journey rich in contrast, beauty and discovery.",
+  "durationDays": "12",
+  "price": "6199",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Entebbe: On arrival in Entebbe, you’ll be welcomed by your private driver and transferred to a high-end hotel. Depending on your arrival time, you may wish to relax at the property or explore nearby highlights such as the Botanical Gardens, local craft markets, the Uganda Wildlife Education Centre, or take a sunset cruise on Lake Victoria."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Murchison Falls and Safari: Depart Entebbe this morning for a scenic five-hour drive to Murchison Falls National Park, Uganda’s largest and oldest conservation area. On arrival, settle into your lodge before heading out to explore the dramatic waterfall either on foot or by boat. The following day, enjoy a classic safari experience on the open plains, with chances to spot giraffe, lion, leopard, buffalo, hartebeest and Uganda kob. Then take a cruise along the Nile to the base of the falls, passing pods of hippo, Nile crocodiles and elephants on the riverbanks. The park also offers excellent birdwatching opportunities."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Chimpanzee Tracking: Depart Murchison Falls for a full-day journey south through Uganda’s scenic countryside, passing tea plantations and rolling hills en route to Fort Portal. Arrive in the afternoon and settle into your lodge near the edge of Kibale Forest, with views of the Rwenzori Mountains.The next morning, rise early for your chimpanzee tracking adventure. After a briefing with park rangers, head into the forest to search for chimpanzees. Their vocal calls often echo through the trees before you see them. Once located, you’ll spend an hour observing their behaviour in the wild. Kibale is also home to other primates, colourful butterflies and a wide variety of birdlife. In the afternoon, you may opt for a guided swamp walk through a nearby wetland, offering insights into local communities and opportunities to spot rare species in a striking natural setting."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Safari in Queen Elizabeth: After breakfast, depart Kibale and travel south to Queen Elizabeth National Park. Framed by the Rwenzori Mountains and bordered by Lakes Edward and George, this diverse landscape is home to savannah, wetlands and crater lakes. Settle into your lodge before heading out on an afternoon game drive, ending the day with a sundowner in the bush. The following day includes two game drives, offering excellent opportunities to spot elephants, lions, buffalo and a variety of antelope species. You can also take a boat cruise along the Kazinga Channel to observe hippos, crocodiles and prolific birdlife along the water's edge."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Gorilla Trekking: Travel southwest to Lake Mutanda, a picturesque region of rolling hills, volcanic peaks and freshwater lakes often referred to as \"Little Switzerland.\" This is your base for gorilla trekking in Bwindi Impenetrable Forest and offers a peaceful setting for walking, canoeing, birdwatching and cultural encounters. On the second day, you'l set out early for your gorilla trek. After a briefing at the park headquarters, experienced guides will lead you through dense forest in search of one of the habituated gorilla families. Once located, you'll have one extraordinary hour to quietly observe these endangered primates in their natural habitat. It is a rare and humbling experience. There is also time to explore the surrounding area. We recommend the Batwa cultural experience, a guided walk with members of the Batwa community to learn about their forest-based traditions and history. Alternatively, you may choose to relax at your lodge or take a boat trip on Lake Mutanda."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Transfer to Lake Mburo: After breakfast, depart Lake Mutanda for the six-hour drive to Lake Mburo National Park. Although smaller than other parks, it offers varied landscapes and excellent wildlife viewing. Expect to see giraffe, zebra, buffalo, warthog, impala, hippo and crocodile, along with over 350 bird species. On arrival, enjoy a game drive through the park. Depending on your schedule, you may also have the option to explore on foot, by mountain bike or on a guided horse riding safari for a more immersive experience."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "After breakfast, you’ll begin your journey back to Entebbe, arriving in time for your international flight home. As you leave Uganda, you’ll take with you unforgettable memories of its wildlife, landscapes and warm hospitality."
+    }
+  ],
+  "map": ""
+}

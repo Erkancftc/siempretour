@@ -1,0 +1,50 @@
+{
+  "destination": "South Africa",
+  "mainPhoto": "",
+  "id": "cape-town-spring-flowers-holiday",
+  "tourName": "Cape Town spring flowers holiday",
+  "placesVisited": "",
+  "generalInfo": "The Cape Botanical Escape is a gentle, immersive journey through the Cape Floral Kingdom, botanical gardens, fynbos, landscapes, sensory workshops, and Indigenous culture.<br/><br/>CAPE TOWN is also known as the Cape Floral Kingdom. It is the smallest yet most diverse of the world’s floral kingdoms, found nowhere else on Earth and centred around Cape Town and its surrounding landscapes.<br/><br/>In September, spring transforms this region into a living tapestry, as fynbos blooms across mountains, valleys, and coastal plains. Delicate proteas, ericas, and restios thrive alongside dramatic scenery, from rugged peaks to rolling winelands, creating a unique connection between nature and place.<br/><br/>This extraordinary biodiversity shapes the character of the Cape, making it a truly remarkable destination for those drawn to natural beauty and ever-changing landscapes.<br/><br/>HIGHLIGHTS<br/><br/>*Kirstenbosch Botanical Garden <br/>*Cape Peninsula &amp; Cape Point Nature Reserve<br/>*Babylonstoren Gardens &amp; Healing Tea Experience<br/>*West Coast National Park &amp; Heritage Centre<br/>*Village walk &amp; Fynbos experience<br/><br/>This 5-day/4-night tour is ideal for solo travellers seeking nature, culture, and a slow, meaningful experience. The Cape Botanical Escape (5-day tour) is perfect for gentle walkers, garden enthusiasts, and nature lovers who enjoy exploring in small, intimate groups. You can even create your own group with friends or family!",
+  "durationDays": "5",
+  "price": "1955",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Kirstenbosch Gardens & Cape Point Nature Reserve. The first day unfolds at an unhurried pace, beginning with a gentle walk through Kirstenbosch National Botanical Garden, set against the eastern slopes of Table Mountain. A stroll along the Tree Canopy Walkway offers sweeping views across the gardens and beyond, creating a moment of reflection and connection with nature. In the afternoon, the journey continues to the Cape Point Nature Reserve, where dramatic coastal scenery replaces the mountainous greenery. Gentle coastal paths lead you through fynbos-covered hills to panoramic viewpoints overlooking the meeting of the Atlantic Ocean and rugged cliffs."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "West Coast National Park & Heritage CentreThe second day begins with a scenic drive north to West Coast National Park, where wide open landscapes, coastal lagoons, and endless skies create a striking contrast to the city. Gentle walks reveal seasonal wildflowers, salt marshes, and birdlife along the Langebaan Lagoon, offering moments of quiet discovery in this protected coastal ecosystem. In the afternoon, the experience becomes deeply cultural at the San Culture Centre, where ancient knowledge comes to life. Through engaging storytelling and hands-on learning, you discover how indigenous San communities have used local plants for generations to heal, nourish, and survive—understanding their medicinal properties, sustainable harvesting practices, and spiritual significance. The day is both energising and enriching, blending natural beauty with timeless wisdom in a way that feels inspiring and memorable.."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Babelonstoren Gardens & Healing Tea experience. The third day begins with a relaxed check-out before journeying into the heart of the Cape Winelands, where rolling vineyards and historic farmsteads set a slower, more soulful rhythm. Along the way, a highlight stop at Babylonstoren Gardens invites a sensory immersion into nature and wellbeing. During the Healing Tea Experience, you wander through beautifully curated gardens, learning about medicinal herbs, seasonal plants, and traditional remedies grown on the estate. The experience encourages mindfulness and restoration, as fragrant infusions and plant-based knowledge connect ancient practices with modern wellness. Afterward, the journey continues to your Winelands accommodation for check-in, allowing time to unwind and soak in the tranquil landscape."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Nature walk & Olive workshop. Day four unfolds with a refreshing 5 km walk through the mountainous Winelands, where olive groves cling to sunlit slopes and panoramic views stretch across valleys below. Guided at an easy pace, the walk reveals the story of olives—from cultivation and harvesting to their role in Mediterranean-style, climate-resilient farming. Along the way, you learn how olives thrive in this landscape and why they are an important, sustainable crop for the region. The experience culminates in a relaxed walkshop, where hands-on learning deepens your understanding of olive oil production, followed by a leisurely lunch showcasing local flavours"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Departure"
+    }
+  ],
+  "map": ""
+}

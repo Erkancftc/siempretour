@@ -1,0 +1,60 @@
+{
+  "destination": "Thailand",
+  "mainPhoto": "",
+  "id": "ethical-elephant-holiday-in-thailand-with-beach",
+  "tourName": "Ethical elephant holiday in Thailand with beach",
+  "placesVisited": "",
+  "generalInfo": "Elephant Encounters in Thailand shows just what is possible in Thailand for genuinely ethical and immersive elephant encounters and off-the-beaten-track cultural and wildlife experiences.  <br/><br/>The 'Mountain Adventure' at the heart of this trip is an extraordinary experience in a Karen village and tracking rescue elephants in their natural habitat on foot. Your stay will directly contribute to the rescue of more elephants, too. Not just 'off-the-beaten-track,' the location is 100s of miles from the tourist trail and all the better for it—a unique and memorable experience.   <br/><br/>Highlights include: <br/><br/>Track and follow rescue elephants in their natural habitat  <br/><br/>Stay as a guest of the Karen community in northern Thailand  <br/><br/>Several of Thailand’s finest boutique hotels and a beautiful beach stay",
+  "durationDays": "16",
+  "price": "4100",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Depart the UK on your overnight flight to Chiang Rai via Bangkok"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Bangkok: On arrival in Bangkok, you will be met by your guide and transferred to your hotel to unwind before heading out in the afternoon. Venture out on a walking tour as you get to know the city, stopping to sample street snacks and visit local markets before enjoying dinner. A full-day interactive journey will then reveal the city’s rich diversity. You’ll loosely follow the course of the Chao Phraya River, veering off to explore its famous canals and some communities that are much less visited by tourists. Sample the city’s amazing street food, have a go at Thai cookery in the flower markets and then watch the sun go down overlooking the temples. You’ll also have a chance to join a cycling adventure through the inner city oasis of Bang Kra Jao. Pedal through a paradise of lush tropical vegetation and enjoy a slower, more traditional pace of life."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Mahouts Mountain Adventure: Fly northwest to Mae Sot and begin your 4-day immersive journey into the heart of a Karen community near the Thailand-Myanmar border. Live alongside your host family in simple accommodation and discover their rich culture through traditional weaving, basket-making, and community activities. The highlight is spending time with rescued elephants, learning from expert mahouts as you trek through untouched cloud forests to observe these gentle giants in their natural habitat (note that zero interaction is allowed: you are encouraged to watch and learn from a safe distance. Explore organic rice fields and coffee plantations and savour breathtaking views over Myanmar from a mountaintop village. On arrival, check in to your hotel, a beautiful, peaceful retreat outside the city on the banks of the Ping River, for a 3-night stay. You’ll have a chance to explore the city sights, take a local street food tour and learn a little about Thai culture and tradition."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Sukhothai: Continue by road to Sukhothai and check into your hotel for a two-night stay. Spend a day exploring the sites of Thailand’s ancient capital, where serene temples and Buddha statues stand amidst tranquil landscapes. This UNESCO World Heritage Site offers a fascinating glimpse into the origins of Thai art, culture, and history."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Chiang Mai: Transfer to nearby Phitsanalok to board the train for a journey through the countryside to Chiang Mai, which takes around 6 hours. On arrival, check in to your hotel, on the banks of the Ping River, for a 4-night stay. You’ll have a chance to explore the city sights, take a local street food tour and learn a little about Thai culture and tradition."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Beach Time: Depart Chiang Mai and fly south via Bangkok to Krabi. Then check in at Tubkaak, a lovely, relaxed resort with views of the picture-perfect Hong Islands. Spend your time here enjoying the beach and the pool and reflecting on your Thai adventure."
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Fly home: Depart Krabi for your flight back to the UK via Bangkok."
+    }
+  ],
+  "map": ""
+}

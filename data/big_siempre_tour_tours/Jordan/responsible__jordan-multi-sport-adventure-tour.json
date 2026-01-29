@@ -1,0 +1,65 @@
+{
+  "destination": "Jordan",
+  "mainPhoto": "",
+  "id": "jordan-multi-sport-adventure-tour",
+  "tourName": "Jordan multi-sport adventure tour",
+  "placesVisited": "",
+  "generalInfo": "Experience Jordan’s most beautiful sights and places – all with a sense of adventure!",
+  "durationDays": "8",
+  "price": "1495",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive at Amman Airport, Amman is one of the oldest cities in the world, inhabited since the bronze age. The city is growing into a modern city, but retains its character and history. Upon your arrival to Amman, you will need to go to your pre-booked hotel in Amman (Hotel location to be shared). Depending on your flight arrival time, you may have free time to explore on your own. Meals included: – Overnight in Amman."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "\"Petra Back Trail\" After breakfast, you will be transferred to Little Petra ( Hiking start point) Back-Way Hike Today we will enter Petra via ‘the Back Door,’ avoiding most of the crowds. We will hike a beautiful route up out of the desert valley that skirts around a sandstone mountain into a hidden high plateau and the back entrance to Petra. Monastery Your hike is rewarded as you approach the largest and best-preserved facade in all of Petra. Without the crowds of the main sites below, this site is great for photos! Amphitheatre View the impressive theatre, carved into the mountain about 2000 years ago, with a capacity of 4000 spectators. Treasury Awe at the most-well known facade in Petra, expertly carved into the side of the cliff and standing almost 40 meters tall. Siq Exit the Nabatean city through the magnificent tall slot-canyon main entrance to Petra known as the Siq. Finish From there, we will head to the Visitor’s Center, where today’s tour ends. Overnight in Petra."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "\"Petra Trails : Al Madras Trail, Hight Place of Sacrifice, Wadi Farasa- Petra After your breakfast, we will start our hikes in Petra. Madrass Trail We will start on the main trail before quickly departing near the Obelisk Tomb. From there, we will head out on the Madras Trail, tucked in the hills south of the Siq. High Place of Sacrifice From this back entrance, we’ll climb up to the High Place of sacrifice with sweeping views of the Royal Tombs. Wadi Farasa Afterward, you will pass many sites including, the Renaissance Tomb, the Soldier Tomb, and then finishing at the Colonnaded Street in the Ancient Roman City in the heart of Petra. Free Exploration From the center of Petra, you will have free time to further explore the magical site on your own or head back to enjoy the cave bar or get some rest. You can head back down along the street of facades and the main trail, or for the adventurous, there are several good options to explore – including Jabal Khubtha, Um Bayyara, and more! Overnight in Petra."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "\"Cycle Shobak to Petra\" Shobak Castle Start the day with a short transfer to Shobak Castle, the first of a series of Crusader Castles built in Jordan to control the region’s trade. Cycle From Shobak we start our ride on one of the most epic stages of the Jordan Bike Trail to Little Petra. Mostly on dirt tracks with a section of paved roads, this route leads us around the mountains of Dana and Petra with great views across the Jordan Valley. Lunch boxes will be provided on our way by a local family from Petra. Little Petra Close to the end of the ride enjoy a visit to Little Petra – an ancient suburb of Petra. Bedouin Camp We’ll stay at a Bedouin camp, hidden behind the region’s typical sandstone mushroom rocks, where you will get a first-hand impression of the traditional Bedouin hospitality. Ride Stats 46 Km; +945m; -1255m; Max grade: 16,4%; Avg grade: 1,1%"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Little Petra - Cycle to Wadi Rum- 2 hours Jeep tour - Wadi Rum. Start Start Starting at appx 1600m our trail winds down a pleasant descent to the village of Toghra where the pavement meets the dirt. Cycle Today’s ride is a long descent off-road towards Wadi Rum followed by an enjoyable flat section on hard sand in the wide-open desert. Wadi Rum Once the ride is over, jump on a jeep safari to explore this World Heritage Site, traveling around Wadi Rum’s valleys, canyons, dunes, and deserts, discovering rock inscriptions, majestic views of mountains and landscapes, and narrow gorges. At each stop you have the opportunity to hike and scramble and explore in your own time. Ride Stats Cycling Info: 60 Km; +350m; -1200m; 45% off-road. Overnight in Wadi Rum."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "\"Summit Jabal Umm Ad-Dami\" Jeep Transfer After an early breakfast, we’ll head out on Jeeps to Jabal Umm Ad-Dami near the southernmost point of the nature reserve and the border with Saudi Arabia. Summit Jabal Umm Ad-Dami (1854M) This moderate hike will take 2-3 hours from the bottom to the top, where amazing panoramic desert views await. After the hike, a desert cooked lunch will be served. Overnight in Wadi Rum."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "\"Wadi Rum - Dead Sea Visit & Lunch - Amman\" Depart Today, we will leave the desert and proceed to the Dead Sea, the lowest point on earth. Relax at Dead Sea You can spend some time floating in the salty waters, try out the ‘magical’ Dead Sea mud, relax by the pool, or pamper yourself with some spa treatments – the perfect cure if your legs are still tired and sore from all the hiking. Head back to Amman In the late afternoon, we will hop on the bus for the last time, and follow the long, winding road up to Amman – to return to where the adventure began. Overnight: Hotel in Amman."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "\"Departure\" Check-out Our standard package finishes here. Depart to Airport Make your own way to the airport or book an airport transfer with us."
+    }
+  ],
+  "map": ""
+}

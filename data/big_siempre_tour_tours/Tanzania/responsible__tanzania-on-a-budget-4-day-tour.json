@@ -1,0 +1,45 @@
+{
+  "destination": "Tanzania",
+  "mainPhoto": "",
+  "id": "tanzania-on-a-budget-4-day-tour",
+  "tourName": "Tanzania on a budget, 4 day tour",
+  "placesVisited": "",
+  "generalInfo": "This budget safari plan is designed to maximize wildlife viewing opportunities. This tour  will take you to the best three National Parks of the Northern circuit. Tarangire National Park, Lake Manyara National Park and Ngorongoro Crater. Additional activities like cultural tour by visiting Maasai village or Biking around Lake Manyara and small town of Mto wa Mbu and finally a local lunch can be arranged during this tour.",
+  "durationDays": "4",
+  "price": "1800",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Welcome to Tanzania! Upon arrival in Tanzania you will meet your guide at Kilimanjaro International Airport who will escort you to your lodge in Arusha town for a relaxing. Arusha is the Tanzania Northern circuits tourists harbor. As locals Tanzanians, our guides know the country with unrivaled familiarity so you’ll be in good hands from the moment you land to the moment you leave. Overnight at Planet lodge on bed and breakfast."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "After breakfast your driver will pick you up and drive to Tarangire National Park .This relative secrecy is odd because during the dry season it’s a part of the migratory movement. Thousands of parched animals flock to the watering holes and thousands more makes their long way to the permanent water of the Tarangire river. Overnight at Karatu, a town close to Ngorongoro on full board basis at Marera view lodge. Transit time from Tarangire to Marera view lodge 2hrs."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "After an early wake up call head off to Ngorongoro crater for the crater tour with the packed breakfast. you will have early morning crater tour, it’s nice to get in the crater earlier. This must-visit destination in Africa harbors the highest concentrations of predators in the world-lions, hyenas, jackals and leopards . Overnight at Marera valley lodge. Transit time from Marera lodge to Ngorongoro crater is 1hr30."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "After breakfast drive to Lake Manyara National Park. This Park is known for the tree climbing lions, drive in the deep forest where old tuskers still roam, blue monkeys swing among huge fig and tamarind trees, giant baobabs, and mahoganies, using their long tail as an extra limb. Late afternoon drive to Arusha for your flight to Zanzibar or flight back home. Transit time from Lake Manyara National Park to Kilimanjaro airport is 3hrs."
+    }
+  ],
+  "map": ""
+}

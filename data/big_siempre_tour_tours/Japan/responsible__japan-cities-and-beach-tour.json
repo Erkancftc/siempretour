@@ -1,0 +1,50 @@
+{
+  "destination": "Japan",
+  "mainPhoto": "",
+  "id": "japan-cities-and-beach-tour",
+  "tourName": "Japan cities and beach tour",
+  "placesVisited": "",
+  "generalInfo": "Tokyo - Hakone/Mount Fuji - Kyoto - Okinawa - Tokyo<br/><br/>Japan is the ultimate bucket list destination: Think incredibly cities, dynamic and dramatic landscapes, the epicentre of traditional culture and ever changing modernity, blissful island beaches, brilliant food... all in one roundtrip carefully curated by our dedicated team of Japan specific specialists.<br/><br/>Your tour begins in Tokyo, a mesmerising metropolis of temples, markets, modernity and technology. Head straight into the fray or sit back and people watch with a matcha... the choice is yours.<br/><br/>From cityscape to unparalleled natural landscapes: head to the foot of Fuji via rail, boat over Ashino-ko Lake, or hike. However you visit, this is a view you are unlikely to forget.<br/><br/>Next stop, famous and picturesque Kyoto, host of tea ceremonies, artistry, and a sense of zen which pervades the town. We recommend taking a bike to explore the sites and sights.<br/><br/>Today you will take a flight to the island of Okinawa archipelago where you will enjoy some blissful down time on white sand beaches framed by turquoise waves. We can arrange snorkelling tours here as well as ample time to enjoy the peace and freedom on your own.<br/><br/>Give us a call to tailor this plan to your tastes and speak to a friendly Japan specialist today.",
+  "durationDays": "11",
+  "price": "2994",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "LET'S GO TOKYO: One of the world’s truly great cities, Tokyo is a thrilling mix of the past and future, complete with incredible cuisine, neon-lit nightlife and unique pop-culture. After being picked up from the airport and transferred to your hotel near the heart of the city, you’ll have plenty of time to visit the contrasting areas which make up this unique metropolis. You’ll also take an evening tour of Shibuya with a guide popping into a few well-chosen eateries where you can have drinks and try out some delicious bar food. At the end of the tour, you’ll be well prepped to explore the dazzling streets of Tokyo all by yourself, like a true local."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "AT THE FOOT OF FUJI: Today you will make your own way to the train station to get your first taste of train travel in Japan en route to Hakone, the gateway to Mount Fuji. For the next couple of days you’ll stay in Hakone, located near the foot of the mountain and beside Ashino-ko Lake, providing a spectacular setting from which to take in the majesty of Fuji. The town is understandably popular and provides multiple tourist attractions and facilities, so we’ll provide a pass so that you can experience them at your own pace. You’ll have plenty of options – ride the railway, take a boat trip on the lake, visit the impressive Hakone Shrine or some of the many museums – it totally up to you! There are also some great hiking trails if you feel like escaping the crowds. After a full day of exploring you can relax in one of the town’s many Onsen, and grab yourself some tasty Japanese cuisine at one of the many excellent restaurants."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "UNCOVER THE HEART OF KYOTO: Next up you will make your way to the train station and head to pretty Kyoto. When you think of Japan, you might imagine ancient temples, perfectly manicured zen gardens and time honoured tea ceremonies. Well, that’s Kyoto in a nutshell! During this trip you’ll spend 2 nights in this pretty city and hop aboard a bike to discover the city’s hidden backstreets. You can expect to whizz past willow lined rivers, along narrow streets and alongside traditional merchant houses."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "BLISSFUL BAYS OF OKINAWA: Today you’ll be collected from your hotel in Kyoto and taken to the airport to catch a flight to Okinawa, a subtropical archipelago that couldn’t differ more to the mainland Japan. Think white sandy beaches, warm turquoise ocean and over 150 islands dotted around the East China sea. With a distinctive islandic culture and a strong American influence, Okinawa has got its own flavour. After all, neon lights and swaying palm trees go very well together. Who knew! You’ll land in Naha airport and get transferred to your beachside hotel, about an hour away. Here you’ll spend three blissful nights (let us know if you fancy to have more downtime here!), falling asleep to the sound of crashing ocean waves. The hotel has an excellent restaurant and a huge swimming pool. And there are beaches and beautiful parks to keep you entertained too. While you are in Okinawa we will arrange for you to explore the amazing underwater world on a snorkelling tour. You will be collected from your hotel and taken to board the boat, where your knowledgeable local guide awaits. They will take you and other travellers to some pretty spectacular snorkelling locations where you can observe coral reefs and their inhabitants. The variety of the marine life here is exceptional! After the tour you’ll be transferred back to your hotel. We haven’t planned anything else for your time in Okinawa so you could enjoy your free time and explore the island at your own pace."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "NEON NIGHT IN TOKYO: At the end of your stay in Okinawa, you will be picked up from your hotel and transferred back to Naha airport on time for your flight back to Tokyo, for another night in the neon city. As your Japanese adventure comes to an end you will spend one more night in this bustling city, take a final walk past the towering skyscrapers and tuck into some tasty sushi. The following morning you will be collected and taken to the airport for your international flight home. Before heading through customs and security, remember to post your pocket wifi unit back through the airport post office."
+    }
+  ],
+  "map": ""
+}

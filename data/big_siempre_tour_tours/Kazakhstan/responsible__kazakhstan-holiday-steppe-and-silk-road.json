@@ -1,0 +1,65 @@
+{
+  "destination": "Kazakhstan",
+  "mainPhoto": "",
+  "id": "kazakhstan-holiday-steppe-and-silk-road",
+  "tourName": "Kazakhstan holiday, Steppe and Silk Road",
+  "placesVisited": "Almaty, Altyn-Emel National Park, Charyn Canyon, Tamgaly, Aksu-Dzhabagly Nature Reserve, Turkestan",
+  "generalInfo": "On this Kazakhstan holiday you’ll explore the sights of the Steppe and the legendary Silk Road, along with a small group of likeminded travellers. Although it’s one of the largest countries in the world, Kazakhstan is little visited by tourists, many of whom head for the better known Silk Road sites in neighbouring Uzbekistan. Those who do venture here are treated with vast open spaces, fascinating ancient towns and mysterious monuments – without another tourist in sight.<br/><br/>Kicking off the tour in Almaty, which has a distinctly Russian ambience, you’ll then make your way into the dramatic countryside, where highlights include the mighty peaks and ancient burial mounds of Altyn-Emel National Park; otherworldly Charyn Canyon; the prehistoric rock carvings at Tamgaly; and the meadows, plains and rich wildlife of the Aksu-Dzhabagly reserve.<br/><br/>The last stop in your tour is atmospheric Turkestan, which is rich in ancient buildings and mausoleums – all reminders of the town’s past wealth and significance.  <br/><br/>",
+  "durationDays": "10",
+  "price": "2549",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Almaty - Arrive in Almaty and transfer to the hotel. The rest of the day is free to relax or explore. Overnight Kazakhstan Hotel or similar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Altyn-Emel National Park - Drive to Altyn Emel National Park and spend two days exploring this beautiful area, located between the Ili River and the Ak Tau mountains and covering an area of 4,600 square kilometres. We visit the multi-hued mountains, the famous ‘singing dune’, and the burial mounds of Besshatyr, which date back to the 1st millennium BC. Overnight guesthouse. (BLD) situated in a stunning mountain valley. Overnight Kazakhstan Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Charyn Canyon – Almaty - Today we head to Charyn Canyon, one of Kazakhstan’s most impressive natural sights. After some time spent exploring this area we return to Almaty. Overnight Kaz Zhol Hotel or similar. (BL)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Tamgaly – Aksu-Dzhabagly - From Almaty we drive to the petroglyphs at Tamgaly, a collection of around five thousand rock engravings which date back to the Bronze Age. Later we return to Almaty to take the overnight train to Tyulkubas, near the Aksu-Dzhabagly Nature Reserve. (B)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Aksu-Dzhabagly Nature Reserve - Arrive into Tyulkubas and drive to Aksu-Dzhabagly Nature Reserve. Spend the rest of our time exploring this beautiful area, situated within mountains and hills and dotted with pretty alpine meadows. This is one of the most important areas in Kazakhstan for wildlife, with an impressive number of mammal and bird species, including bears, ibex and the ever elusive snow leopard. Overnight Zhenya Guesthouse or similar. (Day 6 – LD, Day 7 - BLD)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Turkestan - Drive to the ancient town of Turkestan, stopping en route at the ruins of Otrar and the 12th century Mausoleum of Arystan-Bab. After lunch we explore Turkestan including the mausoleum complex of Khodja Akhmad Yassawi, dating to the 12th century but much restored and improved by the Mongol ruler Timur two hundred years later. Later we transfer to the station to take the overnight train back to Almaty. (B)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Almaty - Arrive in Almaty in the early afternoon. Spend the rest of the day exploring the city, visiting Panfilov Park, the picturesque Zenkov Cathedral, as well as Republic Square and other sites of interest. Overnight KazZhol Hotel or similar."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Almaty - Transfer to the airport for your onward flight. (B)"
+    }
+  ],
+  "map": ""
+}

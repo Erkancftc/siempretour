@@ -1,0 +1,40 @@
+{
+  "destination": "Rwanda",
+  "mainPhoto": "",
+  "id": "gorilla-and-golden-monkey-short-break-rwanda",
+  "tourName": "Gorilla and Golden Monkey short break, Rwanda",
+  "placesVisited": "",
+  "generalInfo": "On this safari, you will experience the scenery, nature and wildlife of Rwanda. Drive to volcanoes national park in northern Rwanda for an experience tracking the mountain gorillas and explore the park with the golden monkey trekking. <br/><br/>Visit the gorilla guardians village for a cultural experience of Rwanda. Learn about the way Rwandans lived in the past. Meet the Rwandan people and interact beyond the gorillas.",
+  "durationDays": "3",
+  "price": "3961",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "TO VOLCANOES NATIONAL PARK - CANOEING ON RIVER MUKUNGWA: Your driver guide will pick you up from the airport or your hotel. You will then transfer to Volcanoes national park for a down time as you prepare for gorilla trekking the next day. Depending on your arrival time – you will have a short Kigali city tour OR Canoeing on River Mukungwa"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "GORILLA TREKKING AND GORILLA GUARDIANS VILLAGE: Start the gorilla trek with a briefing from the ranger guides at the park headquarters. After the brief, join a gorilla group with guidance from your tour guide. Depending on location of gorilla family, you might have to drive to the trail head. Start the gorilla trek and after one hour with the gorillas, you start your hike out of the park. Your driver guide will pick you up and transfer you to the lodge for down time. After the gorilla experience, visit the gorilla guardians village and learn about the culture and history of Rwanda. Try out your bow and arrow shooting skills or basketry etc."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "GOLDEN MONKEY TREK | KIGALI – DEPARTURE Golden monkeys are in the Virunga volcanoes of Uganda, Rwanda and DR Congo. After a short brief from the ranger guide, you will start your hike up in search of the golden monkeys. The golden monkeys are more active than the gorillas and you will follow them as they move to feed. Like gorilla trekking, you are only allowed 1 hour with the golden monkey. Return to the lodge, freshen up and have lunch. After this, leave for the airport/hotel in Kigali."
+    }
+  ],
+  "map": ""
+}

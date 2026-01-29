@@ -1,0 +1,85 @@
+{
+  "destination": "Kyrgyzstan",
+  "mainPhoto": "",
+  "id": "kyrgyzstan-discovery-tour",
+  "tourName": "Kyrgyzstan discovery tour",
+  "placesVisited": "",
+  "generalInfo": "Experience the warm hospitality of remote Kyrgyzstan on a journey through rural villages and wild landscapes. Begin in the bustling capital of Bishkek and barter in Osh Bazaar. Marvel at picturesque views across the Ala Archa Gorge, hike through a blend wild and pastoral landscapes in Chon-Kemin Valley, and marvel at the alpine Issy Kul Lake.<br/><br/>Behold the celestial heights of the Tian Shan mountains, before discovering the ancient traditions of felt- and yurt-making, as well as eagle training. Take in Karakol’s 19th-century Russian architecture, walk amongst the prehistoric petroglyphs of Cholpan Ata and stop for a rest at Tash-Rabat caravanserai, a key Silk Road staging post. End your journey in the colourful bazaars of Osh, against the beautiful backdrop of the Sulaiman-Too Sacred Mountains.<br/><br/>TOUR HIGHLIGHTS<br/>Sublime beauty of Issy Kul Lake<br/>Prehistoric art of Cholpan Ata<br/>Remarkable rock formations at Jety-Oguz gorge<br/>Eagle Hunting of Bokonbaevo<br/>Yurt-making in Kyzyl Tuu<br/>Ancient caravansarai of Tash-Rabat<br/>Traditional felt workshop of Kochkor<br/>Natural tranquillity of Chon Kemin valley<br/><br/>PLACESS VISITED<br/>Bishkek - Issy Kul Lake - Cholpan Ata - Reina Kench Farm - Karakol - Skazka canyon - Naryn - Kyzil Tuu - Tash-Rabat - Kochkor - Chon-Kemin valley - Ashu - Ala Archa Gorge<br/><br/>WHAT'S INCLUDED<br/>Arrival &amp; departure transfers<br/>Ground transport with driver<br/>Accommodation<br/>Meals (refer to itinerary for meal plan)<br/>English-speaking guides<br/>Entrance fees to sites &amp; parks",
+  "durationDays": "12",
+  "price": "2095",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "On arrival in Bishkek you will be met by a travel representative and transferred to your hotel. After resting, take a tour of Bishkek. Highlights will include a visit to Osh Bazaar and the Eternal Fire (Victory Square). Overnight in Hotel Plaza, Bishkek. Meal plan: Dinner"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Drive along the north coast of Issy Kul lake, stopping to see the petrogylphs in Cholpan Ata as well as its ethnographic museum. It is possible to do a yacht ride on Lake Issy Kul here too. Overnight in Hotel Raduga , Cholpan Ata. Meal plan: Breakfast, lunch & dinner"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Visit the Nikolai Przhevalskii museum, then continue to Reina Kench farm. Visit the farm and enjoy its ample grounds. Overnight in Guesthouse Reina Kench, Reina Kench Farm. Meal plan: Breakfast, lunch & dinner"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Go on a city tour of Karakol and visit the Orthodox Cathedral and Dungan mosque. In the afternoon visit Jety Oguz and take a walk in the picturesque Valley of the Flowers. Overnight in Green Yard Hotel, Karakol. Meal plan: Breakfast, lunch & dinner"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Go on an excursion to Altyn Arashan gorge by track or UAZ off-road vehicle. Overnight in Green Yard Hotel, Karakol"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Visit Skazka canyon and Tamga gorge. Overnight in Tamga in local guesthouse. Meal plan: Breakfast, lunch & dinner"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Drive to Bokonbaevo to meet an eagle trainer and his eagle. Continue on to Kyzil Tuu, here you can learn about how yurts are made (optional activity, not included), before driving to Naryn. Overnight in Khan-Tengri Hotel, Naryn Meal plan: Breakfast, lunch & dinner"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Day trip to visit Tash-Rabat. Return for an overnight in Khan-Tengri Hotel, Naryn. Option to stay in a yurt at Tash-Rabat instead is available. Meal plan: Breakfast, lunch & dinner"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Drive to Chon Kemin Valley visiting Kochkor en route. Rest of the day free to relax and enjoy the beautiful surroundings. Overnight in Ashu Guesthouse, Chon-Kemin valley. Meal plan: Breakfast, lunch & dinner"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Drive to Bishkek, stopping at Burana Tower en route. Overnight in Hotel Plaza, Bishkek. Meal plan: Breakfast, lunch & dinner"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Go on an excursion to Ala Archa Gorge, rest of the day free. Overnight in Hotel Plaza, Bishkek. Meal plan: Breakfast, lunch & dinner"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "At an appropriate time, transfer to the airport for your departure flight home or onward destination. Meal plan: Breakfast"
+    }
+  ],
+  "map": ""
+}

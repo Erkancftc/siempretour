@@ -1,0 +1,85 @@
+{
+  "destination": "India",
+  "mainPhoto": "",
+  "id": "north-india-wildlife-expedition-tour",
+  "tourName": "North India wildlife expedition tour",
+  "placesVisited": "",
+  "generalInfo": "Embark on an unforgettable 12-day wildlife and nature safari across some of North India’s most pristine and diverse wilderness landscapes. Your journey begins in Delhi, where you can unwind after arrival before setting off for Rajaji National Park. Nestled in the Shivalik foothills, Rajaji offers thrilling encounters with elephants, leopards, and a rich variety of birdlife, explored over two days of morning and evening safaris while staying at the charming Rosette Farmstead. From there, travel to the iconic Corbett Tiger Reserve and settle into Jim’s Jungle Retreat. Enjoy safaris through the Jhirna, Dhela, and Bijrani zones—renowned for their high tiger and elephant populations, as well as opportunities to spot sloth bears and hornbills. After immersing yourself in Corbett’s scenic beauty, continue to the remote and wild Terai region, arriving at Dudhwa National Park. Over three days, explore both Dudhwa and Kishanpur Wildlife Sanctuary—lesser-visited parks that promise sightings of the rare one-horned rhinoceros, swamp deer, and an incredible variety of raptors and forest birds. Your base here is the cozy Tiger Lilly Lodge, offering comfort and hospitality in the heart of the jungle. Each park showcases its own unique ecosystem, from alluvial grasslands to dense sal forests, ensuring a diverse and rewarding wildlife experience. The itinerary concludes with a return to Delhi for a final night of relaxation before your onward journey. This expertly curated safari is ideal for nature lovers, photographers, and wildlife enthusiasts eager to explore India’s untamed beauty in comfort and style.",
+  "durationDays": "12",
+  "price": "3786",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Upon arrival at Delhi Airport, you will be received and transferred to your hotel, Novotel Delhi. The rest of the day is at leisure, giving you time to relax or explore the surroundings at your own pace. Overnight stay at Novotel Delhi. Meal Plan: Bed & Breakfast"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "After breakfast, check out from Novotel Delhi, and begin your scenic 4-hour drive to Rajaji National Park. Upon arrival, check in to the charming Rosette Farmstead, nestled close to the park’s wilderness. Dinner and overnight stay at Rosette Farmstead."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Begin your day with an exciting morning safari in Rajaji National Park, exploring its diverse landscape of sal forests, grasslands, and riverbeds—home to elephants, leopards, and rich birdlife. After a relaxing afternoon, head out again for an evening safari, offering a chance to witness the park’s wildlife as it becomes active at dusk. An unforgettable wilderness experience awaits. Dinner and overnight stay at Rosette Farmstead."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Begin your day with a morning safari in Rajaji National Park, exploring its scenic terrain of dense forests, grasslands, and riverine ecosystems. The park offers excellent chances to spot elephants, leopards, spotted deer, and vibrant birdlife. After a break, venture out again on an evening safari, when wildlife activity peaks, offering a different perspective of the jungle as it transitions into dusk. Dinner and overnight stay at Rosette Farmstead."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "After breakfast depart to Corbett which will be a 3 Hrsdrive, Arrive at Jim's Jungle Retreat, a serene wildernesslodge nestled in the southern buffer zone of CorbettTiger Reserve. After check-in and settling into youraccommodations, enjoy a short guided nature walk ledby the resident naturalist, offering an introduction to therich biodiversity of the region. Dinner & Overnight stay at Jim’s Jungle Retreat"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Early morning, set out on a thrilling safari to the Jhirna or Dhela Zone—once reclaimed villages, now thriving wildlife habitats. These zones offer excellent opportunities to spot tigers, elephants, sloth bears, and great hornbills amidst rich natural surroundings. Return to the lodge for a hearty breakfast and lunch. In the afternoon, head back into the Jhirna/Dhela Zone, a striking mosaic of dry deciduous forest and riverbeds. This area is known for its frequent tiger and elephant sightings, making for an exciting wildlife experience. Dinner & Overnight stay at Jim’s Jungle Retreat"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Venture into Bijrani, Corbett’s most scenic zone with open meadows and sal forest, often dotted with tiger pugmarks and birdlife. Return to the lodge for lunch. In the afternoon, enjoy another safari into either Jhirna or Dhela, depending on latest wildlife movement. Dinner & Overnight stay at Jim’s Jungle Retreat."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "After breakfast and check-out, begin your scenic drive through the lush Terai landscape, arriving at Tiger Lilly Lodge by evening. Dinner & Overnight stay at Tiger Lilly Dudhwa"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Embark on morning and evening safaris in the lesser- visited Kishanpur Wildlife Sanctuary, a vast open grassland landscape renowned as one of the best locations in the Terai to spot tigers. The sanctuary also supports healthy populations of swamp deer, hog deer, and a variety of raptors, making for a rich and rewarding wildlife experience. Dinner and overnight stay at Tiger Lilly, Dudhwa."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Experience morning and afternoon safaris in the iconic Dudhwa National Park, a biodiverse haven of alluvial grasslands, wetlands, and towering sal forests. Keep an eye out for the majestic Indian one-horned rhinoceros, elephants, and an impressive array of birdlife that thrive in this unique ecosystem. Dinner and overnight stay at Tiger Lilly, Dudhwa"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "After breakfast, check out from Tiger Lilly and embark on a scenic 8.5-hour drive to Delhi. Upon arrival, check in to Novotel Delhi. Dinner and overnight stay at Novotel Delhi."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "After breakfast check out from Novotel Delhi and transferred to Delhi airport for onward flight"
+    }
+  ],
+  "map": ""
+}

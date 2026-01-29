@@ -1,0 +1,80 @@
+{
+  "destination": "Oman",
+  "mainPhoto": "",
+  "id": "diving-holiday-in-oman",
+  "tourName": "Diving holiday in Oman",
+  "placesVisited": "Muscat, Salalah, daily shore and boat drives, free day at the beginning and end of the trip",
+  "generalInfo": "All our itineraries are tailor-made and the below is just a suggestion.  We can tailor-make your diving holiday to include as much or as little as you would like – maybe a trip to a nearby Wadi or a desert camping adventure.  Whether it's just a week's diving holiday you are after or a complete Oman adventure, our specialist team can guide you to your ultimate diving holiday experience.<br/><br/>This amazing diving holiday will show you the best diving Oman has to offer.  The diving in Muscat and the diving in Salalah are very different making this an excellent twin centre trip with a good contrast in diving conditions and sea life.   <br/><br/>You start your trip in Oman's capital, Muscat, with its golden beaches and breath-taking mountain backdrops.  Here you will find a wonderful mix of the ancient with the modern and it is renowned as one of the cleanest Arab capitals. <br/><br/>There are over 40 dive sites to visit off the coast of Muscat to include the well-known Daymaniyat Islands, Banda Khairan, Fahal Islands.  With deep drop offs, wrecks and coral flanked walls this brings a wealth of reef fish.  The cool water up welling provides an abundance of plankton which, although can effect visibility, does make this area a rich feeding ground for a large variety of marine life to include dolphins, turtles, reef sharks, stingrays, whale sharks, barracuda etc.  <br/><br/>You then fly down to Salalah which is the capital of the Dhofar region and sits on a long sandy palm fringed beach.  Due to the June to September monsoon (the “khareef”) the surrounding countryside is lush and tropical offering an amazing contrast to Muscat.  Explore miles of deserted white sand beaches and where the Frankincense trees can be found in the surrounding mountains.<br/><br/>The best time for diving is from October through to May due to the large kelp forests that can grow here in the summer months.  There are numerous dive sites along a 40 km stretch of coast where the waters are extremely blue with good visibility.  You can find some beautiful brain and table corals together with schooling fish, moray eels, nudibranch, turtles, large groupers and a variety of rays.",
+  "durationDays": "11",
+  "price": "2116",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly from London Heathrow to Muscat direct with Oman Air."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Early morning arrival into Muscat airport where you will be met for your private transfer directly to your hotel. The rest of the day is a free day at your hotel to relax and explore your surroundings."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "First 2 x morning boat dives (B) - You will meet at the dive centre to sort out paperwork, equipment hire etc. You will then be transferred on to the boat where you will be taken to two different dive sites to complete your 2 x morning dives for that day (with the relevant surface interval). You will then return to your hotel to relax and explore your surroundings."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Second 2 x morning boat dives (B) - Itinerary as Day 3."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Third 2 x morning boat dives (B) - Itinerary as Day 3."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "You will be picked up by private transfer from your hotel and taken to Muscat airport where you will fly down to Salalah. On arrival to Salalah airport you will be met by your private transfer and taken directly to your hotel. (B)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "First 2 x shore or boat dives - You will be picked up at your resort where you will sort out paperwork. Equipment hire will be sorted out prior to arrival. Dependant on the weather conditions, you will then take your 2 x morning dives either by boat or by shore (with the relevant surface interval). You will then return to your hotel for the afternoon to relax and explore your surroundings."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Second 2 x shore/boat dives (B) - Itinerary as Day 3."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Third 2 x shore/boat dives (B) - Itinerary as Day 3."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "As the recommended requirement is a surface interval of 24 hours from your last dive time to flying, this is a free day at your hotel to relax and explore your surroundings."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Departure (B) - To be picked up by private transfer and taken to Salalah airport to fly back to London Heathrow via Muscat."
+    }
+  ],
+  "map": ""
+}

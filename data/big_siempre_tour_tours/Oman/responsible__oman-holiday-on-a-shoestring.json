@@ -1,0 +1,65 @@
+{
+  "destination": "Oman",
+  "mainPhoto": "",
+  "id": "oman-holiday-on-a-shoestring",
+  "tourName": "Oman holiday on a shoestring",
+  "placesVisited": "Muscat, Al Hamra, Misfah, Nizwa, Wahiba Sands, Wadi Bani Khaled, Sur, Raz Al Jinz, Bimah Sinkhole, Wadi Arbayeen",
+  "generalInfo": "This rustic 8 day private tailor made tour of Oman allows you to enjoy all the stunning scenery Oman has to offer, but “on a shoestring,” with stays in traditional Omani villages and camping out under the stars in local desert camps. Swim in clear pools in luscious green Wadi Oasis’ before heading out in a 4WD dune driving in the Wahiba Sands. Watch traditional Omani lifestyle visiting fishing villages and dhow building yards, Beduoin camps and Omani souqs, all with your own private driver/guide and vehicle. <br/><br/>Committed to the protection of the beautiful Giant Green Turtle (Cheloniamydas), Raz Al Jinz Turtle Reserve and Scientific Centre is a must-visit on any Oman itinerary. Situated on the east coast, just 30 minutes from the coastal town of Sur, the centre offers a unique eco-tourism experience and an unparalleled encounter with sea turtles.<br/><br/>Your guide will accompany you for the duration of your tour of the interior of Oman, giving you the option to travel at your leisure and away from the crowds. This trip can be tailor made to create a unique holiday for your individual requirements by travel experts with intimate knowledge of the destination. <br/><br/>You can add additional nights in Muscat at the beginning or end and we can recommend different hotels and experiences for you based on your preference. We can also substitute the fixed desert camp for wild camping. <br/><br/>Best time to go:<br/>The best time to travel is from October through to April as the temperatures are warm during the day and mild in the evening. During the summer from May to September the sun is very hot making this tour rather uncomfortable.",
+  "durationDays": "8",
+  "price": "1890",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Muscat where you will be met and transferred to your hotel for the next 2 nights."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Enjoy a city tour of Muscat visiting the Grand Mosque and the Bait Al Zubair Museum (Natural History Museum) for an insight into Oman’s history. Drive along the waterfront of the Corniche visiting the colourful Muttrah Souq with a photo stop to the magnificent Al Alam Palace; the official palace of His Majesty Sultan Qaboos. (B)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Depart with your driver guide in a 4WD vehicle for the start of a fascinating roundtrip of the interior with the first leg taking into the village of Al Hamra, famous for its date plantations and oldest preserved houses in Oman, which are 300 years old made of palm beams topped by mud and straw. Arrive in Misfah where you will be staying this evening; through narrow alleys between old stone houses to your guesthouse and experience traditional rustic Omani life. (B)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "After breakfast visit Nizwa fort and wander around Nizwa souq where the locals trade in traditional as well as imported merchandise, from vegetables to jewellery. Drive to the pretty village of Birkat Al Mauz. Enjoy a walk through the lush green date plantations. Proceed to Wahiba Sands, a vast mass of undulating red and white sea of sand. After some exciting sand dune driving you will arrive at your Desert Camp for the evening. (B,D)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Experience the thrills of dune driving in the desert this morning before you depart for Wadi Bani Khaled. Here you have the chance for a refreshing dip in pools of clear deep blue/green water. Continue to Sur driving out to the coast to Raz Al Jinz for an overnight stay at the Ras Al Jinz Scientific Centre. This evening walk to the beach with turtle ranger on a group excursion to observe nesting turtles (please note that sightings of turtles cannot be guaranteed). Overnight at the Ras Al Jinz Scientific Centre with dinner. (B,D)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Head back to Muscat via Sur and visit the ancient dhow boatyards and visit Sinasila fort. En route stop at Fins Beach for a swim before visiting the Bimah Sinkhole; a spectacular limestone crater with a pool of blue water at the bottom. Proceed to Wadi Arbayeen with its refreshing deep pools of water set among the date palms before arriving in Muscat to overnight. (B)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Free in Muscat to relax at the hotel visit the beach or explore the capital. (B)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Today you will be collected from your hotel and transferred back to Muscat airport in time for your return flight home. (B)"
+    }
+  ],
+  "map": ""
+}

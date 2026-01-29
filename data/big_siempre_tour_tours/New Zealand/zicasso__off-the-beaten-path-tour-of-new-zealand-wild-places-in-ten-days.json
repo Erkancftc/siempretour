@@ -1,0 +1,70 @@
+{
+  "destination": "New Zealand",
+  "mainPhoto": "",
+  "id": "off-the-beaten-path-tour-of-new-zealand-wild-places-in-ten-days",
+  "tourName": "Off the Beaten Path Tour of New Zealand: Wild Places in Ten Days",
+  "placesVisited": "Hokianga, Lake Aniwhenua, Raetihi, Whanganui National Park, Napier, Christchurch, Peel Forest, Hawke's Bay",
+  "generalInfo": "On this luxurious, 10-day adventure, you will canoe down wilderness rivers, search for the real Middle Earth, immerse yourself in a Maori community, explore an art deco city, and discover the unfrequented far north. Handcrafted with private tours and transfers, this is a journey into destinations that bask in their authenticity. Instead of other visitors, you will uncover secluded New Zealand.",
+  "durationDays": "10",
+  "price": "4,100",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Hokianga – Ninety Mile Beach",
+      "description": "After flying to Auckland, you will pass through customs and immigration before transferring on a domestic flight to Northland, which is New Zealand’s most tropical region. You should sit on the right side because this will provide you with stunning views over Ninety Mile Beach. After touching down, you will be greeted by a guide for a day of Pacific allure. Today will be customizable, and you can choose how far to travel on Ninety Mile Beach. You may want to drive a four-wheel drive vehicle along a long and flat stretch of sand. Your guide can also arrange a sailing trip around Northland, where you can discover a number of otherwise inaccessible beaches."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Hokianga – Exploring Waipoua Forest",
+      "description": "Hokianga is an excellent base because you can travel in many directions. A trek in Waipoua Forest is an essential experience when exploring New Zealand’s far north. The rest of the day can be tailored to your interests with options to explore inland forests and trails or to stay out on the coast where Pacific views seem to extend for eternity. Sandboarding the enormous white dunes is another possible option. Hokianga will also introduce you to an old-world way of life. The working harbor is a meeting place for Maori and European cultures, and it will be fascinating to explore the contrasts and congruence from a boat."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Lake Aniwhenua – Maori Experiences",
+      "description": "From Hokianga, you will indulge in a beautiful journey toward Cape Reinga before looping to the Eastern coast for a flight from Kerikeri to Auckland. You will land in New Zealand’s largest city before being transferred to Lake Aniwhenua, where the experience will be all about cultural connection. Most people know the Maori for their well-built stature and haka war dance. You will be hosted by a local whanau, or family, for an afternoon and evening of Maori tradition. Local guides will show you some secret spots around the lake, and you will be provided with the opportunity to go canoeing along the shoreline."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Raetihi – Old-World New Zealand",
+      "description": "The journey to Raetihi will traverse North Island’s volcanic landscape. Thousands of conical hills shape the land. You will snake around one and be greeted by another and another until you can see nothing but green hills that are speckled white with sheep. This bucolic scenery will be followed by the old-world charm of Raetihi, which is a historic town that is home to a delightful spa and lodge. The afternoon and evening will be at your leisure, and it can be great to bask in some modern luxuries before you set off on the Whanganui River tomorrow."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Whanganui National Park – Wilderness Canoeing",
+      "description": "The Whanganui River journey is one of New Zealand’s acclaimed Great Walks. It is not a walk, but a canoe trip through a wilderness that is inaccessible by road or on foot. The entire canoe trip covers over 90 miles, but you will not have the time for that. Instead, you will canoe a quiet, two-day section that is deep in the forest. You should note that this New Zealand itinerary can be customized to include more time on the river. You can also choose a three-day Whanganui River trip or combine the two and three-day options for a five-day expedition. There are no single day options because once you are on the river, it is at least two days to the next take out point."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Hawke's Bay – Endless Vineyards",
+      "description": "After the great outdoors, you will return to some modern luxuries today. Your local guide will transfer you past a couple of iconic volcanoes to the pastoral valleys of Hawke's Bay. Napier sits at the heart of this vineyard country, and it is a wonderful city for a stroll. A tour of Napier will be complemented by wine tasting at a couple of Hawke's Bay vineyards. Almost all these wineries remain small-scale and boutique, so you can meet the owners and winemakers during your tasting. This evening, you will be staying amid the vines at a small Hawke's Bay vineyard."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Christchurch – Street Art Tour",
+      "description": "This morning, you will have an early start as you board the first direct flight of the day between Hawke's Bay and Christchurch. Today, you will join a local artist for a private tour of Christchurch. Using wall murals as a focal point, you will tour different points from the earthquake and rubble. Clearing rubble is an enormous job, and you will see piles of broken buildings that are yet to be removed. Artists painted vibrant murals on the sides of ruined buildings; they injected color and life into the city, giving the city a pleasant aesthetic."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Christchurch – Into Middle-Earth",
+      "description": "Today, you will explore Rangitata and Peel Forest, which are areas that have been featured in the Lord of the Rings trilogy and are as Middle-earth looking as anywhere in the country. Sharp peaks will provide you with a dramatic backdrop while undulating trails lead you on a 30-minute stroll or four-hour hike. Rangitata and Peel Forest showcase a quintessential New Zealand landscape, but they remain mostly unexplored because people venture elsewhere on the South Island. After a day spent outdoors, you will return to Christchurch for a second night in the city."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Christchurch – Departure",
+      "description": "After breakfast, you will transfer to the airport and depart New Zealand directly from Christchurch."
+    }
+  ],
+  "map": ""
+}

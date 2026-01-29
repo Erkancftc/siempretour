@@ -1,0 +1,60 @@
+{
+  "destination": "Peru",
+  "mainPhoto": "",
+  "id": "riveting-time-capsule-trip-of-perus-capital",
+  "tourName": "Riveting Time Capsule Trip of Peru’s Capital",
+  "placesVisited": "Lima, Caral, Nazca Lines, Paracas",
+  "generalInfo": "Throughout this 7-day exploration of Peru’s history and culture, uncover some of the country's most treasured historical gems. Discover the ancient wonders of the stunning region of Lima, and fall in love with the friendly people, charming shops, delicious restaurants, and spectacular views. Amble through Lima's downtown, immerse yourself in the ancient civilizations of Caral, and fly over the enigmatic Nazca Lines.",
+  "durationDays": "7",
+  "price": "2,600",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Lima – Dinner on the Shoreline",
+      "description": "As you touch down along the coastline of Peru's vivacious national capital, you will be greeted by your private transportation, who will transfer you to your luxurious accommodation in the heart of the city. Once you arrive at your opulent accommodation, you can settle in and catch a glimpse of the breathtaking ocean views from your private balcony. In the afternoon, you can venture into the city center for some self-guided exploration. You will have a chance to stroll through the pristine parks of Miraflores as the sun begins to set."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Lima – Ceviche Cooking Class",
+      "description": "After enjoying breakfast at your hotel, you will meet your expert guide for a customized tour of the city's downtown area. During your tour, you will delve into the local history while also coming to understand Lima as a point of national pride. Eventually, you will make your way to the Plaza de Armas, which is bursting with shady palm trees and vibrant facades of government buildings and palaces. Finally, your tour will conclude in the elite neighborhood of Miraflores. In the afternoon, you will join an expert chef in crafting one of Peru's most famous dishes: ceviche ."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Lima – Visit Ancient Ruins",
+      "description": "This morning, you will begin your day in the peaceful Parque del Amor, where couples gather to sit on mosaic benches and admire the view of the ocean. Afterward, you will enjoy a short bike ride along the coastline for the best views of the city. Soon, the Miraflores Lighthouse will unfold beyond a grassy hillside. In the afternoon, you will delve further into Peru's history as you venture beyond the capital city to the ancient ruins of Pachacamac. This ancient citadel is vital to the history of Peruvian people, and you will have the luxury of visiting the nationally acclaimed site."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Caral – The Oldest Town in the New World",
+      "description": "Today, you will journey to what has been deemed the Oldest Town in the New World. Located in the Supe Valley, this unique citadel is the most ancient city in the Americas, and it was inhabited during the 26th through the 20th centuries BC. Before you know it, you will arrive in this ancient citadel and delve into the region's mesmerizing history. You will tour fascinating key features of the site like the Main Temple and also catch a glimpse of among 19 other nearby temples. In the evening, you can enjoy dinner along the Pacific shoreline."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Nazca Lines – Private Helicopter Ride",
+      "description": "Today, you will fly over the mysterious Nazca Lines, which are geoglyphs that have left historians and archaeologists guessing for centuries. In the early morning hours, you will fly from Lima to Nazca. Along your journey, you will be provided with spectacular views of the shimmering coastlines near the city of Pisco. You will then meet your expert guide, who will lead you to your private helicopter. Soon after you take off, you will be flying over extraordinary formations. In the afternoon, you can visit nearby wonders like the Cantalloc Aqueduct. Later, you can explore places like the Chauchilla Cemetery and the Cahuachi Pyramid."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Paracas – Luxury Cruise to Islas Ballestas",
+      "description": "Today, you will venture to the coastal shores of Paracas, where colorful beach towels and umbrellas line the shore as people descend on the town for a quick respite. Your day will consist of a luxurious cruise from the shoreline of Paracas to the idyllic Islas Ballestas, which is home to the region's most fascinating wildlife. Peru does boast some of the most diverse plant and animal life on earth, and as you round the jagged island, you may be able to spot rare bird species, such as the Humboldt penguin, the guanay, and a variety of seabirds. You will also witness a myriad of sea mammals, including sea wolves and marine otters."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Lima – Departure",
+      "description": "In the morning, you can enjoy a few hours of free time to stroll through the picturesque parks of Miraflores or to shop for final souvenirs in Lima's downtown area. This morning will provide you with the perfect opportunity to capture a few more lasting photos as well. Before you know it, your time in Peru will come to a close, and you will meet your guide in front of your hotel to be transferred to Lima's international airport for your flight home."
+    }
+  ],
+  "map": ""
+}

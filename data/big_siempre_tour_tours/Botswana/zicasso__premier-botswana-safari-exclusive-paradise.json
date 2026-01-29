@@ -1,0 +1,70 @@
+{
+  "destination": "Botswana",
+  "mainPhoto": "",
+  "id": "premier-botswana-safari-exclusive-paradise",
+  "tourName": "Premier Botswana Safari: Exclusive Paradise",
+  "placesVisited": "Makgadikgadi Pans, Okavango Delta, Linyanti Concession",
+  "generalInfo": "Visit the untamed wilderness of Botswana with this 9-day luxury safari experience. This itinerary leads you from the vast salt pans of the Makgadikgadi to the lush forests, plains, and waterways of the Okavango Delta. The wildlife is abundant, and other humans are rare in these private concessions. Here, hospitality, comfort, and barefoot luxury are promised by each boutique safari camp.",
+  "durationDays": "9",
+  "price": "16,100",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Makgadikgadi Salt Pans – Adventurer’s Delight",
+      "description": "The Makgadikgadi Pans are a vast expanse of salt desert in northeastern Botswana that are part of the greater Kalahari. Your international flight will arrive in Maun, and a representative will help you connect to your scheduled flight to the Kalahari Desert. Upon landing, a private driver will transfer you to your luxurious tented safari camp on the edge of the salt pans. In the dry season, sun-baked pans offer a unique salt desert experience with activities that include bush walks, game drives, horseback riding, and quad bike adventures. The rains of the wet season attract flocks of pink flamingos and Africa’s largest zebra migration."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Makgadikgadi Salt Pans – Desert Safari in Old World Comfort",
+      "description": "Your luxury camp will be an oasis of old-world comfort in the form of a classic 1940s style safari camp. With some of the best guides in Botswana, excellent cuisine, unimpeded views of the pans, and a pool pavilion to relax in, your experience will be second to none. No matter when you visit, you will enjoy morning and evening game drives, bird watching, walking with Bushmen, and interacting with the playful meerkats that were made famous by Animal Planet’s Meerkat Manor ."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Okavango Delta – The Legendary Okavango",
+      "description": "Today, you will rise early for a final activity in the Makgadikgadi. After a filling breakfast, you will transfer to the airstrip for a short flight to the Okavango Delta. This vast inland delta seasonally fills with waters that drain from the highlands in Angola and becomes a network of wooded islands, fertile floodplains, winding waterways, and quiet lagoons, attracting a cornucopia of wildlife. The game viewing here is exceptional, as you will discover on daily game drives and mokoro excursions with experienced safari guides."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Okavango Delta – The Best of All Worlds",
+      "description": "Your luxury safari camp is an intimate camp that offers land and water activities. You will rarely see another vehicle as you gently cruise the waterlily-laden waterways by mokoro in search of frogs. During your time here, you can also partake in game drives through the ancient island forest after sable and wild dogs or take to the skies in a hot air balloon. The area around your camp is a haven that is known for lions, rhinos, leopards, giraffes, elephants, and crocodiles."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Okavango Delta – Embracing Safari Life",
+      "description": "Life on safari takes on a special rhythm. You will rise early for a morning excursion while the bush comes to life. Game drives in open 4WD vehicles allow you to get very close to the wildlife. You will then return to camp for a spectacular lunch and relaxing midday siesta. As the sun starts to descend, you will follow your guides in search of lion and leopard on the hunt. Each sunset will be celebrated at a scenic location with a delightful spread of bush snacks and cocktails. The sounds of the bush will accompany you to sleep in your well-appointed suite."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Linyanti Concession – In Search of Big Game",
+      "description": "The Okavango wilderness is so large and varied that you will can frequently experience a different location and another equally impressive safari camp. After breakfast today, you will fly to the Linyanti Concession, which is a private game reserve that sees a massive influx of big game during the dry season, including elephants, impalas, wildebeest, giraffes, and buffalos. The Kwando-Linyanti river system flows through the concession along with lush woodlands and floodplains. Visitors frequently see lions, leopards, cheetahs, and wild dogs."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Linyanti Concession – Secrets of the Night",
+      "description": "This morning, you may wake to the sounds of chirping birds or small antelope as they graze outside your large canvas-and-thatch safari suite. Your exclusive camp will be perched above the Savuti Channel in an untamed wilderness and big-game habitat. Elephant are often the highlight of game drives in the Linyanti, but a close encounter and exceptional photographs can be captured from the camp as the animals come to the watering hole to drink and play. When the sun goes down, night drives will allow you to seek out honey badgers, genets, civets, spring hares, and other nocturnal creatures."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Linyanti Concession – An Exclusive Paradise",
+      "description": "Your early morning will be accompanied with the delivery of hot tea, coffee, and cookies to your suite. You will then venture out in your 4WD Land Rover with a blanket to keep out the chilly air. Perhaps, you will come across a pride of lion stirring in the long grass or a leopard perched in the branches of a tree. You may also find a majestic Fish Eagle gliding over a river. No matter when you travel, you will be sure to capture some fantastic sightings and interesting wildlife interactions in the Linyanti."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Kasane – Depart to Home",
+      "description": "There is time for one more thrilling game drive outing this morning before you begin your journey home. You will depart from Linyanti on a scheduled flight to Kasane, where you will connect with international commercial flight."
+    }
+  ],
+  "map": ""
+}

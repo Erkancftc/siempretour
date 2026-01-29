@@ -1,0 +1,95 @@
+{
+  "destination": "Usa",
+  "mainPhoto": "",
+  "id": "arizona-and-new-mexico-self-drive-holiday",
+  "tourName": "Arizona and New Mexico self drive holiday",
+  "placesVisited": "",
+  "generalInfo": "Admire the cacti-studded scenery of southern Arizona, exploring Saguaro National Park.<br/>Enjoy scenic drives through forests, deserts and mountains.<br/>Learn all about the Ancestral Puebloan tribes with visits to their ancient cliff dwellings.<br/>Discover the region's Spanish heritage in Santa Fe and visit old mining towns.",
+  "durationDays": "14",
+  "price": "4950",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Today you begin your journey by boarding your international outbound flight to Phoenix. On arrival in Phoenix, collect your hire car and make your way to your accommodation in nearby Scottsdale. The remainder of the day is free to relax after your flight or, depending on your time of arrival, begin exploring the town's shops and restaurants."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Enjoy a full day in Scottsdale. You may wish to go walking in the surrounding mountains, browse downtown Scottsdale, or simply relax around the swimming pool. The Phoenix Art Museum in Scottsdale contains an excellent collection of exhibits from the USA and further afield, or you could head to the nearby Desert Botanical Gardens to admire a variety of trees and plants native to deserts around the world."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Drive south to Tucson, a journey of just over two hours. Along the way you pass Saguaro National Park, which is well worth visiting to see its many large Saguaro cacti. Tucson itself was once a colonial outpost for both the Spanish and Mexicans, as well as having a rich Native American history. On arrival, take in the city's turn-of-the-century architecture and perhaps pay a visit to one of its museums to learn about its varied history. You may also wish to see pre-Columbian and other art at the Tucson Art Museum."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "You have a whole day to explore the Tucson area. You could visit the 18th-century San Xavier del Bac Mission, visit the Arizona-Sonora Desert Museum or drive 112 km (70 miles) to We recommend driving to the atmospheric Wild West town of Tombstone, where there's a daily re-enactment of an 1881 gun fight."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Travel east from Tucson and cross into New Mexico. You then travel through the Gila National Forest to the historic mining town of Silver City. The total journey time is around three and a half hours. Once in Silver City, explore the old streets lined with buildings from the late 19th-century mining period."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Spend a full day exploring Silver City, following in the legendary footsteps of Kit Carson and Billy the Kid. From Silver City you can take a scenic drive to explore the fascinating Gila Cliff Dwellings National Monument, set in a dramatic location overlooking the Gila River Canyon. On the way up don't miss a stop at historic Pinos Altos to visit the Buckhorn Saloon and Opera House."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "We recommend you take the longer, scenic route on your drive today from Silver City to Albuquerque. This four and a half hour drive takes you over impressive mountain ranges and through the Apache National Forest. Don't miss a visit to the ghost town of Kelly en route. This evening, Albuquerque's many restaurants and live music venues beckon."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "After discovering Albuquerque's Route 66 heritage, drive two hours north to Santa Fe. You may wish to explore one of New Mexico's fascinating Ancestral Puebloan villages on the way. Santa Fe itself is one of the USA's oldest cities, founded by Spanish missionaries in the early 17th century. Once you arrive, we suggest exploring the city on foot, taking in the adobe houses and baroque churches and paying a visit to the modern museums and art galleries."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "The day is yours to continue exploring Santa Fe. Don't miss the Palace of the Governors, the old Central Plaza, the San Miguel Mission and the Barrio de Analco (historic district) where you can see one of the oldest houses in the country."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Travel two and a half hours north past the Sangre de Cristo Mountains to Taos, which lies close to some of the USA's most impressive Ancestral Puebloan dwelling sites, which you may wish to stop at along the way. You could also stop by the mountain village of Chimayo to see the Spanish colonial church of Santuario de Chimayo, built in 1816."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Enjoy a day to immerse yourself in the native American communities of Taos. Adobe buildings here have been in continual use as residences by native Americans for over 1,000 years and many of today's residents have made few concessions to the modern world, making this a fascinating place to visit."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Drive two hours north into Colorado today. You may wish to stop for a journey on the Cumbres & Toltec Scenic Railway before continuing your journey to Alamosa."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Take the four-hour drive from Alamosa to Denver. At the airport, drop off your hire car before boarding your onward flight."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Arrive back into the UK."
+    }
+  ],
+  "map": ""
+}

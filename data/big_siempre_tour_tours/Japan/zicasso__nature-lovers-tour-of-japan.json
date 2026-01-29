@@ -1,0 +1,55 @@
+{
+  "destination": "Japan",
+  "mainPhoto": "",
+  "id": "nature-lovers-tour-of-japan",
+  "tourName": "Nature Lover's Tour of Japan",
+  "placesVisited": "Shikoku, Takamatsu, Shodoshima, Awa, Iya Valley and Oboke-Kobo",
+  "generalInfo": "Spend six days swooning over the spectacular natural beauty that blankets Shikoku Island on this absorbing nature lover’s tour to Japan. As you cruise from the exuberant seaside city of Takamatsu to the forested hinterlands of Iya Valley, you will be enthralled by the unending wilderness beauty that veils the entire island and flanks sacred spiritual sites tucked between the emerald greenery.",
+  "durationDays": "6",
+  "price": "4,200",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Takamatsu - Extraordinary Scenes Sprawling across Land and Sea",
+      "description": "Boasting cityscapes doused in Japanese culture, forested gorges bursting with wildlife, and spreading seascapes teeming with marine sightings, the island of Shikoku will transport you to another world from the moment you arrive at your accommodation in Takamatsu. In the port city, scenes of the sapphire sea running along the coastline mingle with spectacles of Shikoku’s evergreen blanket of forests covering its headlands. There is a transformative charm that will sweep you away as you appreciate the remarkable scenery flanking the buzzing borders of the city during your first afternoon here."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Takamatsu - Soaring Spectacles from Shodoshima Island",
+      "description": "Accessed from Takamatsu Port, Shodoshima Island will spotlight the unrivaled allure of the uncrowded golden sands and majestic marine views that sweep Japan’s isles’ untouched expanses. The Shodoshima Olive Park is a manicured garden overflowing with blooming flowers that will catch your eyes in their dazzling colors as you peruse the peaceful pathways winding through its luxuriant lawns. Afterward, you will ascend the mountainside to swoon over views of the cascading terraced rice fields to one side and the bewitching sands of Angel Road, connecting the main island to another little one during low tide, to the other."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Awa - Artistic Traditions and Astonishing Perceptions",
+      "description": "You will lap up a delicious Japanese breakfast before packing your things and heading for the emerald hills spreading over the hinterlands of Shikoku. Your destination, Awa, is a city pinned between the bucolic scenery that veils the fabled Iya Valley. Before settling into your accommodation flanked by the vivid foliage, you may choose to delve into the soba-making , traditional Japanese noodles, or washi-making , traditional Japanese paper, traditions that form key cultural components of Awa heritage. Afterward, you may stretch your legs and climb the rolling hills of Mount Tsurugi on gently sloping trails leading to panoramic countryside vistas."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Awa - Mind-blowing Moments with Mother Nature",
+      "description": "Today, you will escape the city as the sun illuminates Awa to witness the geological wonders that compose Iya Valley’s landscape. To cherish the incredible wilderness abounding in the valley, you will partake in a few absorbing experiences past celebrated cultural landmarks to beloved environmental highlights. Comfortably seated in a traditional boat, you will calmly cruise across the glistening river under the fairytale Kazura Bridge, a crossing constructed entirely out of wood and fastened together by vines. The scenic journey will culminate at the Oboke Gorge, a tranquil display of mother earth in its purest and most magnificent form."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Takamatsu - Enter the Magnificent Marshlands or Riveting Yoshinogawa River",
+      "description": "You will begin your expedition back to where it all began, Takamatsu, today after tucking into a steamy bowl of Japanese broth for breakfast this morning. But, your voyage will not be straight to the city as you decide to make a detour through the Kurozo Marshlands or to revel in a thrilling river rafting experience down the rapids of Yoshinogawa River. Either way, you will be besotted with the staggering nature that surrounds you before you continue to Hashikura Temple, a centuries-old spiritual complex poised amongst the luxuriant mountain landscape."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Takamatsu - Spectacular Last Steps on Japanese Soil",
+      "description": "While your time in Japan will be coming to its end today, you will have a few hours in the morning to soak up the wilderness splendors sprinkled throughout the cityscape of Takamatsu before you make your way to the airport. Whether you wish to find refuge on a bench circled by the landscaped lawns of the city’s premier parks or meander along the spirited shoreline gazing out across the staggering seascape, you will walk away from this adventure having explored an incredible array of natural wonders enveloping Shikoku Island."
+    }
+  ],
+  "map": ""
+}

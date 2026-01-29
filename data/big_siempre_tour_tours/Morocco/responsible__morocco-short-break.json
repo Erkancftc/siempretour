@@ -1,0 +1,50 @@
+{
+  "destination": "Morocco",
+  "mainPhoto": "",
+  "id": "morocco-short-break",
+  "tourName": "Morocco short break",
+  "placesVisited": "",
+  "generalInfo": "Morocco sun &amp; sand in 5 days! <br/>Enjoy the hustle &amp; bustle of Marrakech, camel trek into the Sahara Desert where you spend the night in an authentic Berber camp, followed by a relaxing day on the beach. <br/>This hotel-based tour includes stays at 3/4* hotels along with a night camping in a traditional Berber camp in the Desert. <br/>Transport is by minivan or 4x4 Land Cruiser.<br/><br/>Private tours 2025:<br/>2 Pax £1058 each.<br/>3 Pax £908 each.<br/>4 Pax £808 each.<br/>5 Pax £708 each.<br/>6 Pax £658 each.<br/><br/>Private tours 2026:<br/>2 Pax £1158 each.<br/>3 Pax £1008 each.<br/>4 Pax £908 each.<br/>5 Pax £808 each.<br/>6 Pax £758 each.<br/><br/>Highlights<br/>Sahara Desert – Authentic Berber Camp in Zagora with camel trek<br/>Marrakech – Djemaa-el-Fna square, UNESCO-listed medina<br/>Essaouira – Colourful fishing town &amp; beautiful beaches <br/><br/>Optional Activities<br/>Hammam in Marrakech (prices from 150 DH)<br/>Quad biking in Essaouira (2 hours = 590 DH, 2 hours for 2 pax = 690DH)<br/>Horse riding in Essaouira (1 hour = 250 DH, 2 hours = 300 DH, 3 hours = 390 <br/>Windsurfing in Essaouira (2 hours =600 DH)<br/>Surfing in Essaouira (2 hours = 350 DH)<br/>Kayaking in Essaouira (2 hours = 300 DH)<br/>Kite surfing in Essaouira (2 hours = 600 DH)",
+  "durationDays": "5",
+  "price": "1058",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Welcome to Morocco! Following your transfer from the airport to our joining hotel, you can relax by the hotel pool before the pre departure meeting at 18:00 hrs. where you will meet your guide and fellow travellers. Overnight Marrakech (Dinner included)."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Today, we enjoy a stunning drive over the High Atlas en-route to Zagora. We pass through the Draa Valley, a green and lush land of palmeries and amazing vistas. It is then time to head towards the great desert, where we transfer to camels for a trek into the Sahara Desert for a night at our authentic Berber Camp. We enjoy local food, music, and an amazing night out under the Saharan stars. Overnight Berber camp (Breakfast & Dinner included)."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Leaving the desert, we travel back to Marrakech stopping for lunch en-route. We arrive back in Marrakech where we have an optional dinner in Djemaa El Fna (the legendary Main Square). Overnight Marrakech (Breakfast included)."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "We leave Marrakech after breakfast and take a leisurely drive to Essaouira; a colourful fishing town situated within 15th century Portuguese fortifications, where great beaches and surf beckon. You have the day to relax on the beach or alternatively explore the UNESCO-listed medina with its various souks and woodcarving workshops. Any city gate leads to the medina, so you are unlikely to get lost. The beach is in front of the Medina and there are plenty of cafés with terraces, both ideal for relaxing for a few hours. Blue doors and window frames abound as do the artist’s shops – buy a carpet or Thuya wood carving or sit on the beach sipping a mint tea as the sun sets. There is the opportunity to do some optional activities, such as quad biking, surfing, horse trekking and wind surfing. Enjoy a great night out in Essaouira. Overnight Essaouira (Breakfast included)."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "We will have breakfast over-looking the Atlantic this morning, then head back to Marrakech where the tour finishes on arrival. (Breakfast included)."
+    }
+  ],
+  "map": ""
+}

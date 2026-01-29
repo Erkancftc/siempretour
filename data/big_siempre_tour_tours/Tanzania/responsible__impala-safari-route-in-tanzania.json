@@ -1,0 +1,55 @@
+{
+  "destination": "Tanzania",
+  "mainPhoto": "",
+  "id": "impala-safari-route-in-tanzania",
+  "tourName": "Impala safari route in Tanzania",
+  "placesVisited": "",
+  "generalInfo": "This safari is unique way of collecting Africa stories, from people to wild lands.<br/><br/>After arriving from Home, you would drive to Arusha region to overnight. The next morning after breakfast, you would leave for Tarangire National park for about 2hrs drive.<br/>A drive from Arusha to Tarangire its so unique , which will provide the chance to explore the uniqueness of this Habitat as it stretches from High lush lands of Mt Meru ( The second highest mountain in Tanzania) to the dry Acacia dominated woodland on the western side.<br/>As the habitat change from forest to woodland then to open grassland there will be a lot of stories to tell which are quite unique.<br/>Visiting Ngorongoro Crater as one of the Natural wonder in Africa, for its uniqueness some people refer it to be the Eden Garden. The unique goes over and the Oscar-winning movie OUT OF AFRICA was partly filmed here. <br/>And Serengeti National Park is a home for lots of different kinds of Animal you find in Africa.<br/>And above all, you will be able to visit different local tribes from all this protected areas.",
+  "durationDays": "6",
+  "price": "3400",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arriving in Kilimanjaro Airport and 1hr Drive to Arusha Region, then Overnight in Katambuga lodge"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "A 2hrs Drive to Tarangire National Park with packed lunch after Morning breakfast, then a full Day Gamedrive in Tarangire National Park and Overnight in Marera valley Lodge"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "After breakfast, 3hrs drive to Seronera in Central Serengeti National Park with a gamedrive enroute , then a picnic lunch in Central Serengeti and overnight in Katikati camp"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "After breakfast, A full Day Gamedrive in Central Serengeti with packed lunch and overnight in Katikati Camp"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Early morning gamedrive in Eastern Serengeti with Hot lunch in Katikati camp, then Evening gamedrive in Central Serengeti and a Sundowner at the vast plains of Serengeti, thereafter overnight in Katikati camp"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "After Breakfast, A 2hr30 Drive to Arusha for a day room before your International Flight back home and later a 1hr Transfer to Kilimanjaro International Airport"
+    }
+  ],
+  "map": ""
+}

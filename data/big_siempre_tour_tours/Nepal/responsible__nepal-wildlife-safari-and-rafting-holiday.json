@@ -1,0 +1,55 @@
+{
+  "destination": "Nepal",
+  "mainPhoto": "",
+  "id": "nepal-wildlife-safari-and-rafting-holiday",
+  "tourName": "Nepal wildlife safari and rafting holiday",
+  "placesVisited": "",
+  "generalInfo": "Among the 14 national parks and wildlife reserves in the Kingdom, the Chitwan Nationals Park (932 Sq Km) is the most popular safari destination. More than 43 species of animals are found in Chitwan. The endangered one-horned rhino, Royal Bengal tiger, Gharial crocodile, four-horned antelope, striped hyena and the Gangetic dolphin are the main attractions here.<br/><br/>The best part is that it is close to Kathmandu and easily; accessible (only 165 Km overland) and Bharatpur airport adjoining the park is mere 25 minute flight away (there are daily flights from Kathmandu). Many adventures also choose to go down by raft. In whatever way you go, a jungle safari is an experience you will remember for a long time.",
+  "durationDays": "6",
+  "price": "480",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive Kathmandu: Arrive at Airport. Meet assist at the airport and transfer to the hotel. Overnight at Hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Kathmandu: AM: Half day sightseeing tour of Kathmandu Durbar Square and Swayambhunath (Monkey Temple). PM: Half day sightseeing tour of Patan City and Tibetan Refugee Camp. Overnight at Hotel."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Kathmandu - Chauradi - Chitwan: After early morning breakfast, transfer Kathmandu to Chauradi (rafting starting point), Enjoy river rafting on Trisuli River with exciting 2-3 grade rapids. After lunch drive to Chitwan. Evening enjoy with Tharu stick dance/slide show. Overnight at Hotel."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Chitwan: After breakfast, full day Jungle Activities; Jeep Safari, Tharu Village Walk, Jungle Walk, Canoe ride along the Rapti River, Bird Watching etc. Overnight at Hotel."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Chitwan - Kathmandu: After breakfast, Transfer to Kathmandu by surface. Overnight at Hotel."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Departure: Free till departure, Transfer to the International airport to connect onward flight."
+    }
+  ],
+  "map": ""
+}

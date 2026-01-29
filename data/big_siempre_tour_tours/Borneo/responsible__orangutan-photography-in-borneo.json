@@ -1,0 +1,60 @@
+{
+  "destination": "Borneo",
+  "mainPhoto": "",
+  "id": "orangutan-photography-in-borneo",
+  "tourName": "Orangutan photography in Borneo",
+  "placesVisited": "Jakarta, Kumai, Tanjung Puting National Park, Forest walks, River safaris, Camp Leakey Research Centre, Orangutan feeding sites, Bird watching, Evening river cruise",
+  "generalInfo": "In association with the Orangutan Foundation we will be visiting and photographing the wild life in the Tanjung Puting National Park, Borneo. This trip is aimed at anyone who would like to develop their photography skills using a mixture of tutorials and one-on-one advice. As well as over 4000 orangutans, this bio-diversity hotspot is home to 30 other mammal species, 260 types of birds and 17 different reptiles. <br/><br/>There are no roads in this national park so will explore everyday by boat and on foot. As we gently glide along gorgeous rivers we will get incredibly close views of a huge variety of wildlife including orangutans, proboscis monkeys, agile gibbons, crocodiles, hornbills, kingfishers and lots of other birds. We will also visit orangutan feeding stations which provide additional food for released orangutans and the famous Camp Leakey research centre. <br/><br/>People will stay at a comfortable and eco friendly rain forest lodge and the trip will be escorted by a local guide, photographer Ian Wood and Ashley Leiman (OBE), director of the orangutan foundation. Suitable for anyone with a digital camera and a love of nature. Above all else we want the trip to be fun! <br/><br/>The group is limited to 7 people and £350 per person is donated directly to The Orangutan Foundation to help them continue to protect this vital area of rain forest along with other projects in Borneo.",
+  "durationDays": "12",
+  "price": "2775",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Depart London to fly to Jakarta"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Arrive Jakarta, transfer to hotel for the night"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Fly Jakarta to Pangkalan Bun (1 and a half hour flight) arriving at 8 am. Transfer by car to Kumai (30 minutes) to board our boat for first full day in the National park."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Stay at Rimba Lodge, daily journeys into park by river and on foot."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Morning boat back to Kumai, transfer by car to Pankalan Bun. Fly Pangkalan Bun to Jakarta (1 and a half hours) arriving Jakarta approx 5 pm. Onward travel of transfer to hotel for the night depending on your international flight timings."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Depart Jakarta to fly back to London"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Arrive London"
+    }
+  ],
+  "map": ""
+}

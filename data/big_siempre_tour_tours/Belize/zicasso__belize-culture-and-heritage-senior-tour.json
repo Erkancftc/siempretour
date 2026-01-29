@@ -1,0 +1,70 @@
+{
+  "destination": "Belize",
+  "mainPhoto": "",
+  "id": "belize-culture-and-heritage-senior-tour",
+  "tourName": "Belize Culture and Heritage Senior Tour",
+  "placesVisited": "Ambergris Caye, Placencia, San Ignacio, Cockscomb Basin Wildlife Sanctuary, Tikal",
+  "generalInfo": "Experience the essence of the Caribbean and the unique histories of the jungle during your customizable 9-day culture and heritage tour to Belize for seniors. Your private excursions with specialist guides will travel at your preferred pace to uncover the unique wonders of Belize’s traditions and preserved customs. From sampling the local cuisine to discovering ancient Mayan ruins hidden in the rainforest, your getaway to Belize offers a majestic introduction to land and sea.",
+  "durationDays": "9",
+  "price": "5,200",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Ambergris – Private Food Tour",
+      "description": "Your private transfer will meet you at Ambergris Caye Airport upon your arrival on the island and escort you to the comforts of your luxurious accommodation that overlooks the picturesque Caribbean coastline. You can settle in to the luxurious ambiance of the island before meeting your guide in the lobby for a private immersion into the culinary culture of Belize. Your food tour will lead you to the heart of San Pedro with a guide who is knowledgeable in the variety of cuisine that showcases the diversity of Belize’s culture."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Ambergris – Discover the Culture of the Sea",
+      "description": "Your guide will greet you at your accommodation and lead you to the dock to begin your discovery of the world’s second-largest barrier reef. You will set out on a boat to enjoy Hol Chan Marine Park. You can follow your guide through the submarine garden near the edge of the Caribbean channel’s slopes, which support more than 160 species of fish. During your tour, you can possibly observe a pod of spotted dolphins, which can grow to over eight feet long and have an abundance of spots. You will continue to Shark Ray Alley, where nurse sharks and manta rays have gathered due to the tradition of fishermen cleaning their fish over the water."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Ambergris – Active Exploration of Ambergris Caye",
+      "description": "This morning, your guide will lead you from your accommodation to the American Crocodile Education Sanctuary for a view of the remarkable wildlife that is often overlooked on the lagoon. You will visit with scientists and conservationists who work at the sanctuary to help research, educate, and preserve the crocodile. During your visit, you will witness the American crocodile as they linger in the clear water and watch as your guide wades in the open water to find hatchlings. This will be an interactive experience with some of Belize’s endemic wildlife."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Placencia – Transfer by way of Cockscomb Basin",
+      "description": "This morning, you will have a brief transfer to Belize City in the form of a quick flight. Upon your arrival, your private transfer will meet you at the airport before escorting you to the beauty of Cockscomb Basin Wildlife Sanctuary and Jaguar Preserve. Your private guide will immerse you in the heritage of the region, which dates back to the ancient Maya, who inhabited the area as early as 10,000 BC. Your guide will also lead you through the wilderness, pointing out the unique vegetation and captivating wildlife that is essential to the micro-ecosystems along the mountain slopes."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Placencia – The Wildlife of Monkey River",
+      "description": "As you travel upriver with your guide this morning, you will discover the treasures of the wilderness around Belize, including manatees that frequent the estuary. Manatees can grow to nearly 10 feet long and weigh over 1,200 pounds. They typically feed off plants and roots found in the mixture of salt and freshwater. Your boat will drop anchor at a small path, where your guide will lead you beneath the emerald canopy of the rainforest in search of a troop of howler monkeys."
+    },
+    {
+      "dayNumber": "6",
+      "title": "San Ignacio – Local Food and Cooking Tour",
+      "description": "Your private transfer will meet you at your hotel in the morning and escort you to your luxurious accommodation near the jungle town of San Ignacio. Your luxurious resort will be nestled into the beauty of the surrounding greenery and will offer a unique perspective of the canopy, culture, and ecosystem of the Macal River. Your tour for the day will immerse you in the sensational flavors of Belize, beginning with a chocolate tour that will explore the beginnings of the cacao bean in the Mayan tradition, which led to the contemporary organic movement. Your culinary tour of Belize will then continue with a private cooking class near San Ignacio."
+    },
+    {
+      "dayNumber": "7",
+      "title": "San Ignacio – The Heritage of Mayan Xunantunich",
+      "description": "After breakfast, your private guide will whisk you to the jungle terrain of Belize to discover the captivating ruins of Xunantunich, which is one of the most popular Mayan sites in the country. You will cross the Mopan River on a hand-operated ferry, which will make the ruins seem much more secluded. The main plateau once hosted 25 temples and palaces, culminating in the soaring figure of El Castillo. Stucco friezes depict a variety of images, including the birth god and the intricate tree of life. The top of the pyramid offers a spectacular panoramic view of Belize’s tropical beauty with the rushing waters of the Mopan River, the banks of the Macal River, and the sweeping greenery of the Belize River Valley."
+    },
+    {
+      "dayNumber": "8",
+      "title": "San Ignacio – Full Day Excursion to Tikal",
+      "description": "This morning, your guide will meet you at the hotel and lead you deep into the jungle terrain, crossing the border into Guatemala for an excursion to Tikal. Your guide will lead you along the pathways to the Templo del Gran Jaguar, where archeologists discovered stingray spines, pearls, and 180 jade artifacts buried in the tomb with the king. The structure stands over 144 feet tall with a small enclosure that is covered by a corbeled arch. You can marvel at Templo IV as it stands more than 213 feet tall, making it the second-largest pre-Columbian building discovered in the Western Hemisphere."
+    },
+    {
+      "dayNumber": "9",
+      "title": "San Ignacio – Depart for Home",
+      "description": "In the morning, the aroma of fluffy Belizean biscuits will fill your dining room alongside the scent of freshly made jam. The marketplace in San Ignacio will fill with locals in search of perfect produce along aisles filled with local merchants. Vendors will showcase fresh empanadas and hand-carved artwork, such as etchings that reveal intricate Mayan symbols and Belizean cultural icons. After breakfast, your private transfer will meet you at your hotel and escort you to the airfield for a short flight to Belize City, where you will board your transfer home."
+    }
+  ],
+  "map": ""
+}

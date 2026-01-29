@@ -1,0 +1,55 @@
+{
+  "destination": "Usa",
+  "mainPhoto": "",
+  "id": "utah-national-parks-adventure-holiday-usa",
+  "tourName": "Utah National Parks adventure holiday, USA",
+  "placesVisited": "",
+  "generalInfo": "Embark on a thrilling adventure through the stunning landscapes of the Wild West in Moab. From the moment you arrive in this picturesque town, you'll be surrounded by the beauty of the area. Explore the iconic Arches National Park and Canyonlands National Park on private guided tours, taking in the sweeping views and unique rock formations. Experience the rush of rafting on the Colorado River and navigating the slick rock terrain on a 4x4 adventure. Dive into the exhilarating world of canyoneering, rappelling and hiking through remote canyons. This tour is designed for adventure seekers looking to experience the best of Moab's outdoor wonders.",
+  "durationDays": "6",
+  "price": "4500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Step into the Wild West! Arrive in Moab or nearby airports by early afternoon. Pick up your rental car and enjoy a scenic drive to your charming accommodation in Moab. Immerse yourself in the serenity and beauty of the area upon arrival."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Immerse yourself in the natural marvels of Arches National Park on an exclusive guided tour. Traverse through the awe-inspiring landscape adorned with over 2000 intricate arches, including iconic spots like Devil’s Garden and the majestic Delicate Arch. Every step of the way, your experience is tailored to your group's desires, ensuring a personalized adventure like no other. Indulge in a picturesque picnic lunch surrounded by the breathtaking hues of the red-rock formations, adding a touch of magic to your exploration of this mesmerizing destination."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Embark on a thrilling journey through the enchanting Island in the Sky District of Canyonlands National Park alongside your expert guide. Prepare to be captivated as you pause at various viewpoints to soak in the grandeur of the eroded landscapes sculpted by the mighty Colorado and Green Rivers. Feel the ancient whispers of time as you witness the breathtaking vistas revealing the raw power of nature's artistry, creating an unforgettable experience that will leave you in awe."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Embark on an exhilarating journey as you navigate the spirited rapids of the Colorado River under the expert guidance of a private rafting guide. Feel the rush of adventure as you meander through this historic section in Moab, known for its connection to the Old Spanish Trail. Spend the morning conquering the class I & II rapids, immersing yourself in the heart-pounding essence of a true Moab experience. As dusk descends, prepare for an adrenaline-fueled escapade on a small group 4x4 adventure. Brace yourself for an evening of off-road thrills as you take the reins and traverse the slick rock terrain, driving through the rugged beauty that defines Moab's adventurous spirit."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Embark on a daring exploration of Moab through the exhilarating lens of canyoneering! Prepare for an extraordinary journey through secluded realms and untamed canyons as you venture off the beaten path. Challenge yourself with a day filled with hiking, rappelling down sheer cliffs, mastering the art of down climbing, and navigating through narrow passageways in a thrilling exercise of stemming. After the day's adrenaline-pumping escapades, unwind at your leisure in the captivating landscapes of Moab, savoring the memories of your heart-pounding canyoneering adventure. *Courageous spirits recommended for this heights exploration."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Bid farewell to the enchanting landscapes of Moab as you prepare to depart for the Moab, Grand Junction, or Salt Lake City airport, marking the end of your unforgettable journey."
+    }
+  ],
+  "map": ""
+}

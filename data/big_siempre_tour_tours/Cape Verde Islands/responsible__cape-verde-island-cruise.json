@@ -1,0 +1,65 @@
+{
+  "destination": "Cape Verde Islands",
+  "mainPhoto": "",
+  "id": "cape-verde-island-cruise",
+  "tourName": "Cape Verde Island cruise",
+  "placesVisited": "Palmeira, Sal Rei, Praia, Seo Felipe, Mindelo, Sal, Boa Vista, Santiago, San Vincente, Santo Antao, Optional activities include: hiking, village and town excursions",
+  "generalInfo": "This cluster of ten volcanic islands is 500 kilometres off the coast of Africa and was a Portuguese colony until 1974. As well as being a hiking paradise, these shores are amazingly friendly, as you’ll discover in eight days of cruising the Cape Verde archipelago.<br/><br/>You’ll visit six of the main islands on this cruise: Santiago is the largest island and has the capital city of Praia, whilst Sao Vincente contains the country’s cultural capital, Mindelo. Boa Vista and Sal are sandy, whilst Fogo is fearsome, thanks to its active volcano. <br/><br/>On Fogo you can take an optional hike right to the very edge of the volcano, and you’ll walk on ancient lava fields in San Vincente’s Valley of Ribeira das Patas, too. Across the islands you’ll find sugar cane plantations and towns with colourful painted facades. You’ll sway like a palm tree on the beach after one too many glasses of ‘grogue’. This white rum, made from the plentiful sugar cane, is the national tipple of choice. <br/><br/>Your newly-refurbished boat will journey between the islands overnight, leaving you plenty of time every day to explore each one. There is snorkelling and fishing equipment on board. <br/>",
+  "durationDays": "8",
+  "price": "2109",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Palmeira, Sal Embarkation at 4 pm at the port of Palmeira, Sal. Dinner on board and departure at midnight towards Boavista. Overnight at sea."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Sal Rei, Boa Vista Early morning arrival at Sal Rei, Boa Vista. Boavista offers the most beautiful beaches of the archipelago, and amazing landscapes, both on its coasts and in the heart of the island. Relax on the beach or enjoy an all-day optional excursion to discover the most authentic aspects of the island: its villages with colorful facades, its artisans of ceramics, and its agriculture. Lunch at a local restaurant, before we return on board to sail towards Santiago island. Overnight at sea."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Praia, Santiago Early morning arrival at Praia, Santiago, the largest of the islands of the archipelago. After a morning at leisure and lunch on board, the optional afternoon excursion will bring us to Cidade Velha, the first colonial city built in the tropics and classified by Unesco. The fort and the nearby settlements were once a thriving slave trade centre. Late in the evening we will sail north towards Fogo, the island of fire. Overnight at sea."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Sao Felipe, Fogo Early morning arrival Fogo, with its dominating sight of the Fogo Volcano which rises 3,000 meters over the sea level. Our optional full day excursion will bring us at the top of the volcano, right at the crater edge. You will walk through a landscape of lava. Lunch will be at the crater's village. We will also visit the city San Felipe with a characteristic colonial charm. Late in the evening we will sail to Sao Vicente. Overnight at sea."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Mindelo, Sao Vicente Once a vibrant commercial island, it has evolved into a cultural center and Mindelo is one of the most well preserved colonial cities in Cape Verde. Our optional walking excursion will allow you to visit galleries and discover busy restaurants, musical events that give Mindelo its label of the Cultural Center of the Cape Verde. It is no surprise that the National Museum of Handicrafts is located in Mindelo. Overnight in port."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Mindelo, Sao Vicente – Porto NovoSanto Antao Early in the morning depart for a short sail towards the island of Santo Antao, the greenest of all Cape Verde Islands with landscapes of verdant plantations of sugarcane alternate old craters. Our optional full day excursion will include the luxuriant Valley Paul where sugarcane is still exploited and where you will taste the \"grogue\" the national drink of the Archipelago. You will also reach the Valley of Ribeira das Patas and discover rock formations coming from lava formations. Dinner on board and overnight in port."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Porto NovoSanto Antao This morning, enjoy an optional half day excursion to discover the south-western part of the island a safari through volcanic landscapes, porcelain field, and isolated villages with dropwise agriculture and different kind of plantations. This is a beautiful experience through villages like Lagedos with an ecological tourism to explore the dry volcanic face of this extraordinary island. Return on board to depart towards Sal. Overnight at sea."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Palmeira, Sal Early morning arrival at Palmeira port, Sal. Disembarkation at 9:00 am after breakfast."
+    }
+  ],
+  "map": ""
+}

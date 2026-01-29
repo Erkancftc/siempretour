@@ -1,0 +1,70 @@
+{
+  "destination": "Morocco",
+  "mainPhoto": "",
+  "id": "morocco-cultural-tour-from-casablanca",
+  "tourName": "Morocco cultural tour from Casablanca",
+  "placesVisited": "",
+  "generalInfo": "Morocco 9 day tour from Casablanca allows you to discover Casablanca, Rabat, Chefchaouen, Fez, the Sahara Desert of Merzouga, Todra Gorge, Kasbah Ait Ben Hadou, and more. Discover Morocco with an epic itinerary that takes you to imperial cities, mountains, and desert dunes. Take in the highlights of Casablanca and Rabat; visit the blue city of Chefchaouen; and explore the famous souks of Fez. Continue your adventure with a camel safari in the Sahara, and spend a night at a desert camp, and finish off by seeing the sights and sounds of Marrakech.",
+  "durationDays": "9",
+  "price": "2000",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "You'll be welcomed by your driver /guide in the airport of Mohamed 5 in Casablanca and take you to your hotel in Casablanca. Overnight in the hotel. (If you arrive in Casablanca a few days earlier, then we will pick up you in your hotel then start the tour)."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "In the morning you will start your trip to visit the biggest mosque in Casablanca, Hassan 2 Mosque. Then you will go to the capital of Morocco « Rabat ». We will start with the Bab Challah, Mausoleum of Mohammed V and one of the main gates of the royal palace and the Oudaya Kasbah. Lunch in a local restaurant. Then we drive straight to the bleu city of Chefchaouen. On the way you will pass through many small towns and stop for breaks. Getting to Chefchaouen a bit early to have time to walk inside the blue alleys of the medina, take pictures and experience the local food of the little city. Overnight in the hotel."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Today in Chefchaouen you will have a local guide all morning to visit the blue city. It is a city located in the Rif Mountains, north-west of Morocco. It is famous for the remarkable buildings of different tones of faded blue of its' old town. Leather and weaving workshops line its steep cobbled alleys. In the shaded central square of Outa el Hammam is the kasbah with red walls, fortress and keep of the fifteenth century with ethnographic and artistic exhibitions. The octagonal minaret of the Great Mosque rises not far from there. After lunch continue traveling to Fez."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "After breakfast in your Riad, you will start exploring the oldest city in Morocco, walking in its alleys and small streets. Our visit starts by visiting the Royal Palace gate, the Jewish quarter, the first Mellah ever built in Morocco, built during the 14th century. We will ensure that you visit all sites with cultural and historical interest including the famous Al Qaraouine University, the oldest one in the world, the Tanneries and Moulay Idriss mausoleum. After lunch, you will visit a tile cooperative and then experience a wonderful panoramic view over the whole Medina of Fes. Overnight at the same Riad."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "After breakfast, you will leave Fes travelling towards Merzouga via Midelt and the Ziz valley. Today you will travel via the Ifrane city, a beautiful mountain village, named the Switzerland of Morocco. Here you will also stop at the cedar forest in the middle of the Atlas Mountains. During this journey you’ll experience glimpses of the Middle Atlas and Higher Atlas mountains and stopping at Azrou, a Berber village in the middle of the famous cedar forest – the largest one in Morocco – where you will have the opportunity to see the Barbary apes. After that, your journey continues to Midelt along the magnificent hills and mountains of the Atlas. After lunch in Midelt, you’ll be travelling through the fascinating Tiz Ntalghamt pass and the spectacular Ziz Gorge, taking in views of the High Atlas plateau, seeing how the scenery changes to reveal hints of the desert as you approach the province of the south-east Errachidia city. Afterwards, you’ll travel along the fantastic Ziz Valley, stopping for panoramic views along the way to Erfoud and Rissani. Arriving in Merzouga in the afternoon you’ll be welcomed with a glass of mint tea. Then take camel ride in the dunes of Sahara Desert of Merzouga to see the amazing sunset in the Sahara the back to the Hotel where you will have the night."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "wake you up early in the morning to watch what will may be the best sunrise of your life. After breakfast and hot shower in the hotel, you’ll leave for Rissani , Tinghir, and Todgha gorges – the highest, narrowest gorges in Morocco. After lunch in the heart of the gorge we’ll drive through the Dades Valley, where you’ll see the majestic sand castles and the amazing rock formations known as « monkey toes ». Overnight accommodation will be in a fancy guest house overlooking the Dades Valley with dinner and breakfast."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "After breakfast in your accommodation, you will start travelling through the Dades Valley towards Ouarzazate and then to Marrakech. The road through Dades Valley is called the way of the thousand Kasbahs – providing numerous opportunities to take some of your best photographic shots of the trip. You will stop at Kalaat M’Gouna -the centre of Roses Valley-, where you will have the option to visit the cooperative for the roses, to purchase rosewater, which will make your linen smell good a long time after your trip is over. Continue to Marrakech via the Ait Benhaddou Kasbah. Built by Et Hami El Glaoui, one of the last Berber chieftains during the 19th century, now the Kasbah is a house of many Glaoui people. Your journey will continue through the majestic Tizi n’Tichka Pass (2260 m) over the High Atlas Mountains, where you will have the opportunity to explore the process of producing Argan oil- existing only in Morocco – by Berber women in their cooperative, before arriving at your overnight accommodation in Marrakech."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "After breakfast in the Riad, you can start exploring Marrakech; «the red city of Morocco”. We will ensure that you see the most important sites of historical and cultural interest, including the Majorelle Gardens, the Koutoubia Tower, the Saadian tombs, the Bahia Palace. After lunch at a restaurant near the square, you will walk through the souks and view hundreds of handicrafts. In the afternoon, you will have some free time to wonder by yourself the other parts of the city."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Transfer to Marrakech Airport Following your departure flight time. End of our service the itinerary of the tour can be modify as much as you want"
+    }
+  ],
+  "map": ""
+}

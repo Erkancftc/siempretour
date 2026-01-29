@@ -1,0 +1,60 @@
+{
+  "destination": "Morocco",
+  "mainPhoto": "",
+  "id": "exclusive-one-week-morocco-tour-for-couples",
+  "tourName": "Exclusive One-Week Morocco Tour for Couples",
+  "placesVisited": "Essaouira, Marrakech, Merzouga",
+  "generalInfo": "This is a luxurious one-week tour in Morocco’s special places that are perfect for two. Enchanting and exotic, Morocco is a dreamy destination for a romantic escape. Escape to the solitude of the High Atlas and get away from the world amid Saharan sand dunes. Immerse yourself in the old-world splendor of palace hotels, sink into rooftop hot tubs as mystical sounds and smells float through the air, and ride an enigmatic wave through the country’s most amorous experiences.",
+  "durationDays": "7",
+  "price": "2,600",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Essaouira – Rooftop Hot Tub",
+      "description": "After flying to Essaouira, you will transfer to a boutique riad in the city center. Riads are small guest houses that represent hundreds of years of Moroccan hospitality and tradition. Your luxurious suite occupies the entire top floor, and steps will lead you to a private rooftop, where the sunset will be exquisite from a private hot tub. From here, you can absorb the city’s smells and sounds without needing to go anywhere. This way, you can experience a romantic introduction to Morocco."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Essaouira – Horseback Ride and Sufi Mystique",
+      "description": "As Atlantic waves crash on the beach, you will be cantering across an empty strip of sand on horseback. Beneath cliffs and around peninsulas, you can travel to places that are not connected by road. Other than a few little shacks, there will not be anything artificial to break your view. This horseback ride will take place in the afternoon, so you will have the morning to spend at your leisure. Sufism is a mystical form of worship that continues to survive around the Sahara. Music will set the scene for a magical atmosphere and platters of traditional cuisine."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Marrakech – A Sultan and Sultana Experience",
+      "description": "This morning, you will transfer to Marrakech, where you will be staying at the finest place to stay in Morocco. After checking in to your suite, you will have some time to rest and explore the hotel, including indulging in a fragrant mint tea. Later in the afternoon, you can explore Marrakech’s souks and historic center with a local guide on a walking tour that can be adjusted to your interests. Nothing specific will be planned for the evening, but you may want to listen to some Berber storytelling on Djemaa el-Fna or find a rooftop that overlooks the square."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Marrakech – Hot Air Balloon Ride",
+      "description": "Morocco looks different from the air, and the most romantic view is from a hot air balloon. From the air, you can make sense of the mazy medina and how the souks dominate the city. After a sunrise balloon tour, you may want to return to your suite and continue the old-world indulgence. Most of the day will be left free so that you can explore Marrakech together, from the Jewish Quarter to the Saadian Tombs. This evening, you will dine in the remains of a palace and enjoy a private table in a heritage building that is usually closed to the public after dusk."
+    },
+    {
+      "dayNumber": "5",
+      "title": "High Atlas Mountains – Enchanting Berber Landscape",
+      "description": "After admiring the High Atlas from the sky, today, you will set foot on rugged slopes with a private transfer. Tiny villages appear untouched and preserved as they evoke a distant time. Out here, you can wander amid the solitude on a choice of routes that offer something for all fitness levels and interests. As well as connecting you to traditional Berber customs, the highlight of coming out here is peace and tranquility. Tucked into the mountains, your Berber tent suite will be a vision of opulence. You will also have a telescope to observe the constellations in an incredible nighttime sky. Traditional Berber hospitality will improve your stay further and will include discreet waiters who deliver meals and drinks to your private location."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Merzouga – Camel Caravan in the Sahara",
+      "description": "After a short transfer back to Marrakech, you will fly across the mountains to Merzouga, which is a desert trading post and gateway to the Saharan sand dunes. A camel caravan will take you into the tranquility of a golden landscape. The camp is entirely private and fully enveloped by dunes, so you will spend the rest of the day without seeing other visitors. As the afternoon fades, the dunes will change color to a vibrant orange before moving through shades of red and finally black. Desert stars are magical, and you can feast on them while dining."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Merzouga – Departure",
+      "description": "After an extravagant breakfast, you will return across the dunes. You will travel in the morning hours before the sun gets too high. Then, you will fly back to Marrakech, where dayroom hotel use will be arranged so that you can freshen up before your late-afternoon flight."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,35 @@
+{
+  "destination": "Canada",
+  "mainPhoto": "",
+  "id": "swanson-island-kayaking-glamping-tour",
+  "tourName": "Swanson Island kayaking & glamping tour",
+  "placesVisited": "",
+  "generalInfo": "THE AREA<br/>This 5-day, 4-night kayaking tour takes place north-east of Vancouver Island in British Columbia, Canada. Nestled between the mainland mountains and Vancouver Island tidal currents stir up the water column and create an environment rich with nutrients and oxygen. Abundant marine life of all shapes and sizes make their home here, from the smallest crustacean to the largest whales. From our camp, we have the opportunity to look out into the open waters of the Sound and paddle among the small islands and narrow passages, an ideal combination for the wildlife enthusiast.<br/><br/>THE SETTING<br/>A stunning private campsite on remote Swanson Island. We have exclusive rights to the use of this little piece of heaven. The site overlooks Blackfish Sound which is renowned for its biodiversity including being home to many humpback and orca whales. This site offers extraordinary land-based whale watching, sunrises and sunsets, and diverse kayaking at the edge of the Broughton Archipelago.<br/><br/>RELAX, RECHARGE, ADVENTURE RESPONSIBLY<br/>Our comfortable outdoor basecamp allows us to have comprehensive systems and infrastructure to help keep you safe while still being able to get to stunning and remote places, exploring by kayak by day, and relaxing in comfort every evening.<br/><br/>YOUR ACCOMMODATION – GLAMPING<br/>We have all the details covered. The only thing you have to do is to arrive, relax, and enjoy every moment. Imagine beautiful, big white cozy tents set against the backdrop of towering fir trees and the blues and greens of the ocean lapping at your doorstep. The sounds of silence interrupted only by the occasional blow of passing whales or the songs of the birds as they wake with the sun.<br/>Large, bright, and spacious cotton canvas tents with real beds and private outdoor toilets. The tents are perched off the ground on cedar platforms spaced out throughout the forest for privacy. The beds each have a thick soya foam mattress, pillows, crisp white linens, a warm duvet. The camp also has hot water showers, a comfortable lounge, and a hot tub both overlooking the ocean.<br/><br/>ENDLESS PADDLING OPTIONS<br/>We’ll head off in our kayaks to explore the many nooks and crannies of the shoreline. Keep your senses alert for the tell-tale blow of some of the area’s more famous residents like orcas and humpback whales. Kayaks are a great way to get outside together and explore while easily maintaining physical distance. The days on the water are flexible based on the abilities and desires of each group. <br/><br/>THE BEST PLACE FOR WHALE WATCHING IN BC<br/>In addition to orcas, we are lucky to share the ecosystem with humpback whales, bears (it is not uncommon to see black bears foraging along the shores for seafood during low tide), deer, cougars, shore and seabirds, minks, river otters, dolphins, and porpoise – to say nothing of the abundant and colourful intertidal life one can see below the surface. Witnessing these incredible creatures in their natural habitat is truly breathtaking.",
+  "durationDays": "5",
+  "price": "2995",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Rise and shine ready for adventure! On day 1 of your trip you will meet your water taxi driver in Alder Bay on Vancouver Island (approximately a 5.5-hour drive by car north of Victoria or 4 hours north of Nanaimo). At 2PM meet the water taxi that will take you across Johnstone Strait into Blackfish Sound. En route, sightings of marine life such as porpoises, dolphins, sea lions, and whales are common. Your water taxi journey will be approximately 40 minutes. After arriving our team will provide a thorough safety briefing and orientation. We will then settle into the camp and have a kayak orientation and paddle before dinner. After dinner, enjoy the sunset from the lounge or hot tub overlooking the ocean before retiring to rest for more exploration in the morning."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "This is our last day of exploration. We will have an early breakfast and for those who are keen we will have a morning paddle shortly after. After a final debrief, the water taxi will arrive at approximately 10:30AM to transport you back to the starting point. You should be back in Alder Bay by approximately 11AM-12:30PM for your onward travels."
+    }
+  ],
+  "map": ""
+}

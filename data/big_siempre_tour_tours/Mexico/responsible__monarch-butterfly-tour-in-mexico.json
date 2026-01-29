@@ -1,0 +1,60 @@
+{
+  "destination": "Mexico",
+  "mainPhoto": "",
+  "id": "monarch-butterfly-tour-in-mexico",
+  "tourName": "Monarch butterfly tour in Mexico",
+  "placesVisited": "",
+  "generalInfo": "Experience an amazing natural event: the monarch butterfly migration in Mexico! These monarch butterflies have made an long journey to escape the harsh winters in the USA and Canada.<br/><br/>Go to the Piedra Herrada, Mexico a Monarch Sanctuary. Which is one of the most important monarch reserves in the world.  To go hiking in this fantastic and magic place will be a unique opportunity!<br/><br/>You´ll also get the opportunity to visit beautiful towns, such as Valle de Bravo in the State of Mexico.",
+  "durationDays": "7",
+  "price": "2295",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Upon your arrival in Mexico City, you will be warmly greeted by your professional naturalist tour guide. From there, you'll be transferred to your hotel, where a detailed briefing will take place. During this session, your guide will provide important information about the upcoming activities and safety precautions, ensuring a smooth and enjoyable experience. As a bonus, your guide will share some fascinating facts about the Monarch Butterfly migration, setting the stage for your adventure in Mexico!"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Begin your day with a visit to the National Museum of Anthropology, one of the world’s premier archaeological museums, boasting an extensive collection of artifacts spread across 23 exhibition halls. The highlight of the museum is the renowned Aztec Sunstone, a mesmerizing cosmological calendar. Following the museum visit, we will journey to Valle deBravo, a picturesque town nestled among mountains. Known as one of the most sought-after tourist destinations."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Embark on your first visit to a Monarch Butterfly sanctuary (Piedra Herrada)! In this special area, the oyamel trees create the perfect environment for the Monarch Butterflies to thrive, offering the ideal conditions for their growth and reproduction. To fully immerse yourself in this natural wonder, you’ll embark on a guided hike, led by local experts. As you walk through scenic valleys surrounded by lush forests, you'll arrive at the butterflies’ resting spot, where you can marvel at their delicate beauty as they flutter gracefully around you. After this unforgettable experience, we’ll return to the Mesón de las Leyendas hotel to relax and unwind."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Today, we will explore the second sanctuary (El Capulin), where the journey will be a serene and almost effortless walk, made all the more captivating by the breathtaking landscape of coniferous forests.As you stroll through this tranquil environment, the reward awaits—thousands of Monarch Butterflies will surround you, fluttering gracefully among the towering oyameles and pines. After this unforgettable experience, we’ll return to the Mesón de las Leyendas hotel to relax and unwind."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Free day to enjoy the area of Valle de Bravo. Life´s here (literally) built around the lake. The waters of Valle de Bravo are calm and ideal for sports like sailing, water-skiing or kayaking. Enjoy your free afternoon, and pick an activity which you like. Tonight we stay at ¨Hotel Mesón de las Leyendas¨, for one more night."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "An early departure takes us back to Mexico City, where you'll enjoy an enriching city tour, exploring the vibrant culture and history of this dynamic metropolis. After a day of discovery, you'll spend the last night in Mexico City."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "On the final day of your unforgettable Monarch Butterfly tour in Mexico, you'll be transferred to the airport for your return flight ,taking with you cherished memories of your remarkable journey through the heart of nature's wonder."
+    }
+  ],
+  "map": ""
+}

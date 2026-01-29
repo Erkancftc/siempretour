@@ -1,0 +1,105 @@
+{
+  "destination": "Australia",
+  "mainPhoto": "",
+  "id": "the-ultimate-australian-family-vacation",
+  "tourName": "The Ultimate Australian Family Vacation",
+  "placesVisited": "Sydney, Tasmania, Kangaroo Island, Great Barrier Reef, Cairns, Adelaide, Hobart, Port Arthur & the Tasman, Port Lincoln",
+  "generalInfo": "From Far North Queensland to New South Wales, from the sands of the Outback to the crystalline waters of the Great Barrier Reef, from a day at a wildlife sanctuary to a night under the stars, and from the young to the young at heart, every member of your family is sure to never forget this ultimate Australian vacation.",
+  "durationDays": "16",
+  "price": "7,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Sydney - Welcome to Spectacular Sydney!",
+      "description": "You land this morning in sensational Sydney, the largest city in Australia and home to one of the world’s most iconic skylines, from the graceful arc of the Harbour Bridge to the unforgettable sails of the Opera House. A multicultural metropolis unlike any other on the planet, Sydney is filled with delicious restaurants, fascinating museums, superb shopping, and breathtaking scenery just waiting to be discovered. During your stay in Sydney, you will stay in a modern and elegant hotel, ideally situated in the heart of the Central Business District and surrounded by some of the best cafes, restaurants, and shopping areas in the city. You can stroll through Hyde Park or engage in some retail therapy at the shops in the gorgeous Queen Victoria Building before heading out to enjoy some of the city’s finest eateries at The Rocks or Circular Quay."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Sydney - A Unique and Unforgettable Tour of Sydney",
+      "description": "Explore this one-of-a-kind city in a one-of-a-kind way as you tour the famous neighborhoods of Sydney by bicycle, from the gorgeous greenery at the Royal Botanic Gardens to the stunning sights along the Circular Quay and Darling Harbour. This easy, two and a half hour ride will give you an incredible sense of life in this cosmopolitan metropolis. Visit the piers at Walsh Bay, the monuments of Hyde Park, and all points in between. Along the way, your friendly and knowledgeable guide will clue you in on local customs, history, and tradition. If you’re looking for an excursion that’s as fun as it is fascinating, this is the one for you."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Sydney - Hanging Ten at Sydney’s Most Famous Beach",
+      "description": "The surfing scene in Australia is one of the best in the world, complete with the some of the biggest waves and the best riders, and nowhere is this proud tradition on fuller display than at the world-renowned Bondi Beach. You’ll get the chance to fully experience this incredible environment as you spend an hour with a private instructor, learning how to surf like a true Aussie. Surfing rookies and experienced wave riders alike will revel in the one-on-one attention, and the attentive and qualified staff is sure to answer all of your questions, getting you up on your feet faster than you could have ever thought possible. Following your lesson, you might want to grab lunch at one of the number of excellent restaurants that line the sand at Bondi Beach. After, grab some sweet gelato, cakes to die for, or first-rate coffee."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Hobart - Turning to Tasmania",
+      "description": "This morning you’ll be transferred to the airport at Sydney to await your flight to Tasmania, Australia’s only island state and home to some of the most beautiful and diverse scenery on the planet; nearly half of this incredible island is national park land, allowing for wildlife of all types to flourish and thrive here. You’ll be taken to the state capital of Hobart and to the door of your unmatched, award-winning accommodation. The sleek and modern amenities will give you a sense of comfort and serenity, the views of the River Derwent and Sullivan’s Cover will captivate and inspire you, and the hotel’s perfect location offers a myriad of opportunities to get out and explore the surrounding area, from the sandstone edifices at Battery Point to the chic cafes and restaurants in Hobart’s Central Business District."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Hobart - A Day with Australia’s Charming Creatures",
+      "description": "Australia is home to some of the most diverse wildlife in the world, and today you have the chance to get up-close and personal with some of its most famous residents at the unparalleled Bonorong Wildlife Sanctuary. With more than 30 years of experience in native animal rehabilitation and education, Bonorong has been at the forefront of conservation efforts in the area, and as a Keeper for a Day, you’ll learn all about the animals that they care for and the work that goes into making sure that these magnificent animals are around for future generations. Spend some time with the iconic Tasmanian Devils of Bonorong, where you’ll learn their names and their personalities, the challenges they face, and what you can do to help. Face-to-face photo ops are replete, and the bravest among you can even hand feed these unforgettable creatures! From the amazing animals to the personable and dedicated staff that work at the Sanctuary, this singular experience is sure to be one that you will never forget."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Hobart - Cruising the Coast and a Visit to Port Arthur",
+      "description": "Today features a full-day exploration of the Tasman Peninsula, taking you along the island’s rugged coastline and past some of her most memorable sights and breathtaking landscapes. Work your way from Eaglehawk Neck to Port Arthur, taking in the stunning natural formations on your way, from the Tasman Blowhole to the Devil’s Kitchen. You’ll also pass interminable sea caves and the tallest sea cliffs in Australia, all of which you can see from the deck of a custom-built barge, simply perfect for observing the surrounding scenery and the wildlife that teem the waters and the skies. Following a delicious lunch, you’ll embark on a three-hour, guided expedition of the Port Arthur Historic Site, a legacy of the penal foundations of Australia and the best-known site of the convict era. You’ll be awed by the impressive structures that still dominate the site more than one hundred years after their construction, from the imposing cellblocks of the penitentiary to the reconstructed rooms of the Commandant’s Residence and the refurbished grounds of the Government Gardens."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Kangaroo Island - Setting Out for South Australia",
+      "description": "You leave the natural splendor of Tasmania to venture to the marvels of Kangaroo Island, the nation’s third-largest island and one of the best places to spot Australian wildlife deep within their natural habitats. You’ll ogle at the panoply of life that populates Kangaroo Island, as well as the odd and fascinating geological formations that dot the area, particularly the aptly-named Remarkable Rocks, naturally sculptured boulders that are reminiscent of the sculptures of artist Henry Moore. While on Kangaroo Island, you’ll stay at a splendid hotel, perfectly perched upon the seashore and offering large and comfortable rooms, immaculate views, and a bistro serving up local produce and fresh seafood."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Kangaroo - Discovering Kangaroo Island",
+      "description": "A coast-to-coast journey throughout Kangaroo Island awaits you, giving you unsurpassed views of this incomparable island from sea and sky and a chance to mingle with the friendly locals that call this place home. Begin with a stop to a honey farm before strolling the sand at Vivonne Bay, whose beach was hailed by an expert as one of the best in all of Australia, and observing a free-flight display of some local birds of prey. The afternoon takes you to the renowned shores of Seal Bay, where you’ll have the unique pleasure of a guided perambulation in the midst of a colony of Australian sea lions, an endangered species that is endemic to this part of the world. Their darling faces and delightful mannerisms are sure to enchant everyone in your group, and this chance for an intimate exploration is surely not to be missed."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Adelaide - A Day of Adventure and an Evening in Adelaide",
+      "description": "Today continues your discovery of the many offerings of Kangaroo Island, from natural beauty to man-made ingenuity to abundant wildlife found nowhere else on Earth. Start at a eucalyptus distillery, where you’ll find one-of-a-kind eucalyptus products and a variety of crafts in their handsome gallery. Next, stop at Parndana Wildlife Park to feed local kangaroos from the palm of your hand before catching a glimpse of languid koalas living large at the Hanson Bay Wildlife Sanctuary. The trip concludes at the spellbinding Flinders Chase National Park, home to Kangaroo Island’s most fantastic geological formations and a number of endangered species, such as goannas and echidnas. Later this afternoon, you’ll ferry into Gulf St. Vincent and the mainland, where a coach will be waiting to escort you to alluring Adelaide, the capital of South Australia and the most livable city in the country three years running. You’ll be enthralled by the elegant city plan, the surrounding parks and the many gorgeous edifices that line the main streets, from the orderly row of terrace houses to the climbing tower of St Francis Xavier’s Cathedral to the graceful clock tower and cupola of the Adelaide Town Hall."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Kangaluna - Camping in Style in the World-Famous Outback",
+      "description": "Today, you’ll head out to the heart of Australia’s bush country as you embark on the camping trip of a lifetime, taking in all of the many marvels of this unrivaled country while forsaking none of your creature comforts. Arrive at Port Lincoln and meet your tour guide who will take you on an unforgettable journey in South Australia, beginning at a wild koala colony at Mikkira Station. Then, pass the quaint village of Wudinna and the formidable shape of Mount Wudinna, Australia’s second-largest monolith, before turning to the pre-constructed camp at Kangaluna, built along the natural fire breaks to make the site as unobtrusive as possible. The afternoon is dedicated to exploring the flora and fauna of the area, including three separate species of kangaroos and flocks of emus, leading to an evening of sunset drinks at the base of the phenomenal Kolay Mirica Rocks, basalt columns jutting dramatically into the sky and casting a rich red hue over the landscape."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Kangaluna - The Wonder and Wildlife of Lake Gairdner National Park",
+      "description": "Set out early from camp to traverse the rugged landscapes of South Australia and the far reaches of Lake Gairdner National Park, where the sunburnt surroundings cast the scenery with a rich, red glow and where the rocks climb and stretch to all edges of the horizon. You’ll visit an ochre pit where the natural coloring agent comes rich and ready from below the surface of the earth before reaching the shores of Lake Gairdner. The salt flats surrounding it are home to a number of land speed record attempts and the current location for the yearly “Speed Week.” The vibrant colors and sumptuous hues of the sun shining across this arid plain will dazzle your eyes and spark your imagination, filled with a wide array of plant life and a panoply of birds. The afternoon features a ride through a landscape of contrasts and inconstancy, the colors changing with the setting sun and creating a spectacle that is very nearly divine. Keep an eye out for kangaroos and emus on your way back to camp, ready to enjoy another splendid evening under a starlit sky."
+    },
+    {
+      "dayNumber": "12",
+      "title": "Port Lincoln - Diving with Dolphins and Swimming with Sea Lions",
+      "description": "Today takes you out to the brilliant blue waters of South Australia’s coast for an experience that will never be recreated or forgotten. Cross the seas along the theatrical cliffs along Cape Radstock and marvel at the bottlenose dolphins that play in the boat’s wake, breaking the surface in playful histrionics and seemingly savoring your company. Upon reaching a lagoon at Jones Island, you’ll be able to mingle with these magnificent creatures in shallower waters and enjoy their frisky behavior and endearing affectations. Then you cross the bay for a rare treat, as you encounter a colony of Australian sea lions that are as friendly as they are adorable; you might even get a very wet kiss planted on your face! Following lunch, you’ll cruise past indescribable coastal panoramas and the quaint towns of Venus Bay and Elliston before returning to Port Lincoln."
+    },
+    {
+      "dayNumber": "13",
+      "title": "Cairns - Across Australia to Far North Queensland",
+      "description": "This morning sees you leaving the weathered splendor of South Australia for the exotic locales of Queensland and the city of Cairns, the jumping-off point for the inimitable grandeur of the Great Barrier Reef. Hemmed in by lush rainforests and the azure stretch of the glimmering Coral Sea, Cairns is steeped in natural wonder and filled with cosmopolitan delights, from fantastic restaurants to fascinating museums. You’ll spend your nights right on the shorefront at your breathtaking hotel, located in the heart of Cairns and offering spectacular views over Cairns Harbour or Marlin Parade as well as posh amenities and sophisticated stylings. Full-length sliding doors allow for a captivating view over the beckoning sea, and you’ll find yourself within easy walking distance of some of Cairns’ best attractions."
+    },
+    {
+      "dayNumber": "14",
+      "title": "Cairns - The Incomparable Great Barrier Reef",
+      "description": "The acme of Northern Australia and arguably the Southern Hemisphere, Australia’s Great Barrier Reef, is the largest structure made by living organisms on the planet, a UNESCO World Heritage Site and one of the Seven Wonders of the Natural World. You’ll journey to the very edge of this magnificent system to Agincourt Reef, where the water, topography and climate all combine to a form the finest of nature’s phantasmagorias. The location of this remarkable ribbon reef creates an ecosystem that is recognized by experts to be the most pristine throughout the entire region, and the clear water allows for the best visibility, coral growth, and marine life. Get close enough to touch the Technicolor by diving or snorkeling, or ditch the wetsuit and climb aboard a semi-sub that descends all but three and a half feet below the water’s surface. Or, for a truly unique view, climb into a helicopter to witness the teeming life of the deep-blue sea from the wild blue sky. However you choose to explore it, your viewing of the Great Barrier Reef will awe and inspire you with the strength and delicacy of the natural world."
+    },
+    {
+      "dayNumber": "15",
+      "title": "Cairns - Spending Some Time Saving Sea Turtles",
+      "description": "Your final full day in Australia is spent doing some good with the caring volunteers at the wonderful Cairns Turtle Rehabilitation Centre. This privately-funded organization is committed to helping to save the six species of turtles from the waters around the Great Barrier Reef and the Cape York Peninsula. You’ll encounter dedicated scientists and marine biologists who study these gorgeous animals and who help prepare them for life in the wild after they’ve been maimed or struck with a catastrophic illness known as “floater’s syndrome.” The results of this remarkable center are truly spectacular, as the rehabilitation rate for the turtles they care for has climbed to nearly 85%, a rate nearly three times what it was in years past. Not only will you have the rare opportunity to get close to these delicate and sensitive animals, you’ll also feel the singular warmth of helping them return to their natural homes."
+    },
+    {
+      "dayNumber": "16",
+      "title": "Cairns - Returning Home",
+      "description": "Leave early this morning to the airport at Cairns, where you’ll be transported to Brisbane and then back to Los Angeles. The flight will give you plenty of time to reflect on what you’ve seen, heard, learned and experienced, time to think back on an incredible vacation and to revel in the memories you’ve made. From the bright lights of Sydney to the explosion of color in the Great Barrier Reef, from the fecund forests surrounding Cairns to the vast stretches of the desolate Australian Outback, this is one trip that you’ll remember for the rest of your life."
+    }
+  ],
+  "map": ""
+}

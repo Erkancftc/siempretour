@@ -1,0 +1,70 @@
+{
+  "destination": "Namibia",
+  "mainPhoto": "",
+  "id": "namibia-flying-safari",
+  "tourName": "Namibia flying safari",
+  "placesVisited": "Windhoek, Kulala Wilderness Reserve, Namib Desert, private sunrises over Sossusvlei, dune boarding, guided nature walks, hot air balloon rides, sunrise treks, star gazing, Swakopmund, Walvis Bay, kayaking with seals, 4x4 dune excursions, Skeleton Coast, game drives, Serra Cafema camp, meet the Himba, quad biking",
+  "generalInfo": "Explore the towering sand dunes of the Namib Desert; spot whales, dolphins and hundreds of fur seals at Walvis Bay; enjoy a remote wildlife experience at Hoanib Skeleton Coast Camp; then spot desert-dwelling elephant, black rhino, lion, leopard and cheetah at Serra Cafema.<br/><br/>On this exclusive itinerary, you’ll fly between destinations rather than driving, to make the most of your time and see Namibia's otherworldly landscapes from a bird's eye view. <br/><br/>You’ll begin with a light aircraft flight from Windhoek into a private reserve within the Namib Desert, where you'll be able to discover attractions such as Sesriem Canyon, Dune 45, Big Daddy and Deadvlei. <br/><br/>You’ll then fly north to Swakopmund, where you'll stay at Pelican Point at Walvis Bay to enjoy kayaking with the thousands of Cape fur seals at Pelican Point, untouched beaches, marine life and the lagoon of Walvis Bay. After having explored Swakopmund you'll fly to the remote Hoanib Skeleton Coast Camp, where you'll take part in nature walks, wildlife-watch and experience the Skeleton Coast's stark shores and enormous seal colonies in a very remote region of Namibia. <br/><br/>From Hoanib Skeleton Coast, you'll next fly to Kaokoland, a wild remote region in the northwest corner of Namibia, where you'll stay at Serra Cafema, a luxurious camp on the Kunene River, to enjoy game drives in search of desert-dwelling elephant, endangered black rhino, lion, leopard, cheetah, zebra, giraffe and antelope.",
+  "durationDays": "9",
+  "price": "10945",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Windhoek & Fly to the Namib Desert - On arrival in Windhoek, you will be met by a representative before connecting onto a light aircraft flight to Kulala in the heart of the Namib Desert. You’ll spend the next two nights at Little Kulala, a luxurious desert retreat situated in the private Kulala Wilderness Reserve, at the foot of the iconic Sossusvlei Dunes."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Explore Kulala Wilderness Reserve & Sossusvlei - We recommend that you wake up early to climb the iconic sand dunes at sunrise, or if you prefer you can soar above this breathtaking landscape in a hot air balloon. Other activities you can enjoy today include a nature drive in the Kulala Wilderness Reserve to spot the desert-adapted wildlife, a dune walk or an eco-sensitive guided quad bike excursion, sand boarding and horse riding. In the evening, you can enjoy a gin and tonic on a sundowner tour, or after dark you can join a star-gazing excursion with a knowledgeable guide."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Fly to Swakopmund & Transfer to Walvis Bay - After breakfast today, you’ll take a light aircraft flight north to Swakopmund. Upon arrival, you’ll be transferred to your stunning accommodation, Pelican Point Lodge (30 kilometres from Swakopmund), which is situated on a remote peninsula with the untouched beaches of the Atlantic Ocean on one side and the lagoon of Walvis Bay on the other."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Explore Walvis Bay - Today, you’ll have a full day to explore Walvis Bay. We recommend kayaking with the thousands of Cape fur seals at Pelican Point, joining a dolphin cruise around Walvis Bay Lagoon or a guided wildlife walk, where you’ll have a chance to spot seals and dolphins, plus flamingos and pelicans."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Transfer to Swakopmund & Fly to Hoanib - After breakfast, you will be transferred back to Swakopmund to catch a flight to Hoanib Skeleton Coast Lodge. This spectacular camp is situated in a very remote location of northern Damaraland, on the edge of Skeleton Coast National Park. This luxurious and exclusive camp, which has just seven twin-tented rooms and one family unit, is only accessible by light aircraft and offers a truly remote wilderness experience."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Explore Hoanib - Hoanib Skeleton Coast Lodge offers the option for morning, afternoon or full-day nature drives to spot the desert-adapted elephant, giraffe, gemsbok and springbok. You can also explore the Skeleton Coast, with its stark shores and enormous seal colonies, take a stroll through Hoanib’s spectacular moon-like landscape and interact with wildlife researchers at the Hoanib Research Centre."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Fly from Hoanib to Serra Cafema - This morning, you will fly further north to the extremely remote Serra Cafema Camp. Located on the banks of the Kunene River on the northern border of Namibia, this is one of the most secluded and off-the-beaten track camps in Africa."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Explore Serra Cafema - Serra Cafema is located in an isolated area of Namibia, where the Himba people continue their traditional semi-nomadic way of life. Himba women cover themselves in an ochre paste to protect themselves from the sun and they also have distinctive braided hair, which changes with age and marital status. During your stay here, you may have the opportunity to visit a Himba settlement, spend time with the Himba women and learn about their fascinating lifestyle and customs. Other activities from Serra Cafema include eco-sensitive quad biking excursions, nature walks, hiking in the Marienfluss Mountains, star-gazing, and boat trips on the Kunene River (water levels permitting)."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Depart from Windhoek - Following breakfast at the lodge, your Namibia flying safari comes to an end with a final light aircraft flight back to Windhoek in time for your international flight home."
+    }
+  ],
+  "map": ""
+}

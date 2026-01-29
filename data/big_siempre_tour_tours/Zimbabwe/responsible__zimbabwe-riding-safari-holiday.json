@@ -1,0 +1,65 @@
+{
+  "destination": "Zimbabwe",
+  "mainPhoto": "",
+  "id": "zimbabwe-riding-safari-holiday",
+  "tourName": "Zimbabwe riding safari holiday",
+  "placesVisited": "Victoria Falls, Hwange National Park, horse riding and game viewing on the Hwange Estate",
+  "generalInfo": "Zimbabwe offers a tantalising mix of natural beauty, awe-inspiring wildlife and wonderful places to stay. Attracting adventure seekers, outdoor enthusiasts and animal lovers, there is plenty to see and do in this fascinating country. This 9-day tour takes you from the mighty power of Victoria Falls into the animal-filled wilderness of Hwange National Park.  <br/><br/>Victoria Falls is one of the seven wonders of the world and its impressive curtain of water plummeting into the Zambezi Gorge is a sight not to be missed. You'll have three days to explore this fascinating area, with a beautiful colonial-style boutique hotel as your base. Enjoy a tour of the falls, a visit to a local village and a sunset cruise along the Zambezi river to spot wildlife as you sip a cocktail. <br/><br/>Then it's time to head into the wilderness into the heart of one of Zimbabwe's best national parks, Hwange. Claiming to house the highest concentration of wildlife in Africa, you'll have the chance to spot the immense herds of buffalo, elephant, lion, rhino and leopard among many others. You'll do much of this from the back of your expertly matched equine companion who will accompany you into the bush in this unforgettable horse-back safari. There are also opportunities for game walks and drives to spot as much of the parks wildlife as possible. <br/><br/>You will be accompanied throughout by a team of local guides, a chef and porters who will help you settle into your bush camp. Enjoy telling stories around the campfire under the immense blanket of African stars and riding into the park during the day.",
+  "durationDays": "9",
+  "price": "2585",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Depart London on an overnight flight to Victoria Falls via Johannesburg"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "On arrival at Victoria Falls you will be met and transferred to your boutique guest lodge. (D)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Take a tour of one of the seven wonders of the world, Victoria Falls. With a curtain of water plummeting 103m into the Zambezi Gorge and 1708m wide, this tour includes a hike through the rainforest to the major viewing points including the spectacular Devils Cataract, Main Falls and Horseshoe Falls. After a day exploring, head out in the afternoon by boat for a cruise down the Zambezi River to watch the sunset and spot hippo, rhino, crocodile and elephant as you sip a refreshing sun downer. (B)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Spend two days exploring the area and relaxing in your beautiful colonial hotel. Head back to the falls or ask us for other tour options in the area. (B)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "After breakfast its time to embark on your safari adventure and you will be transferred to your safari lodge. The lodge sits on a private concession on the border of Hwange National Park and is perfectly placed for exploring the area. You'll also find a swimming pool, restaurant and BBQ area. After lunch and time to freshen up after your transfer, it is time to meet your horse and plenty of time will be spent ensuring you find your perfect equine match for the next three days. There will also be a safety briefing and snacks at the stables. (B, L, D)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Saddle up your horse and head out into the bush, enjoying your first early morning ride through the beautiful Hwange estate. You'll reach your ready prepared camp by lunch time and in the afternoon enjoy either a game drive or walk to spot more wildlife. Spend the evening under a blanket of African stars telling stories around the campfire. (B, L, D)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "An early start to watch the sun rise over breakfast before riding further into the park. Track and view wildlife from horseback as you savour a leisurely ride through the bush. Take another game drive in the afternoon before returning to camp for diner. (B, L, D)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "After breakfast its time to pack the horses and your belongings and make the trek back to the main lodge where you will bid farewell to your horse. In the afternoon you will be transferred to the airport for your return flight home. (B)"
+    }
+  ],
+  "map": ""
+}

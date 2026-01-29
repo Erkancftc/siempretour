@@ -1,0 +1,60 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "wild-argentina-holiday-tailor-made",
+  "tourName": "Wild Argentina holiday, tailor made",
+  "placesVisited": "",
+  "generalInfo": "In just under three weeks, embark on a journey through Argentina’s most remarkable natural wonders and remote landscapes.  From pristine rainforest, wildlife rich wetlands, rural pastures and coastal peninsulas, this itinerary weaves together the country’s most diverse ecosystems and highlights Argentina’s brilliant commitment to preserving its extraordinary biodiversity. <br/><br/>Begin and end in vibrant Buenos Aires, before venturing to the northeast to uncover the untouched Misiones jungle, jaw-dropping Iguazu falls and rewilded wetlands of Ibera, a haven for biodiversity. From there, travel to the Pampas and soak up the rural countryside and traditions of gaucho life, before ending at the windswept and UNESCO World Heritage Site, Peninsula Valdes, teeming with wildlife and scenic landscapes.<br/><br/>Excursions are a mix of private and small-group tours, led by expert local guides. Accommodation has been hand-picked by us to ensure a comfortable and enriching experience. This trip can be tailored to your interests, so let us know your preferences.",
+  "durationDays": "18",
+  "price": "8204",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Buenos Aires: Welcome to Argentina’s capital Buenos Aires. Upon arrival, settle into your boutique hotel in the heart of the city’s downtown. Spend your days with a local guide exploring the North and South of the city on a walking tour and discover its true highlights."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Iguazu Falls: Escape to the northeast of Argentina and transfer to your boutique hotel on the edge of Iguazu National Park, home to the awe-inspiring Iguazu falls: a UNESCO World Heritage site and one of the world’s most amazing natural wonders. Over the next few days, explore both the Argentine and Brazilian sides of the park with your local guide, discovering a network of walkways and trails that reveal the falls from every angle."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Misiones: Say goodbye to the falls as you transfer by road to a private wildlife refuge located deep within the Misones Rainforest- one of the last remnants of the interior Atlantic Forest. Your lodge is a rustic, simple eco-lodge where conservation and sustainability are at the forefront. Take guided walks through the subtropical forest and spot wildlife and colourful birds, navigate its tranquil waters on kayak, explore the jungle trails at night and completely immerse yourself in nature."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Ibera Wetlands: Journey south by road to the world’s second largest wetland ecosystem, a biodiversity hotspot home to over 4,000 species of flora and fauna. Over the next few days, explore the national park with a local guide, by boat safari, horseback, or on foot, discovering its rich wildlife and stunning landscapes. Learn about the park’s innovative rewilding model, which has transformed the area into protected ecosystem success."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "The Pampas: Take a flight to Buenos Aires and transfer directly out of the city for a stay in the pampas at a traditional estancia surrounded by wide-open pastures and rolling countryside. Immerse yourself into Gaucho life and embrace the peace and charm of rural Argentina."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Peninsula Valdes: Take a flight to the Peninsula Valdes, one of Argentina’s most iconic wildlife destinations and designated World Heritage Sites. During your stay, stay at a local ranch and explore the peninsula’s biodiversity. From whales and penguins to elephant seals and more experience breath taking wilderness at its best."
+    },
+    {
+      "dayNumber": 17,
+      "title": "",
+      "description": "Buenos Aires: Say goodbye to Peninsula Valdes and fly north to Buenos Aires, where you’ll spend one final night before heading home. If you would like to make the most of your time in the capital, we can arrange a guided tour or recommend some wonderful places to eat- just let us know your preferences."
+    }
+  ],
+  "map": ""
+}

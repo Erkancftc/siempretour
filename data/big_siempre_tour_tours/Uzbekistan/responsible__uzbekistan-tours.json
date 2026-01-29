@@ -1,0 +1,60 @@
+{
+  "destination": "Uzbekistan",
+  "mainPhoto": "",
+  "id": "uzbekistan-tours",
+  "tourName": "Uzbekistan tours",
+  "placesVisited": "Tashkent, Khiva, Kyzyl Kum desert, Bukhara, Shakhrisabz, Samarkand",
+  "generalInfo": "Uzbekistan is perhaps the most evocative country in Central Asia, with its splendid old Silk Road cities that conjure up images of its glorious past. This short trip is designed to show the very best that the country has to offer in just over a week. We start in the capital Tashkent, seeing its historic quarter and bustling bazaar before driving to fabled Samarkand where we explore its magnificent Registan Square, the Bibi Khanum Mosque and the observatory of Ulug Beg among other spectacular sights. From here we continue to Bukhara, once a powerful khanate and with monuments dating back a thousand years, including the impressive Chor Minor mosque, the Ark, and the Lyabi Hauz. Our journey then takes us through the Kyzyl Kum desert to explore the remains of ancient citadels, before ending up in the walled city of Khiva. Exploring this architectural gem is like entering another era, with imposing mosques, minarets and tombs around every corner, all superbly preserved. For those short on time but wanting an insight into this ever mysterious region, this tour offers a chance to understand the fascinating history of the Silk Road.",
+  "durationDays": "9",
+  "price": "1799",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Tashkent - Arrive in Tashkent. This afternoon explore the historic sites of the city including the Kukeldash madrassah, Khast Imam square – the heart of old Tashkent – and the Chorsu Bazaar. Overnight Hotel Milan or similar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Samarkand - Take a high-speed train to the spectacular city of Samarkand. Upon arrival visit the museum to gain an understanding of the history of the region. Overnight Orient Star Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Samarkand - A full day exploring the marvellous sites of Samarkand, one of the most incredible Silk Road cities and with a wealth of monuments to explore. We visit the enormous Bibi Khanum Mosque, built by the wife of the Mongol ruler Timur, as well as the stunning Registan Square, one of Central Asia’s most iconic sites. We also visit the Shah-i Zinda complex of mausoleums, a stunning collection of buildings dating back to the 14th century that rivals the Registan for splendour, and also the observatory of Ulug Beg. Overnight Orient Star Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Desert Castles – Desert camp - VVisit Toprak Kala and Ayaz Kala, the remains of two desert citadels that date back more than two thousand years. We then head to our yurt camp in the desert. (BD)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Khiva - Drive to Khiva. Enclosed by mud brick walls, the old part of Khiva, known as the Ichon Qala, has been virtually unchanged for centuries and is an open air museum packed full of intricately decorated minarets, mosques and madrassahs. We spend the day walking its narrow alleys and uncovering the best of its highlights including the Kalta Minor minaret, the Islam Khodja madrassah and the ark, where the khans of Khiva once lived. Overnight Orient Star Khiva or similar. (B)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Tashkent - Fly back to Tashkent for your final night in Uzbekistan. Overnight Milan Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Tashkent - Transfer to the airport for departure. (B)"
+    }
+  ],
+  "map": ""
+}

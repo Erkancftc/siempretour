@@ -1,0 +1,70 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "northern-kenya-safari-and-diani-beach",
+  "tourName": "Northern Kenya safari and Diani beach",
+  "placesVisited": "",
+  "generalInfo": "Bush to Beach - a holiday of contrasts.  <br/>In Northern Kenya, we take you to the Samburu National Reserve, home of Save the Elephants as well as many endangered and desert adapted species, such as oryx and gerenuk.  You stay at a wonderful camp on the river in the Reserve and elephants regularly visit and occasionally wander through.   <br/>Also you can visit Ololokwe, the sacred mountain of the Samburu, and stay at a delightful eco camp run by the local Samburu.  You can climb the mountain for the sunrise (or climb the previous afternoon and fly camp at the summit) with amazing views of the surrounding desert landscapes as well as Mount Kenya. You can also visit Reteti Elephant Sanctuary, well off the beaten track in the shadow of the Ndoto mountains.  This is an amazing experience and you may see many animal orphans such as young giraffe as well as the elephants.  The Reteti staff will show you the kitchen where they prepare the feeding bottles for the youngsters and you will witness feeding time and the elephants playing in their mud bath.<br/>Then you travel by air back to Nairobi and connect with a flight to Malindi.  It's a short transfer to Watamu with its contrast of both the ocean and a ‘creek’ (actually a mangrove-lined estuary). <br/>I would recommend snorkelling in the Coral Gardens and a sunset dhow cruise on Mida Creek. Dhows were used for trading in the past and there’s something rather magical about sailing along sipping your sundowner on one of these old-style vessels with its billowing sail. <br/>You can also paddleboard with dolphins. <br/>Best time to visit is mid-October to April. I would definitely avoid September when huge drifts of seaweed appear close to the shoreline.<br/>A really lovely, happy and special place to spend a few days at the end of your holiday!",
+  "durationDays": "12",
+  "price": "5000",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "You fly to Nairobi (international flights not included) ideally arriving in the evening. Overnight in Nairobi at a hotel near Jomo Kenyatta International Airport, e.g. Crowne Plaza or Four Points by Sheraton (hotel not included)."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Our Guide to meet you at your hotel at 9.00 a.m. for the drive north up to Nanyuki which takes about 4 hours. You stay overnight at Soames Hotel (B&B only). In the afternoon, our Guide can take you for a look around Nanyuki, an equatorial town located on the north western side of Mount Kenya at an altitude of 1,900 metres."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Our Driver Guide to collect you from Soames Hotel for the drive north to Sabache Eco Camp (about 2.5 hours) with a welcome coffee stop at Vitu Too on the way. You arrive at Sabache in good time for lunch. In the afternoon, you can walk with Sabache’s Samburu guides to a local village. You stay for two nights at Sabache on Full Board: one night in Camp and one night fly-camping on the summit of Ololokwe. All meals are included at Sabache. Beers and sodas are available to buy. Sabache Eco Camp is an authentic community camp run by local Samburu people. It’s not a luxury safari lodge, but the tents are spacious and comfortable with ‘en suite’ bathrooms."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Today you visit Reteti Elephant Sanctuary. You leave at around 10.30 a.m. for the 1.5 hour drive towards the Mathews mountains. You’ll see Samburu herders with their cattle and goats. You take a picnic lunch provided by Sabache and your visit is from midday through to about 1.00 p.m. The Samburu team at the Sanctuary will feed the orphaned baby elephants and you can visit the kitchens to see how they make up the milk formula. You may also see other orphaned animals at the Sanctuary. After returning to Camp, you collect your overnight kit and set off with your Samburu guides for the climb up Ololokwe where you’ll camp overnight at the summit. This is a fairly strenuous 3-4 hour walk up a path hugging the mountain and through a couple of forested areas (look out for cycads)."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "You are woken at 6.00 a.m. and have breakfast at the summit with panoramic views of the surrounding desert and Mount Kenya in the distance. Vultures roost on the cliff-face below the summit and majestically cruise past on thermal currents. After about 40 minutes, you walk back down to Sabache which takes a couple of hours. You check out from Sabache and drive to the Samburu Reserve and Elephant Bedroom Camp, arriving in good time for lunch. You go for an afternoon game drive. You stay for two nights at Elephant Bedroom Camp on Full Board."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Elephant Bedroom Camp – Full Board. Early morning and afternoon game drives followed by sundowners."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "You have breakfast and checkout. Then you set off at around 9.00 a.m. on a final game drive heading towards Samburu Kalama Airstrip for your Safarilink flight back to Nairobi where you connect with your flight to Malindi. You transfer to Ocean Sports in Watamu where you stay for five nights. Recommend B&B rate so you can try some of the many excellent restaurants in the area: Pilipan, Lichthaus, Visiwa and Medina Palms."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Ocean Sports on B&B rate. Lots of beachy things to do from snorkelling to paddleboarding to relaxing."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "You fly back to Wilson Airport in Nairobi and transfer to Jomo Kenyatta International Airport for your return international flight. If your flight is overnight, you can book a dayroom (not included) or spend time at a local hotel near the airport. Subject to time constraints, there may be the opportunity for Nairobi sightseeing."
+    }
+  ],
+  "map": ""
+}

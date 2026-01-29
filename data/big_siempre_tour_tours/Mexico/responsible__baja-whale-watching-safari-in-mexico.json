@@ -1,0 +1,50 @@
+{
+  "destination": "Mexico",
+  "mainPhoto": "",
+  "id": "baja-whale-watching-safari-in-mexico",
+  "tourName": "Baja whale watching safari in Mexico",
+  "placesVisited": "",
+  "generalInfo": "Set on an island in the Pacific ocean, your stay at our exclusive gray whale safari camp will be a complete immersion into this spectacular wilderness and the world of the whales. Gray whales migrate from the Arctic circle down the Pacific coastline to Baja, where they frolic in the desert sunshine for a few short months to mate and give birth. Sand dune barrier islands form calving lagoons where the whales congregate for their springtime festivities. From mid-January through the end of March, these shallow lagoons are a haven to hundreds of whales and their newborn calves.<br/><br/>Moreover, these Baja gray whales have actually become friendly and curious toward humans. What started with a gentle rub between a lone gray whale and a young fisherman has become a breathtaking phenomenon among the entire population, as these whales now actively seek interaction with people. Mothers will often bring their calves right over to whale watching boats for an eye-to-eye encounter.<br/><br/>When you join us in Baja for a stay at our gray whale base camp, you'll have more than just whale time - though there is plenty of that! The most spectacular feature of our exclusive campsite is the proximity to the whales. Our site is located right where the lagoon meets the Pacific ocean. This is where the whales are most concentrated. Consequently, you can usually see whales right from camp throughout the day. At times, you may feel utterly surrounded by whales!<br/><br/>You'll visit the whales by motorized skiff (6 people per boat) twice per day for up-close encounters, and then will return to camp to watch whales from shore and learn about their environments from your naturalist guides. All of your guides are local, bilingual Mexicans, and many are marine biologists from the nearby University of La Paz. <br/><br/>The accommodations at our safari-style camp are as luxurious as can be found in the wild, yet still allow us to remove all trace of human presence once the whales leave. You will sleep in full-height canvas tents on sleeping cots with inflatable air pads. A solar shower stall and El Bano with a porta potty are also provided.  Your guides will prepare warm, savory meals made from fresh ingredients right in the middle of the wilderness while you relax with a drink, comb the beach, or take a walk over the dunes to watch the sun set over the Pacific ocean. This is Leave-No-Trace camping at its finest!<br/><br/>Though the whales are the stars of the tour, the desert ecosystem is fascinating to explore. Acres of mangroves flock the lagoon, which make this area a bird-watchers paradise. Dolphins frequently zip into the bay for a snack, often catching fish just feet from the waters' edge. Coyotes and desert hares skip over the dunes, and the delicate desert flora offers a startling array of colors and unique Baja beauty. <br/><br/>Tours begin in Loreto, Baja, or La Paz, Baja, making this a perfect addition to a thrilling winter escape!",
+  "durationDays": "4",
+  "price": "1850",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival in Loreto or La Paz (any time). Meet your guides for an orientation meeting this evening, and then explore the city for tasty Baja cuisine."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Depart Loreto or La Paz bright and early for the van ride across the Baja peninsula. You will arrive at Puerto Lopez Mateo off Magdalena Bay at 9:30 in the morning, just in time to start your first whale watching session! You can sometimes see the whales right from the dock, so keep your eyes peeled for a jaw-dropping experience. After whale watching, you'll journey by boat to our exclusive camp site among the barrier island sand dunes. After you've settled into the tent that awaits, you'll enjoy a fresh lunch before an interpretive hike across the dunes to the Pacific ocean. Meander back to camp along the beach, enjoying the waves, seashells, and whales off shore, and then relax with happy hour hors d'oeuvres and drinks before a warm dinner and whale presentation. Once darkness falls, take a moment to gaze at the stars in Baja's stunning lack of light pollution, or cozy up in bed for the next day."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Awake to coffee, tea, and an early morning snack. Watch the sun rise over a lagoon full of whales, or enjoy the sight of the rays burning off a foggy sky. A hot breakfast will be prepared and served on tables right on the beach. After breakfast, you'll commence with another whale watching session and then return to camp for lunch and a siesta or stroll on the beach. A second session is included in this afternoon, and if you prefer, you can select a part whale-watching, part-bird watching in the mangroves trip. Happy hour will await you this evening, followed by dinner and games or storytelling before bed."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Rise to see the sun shining once more over the lagoon and sand dunes. Tea and coffee will again meet you in the morning, followed by another hot breakfast with a local flair. After packing your bags, you'll board a panga for your last whale watching session before returning to the dock at Lopez Mateos. A hot seafood lunch is included at a local restaurant before the van ride back to Loreto or La Paz. You'll have a chance to clean up and explore the town again before a farewell dinner with your group and guides this evening to toast the memories and new friendships."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Departure day. After checking out of your hotel room, you're free to depart any time this day. Note: itineraries are also available for 6-day tours, which include one more full day at camp."
+    }
+  ],
+  "map": ""
+}

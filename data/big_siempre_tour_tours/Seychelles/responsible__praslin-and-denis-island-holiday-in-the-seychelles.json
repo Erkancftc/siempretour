@@ -1,0 +1,65 @@
+{
+  "destination": "Seychelles",
+  "mainPhoto": "",
+  "id": "praslin-and-denis-island-holiday-in-the-seychelles",
+  "tourName": "Praslin and Denis Island holiday in the Seychelles",
+  "placesVisited": "",
+  "generalInfo": "Experience the natural beauty of the Seychelles with an 11 day itinerary, visiting a family-owned and operated boutique hotel on the beautiful island of Praslin before heading to a private island, that perfectly combines barefoot luxury with conservation. <br/><br/>Praslin is the Seychelles’ second largest island and is home to the UNESCO-protected Vallée de Mai.  Find 6 endemic species, including the towering coco de mer trees which are famous for their seed which are the largest in the world, weighing up to 18kg each. Outside of the nature reserve, visit the picturesque Anse Lazio beach, visit nearby La Digue island and snorkel from the beach at your hotel. <br/><br/>After 5 nights staying on Praslin, fly to Denis Island; a coralline island that is roughly 30 minutes by light aircraft from the main island. Denis Island is a luxurious haven with limited wifi and an untouched natural beauty.  The island is the perfect place to unwind, whether you fill your days with snorkelling trips and guided nature walks or simply relax on the quiet beach that is steps from your beach cottage.",
+  "durationDays": "11",
+  "price": "6270",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "After arriving in the Seychelles, you will be met by a local representative and taken to the jetty for your ferry across to Praslin. From here, you will be transferred to your hotel, L'Archipel, set on the beautiful Cote d'Or beach."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Spend your first full day relaxing at your hotel. There is great snorkelling directly from the beach, and you can borrow snorkelling gear from the beach kiosk."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Day at leisure or an optional visit to La Digue. Catch the ferry across to the small island, and spend the day exploring picturesque beaches and viewpoints. There are no motorised vehicles on the island, and plenty of spots to hire bicycles or explore on foot."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Days at leisure or an optional guided tour of the island, visiting the Vallee de Mai and Anse Lazio beach."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Today, travel back to Mahe on the ferry and transfer to the airport for a short flight to Denis Island. After a scenic 30 minute flight, arrive on the beautiful 345 acre island."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Spend your days relaxing and exploring the island. Visit the on-site farm, where produce is grown for the restaurant, and join guided nature walks through the forest and spot endemic bird species. Snorkel and dive in the surrounding waters which are part of a protected marine reserve."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Enjoy your final day in paradise. Maybe celebrate with an in-room spa treatment and finish the day with a cocktail as you watch the sun set over the ocean."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "After an unforgettable stay, flight back to Mahe for your international flight home."
+    }
+  ],
+  "map": ""
+}

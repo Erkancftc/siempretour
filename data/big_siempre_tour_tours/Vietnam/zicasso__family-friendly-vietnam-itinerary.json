@@ -1,0 +1,60 @@
+{
+  "destination": "Vietnam",
+  "mainPhoto": "",
+  "id": "family-friendly-vietnam-itinerary",
+  "tourName": "Family-Friendly Vietnam Itinerary",
+  "placesVisited": "Ho Chi Minh City, Mekong Delta, Ben Tre, Phan Thiet, Vinh Hy Bay, Cam Ranh",
+  "generalInfo": "Step into a world of water that is presented by Vietnam’s enchanting highlights on this luxurious, 7-day family adventure. Southern Vietnam boasts a collection of geographical phenomena and culture-drenched landmarks across its beautifully diverse landscape. Many of these highlights are aquatic by nature, such as chestnut rivers that cascade over archaic rock formations, curved bays that are bordered by jade, and century-old temples that honor spiritual gods of water. From the open seas to gentle streams, you will escape the busy crowds in Southern Vietnam.",
+  "durationDays": "7",
+  "price": "2,100",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Ho Chi Minh City – The Water Goddess",
+      "description": "Once you land and clear customs, you will meet your private transfer and cruise across the cityscape toward your luxurious accommodation. In the lobby, a guide will be waiting to lead you on an educational exploration of the city’s highlights. During your tour, you will weave through the cityscape and venture to Thien Hau Temple. The elaborate, spiritual complex is the sacred heart of Ho Chi Minh City’s Chinatown. Your tour may continue to a selection of must-visit locations, such as the Notre Dame Cathedral and War Remnants Museum, but where you venture will be entirely up to you and your family."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Ho Chi Minh City – Uncover Spectacles and Culture",
+      "description": "Today, you and your family will glide across the Mekong Delta to witness the surreal scenery that borders its banks. An experienced river guide will invite you onto his speedboat for maximum comfort. During your ride, you will witness massive strips of a river that are flanked by luscious jungles. You will venture onward to the coastal province of Ben Tre for a complete immersion into the locals’ way of life. As you flow with the streams on board a traditional, wooden sampan to learn the timeless process of crafting coconut candy, you and your family will be enchanted to play a part in the humble, countryside culture. Totally in tune with the environment that they inhabit, the locals dedicate themselves to sustaining natural resources, and this will become increasingly apparent at an ethical bee farm, where you may sample honey-infused tea."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Phan Thiet – Sand-Boarding and Dramatic Slopes",
+      "description": "This morning, you will arrive at the base of the Red Sand Dunes, which will appear to be reddish-brown mountains of sand. Their massive size will surely impress you and your family as you prepare to brave their soaring peaks. Championing a powerful dune buggy, you can whisk your family over sandy crests and down the dunes as you trail behind professional tour guides who will navigate your group toward a sand-boarding launch site. It will be utterly quiet out here except for the boisterous laughter of your family and the whistling gusts that breeze past you. Afterward you will be returned to your accommodation in Phan Thiet."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Phan Thiet – Trek through Time",
+      "description": "This morning, you will venture to the fabled Fairy Stream, which is only a short distance out of the town. You will soon arrive at the umber stream that is famed for its unspoiled display of nature. Restaurants upstream will offer the perfect place to catch your breath in addition to allowing you to fuel up while admiring the breathtaking countryside. This afternoon, you will stumble upon more phenomenal rock formations. After discovering the history in which it is shrouded, you can continue to venerated landmarks that are nearby, such as Po Shanu Cham Towers or the tomb of the famous Vietnamese poet, Han Mac Tu. Your tour will culminate on the crest of Ta Cu Mountain following a brisk drive and cable-car ride to the top, where intricate Buddhist structures, delicate animal carvings, and ancient caves adorn its luxuriant slopes."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Vinh Hy Bay – Sensational Sights and Flavors",
+      "description": "Today, you will journey to the Vinh Hy Bay within the comfort of a luxury vehicle. This is where you will be staying for the evening, and you can check-in and make your way to your suite. You can descend toward the soft sand shores to treat yourselves to an unforgettable afternoon under the gleaming sun. You can let the afternoon slip on by as you and your family soak up the sunshine and Vinh Hy Bay’s alluring atmosphere. When your hunger starts to set in, you can retreat to your resort for a multiple-course meal that will highlight the catch of the day."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Vinh Hy Bay – Wallow in Water Sports",
+      "description": "Today, you and your family can decide how you would like to bask in its scenic splendor, and you will be spoiled for choice with options. You may board a professionally captained catamaran and chart the calm sea. If you yearn to venture out on your own, then kayaks can provide you with a more secluded retreat. You can follow the dramatic coastline in a convoy and navigate the peaceful water as you encounter bewildering rock formations and luscious greenery. For more adventurous families who desire to immerse themselves in the thrill of Vinh Hy Bay’s watersports, water skiing and windsurfing can provide a bountiful way to experience this adrenaline rush."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Cam Ranh – Departure",
+      "description": "This morning, you can venture out to Cam Ranh, where you will transfer through the neighboring bay on a flight to Ho Chi Minh City. You can marvel at all of the environmental wonders one last time as you arrive in Cam Ranh, where you will enjoy an authentic Vietnamese breakfast at a cafe to culminate your trip. From here, you will venture through Ho Chi Minh to the international airport for your flight home."
+    }
+  ],
+  "map": ""
+}

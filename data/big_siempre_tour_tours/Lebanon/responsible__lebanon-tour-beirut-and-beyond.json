@@ -1,0 +1,70 @@
+{
+  "destination": "Lebanon",
+  "mainPhoto": "",
+  "id": "lebanon-tour-beirut-and-beyond",
+  "tourName": "Lebanon tour, Beirut and beyond",
+  "placesVisited": "",
+  "generalInfo": "Despite its tiny size, Lebanon has a history dating back to the dawn of human civilization, and a wealth of natural attractions to explore – this trip will show you the very best that the country has to offer the visitor, including a few hidden gems that most overlook. Starting in Lebanon’s capital and most cosmopolitan city, Beirut, we uncover what remains of its Ottoman legacy and explore its vibrant souks. Moving away from Beirut we head to Tyre, a UNESCO World Heritage site containing the world’s largest Roman hippodrome, and on to the old Phoenician port city of Sidon, with its more relaxed and traditional way of life.<br/><br/>Leaving the cities behind, we venture into the Bekaa Valley’s largest wetland, a delicate ecosystem which houses an astonishing number of bird and animal species, and of course visit Baalbek, a lasting testament to the glory of the Roman empire. We continue on to Jeita with its magnificent limestone grottoes, before stopping at the charming town of Byblos and heading into the Batroun Mountains to spend the night.<br/><br/>From here we continue to the rugged and wild Qadisha Valley. Exploring here offers a fantastic opportunity to discover Lebanon’s natural beauty, with some of the most spectacular scenery in the country, as well as impressive monasteries that date back almost a thousand years. On our way back to Beirut, we stop at Lebanon’s second city Tripoli with its evocative historic quarter, Mamluk-period architecture, and bustling markets.<br/><br/>Moving on from a troubled past, Lebanon is one of the Middle East’s best kept secrets, with few visitors compared to some of its neighbours. Charming, understated and with an atmosphere all of its own, we think it’s one of the most exciting countries in the region.",
+  "durationDays": "9",
+  "price": "2349",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Beirut - Arrive into Beirut and transfer to hotel. Overnight Bellariva Hotel or similar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Tyre – Sidon - Beirut - Leaving Beirut city behind, we head to the Phoenician city of Tyre, and explore its excavated ruins including the public baths, Roman necropolis and hippodrome. We continue to Sidon to visit the old town with sites including the sea castle, old souks, Debbaneh Palace and Saint Nicholas Cathedral. If time permits, we will stop at the Phoenician site of Echmoun on the way back to Beirut. Overnight Bellariva Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Beirut – Deir el Qamar – Beiteddine - Explore Beirut city’s downtown district, with its souks, churches and mosques. Later we drive to the old village of Deir el Qamar, with its well-preserved 17th and 18th century architecture, mosques, palaces and public squares, before making our way to Beiteddine, to visit the impressive palace here. We explore the palace complex and its museums to see costumes and weapons from the era as well as a fine collection of well-preserved Byzantine mosaics. Overnight Bellariva Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Barouk – Chtaura - Visit the 17th century Moukhtara Palace and then head to the largest nature reserve in Lebanon where some of the trees are estimated to be 2000 years old. We take a short hike and our guide will explain the flora and fauna of the area. From the summit of the mountains, you will have a panoramic view of the countryside, eastward to the Bekaa valley and Qaraoun Lake and westward towards the Mediterranean. Overnight Massabki Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Aamiq Wetland – Ksara – Baalbek - Chtaura - Visit the Aammiq wetland, a biosphere reserve and important area for migratory water. In the afternoon we visit a family of farmers in Qaa and have lunch with them, stopping at the country’s oldest winery for a tasting en route. Later we drive to Baalbek, Lebanon’s greatest Roman treasure and one of the wonders of the ancient world. Overnight Massabki Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Day 6 – Jeita – Harissa – Byblos – Douma - Start the day by exploring the magnificent grottoes of Jeita. En route we visit the archeological site ‘Qalaat Faqra’ with its Roman and Byzantine ruins. In the afternoon we take the cable car up to ‘Our Lady of Lebanon’ overlooking the bay of Jounieh and then reach Byblos, which has been continuously inhabited since the 6th millennium BC, before ending up in the picturesque village of Douma, nestled in the Batroun Mountains. Overnight Beit Douma Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Becharre – Qadisha Valley - Qozhaya - We make a stop at the impressive Baatara gorge waterfall in Tannourine before continuing to Becharre and onwards to the Cedar Woods. After visiting the museum of famous poet Gibran Khalil Gibran, we take a walk in the woods where the trees are up to 1500 years old and once forested the entire Lebanon mountain range. We then take a walk in the ‘Wadi Qadisha’ or the ‘Holy Valley’ where we will find caves and sanctuaries which were inhabited from third millennium BC until the Roman period, visiting Qozhaya Monastery, which dates back to 12th century. Overnight Ehden Country Club or similar. (B)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Tripoli – Batroun - Beirut - Visit the second largest city in Lebanon, Tripoli, including the old part of the city with its colourful souks, Crusaders Fortress, narrow alleyways, hammams, mosques and madrasahs. On the way back to Beirut we visit Batroun, which lies on the coast of the Mediterranean Sea and boasts charming streets, gardens, ancient churches and archaeological landmarks. We also stop at the rock-hewn Kaftoun Monastery. Overnight Bellariva Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Beirut - Transfer to the airport for your flight home. (B)"
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,65 @@
+{
+  "destination": "Maldives",
+  "mainPhoto": "",
+  "id": "dubai-abu-dhabi-maldives-holiday",
+  "tourName": "Dubai, Abu Dhabi & Maldives holiday",
+  "placesVisited": "",
+  "generalInfo": "This luxurious journey begins in Dubai, where guests are welcomed upon arrival and transferred to their hotel to relax and take in the city’s vibrant energy. The second day unfolds with a comprehensive exploration of Dubai's classic and modern attractions, including the historic Bastakia area, an Abra boat ride, bustling souks, and the iconic Palm Jumeirah. Visitors can capture stunning views of Burj Al Arab, shop at Dubai Mall, and enjoy the fusion of culture and modernity that defines the city. Day three takes travelers to Abu Dhabi, where they visit the awe-inspiring Sheikh Zayed Grand Mosque, explore Qasr Al Watan, and experience the elegance of the Emirates Palace. After an enriching tour of the UAE's capital, guests return to Dubai for an overnight stay.<br/><br/>The adventure continues with a seamless transition to the Maldives on day four, offering a tropical paradise to unwind. Guests enjoy three full days at an all-inclusive resort, indulging in pristine beaches, crystal-clear waters, and luxurious amenities. The itinerary concludes with a relaxing morning before departing from Male International Airport, leaving travelers with memories of vibrant cityscapes and serene island bliss. This thoughtfully designed itinerary provides a perfect blend of cultural exploration, modern luxury, and tropical retreat.",
+  "durationDays": "8",
+  "price": "3870",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "• Arrival in Dubai. • Our airport representative will welcome you at the airport and escort you to the Car. • Transfer to your Hotel. • Enjoy your car ride while witnessing this beautiful city of Dubai. • Check in at your hotel. • Overnight stay in Dubai. Meals: No Meals"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "• Breakfast at the hotel. • 08:30hrs meet your Driver guide at the hotel lobby. • Heading to Bastakia Area. • Enjoy and learn about the Emirati culture and history. • Abra Boat ride (Water Taxi). • Visit Spice souk and gold souk. • Heading to Dubai Marina. • Heading to Palm Jumeirah. • Photo stop Ain Dubai and Blu Island. • Photo stop Atlantis the Plam. • Visit the souk Madinat Jumeirah. • Take a nice picture of you with the view of Burj al-Arab. • Heading to Dubai Mall. • Free time for shopping at Dubai Mall. • 16:00hrs transfer to your hotel. • Overnight stay in Dubai. Meals: Breakfast."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "• Breakfast at the hotel. • Check out from your hotel in Dubai. • 09:00 Meet your guide at the lobby. • Heading to Abu Dhabi. • Visit the Sheikh Zayed grand mosque. • Photo stop at Emirates Palace. • Drive through the Al Bateen area. • Visit the Marina Mall. • Free time for shopping and lunch on your own. • Visit Qasr Al Watan with Entrance tickets. • Round tour in Abu Dhabi. • Return to Dubai. • Overnight stay in Dubai. Meals: Breakfast."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "• Breakfast at the hotel. • Check out from the hotel. • Heading to Abu Dhabi International Airport for your flight to Maldives. • Flight to Maldives. • Transfer to your Hotel. Meals: Breakfast."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "• Breakfast at the hotel. • Enjoy your stay at the resort with all-inclusive. Meals: All-inclusive."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "• Breakfast at the hotel. • Enjoy your stay at the resort with all-inclusive. Meals: All-inclusive."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "• Breakfast at the hotel. • Enjoy your stay at the resort with all-inclusive. Meals: All-inclusive."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "• Breakfast at the hotel. • Check out from the hotel. • Transfer to the Male International Airport for your departure flight. Meals: Breakfast."
+    }
+  ],
+  "map": ""
+}

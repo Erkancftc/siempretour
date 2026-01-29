@@ -1,0 +1,85 @@
+{
+  "destination": "Guinea",
+  "mainPhoto": "",
+  "id": "guinea-liberia-and-sierra-leone-tour",
+  "tourName": "Guinea, Liberia and Sierra Leone tour",
+  "placesVisited": "Conakry, Samaya, Waliah, Kindia, Dalaba, Fouta Djalon, Saala Falls, Fougoumba, Labe, Kissili Falls, Coyah, Freetown, Banana Island, Tacugama, Kambama, Tiwai Island, Bondo, Makeni, Tasso Island, Bunce Island, Lungi",
+  "generalInfo": "An innovative itinerary combining three of West Africa’s least visited countries. Guinea, Liberia and Sierra Leone have been blighted in recent years by the scourges of Africa, disease and war, but are now opening up again to curious travellers keen to look beyond the dated stereotypes. With unique histories, age old traditions and inspiring landscapes, both have a huge amount to offer the Africa enthusiast.<br/><br/>We start in Conakry then make our way into the Fouta Djalon highlands - without a doubt one of West Africa’s most beautiful areas, with breathtaking mountain scenery, gushing waterfalls and lush forests, dotted with traditional villages, and we spend time discovering the region and meeting its inhabitants. From here, we return to the lowlands and the thick forests of eastern Guinea, home to secret societies and arcane traditions that are fast being lost elsewhere.<br/><br/>On our way into Liberia we track chimpanzees, then explore the lively capital of Monrovia, learning about its unique history and Americo-Liberian culture. We then cross the border into Sierra Leone.<br/><br/>Here we meet people seeking their fortune in the diamond trade, see traditional mask dances and spend a couple of nights on the idyllic Banana Islands with their gorgeous beaches and fishing villages, as well as visiting the historic fort at Bunce Island.<br/><br/>An exciting and pioneering journey through a little known part of the continent.",
+  "durationDays": "16",
+  "price": "5949",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Conakry - Arrive in Conakry and transfer to your hotel. Overnight Hotel Onomo or similar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Conakry – Kindia - We spend the morning exploring the capital and then drive to the village of Kindia, en route to the Fouta Djalon highlands. This evening we hope to see a performance of the traditional Baga Nimba masks. Overnight Hotel Masabi or similar. (BLD)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Dalaba - Drive to the small town of Dalaba, with its interesting ‘casa a palabra’, a finely decorated building used for local chiefs. We also visit the villa of Guinea’s first president, Sekou Toure, among other sights. Overnight Hotel Tinka or similar. (BLD)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Fouta Djalon - From here we drive into the Fouta Djalon, a stunning area of mountains, waterfalls, plateau and savannah, where we explore the charming Fulani villages with their typical architecture. Return to Dalaba for the evening. Overnight Hotel Tinka or similar. (BLD)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Faranah - Today we drive to the town of Faranah, in the region inhabited by the Malinke people. The Malinke are descendants of the ancient empire of Mali and we visit a community of ‘griots’ – traditional musicians and story tellers who play an important part in conserving the traditions of West Africa. We learn about their history and customs, and witness a traditional griot performance. Overnight Hotel Niger or similar. (BLD)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Kissidougou - We visit a traditional Malinke village where we can meet the chief, then later head into the forest with the Dozo, known as warriors, hunters and healers. The Dozo are renowned for their magical powers and wear traditional costumes and amulets to protect themselves from enemies. This afternoon continue to Kissidougou for the night. Overnight Hotel Rama or similar. (BLD)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Macenta - This region is the home of the Kissi people, who are known for worshipping stone gods called Pomo, found in the forests. In Kissidougou we visit the museum which displays cultural artefacts from the region. From here we continue on bad roads to reach Macenta where we can see the initiation rituals of the Toma people. Overnight Hotel Macenta or similar. (BLD)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Monrovia - Drive to Liberia’s capital, Monrovia. On Day 11 we explore the city visiting the National Museum and the impressive Masonic Temple of Liberia, that has played an important part in Liberian history over the years. Overnight Cape Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Bo - Cross the border with Sierra Leone and head towards its diamond producing region. Continue to Bo for the night, where we spend time learning about the process of diamond mining, as we join some villagers who show us their craft, as well as meeting diamond traders for an insight into a side of the business few get to see. Overnight Hotel Dohas or similar. (BLD)"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Banana Islands - In the morning of Day 13 we see a rare performance of the female Bundo masks – normally mask societies are for men only. Continue from here to the archipelago of the Banana Islands, with its stunning beaches and fishing villages. We explore the island by boat to discover tiny creeks and Krio fishing villages. Overnight Bafa Lodge (tented camp) or similar. (BLD)"
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Tacugama - Freetown - Return to the mainland and head to the stunning beaches of the Freetown peninsula, before continuing to Tacugama Chimpanzee Sanctuary to see how local efforts are being made to rescue and rehabilitate these impressive primates. Continue to Freetown for the night. Overnight Swiss Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Freetown - Lungi - Explore the city visiting its lively markets and seeing examples of old colonial architecture. Finally transfer back to Lungi for your flight home. (BL)"
+    }
+  ],
+  "map": ""
+}

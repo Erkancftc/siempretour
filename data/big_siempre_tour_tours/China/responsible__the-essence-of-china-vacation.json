@@ -1,0 +1,120 @@
+{
+  "destination": "China",
+  "mainPhoto": "",
+  "id": "the-essence-of-china-vacation",
+  "tourName": "The Essence of China vacation",
+  "placesVisited": "Beijing, Great Wall (Jinshanling), Xi'an, Emei Shan, Leshan, Chengdu, Yangzi River Cruise, Yichang, Yangshuo, Hong Kong",
+  "generalInfo": "Combining many of China’s most revered highlights with cultural secrets, way off the tourist radar, is what this essence of China vacation is all about with visits to Beijing, the Great Wall and the Terracotta Army at X’ian, just the tip of the iceberg when it comes to things to see and do.<br/><br/>Overnight trains and a Yangzi River Cruise help to minimise time spent on the road with Chengdu, Emei Shan and Yangshuo all to be found en-route from Beijing to Hong Kong as you get to experience the essence of China as part of one amazing vacation.<br/>",
+  "durationDays": "19",
+  "price": "3115",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Beijing.",
+      "description": "Ni hao! Welcome to Beijing – where historic sites dating back to the 13th century sit side by side with a bustling metropolis full of good food and striking contemporary architecture. Your adventure begins with a welcome meeting at 6 pm where you'll meet your local leader and fellow travellers. After, maybe head out to explore the Beijing streets. You might like to wander the city’s old hutongs (alleyways) or hop on the subway to venture out of the city centre. Tonight, maybe kick off your China adventure with a taste of an iconic dish – Peking duck."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Beijing.",
+      "description": "Today, you’ll explore two of the most popular sights in Beijing on foot and by public transport. While this can get crowded, it's the best way to immerse yourself in the local culture. Make your way to the centre of the city – Tiananmen Square, the symbolic centre of Chinese power. From here, you’ll enter the enormous Forbidden City. Built more than 500 years ago, the Forbidden City looks much like it always has. As you explore the great halls and courtyards, you’ll be able to appreciate the might and grandeur of the Imperial Court during the height of its power in the Ming and Qing dynasties. This evening is free for you to explore Beijing’s street food scene – the hutongs (historic narrow streets and alleys) come alive with lights and noise in the evening and are full of eateries."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Great Wall - Beijing.",
+      "description": "This morning, you’ll take a private bus to visit the Mutianyu section of the Great Wall and tick off one of the Seven Wonders of the World. Here, you’ll spend some time exploring, taking photos and learning the history of this iconic site. An incredible feat of engineering, the 20,000 km wall was originally constructed to protect Chinese empires from nomadic northern tribes, and even though it failed in this purpose, it's still one of the country's most remarkable achievements. Today’s walk is mostly on the restored section of the wall, but this still means walking on steep, uneven terrain with lots of steps, so a reasonable level of fitness and comfortable shoes are necessary. Survey the spectacular surrounding countryside from your vantage point as you surmount the best-preserved stretch of the Wall. After, you’ll return to Beijing by private bus for a free evening to relax or explore further."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Xi'an.",
+      "description": "Today, you'll travel to Xi'an by high-speed train. The capital of the Shaanxi province, Xi’an is the largest city in northwest China. Once the imperial centre of China for 13 dynasties, modern Xi'an is dotted with historic sites ripe for exploring. Join your leader on a short walking tour to uncover what was the start of the ancient trading route, the Silk Road. In the city’s Muslim Quarter, you’ll wander through the narrow streets, passing shops, lively markets and endless stalls of street food. For the rest of the day, maybe visit the City Wall, which extends more than 13 km (8 mi) around the city – cycling is a great way to explore it. Or, visit the Bell and Drum Towers – according to legend, the former was built to restrain the dragons that were causing earthquakes. The latter is (unsurprisingly) full of drums that were once used to mark time and warn of emergencies. Xi’an’s history as a major hub on the Silk Road means it has an exciting mixture of cultures – this is exemplified by its food options. This evening, perhaps visit the night markets and try the tantalising local specialties such as pao mo (lamb broth that you break flatbread into), hand-pulled noodles, hot pot and grilled skewers."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Xi'an.",
+      "description": "Today, hop on your private transfer to visit what is often referred to as the eighth wonder of the world – the Terracotta Warriors. You’ll learn all about this incredible archaeological site that had been buried for 2000 years before being discovered in 1974 by farmers who were digging a well. These clay statues of soldiers, horses and chariots were commissioned by the Emperor Qin Shi Huangdi as part of his mausoleum after he became emperor in 221 BC. Three main pits are open, where just under 2000 of the warriors – each individually sculpted from clay and with a different costume, height and even facial expression – stand in battle formation. Return to Xi’an in the afternoon for some final exploration of the city."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Chengdu.",
+      "description": "Today, you’ll take a high-speed train to Chengdu. The capital of the Sichuan province, Chengdu is most famous for two things – the pandas living in its mountains and the food. Chengdu's signature spicy cuisine is largely regarded as the best in China – in a country with such acclaimed cuisine, this is no mean feat. You’ll join your leader on a walking tour where you’ll check out Tianfu Square and People's Park – this is arguably the liveliest park in China, full of locals singing, dancing, doing tai chi or even modelling! Chengdu has preserved plenty of its traditional flavour, and you'll get a taste of it during this tour and in your free time this evening – maybe sample a Sichuan hotpot for dinner. Don't miss out on the teahouses – pull up a stool and sample the locals’ favourite green and jasmine teas. Don't be surprised if someone offers to give you a head massage or clean your ears while you sip!"
+    },
+    {
+      "dayNumber": 7,
+      "title": "Chengdu.",
+      "description": "Today, you’ll visit the Giant Panda Breeding Research Base where you’ll witness the conservation efforts being made to save this endearing species. There are only around 1800 pandas left in the world – they mainly live here in mountains of southwest China. This research facility was set up in 1987 to help protect this animal, and it is now home to more than 200 giant pandas – you'll have the chance to encounter these magnificent creatures. Watch them play, eat bamboo and climb the trees. If you’re lucky enough (and travelling between July and September) you might get to see newborns taking their first steps in the nursery. After, return to downtown Chengdu for some free time. Perhaps take in a performance of traditional Sichuan opera, visit the Wenshu Temple or take a cooking class. Your local leader will have all the best recommendations for how to make the most of your free time here!"
+    },
+    {
+      "dayNumber": 8,
+      "title": "Leshan - Emei Shan.",
+      "description": "Travel by private bus to the sacred mountains of Emei Shan. Along the way, stop in the town of Leshan to visit the UNESCO World Heritage-listed Giant Buddha. This 71-m-tall Buddha was carved into a cliff face around 1300 years ago and took almost 100 years to complete. Depending on the number of visitors, you may choose to either climb up and down Mount Emei or take the river boat to experience the Giant Buddha – the river boat is the better option if you want to see the statue's entirety and marvel at its magnificence. Then, continue to Emei Shan where you'll spend the next three nights."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Emei Shan.",
+      "description": "Today will be spent exploring the landscape surrounding Emei Shan – one of China’s four sacred Buddhist mountains. In the morning, travel by public bus and then cable car to the Golden Summit. Soak up the views from the mountain’s 3099-m (10,167-ft) peak. Take a public bus down the mountain, then start your hike, led by a local guide, to your accommodation at a monastery. Expect plenty of steps and steep paths and dress accordingly. Sturdy footwear will help you to enjoy this challenging but rewarding day on the mountain."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Emei Shan.",
+      "description": "Today, continue exploring the countryside at the base of the mountain, which provides ample opportunity for leisurely walks. It may be possible to visit some local hot springs to relax and revive from your hike. Otherwise, you could take a tour of some nearby villages. You can also visit the Crouching Tiger Monastery, which is hidden deep in the forest, and see its 7-m-tall copper pagoda inscribed with Buddhist images and texts."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Yangtze River.",
+      "description": "Today, travel back to Chengdu and then continue to Yichang by train. Yichang is known as the gateway to the Three Gorges. From here, you'll start your four-day river trip up the Yangtze River. You’ll experience the views of the Yangtze from your boat as you set sail."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Yangtze River.",
+      "description": "This morning, enjoy a tour of the Three Gorges Dam. The world’s largest hydroelectric project, the dam generates power and prevents the major flooding that long threatened the people of the area. After, continue sailing along the Yangtze River. The Yangtze has inspired numerous poets, writers and travellers over the centuries. You’ll travel along one of the most picturesque sections – the renowned Three Gorges. The dramatic 'sanxia', as they’re known in Chinese, stretch for 200 km and vary from 100 m to 300 m in width. Relax and take in the sights – you might also have opportunities to visit some riverside attractions and towns on optional group excursions. This might include leaving the river boat to take a side-trip down a tributary of the Yangtze River. If you would prefer to stay on board, maybe take the chance to learn some Mandarin words or how to write characters from your leader."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Yangzi River.",
+      "description": ""
+    },
+    {
+      "dayNumber": 14,
+      "title": "Yangtze River.",
+      "description": ""
+    },
+    {
+      "dayNumber": 15,
+      "title": "Yangshuo.",
+      "description": "Your Yangtze boat trip will end this morning in Chongqing – the biggest city in China, with a population of over 30 million sprawled throughout the city centre and the steep hills behind it. From here, you’ll take a private bus to the train station and board a bullet train to Yangshuo. When you arrive, take the time to rest and soak up the charm of this little town, popular with local and international travellers alike, who come for the beautiful landscape and stay for the great cafe and bar culture. The countryside around Yangshuo is immortalized in many traditional Chinese paintings – picture immense limestone karsts dotting the Li River and towering spectacularly over rice paddies."
+    },
+    {
+      "dayNumber": 16,
+      "title": "Yangshuo.",
+      "description": "Today, you’ll shake out your train legs and experience the limestone karst landscape during a bike ride, where you’ll gain genuine insight into rural Chinese life. Stop at a local home for a lunch made using locally grown produce. You’ll have a local guide during the ride, and helmets and bikes are included. After, the evening is free for you to explore Yangshuo's lively cafe and bar scene. Maybe grab a bowl of pork-stuffed tofu or beer fish (simmered freshwater fish)."
+    },
+    {
+      "dayNumber": 17,
+      "title": "Yangshuo.",
+      "description": "Today is as clear as a Yanghsuo spring day, but there are plenty of optional activities to choose from. You could begin the day by focusing your body and mind with a morning tai chi class or kung-fu lesson. Perhaps try your hand at Chinese calligraphy or simply sit back and relax as you enjoy a cruise down the Li or Yulong River. Maybe visit the market to shop with the locals and get a feel for the regional produce. Then, you might put this new knowledge to use in a cooking class at the Yangshuo Cooking School. Learn to cook Chinese dishes with recipes that are easy to follow and ingredients that are readily available outside of China, so that you’ll soon be impressing friends and family back at home with your newfound skills. Or, take a tour to the much-loved viewpoint at Xiangong Mountain for a bird’s-eye view of Yangshuo's landscape. Maybe visit a local tea farm to learn about tea picking and brewing. In the evening, perhaps watch an outdoor light show staged by 2008 Beijing Olympics’ Opening Ceremony director Zhang Yimou."
+    },
+    {
+      "dayNumber": 18,
+      "title": "Hong Kong.",
+      "description": "Take a private bus from your Yangshuo Hotel to Guilin West Station, then board a bullet train to West Kowloon station in Hong Kong. Once you arrive in the late afternoon, follow your leader on an orientation walk near your hotel. Hong Kong's fast-paced cityscape is only minutes from picturesque islands and beaches. The locals are very proud of their Cantonese culture and history, so step out of the shopping malls and off the main streets to discover another side of the city through local shops and eateries. This evening, enjoy an optional final farewell dinner with your group to celebrate your adventure and sample some of the best Cantonese dishes."
+    },
+    {
+      "dayNumber": 19,
+      "title": "Hong Kong.",
+      "description": "There are no activities planned for today and your adventure comes to an end this morning. It’s highly recommended that you spend a couple of extra days here so that you can make the most of your time in Hong Kong. If you're interested, talk to your booking agent ahead of time to organise additional accommodation (subject to availability)."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,70 @@
+{
+  "destination": "Costa Rica",
+  "mainPhoto": "",
+  "id": "costa-rica-honeymoons",
+  "tourName": "Costa Rica honeymoons",
+  "placesVisited": "Central Valley mountains, waterfalls, hummingbirds and artisanal coffee, Arenal volcano with choice of activities, Nicoya Peninsula beach and relaxation",
+  "generalInfo": "With its wildlife, pristine beaches and gorgeous scenery, Costa Rica has all the ingredients for a wonderful honeymoon. Beautiful sunsets, private jacuzzi and wild, romantic beaches are the backdrop to your perfect escape. The country’s extraordinary biodiversity means you can visit several different habitats, from beaches and rainforest, to volcanic landscapes. Costa Rica also boasts some really special accommodation, whether you are looking for luxury, a small boutique experience or some budget options. Costa Rica is also perfect for adventurous honeymooners who want to do more than lie on a beach.<br/><br/>This proposed 12-day honeymoon itinerary includes hand-picked accommodation, chosen with seclusion, relaxation and romance in mind. You start with a stay at an off the beaten track mountain lodge where coffee, community and rural life take centre stage, from where you visit waterfall gardens teeming with hummingbirds and a local family run coffee plantation. From here, you travel to the Arenal Volcano, an excellent location for wildlife viewing, wellness and adventure activities with a range of boutique hotels, many of which have onsite hot springs. Before moving on to the Pacific coast for four days of rest and relaxation at a beachfront hotel on the Nicoya Peninsula, characterised by rainforest backed surf beaches<br/>",
+  "durationDays": "12",
+  "price": "3795",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Chayote Country. You are met on arrival in San Jose and transferred to Chayote Country (approx 1hr), an off the beaten track region where coffee, agriculture and rural life take centre stage. Stay for 2 nights at Chayote Lodge, set on a hillside at approx 1,700m above the small mountain village of Llano Bonito."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Waterfall and hummingbirds. Today enjoy a full day tour to the picturesque cloudforest village of Bajos del Toro to visit the Toro Amarillo Waterfall, one of the most beautiful in Costa Rica set in an extinct volcano crater with gardens teeming with hummingbirds. Here you walk through rainforest trails and down steep steps to the pool at the base of the falls. Includes lunch at a 'soda' (local diner) in the village."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Coffee plantation visit, to Arenal Volcano. This morning you will be taken to visit a local family run coffee plantation and farm who produce artisanal coffee and export beans to Europe. Here you will explore the grounds with one of the family members and learn about the processes involved in turning bean to cup, as well as sample their coffee prepared in a traditional way using a wooden 'chorreador'. After the tour you will be transferred up to the Arenal volcano region (approx 2hrs) where you stay for 4 nights at an upmarket hotel with volcano views and onsite hotspring pools."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Free in Arenal, p.m dusk rainforest frog watching night walk. First part of the day free to relax and enjoy your hotel grounds and facilities. At dusk you will be taken on a rainforest night walk at the only natural frog sanctuary in Arenal, where up to 28 different species of frog have made the ponds their home. There are also chances to other nocturnal species such as snakes, bats and pocupines."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Canopy Adventures. Today enjoy a ‘sky-tram, walk and zip-line excursion’ at the Sky Adventures park. Start with the ‘sky-tram’, a 15 minute ride in gondolas that soar up over the forest to the highest point in the Arenal reserve, with wonderful views over Arenal lake and the surrounding region. On arrival at the top set off on the sky-trek zip-line tour, whizzing along 8 cross-sectional cables strung between platforms, measuring between 100ft to 2,460 ft long with a maximum height of 660ft. On a clear day there are superb views of the volcano, lake and surrounding forest. End with a sky walk accompanied by a naturalist guide along a series of trails and canopy walkways allowing you the chance to see the forest from a different perspective and spot wildlife such as monkeys, sloth and birds."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Free day in Arenal. A free day to relax and enjoy your hotel's facilities or for optional excursions available locally at additional cost e.g kayaking/SUP boarding on Lake Arenal, walks along trails at the Silencio reserve or National Park, visit to La Fortuna waterfall, chocolate/coffee tours, daytrip to Cano Negro wildlife refuge, sloth spotting tours, horseback riding, cooking classes. We can pre-book any of these or others that you would like to do."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Pacific coast at Santa Teresa/Mal Pais. This morning take a direct flight from Arenal to Cobano, the gateway to Costa Rica's southern Nicoya beaches from where you are transferred to Santa Teresa/Mal Pais. Here two laid-back, low-key, hip, neighboring beaches popular with surfers, beach-lovers, backpackers and upscale glitterati alike. Here you will find gorgeous stretches of rainforest-backed sandy beach with world-class surf breaks, stunning sunsets and a plethora of activities on offer Stay for the next 5 nights at an upmarket hotel set right on the beachfront."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Free to relax at your hotel or on the beach or for optional excursions available locally at additional cost e.g horse-riding along the beach, surfing or surf lessons, yoga, visit to Tortuga island or Montezuma waterfall, the Curu Refuge or Cabo Blanco reserve for nature-viewing/walking (both approx 1h drive from Santa Teresa)"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Fly to San Jose / depart Costa Rica. This morning fly back to San Jose airport for afternoon/evening international flights home. Or travel on to another destination in Costa Rica e.g Tortuguero or the Osa Peninsula"
+    }
+  ],
+  "map": ""
+}

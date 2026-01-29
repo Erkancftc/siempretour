@@ -1,0 +1,50 @@
+{
+  "destination": "Botswana",
+  "mainPhoto": "",
+  "id": "botswana-family-safari-holiday",
+  "tourName": "Botswana family safari holiday",
+  "placesVisited": "",
+  "generalInfo": "A luxury safari camp famous for its leopard sightings, your own private mobile camp in the wilds of the Okavango Delta and riverside hotel on the Zambezi Victoria Falls - what an adventure! <br/><br/>Everything we do is completely tailor-made so should you like to amend this trip please do get in touch and discuss this with us. <br/><br/>Starting in Maun you will arrive at your first camp in style on a private helicopter transfer over the Okavango Delta to the luxury, but authentic Mokolwane Camp. A camp made famous by a filmmaker who chooses this is a base for his leopard filmmaking. <br/><br/>Your second safari destination is what we refer to a Luxury Roving Camp, it is a temporary camp set up just for you and located in one of the most wildlife-rich areas of the Moremi Game Reserve. You'll have your own private camp, your own team and guide and everything is done at your own pace. It is one of the best ways to experience a safari in Botswana. <br/><br/>Finally you will fly to Kasane and transfer into Zimbabwe to spend two nights relaxing on the Zambezi River at a beautiful new hotel that is just downriver from the incredible Victoria Falls waterfall.<br/><br/>Mokolwane is powered by solar power produced on site. The second camp included is a mobile camping set up and it is off-grid. The final hotel - Palm River Hotel is powered by a unique hybrid system combining hydroelectricity with solar power.",
+  "durationDays": "9",
+  "price": "7400",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Upon arrival in Maun you will be met and directed to your helicopter transfer to the Okavango Delta. It is a short flight before touching down at the local airstrip and beginning your safari as you drive to Mokolwane Camp."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Fly by helicopter into the Moremi Game Reserve and meet your private team who will be with you for the next three nights in your private luxury roving camp."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Fly north to Kasane to meet a transfer across the border into Victoria Falls for two nights to see this magnificent waterfalls. You are staying at Palm River Hotel, just a short distance from the town of Victoria Falls you get the benefit of a beautiful tranquil location right on the Zambezi River but still with easy access to the falls."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Explore Victoria Falls independently on your last full day in Africa or chat to us about potential activities you might like to include. Free transfer to and from Victoria Falls town the entrance to the falls is included with your hotel stay."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "A private transfer is included to take you to Victoria Falls Airport to meet your flights home."
+    }
+  ],
+  "map": ""
+}

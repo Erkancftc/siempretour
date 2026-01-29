@@ -1,0 +1,70 @@
+{
+  "destination": "Mongolia",
+  "mainPhoto": "",
+  "id": "mongolian-eagle-adventure-holiday",
+  "tourName": "Mongolian Eagle adventure holiday",
+  "placesVisited": "",
+  "generalInfo": "Western Mongolia is one of the most pristine and unspoiled areas in Asia, a vast wilderness of dramatic peaks pushed up against the borders with China and Russia, where old traditions don’t just survive, but thrive. Home to impressive wildlife such as ibex, wolves and the iconic snow leopard, the Altai Mountains offer superb opportunities for exploration and adventure. <br/><br/>During the winter, nomadic Kazakhs follow the practice of their forefathers and head out on horseback to hunt with golden eagles – an extraordinary spectacle which we take time to appreciate as we join them on their hunt. We spend time exploring the stunning landscapes in search of the wildlife of the Altai, staying as guests of a local family in their traditional wooden home. And in Tavan Bogd we explore a breathtaking landscape of high peaks, discovering ancient petroglyphs, and enjoying local hospitality. <br/><br/>The Altai Mountains are perhaps the most remote part of a remote country, a mysterious landscape where nature rules supreme and the scenery makes you gasp in wonder. Travelling here in winter in the company of Kazakh eagle hunters, watching them practice their age old art, is a privilege that few can ever forget.",
+  "durationDays": "13",
+  "price": "3999",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Ulaan Baatar - Arrive in Ulaan Baatar and transfer to the hotel. Depending on when you arrive there may be time to explore the city. Overnight tourist class hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Ulaan Baatar - Spend today exploring the capital, including the impressive Ganden monastery and the Natural History Museum. Overnight tourist class hotel. (B)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Fly to Ulgii, in the far west. The people here are Kazakh and Muslim, unlike most other Mongolians who are Buddhist. Meet our local team and head out west to meet a nomadic Kazakh family. Overnight homestay. (BLD)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Altai - Spend three full days with our Kazakh hosts, hiking in the surrounding area. This involves going out hunting with them, gaining a unique insight into this vanishing way of life. The hunters use female eagles for hunting as they are larger and more aggressive than the males, and are trained to catch foxes. We also have the chance to learn more about their way of life as nomadic herders. Overnight homestay. (BLD)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Ulaankhuus - Continue to the home of our next Kazakh host, where we continue to learn about the unique lives of eagle hunters and nomadic herders, with the opportunity to hike in the surrounding landscapes. Overnight homestay. (BLD)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Tavan Bogd - Drive to Tavan Bogd, home to several Kazakh families. We stop to see the Tsagaan Sala petroglyphs dating back to the time of the Huns. This is a stunning area, home to Mongolia’s highest mountains where summits reach 4000 metres or more and are covered with permanent snow, ice and glaciers. We explore the region on foot and spend our nights as guests of another local Kazakh family. (BLD)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Ulgii - Return to Ulgii with stunning views of the Altai Mountains along the way. Overnight local hotel. (BLD)"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Ulaan Baatar - Fly to Ulaan Baatar where depending on flight schedules, you may have time to explore the city on your own. Overnight tourist class hotel. (B)"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Ulaan Baatar - Transfer to the airport for your flight home. (B)"
+    }
+  ],
+  "map": ""
+}

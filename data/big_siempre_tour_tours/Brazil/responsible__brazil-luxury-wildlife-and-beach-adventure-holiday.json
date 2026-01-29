@@ -1,0 +1,50 @@
+{
+  "destination": "Brazil",
+  "mainPhoto": "",
+  "id": "brazil-luxury-wildlife-and-beach-adventure-holiday",
+  "tourName": "Brazil luxury wildlife and beach adventure holiday",
+  "placesVisited": "",
+  "generalInfo": "Explore both of the wildlife wonderlands of the Pantanal wetlands and Amazon rainforest on this luxury adventure, staying at stunning wilderness lodges where service and comfort are complimented by expertly guided activities. <br/><br/>Inbetween you will have the chance to visit the off-the-beaten track waterfalls, caves and rock formations of Chapada dos Guimarães, and finish the adventure with relaxation and iconic sightseeing in spellbinding Rio de Janeiro.",
+  "durationDays": "15",
+  "price": "7200",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "PANTANAL - Start your journey in the mighty Pantanal. During your time here you will discover a huge diversity of flora and fauna by river boat, canoe, walking trails, 4x4 jeeps and horseback. Amongst the biodiversity to be found are 35 species of mammals (including the jaguar), 352 species of birds, and over 10 million caimans! If you are particularly keen on spotting jaguars, we can arrange an extension to Porto Jofre where the chances are very high."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "CHAPADA DOS GUIMARAES - Driving north from your Pantanal lodge, we take the time to go off-the-beaten-track amongst the Savannah Tablelands. Chapada dos Guimarães is a national park of dramatic views, rocky canyons, crystal-clear waterfalls, refreshing river swims and calming birdsong. Return each evening to your boutique lodge, from where a short walk offers beautiful sunsets over São Geronimo Peak."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "AMAZON - Travel deep into the Southern Amazon, a million miles (metaphorically) from the tourist crowds that head to Manaus further north. Your award-winning lodge staff will guide you through the local flora and fauna, by canoe, jungle hikes, boat trips, and up into their canopy observation towers. You will also learn about their impressive and crucial conservation work, blending both cultural and environmental needs."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "GREEN COAST - Head to Rio's Green Coast for days of exploration and relaxion amongst paradise beaches, hidden bays, jungles and waterfalls. Take small boat trips, go kayaking to neighbouring bays, hike to clifftop lookouts, or simply relax and admire the sand and sea."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "RIO DE JANEIRO - End your journey in iconic Rio de Janeiro, visiting Sugarloaf and Corcovado Mountains (including the Statue Of Christ The Redeemer), and with the option of an evening tour with our local guide to experience Rio's famous nightlife. The next day either relax on the beach, or take an enjoyable hike up to a alternative final view of the city through the rainforest. The choice is yours!"
+    }
+  ],
+  "map": ""
+}

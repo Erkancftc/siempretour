@@ -1,0 +1,50 @@
+{
+  "destination": "Jordan",
+  "mainPhoto": "",
+  "id": "south-jordan-short-break",
+  "tourName": "South Jordan short break",
+  "placesVisited": "",
+  "generalInfo": "With this short tour you will discover the breathtaking of South of Jordan. Visit Petra, one of the Seven World Wonders with its beautiful golden and pink colors. Visit Wadi Rum desert beside golden sand as you will discover many colors there! And end your tour in Aqaba with a day of relaxing at the golden beaches.",
+  "durationDays": "5",
+  "price": "1335",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Aqaba Airport – Petra Arrival at Aqaba Airport , our driver waits you at the arrivals hall holding a name sign ,then transfer directly to Petra for overnight at the 3* Hotel in Petra, including bed and breakfast. ( visa at Aqaba airport is free)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Petra - full day visit After breakfast meet your driver to start your tour transferring towards Petra, Full day to explore Petra , one of the seven world wonders. Entry by Siq and visit the Treasury, Street of Facades, Theater, Colonnaded Street etc. after lunch inside Petra at Basin Restaurant (Optional), you will still have time to visit the Monastery and/or the High Place of Sacrifice today. It is a lot of climbing but definitely worth the views! Overnight at 3* Hotel in Petra, including bed and breakfast."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Petra – Wadi Rum After breakfast drive to Wadi Rum Visitors Centre. Before starting with the jeep tour you could decide to enjoy an hour camel ride from Wadi Rum Village (Optional). After start with a 3-4 hours jeep tour including a freshly prepared lunch. A jeep tour is the best way to discover lots of sites in Wadi Rum. The jeep will stop at each site giving you time to walk/scramble around and maybe even climb up on some of the beautiful natural formed bridges in Wadi Rum. Overnight at the Campsite in Wadi Rum. including dinner and breakfast"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Wadi Rum – Aqaba After breakfast you will drive to Aqaba for a free day and overnight. Relax at the beach, discover the town of Aqaba or book a 3-4 hours snorkeling cruise tour including lunch!(Optional) Overnight at 3* Hotel in Aqaba at down town, including bed and breakfast"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Aqaba – Aqaba Airport Transfer to the airport for departure."
+    }
+  ],
+  "map": ""
+}

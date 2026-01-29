@@ -1,0 +1,65 @@
+{
+  "destination": "Cambodia",
+  "mainPhoto": "",
+  "id": "bangkok-to-phnom-penh-tour",
+  "tourName": "Bangkok to Phnom Penh tour",
+  "placesVisited": "Bangkok, Siem Reap, Angkor Wat, Kampong Thom, Phnom Penh, Ho Chi Minh City",
+  "generalInfo": "Set out on an insightful journey through the temple-strewn landscapes, traditional cultures and enthralling cities of Cambodia on this incredible nine-day express adventure. From the bustle of Thailand's heady capital of Bangkok, dive straight into the stately grandeur of Angkor, the rural charms of a village homestay and the cosmopolitan flavours of Phnom Penh. This highlights adventure through the heart of Cambodia is sure to leave you with some unforgettable memories of a fascinating part of Asia.",
+  "durationDays": "8",
+  "price": "825",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Bangkok.",
+      "description": "Sa-wat dee! Welcome to Thailand. Your adventure begins with an important welcome meeting at 6 pm tonight in Bangkok. This city has so much to offer – if you have time to explore, maybe take a riverboat to Chinatown to wander the crowded streets, uncover the magnificent Grand Palace and the Temple of the Emerald Buddha, pay a visit to Wat Pho (home to the country's largest reclining Buddha), wander down the tourist mecca of Khao San Road, or indulge in some Thai massage. After the meeting, you might like to gather your fellow travellers and tuck into some world-renowned street food."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Siem Reap.",
+      "description": "Today, you’ll fly from Bangkok to Siem Reap. You’ll be unaccompanied on the flight, but your Thai leader will see you off in Bangkok and your Cambodian leader will be ready to welcome you in Siem Reap. Siem Reap, the gateway to Angkor Wat, is the most popular destination for travellers in all of Cambodia (maybe even in all Southeast Asia!). You'll probably notice a change of pace here, so maybe take a walk and enjoy the atmosphere. You could start by hitting the local markets to try some delicious street food."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Angkor Wat/ Siem Reap.",
+      "description": "Today, spend a full day temple-hopping with your local guide to make the most of your visit to the world-famous complex, built between the ninth and 13th centuries when the Khmer empire was the pre-eminent influence in Southeast Asia. The ruins are scattered over some 160 square km, but the main cluster of temples is close to Siem Reap, including Angkor Wat, Bayon and Ta Prohm. The temples were believed to represent the cosmic world and were set in perfect balance, symmetry and composition. The intricately carved bas-reliefs and architectural designs are mind-blowing, and there are spectacular photo opportunities at any time of day. This is the absolute highlight of your trip, with the added insight and knowledge of a local guide at your side, so take your time and soak it in."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Siem Reap.",
+      "description": "This morning, embark on a private local boat to discover the floating villages and local daily lives of Chhong Kneas – a trading port of agricultural products on the edge of Tonle Sap Lake, also known as the Great Lake of Cambodia. This is an excellent opportunity to learn about the local’s unique lifestyle on the waters and how people and nature are intertwined in the most profound sense. This afternoon, return to Siem Reap and enjoy a free evening."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Phnom Penh.",
+      "description": "After breakfast, leave Siem Reap this morning and travel to Phnom Penh in a private minibus. The journey is a great opportunity to see the real Cambodia, with several stops at points of interest along the way. Visit the cottage industry at Santuk Silk Farm, where local women in the rural community are provided the opportunity for financial freedom to support their families. You’ll learn about the process from the silkworms to the final products. You’ll also stop at Skuon Market, where you might like to sample the local cuisine (deep-fried spiders). Cambodia's capital is set on a major junction of the Mekong and Tonle Sap rivers and boasts some fine examples of French-influenced architecture. This afternoon, enjoy some free time. Maybe explore Wat Phnom – a peaceful temple situated on a hill. A great way to see the city's key landmarks is on a cyclo tour, which generally covers the Psar Thmei (Central Market), US Embassy, Wat Phnom, Mekong riverfront, Independence Monument and Royal Palace."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Phnom Penh.",
+      "description": "Phnom Penh remains a living relic of the country’s past struggles and successes. Your day includes visits to the Tuol Sleng Genocide Museum (S21) and the Killing Fields of Choeung Ek, which tell the story of the tragic legacy of the Khmer Rouge. S21 is a former school that served as a Khmer Rouge torture centre, and it’s estimated that more than 20,000 people were held and tortured here. The Killing Fields of Choeung Ek are home to a stupa made up of some 8000 human skulls, marking the execution ground for the torture victims of Tuol Sleng. After visiting both sites, you’ll have free time for the rest of the day. Maybe learn about a brighter period in Cambodian history with a visit to the Royal Palace and Silver Pagoda. Alternatively, the National Museum, housed in a beautiful traditional building, is a great place to see some excellent Khmer craftsmanship. An ideal way to spend the late afternoon and evening is to stroll along the famous Sisowath Quay and enjoy a coffee or cocktail at one of the many riverside cafes."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Ho Chi Minh City.",
+      "description": "This morning, travel by local bus from Phnom Penh to Ho Chi Minh City. Along the way, see the Neak Loeung Bridge, which is the biggest bridge in Cambodia, and then stop for lunch after immigration. Arrive in Ho Chi Minh City in the late afternoon. Maybe discover the city’s blend of old and new, east and west on a self-paced walk. Be sure to sample a baguette or some of the excellent coffee on offer – both markers of the city's strong French influence."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Ho Chi Minh City.",
+      "description": "With no activities planned for today, you’re free to leave at any time. If you’d like to spend more time exploring Ho Chi Minh City, just speak to your booking agent."
+    }
+  ],
+  "map": ""
+}

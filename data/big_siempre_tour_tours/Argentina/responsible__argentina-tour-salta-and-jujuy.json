@@ -1,0 +1,50 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "argentina-tour-salta-and-jujuy",
+  "tourName": "Argentina tour, Salta and Jujuy",
+  "placesVisited": "",
+  "generalInfo": "On the Tour Salta and Jujuy – Best of the Northwest trip, you will quickly discover why Salta is known locally as, “La Linda” (The Beautiful). One of the best preserved colonial cities, Salta is the perfect base for your adventures in the northwest of Argentina. Tour the stunning Humahuaca Gorge and giant Salt Flats on the Safari to the Cloud adventure, and discover the local culture of the traditional Andean towns. And with nearby wineries, white water rafting and horse riding available, why not stay a few more days?!",
+  "durationDays": "5",
+  "price": "1025",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Salta: One of traveler's favorite cities, Salta offers outstanding museums, colonial arquitecture, alive cafés in the main plaza (great people watching spot) and the vibrant and authentic peñas, places where locals grab a table to watch their favorite folkloric singers and after a wine (or two) everyone join for dancing. The perfect base to explore the Argentinan north."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Salta / Excursion Salt Flats and Humahuaca Gorge: Today you will leave Salta in a two- day excursion (shared service). For this exploration we recommend to leave your luggage in your hotel in Salta, and just to take a day pack on the excursion. Early in the morning we will travel along the same route as the famous Train to the Clouds, zigzagging on lonely roads between the blue sky and the high desert plains. On our way, we will visit historic ruins, scattered houses, small villages and amazing landscapes."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Humahuaca Gorge, Salta & Jujuy: Today you will depart at the indicated time (shared service), for a tour along the Humahuaca Gorge, declared a UNESCO Heritage Site. You will visit places such as Maimará, \"Paleta del Pintor\" (it's a photo stop on the road) , Tilcara, and it´s famous \" Pucará de Tilcara\", Trópico de Capricornio, Uquía (Pinturas Cuzqueñas) and finally, the small town of Humahuaca before returning to Salta in the evening."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Salta: Today you will have the opportunity to relax at your own pace. You can explore by foot the Colonial Area (some of the highlights are the Cathedral, the Franciscan church and the San Bernardo convent), visit the world famous museum (MAAM) where they exhibit a few mummies they rescued from the hight Andes or just sit in one the many live cafés in the main square. We highly recommend to visit a Peña and mix with the locals eating empanadas and dancing Folklore."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Salta: At appropriate time, you will be transferred to the airport or bus terminal (shared service). Today, you can choose to extent your travels purchasing any of our available offers in Buenos Aires, Iguazu Falls or the rest of the Andes area."
+    }
+  ],
+  "map": ""
+}

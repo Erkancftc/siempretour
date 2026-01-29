@@ -1,0 +1,75 @@
+{
+  "destination": "Borneo",
+  "mainPhoto": "",
+  "id": "luxury-beach-holiday-in-borneo-orangutans",
+  "tourName": "Luxury beach holiday in Borneo & Orangutans",
+  "placesVisited": "Kuching, The Ranee hotel, day in Bako National Park with private guide, Semenggoh Wildlife Centre, private culinary tour of Kuching, fly to Kota Kinabalu, speedboat ride to Gaya Island, Gaya Island Resort, private beach, snorkelling, spa",
+  "generalInfo": "This 13 day luxury beach holiday in Borneo includes the chance to see orangutans, too. You’ll spend four nights in Kuching, the capital of Sarawak, and then transfer to Gaya Island Resort for a further seven nights.<br/><br/>Kuching is a great city to wander, sitting on the banks of the Sarawak River, where Chinese temples, churches, colonial buildings and the handsome Istana Palace rub shoulders. While here, you can enjoy a private culinary tour of the city, visiting the spice market and tasting lots of local food. You will also have a visit to Semenggoh Wildlife Centre, which is one of the only places in Sarawak where you can see orangutans, and a day in Bako National Park with a private guide. The park is easily reached from Kuching by boat, and here its rivers, jungle and mangroves can be explored on foot or by boat. Keep an eye out for the birds and wildlife that live here – your guide will help you spot everything – including the unusual looking proboscis monkey. Your base while in Kuching is the Ranee, a beautiful boutique hotel in the centre of the Old Town. <br/><br/>Next, transfer to Pulau Gaya, the biggest of five islands in the Tunku Abdul Rahman Park. You’ll be staying at the Gaya Island Resort, which overlooks a white sand beach and is surrounded by rainforest – in fact, some of the buildings sit on stilts so they’re amongst the forest canopy. Mount Kinabalu is visible in the distance and just offshore there are coral reefs, making this a paradise for divers and snorkelers. The resort even has its own private beach, which you can reach via a short speedboat ride.<br/>",
+  "durationDays": "13",
+  "price": "3150",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly to Kuching"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "On arrival in Kuching, you will be transferred by private vehicle to your hotel. Settle in and explore some of the busy markets and Chinese temples"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Spend a full day exploring beautiful Bako National Park with your private guide. The lush rainforest is home to abundant wildlife including proboscis monkeys, found only in Borneo, and macaques"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Today you will visit Semenggok Orangu-tan sanctuary to learn more about these fascinating animals. Perhaps one of the closest relatives to humans, orang-utans are found only in Borneo and Indonesia."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "This morning you will enjoy a private culinary tour of Kuching, sampling local dishes and visiting the spice market. In the afternoon, transfer to the airport for your flight to Kota Kinabalu. You will be met at the airport and drive to Sutera Harbour for the speedboat ride over to Gaya Island."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Relax and settle into this beautiful resort or enjoy the daily nature walk. You might like to take a trip to the resort's private beach at Tavajun Bay and see the turtle sanctuary there."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Spend some time snorkelling on the house reef or enjoy a pampering treatment at the beautiful spa. Tonight why not take a sunset cruise or arrange for a private dinner overlooking the ocean."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Days at Leisure"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "A speedboat will take you back to the harbour, in order to meet your transfer back to the airport."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Arrival back home"
+    }
+  ],
+  "map": ""
+}

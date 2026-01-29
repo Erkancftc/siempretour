@@ -1,0 +1,95 @@
+{
+  "destination": "Nepal",
+  "mainPhoto": "",
+  "id": "nepal-cultural-tailor-made-tour",
+  "tourName": "Nepal cultural tailor made tour",
+  "placesVisited": "",
+  "generalInfo": "Embark on a captivating 14-day journey through Nepal, where cultural discovery meets hands-on experiences. Begin in Kathmandu with a soothing sound-healing session, then explore the city’s sacred landmarks. In Patan, immerse yourself in Newar heritage with a Paubha painting workshop, blending art and meditation. <br/><br/>Travel to Nagarkot, where you’ll join local families in their homes, engaging in traditional crafts like pottery and communal cooking, complemented by sunrise yoga and a hike to Jalpa Devi Temple. <br/><br/>In Chitwan, experience the vibrant culture of the indigenous Tharu people through cooking classes, cycling, and traditional dances, culminating in a thrilling safari in Chitwan National Park. <br/><br/>Finally, enjoy the stunning backdrop of the Himalayas in Pokhara and the village of Hemjakot, exploring local crafts and savoring Newar cuisine in Kirtipur, ensuring an unforgettable and immersive adventure.",
+  "durationDays": "14",
+  "price": "2895",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Welcome to Nepal! Upon your arrival in Kathmandu, you'll be greeted at the airport and transferred to your hotel. After check-in and freshening up, enjoy a relaxing, sound-healing session to recover from any jet lag. This will be followed by a healthy dinner before you'll then be taken back to your hotel for a restful night. Overnight at Babar Mahal Villas (D)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Discover Kathmandu. A day of sightseeing in Kathmandu. Enjoy a guided Kathmandu sightseeing tour focusing on the UNESCO World Heritage sites of Pashupatinath Temple, Boudhanath Stupa, and Kathmandu Durbar Square. Pashupatinath is a sacred Hindu temple complex, Boudhanath is the largest stupa in Nepal, and Kathmandu Durbar Square is the former royal residence and a museum of temples. Overnight at Babar Mahal Villas (B)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Explore Patan and Paubha Painting. Patan is comparatively quiet, surrounded by peaceful palace courtyards, shops, and pagoda temples. The museum here is in a historic royal complex, showcasing Hindu and Buddhist artefacts, sculptures, and elaborate woodcarvings, with educational displays on Newar history. Join a Paubha Painting Workshop to explore the vibrant Newar culture through its sacred art form. Guided by experienced artisans, you'll learn intricate painting techniques while enjoying a meditative and educational experience. Overnight at Babar Mahal Villas (BL)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Nagarkot. Visit Thimi for a pottery-making session with a local artisan and explore Bhaktapur’s historic Durbar Square. Travel to Nagarkot, where you’ll be warmly welcomed by your homestay family and engage in cultural activities like making Tapari (leaf plates) and Batti (wicks). End the day connecting with the community. Drive Duration: 1 hour approx. Overnight at Nagarkot Community Homestay (BLD)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Nagarkot. Start your day with Hatha yoga at Shanti Danda. Then, enjoy a community hike with valley views and a visit to Jalpa Devi Temple. In the evening, cook a traditional Nepali meal with your hosts. Hike Duration: 3-3.5 hours approx. Overnight at Nagarkot Community Homestay (BLD)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Chitwan. Transfer to the airport for a domestic flight to Bharatpur. On arrival you will be taken to the Barauli Community Homestay and enjoy a cultural experience this evening. Overnight at Barauli Community Homestay (BLD)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Chitwan National Park Safari. Discover Chitwan National Park on a jeep safari where you may spot rhinos, crocodiles and much more. Later, enjoy a guided cycling tour around the park's outskirts, taking in the local scenery and wildlife, before learning how to prepare traditional Tharu dishes with a local expert. Overnight at Barauli Community Homestay (BLD)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Pokhara. Leave Chitwan and catch a domestic flight to Pokhara. On arrival the rest of the day is free to relax or explore. Overnight at Fishtail Lodge (B)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Sarangkot and Pokhara. Sarangkot is a must-do sunrise experience for anyone visiting Pokhara. You will be picked up from your hotel and driven to the base of Sarangkot Hill, a 30-minute drive from the lakeside. After walking up the stairs for about 15 minutes, you will find a good spot to watch the sunrise with a breathtaking view. The rest of the day is free time to explore in Pokhara. Overnight at Fishtail Lodge (B)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Hemjakot. Hemjakot is a peaceful rural village in the Annapurna region. It offers stunning views of the Annapurna ranges, including Mt. Machhapuchhre. This village is ideal for those seeking an authentic experience of Nepali village life, where traditional culture meets the breathtaking natural beauty of the Himalayas. The settlement is rural, offering a genuine experience of Gurung culture and hospitality. Experience a cooking class and enjoy the flavours of traditional Nepali cuisine, with dishes that are prepared using fresh, local ingredients. The culinary experience in Hemjakot is deeply connected to the region's agricultural lifestyle. Guests can also enjoy the local alcohol-making process and taste it if the time is favourable. Overnight at Fishtail Lodge (BLD)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Return to Kathmandu. Transfer to Pokhara airport for a flight to Kathmandu. On arrival you will transfer to your hotel with the rest of the day at leisure. Overnight at Babar Mahal Villas (B)"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Bhaktapur Wood Carving. Today you will discover the ancient art of wood carving in Bhaktapur with a hands-on workshop that immerses you in traditional craftsmanship and cultural heritage. This workshop offers an in-depth introduction to wood carving, guided by skilled artisans who bring years of experience to their craft. You'll be able to create your wooden masterpiece while learning about the techniques and cultural significance behind this traditional art form. Overnight at Babar Mahal Villas (BL)"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Kirtipur. Kirtipur, just 5 km from Kathmandu, offers an immersive experience in the heart of Nepal’s Newar culture. Here, visitors can discover the ancient Ranjana Lipi script, participate in a momo-making workshop, and explore the town's rich heritage. Kirtipur is also renowned for its gastro tourism, where you can savour traditional Newari cuisine, including the famous Yomari, a sweet, steamed dumpling. Overnight at Babar Mahal Villas (BL)"
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Depart Nepal. Departure transfer to the airport at a suitable time. Checkout time from the hotel is 12 noon. (B)"
+    }
+  ],
+  "map": ""
+}

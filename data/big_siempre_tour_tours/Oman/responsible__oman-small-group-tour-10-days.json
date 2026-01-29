@@ -1,0 +1,75 @@
+{
+  "destination": "Oman",
+  "mainPhoto": "",
+  "id": "oman-small-group-tour-10-days",
+  "tourName": "Oman small group tour, 10 days",
+  "placesVisited": "",
+  "generalInfo": "Experience Oman on an Arabian 10-day small group tour. Discover the country's stunning landscapes, rich traditions, and warm hospitality.<br/><br/>Start in Muscat, visiting the Sultan Qaboos Grand Mosque and bustling Matrah Souk. Enjoy a relaxing sunset cruise along the coastline. Explore secluded beaches and wadis like Wadi Bani Khalid. Visit Sur to see traditional dhow-building and witness nesting sea turtles in Ras al Jinz.<br/><br/>Travel to the Wahiba Sands for Bedouin hospitality and spectacular desert sunsets, then camp under the stars. Visit the dramatic Jebel Akhdar and historic Nizwa, where you’ll find terraced orchards and ancient forts. Check out UNESCO-listed falaj irrigation systems and the quaint village of Misfat al Abriyeen.<br/><br/>End your journey back in Muscat with leisure time to relax or explore further. This tour offers a deep dive into Oman’s beauty and heritage.",
+  "durationDays": "10",
+  "price": "2565",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Welcome to Oman - Arrive at Muscat International Airport. Your driver will take you to your hotel for check-in. Spend the evening exploring the area at your leisure. Meals: None"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Discover Muscat - Have breakfast, then join a guided tour of Muscat. Visit the Fish Market, Matrah Souk, Sultan Qaboos Grand Mosque, Bait Al Zubair Museum, Al Alam Palace, and the Opera House. Overnight at the hotel. Meals: B"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Coastal Charm - Enjoy breakfast and relax on the beach. In the afternoon, take a sunset dhow cruise along Muscat's coastline, with refreshments provided. Return to the hotel for the night. Meals: B"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Jabal Al Akhdar - Travel to Jabal Al Akhdar, stopping at Birkat Al Mouz to see the Falaj irrigation system. Check into your hotel amidst the mountain scenery. Meals: BL"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Village Hiking - Start with breakfast, then hike in Jabal Akhdar. Visit Diana's Point, Al Aqur, and Shuraijah village. Return to your hotel for a relaxing evening. Meals: B"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Nizwa and Jabal Shams - After breakfast, head to Nizwa to visit the fort and souk. Continue to Jabal Shams for stunning views and visit the Bayt Al Safah Museum. Spend the night in Misfat Al Abriyeen. Meals: BLD"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Wahiba Sands - In the morning, journey to the Wahiba Sands. Stop at Birkat Al Mawz for a quick visit before lunch at Razwan Restaurant. Enjoy dune bashing before checking into your resort camp. Watch the sunset and have dinner under the stars. Meals: BLD"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Sur and Ras al Jinz - Visit Wadi Bani Khalid, then head to Sur to explore its culture and dhow building. Check into the Ras Al Hadd hotel for dinner and go turtle-watching at Ras Al Jinz. Meals: BD"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Wadi Tiwi and Muscat - Travel to Muscat, stopping at Wadi Tiwi and the Bimmah Sinkhole. Arrive at your beach hotel and have the evening free. Meals: BL"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Farewell Oman - Your driver will take you to the airport for your departure. As you head home, reflect on your Omani adventure. Meals: B"
+    }
+  ],
+  "map": ""
+}

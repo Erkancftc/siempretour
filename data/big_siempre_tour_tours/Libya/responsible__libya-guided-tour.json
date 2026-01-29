@@ -1,0 +1,60 @@
+{
+  "destination": "Libya",
+  "mainPhoto": "",
+  "id": "libya-guided-tour",
+  "tourName": "Libya guided tour",
+  "placesVisited": "",
+  "generalInfo": "A one week tour through the highlights of western Libya, from the Mediterranean to the Sahara. While much of the country still remains difficult to visit, the west is now starting to open up to intrepid visitors, and you can be among the first to return after the troubles of recent years.<br/><br/>We start in the capital Tripoli, and spend a morning at Sabratha. Sabratha dates back to ancient Carthage, and was also ruled by Rome. We spend the afternoon in Tripoli itself, exploring the winding streets of the medina, with its bazaars, mosques and palaces.<br/><br/>We then drive south, towards the desert. At Qasr el Haj we discover one of North Africa’s most striking monuments – the vast fortified granary, dating back to the 12th century. In the Jebel Nafusa Mountains we explore the abandoned Berber town of Nalut, then continue to Ghadames, one of the Sahara’s oldest towns.<br/><br/>Ghadames is a treasure trove of traditional Saharan architecture, oozing with the atmosphere of the desert beyond. We wander its streets and discover its fascinating history before starting our journey back north, stopping at the abandoned village of Tarmisa and Gharyan, once an important<br/>crossroads on Saharan trade routes.<br/><br/>After our arrival back in Tripoli, we head to Leptis Magna. Libya is home to some of North Africa’s most impressive archaeological sites, with Leptis Magna perhaps the best. We explore the old Roman city, which is the best preserved in the Mediterranean, and a historian’s delight.<br/><br/>Uncover the delights of this surprising, largely forgotten country – we promise you won’t be disappointed.",
+  "durationDays": "7",
+  "price": "2649",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Tripoli - Arrive in Tripoli and transfer to the hotel. Depending on when you arrive there may be time to explore the city. Overnight Victoria Hotel or similar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Sabratha - Tripoli - Drive to the ancient site of Sabratha, founded in the 6th century and ruled by Carthage and Rome among others. The site offers a majestic collection of historic remains including public buildings, arenas and temples. In the afternoon we head back to Tripoli where we will take a tour of the old town. We visit the Ottoman Clock Tower, the Arch of Marcus Aurelius, Martyrs’ Square and the medina among other sites. Overnight Victoria Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Jebel Nafusa – Ghadames - Head south to Jebel Nafusa, stopping en route to visit the 12th century fortified granary of Qasr-al-Haj. We then continue our journey into the Nafusa Mountains to the ghost town of Nalut. We explore the old city which gives us an insight into the traditional Berber lifestyle. We continue on to the enchanting oasis town of Ghadames, one of the oldest cities in the Sahara, where we will spend the night. Overnight Dar Ghadames Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Ghadames - A full day to explore Ghadames. We take a walking tour of the old town visiting local mosques and seeing its striking traditional architecture, typical of the Libyan Sahara. In the afternoon we head to the dunes to watch the sunset. Overnight Dar Ghadames Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Tarmisa – Gharyan – Tripoli - Leave the Sahara behind and make our way back to Tripoli. We stop at the deserted stone village of Tarmisa where we will have a spectacular view over the Sahel Al Jefara. After lunch we continue to Gharyan, once an important stop on trade routes and a centre of resistance against the Italian occupation of the 20th century. We will visit one of its famed troglodyte houses, dug vertically into the rocky ground, and explore the Al-Qawasem area, well known for its pottery before continuing to Tripoli for the night. Overnight Victoria Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Leptis Magna - Today we have the full day to explore the UNESCO site of Leptis Magna, the best preserved and most extensive Roman city in the Mediterranean. We see the ruins of the Arch of Septimus Severus, the Severen Basilica and an Amphitheatre which once seated 16,000 spectators. Return to Tripoli for your final night. Overnight Victoria Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Tripoli - Transfer to the airport for departure. (B)"
+    }
+  ],
+  "map": ""
+}

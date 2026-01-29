@@ -1,0 +1,110 @@
+{
+  "destination": "Japan",
+  "mainPhoto": "",
+  "id": "japan-tour-of-honshu-island",
+  "tourName": "Japan tour of Honshu island",
+  "placesVisited": "",
+  "generalInfo": "This luxury Japan tour combines the buzz of modern cities with the tranquillity of traditional countryside over a 17-day itinerary. Starting in Osaka, you’ll visit the majestic Himeji Castle and ride a scenic ropeway up Mount Shosha before exploring Kyoto’s ancient temples and gardens. <br/><br/>In Tokyo, you’ll experience the harmony of old traditions and contemporary city life, then journey to the Japanese Alps to see Matsumoto Castle and wander Takayama’s Edo-period streets. Kanazawa offers a taste of samurai heritage and an authentic tea ceremony. <br/><br/>A real highlight of the trip is the sight of natural wonders in Hakone, including panoramic views of Mt. Fuji and Lake Ashinoko.  <br/><br/>With a relaxed pace and seamless high-speed train connections, this itinerary lets you savour Japan’s cultural treasures in comfort.",
+  "durationDays": "17",
+  "price": "11395",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Japan - On arrival at Kansai International Airport, you’ll be greeted by your private driver and taken to Hotel Zentis, where you’ll stay for the next two nights. The evening is yours to relax and unwind after your journey."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Travelling Osaka by Train & Ropeway - After breakfast, meet your English-speaking guide and board the bullet train to Himeji, where you’ll explore the striking Himeji Castle and stroll through Kokoen Garden’s nine distinct gardens, each reflecting a different era and style. Continue by ropeway up Mount Shosha to visit the historic Engyoji Temple, before returning to Osaka by bullet train in the afternoon. In the evening, join a guided food tour through Dotonbori and Osaka’s hidden backstreets, tasting local favourites such as kushikatsu and takoyaki, accompanied by Japanese beers and sake"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Bullet Train to Kyoto - After breakfast at your hotel, you’ll be driven by private car to Shin-Osaka Station to board the bullet train to Kyoto. On arrival, your guide will meet you for a full day exploring the city’s highlights by private minivan. Begin at the historic Nijo Castle, then stroll the picturesque lanes of Ninenzaka and Sannenzaka before visiting the magnificent Kiyomizudera Temple, renowned for its sweeping views over Kyoto. Take time for a calming Zen meditation session, then continue to Yasaka Shrine and the atmospheric streets of Gion. Your day concludes with check-in at The Thousand Hotel Kyoto, your base for the next three nights."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Temples & Bamboo Groves - After breakfast at your hotel, join your guide for a full-day tour of Kyoto’s most celebrated sights. Begin at the Golden Pavilion, Kinkakuji, its shimmering exterior reflected in the surrounding pond, then stroll through the tranquil Zen gardens and historic buildings of Tenryuji Temple. Continue to the serene Adashino Nenbutsuji, where bamboo groves and stone statues create a uniquely atmospheric setting. Walk among the towering bamboo of the Sagano Bamboo Forest and explore the charming streets of Arashiyama. With an expert guide leading you through Kyoto’s cultural landmarks and natural beauty, the day blends history, scenery, and serenity, before an evening at leisure in the city."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Free Day in Kyoto - After breakfast at your hotel, enjoy the day exploring Kyoto and its surroundings at your own pace."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Time for Tokyo - After breakfast, pack a small overnight bag and leave your main luggage with the Kyoto hotel staff to be transferred ahead to Tokyo. Take a short walk to Kyoto Station and board the bullet train, travelling light for the journey. On arrival at Tokyo Station mid-morning, a private car will be waiting to take you to your hotel. Check in to the Capitol Hotel Tokyu, your base for the next three nights. In the evening, join your guide for a taxi ride to the vibrant Shimbashi neighbourhood, where you’ll enjoy a four-hour izakaya bar-hopping food tour, sampling local dishes and drinks while soaking up Tokyo’s lively nightlife."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Tradition meets Modernity in Tokyo - After breakfast, collect your luggage from the front desk before meeting your guide for a private sedan tour of Tokyo. Begin at the tranquil Meiji Shrine, then browse the vibrant shops of Harajuku’s Takeshita Street. Stroll along the stylish boulevard of Omotesando before witnessing the energy of Shibuya Crossing, the world’s busiest pedestrian intersection. With your guide and private car, you’ll uncover Tokyo’s captivating mix of timeless tradition and cutting-edge modernity. From serene shrines to neon-lit avenues, this tour showcases the city’s highlights before returning to your hotel in the bustling Shibuya district."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Parks & Palaces of Tokyo - After breakfast at your hotel, meet your guide for a private tour of Tokyo’s highlights. Admire the beautiful cherry blossoms along Chidorigafuchi Moat, then enjoy a stroll through the serene Imperial Palace East Garden. In Asakusa, visit the iconic Sensoji Temple and explore the vibrant Nakamise Shopping Street. Continue to Ueno Park, home to museums, temples, and leafy walking paths. Travelling by private sedan with your guide, you’ll experience Tokyo’s perfect mix of tradition and modern charm before an evening at leisure to explore the city your own way."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "To the Japanese Alps - After breakfast, pack an overnight bag and have your main luggage forwarded to Matsumoto. You’ll be driven by private car to Shinjuku Station to board a green class express train, enjoying the scenic journey from the capital to the Japanese Alps. On arrival, your guide will meet you at the station and take you to a local soba noodle restaurant for lunch. The afternoon is yours to explore, perhaps with a wine tasting at Yamabe Winery or a stroll through the farmers’ market. Later, check into your Matsumoto hotel and enjoy dinner at the property."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Exploring Matsumoto - After breakfast, you can collect your main luggage from the hotel front desk before setting off on a private tour of Matsumoto’s highlights. Visit the impressive Matsumoto Castle, one of Japan’s most stunning original castles, then wander along Nawate Street with its charming Edo-era storehouses and the bustling Nakamachi Street. If you’re travelling during cherry blossom season, there’s a chance to stop at Koboyama Park to admire its beautiful \"weeping\" pink cherry trees. The rest of the evening is free for you to enjoy at your own pace."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Heading to Takayama - After breakfast, board the express train from Matsumoto, settling into your comfortable green car seat as you admire stunning views of the Japanese Alps. On arrival in Takayama, explore the beautifully preserved old town of Sanmachi Suji, with its traditional wooden merchant houses, cosy cafés, sake breweries, and museums. For lunch, savour the rich flavours of Hida beef at a local BBQ restaurant. Spend your afternoon at leisure, browsing the lively morning markets and wandering the charming alleyways filled with unique shops. Later, check into your ryokan nestled in lush mountain surroundings, where you can unwind before enjoying a traditional multi-course kaiseki dinner highlighting the best seasonal ingredients."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Takayama Day Tour - Enjoy breakfast before meeting your guide to begin a walking tour of Takayama’s delightful sights. Stroll through the lively morning markets, where local vendors showcase regional crafts and fresh produce. Step back in time at Takayama Jinya, the sole remaining government office from the Edo period. Discover the charm of Takayama’s beautifully preserved old town, with its traditional wooden buildings home to cosy cafés, sake breweries, and artisan shops. The evening is yours to relax and explore at your own pace."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Traditional Country Japan - After breakfast, meet your guide and set off from Takayama by private car for a scenic journey to Kanazawa. Along the way, stop at the picturesque Gokayama Village, famous for its steep thatched-roof cottages and rich cultural heritage. Time permitting, you’ll also visit the enchanting Shirakawa-go Village, known for its fairy-tale charm. Arrive in Kanazawa by mid-afternoon and explore the expansive Kenrokuen Garden, widely regarded as one of Japan’s three most beautiful landscape gardens. Then, check in to the Hyatt Centric, where you’ll spend the next two nights."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Samurais & Tea Ceremonies - After breakfast at the hotel, meet your guide for a private tour of Kanazawa. Begin by wandering through the bustling Omicho Market, where fresh seafood and local produce bring the city’s vibrant flavours to life. Then explore the historic Nagamachi Samurai District, once home to influential warrior families. In the afternoon, gain a unique samurai experience at Shijimaya, where descendants demonstrate armour crafting and sword techniques - you might even have the chance to try wielding a practice sword yourself. Finish the day in the beautifully preserved teahouses of the Higashichaya District, soaking up the rich geisha culture."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Off to Hakone - After breakfast, pack an overnight bag and send your main luggage on ahead. Take a short walk to Kanazawa Station and board a green class bullet train bound for Tokyo. From Tokyo Station, transfer to another bullet train to Odawara, enjoying the scenic views from your comfortable seat. At Odawara Station, a private car will be waiting to take you to your Hakone accommodation, the Hyatt Regency, where you’ll stay for two nights. Arriving late morning with just light luggage, you can spend the afternoon unwinding at the hotel, soaking in the tranquil mountain setting and indulging in the onsen."
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Exploring Hakone - After breakfast, meet your guide at the hotel for a private tour of Hakone’s top sights. Begin with a stroll along part of the historic Old Tokaido Trail, followed by a peaceful cruise across the scenic Lake Ashi. Then, take the Hakone Ropeway for stunning views over the mountains and valleys, including the steaming hot springs of volcanic Owakudani. Finish the day at Enoura Observatory, where you can soak in panoramic vistas of Mt Fuji and Lake Ashinoko. With your guide’s expert insights, you’ll fully appreciate the natural beauty and iconic landscapes that make Hakone so special."
+    },
+    {
+      "dayNumber": 17,
+      "title": "",
+      "description": "Departure Day - After your final breakfast in Japan, your private car will transfer you to Tokyo Haneda Airport. You’ll arrive around midday, giving you plenty of time to unwind in the lounge before checking in for your international flight."
+    }
+  ],
+  "map": ""
+}

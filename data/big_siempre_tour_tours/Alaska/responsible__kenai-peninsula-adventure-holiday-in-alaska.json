@@ -1,0 +1,55 @@
+{
+  "destination": "Alaska",
+  "mainPhoto": "",
+  "id": "kenai-peninsula-adventure-holiday-in-alaska",
+  "tourName": "Kenai Peninsula adventure holiday in Alaska",
+  "placesVisited": "Hike on Exit Glacier in Seward, Kenai Fjords National Park wildlife cruise, Calving glacier tour in Resurrection Bay, Camp on the Homer Spit, Luxury adventure camp, Kayaking Seldovia Bay, Bear and whale watching, Cook Inlet, Hope gold rush town, Beluga Point",
+  "generalInfo": "This exciting adventure holiday in Alaska sets your sights on the incredible coastline around the Kenai Peninsula, an area well-regarded for wildlife, glaciers and fabulous fjords. <br/><br/>Heading out from Anchorage allows overland adventures in a converted school bus – seriously – and wildlife cruises in Kenai Fjords National Park, to really take shape. Explore along the Turnagain Arm and whale watching comes to the fore; hike over Exit Glacier and you’ll find yourself on the Harding Icefield; stay for a couple of nights in a luxury adventure camp and salmon suppers are simply sublime. <br/><br/>From included activities such as sea kayaking and cosy camping to optional scenic flights to watch bears; this nine day Alaska adventure does exactly what you’d hope, plus a whole lot more besides. Prepare to get excited!",
+  "durationDays": "9",
+  "price": "3590",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "ANCHORAGE: Arrive for Group Meeting and Dinner (H)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "SEWARD: Cruise along orcas, humpbacks and sea lions. See calving glaciers and hike Exit Glacier, part of the Harding Icefield (C)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "HOMER: Camp on the Homer Spit with volcanic views and fish for giant halibut (C)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "ADVENTURE CAMP: Roughing it in style with guided sea kayaking and salmon dinner (LC)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "HOPE: Hang out in Alaska’s first Gold Rush town, spot bears and explore Fishermen Culture along Cook Inlet (BC)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "LAST DAY: Final Day with a visit to Beluga Point, trip ends around noon in Anchorage (-)"
+    }
+  ],
+  "map": ""
+}

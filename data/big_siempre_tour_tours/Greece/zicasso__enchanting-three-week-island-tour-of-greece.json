@@ -1,0 +1,70 @@
+{
+  "destination": "Greece",
+  "mainPhoto": "",
+  "id": "enchanting-three-week-island-tour-of-greece",
+  "tourName": "Enchanting Three Week Island Tour of Greece",
+  "placesVisited": "Mykonos, Santorini, Naxos, Paros, Milos, Delos",
+  "generalInfo": "This 3-week Greek Islands tour captures the allure and romance for which this region is known. From Santorini and Mykonos, to Milos and Naxos, experience some of the most idyllic island havens the world has to offer. Enjoy a cycling tour through the countryside, venture on a scuba diving excursion, and sail along the southern coast of Mykonos.",
+  "durationDays": "21",
+  "price": "23,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Santorini – Hike, Sail, and Sightsee",
+      "description": "When you land on Santorini, a private driver will greet and escort you to your luxurious accommodation. Upon your arrival, you will have some time to relax and settle in to your new surroundings after your long flight. When you are ready, your private guide will lead you on an evening hike along Santorini’s caldera rim. The following day will find you setting sail for the Cyclades Islands, where you will sightsee, swim, snorkel. A kayaking excursion will begin your next day and will be followed by a food tour."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Santorini – Oceanside Yoga",
+      "description": "This morning, you can take it as slow as you want. You can choose to have breakfast before or after your seaside yoga session this morning. Afterward, your guide will lead you on an e-bike tour through Santorini’s countryside. Your tour will conclude with an incredible sunset. Your final day in Santorini will be spent on a private yacht. The day will be yours to curate, and you will have a private captain and crew at your service."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Naxos – Naxos’ Island Treasures",
+      "description": "After breakfast this morning, you will make your way to Naxos. Here, you will visit a marble rock quarry to learn about how this ancient natural material is collected and refined into a precious commodity. You will also partake in a marble sculpting class. The next day, you will sail to Delos to traverse the island’s preserved ruins. Afterward, you can spend the rest of the day on Delos before returning to Naxos. The following day, you will sail along the shores of Naxos on a catamaran. This sail will allow you to visit Koufonisia, Schoinousa, and Iraklia."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Paros – Paros, Parikia, and Lefkes",
+      "description": "This morning, you will venture to Paros, where you will have some time to settle in to your new surroundings before embarking on a walking tour of Naoussa. After your tour, you will have the remainder of the day at your leisure, and your guide can provide you with excellent dining recommendations. The next morning, your guide will lead you on a tour of the island’s most noteworthy sites. Again, the day will be at your leisure after your tour. For your final day in Paros, you will begin with a kayaking session and end with a private cooking class with a master chef."
+    },
+    {
+      "dayNumber": "12",
+      "title": "Mykonos – Scuba Dive and Couples Massage",
+      "description": "After breakfast, you will make your way to the lively island of Mykonos. After settling in to your new accommodation, you will indulge in a relaxing couples massage. After a day of traveling, this massage will be the perfect opportunity to relax and unwind. Following your massage, your guide will provide you with dining options. The next morning, you will venture on a scuba diving expedition with an expert. If you do not have your certification, you will get certified before taking to the ocean with your guide. This activity will consume the majority of your day."
+    },
+    {
+      "dayNumber": "14",
+      "title": "Mykonos – The Mystique of Mykonos",
+      "description": "After breakfast this morning, your guide will lead you on a tour of the island’s highlights. Your tour will include the village of Ano Mera, the island’s windmills, and Little Venice. After your tour, you will have the rest of the evening for some self-exploration. The following morning, you will have breakfast and a few hours before your guide leads you on a wine tasting adventure. Your sommelier guide will introduce you to a variety of excellent local wines. You can even take a bottle home with you if you like it enough."
+    },
+    {
+      "dayNumber": "16",
+      "title": "Mykonos –Delicious Island Fare",
+      "description": "You will have most of the morning to spend at your leisure this morning, meaning that you can have a relaxing breakfast and lay in bed for a few hours. Around midday, your guide will lead you on a culinary tour of the island that will introduce you to some of the island’s fare that you have not yet had a chance to taste. The following day, you will explore the island’s southern coastline of the island. Your final day in Mykonos will be spent on a private yacht. During this experience, you will be the designer of the itinerary."
+    },
+    {
+      "dayNumber": "19",
+      "title": "Milos – The Kleftiko Caves",
+      "description": "This morning, you will say farewell to Mykonos and transfer to the island of Milos. Here, you will spend your first evening on a sunset dinner sail that can be complete with a local wine pairing. The following day will have you partaking in a morning kayaking excursion that will also provide you with a glimpse of some of the local wildlife. After your kayaking adventure, you will sail to the Kleftiko Caves before spending the rest of the afternoon on a catamaran. Upon returning to Milos, your guide can provide you with great places to dine."
+    },
+    {
+      "dayNumber": "21",
+      "title": "Milos – Departure",
+      "description": "After breakfast, your private driver will transfer you to your accommodation for your flight home."
+    }
+  ],
+  "map": ""
+}

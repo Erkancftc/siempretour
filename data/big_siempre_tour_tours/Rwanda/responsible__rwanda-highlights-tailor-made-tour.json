@@ -1,0 +1,60 @@
+{
+  "destination": "Rwanda",
+  "mainPhoto": "",
+  "id": "rwanda-highlights-tailor-made-tour",
+  "tourName": "Rwanda highlights, tailor made tour",
+  "placesVisited": "Kigali, City tour, Nyungwe Forest National Park, Guided hike and canopy walk, Volcanoes National Park (Virungas), Mountain gorilla trekking, Dian Fossey’s grave, Lake Kivu",
+  "generalInfo": "Spend nine days discovering the highlights of Rwanda, from beautiful Lake Kivu to gorilla trekking in the mountains, on this tailor made tour. Spend some time in the capital Kigali, where a guided tour will reveal Rwanda’s colonial past and its recent traumatic history, with a visit to the genocide memorial site at Gisozi, just outside the city, an emotional highlight. You’ll also explore the dense rainforest of Nyungwe Forest National Park with a local guide, home to abundant wildlife, birds and giant plants, and then move on to Virungas National Park where you can choose to take one or two treks to see the mountain gorillas that live here. The tour ends with time relaxing on the shores of lovely Lake Kivu.",
+  "durationDays": "9",
+  "price": "4925",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "On arrival at the Kigali International Airport you will be met and transferred to the Kigali Serena Hotel in the heart of Kigali city. Overnight at the hotel on bed and breakfast basis (Dinner is on own arrangement)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "After breakfast, embark on a City Tour of Kigali. Learn the history behind Rwanda through the tales told by its capital; get acquainted with pre-colonial and colonial Rwanda, the 1994 genocide and see the new developments. A visit to the genocide memorial site at Gisozi, about 10-15 minutes outside the city centre, is the highlight of the city tour. This visit is an emotional experience for most visitors as they encounter the horrid massacre that engulfed the country in 1994. It also presents an opportunity to learn about other genocides in the world. You then have lunch at a local restaurant in Kigali After lunch, depart Kigali on a scenic towards Nyumgwe, stopping at the Kings Palace and Butare Musuem en-route. You arrive at Nyungwe Top View Lodge for dinner and overnight."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Today, we depart Nyungwe and travel by road to Volcanoes National Park (Virungas) to the Ruhengeri district, where we based up for two nights to enjoy Mountain Gorilla Trekking. Overnight Mountain Gorilla View Lodge,"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "After an early breakfast at the lodge, transfer to the Volcanoes National Park at 0630. Arrive at the park headquarters for registration - a simple process where the park staff asses your fitness level to determine which Gorilla Family you will visit. Thereafter, the park staff brief on trekking times and conditions to the various groups based upon their location in the park the previous evening. There are a total of 80 gorilla permits available each day with a maximum of 8 trekkers visiting any one group. Treks vary in duration depending on which gorilla group you are assigned to. After locating your assigned gorilla group, you will spend approximately one hour in their company before heading back down the volcano slopes. The park is located in the Virunga Mountains, a magnificent chain of dormant volcanoes in the north of Rwanda which it shares with the Democratic Republic of the Congo (DRC) and Uganda. The mountains form part of the extension of the Congo-Nile divide, separating two of Africa´s most important watersheds. They are also home to the world’s last surviving Mountain Gorilla populations, currently about 700 individuals. Overnight Mountain Gorilla View Lodge."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Optional second trek or visit to Dian Fossey’s grave. Overnight Mountain Gorilla View Lodge"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Depart to Lake Kivu, to enjoy some tranquillity on the lake shore. Overnight Lake Kivu Serena Hotel."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Drive back to Kigali in time for your flight home."
+    }
+  ],
+  "map": ""
+}

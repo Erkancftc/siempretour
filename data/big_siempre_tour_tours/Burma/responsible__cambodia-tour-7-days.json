@@ -1,0 +1,60 @@
+{
+  "destination": "Burma",
+  "mainPhoto": "",
+  "id": "cambodia-tour-7-days",
+  "tourName": "Cambodia tour, 7 days",
+  "placesVisited": "",
+  "generalInfo": "Uncover the wonders of Cambodia in just six days, journeying from the ancient grandeur of Siem Reap to the cultural depth of Phnom Penh. This immersive tour blends temple exploration, local traditions, and historic insight—offering an enriching experience of Cambodia’s past and present.<br/><br/>Start in Siem Reap, home to the awe-inspiring Angkor Wat. Explore sacred temples like Bayon and Ta Prohm, cruise through floating villages on Tonlé Sap Lake, and dive into Cambodian cuisine with a Khmer cooking class. Evenings offer optional spa time or a captivating show by the Phare Cambodian Circus.<br/><br/>In Phnom Penh, visit the Royal Palace, Silver Pagoda, and National Museum to discover Cambodia’s royal and artistic heritage. Reflect at the Tuol Sleng Genocide Museum and Choeung Ek Memorial, then stroll vibrant riverfront markets and enjoy a peaceful sunset cruise on the Mekong.<br/><br/>This tour is perfect for travelers who want authentic culture, meaningful history, and unforgettable landscapes—all within a beautifully curated week in Cambodia.",
+  "durationDays": "7",
+  "price": "1470",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival in Phnom Penh and transfer to hotel"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Exploration in Phnom Penh City"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Oudong Formal Capital City - 4 Junctions River"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Fly From Phnom Penh to Siem Reap"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Exploration in Siem Reap and Angkor Wat Complex"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Sacred Kulen Mountain - Banteay Srei Village - Phare Performance"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Siem Reap Departure"
+    }
+  ],
+  "map": ""
+}

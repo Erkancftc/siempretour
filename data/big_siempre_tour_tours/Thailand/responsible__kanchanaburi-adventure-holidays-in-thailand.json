@@ -1,0 +1,45 @@
+{
+  "destination": "Thailand",
+  "mainPhoto": "",
+  "id": "kanchanaburi-adventure-holidays-in-thailand",
+  "tourName": "Kanchanaburi adventure holidays in Thailand",
+  "placesVisited": "",
+  "generalInfo": "An exciting adventure to learn about Kanchanaburi’s history, riding on the Death Railway, with magnificent views of the River Kwai, and walking through Hellfire Pass. Discover too its natural beauty while trekking and kayaking in Saiyok National Park. Learn about nature conservation at Ourland Nature Conservation Project and visit a home for retired elephants. Enjoy nights on a rafthouse and at a riverside resort.",
+  "durationDays": "4",
+  "price": "42000",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Bangkok – Kanchanaburi (-/L/D) After breakfast pick up from your hotel in Bangkok and take the 2 ½-hour drive to Kanchanaburi Town. Visit Don-Rak War Cemetery and then the famous Bridge Over the River Kwai. Take a walk on the bridge and then board the train for a ride on the Death Railway, with stunning views of the river far below. Disembark from the train and walk across the spectacular Wampo Viaduct. After crossing the viaduct, visit Krasae Cave. Enjoy lunch at a local restaurant and then drive to Hellfire Pass to visit the museum there that is dedicated to the Death Railway and take a walk along part of its original route. After this drive to nearby raft houses for dinner and overnight."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Kanchanaburi – Our Land Nature Reserve (B/L/D) After breakfast drive to in Saiyok Yai National Park and set off on a walk in the forest for about an hour before kayaking for 2-3 hours to Saiyok Yai Waterfall, where there will be time for swimming in the pool beneath the falls. Have lunch at a local restaurant and then visit the Mon village of Pu Takein and learn about the Mon peoples’ culture and way of life. Afterwards head to Our Land Nature Reserve. Float down the river to the camp and then have free time to explore the reserve and learn about the work done there before dinner and overnight at the camp. Clients who would prefer to stay at a nearby hotel may do so."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Our Land Nature Reserve – Kanchanaburi (B/L/D) After breakfast start a full day of activities, including a walk along a nature trail to learn about the local flora and fauna, floating down the river and a visit to a bat cave. Learn about snakes, reforestation schemes and jungle survival. At the end of the afternoon return to Kanchanaburi town for dinner and overnight at Good Times Resort."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Kanchanaburi – Bangkok (B/L/-) After breakfast check out and drive to Elephant Haven to spend some quality time with the elephants at this sanctuary. Once they were used for elephant trekking but now they are retired and there is no more riding and no circus tricks, just a caring environment for these magnificent animals. Learn how they are taken care of and about their complex social structure. Have lunch at the sanctuary. Return to Bangkok midafternoon and drop off at hotel."
+    }
+  ],
+  "map": ""
+}

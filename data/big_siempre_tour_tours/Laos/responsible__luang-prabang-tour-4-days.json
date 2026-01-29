@@ -1,0 +1,45 @@
+{
+  "destination": "Laos",
+  "mainPhoto": "",
+  "id": "luang-prabang-tour-4-days",
+  "tourName": "Luang Prabang tour, 4 days",
+  "placesVisited": "",
+  "generalInfo": "Discover the heart of Laos with this 4-day journey through Luang Prabang, a UNESCO World Heritage city famed for its golden temples, peaceful riverside charm, and deep spiritual traditions. Nestled between the Mekong and Nam Khan Rivers, this tour blends cultural discovery, natural beauty, and authentic local encounters—perfect for travelers seeking a meaningful, slower-paced escape.<br/><br/>Begin your adventure with a leisurely walk through the old town, stopping at the sacred Wat Xieng Thong and the colorful night market. On day two, visit the Royal Palace Museum, admire Wat Mai, and watch sunset views from the top of Mount Phousi.<br/><br/>Venture into nature with a day trip to the stunning Kuang Si Waterfalls, where you can swim in turquoise pools, visit the bear rescue center, and explore a local village to learn about bamboo weaving and traditional life.<br/><br/>End your journey with a peaceful almsgiving ceremony at sunrise, followed by a final stroll through town or time for souvenir shopping before departure.<br/><br/>This tour offers a balanced mix of relaxation, culture, and connection, all in one of Southeast Asia’s most enchanting destinations.",
+  "durationDays": "4",
+  "price": "310",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival Luang Prabang and transfer to hotel"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Luang Prabang City Excursion"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Khaoungsi Waterfall - Pak Ou Caves Exploration"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Luang Prabang Departure"
+    }
+  ],
+  "map": ""
+}

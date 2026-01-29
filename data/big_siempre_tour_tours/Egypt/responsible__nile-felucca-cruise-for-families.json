@@ -1,0 +1,60 @@
+{
+  "destination": "Egypt",
+  "mainPhoto": "",
+  "id": "nile-felucca-cruise-for-families",
+  "tourName": "Nile felucca cruise for families",
+  "placesVisited": "",
+  "generalInfo": "We welcome you for a 4 to 6 days felucca cruise that will take you from Aswan to Edfu (4 days) or to  Esna (6 days). The duration can also be tailored ( from 2 to 6 days)<br/>We are specialised in family groups and small groups up to 7 people so as to provide comfortable and relaxing conditions during the trip. The cruises are all included : all the meals, visits of temples and places of interest, transfer from the felucca ( back to Aswan or  to Luxor) at the end of the cruise).All nights are spent on board the felucca in a large comfortable and cosy \"sleeping area\". and all the meals are prepared by  the cook .You can of course give a hand! A crew of 3 or 4 people accompany the travellers and does the best to make your stay magic. A cabin with toilets is installed every night on the shore. Ask the crew if you need anything.You will enjoy a new and wonderful experience with your family while sailing aboard these  traditional  sailing boats. <br/>Our aim is to propose and promote  holidays that are environmentally and socially respectful. We endeavour to provide our clients the opportunity to have a clear and precise insight into the characteristics of local life whilst minimizing the negative impact generally associated with mass tourism.  The archeological sites are visited outside of peak tourist  times for a deeper appreciation of their wonders.<br/><br/>Our wish is to allow our clients the chance to see Egypt through fresh eyes, far from the standard clichés, and to reinforce the ties between our different cultures sharing a particular time with the crew.<br/><br/>You can ask us for a tailor made program.",
+  "durationDays": "4",
+  "price": "700",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Pickup in Aswan around 10 am. We take a taxi and go to the place where the felucca is mooring. The crew welcomes you on board. Feel at home. You are on for a sailing day. Enjoy the landscape. Lunch on board. Stop on the banks of the Nile for diner and a peaceful night."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Some crêpes and tea for breakfast and move down to Daraw for a visit of Daraw and its famous camel market (Tuesday, Saturday and Sunday). This place is not on the usual cruise boats programs and remains original and quiet. Back to the felucca for lunch, then a short sailing to Kom Ombo temple. Visit of the temple, then head on to Bashir island. Diner and night."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Short sail and then promenade in the countryside visiting the ruins of a temple that was dedicated to the god Bes and the village of Faris. Back for lunch, then sail to the quarries of Gebel Silsileh. Visit of the site and speos. Diner and overnight stay at the foot of the cliffs."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Early morning hike in the countryside and the Wadi el- Chott. Far from the mading crowd, enjoy this fabulous walk back into the ages.Then repairing rest and lunch before sailing to the island of Fawaza where you will take your diner and spend the night."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Short sail to the outskirts of Edfou. For those who stop there, breakfast and transfer to Luxor or back to Aswan by taxi. For those who continue, visit of the temple of Horus and/or city. Lunch, then sail to El Kab. Diner on board and Diner and overnight in front of the site."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Breakfast then visit of the site and tombs. Lunch and sail to Esna for diner and overnight."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "After your breakfast It is time to wave goodby . A taxi will drop you at the place of tour choice./ Louxor, Esna train station, Edfou, or back to Aswan."
+    }
+  ],
+  "map": ""
+}

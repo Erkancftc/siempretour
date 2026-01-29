@@ -1,0 +1,60 @@
+{
+  "destination": "Montenegro",
+  "mainPhoto": "",
+  "id": "montenegro-nature-and-adventure-holiday",
+  "tourName": "Montenegro nature and adventure holiday",
+  "placesVisited": "",
+  "generalInfo": "Discover Montenegro through adventure. On this nature holiday, you will hike to secret beaches and a waterfall, explore hidden trails, and kayak across crystal-clear waters surrounded by mountains and untouched nature.<br/><br/>Each day brings a new experience, from canyoning in wild canyons to stand-up paddleboarding on calm bays, to a boat tour of Kotor Bay where we visit mussel farms, monasteries on small islands, and the famous Blue Cave. Adventure flows easily here, with plenty of time to swim, relax, and enjoy the sea.<br/><br/>This holiday is also a journey into Montenegrin culture. Taste traditional cuisine, local cheeses and wine, and seasonal food straight from the region. Nature, movement, good food, and great company.",
+  "durationDays": "7",
+  "price": "1495",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "15:00 Check-in, 18:00 Dinner, 19:00 Introduction"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "9:00 Brunch 10:00 Farm Tour 11:00 Hike to our secret beach and having lunch in a local restaurant 6:00 Dinner"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "9:00 Brunch 10:00 Boat tour, having lunch in mussel farm, Kotor Sigh-seeing and trying the best ice-cream in Europe 6:00 Dinner"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "9:00 Brunch 11:00 Hike to the Waterfall / Canyoning 13:00 lunch in a local restaurant 6:00 Dinner"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "9:00 Brunch Free Day: Walking around and exploring a family restaurant close by, chilling around swimming pool, reading a book in a hammock or playing board games. 6:00 Dinner"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "6:30 SUP-boarding and kayaking to Hawaii island 9:30 Brunch in Budva Old Town 10:30 Budva Old town sigh-seeing and enjoying sandy beaches & lunch 6:00 Dinner"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "9:00 Brunch 11:00 Check-out"
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,50 @@
+{
+  "destination": "Botswana",
+  "mainPhoto": "",
+  "id": "botswana-delta-and-desert-safari",
+  "tourName": "Botswana delta and desert safari",
+  "placesVisited": "",
+  "generalInfo": "This 11 day itinerary combines contrasting safari experiences. Begin with 2 nights at Pioneers Bed and Breakfast near Victoria Falls, where you can explore the Falls on foot, by boat, or from the air, with options ranging from sunset cruises to white-water rafting. <br/>Continue with 2 nights at Kala Camp in the Okavango Panhandle, exploring by mokoro or on foot as seasonal floodwaters transform the landscape. <br/>A highlight of the trip is the 3 nights you will spend at Shinde Footsteps in the Okavango Delta for a classic under-canvas safari with game drives, walks, and mokoro excursions.<br/>End your journey with 3 nights at Deception Valley Lodge in the Central Kalahari, where activities include open-vehicle safaris, night drives, birding, and guided walks in a remote desert setting.",
+  "durationDays": "11",
+  "price": "5330",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Victoria Falls - Stay for 2 nights at Pioneers Bed and Breakfast. Be picked up from Victoria Falls International Airport and transferred to your accommodation, just a short 3.5km from the Falls and with rooms designed to embrace the Zimbabwean 'Pioneer era'. See for yourself why the poetic name 'the smoke that thunders' was given to the Victoria Falls, where the Zambezi plunges into the Bakota Gorge. A raft of exhilarating activities are available to you here, from tranquil boat cruises at sunset to thrilling white-water rapids. The Falls straddles the Zimbabwe and Zambian border, and you can even take a scenic flight over the gorge to see it from the air. At the end of your stay here, you will be taken to Kasane airport, where you will fly on to Jedibe airstrip, ready for your next adventure."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Okavango Delta - Stay for 2 nights in Kala Camp, in the Okavango panhandle - This island setting is on a 50,000 hectare private concession, where floodwaters turn dry sands into a haven for elephants, birds and countless other species. The water levels change throughout the year, which influences wildlife movements and how you can explore it. You might glide by Mokoro (traditional dugout canoes) or walk across islands. Transfer back to Jedibe airstrip, ready to fly to Shinde airstrip for the next leg."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Okavango Delta - Stay for 3 nights at Shinde Footsteps in the Okavango Delta proper - Located in the private Shinde concession, you will be surrounded with a variety of habitats to marvel at; including riverine forests, palm islands, permanent swamps and dry veld. This will be a truly authentic 'under canvas African safari', with game drives, walking safaris, Mokoro excursions and more available. At the end of your stay, you will fly from Shinde airstrip to the deception Valley Lodge airstrip."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Deception Valley Private Reserve - Stay for 3 nights in Deception Valley Lodge, in a private reserve on the northern edge of the central Kalahari Game Reserve. Expect open 4x4 safari vehicles, night drives in the reserve, bird watching and guided game walks in this semi-remote desert area where bushmen once roamed. You are a mere 10 minute transfer to Deception Lodge's own airstrip, where you will head for Maun International Airport, ready for your onward travel home."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "End of Itinerary"
+    }
+  ],
+  "map": ""
+}

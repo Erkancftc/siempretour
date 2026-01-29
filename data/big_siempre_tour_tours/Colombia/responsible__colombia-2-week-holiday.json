@@ -1,0 +1,80 @@
+{
+  "destination": "Colombia",
+  "mainPhoto": "",
+  "id": "colombia-2-week-holiday",
+  "tourName": "Colombia 2 week holiday",
+  "placesVisited": "",
+  "generalInfo": "In a country such as Colombia, planning a two week  holiday comes with a question. Do you see more of less or less of more? This trip is all about giving you the time to really get to know the destinations you are visiting, learning from the people about the places they call home. You will explore the stunning mountains of the coffee region, experiencing working haciendas, ancient coffee farms and the stunning nature that surrounds all of it. Then its on to the old town of Cartagena where you can stroll through the streets at a pace that allows you to hear all the stories seeping from the colourful walls adorned with flowers before ending it all on the white sands and crystal clear waters of the Rosario Islands.",
+  "durationDays": "13",
+  "price": "1995",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Upon arrival into Bogota Airport you will be met my one of our representatives and transferred to your hotel for the evening."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "There is only one way to get the most our of exploring Bogota and that is by bike. You will explore the La Candelaria, the most beautiful part of this vibrant city, including streets lined with stunning old colonial buildings, The Plaza be Bolivar and some of the most beautifully constructed churches to be found in Latin America. (B)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Its off to the Coffee region today and after a short flight you will be taken to your wonderful family run Hacienda. (B/D))"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Spend the morning exploring the coffee plantations lying on the steep hillsides of this beautiful region. You will see plantations for as far as the eye can see interrupted only by fincas and heliconia flowers. Take a guided journey through a coffee plantation, learning all about the production system, including the harvest, the drying to the sun and treatment in this land of volcanic terrain along the Central Andes Mountain Range. (B/D)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Nothing showcases he beauty of this region like a trip to the mystical Valle de Cocora, part of the Parque Nacional de Los Nevados, the ideal place to see the national tree “Quindian wax palm”. You will explore cloud forests filed with hummingbirds, cross clear mountain rivers and follow an trail that allows you to take in the majesty of the surrounding scenery. On the way back you will sop in the quaint town of Salento and visits the Plaza de Bolívar, the Calle Real, the handicrafts shops and the Cocora viewpoint. (B)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "From the Coffee Region to the turquoise waters of the Caribbean, you will be taken to the airport for your internal flight to Cartagena, where you will be met and taken to your hotel, nestled in the amazing old town. (B)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Today you will travel about 20 minutes to ¨La Boquilla¨, a small fishing village just outside of Cartagena where you will be able to experience the local culture of Cartagena not often seen by other tourists. Take a canoe trip through the mangrove ecosystem which is one of the most remarkable natural environments around Cartagena due to its rich fauna and diversity of vegetation. You will then have a chance to explore the little village of La Boquilla before heading back to Cartagena where you will have the afternoon free to explore on your own. (B/L)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Spend today walking lazily through the stunning old town as today is free to do as you please. (B)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "About a hour off the coast of Colombia, surrounded by beautiful beaches and crystal clear waters, you will find the stunning Rosario Islands. Here you can spend the days relaxing on the beach, snorkeling along the off shore reefs teaming with wildlife or jump on a kayak and explore the island further. Simply the most beautiful place to spend the last few days in Colombia. (B)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Free days for you to enjoy this incredible archipelago. (B)"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "It is time to say goodbye to his wonderful country as you take the boat back to Cartagena and transferred to the airport in time for your return flight home. (B)"
+    }
+  ],
+  "map": ""
+}

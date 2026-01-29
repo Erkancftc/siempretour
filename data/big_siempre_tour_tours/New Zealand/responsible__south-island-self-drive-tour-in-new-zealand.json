@@ -1,0 +1,75 @@
+{
+  "destination": "New Zealand",
+  "mainPhoto": "",
+  "id": "south-island-self-drive-tour-in-new-zealand",
+  "tourName": "South Island self drive tour in New Zealand",
+  "placesVisited": "",
+  "generalInfo": "This 10-day tour gives you the freedom to explore the breath-taking natural wonders of the South Island in the comfort of your own hire car. Starting and finishing in Christchurch, this circular route takes you to the icons of the South Island, including the Fiordland National Park and Mildord Sounds at the very tip of the island, as well as the snow-capped volcanic mountain ranges of Mt Cook National Park. With extra nights in Christchurch and Queenstown you'll have time to discover the cool and vibrant city life of New Zealand. <br/><br/>You begin with a journey past the mountains of the Southern Alps and turquoise waters of alpine lakes before arriving into Mt. Cook National Park.  Next you venture further south to Te Anau, gateway to Fiordland National Park.  Here you’ll explore the pristine wilderness on a Milford Sound nature cruise.  In Queenstown, the Adventure Capital, there’s time to enjoy the scenery and endless activities on offer before returning to Christchurch via the magnificent West Coast Glaciers.",
+  "durationDays": "10",
+  "price": "2245",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Welcome to Christchurch City! On arrival you will be given an information pack including maps and driving instructions, before your private driver takes you to your hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Collect your car this morning, then the day is yours to explore Christchurch or maybe a day trip to Akaroa. You can drive an hour in any direction to ski, mountain bike, wine taste, whale-watch, bungy jump or play golf!"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Today you'll enjoy a scenic drive through Canterbury and the MacKenzie Country you'll enjoy a scenic drive through the heart of the South Island, crossing the vast Canterbury plains and the MacKenzie Country. Driving time for this leg is approximately 4 hours. Stop at the picturesque lakeside town of Tekapo, then follow the road and take in the view of Aoraki Mt Cook (New Zealand's tallest mountain) from the shores of Lake Pukaki."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Drive to Twizel, just south of Aoraki/Mt. Cook and the location of many Lord of the Rings movie scenes. Then drive the Lindis and through the Kawerau Gorge to Queenstown and south to Te Anau, the gateway to Fiordland National Park and Milford Sound. We recommend going on the Te Anau Glowworm cave tour with a scenic cruise across Lake Te Anau."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Journey along the road to Milford Sound with some of the most beautiful and iconic scenery in the country. From crystal clear lakes and towering mountains to lush glacier formed meadows, this area is dramatic and unyielding."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Travel through rolling Southland countryside then follow Lake Wakatipu where the mountain range towers over your approach into the adventure capital of New Zealand, Queenstown."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "The day is yours to discover all the scenic spots and fun adrenaline activities on offer in Queenstown. Take a leisurely lakeside stroll or ride the gondola for breath-taking views, or head down the Gibbston Valley wine trail to sample some of the region’s best Pinot."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Take the Crown Range Road to Wanaka, the gateway to Mt Aspiring National Park and stunning Lake Wanaka, before travelling the spectacular Haast Pass to the West Coast. Allow time for photo stops along the way!"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Drive north along the stunning West Coast Road to Greystone, approximately 2 hours. Drop your rental car off and board one of the world's great train journeys, the TranzAlpine Scenic Train to Christchurch. From the comfort of your carriage see lush beech forest, deep river valleys and the spectacular peaks of the Southern Alps."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Depart Christchurch today with a transfer to the airport. Alternatively continue your vacation in New Zealand and see the North Island with one of our many tours..."
+    }
+  ],
+  "map": ""
+}

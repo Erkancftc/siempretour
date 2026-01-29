@@ -1,0 +1,90 @@
+{
+  "destination": "Costa Rica",
+  "mainPhoto": "",
+  "id": "activity-and-nature-holiday-in-costa-rica",
+  "tourName": "Activity and nature holiday in Costa Rica",
+  "placesVisited": "White-water rafting on the Balsa River, canopy walk, stand up paddle boarding and hot springs at Arenal volcano, hike in volcano reserve, Rincon de la Vieja tropical dry forest, horse riding and ranching, Monteverde cloud forest, canopy ziplining and nocturnal forest walk, Santa Teresa beach, surfing",
+  "generalInfo": "This activity and nature holiday in Costa Rica is perfect for anyone with a sense of adventure and a love of wildlife; anyone who finds themselves feeling a bit restless after a few hours lying on a beach. Of course, you can come to Costa Rica to chill out, but this suggested 15 day itinerary emphasises the active and adventurous fun to be had in this dynamic little country, from canopy walkways and treetop zip lines, to rafting on the Balsa River *, hiking, horse riding and surfing. <br/><br/>Costa Rica is more than just an adventure playground, though. It has unique wildlife, dramatic scenery, towering volcanoes and excellent beaches on both its Pacific and Atlantic coasts.<br/><br/>This activity and nature holiday can be completely tailor made to suit your interests and preferences. Choose the standard of accommodation you prefer, from mid to top range, or opt for a mixture. You can decide how you travel once here, too, choosing between self driving, private transfers and shared buses. And you can, of course, select the exact mix of activities and excursions that appeals to you – the itinerary below is just a suggested starting point from which to build your holiday.<br/><br/>Costa Rica’s short dry season lasts from December to April, and this is also peak season. May to November is the ‘green season’ which typically features short bursts of rain in the afternoons clearing in time for spectacular sunsets and warm, sunny mornings. Many visitors to Costa Rica prefer this time of year, as prices can be reduced, the scenery is refreshed and it’s less busy. There are other benefits, too, including seeing turtles laying eggs on some beaches. We wouldn’t recommend travel to Costa Rica in September and October, as this is when the rains are heaviest.<br/><br/>*Children must be 10 years or older to join in with the rafting detailed in the itinerary below. <br/>",
+  "durationDays": "15",
+  "price": "4985",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival / San José and overnight"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Arenal Volcano and rainforest night walk. Travel to the Arenal volcano region where you stay for 4 nights at a hotel with a view of the volcano. At dusk enjoy a guided night walk through the rainforest with chances to spot snakes, frogs and much more."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Canopy walk, SUP and hot springs at Arenal. Early today you join a group with a naturalist guide for the Hanging Bridges–a system of trails and suspended walkways with views into and over the forest and to the valley below. Wildlife sightings will include a variety of birds, possibly a troupe of howler monkeys, and much else. In the afternoon you join a group to visit Arenal NP to explore the impressive living geology of an active volcano. In the afternoon you will be taken to Arenal Lake to enjoy Stand Up Paddling or 'SUP', the fastest-growing paddle sport in the world. You will be equipped with a large buoyant board similar to a surfboard and a long paddle to move yourself along. An evening at the hot springs brings relaxation in thermal pools as the volcano rumbles in the distance; dinner is included."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "White water rafting class II-III rapids on the Balsa river. Paddle through rolling rapids with names like \"Morning Coffee\" & \"Rock around the Croc\" and float in tranquil river pools in an isolated rainforest river canyon. Includes a local lunch."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Walk in the Arenal reserve. This morning hike a trail that winds through the forest surrounding the volcano and takes you over recent lava flows and through the area hit by the 1968 eruption. After the hike you are dropped back at your hotel with the rest of the day free to relax or to take extra excursions you can book locally, such as mountain biking or horse-riding to waterfalls"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "To Rincon de la Vieja tropical dry forest of the northern highlands. You travel to Rincón de la Vieja in the dry forest of the northwest for 2 nights at a hotel and working ranch. Optional adventure excursions available including hikes, mountain biking or horseback rides, to waterfalls, volcanic hot springs and streams. If you are a competent rider you might even join real cowboys to round up cattle and horses and bring them to the corral."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Adventure pass and mud bath pool. Early risers can watch cows being milked by hand prior to taking advantage of your \"one-day adventure pass\" which commences with a zip-line canopy tour, then a horseback ride to where the lodge starts their river tubing adventure, later you will be able to relax in the local springs and enjoy an open air volcanic mud bath pool."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Monteverde cloudforest. Travel south today to the mountains of Monteverde for 2 nights in the cloud forest at a characterful lodge. Afternoon free to sample the eco- experiences of Santa Elena before an evening tour (shared) to experience the cloud forest’s nocturnal wildlife."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Canopy walk and zip-line. Start the day with a canopy walk on an inter-connecting series of trails and hanging bridges through and above the Monteverde cloud forest with fascinating perspectives into this very special natural world, followed in an adrenaline trip around an awesome circuit of zip lines–some very long and high. Rest of the day free for additional excursions available locally"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "To Pacific beach. In the morning travel to the off beat, surf mecca of Santa Teresa on the north-Pacific coast where you stay for the next 4 nights. There’s an attractive wide, white-sand beach that’s a favourite with surfers, plus casual beach cafes and bars, and low-key restaurants."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Beach time. Two free day to relax on the sands. Optional excursions available locally at additional cost include surfing lessons, horse-riding, walks to waterfalls"
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Return to San Jose. After a leisurely morning in Santa Teresa, return to San Jose for a positioning night before your international flight home the following day."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Depart San Jose to catch your chosen international flight home."
+    }
+  ],
+  "map": ""
+}

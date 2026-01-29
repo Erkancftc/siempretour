@@ -1,0 +1,45 @@
+{
+  "destination": "Colombia",
+  "mainPhoto": "",
+  "id": "guaviare-tour-in-colombia",
+  "tourName": "Guaviare tour in Colombia",
+  "placesVisited": "",
+  "generalInfo": "Join us for a 4-day adventure to Guaviare and explore the natural wonders of this region. Discover the ancient legends of the Gate of Orion and marvel at the stunning Black Lagoon or Red River. Hike through the breathtaking landscapes of Cerro Azul and witness the region's unique flora and fauna. Get up close with the friendly pink dolphins in Nare Lagoon and learn about their habitats and behaviors. Experience the cultural richness of Nuevo Tolima and taste the local cuisine. Our package includes comfortable accommodation and all meals, so you can relax and fully immerse yourself in this unforgettable adventure. Don't miss this chance to explore the hidden gems of Guaviare.",
+  "durationDays": "4",
+  "price": "2406",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Enjoy a relaxing 1 hr flight to San Jose. There are limited flights to San Jose and you'll be arriving at approximately 10:53 am. On arrival, you'll be collected from the airport and taken directly on your tour. You'll travel a short distance to arrive at the fascinating area of rock formations such as the Puerta de Orio´n (Gate of Orion). Red River (July to October): Here you'll enjoy walking through this wonderful area for approximately 2km (1.25 mi) before heading to Caño Sabana to enjoy the wonderful scenery of this magical river which displays the colorful water plant Macarenia clavíagera. (Colombia is the only country in the world to have this beautiful plant.) Black Lagoon (November till June) Here you'll enjoy a short boat ride, view monkeys in the nearby trees, and a wonderful abundance of birds flying around. You'll also have the opportunity to enjoy a swim in these refreshing waters."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Leaving shortly after breakfast at around 7:30 am you'll travel for approximately 2 hours to get to the archeological site of Cerro Azul. Once here you'll be walking through a natural jungle and a cave measuring 210m (688ft). This is also where you'll enjoy your first encounter with the rock paintings of animals, people, plants, and daily life dating back more than 12000 years bp. NB. This walk is rated a 3 out of 5 for difficulty. Following this, you'll be heading off to enjoy a late lunch of the region before traveling back to your hotel and expected arrival of 4:30pm"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Leaving before breakfast around 5:30 am you'll journey in a 4x4 for 2.5-3 hours to the Laguna Damas de Nare. (Stopping for breakfast along the way) Once here you'll enjoy an hour's walk (with a few stops) for approximately 3.5km (2 mi) through a beautiful natural forest full of exotic plants, birds, and monkeys. At the conclusion of this walk, you'll stop for a short break before climbing into a canoe to explore the lagoon in search of the Pink Dolphins."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Today will start with a relaxing journey of approximately 95 min to the Pinturas Rupestres Nuevo Tolima. That is a 60 min drive and a 35 min hike. Although it is a short hike it is mostly uphill, so a basic-medium level of fitness will be required. But once you arrive at the site it'll all be worthwhile. You'll actually only find one rock face with paintings here, but it is longer than either of the walls at Cerro Azul. Not only that, but it's less visited and usually less crowded. Estimations of these rock paintings are up to 12,500 years BP. After your morning tour and some lunch, it'll be off to the airport to catch your flight back to Bogotá."
+    }
+  ],
+  "map": ""
+}

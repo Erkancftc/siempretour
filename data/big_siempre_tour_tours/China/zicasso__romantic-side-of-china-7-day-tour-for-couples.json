@@ -1,0 +1,60 @@
+{
+  "destination": "China",
+  "mainPhoto": "",
+  "id": "romantic-side-of-china-7-day-tour-for-couples",
+  "tourName": "Romantic Side of China: 7-Day Tour for Couples",
+  "placesVisited": "Shanghai, Suzhou, Chengdu, Hainan Island, Hong Kong",
+  "generalInfo": "Experience the allure and mystery of China during this exotic and romantic 7-day adventure that will provide you with the ultimate culture shock. Visit the Paris of the Orient and astonish your taste buds with the feng shui flavors of cuisine in Shanghai. Dine at a Michelin-starred restaurant, trek to the summit of Mt. Emei, and immerse yourself in the unique culture of China.",
+  "durationDays": "7",
+  "price": "2,600",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Shanghai - Feng Shui Flavors",
+      "description": "When you arrive at Shanghai Pudong Airport, your private transfer will lead you on a gentle ride down the Huangpu River after you have had a chance to check in to your luxurious accommodation. You will cruise the length of the river and witness the harmonious blend of Eastern and Western influence that is imbued in the architectural landmarks. Afterward, you will be escorted to explore the Bund. One of the best parts of Shanghai is its use of feng shui with its cuisine, which blends multiple flavors together to create a balanced blend of salty, sweet, and spicy."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Shanghai - The Twin Bridges",
+      "description": "The day will begin with a historical exploration, and your guide will drive you to the Zhouzhuang Water Village, which is located just outside of Shanghai. You and your partner can stroll across the twin bridges of Shide and Yong’an, where the layout of the two creates a giant Chinese key. From there, you will receive an exclusive peek behind the hidden door of Old Town or Nanshi, which is not open to the public. Your guide will then escort you to Yu Garden. Near the end of the night, you will dine at a Michelin-starred restaurant that encompasses experimental dining with a twist."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Suzhou - The Venice of China",
+      "description": "Once your bullet train from Shanghai arrives in Suzhou, you will be transported to an Asian paradise. At the train station, your private transfer will guide you and your partner to Tongli Water Village. You will float down the canals in a gondola ride and gaze up at the sky for a peaceful introduction to Suzhou. The cuisine of Suzhou is known as one of the eight culinary arts in China, and you will indulge in their elaborate way of cooking. Afterward, your guide will drive you to Tiger Hill, which has a pagoda that sits on the hill’s summit."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Chengdu - Hiking at Mt. Emei",
+      "description": "Today, your private charter will descend into the city of Chengdu, which is known as the land of abundance. Upon your arrival, your private transfer will drive you out to the Wolong National Nature Reserve, where you will have the opportunity to feed and play with baby pandas. As you leave part of your heart behind at the panda reserve, your guide will escort you to Mt. Emei, which is the highest mountain in the area. Kuanzhai Alley is famous for its ability to combine Chengdu’s historical and cultural reserves all in one area. Here, you will explore ancient tea houses as well as the daily lives of Chengdu locals."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Hainan Island - The Hawaii of China",
+      "description": "Known across Asia as the Hawaii of China, Hainan Island is also famous because it is an excellent place to explore or escape the bustle of the mainland. Upon your arrival, your private transfer will escort you to the Yanoda Rainforest, which is known for its serene valleys, waterfalls, and springs. Afterward, your guide will lead you to Tianya Haijiao, which is referred to as the Ends of the Earth. This is a remote area where the Chinese believed Heaven and Earth meet. After your idyllic day of relaxing around Hainan Island, you will be given the remainder of the day to spend at your leisure."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Hong Kong - Michelin-Starred Dim Sum",
+      "description": "The bustling energy of Hong Kong will be evident the minute your plane lands at the Hong Kong International Airport. Upon your arrival, your private transfer will greet you and usher you off to the highly anticipated portion of your trip: the Michelin-starred dim sum restaurant. Afterward, your guide will drive you to Victoria Peak for a gentle walk to the summit. At the top of the peak, you will be offered a spectacular 360-degree view of Hong Kong with all of its neighborhoods. You will then venture to Tsim Sha Tsui promenade. At the main port, you will board a Chinese Junk Boat and sail to Victoria Harbour."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Hong Kong - Departure",
+      "description": "On your final morning in Hong Kong, your guide will lead you to the Tian Tan Buddha or the Big Buddha at Ngong Ping Plateau. The view from the top of the hill is astounding and will take your breath away as you gaze out across the landscape. After you descend the hill by foot or cable car, your guide will direct you to Hong Kong International Airport for your departure home."
+    }
+  ],
+  "map": ""
+}

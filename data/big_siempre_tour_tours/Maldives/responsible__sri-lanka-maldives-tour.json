@@ -1,0 +1,55 @@
+{
+  "destination": "Maldives",
+  "mainPhoto": "",
+  "id": "sri-lanka-maldives-tour",
+  "tourName": "Sri Lanka & Maldives tour",
+  "placesVisited": "Colombo, Negombo, Ancient Cities of Anuradhapura and Polonnaruwa, Ella, Yala National Park, Maldives",
+  "generalInfo": "Fit for a special occasion, this itinerary will take you to the most beautiful places in Sri Lanka with no rush. You will have plenty of time to explore charming fishermen towns, wander around ancient temples and take in the breathtaking views of rolling tea hills. For the ultimate beach break right at the end of your adventure, we will whisk you to a palm-fringed tropical island hidden in the Indian Ocean.",
+  "durationDays": "16",
+  "price": "3199",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Amble along Negombo's Canals: Today you’ll arrive in Negombo, a modest beach town on the palm-fringed west coast, not far from Colombo. During your time in Negombo, you’ll stay in an elegant villa with a swimming pool and gardens. The rest of the day is free for you to do as you please; why not relax by the pool with a good book or take a stroll along the beach. The following day, you can soak up the sights and sounds of the town with your driver. Explore the fascinating colonial history, wander through the vibrant bazaar and watch the fishermen bring in their morning catch at the market. Next, your driver will take you to the ancient city of Anuradhapura. The journey will take around 5 hours."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Temples in Buddha's Garden: From crumbling ruins to majestic elephants, this trip will take you on a discovery of Sri Lanka’s fascinating Cultural Triangle. Your journey will begin by climbing Sigiriya’s mighty rock fortress, before you arrive at Sri Lanka’s ancient capital and UNESCO World Heritage Site, Polonnaruwa, where you’ll feel as if you’ve been transported back in time as you wander, and cycle around the ancient stone city. This ancient capital is also famous for its delightful restaurants, farmers’ markets and numerous food stalls, and you’ll have plenty of time to taste all the local delicacies. You’ll spend 2 nights at a lakeside hotel, where you can relax and take in the beauty of the area."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Explore the Emerald Valleys of Ella: Ella is a peaceful village nestled in the heart of Sri Lanka’s hill-country, with fresh air, some lovely places to eat and a welcoming atmosphere. You’ll travel in a car through the lush countryside, before settling into your cosy hotel for the next couple of nights. All around Ella you’ll find tea plantations, temples, waterfalls and green hills. At Little Adam’s Peak and Ella Rock there are some truly spectacular viewpoints too. You can pack a day-bag and explore this wonderful part of Sri Lanka to your heart’s content, or just find a comfy chair and take it all in with a nice cup of tea. Next, you’ll travel from Ella with your driver by private car to Yala National Park. Along the way, you’ll make a stop at the Udawalawa Elephant Transit Home where injured babies and orphans are cared for. You’ll watch as they impatiently appear at the gates at feeding time and jostle each other for milk."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "The Wild Heart of Yala National Park: Yala National Park is one of the most famous National Parks in Sri Lanka. During this trip, you’ll head out on a jeep safari where you can spot a kaleidoscope of colourful birds, monkeys, crocodiles, buffaloes and of course, elephants. If you’re really lucky, you might even spot a leopard sneaking past, so make sure you have your camera ready! After an exciting day of wildlife spotting, you’ll head back to your simple yet unique accommodation, located on the edge of the park. Your comfortable tent comes equipped with a bed, toilet and sink! In the evening, you can fall asleep to the sounds of the wild- an experience to make your Sri Lanka wildlife trip complete! It’s time to leave the jungle behind and head back to Colombo. We’ll arrange a transfer via the Southern Express Way. The journey should take around 4 hours."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Just One More Thing...in Colombo!: The time has come to dip into the hectic life os Colombo. During this trip, you’ll enjoy a traditional British high tea and spend the night in a stylish hotel in the capital. The city itself probably won’t be the highlight of your holiday, but it’s an interesting and convenient way to end your Sri Lankan adventure if you’re flying early the following day. It’s time to wave goodbye to the tear-drop island and your driver will take you to the airport in time for your international flight to the tropical paradise."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Daydreaming on Coral Island: Top off your Sri Lanka holiday with a slice of tropical paradise in the Maldives. You’ll stay in an eco-hotel right by the beach and from your comfortable, air-conditioned room you can simply step out onto the sands and wade into the turquoise waters around you. We have arranged a guided cycling trip for you to explore the island and there’s nothing else planned for the next few days. Time to kick back, relax and soak up your exotic surroundings."
+    }
+  ],
+  "map": ""
+}

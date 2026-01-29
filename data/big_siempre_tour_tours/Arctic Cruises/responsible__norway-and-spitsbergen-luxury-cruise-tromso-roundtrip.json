@@ -1,0 +1,50 @@
+{
+  "destination": "Arctic Cruises",
+  "mainPhoto": "",
+  "id": "norway-and-spitsbergen-luxury-cruise-tromso-roundtrip",
+  "tourName": "Norway and Spitsbergen luxury cruise,Tromso roundtrip",
+  "placesVisited": "",
+  "generalInfo": "Embark on an extraordinary luxury cruise that takes you on a roundtrip journey to the edge of the Arctic. Departing from the picturesque city of Tromsø, known as the gateway to the Arctic, this eleven-day voyage promises an unforgettable adventure. As you set sail, you'll traverse the stunning Arctic waters, visiting some of the region's most remarkable destinations.<br/><br/>Your first stop is Bear Island, a remote and rugged island teeming with birdlife and dramatic cliffs. Next, you'll venture to Svalbard, an archipelago renowned for its breathtaking glaciers, fjords, and diverse wildlife, including polar bears, reindeer, and Arctic foxes. The journey continues to the majestic North Cape, the northernmost point of mainland Europe, where you'll witness awe-inspiring views of the Arctic Ocean.<br/><br/>Throughout the voyage, you'll have the opportunity to explore the Arctic's striking landscapes, from icy tundras to towering mountains. The cruise offers a range of excursions, allowing you to immerse yourself in the unique environment, whether it's through guided hikes, wildlife spotting, or simply soaking in the serene beauty of the Arctic.<br/><br/>This luxury cruise is designed to provide an enchanting experience, combining comfort and adventure as you discover the wonders of the Arctic. From the vibrant city of Tromsø to the remote wilderness of Svalbard and the iconic North Cape, each destination offers its own unique charm and allure, making this journey truly unforgettable.<br/><br/>Highlights of the cruise includes:<br/><br/>-View nesting Arctic seabirds such as guillemots. razorbills, little auks, fulmars and gulls<br/>-Explore the vast tundra-covered and icy landscapes of the High Arctic<br/>-Watch for polar bears, walruses, ringed seals, and other Arctic mammals as they roam in their natural habitat<br/>-Sail past North Cape, Western Europe's most northerly geographic point<br/>-Navigate through sea ice in the Arctic Ocean, including cruising close to towering tidewater glaciers",
+  "durationDays": "12",
+  "price": "7525",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Pre-cruise hotel stay in Tromso."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Bear Island The greatest bird cliff in the Barents Sea is on Bear Island, or Bjørnøya, Svalbard’s southernmost island. Atlantic puffins, northern gannets, glaucous gulls, great skuas, black-legged kittiwakes, little auks, common guillemots, and Brünnich's guillemots, nest on the steep cliffs near Kapp Kolthoff, south of Sørhamna. The ocean has sculpted sea stack rock columns, sea caves and tunnels, with a notable tunnel at Perleporten."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Svalbard is the kingdom of the polar bears, deep in the Arctic Circle, featuring varied polar landscapes and gargantuan glaciers. Beyond magnificent fjords in the north, the remaining sea ice serves as prime hunting grounds for polar bears. Closer to Longyearbyen, tundra and beaches replace snow and ice. Alongside 600 polar bears, this Arctic hotspot is home to walrus, Svalbard reindeer, ringed seals and arctic fox"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Skarsvag (Nordkapp) and Cruising North Cape Skarsvåg, Europe’s northernmost fishing village on Magerøya Island, is a short journey from Nordkapp (North Cape)—Europe's northernmost point above the Arctic Circle, marked by a striking globe monument. Only Svalbard stands between here and the North Pole. Along the coast, Atlantic puffin colonies and over a million seabirds nest, including arctic skuas, razorbills, northern gannets, white-tailed eagles, common eider ducks and great cormorants. Cruising North Cape North Cape (Nordkapp), the northernmost tip of Europe in Norway, where the Arctic Ocean meets the rugged coast, is a majestic headland that has fascinated explorers for centuries. Cruising to North Cape promises an awe-inspiring encounter with nature's grandeur and a glimpse into the Arctic's captivating allure. In summer, North Cape basks in the ethereal glow of the midnight sun, a surreal phenomenon where the sun never fully sets."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "The Arctic gateway, Tromso at 69 degrees north, is renowned for the midnight sun in summer and the Northern Lights in winter. The Arctic Cathedral, with stained-glass windows, hosts midnight concerts. The Fjellheisen cable car offers panoramic views from Mount Storstei­nen, while the historic centre features old wooden houses. The Polar Museum chronicles early polar explorations, and the thriving Alpine Botanic Garden adds to Tromso's charm."
+    }
+  ],
+  "map": ""
+}

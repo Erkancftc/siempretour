@@ -1,0 +1,65 @@
+{
+  "destination": "Japan",
+  "mainPhoto": "",
+  "id": "japans-spiritual-and-cultural-triangle-tour",
+  "tourName": "Japan's Spiritual and Cultural Triangle Tour",
+  "placesVisited": "Tokyo, Hakone, Kyoto",
+  "generalInfo": "Discover the distinct traditions of Japanese culture and the authenticity of Japanese cuisine on this arresting 8-day tour through the Golden Triangle. Find serenity within the destinations of Tokyo, Hakone, and Kyoto with every step along this remarkable journey. Insight into local lifestyles and idyllic scenes of Japan’s extraordinary countryside and high-octane skylines are yours.",
+  "durationDays": "8",
+  "price": "5,600",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Tokyo - A Cityscape Belonging to the Future",
+      "description": "Few places are as advanced as Tokyo, a cityscape that wears its future-forward vision on its sleeve. With robots that work behind counters and monstrous LED-billboards that fill its dazzling skyline, Tokyo feels like a cityscape lifted from a science-fiction film, and its energy is palpable. You will be swept away by the atmospheric spirit found in every side alley and each buzzing district. Between its popular locales and hidden gems, you will be swept into the atmosphere as you are escorted to your stylish accommodation."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Tokyo - Preserved Japanese Heritage and Culture",
+      "description": "As sprawling as Tokyo’s technological advances are in width and height, there are significant traditional cultural gems tucked away between the soaring skyscrapers that dominate its skyline. With the help of a tour guide, you will discover Japanese heritage with visits to the many sites that dot the vibrant districts. Whether you find yourself admiring the mighty red columns of the Senso-ji temple or meandering the wooded surrounds of the royal Meiji Shinto Shrine, every stop will spiral you deeper into the authentic Japanese culture preserved across Tokyo."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Tokyo - Moments Beneath Cherry Blossoms or Tucking Into Terrific Cuisine",
+      "description": "You will freely explore the sights, sounds, and smells of Tokyo at your own pace, choosing the activities you wish to experience to suit your vacation desires. You may escape to Kamakura's flowered gardens, where you may find peace beneath the gorgeous cherry blossoms peppering manicured park lawns or get lost in the chaos of a buzzing Tokyo fish market where the aromas of sizzling seafood pour across the aisles from beloved vendors preparing authentic Japanese cuisine. However you choose to spend your day, you will be besotted with the ambiance and highlights flecking Tokyo’s mesmerizing neighborhoods."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Hakone - Scenes of Japan’s Marvelous Mount Fuji",
+      "description": "The forested lands of Japan are a marvel to behold, boasting expansive scenes of an unspoiled landscape as far as the eye can see. One such location sits beneath the colossal crest of Mount Fuji, a magnificent mountain. The destination is Hakone, and you will appreciate its unending wilderness allure from the minute you step onto its rolling emerald hills after transferring through the Japanese countryside. Spend your afternoon cherishing vistas of the tranquil Lake Ashi or dipping your body in the thermal springs speckling the volcanic region."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Kyoto - A Charming Zen Buddhist Tea Ceremony",
+      "description": "Today, you will transfer from the luxuriant region of Hakone to the long-established former capital of Japan, Kyoto. Regarded as one of the most bewitching cities across the country, Kyoto is steeped in history and drenched with culture. You will be absorbed the moment you sit comfortably in a local tea house to enjoy an elaborate tea ceremony. Within the confines of the distinctly styled Japanese tea house, your tea artist will prepare one perfect cup of tea in silence for an incredible cultural experience."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Kyoto - Sacred Memories at Kyoto’s Spiritual Sites",
+      "description": "Some of Kyoto’s historic discoveries lie outside the city center in the Japanese countryside. Today, you will escape with your tour guide to uncover the spiritual sites that rest beneath the forest greenery. Starting along the banks of a sparkling serene Kyoko-chi Pond, you will cherish views of the majestic golden walls of Kinkaku-ji temple, a Zen Buddhist construct of grand design. Continuing, arrive at the first of many vermillion gates that lead up the mountain through the extensive Fushimi Inari Taisha grounds."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Kyoto - An Introduction Into Impressive Shodo Writing",
+      "description": "Japanese calligraphy, or Shodo , is an incredible art in itself. The practice requires extensive training and years of practice to master the intricate symbolic representations of the Japanese language. Today, you will learn about the history and try your hand at producing some traditional Shodo art alongside an experienced teacher with a deep understanding of the three stylistic facets of the complex calligraphy system. The experience will be richly rewarding and tremendously insightful, spotlighting the phenomenal cultural distinctions of Japan that set some of its local traditions apart."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Kyoto - Goodbye to the Golden Triangle",
+      "description": "During these eight days spent exploring Japan’s Golden Triangle, you have been immersed in the history and culture that pours over the iconic destinations on the riveting route. You will rise today with a greater understanding of the country’s traditions, cuisine, and heritage, and return home later today with fantastic memories of your experiences through Japan. For now, soak up your final moments of splendor to cherish Kyoto and its spirited atmosphere. Check out of your accommodation and enjoy your transfer to the airport."
+    }
+  ],
+  "map": ""
+}

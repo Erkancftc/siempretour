@@ -1,0 +1,60 @@
+{
+  "destination": "Mongolia",
+  "mainPhoto": "",
+  "id": "naadam-festival-holidays-in-mongolia",
+  "tourName": "Naadam Festival holidays in Mongolia",
+  "placesVisited": "",
+  "generalInfo": "Celebrate the Naadam Festival with the locals as remote Mongolia relives its finest traditions dating from the days of Genghis Khan and his ferocious nomadic warriors. Witness skilful displays of archery and wrestling, and colourful horseracing events during the nation’s most important festival.",
+  "durationDays": "8",
+  "price": "2610",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 2,
+      "title": "Let the festivities commence!.",
+      "description": "Let the festivities commence! It is time to make our way with the crowds to the National Sports Stadium for the spectacular Opening Ceremony. Imagine the fanfare of an Olympic opening ceremony, the national pride of Independence Day and the athletic spectacle of the Commonwealth Games all rolled into one. Taking our place for the procession, we see not only athletes, but monks, officials and local celebrities – it seems that everyone makes their way here. The procession presents a magnificent sight with hundreds of horses with riders dressed in colourful national costumes on parade. The first rounds of wrestling and archery begin."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Naadam Festival.",
+      "description": "Horseracing is the focus on the second day of the festival, out of town on the steppe we go. These races are the domain of the younger children, who compete for the title ‘Tumnii Ekh’ (‘Leader of Ten Thousand’). Join the crowds, who are often as entertaining as the competitors themselves, in cheering the winners and serenading the losers in song!"
+    },
+    {
+      "dayNumber": 4,
+      "title": "Naadam Festival and to Bayangobi.",
+      "description": "Naadam festivities continue outside of the city. This morning we make our way to the Khui Doloon Khudag Valley for the Horse Trainers Festival before continuing to the serenity and unique landscapes of the Bayangobi."
+    },
+    {
+      "dayNumber": 5,
+      "title": "To Kharkhorin.",
+      "description": "We continue across the steppe to Kharkhorin, the capital of Mongolia in the 13th century during the reign of the infamous Genghis Khan. Little remains of over 100 temples with many destroyed during the Soviet era. However, Erdene Zuu Monastery, built in 1856, the largest and first Buddhist centre in the country is what we have come to visit. Most remarkably it retains most of its former glory and treasures."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Khutsai National Park.",
+      "description": "From Kharkhorin we travel to Khustai National Park where Prezwalski horses, known locally as ‘Takhi’, were introduced after previously becoming extinct in their native habitat. We stay in a ger – traditional Mongolian felt tents, with plenty of time to relax and learn more about the lifestyle of Mongolia’s nomadic peoples."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Return to Ulaanbaatar.",
+      "description": "Making our way back to the bright lights of the city where life is slowly returning to normal after the most important festivities of the year, we stop en route to take in the incredible panoramic views of the city at Zaisan Memorial after mingling with monks at Gandaan Khiid, the country’s largest remaining monastery. Here our fascinating journey concludes."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Ulaanbaatar.",
+      "description": "Our adventure has drawn to a close. Say farewell to your travelling companions and tour leader before departing your hotel this morning."
+    }
+  ],
+  "map": ""
+}

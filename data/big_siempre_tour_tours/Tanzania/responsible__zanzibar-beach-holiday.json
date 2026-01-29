@@ -1,0 +1,40 @@
+{
+  "destination": "Tanzania",
+  "mainPhoto": "",
+  "id": "zanzibar-beach-holiday",
+  "tourName": "Zanzibar beach holiday",
+  "placesVisited": "",
+  "generalInfo": "The paradise islands of Zanzibar provide the perfect setting to get away from it all and relax. Explore the UNESCO World Heritage Site of Stone Town after your trek or safari and discover the buzzing markets and distinctive architecture. Transfer to the beach via a local Spice Plantation with a guided tour and enjoy a local lunch. Soak up the sun, sea and sand as you relax in style. You can add the Zanzibar extension onto any Tanzanian experience and our travel specialists can tailor-make your itinerary to suit you!",
+  "durationDays": "7",
+  "price": "3850",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Stone Town - Welcome to Zanzibar! You will be met at the airport (ZNZ) after your domestic flight with a Wayfairer welcome sign and we transfer you to your hotel in Stone Town. Depending on your arrival time you can go out and explore the town and sample the culinary delights of the Spice Island at your leisure. Overnight: Stone Town, Zanzibar Meals: (_/_/_)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Zanzibar Beaches - leave your hotel after breakfast and we drive to a local Spice Plantation where you take a guided tour and breathe in the exotic aromas. Enjoy a local lunch prepared for you at the end of your Spice Plantation tour and revel in your surroundings. This experience is also available in a luxury accommodation style where you will have an all-inclusive stay in a premier beach resort by the sea. Overnight: Zanzibar, Meals: (Breakfast/Lunch/_)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Today is your departure day and after breakfast we transfer you back to the airport for you return flight. Many travellers will be flying back to London from Nairobi and there are direct flights routes from Zanzibar to Nairobi. Meals: (Breakfast/_/_)"
+    }
+  ],
+  "map": ""
+}

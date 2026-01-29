@@ -1,0 +1,55 @@
+{
+  "destination": "Chile",
+  "mainPhoto": "",
+  "id": "sea-kayaking-tour-in-northern-patagonia",
+  "tourName": "Sea kayaking tour in Northern Patagonia",
+  "placesVisited": "",
+  "generalInfo": "Embark on an unforgettable 4-day sea kayaking adventure in the stunning Pumalín National Park, a vast conservation area in Chile’s Los Lagos and Aysén regions. Established in 2018 by conservationist Douglas Tompkins, the park was created to preserve the breath-taking wilderness of northern Patagonia.<br/><br/>This guided, self-supported kayak expedition takes you through the heart of the park along the turquoise waters of the Comau Fjord, offering unparalleled views of the richly biodiverse Valdivian temperate rainforest, cascading waterfalls, and lush coastal landscapes.<br/><br/>As you paddle, you’ll be immersed in a vibrant ecosystem. Overhead, you might spot cormorants, kelp gulls, southern lapwings, buzzard eagles, and chimango caracaras soaring through the sky. The waters are home to playful sea otters, sleek dolphins, and majestic sea lions, while the coastal forests shelter elusive species such as foxes, the rare pudú deer, huemul, and even the occasional puma.<br/><br/>The Valdivian rainforest pulses with life. Listen for the rhythmic drumming of the Magellanic woodpecker, the croaks of frogs, and the sharp calls of the Chucao Tapaculo, a small bird often seen hopping in the lower branches. Keep an eye out for the dazzling Green-backed Firecrown hummingbird, which flits at the forest's edge in search of nectar.<br/><br/>This expedition offers a unique opportunity to connect with the pristine beauty of Patagonia, combining adventure and wildlife exploration in one of Chile's most remarkable national parks.",
+  "durationDays": "6",
+  "price": "1600",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Pick up from airport/hotel in Puerto Montt, drive to Puerto Varas, (B) On your arrival at the airport or hotel in Puerto Montt, you will be met and transferred to your accommodation in Puerto Varas. Puerto Varas, a charming town with strong German colonial heritage, was established in the 1850s by German immigrants. Situated on the shores of Lake Llanquihue, the town offers stunning scenery, sandy beaches, and an array of water sports, including rowing, sailing, and swimming. Take time to explore the town’s distinctive German-style architecture, characterized by houses of hard-wearing, water-resistant Alerce Andino wood. Don’t miss the Sacred Heart of Jesus Church, an iconic landmark built between 1915 and 1918, located on a hill in the town center"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "First day of Kayak, (B,L,D) Your adventure starts today! After an early pickup from your hotel in Puerto Varas, we travel to Hornopirén and cross to Llancahue Island. Following a hearty lunch, we spend 2-3 hours practicing sea kayaking, familiarizing ourselves with the equipment, and preparing for the days ahead. The day concludes with loading the kayaks for tomorrow, relaxing in the hotel’s thermal pools, and enjoying a pisco sour and a delicious dinner. Distance: 10 km kayaking Accommodation: Simple hotel"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Full day Kayak (B,L,D) After breakfast, we set off on our kayaking journey early so we beat the midday winds. Today’s route takes us from Llancahue Island southeast to Quintupeu Fjord. Marvel at the dramatic cliffs where the Andes meet the Pacific Ocean. After a beachside lunch—with the option to shower under a waterfall—we continue paddling to the end of the fjord’, where we set up camp and prepare dinner. Then it’s time to rest up for the next day’s adventure! Distance: 20-25 km kayaking Accommodation: Camping"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Full day kayak, camp (B,L,D) We start before sunrise to make the most of favourable tidal conditions on the most challenging day of the trip. With snacks on hand, we paddle into Cahuelmó Fjord, timing our entry to avoid strong winds and take advantage of the tidal flow. When we reach Cahuelmó River and the famous hot springs, we’ll have time to relax our muscles before setting up camp in a forested area and enjoying dinner. Distance: 20-25 km kayaking Accommodation: Camping"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Final day Kayak, return Puerto Varas (B,L) Following breakfast and a last visit to the hot springs, we pack up and paddle towards a nearby sea lion colony. At the mouth of the estuary, we meet the support boat to load the kayaks before heading back to Hornopirén for lunch in the village. The journey concludes with a transfer back to Puerto Varas, where we arrive around 7:00 PM. Distance: 10 km kayaking Accommodation: Hotel in Puerto Varas"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Tour Ends, or add walking, cycling. (B) Our tour concludes today. You can either depart or extend your adventure with additional walking or cycling excursions."
+    }
+  ],
+  "map": ""
+}

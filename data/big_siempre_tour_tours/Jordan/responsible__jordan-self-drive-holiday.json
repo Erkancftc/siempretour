@@ -1,0 +1,75 @@
+{
+  "destination": "Jordan",
+  "mainPhoto": "",
+  "id": "jordan-self-drive-holiday",
+  "tourName": "Jordan self drive holiday",
+  "placesVisited": "Amman, Jerash, Madaba, Mount Nebo, Dead Sea, Karak Crusaders castle, Petra, Wadi Araba desert, Aqaba and Red Sea, Wadi Rum desert with jeep tour",
+  "generalInfo": "This 10-day fly-drive trip offers the perfect opportunity for independent travellers to explore Jordan – whether travelling solo, as a couple or a family. Your rental car and hotels are booked for you in advance – but the actual journey you choose to take through this wonderful country is up to you. The package includes a suggested itinerary covering Jordan's most famous sights – though you can play with it how you wish. And for any questions while travelling, we are just a phone call away!<br/><br/>In the capital Amman, you could visit the historic Citadel and Roman Theatre before driving to the wonderfully-preserved old Roman city of Jerash. Other suggested sites include the St George Church at Madaba, Mount Nebo from where Moses glimpsed the Promised Land, and the imposing  Crusader castle at Karak. Your itinerary also allows two days to explore the majestic rose-red ruins of Petra, the ancient desert capital that is Jordan's most celebrated sight. <br/><br/>A visit to the richly storied Wadi Rum - described by Lawrence of Arabia as a \"vast, echoing and moon like landscape\" includes the chance to enjoy a half day jeep tour of its dramatic sandstone landscape, before an overnight stay with dinner at a Bedouin camp. <br/><br/>Following some chill out time by the Red Sea at Aqaba, cross the Wadi Araba desert to the Dead Sea - the lowest point on the earth’s surface where you can drift in its famous salty waters and look back at a truly memorable road trip.",
+  "durationDays": "10",
+  "price": "1310",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "QAI Airport – Amman Arrival at Amman Queen Alia International airport, our English speaking driver will wait for you in the arrival hall, holding a name sign. You will be transferred to the hotel in Amman with our English speaking drive to your hotel. Overnight in 3* hotel in Amman, including bed and breakfast."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Amman – Jerash – Ajlune – Amman About 09.00 Am our car representative will meet you at lobby bringing you the car / van. After you can start your tour from here, you will make a city tour in Amman to visit the Citadel and the Roman Theater. After the city tour you’ll drive towards the old Roman city Jerash. One of the best preserved Roman provincial cities. After a visit to Jerash there is time to visit the Castle of Ajlun. Overnight stay in Hotel in 3* hotel in Amman. Breakfast included"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Amman – Madaba – Mt. Nebo – Kerak – Petra From Amman you drive towards Mount Nebo, the place where Moses viewed the Promised Land but never reached it. From Mt. Nebo you drive to the St. George Church in Madaba with its famous mosaic map. On the way to Petra, you’ll also visit the impressive Karak Crusaders Castle, then drive toward Petra. Overnight in 3* hotel in Petra. Breakfast included."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Petra Full day to explore one of the seven world wonders. A private English-speaking guide from the Visitor Center for the 2-3 hours city tour would be: 50 JOD (total, not per person). After your visit to the Siq, Treasury, Street of Facades, Theater and Colonnaded Street you still have time to see: the Monastery or the High Place of Sacrifice. It is a lot of climbing, but worth the views! Overnight stay at the 3* Hotel in Petra"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Petra Second day in Petra to visit the monuments you didn’t visit yesterday! Think about the Royal Tombs, or visit the Monastery if you did not do that the day before. Take the chance to pamper yourself in the Turkish Bath when you are staying In Petra. Overnight stay in the 3* hotel in Petra"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Petra—Wadi Rum This morning you drive from Petra towards the famous Wadi Rum desert. Feel like T.E. Lawrence in the breathtaking scenery of the Rum. In the desert you’ll make a half day jeep tour along the most famous sites in Wadi Rum including lunch. Overnight stay in the Bedouin camp including dinner and breakfast."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Wadi Rum—Aqaba In the morning you drive from Wadi Rum to Aqaba and the Red Sea. Today you have a day of relaxing on the beach, optional you can do some snorkeling, scuba diving or one of the many other available water sports. Overnight stay in 3* Hotel in Aqaba. Breakfast included."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Aqaba Wake up on at the Red Sea Waters. Second day of relaxing on the beach, optional you can do some snorkeling, scuba diving or one of the many other available water sports. Overnight stay in 3* hotel in Aqaba. Breakfast included."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Aqaba – Dead Sea—Madaba After you breakfast you’ll drive via the Wadi Araba desert to the Dead Sea, lowest point on the earth’s surface. You can access the Dead Sea via a hotel , or the local Amman Beach. You are able to have lunch at the Dead Sea. Float in the salty waters and try out the famous mud. Late afternoon continue to the 3* hotel in Madaba for overnight. Tonight in Madaba you will hand over the car to the representative."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Madaba—Amman You’re time in Jordan is running to an end.. Transfer with our driver from Madaba to Queen Alia International Airport Amman to hand over the car and depart to your home country."
+    }
+  ],
+  "map": ""
+}

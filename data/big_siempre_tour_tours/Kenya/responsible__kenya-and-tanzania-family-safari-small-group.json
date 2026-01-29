@@ -1,0 +1,65 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "kenya-and-tanzania-family-safari-small-group",
+  "tourName": "Kenya and Tanzania family safari, small group",
+  "placesVisited": "Nairobi, Kisii, Great Rift Valley, Lake Victoria, Serengeti National Park, Ngorongoro Conservation area, Meserani, Mto wa Mbu craft market, black rhino, lion, leopard, elephant and hippo country",
+  "generalInfo": "This week-long family safari to Kenya and Tanzania serves up landscapes shaped by ancient volcanic forces, starting with the Rift Valley and Lake Victoria and finishing off with the Serengeti and Ngorongoro Conservation area. <br/><br/>All the parks offer a different flavour of East Africa. The Ngorongoro cradles over 30,000 animals in its giant volcanic crater. And the vertiginous Great Rift Valley staggers down to a river that reels in flocks of flamingos. Meanwhile, any grumbling about the early morning game drives at Serengeti National Park can be assuaged with the possibility of spotting a pride of lions – from a hot air balloon.<br/><br/>This is a small group safari, so you’ll be exploring Kenya and Tanzania with other families and an expert guide who’ll put you in touch with both the wildlife and communities that live in these wild vistas.",
+  "durationDays": "8",
+  "price": "1840",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Nairobi.",
+      "description": "Jambo! Welcome to Kenya. Your adventure begins in Nairobi with a welcome meeting at 5 pm tonight. If you and your family arrive early, maybe visit the National Museum of Kenya, explore Bomas of Kenya where traditional homesteads of several Kenyan tribes are displayed in an outdoor village, or head to the David Sheldricks Elephant Orphanage and the Giraffe Centre. These conservation projects allow you to see the animals up close while learning more about them and their plight in the modern world. After your meeting, maybe get to know the other families over dinner at a local restaurant."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Arusha.",
+      "description": "This morning, you’ll drive across the border to Arusha. Today is a bit of a long travel day, so it's a good idea to get stuck into your book or favourite podcasts. Located at the base of volcanic Mt Meru, Arusha is the gateway to safari destinations and to Africa's highest peak – the 5895 m Mt Kilimanjaro, lying about 100 km northeast. When you arrive, the rest of the day is free for you and your family to relax – maybe go for a swim in the nearby pool."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Karatu.",
+      "description": "Today, you and your family will spend the day with some local Mamas (the name for female artisans in Tanzania). First, the women will teach you how to prepare a local Swahili dish for lunch. After eating your creations, you’ll get the chance to take a closer look into their lives. With help from a translator, the women will lead smaller groups around their village. Visit their homes and see how a traditional boma (small hut made of mud and cow dung) is set up. You’ll also get to meet their families and learn about Maasai culture. Later, drive to the small town of Karatu - the gateway to the Ngorongoro Crater – where you’ll stay tonight."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Serengeti National Park .",
+      "description": "Travel from Karatu to the gate of Serengeti National Park this morning. After a picnic lunch at the entrance, you’ll enter the Serengeti and set off on a game drive to your campsite – be sure to look for your favourite safari animals along the way! The vast plains of the Serengeti – green after the rains, brown and burnt in the dry season – are home to thousands of hoofed animals and fierce predators. Flat and rolling, with long grass and acacia trees, these plains get their name from the Maasai word siringet (the place where the land moves on forever). Your campsite is right in the action, within the park itself, so listen out for the sounds of nocturnal animals as you drift off to sleep."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Serengeti National Park .",
+      "description": "Start the day with a game drive at dawn. You’ll head out while the animals are at their most active, then head back to camp for brunch later in the afternoon. As you drive, be sure to look for lions, elephants, cheetahs and all your favourites from the Lion King! After spending the warmer part of the day relaxing, as the animals do, set off at dusk for another adventure in the wild before returning in time for dinner. There's also the option of a balloon ride over the park today, which makes for an excellent family activity. If you have pre-booked this activity, you’ll be picked up before dawn and driven to the launch site. After a safety briefing, you will glide through the sunrise, sometimes at tree height, which provides amazing photo opportunities. Sometimes you will ascend, getting an overview of the enormity of the plains and the early morning movements of the teeming herds. After landing, you'll be treated to a five-star bush breakfast, before returning to your camp."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Ngorongoro Conservation Area - Karatu.",
+      "description": "This morning, buckle up and set out on another game drive. After lunch you and your family will enter the Ngorongoro Conservation area. Ngorongoro is a gigantic volcanic crater and is home to some 30,000 animals. Among these are endangered black rhinos, lions, leopards, elephants, impalas, zebras and hippos. The crater floor offers excellent game viewing all year round, and a perfect photo opportunity. Then, jump in a 4WD and head into the crater itself for a couple hours where the kids (and adults!) can enjoy spotting the animals. Leaving the park you’ll travel to Karatu - your overnight stop were the kids can swim in the campsite pool."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Mto Wa Mbu.",
+      "description": "After breakfast, take a short drive to Mto Wa Mbu. When you arrive, join the local community for a guided afternoon stroll around the farming areas, milling machine and local homes. Learn about their culture and way of life, then sit down to a traditional meal. This afternoon is free for you and your family to maybe relax around the campsite or have a swim in the pool."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Nairobi.",
+      "description": "Setting off early this morning, you’ll travel across the to Nairobi. When you arrive later today, your adventure comes to an end. If you’d like to spend longer in Nairobi – and it’s recommended you do – just speak to your booking agent ahead of time."
+    }
+  ],
+  "map": ""
+}

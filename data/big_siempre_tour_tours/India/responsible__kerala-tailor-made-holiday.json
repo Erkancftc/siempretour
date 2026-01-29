@@ -1,0 +1,75 @@
+{
+  "destination": "India",
+  "mainPhoto": "",
+  "id": "kerala-tailor-made-holiday",
+  "tourName": "Kerala tailor made holiday",
+  "placesVisited": "Kovalam beach, Historic lagoon city of Cochin, Cardamom Hills tea plantation, Spice and coffee plantations, Lake Periyar - elephants and bird life, Kumarakom resort, River cruise, Distinctive local cuisine",
+  "generalInfo": "Kerala is one of India's most beguiling regions, set between the Arabian Sea and the uplands of the Western Ghats, traversed by over forty tranquil emerald-green rivers lined with colourful villages. It's a laidback place too, whose countless palm trees – Kerala means 'land of coconuts' – provide cooling shade from the tropical sun. <br/><br/>Kerala has one of India's loveliest shorelines, including the glorious beach at Kovalam plus the delightful city of Cochin, perched on a saltwater lagoon. Visit its 16th century Church of St. Francis, Paradesi Synagogue and Mattancherry Palace. <br/><br/>Heading inland and upward, you reach the picturesque town of Munnar for an overnight stay amid the tea plantations of the lush Cardamom Hills. Driving on to Periyar, you pass through pepper and coffee plantations before an afternoon boat trip on Lake Periyar - a beacon for birdlife (herons, hornbills and egrets) as well as hundreds of elephants. <br/><br/>After a day relaxing in the resort at Kumarakom, end the trip with a full-day cruise on a private houseboat (kettuvallom) along a palm-fringed backwater, with pauses ashore to visit local temples and other attractions. There will also be ample chance to enjoy a local cuisine inspired by  influences from a rich trading past, from Syria to Portugal. Crab and coconut are classic Keralan ingredients, while karimeen is a delicious river fish traditionally served marinated in lemon juice and red chillies then baked in plantain leaves.",
+  "durationDays": "10",
+  "price": "1200",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Morning arrival in Cochin. Our executive will meet you and take you to your hotel. Rest of day at leisure."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Cochin. We explore the old city this morning, visiting the 16th century Church of St. Francis, the Paradesi Synagogue in the heart of Cochin’s Jewish Town, the Mattancherry Palace, and the enormous cantilevered Chinese fishing nets characteristic of the Kerala coast. Afternoon free."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Cardamom Hills. Today we drive inland and up the winding roads to the picturesque town of Munnar, located amongst tea plantations in the Cardamom Hills at 5.906ft. We spend the afternoon in this delightful spot and stay overnight at the resort."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "To Periyar. This morning we drive down from the hills and continue through coffee and pepper plantations to Periyar, where we stay at a resort. Afternoon boat trip on Lake Periyar, a haven for birdlife, including herons, hornbills and egrets. There are also approximately 800 elephants in the Periyar Reserve, and we hope to see some at the water’s edge."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Spice Plantation. This morning we will have fascinating visit to a small spice plantation, where we will learn about the many uses of the spices, both in medicine and local cuisine. The rest of the day is at leisure."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "To Kumarakom. This morning we journey by road to Kumarakom, where we take a short boat ride. Overnight at the resort"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "A full day at leisure."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Houseboat cruise. After breakfast we board our private houseboats or ‘kettuvalloms’ for a memorable day of cruising through the peaceful palm-fringed backwaters of Kerala, passing local farming and fishing communities along the banks of the narrow canals. Each houseboat has two comfortable twin bedrooms with ensuite facilities. We spend overnight on board. Please note that each houseboat has a variable number of twin bedrooms with ensuite facilities. There is a large open-sided sitting area where meals, using local fish and vegetables (prepared on board) are served. Your houseboat is fully staffed, with a captain, his mate and a butler, who will accompany you on land for short excursions to local churches, temples and other attractions."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Return to Cochin. In the morning disembark at Alleppey and drive back to Cochin for an afternoon and overnight hotel."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Depart Cochin."
+    }
+  ],
+  "map": ""
+}

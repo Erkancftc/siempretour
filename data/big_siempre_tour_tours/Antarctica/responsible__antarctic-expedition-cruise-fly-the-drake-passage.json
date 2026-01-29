@@ -1,0 +1,50 @@
+{
+  "destination": "Antarctica",
+  "mainPhoto": "",
+  "id": "antarctic-expedition-cruise-fly-the-drake-passage",
+  "tourName": "Antarctic expedition cruise, fly the Drake passage",
+  "placesVisited": "Punta Arenas, fly over Drake Passage, King George Island, Fildes Bay, South Shetland Islands, Antarctic Peninsula, Cierva Cove, Port Lockroy, Petermann Island, Paradise Bay, Lemaire Channel, Prospect, Fish Islands, attempt to cross the Polar Circle - weather permitting, Optional sea kayaking",
+  "generalInfo": "This ten day Antarctica trip invites travellers to fly over Cape Horn in southern Chile's Tierra del Fuego archipelago prior to bypassing the shudders of Drake Passage before finally coming to rest on King George Island, part of the South Shetlands.<br/><br/>Now your Antarctica trip can really start in earnest as you cruise through the icy fjords and creaking icebergs on board an 118 passenger expedition ship, one of the few vessels in the world equipped to deal with remote regions of both the north and south poles.<br/><br/>This is an active Antarctic expedition that’s as much about penguins, seals and whales as it is about experiencing life in the wildest and least hospitable continent on the planet, Antarctica.<br/><br/>The efficiency that flying over Drake Passage from Punta Arenas brings allows more time to be spent exploring and attempting to cross the Polar Circle on an unforgettable trip of a lifetime.",
+  "durationDays": "8",
+  "price": "22945",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Punta Arenas Arrival Arrive in Punta Arenas before 2:00 pm, where you will be welcomed by the Antarctica21 staff and transferred to your hotel. Today, you will have a mandatory briefing with important trip information. In the evening, enjoy dinner of typical Chilean food with your fellow adventurers."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Flight to Antarctica Begin your adventure with a scheduled two-hour flight from Punta Arenas to King George Island in Antarctica. Upon landing the clear Antarctic air will fill your lungs. You then walk 2-km (1.25-mi), passing Chile’s Frei Station and Russia’s Bellingshausen Station, to reach the shore and board a Zodiac that will take you to your boutique expedition vessel."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Exploring Antarctica Cruise between the South Shetland Islands and the western coast of the Antarctic Peninsula, sailing among the spectacular landscapes Antarctica offers. Each day, you disembark by Zodiac and explore the continent with our expert guides. On board, you will enjoy educational programs and presentations. No journey is the same and flexibility is key to success in Antarctica."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Return Flight to Punta Arenas Return to King George Island and bid farewell to Antarctica before boarding your flight back to Punta Arenas. Upon arrival from the 7th continent, transfer to your hotel for the night and enjoy an evening at your own leisure."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "End of Air-Cruise Today, your air-cruise officially ends. After breakfast, transfer to the Punta Arenas airport for your onward flight."
+    }
+  ],
+  "map": ""
+}

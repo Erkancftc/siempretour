@@ -1,0 +1,70 @@
+{
+  "destination": "India",
+  "mainPhoto": "",
+  "id": "south-india-holiday-small-group",
+  "tourName": "South India holiday, small group",
+  "placesVisited": "Kochi, Munnar, Periyar National Park and Tiger Reserve, Kochi, Kerala backwaters cruise, Kumarakom, Kovalam",
+  "generalInfo": "This comfortable, small group tour introduces you to South India’s highlights as you travel from Kochi, on the west coast, to Kovalam Beach on the southern tip. Head into the mountains to Munnar, which sits among rolling hills of tea plantations, then along the coast until you hit your beach resort.<br/><br/>As well as the sights, this South India holiday enables you to get up close to some of the region’s smaller details: markets and bazaars, and performances of martial arts and Kathakali dance. Aside from the culture of this colourful region, there is plenty of nature to explore. <br/><br/>In the Western Ghats, Periyar National Park shelters elephants, gaur and elusive tigers; nature walks here with expert guides may reveal fresh tracks. And a cruise along Kerala’s backwaters a Kumarakom introduces you to local villagers working in the rice fields, as you meander between palm trees and islands. <br/><br/>You’ll make a difference to communities you visit on this trip, patronising restaurant that gives local women employment, and visiting an NGO that is working to remove plastic from the ocean. This trip is the perfect balance between key sights and roads less trodden, in India’s lush, tropical south. <br/>",
+  "durationDays": "9",
+  "price": "1270",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Kochi .",
+      "description": "Namaste! Welcome to Kochi (also known as Cochin). This port city on the southwestern coast of India has been a vibrant hub since 1341, shaped by the historic interactions with traders from Portugal, China and Britain. When you arrive at the airport, you’ll be collected and brought to your hotel. Your adventure then begins with a welcome meeting at 6 pm, where you’ll meet your leader and fellow travellers. Perhaps get to know your group a little better over an optional dinner tonight."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Kochi .",
+      "description": "Begin your day with a tour of Kochi with your leader, exploring the city before heading to Fort Kochi on the coast. Look out for evidence of different cultures on Indian soil, like Santa Cruz Basilica, one of the country’s oldest Catholic Churches, and St. Francis Church, believed to be the first Church built by the Europeans. Explore the remnants of Portuguese influence at Mattancherry Palace, originally constructed in the 16th century and later renovated by the Dutch. Visit the oldest functioning Jewish synagogue nearby with insights from your guide, followed by a performance of Kathakali – a traditional form of dance based on Hindu legends that puts costume and colour centre stage. It can take students over a decade to perfect the movements necessary to perform the artform, so prepare to be impressed."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Munnar .",
+      "description": "Today, journey west to Munnar – a picturesque town sitting among the mountains. Tea enthusiasts will find Munnar particularly fascinating for its integral connection to the beverage. Learn more about this on a visit to the Tea Museum, an institution that recalls the history of the plantations. This evening is free to spend as you wish – consider utilising your leader’s local knowledge by asking for recommendations on dining and activities."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Munnar .",
+      "description": "Armed with your new insights into Munnar’s tea industry, you’ll begin your day with a visit to a viewpoint overlooking a tea plantation, where you can admire the rolling hills of vibrant tea bushes and the harmony between human cultivation and the natural world. After, take in the scenery from a different angle during a boat ride on Mattupetty Dam – a reservoir that often attracts wild elephants and bison. Finish your group outing at Echo Point Hill for the best view of the dam before enjoying a free evening to unwind."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Periyar .",
+      "description": "This morning travel to Periyar, renowned for cultivating a wide range of spices. Dive deeper into this trade at the local spice plantation, where you’ll learn about the region’s diverse plant life, spices, herbs, fruits and flowers and their significance in Ayurvedic medicine. You can also enjoy an optional lunch here, where you’ll get to try the fresh spices. Later, watch a demonstration of Indian martial arts (kalarippayattu) widely believed to be the oldest surviving martial art in the world. After, continue your journey south to Periyar."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Periyar .",
+      "description": "Explore the heart of Periyar by beginning your day with a guided walk of its National Park and Wildlife Sanctuary. This protected habitat sits within the Western Ghats so enjoy the view while searching for wild tigers and elephants. The afternoon is yours to explore – perhaps opt for an Ayurveda massage to soothe your body post jungle trek. In the evening, learn about Kerala cuisine at a cooking class and then enjoy your home-cooked meal with your group, discovering the flavours that define Kerala food."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Kumarakom .",
+      "description": "Visit the renowned Kerala Backwaters with your group this morning – a serene set of lakes, canals and lagoons. After, immerse yourself in nature with a guided walk in Kumarakom. Located on the shores of Vembanad Lake, Kumarakom is teeming with diverse fish and bird species. Set sail on the backwaters and experience the sunset aboard. Finish your day with a group dinner at a restaurant that provides employment and training to local women, where you might try traditional dishes like fish curry, meen pollichathu (fish marinated with spices and wrapped in banana leaves) and avial (a vegetable dish with coconut)."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Kovalam.",
+      "description": "This morning, continue your journey further south to Kovalam. Once a quiet coastal village known for exporting fresh fish and coconuts, Kovalam has transformed into one of India’s beloved beach resorts. In the afternoon, visit Positive Change for Marine Life – an NGO and our Foundation partner collaborating with locals to reduce plastic use. Maybe gather your group for a farewell meal together tonight – the local cuisine is known for its use of coconuts, curry leaves and fresh seafood, so dig in while you have the chance."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Departure .",
+      "description": "Your trip comes to an end after breakfast and you’re free to leave the accommodation at any time."
+    }
+  ],
+  "map": ""
+}

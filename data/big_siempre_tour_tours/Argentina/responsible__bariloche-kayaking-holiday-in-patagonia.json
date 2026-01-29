@@ -1,0 +1,45 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "bariloche-kayaking-holiday-in-patagonia",
+  "tourName": "Bariloche kayaking holiday in Patagonia",
+  "placesVisited": "Bariloche, Llao-Llao Nature Park hiking excursion, Kayaking on Lake Mascardi",
+  "generalInfo": "On this Bariloche kayaking holiday you’ll make for Patagonia and Argentina’s famous Lake District, where heart-pumping hiking trails, stunning lakes and some of the best chocolate on the continent are all on offer. You’ll be based in Bariloche, which is known for its Switzerland-inspired Alpine architecture, dramatic lakeside setting and excellent chocolate shops. <br/><br/>After a day exploring the town at leisure, it’s time to get active with a hike through the forests and hills of Llao-Llao Nature Park, a route which affords incredible views over the region’s lakes. The next day is spent kayaking on Lake Mascardi, one of the prettiest lakes in Nahuel Huapi National Park. While you work up a sweat, you’ll have turquoise waters, thick forest and soaring mountains as a backdrop. <br/><br/>",
+  "durationDays": "4",
+  "price": "1590",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Bariloche - Patagonia - Upon arrival you will be transferred to your hotel (shared service) and have the afternoon at leisure. You can explore the Swiss-like town plaza, try some of the delicious, locally made chocolates or walk along the lake and take in the beautiful views of the national park."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Bariloche History & Nature with Trekking - In the morning you will be picked up from your hotel (semi-private service) to begin exploring the highlights of San Carlos de Bariloche. This excursion goes along the most classic circuit of San Carlos de Bariloche combined with a 3,30 hours hike at Llao-Llao Nature Park. During the tour, the guide will explain the story of Bariloche and it’s surrounding natural environment. We also do the classic stops at Punto Panorámico and San Eduardo’s Church to enjoy views of Llao-Llao Hotel and Mount Tronador. The hike ascend to the Mount Llao-Llao and goes through the impressive Patagonian forest with fantastic views of Lake Escondido, Lake Moreno, Blest and Tristeza branches of Lake Nahuel Huapi and Mounts Lopez and Capilla. In the evening you will return to your hotel."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Kayaking in Lake Mascardi - Full-day - Today you will leave on an exciment tour .This is a very active kayaking day visiting one of the most beautiful lakes of Nahuel Huapi National Park. Starting in the morning by taking the Rute 40 South to Lake Mascardi. After entering on the National Park we continue to Camping Los Rápidos to start our kayaking trip. We paddle on Tronador Branch of Lake Mascardi at the heart of the Park. The turquoise color waters, evergreen forest and the amazing views of Tronador and Bonete Mountains, create this unique and dramatic landscape. We look for a remote beach to stop and have lunch. Back on the kayaks we paddle back. After the activity we will return to the hotel."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Bariloche -Breakfast. At appropriate time, you will be transferred to the airport or bus terminal. Today, you can choose to extend your travels purchasing any of our available offers in the rest of Patagonia, Buenos Aires or the Mendoza area."
+    }
+  ],
+  "map": ""
+}

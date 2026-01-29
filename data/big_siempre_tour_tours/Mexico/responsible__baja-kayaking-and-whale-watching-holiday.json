@@ -1,0 +1,65 @@
+{
+  "destination": "Mexico",
+  "mainPhoto": "",
+  "id": "baja-kayaking-and-whale-watching-holiday",
+  "tourName": "Baja kayaking and whale watching holiday",
+  "placesVisited": "",
+  "generalInfo": "Come face-to-face with magnificent gray whales before kayaking through Loreto Bay National Marine Park on this week-long itinerary in Baja California Sur. This active itinerary celebrates two of the peninsula’s top wildlife activities, with a combination of hotel stays and nights spent under the stars at blissfully remote beachside camps.  <br/> <br/>Magdalena Bay is an important calving lagoon for gray whales, with its sheltered waters framed by a barrier of desert islands. Its mangrove-lined estuaries provide a habitat for a variety of bird species, as well as uniquely adapted desert plants. January through March is the best time to observe gray whales in the area, following their 5,000+ mile migration from the Bering Strait.  <br/> <br/>After witnessing these magnificent animals breach and fluke from the comfort of our exclusive whale camp, we’ll cross the Baja Peninsula to paddle alongside dolphins and blue whales in the Sea of Cortez. Loreto Bay National Marine Park also provides a sanctuary for blue-footed boobies, fin whales, and sea lions, making it an inspiring destination for wildlife lovers.<br/><br/>*All activities are led by naturalist guides who have a wealth of knowledge about the local area. While we do our best to adhere to the schedule, changes may occur due to weather conditions and in some cases, the kayaking portion of the itinerary may precede the whale watching. Although there is a very good chance that you will see whales during the trip, the frequency and proximity cannot be guaranteed as this is determined by the animals themselves.",
+  "durationDays": "6",
+  "price": "3390",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 0,
+      "title": "",
+      "description": "Arrive in Loreto - After flying into Loreto, make your way to the hotel (not included) and spend the afternoon touring the historic center of town. Visit the famous mission and soak up the sights, sounds, and smells of the local market before feasting on Mexican cuisine over dinner. In the evening, you’ll meet your guides in the lobby of the Oasis Hotel for an orientation meeting."
+    },
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Magdalena Bay - Today begins early with a two-hour drive to Puerto Lopez Mateos, the starting point for our whale-watching excursion in Magdalena Bay. A skiff will transport you to Santo Domingo Island where our camp is located and on arrival, you’ll have time to settle into your tent (pre-assembled) before lunch is served. In the afternoon, your guides will take you on a hike across the dunes to the Pacific Ocean before returning to the camp in time for happy hour. Accommodations: Whale Camp. Meals Included: Lunch, Dinner."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Magdalena Bay - Wake to the sounds of birds calling as you rise from your tent to enjoy a cup of freshly made tea or coffee. Stroll along the beach while keeping your eyes peeled for whales migrating offshore. After breakfast, we will take to the waters for another whale-watching cruise, followed by plenty of free time to explore the dunes or simply relax on the sands. You may also opt to go on a birdwatching tour in the mangroves that fringe the nearby lagoon. Accommodations: Whale Camp. Meals Included: Breakfast, Lunch, Dinner."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Loreto - Begin the day with a two-hour whale-watching session before we return to Puerto Lopez Mateo. Here, you will have time to explore the shops surrounding the port before we enjoy lunch at a local seafood restaurant. In the afternoon, we will return to Loreto and check back into the Oasis Hotel before an orientation meeting in the lobby to chat about the kayaking days that lie ahead. Dinner is at a restaurant of your choice. Accommodations: Oasis Hotel. Meals Included: Breakfast, Lunch."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Sea of Cortez - After breakfast, you will be transported to our kayak launch site where your guides will lead you through the basics of paddling and explain our safety procedures. Once everyone feels comfortable, we will make the 2 to 3-mile crossing to the nearby islands where you will have time to go snorkeling or hiking through the desert landscapes. This evening will be spent in spacious dome tents, although many guests opt to sleep out under the stars due to Baja’s lack of biting insects. Accommodations: Island Beach Camping. Meals Included: Breakfast, Lunch, Dinner."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Sea of Cortez - Begin the day with a hearty breakfast before we head out paddling. Today's excursion will take us along the rugged coastlines of Isla Danzante and Isla Carmen, both of which feature spectacular cliffs and hidden coves. There will be plenty of opportunities to go snorkeling, beachcombing, and hiking along the way before a night of stargazing. Accommodations: Island Beach Camping. Meals Included: Breakfast, Lunch, Dinner."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Loreto - After breakfast at the camp, we’ll paddle to the take-out site and have lunch before returning to Loreto. Here, you’ll have time for an afternoon siesta or another exploration of the town center. In the evening, we’ll congregate for a farewell dinner as you say goodbye to your guides and newfound friends. Accommodations: Not included. Meals Included: Breakfast, Lunch."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Departure - With no scheduled activities, you are free to depart Loreto at a time that suits you."
+    }
+  ],
+  "map": ""
+}

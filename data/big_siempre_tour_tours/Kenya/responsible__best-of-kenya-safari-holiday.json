@@ -1,0 +1,60 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "best-of-kenya-safari-holiday",
+  "tourName": "Best of Kenya safari holiday",
+  "placesVisited": "",
+  "generalInfo": "This 7-day road safari, which features both traditional safari lodges and a luxury tented camp experience, contrasts the Afro-Alpine scenery of the world-famous Aberdare National Park with the starkly arid beauty of the northern Samburu district. It also showcases the renowned Masai Mara National Reserve and the glory of Lake Nakuru National Park, home to over one million flamingos.",
+  "durationDays": "7",
+  "price": "3710",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "(Friday) - In the mountains of the Aberdares - After being collected from the airport, you will be driven to the famous Aberdare National Park. Aptly dubbed ‘Scotland with Lions’, this charismatic Afro-Alpine realm showcases the wild beauty of the Aberdare Mountain range where elephants roam through lichen hung forests and spectacular waterfalls plunge into churning pools. Arriving in time for lunch at The Aberdares Country Club you will later be transported (with a small overnight bag) into the exclusive sanctuary that surrounds The Ark. A secluded lodge designed to resemble Noah’s Ark, this timbered lodge is unique, not least because of the splendour of the game-watching experience around its private waterhole, which attracts large herds of elephants. Overnight at The Ark (LD) *You should book a flight arriving into Nairobi early on the Friday morning. If this is not possible, then we can book a hotel in Nairobi for you for the Thursday night."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "(Saturday) North to Samburu - After breakfast, drive north to ‘Born Free’ country where Joy and George Adamson raised Elsa the lion cub in the wild and beautiful Shaba National Reserve. Arrive in time for lunch at the luxurious Sarova Shaba Game Lodge. Spend the afternoon discovering the unique wildlife of the reserve, which is famous for its elephants and lions. Set within extensive gardens, the lodge features the cascades of the Ewaso Nyiro River, which provides a sanctuary for crocodiles. There are 80 luxury-thatched chalets in the grounds, all with ensuite bathrooms and stone terraces. The lodge also offers a riverside game viewing deck, two bars and a restaurant overlooking the river where evening performances of Samburu dance are staged. Overnight at Sarova Shaba Game Lodge (BLD) including Afternoon Game Drive"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "(Sunday) On safari in Shaba - Spend all day on safari (breakfast and lunch at the lodge) in the reserve, which offers sanctuary to large herds of elephants, healthy numbers of lions, leopards, cheetahs, plentiful plains game, reticulated giraffes, rare Beisa oryx, kudus and gerenuks. Overnight at Sarova Shaba Game Lodge (BLD) including Early-morning Game Drive; Morning Game and Afternoon Game Drive"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "(Monday) Lake Nakuru - After breakfast drive to Lake Nakuru, the most famous of the Great Rift Valley lakes and home to a shifting population of over one million flamingos. Arrive in time for lunch at the Sarova Lion Hill Game Lodge. Spend the afternoon on safari in Kenya’s first and largest rhino sanctuary. The Sarova Lion Hill Game Lodge stands on a wooded hill commanding glorious views over the flamingo fringed waters of Lake Nakuru, Kenya’s premier black rhino sanctuary. Set in extensive tropical gardens, it offers 64 tastefully decorated ensuite chalets each with its own balcony and view of the lake. There is also a spacious central dining room, a charming pool deck, a spa and gift shop. Overnight at Sarova Lion Hill Game Lodge (BLD) including Afternoon Game Drive"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "(Tuesday) To the Masai Mara - After breakfast, drive to the world-famous Masai Mara National Reserve, backdrop to ‘the greatest wildlife spectacle on earth’, the annual migration of over one million wildebeest. Arrive in time for lunch at the Sarova Mara Game Camp, a luxury tented camp, before spending the afternoon on safari in Kenya’s most popular reserve. Raised above the rolling plains of the world’s most famous wilderness, the camp stands in extensive tropical gardens watered by crystal-clear streams. There are 75 luxury tents, each with electricity and ensuite bathrooms. The central Isokon Restaurant is styled to reflect the iconic Maasai heritage while evening barbeques are held around the sumptuous swimming pool. The Oloip Bar features a roaring fire and is the venue for performances of Maasai dance and music. Activities include guided walks and talks on the Maasai culture, which are presented by members of the local community. Spa services are also offered, payable locally. Overnight at Sarova Mara Game Camp (BLD) including Afternoon Game Drive"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "(Wednesday) On safari in the Mara - Spend the whole day on safari in Africa’s richest wildlife viewing arena. Historically teeming with wildlife, the Mara hosts Kenya’s largest lion prides and elephant herds. Spend the evening in camp where Maasai dance performances are offered nightly. Overnight at Sarova Mara Game Camp (BLD) including Early-morning Game Drive; Morning Game and Afternoon Game Drive"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "(Thursday) Up the Rift Valley to Nairobi - After breakfast drive back down the Great Rift Valley to Nairobi and transfer to the airport for your departure flight. Alternatively, and depending on the time of your departure flight, we can arrange additional accommodation in Nairobi. Why not extend your holiday with a beach stay at one of the stunning resorts we can offer. Contact us for details."
+    }
+  ],
+  "map": ""
+}

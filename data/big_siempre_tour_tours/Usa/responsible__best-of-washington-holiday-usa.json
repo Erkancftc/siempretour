@@ -1,0 +1,60 @@
+{
+  "destination": "Usa",
+  "mainPhoto": "",
+  "id": "best-of-washington-holiday-usa",
+  "tourName": "Best of Washington holiday, USA",
+  "placesVisited": "",
+  "generalInfo": "Embark on the Ultimate Washington Adventure. From the vibrant cityscape of Seattle to the serene trails of the Olympic Peninsula, immerse yourself in a blend of urban exploration and natural wonders. Traverse Bainbridge Island, delve into the depths of Olympic National Park, and paddle through the pristine waters of Freshwater Bay. Experience leisure in Seattle's iconic landmarks before ascending to the breathtaking heights of Mount Rainier. Depart with cherished memories of your unforgettable Washington adventure.",
+  "durationDays": "7",
+  "price": "6750",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Embark on your exhilarating journey today! Arrive in Seattle at your leisure and dive into the bustling energy of Pike Place Market, where the aroma of freshly brewed coffee and vibrant displays of local produce await. Alternatively, ascend to the heights of the iconic Space Needle for panoramic views of the cityscape and surrounding mountains. As the day draws to a close, rendezvous with your knowledgeable guide to ensure every detail is finely tuned for the adventures that lie ahead."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Today marks the beginning of your exploration of the Olympic Peninsula, a land of natural beauty and cultural richness. Consider starting your day with a scenic ferry ride across the sound, where you'll land on Bainbridge Island. Here, quaint shops and inviting cafes beckon, offering a delightful opportunity to immerse yourself in the island's charm. Don't miss the chance to visit the Suquamish cultural center and museum, where you can delve into the fascinating heritage of the region's indigenous peoples. After indulging in the island's offerings, embark on a culinary journey at one of the locals' favored dining spots, just an hour's drive north. With appetites satisfied, prepare for a breathtaking afternoon amidst nature's grandeur at Hurricane Ridge. If luck is on your side and the skies are clear, be prepared to be mesmerized by the majestic vistas of the glacier-capped Olympic peaks. Let the beauty of the landscape inspire and rejuvenate you as you forge unforgettable memories on this enchanting day."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Get ready to kick-start your day bright and early with your friendly guide, setting the stage for an adventure-packed exploration. Today promises a diverse palette of landscapes that'll keep you enchanted from start to finish. Depending on the tides, we might kick things off or wind down at Ruby or Fourth Beach. Picture yourself wandering along the shore, uncovering hidden treasures in tide pools, and gazing in wonder at the majestic sea stacks dotting the coastline. But the excitement doesn't end there! Your afternoon will be spent delving into the lush embrace of the Hoh Rainforest, a true gem among nature's wonders. It's a place where life flourishes in every nook and cranny, and our expert guide will be there to share the magic with you. Get ready to be amazed as you stroll through towering trees, discovering the secrets of this thriving ecosystem. From the bustling activity underfoot to the serene beauty overhead, every moment promises to be a revelation, leaving you with memories to treasure for a lifetime."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Get ready for another thrilling day packed with excitement! Begin your adventure with a private sea kayaking tour of Freshwater Bay, where every paddle stroke brings you closer to the wonders of the aquatic world. Keep your eyes peeled for majestic bald eagles soaring overhead, playful otters frolicking in the waves, and graceful seabirds skimming the water's surface. After a delightful picnic lunch, it's time to head inland for an exhilarating mountain biking excursion along the scenic Elwha River. Whether you're a novice or intermediate paddler or rider, these activities are designed to suit all skill levels, ensuring everyone can join in the fun. Feel the rush of adrenaline as you navigate winding trails through pristine wilderness, surrounded by the sights and sounds of nature's playground. Get ready to create memories that'll last a lifetime on this action-packed day of exploration and adventure."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Return to Seattle for a day filled with exploration and discovery. Your knowledgeable guide will offer suggestions for exciting destinations or can organize a day trip tailored to the group's preferences. Dive into the vibrant energy of Pike Place Market, where the hustle and bustle of vendors and shoppers create an atmosphere like no other. Then, ascend the iconic Space Needle for breathtaking panoramic views of the city skyline and beyond. For a taste of artistic brilliance, wander through the enchanting Chihuly Garden and Glass, where vibrant glass sculptures ignite the imagination. Alternatively, delve into the world of music, film, and pop culture at the Museum of Pop Culture, where interactive exhibits and immersive experiences await. With so many possibilities, your day in Seattle promises to be a captivating blend of culture, history, and adventure."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Rise and shine bright and early for an exhilarating journey to the majestic heights of Tahoma, also known as Mount Rainier. Standing tall at 14,410 feet, Tahoma commands attention with its awe-inspiring presence, especially when she emerges from the swirling clouds to reveal her rugged beauty against the backdrop of the Pacific Northwest landscape. Your guided day trip will take you to the foot of this towering icon, offering a day of immersive hiking amidst pristine wilderness. Prepare to be enchanted by the lush alpine meadows, pristine lakes, and breathtaking vistas that await you in the Sunrise/Yakima Park area of the mountain. As you traverse the trails, you'll feel a profound connection to the natural world, rejuvenating both body and soul with every step. After an unforgettable day of exploration, your guide will whisk you back to Seattle, where you can unwind and reflect on your adventures over a delicious local dinner. Let the flavors of the Pacific Northwest tantalize your taste buds as you savor the memories of your remarkable journey to the heights of Tahoma."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Time to say goodbye to the Pacific Northwest and head back home with memories to last a lifetime!"
+    }
+  ],
+  "map": ""
+}

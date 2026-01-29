@@ -1,0 +1,55 @@
+{
+  "destination": "Spitsbergen",
+  "mainPhoto": "",
+  "id": "luxury-spitsbergen-expedition-cruise",
+  "tourName": "Luxury Spitsbergen expedition cruise",
+  "placesVisited": "",
+  "generalInfo": "In the High Arctic, between 76 and 80 degrees latitude North, lies Spitsbergen, known for its pointed mountains, where you will spend seven days exploring this polar wilderness in luxury.<br/><br/>Starting in Longyearbyen, you'll see colourful wooden homes before heading into the sea. The white-striped mountains rise from the dark waters, and the changing Arctic weather creates a magical setting.<br/><br/>As you travel, you'll see the first ice and reach a large glacier at the end of a fjord. Black-legged kittiwakes and Arctic terns are common sights. From the ship or a Zodiac dinghy, you'll witness the power and fragility of nature. The thawing ice creates a mix of sounds in the quiet polar desert.<br/><br/>On land, you'll walk on moraine, where moss, lichen, and a few flowers form the tundra. Svalbard reindeer, Arctic foxes, and walruses inhabit these lands. The polar bear, the Arctic's ruler, is often nearby. The cruise focuses on spotting wildlife, especially polar bears, with the help of naturalists on board.",
+  "durationDays": "8",
+  "price": "9165",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Longyearbyen is the capital of the Norwegian Svalbard archipelago, located on Svalbard’s main island, and is the northernmost territorial capital on the planet. With winter temperatures dropping to below 40°C, the landscapes of this mining town are simply breathtaking. The glaciers, the mountains stretching as far as the eye can see and the untouched nature, make you feel like you’re in completely unexplored territory."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Set sail for southwest Spitsbergen, immerse yourself in this environment unlike any other and explore its unexpected riches. In this natural sanctuary, the polar light combines with the changing weather of the Arctic, a big blue sky, the horizon scattered with clouds, the enveloping mist erasing the border between the land and the sea. Follow in the footsteps of the first explorers and admire the majestic fjords and glaciers sculpting the breathtaking landscapes, their icy waters shimmering beneath the midnight sun. The fjords, veritable cathedrals of ice, reveal their millennial secrets, while the glaciers, like sleeping giants, move slowly towards the sea, setting free sparkling icebergs. On the water, you might spot belugas and rorquals, while on the shores, seals and Arctic foxes add a touch of mystery to this living tableau, where the steep cliffs become breeding grounds for thousands of seabirds, like guillemots. Southwest Spitsbergen is an ode to nature in its rawest and purest form."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Your captain will sail right up to the limit of the ice, to the edge of the ice floe. Weather conditions and state of the ice allowing, you will be able to go out in a zodiac dinghy for a unique experience in the middle of these floating slabs of ice. In addition to this grandiose journey through the middle of these floes with their cut and blue-tinged edges, sometimes over 2 metres thick, it is also often an opportunity to see a particular kind of fauna, totally dependent on the ice floe: birds, seals and polar bears."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "A kingdom of contrasts and natural marvels dotted with islands and peninsulas, northwest Spitsbergen fascinates with its preserved beauty. On these pristine lands, infinity unveils itself, treating the eyes to beauty sculpted by nature and enhanced by the changing light. The fjords bathed by icy waters, the jagged mountains and the imposing glaciers stand majestically before you, like monumental sculptures. In these lands, where souls are filled with deep serenity, only the murmur of broken ice, bearing mysteries and legends, disturbs the calmness. Aboard our Zodiacs and in the company of naturalist-guides, get as close as possible to this unique fauna and discover this centre for scientific expedition departures. In the distance, majestic whales glide silently through the glacial waters, whereas seals, walrus and Arctic foxes add a playful touch of life. As Svalbard reindeer wander the vast expanses, Arctic terns liven up the polar sky with their gracious flight and polar bears, which you may be lucky enough to see, patrol magnificently along the icy shores."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "During your cruise, discover Ny-Ålesund, a former mining town that has been transformed into a scientific base. Founded in 1916, this small town was the departure point for many Arctic expeditions, including those of the famous explorer Roald Amundsen. Don't miss a visit to the museum and its famous post office, considered to be the most northerly in the world!"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Longyearbyen is the capital of the Norwegian Svalbard archipelago, located on Svalbard’s main island, and is the northernmost territorial capital on the planet. With winter temperatures dropping to below 40°C, the landscapes of this mining town are simply breathtaking. The glaciers, the mountains stretching as far as the eye can see and the untouched nature, make you feel like you’re in completely unexplored territory."
+    }
+  ],
+  "map": ""
+}

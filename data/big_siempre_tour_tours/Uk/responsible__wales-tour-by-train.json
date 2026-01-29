@@ -1,0 +1,100 @@
+{
+  "destination": "Uk",
+  "mainPhoto": "",
+  "id": "wales-tour-by-train",
+  "tourName": "Wales tour by train",
+  "placesVisited": "Travel several sections by steam train, Llandudno, Conwy Castle, Blaenau Ffestiniog, Portmeirion, Caernarfon, Cardigan Bay coast, Cardiff, Swansea, Penally, Tenby, Land rover safari around Pembrokshire, Wildlife boat tour off Pembrokeshire coast",
+  "generalInfo": "Discover some of the most breathtaking scenery in Wales as you journey by train around some of this wildly beautiful country’s must-see destinations: Conwy, with its imposing and amazingly well-preserved 13th century castle; the fairytale village of Portmeirion, famously used for The Prisoner, and the gorgeous Pembrokeshire coast. <br/><br/>Travelling by rail is a relaxed and immensely enjoyable way to tour Wales, with a two-week itinerary allowing plenty of time to explore at each stop. This is a tailormade tour, allowing you flexibility on your travel dates, and the opportunity to upgrade accommodations if you wish – you’ll stay in a succession of hotels on a bed-and-breakfast basis. However while you will be unaccompanied for the most part, there will be several guided tours waiting for you on arrival in key locations such as Conwy and Swansea, with the pretty seaside village of Mumbles in Swansea Bay. And of course, a 24-hour support network is there just in case of any issues.<br/><br/>You’ll begin in Manchester, continuing to Llandudno on the Great Orme Peninsula with its Victorian promenade, and then on by bus to Conwy, for an expert guided tour of the castle. From Conwy its a romantic steam train trip to Portmeirion, via the mining capital of Blaenau Ffestiniog, travelling in first-class luxury. Designed in the style of an Italian tourist village, Portmeirion became famous through its use as a setting for the iconic 60s TV drama, The Prisoner.<br/><br/>Next you’ll pass through the beautiful Cardigan Bay via Porthmadog and Abergavenny, before you arrive in the Welsh capital, Cardiff. You’ll have a day here to explore the city at your own pace before continuing on to Swansea and a guided tour there.<br/><br/>From Swansea you’ll continue west through Penally and the historic seaside community of Penally, eventually reaching your final destination: the lovely Pembrokeshire coast. You’ll explore this rugged landscape first on an exciting land rover tour, and then by boat, with a tour of the coast and its offshore islands led by an expert guide. Expect to see plenty of birdlife including puffins and gannets.<br/><br/>With growing interest in rail travel as a way to combat climate change, there’s no better way to discover Wales than by train. Romantic, convenient and full of incredible views, like a classic Welsh choir this trip hits all the right notes.<br/>",
+  "durationDays": "15",
+  "price": "3955",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Travel from Manchester to Llandudno"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Take the bus to Conwy for a private guided tour of the castle"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Leave Llandudno behind and travel to Blaenau Ffestiniog, then onwards to Portmeirion"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Transfer to Porthmadog to catch the steam train for a return trip to Caernarfon"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Take the Cambrian line to Abergavenny along Cardigan Bay"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "A day at leisure to explore your hotel and Crickhowell"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Head south to Cardiff"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "A day at leisure to discover the Welsh capital"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Take the train from Cardiff to Swansea for a private guided tour of the gorgeous Gower peninsula"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "A day to explore Mumbles at leisure."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "You will be picked up by your driver guide and transferred to Swansea for the train to Penally"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "A private guided history walk in Tenby"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "A private Land Rover safari around Pembrokshire"
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "A boat tour with a local guide off the Pembrokshire coast"
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Take the train back to Cardiff"
+    }
+  ],
+  "map": ""
+}

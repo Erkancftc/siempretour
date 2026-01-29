@@ -1,0 +1,95 @@
+{
+  "destination": "Brazil",
+  "mainPhoto": "",
+  "id": "tailor-made-holiday-in-brazil",
+  "tourName": "Tailor made holiday in Brazil",
+  "placesVisited": "Rio de Janeiro, Paraty, Sao Paulo, Pantanal, Iguaçu Falls, Stay in pousadas, Driver guide",
+  "generalInfo": "This tailor made holiday in Brazil follows a carefully crafted itinerary that allows you to take in the famous sights of Rio and some of the country’s most magnificent landscapes. Starting in Rio you will head out along the Green Coast. Enjoy a few days in Rio first, sipping caipirinhas on Copacabana or taking a guided tour up to Sugar Loaf Mountain. You will have experienced driver guides with you throughout.<br/><br/>After the excitement of this great city, your next coastal destination is Paraty, a laid back colonial town with magnificent sea food restaurants, boutiques, cobbled streets and a wonderfully arty ambience. You can also take boat trips from here out to bays around the town, or go kayaking among coastal mangroves. Or just enjoy time chilling out at a stunning seafront pousada, in the heart of the Serra do Mar Natural Park.<br/><br/>Continuing on you will reach the pristine beach hideaway of Picinguaba. A stay at Pousada Picinguaba allows guests to disconnect from the outside world by encouraging guests to leave their internet-connected devices in the lobby while they explore the gorgeous surroundings. Guided excursions offered by the pousada range from jungle trekking to a day out on the water with local fisherman and with several days spent soaking up paradise, you get a real impression of all the region has to offer.<br/><br/> Your itinerary takes you inland next to Latin America’s fastest growing metropolis of Sao Paulo, where we recommend a day to explore before taking a flight to Cuiabá. This is your gateway town to the sprawling Pantanal region, the largest wetlands in the world—roughly equivalent in size to Washington —and an ideal place to leave the outside world behind.  You will explore the region by travelling by boat and foot in and around your remote, yet exquisite pousada, where birds, butterflies and some stunning rare mammals form the majority of the population. This includes the elusive jaguar, monkeys and a plethora of birdlife, including hyacinth macaws.<br/><br/>This Brazil holiday ends in style, flying south again to Iguaçu Falls which actually consist of over 270 falls. We take you to both sides of the falls, which create a natural border with Argentina, giving you the best all round experience.<br/><br/>We believe that the best time to go to Brazil, following this particular itinerary, is between April and September, so that you can catch the dry season in The Pantanal. This is when wildlife emerge in search of water and are much more visible. The climate generally will be pleasant elsewhere on your itinerary, cooler than at other times, but dry.<br/><br/>",
+  "durationDays": "15",
+  "price": "7500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly from London to Rio overnight."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "When you arrive, you will be met and have a private transfer to your hotel in Rio. Rest of the day will be spent relaxing and getting over the flight."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Full day city tour of Rio, including trips up to Corcovado and Sugar Loaf Mountain. A delicious BBQ lunch is included."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "A day to explore the rest of the city. There are a number of interesting tours including a half day in the old town, schooner trips out to the surrounding bays, or hiking in the Tijuca forest."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Drive down the winding coastal road to Paraty. A little further, you will come to your beautiful accommodation, Pousada Picinguaba."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "From your pousada, you can choose to either simply relaxing in the stunning surroundings or go and explore the area's beaches, islands, and rainforest. Picinguaba hires out kayaks and you can row to one of the many beaches and have it all to yourself!"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "At Picinguaba."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Drive inland to Sao Paulo from where you will fly to Cuiabá. You will need to spend one night in the town before continuing into the Pantanal."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Pick-up and drive to Pousada Rio Mutum in the Pantanal."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Excursions from the fazenda, including boat trips and night walks."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Retrace your steps back to Cuiaba for your flight to Iguaçu via Sao Paulo. You will transfer to the national park and your accommodation right next to the falls."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Walking tours of both the Argentinian and the Brazilian sides of the falls. You can also take a spectacular helicopter trip over the falls (not included)."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Fly back to Sao Paulo in time to connect with your overnight flight to London."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Arrival in the UK."
+    }
+  ],
+  "map": ""
+}

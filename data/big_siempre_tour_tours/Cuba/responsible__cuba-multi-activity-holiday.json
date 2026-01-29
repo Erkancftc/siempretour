@@ -1,0 +1,70 @@
+{
+  "destination": "Cuba",
+  "mainPhoto": "",
+  "id": "cuba-multi-activity-holiday",
+  "tourName": "Cuba multi activity holiday",
+  "placesVisited": "",
+  "generalInfo": "Combining authentic cultural encounters with active explorations of the Cuban countryside, this Multisport Tour offers a fascinating insight into what makes this nation tick. Over eight days and seven nights, experience the pulsing beat of Havana and the history-drenched streets of Trinidad, as well as the remote beauty of Zapata National Park and the Sierra Escambray.? <br/> <br/>By bicycle, kayak and on foot, you’ll have the opportunity to immerse yourself in Cuba’s rich heritage and its multifaceted modern society while learning about the work being done to protect its natural environments. Along the way, you’ll be helping to enrich and strengthen civil society as part of the Support for the Cuban People program.",
+  "durationDays": "8",
+  "price": "3890",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 0,
+      "title": "",
+      "description": "Make your way to Havana, with several commercial flights operating between Miami and the Cuban capital. We highly recommend that you arrive at least a day before the tour starts to accommodate for flight delays or cancellations and we can assist with booking additional nights’ accommodation if needed. Alternatively, you may opt to fly to Miami on Day 0 and spend the night there before an early morning connection to Havana. Your tour officially starts at 11 am on Day 1."
+    },
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Havana Vieja - Welcome to Havana! After our orientation meeting at 11 am, it’s time to head out on foot and discover the fascinating architecture and lively atmosphere of the Cuban capital. For both lunch and dinner, we will dine at local paladar's, with these private restaurants serving authentic Cuban dishes. In the evening, you’ll have the opportunity to experience Havana’s legendary nightlife. Accommodations: Casa Particular (Bed & Breakfast) Meals Included: Lunch and Dinner"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Playa Larga + Bay of Pigs + Zapata National Park - After an early morning start, we’ll drive southeast to Playa Larga, a peaceful village overlooking the Bay of Pigs. Our first destination is a crocodile nursery doing vital work to preserve Cuba’s native reptilians. Afterward, we’ll cycle (8.7 miles) to our kayak launch point for a leisurely paddle (1.5 to 2 hours). As you explore the Bay of Pigs, you’ll learn all about the lead up to the failed invasion of 1961. In the late afternoon, we’ll check into our casa particular and be treated to a presentation from the director of Zapata National Park, Frank Medina. Learn about the park’s past and the future goals he and his team have for preserving this magnificent area. Accommodations: Casa Particular (Bed & Breakfast) Meals Included: Breakfast, Lunch, Dinner"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Playa Giron + Cienfuegos - Our day begins at the Museum of Playa Giron where we’ll delve a little further into the history of the Bay of Pigs Invasion. This will be followed by a snorkel above the healthy reefs that lie just offshore from Playa Giron, with our local guides sharing their knowledge of this thriving underwater ecosystem. After lunch, we’ll enjoy a scenic cycle (15 to 27 miles) to Yaguamayas before continuing by bus to Cienfuegos where we will check into our casa particular. Nicknamed the “Pearl of the South”, Cienfuegos is an enchanting seaside city with a distinctly French flair. In the late afternoon, we’ll stroll along its waterfront and visit the 19th-century Teatro Tomás Terry, renowned for its impressive mosaics and frescoes, before relaxing over dinner. Accommodations: Casa Particular (Bed & Breakfast) Meals Included: Breakfast, Lunch, Dinner"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Guanaroca Nature Reserve + Cienfuegos Botanical Gardens + Trinidad - Today begins with a paddle (3 hours) across the waters of Laguna Guanaroca, a mangrove-fringed waterway and birder’s paradise. If we’re lucky, we might spot flamingos, pelicans, and Cuban’s national bird, the trogon. From Guanaroca, we’ll continue to the bay of Cienfuegos and enjoy lunch at a remote seaside restaurant near la Milpa. Afterward, we’ll jump onto our bikes for a scenic ride to the Cienfuegos Botanical Gardens, which is home to more than 2,000 different species. During a talk by one of the staff members, you’ll learn about the gardens’ creation by an American sugar baron and its role in the agricultural history of Cuba. From Cienfuegos, we will continue to one of Cuba’s oldest cities, Trinidad, where we will spend the night. Accommodations: Casa Particular (Bed & Breakfast) Meals Included: Breakfast, Lunch, and Dinner"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Topes de Collantes National Park + Río Guourabo - This morning we will travel into the pine-covered Sierra Escambray to explore Topes de Collantes National Park, beginning with a hike (3 to 4 miles) to the picturesque waterfalls of El Cubano. The park is renowned for its abundant birdlife, with a variety of native species inhabiting its tropical rainforest. After lunch in the mountains, we’ll descend to the coastline and launch our kayaks at La Boca for a leisurely paddle (2 hours) along the Río Guourabo. In addition to birdwatching and seeing the place where Hernan Cortez landed in the 16th century, you’ll be treated to elevated views across Trinidad. Accommodations: Casa Particular (Bed & Breakfast) Meals Included: Breakfast, Lunch, and Dinner"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Trinidad to Sancti Spiritus - This morning will be spent cycling from Trinidad to Sancti Spiritus (10 to 40 miles), another beautiful city that oozes colonial charm. Founded in 1514 by Diego Velázquez, it is one of the oldest of Cuba’s European settlements. After checking into your accommodation, you’ll have time to explore the city and walk across the arched Puente Yayabo, as well as admire Cuba’s oldest theatre, the Teatro Principal. Dinner will be enjoyed at one of the local restaurants. Accommodations: Casa Particular (Bed & Breakfast) Meals Included: Breakfast, Lunch, and Dinner"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Santa Clara + Havana - After breakfast, we will depart Sancti Spiritus and make our way to Santa Clara to visit the Che Guevara Mausoleum. Continuing west, we’ll stop again on the outskirts of Havana to explore Finca Vigia, otherwise known as the Ernest Hemingway Museum. It was here that the author spent many years of his life and penned several works. After our visit, we’ll continue into Havana and our accommodation for the night before reconvening for our farewell dinner at a local restaurant. Accommodations: Casa Particular (Bed & Breakfast) Meals Included: Breakfast, Lunch, and Dinner"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Havana - With your tour at an end, it’s time to make your way back to Havana International Airport for your flight home or continue your travels in Cuba."
+    }
+  ],
+  "map": ""
+}

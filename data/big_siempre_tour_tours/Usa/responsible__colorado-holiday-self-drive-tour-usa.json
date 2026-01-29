@@ -1,0 +1,115 @@
+{
+  "destination": "Usa",
+  "mainPhoto": "",
+  "id": "colorado-holiday-self-drive-tour-usa",
+  "tourName": "Colorado holiday, self drive tour, USA",
+  "placesVisited": "Denver, Rocky Mountain National Park, Arches National Park, Monument Valley Navajo Tribal Park, Mesa Verde National Park, Durango to Silverton Steam train, Crested Butte, Vail",
+  "generalInfo": "Colorado: a state with a fascinating Native American history, and scenery that looks great out of the windshield, and even better when you step out of the car. This trip starts in its capital, Denver, at the edge of Rocky Mountain National Park, finishes in Vail, before you return to Denver.<br/><br/>A Colorado self drive tour is a great way to see the state – you’ll drive down scenic highway 70 with mountains at each turn in the road and drive through Monument Valley. <br/><br/>Not all the best sights can be seen from the road, which is why this trip also includes a day riding the Durango to Silverton Steam train along its narrow-gauge heritage railroad to the old mining town. You’ll also get tours of the national parks, including a Navajo-led tour that takes you to a traditional Hogan (dwelling place), where you’ll learn about the valley that is sacred in their culture. <br/><br/>Beautiful scenery aside, this trip also takes you to lovely mountain town pit-stops, including Durango, Crested Butte and Vail – to fuel up at diners, distilleries and dessert parlours after an amazing day’s driving. <br/>",
+  "durationDays": "18",
+  "price": "4800",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "International Outbound Flight - Denver. Today you will begin your journey by boarding your international outbound flight to Denver. On arrival in Denver make your own way to your downtown hotel. The remainder of the day is free to relax."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Denver. Spend a day exploring the highlights of Denver. Don't miss the Denver Art Museum, the Colorado History Museum or explore the city's many excellent art galleries. Alternatively, relax in Larimer Square and sample some excellent local cuisine while people watching."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Denver - Estes Park Today you will pick up your hire car from the airport and drive to Estes park. Relax in the park for the rest of the day."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Estes Park. Estes Park is the gateway to Rocky Mountain National Park. You can head into the park through the Beaver Meadows park entrance to explore."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Estes Park - Grand Junction. Today you will drive from Estes Park to Grand Junction along the lovely scenic highway 70 for your one night stop off."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Grand Junction - Moab. Drive west again today to Moab and the red rock landscape of Utah. Enjoy a day in the nearby Arches National Park."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Moab. Enjoy a half day tour of Arches National Park today seeing this phenomenal landscape with your guide. The rest of your day is at leisure to explore the park or the other parks such as Canyonlands nearby"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Moab - Monument Valley Navajo Tribal Park. Drive from the wonderful Moab through to Monument Valley and Kayenta. Monument Valley encompasses the classic Wild West scenery of sandstone buttes, forbidding rock pinnacles and an endless expanse of drifting red sands that have been immortalised in the early Wild West films. Take some time to relax and take in the scenery."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Monument Valley Navajo Tribal Park. Another day for enjoying the incredible scenery that Southwest American has to offer. Today you will experience one of the Navajo led tours into the Valley where you can see Navajo culture which is largely untainted by tourism. You may get to visit a traditional Hogan and hear some of the folklore tales handed down to them by the generations before them."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Monument Valley Navajo Tribal Park - Mesa Verde National Park. Today you will head east from Monument Valley and travel to Mesa Verde to see the remains of the homes that were inhabited in the 1250s by ancestral puebleons!"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Mesa Verde National Park - Durango. Mesa Verde to Durango is a short drive today. When you get to the lovely frontier town, make sure you check out the charming boutique shops and the Strater Hotel's bar for a slice of the real wild west!"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Durango: Today you will make your way in plenty of time to the train station where you will board the wonderful Durango to Silverton Steam train. Explore the incredible scenery of centrai Colorado today - sights which can't be viewed by car!"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Durango - Crested Butte. The drive today is stunning as you make your way north to Crested Butte! This is a lovely mountain town, and it's well worth stopping at the Black Canyon of the Gunnison National Park."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Crested Butte. Today you can enjoy Crested Butte. You may like to take a drive out to the local mountains and valleys around the town, take a trip to the distillery or just relax in town and wander around the lovely shops."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Crested Butte - Vail. Today you can relax on your lovely journey north east from Crested Butte to Vail. On arrival in Vail you might like to explore the beautiful local area, a great spot for photos of the incredible mountains that surround you."
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Vail. Enjoy a day at leisure in Vail. Explore the shops, go for a walk in the wonderful nearby countryside or just enjoy your luxury 5* hotel before your flight home tomorrow."
+    },
+    {
+      "dayNumber": 17,
+      "title": "",
+      "description": "Vail - International Return Flight. Tomorrow you will drive back to Denver and return your car before boarding your onward flight."
+    },
+    {
+      "dayNumber": 18,
+      "title": "",
+      "description": "International Return Flight. Arrive home today to complete your journey."
+    }
+  ],
+  "map": ""
+}

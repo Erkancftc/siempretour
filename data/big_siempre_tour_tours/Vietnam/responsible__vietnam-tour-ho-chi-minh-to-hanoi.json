@@ -1,0 +1,65 @@
+{
+  "destination": "Vietnam",
+  "mainPhoto": "",
+  "id": "vietnam-tour-ho-chi-minh-to-hanoi",
+  "tourName": "Vietnam tour, Ho Chi Minh to Hanoi",
+  "placesVisited": "Ho Chi Minh City, My Khe Beach, Marble Mountains, Hoi An, Hanoi, Halong Bay",
+  "generalInfo": "Good news for hurried travellers – time is no barrier to experiencing Vietnam! This fast-paced trip includes two internal flights to help cover the ground, offering an exciting snapshot of north and south Vietnam in just eight days.<br/><br/>This small-group holiday kicks off in bustling Ho Chi Minh City, where the history of the Vietnam war is detailed in museums and the claustrophobic Cu Chi Tunnels, a former Viet Cong stronghold. Fly up to Danang and head to My Khe beach, a beautiful spot which lies against a backdrop of the Marble Mountains, before continuing to Hoi An to explore this old-world trading port. From here, fly to the capital Hanoi. A half-day walking tour will help you get your bearings and learn your history, then you’re free to explore the parks, lakes and lanes of this surprisingly quiet city by bike or on foot. Halong Bay is another highlight. You’ll take an overnight cruise through this otherworldly landscape of green waters and rocky islands, feasting on the bay’s fresh seafood. <br/><br/>The itinerary may be fast-paced, but there is time within it for you to explore independently, wandering markets, nibbling street food and popping into museums. Or just grab a beer, sit back and enjoy watching the traffic in Ho Chi Minh City and Hanoi, as mopeds piled high with people and goods zip past. There’s no best time of year to visit, but be aware that temperatures vary greatly between north and south and pack for all extremes.<br/>",
+  "durationDays": "8",
+  "price": "1285",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Ho Chi Minh City.",
+      "description": "Xin chao! Welcome to Ho Chi Minh City, a French-infused city with a dynamic atmosphere. If you arrive early, perhaps head to Pham Ngu Lao Street to see the local open-aired market or visit Vinh Nghiem Pagoda. Your adventure begins with a welcome meeting at 6 pm where you will meet your tour leader and fellow travellers."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Ho Chi Minh City.",
+      "description": "This morning you’ll tour the famous Cu Chi Tunnels. This former Viet Cong stronghold provides an insight into the resourcefulness and tenacity of the Vietnamese people, as well as underground life during the Vietnam War. Travel back to Ho Chi Minh City to grab some lunch if you wish, before a visit to the Reunification Palace. Formerly known as the Presidential Palace, it was the site of South Vietnam's surrender at the end of the war. Afterwards, you can opt to visit the War Remnants Museum where you’ll see old military equipment including an F5A fighter and a UH1-Huey helicopter, or you may like to head back to your hotel to make plans for your evening."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Hoi An.",
+      "description": "Say goodbye to Ho Chi Minh City and fly to Danang where you’ll travel in a private vehicle to Hoi An, a captivating city where traditional and modern sit side by side. Late this afternoon, you’re in for a culinary treat. Join your leader and head to Tra Que where you will tour a local chef's garden, selecting fresh herbs and vegetables that will form part of your exclusive group dinner. Relax in the peaceful surroundings while your private chef prepares a delicious spread that celebrates his garden's seasonal best."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Hoi An.",
+      "description": "Your leader will take you on a walk around Hoi An’s Old Town today. The city was a major trading port from the 17th century onwards, and has various architectural influences from Europe, China and Vietnam. Today the city is being restored and looks exactly like it did over a century ago. The tour will take you to a historic house, the Japanese Covered Bridge, a Chinese assembly hall and a museum. The rest of the day is free for you to do some optional activities or soak up the ambience of the city. You may like to wander past street stalls selling paintings, woodwork, ceramics, lanterns and much more or get an outfit made by one of Hoi An’s talented tailors who can make beautiful items to order within a few hours."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Hanoi.",
+      "description": "This morning, transfer to the airport and fly to Vietnam’s charming capital of Hanoi. You’ll be taken on a guided half-day tour of Hanoi, visiting major sites such as the Temple of Literature, One Pillar Pagoda and the former residence of Vietnam’s most famous revolutionary, Ho Chi Minh. Stop for lunch at the KOTO cafe, an uplifting project that provides vocational training for disadvantaged young people. This afternoon is yours to explore your way, so ask your leader for their advice and tailor your time to perfection. Food, history, culture – whatever you’re most interested in, your leader will be able to help. You may like to take a stroll around the city’s parks and lakes, or enjoy beer the way locals do, in small roadside bars called Bia Hoi, soaking up Vietnam's street culture."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Halong Bay.",
+      "description": "Travel by private vehicle to famous Halong Bay, one of Vietnam's most spectacular natural wonders. Once you arrive at the bay, take a long, slow cruise through the area, exploring the beautiful green waters and amazing Surprise Cave. Want to get in the water? You may also have the opportunity to go swimming from Ti Top Island beach. Watch the sunset over the limestone karsts and spend the night on the boat which has comfortable twin-share cabins with air-conditioning and private facilities. There's also a dining room and bar where you’ll enjoy all of your meals, including fresh seafood for lunch and dinner."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Hanoi.",
+      "description": "You may like to get up early and watch the sunrise before you spend a leisurely morning sailing across Halong Bay and back to the port. Sit back and relax on the drive to Hanoi and get ready to shop until you drop at Dong Xuan market or explore the city. Why not relax at a cafe for an egg coffee or stop for a bia hoi (freshly brewed draught beer) at one of the microbars that dot this amazing city? Tonight, you may like to join your group for an optional dinner to celebrate the end of your trip."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Hanoi.",
+      "description": "After breakfast, you are free to leave at any time, as there are no activities planned today. If you would like to spend some more time in Hanoi, we’ll be happy to organise additional accommodation for you (subject to availability). Thinking of exploring more of the majestic Northern Vietnam after your trip is finished? Then check out our Ninh Binh Mini Adventure (TVAN) -for an off-the-beaten path discovery of Pu Long and Ninh Binh. Or you can try our Hiking In Sapa (TVAG) - for a big doze of dramatic mountain landscapes, crisp fresh air and colorful hilltribes."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,60 @@
+{
+  "destination": "South Korea",
+  "mainPhoto": "",
+  "id": "south-korea-7-day-cultural-tour",
+  "tourName": "South Korea 7 day cultural tour",
+  "placesVisited": "",
+  "generalInfo": "This is a captivating journey through South Korea. You can immers yourself in its rich history, vibrant culture, and breathtaking landscapes. Explore Seoul's iconic sites, such as Gyeongbokgung Palace, Insadong, Bukchon Hanok Village, and Gwangjan Market. Experience the charm of Yongin Folk Village and Suwon Hwaseong Fortress, and discover the ancient treasures of Gyeongju. In Busan, visit Haedong Yonggungsa Temple, Haeundae Beach, Bulguksa Temple, and Seokguram Grotto. From the colorful alleys of Gamcheon Culture Village to the bustling markets, South Korea offers a truly enchanting experience, leaving lasting memories of its vibrant culture and natural beauty.",
+  "durationDays": "7",
+  "price": "3299",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Seoul. Private transfer from airport to hotel. Your guide will meet and welcome you at airport. Then transfer to hotel and help you check in. Rest of the day is free for leisure activities."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Seoul Highlights with Korean Hanbok Wearing Experience Embark on an unforgettable tour day in Seoul. Begin at Gyeongbokgung Palace, immersing yourself in royal history and marveling at its stunning architecture. Experience the vibrant atmosphere of Insadong, where traditional and modern blend seamlessly. Explore the quaint streets of Bukchon Hanok Village, stepping back in time as you admire traditional Korean houses. Indulge your senses at Gwangjan Local Market, known for its fresh produce and mouthwatering snacks. Finally, complete your day with a Korean Hanbok wearing experience, allowing you to embrace the beauty of traditional Korean attire and capture memorable photos. Get ready for an enriching journey through Korean culture."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "South Korean Traditional Culture Trip. Today you will explore the captivating cultural landmarks of Yongin Folk Village and Suwon Hwaseong Fortress. Our first stop is Yongin Folk Village, where you'll be transported back in time to experience traditional Korean village life. Wander through its charming streets and marvel at the authentic hanok houses. Immerse yourself in cultural activities, such as traditional crafts and performances, and gain a deeper understanding of Korea's heritage. Next, we'll visit Suwon Hwaseong Fortress, a UNESCO World Heritage Site. Explore the impressive fortress walls and architectural marvels, offering panoramic views of the surrounding areas. Learn about its historical significance and enjoy a journey through Korea's storied past. Join us on this captivating day tour to experience the rich cultural heritage of Korea."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Gyeongju Highlights Trip. Embark on a remarkable day tour from Seoul to Gyeongju via Korea Train Express (KTX) first class, and immerse yourself in the rich history of this ancient city. Start your adventure by visiting the Daereungwon Tomb Complex, where you'll marvel at the majestic royal burial mounds and gain insight into the Silla Dynasty. Continue to the iconic Cheomseongdae Observatory, an ancient astronomical observation tower, and appreciate its impressive architecture. Next, explore the picturesque Anapji Pond, surrounded by beautiful gardens and reflecting an enchanting atmosphere. After this memorable exploration, journey to the vibrant city of Busan, where you can delve into its bustling markets, picturesque coastlines, and rich cultural heritage. Upon you arrival, your local guide will escort you to hotel and help check in."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Discover the beauty of Busan and Gyeongju. Our journey begins at Haedong Yonggungsa Temple, an extraordinary seaside temple known for its stunning ocean views and ornate architecture. Experience a sense of tranquility as you explore the serene grounds. Afterward, we'll head to the lively Haeundae Beach, where you can soak up the sun, stroll along the sandy shore, and indulge in delicious seafood at nearby restaurants. Next, we'll venture to Gyeongju to visit two UNESCO World Heritage sites: Bulguksa Temple, a magnificent masterpiece of traditional Korean architecture, and the awe-inspiring Seokguram Grotto, home to an exquisite Buddha statue."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Explore The Vibrant Busan. Begin your adventure at the charming Gamcheon Culture Village, known for its colorful houses and winding streets. Lose yourself in the artistic murals, local art shops, and quaint cafes while immersing yourself in the village's unique atmosphere. Next, take in the scenic views of the coastline during a Songdo Cable Car ride, where you can admire the breathtaking panoramas of the city and the ocean. Afterward, venture to Jagalchi Fish Market, Korea's largest fish market, brimming with fresh seafood and bustling energy. Indulge in delightful street food and witness the lively auction scenes. Lastly, explore the bustling Gukje Market, famous for its diverse range of goods, from clothing to traditional crafts. Immerse yourself in the vibrant atmosphere and engage with local vendors."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Depart from Busan. Your private car, driver, and guide will be ready at your hotel lobby on the final day, ensuring a punctual departure to the airport. With their impeccable service, you can relax and enjoy a hassle-free experience. They will assist you with check-in procedures and accompany you to the correct security gate, ensuring a smooth and pleasant journey home, leaving you with cherished memories of your time in South Korea."
+    }
+  ],
+  "map": ""
+}

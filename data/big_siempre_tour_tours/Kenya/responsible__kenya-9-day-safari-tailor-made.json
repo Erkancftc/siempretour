@@ -1,0 +1,60 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "kenya-9-day-safari-tailor-made",
+  "tourName": "Kenya 9 day Safari, tailor made",
+  "placesVisited": "Nairobi, Mount Kenya, Sweetwaters Game Sanctuary, chimpanzee sanctuary, Samburu National Park, Mombassa",
+  "generalInfo": "This 9-night escorted tour shows off Kenya’s finest safari spots as you take to the bush to spot elephants, buffalo, big cats and more. <br/><br/>You’ll start in the bustling, charming city of Nairobi. Your English speaking driver and expert guide will meet you at your hotel before driving you into the heart of Kenya’s national parks. Your first stop is Sweetwaters Game Sanctuary where you will spend three magical nights in tented luxury. With Mount Kenya as your jaw-dropping backdrop, you will enjoy several game drives into the sanctuary for your first glimpses of Kenya’s magical wildlife. The sanctuary is home not only to the big 5, but also southern white and black rhino and chimpanzees, <br/><br/>Next you will head to Samburu National Park, home to huge herds of elephant and buffalo, big cats and red-robed tribesmen herding their cattle. It is the perfect place to spot big cats lazing in the trees and from your private veranda you have uninterrupted views of the river and the wildlife it attracts.<br/><br/>Enjoy three full days of game drives and activities before heading to Kenya’s magical south coast. Your trip ends with a relaxing two night stay amid white sand, pristine jungles and unrivalled luxury.",
+  "durationDays": "10",
+  "price": "4875",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "On arrival into Nairobi you will be met and transferred to your hotel. Your hotel is located in the leafy residential area of Karen and has elegant and spacious accommodation with all the charms of a family home. Use the time to recover from your flight or speak to us about the numerous excursions available into the capital."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "It is time to head north to Mount Kenya, which looms majestically over the plains at almost 5200m. Your destination is Sweetwaters Game Sanctuary where you will experience tented luxury in a sheltered oasis. Take advantage of the cooler afternoon temperatures as you head out on your first unforgettable game drive.. As one of only four private game conservancies in Kenya, there is a high concentration of wildlife here and your chances of spotting all of the Big Five are excellent. Plus you’ll find chimpanzees and an ever increasing rhino population. (B, L, D)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Enjoy two full days at the sanctuary with morning and afternoon game drives, plus a visit to the Chimpanzee Sanctuary & Northern White Rhino. (B, L, D)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "This morning you will head to Samburu National Park with a game drive en-route. Samburu National Park is home to huge herds of elephants, giraffes, buffalo and gerenuk plus you have the chance to spot big cats here. You may also witness the red-robed Samburu tribesmen bringing their cattle to the river to drink. Your camp is situated along the banks of the Ewaso Nyiro River with commanding views of the arid landscape towards the jagged peak of Mount Kenya. (B, L, D)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "You have two full days to make the most of the incredible wildlife in Samburu and all the activities that your camp has to offer. (B)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "After breakfast you will transfer back to Nairobi and then fly onto the coast. The south coast of Kenya offers white sand beaches, coral reefs, fresh seafood and blue skies. With world class diving, whale watching and water sports at your fingertips you can be as active or relaxed as you like. (B, D)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "After breakfast you will be transferred to Mombasa Airport for your flight home. (B)"
+    }
+  ],
+  "map": ""
+}

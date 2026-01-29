@@ -1,0 +1,55 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "kenya-safari-beach-tour",
+  "tourName": "Kenya safari & beach tour",
+  "placesVisited": "Masai Mara safari, Luxury safari camp, Optional activities include: night safaris, hot air balloon flights, Masai village visits, spa treatments and private bush dinners, Diani beaches, Half board or all-inclusive beach accommodation options, Optional activities include: snorkelling and diving",
+  "generalInfo": "Discover the Masai Mara, one of the world’s premier wildlife safari destinations, before unwinding on the pristine sands of Diani Beach, renowned as one of Africa’s finest coastal getaways.<br/><br/>This journey highlights the very best of Kenya: sun, sand, and safari. Begin your adventure with a flight to the Masai Mara, home to the iconic Big Five—lion, leopard, elephant, buffalo, and rhino—alongside other safari favourites such as hyenas, cheetahs, jackals, and bat-eared foxes. In the Mara and Talek Rivers, you’ll find hippos and crocodiles lurking in their natural habitats.<br/><br/>Visit during the right season to witness the awe-inspiring Great Migration, often called the greatest wildlife spectacle on Earth. Watch as millions of wildebeest and zebras make their annual trek from Tanzania’s Serengeti to the Masai Mara, seeking greener pastures. Enhance your experience with a bush walk led by a Maasai warrior safari guide, offering an authentic glimpse into the region’s rich traditions and wildlife.<br/><br/>After your exhilarating safari in the Mara, journey to Kenya’s southern coast and the stunning Diani Beach, consistently voted Africa’s leading beach destination. This idyllic retreat is the perfect post-safari escape, with its powdery white sands, palm-lined shores, and a host of activities including diving, snorkelling, island-hopping, and basking in sheer beachside serenity.",
+  "durationDays": "9",
+  "price": "5099",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Nairobi & Fly to the Masai Mara - You'll meet our travel representative at Nairobi's airport who will help you with you luggage and where you will meet your driver. You'll transfer to the domestic airport and board a light aircraft to the Maasai Mara. Upon arrival at Maasai Mara, you'll be met by a representative and driven to your accommodation, where you will stay for the next four nights."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Explore the Masai Mara - Over the next three days, you will explore one of the best safari destinations in Africa. Enjoy incredible morning and afternoon game drives on the plains of Masai Mara. This iconic reserve offers amazing wildlife viewing opportunities and it’s highly likely that you’ll see zebras, impalas, gazelle, wildebeest, buffalo, rhinos, elephants and predators such as lions, cheetahs and leopards."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Explore the Masai Mara - As well as game drives, there are a range of other optional activities you can participate in during your time in Masai Mara, including cultural visits to Masai villages and markets, guided bush walks, horseback riding and black rhino tracking experiences. You also have the option of taking an early morning hot air balloon flight over the plains and forests of Masai Mara."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Transfer to Diani Beach - Enjoy an early morning game drive before taking a transfer to the airstrip in time for your flight to Ukunda Airstrip on Kenya’s South Coast. Meet your guide on arrival and transfer to your hotel, where you will stay for the next five nights."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Diani Beach - Diani Beach rests between the crystal clear waters of the Indian Ocean and the open plains of Shimba Hills National Reserve. Consistently voted as one of the best beaches in Africa, this 25-kilometre stretch of paradise offers amazing coastal views, pristine white sands and lush green forests. You can simply relax on the beach and soak up the sun. Or, if you want to, participate in any of the optional activities that are on offer. Try kite surfing, or diving and snorkelling. Join a boat excursion to Kisite Mpunguti National Marine Park to see dolphins and other marine wildlife."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Depart from Diani Beach - Check out of your hotel this morning and drive to the airstrip in Ukunda for your light aircraft flight to Nairobi. Meet our representative upon arrival and drive to Jomo Kenyatta International Airport, where you can catch your onward international flight."
+    }
+  ],
+  "map": ""
+}

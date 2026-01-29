@@ -1,0 +1,90 @@
+{
+  "destination": "Japan",
+  "mainPhoto": "",
+  "id": "japan-holidays-by-train",
+  "tourName": "Japan holidays by train",
+  "placesVisited": "",
+  "generalInfo": "Start your journey in the bustling Japanese metropolis. Uncover the significance of prominent neighborhoods like Shibuya, the trendy hub of Harajuku, and the sophisticated streets of Ginza. Progressing to more culturally rich locations, venture to the Kanzawa and Shirakawago Alps, where an entirely distinct Japan awaits, revealing splendid natural landscapes that are sure to amaze you. Conclude your adventure with visits to the historic city of Kyoto, where each corner unveils a different temple or shrine. Immerse yourself in the traditional charm of Kyoto, where preserved streets and buildings transport you to a bygone era.",
+  "durationDays": "13",
+  "price": "2695",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arriving in Tokyo Upon reaching Narita or Haneda airport, proceed to exchange your JR pass and make your way to the heart of Tokyo. Once you've checked in at the hotel, Upon exiting the international arrivals, you'll encounter your arrival assistant, ready to assist with any queries and collect your JR passes, handle currency exchange, and more. Now, it's the perfect moment to delve into the city! Head over to Shinjuku to kick off your exploration and savor your inaugural Japanese dinner!"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Tokyo Blend of Tradition and Modernity After a hearty breakfast, we suggest exploring the Tsukiji market, situated opposite Toyosu, and immersing yourself in local life. Then, make your way to the Imperial Palace, the current residence of the Emperor in Japan, and enjoy a leisurely stroll through the splendid Japanese garden. To wrap up, head to Asakusa, a district that has preserved the ambiance of old Tokyo, featuring traditional craft stores and street food stalls along Nakamise Street, close to the historic Senso-ji temple, an emblem of this area. Another must-visit in the afternoon is the Shibuya district, home to the renowned Shibuya crossing, the Hachiko statue, and the \"Shibuya Scramble Square\" tower, offering a spectacular view of Shibuya. Additionally, we recommend exploring the Omotesando area, boasting a variety of cafes, shops, and restaurants, as well as Harajuku, renowned as the hub of Japanese fashion, Takeshita Street with its myriad fashion and dessert shops (especially crepes!), and the Meiji Shrine, featuring an impressive wall of Sake barrels just before the Sanctuary."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "The Magic of Kamakura Embark on a day trip to the picturesque coastal city of Kamakura after a delightful breakfast. Despite its small size, Kamakura holds significant importance in Japanese history as the ancient capital of Japan. Within Kamakura, discover a diverse array of impressive landmarks, including the towering 13-meter bronze Buddha statue and the historic Hachimangu Shrine, the largest and most significant Shinto site in the prefecture. Consider venturing to the nearby Enoshima island, linked to the mainland by a bridge, for lunch at charming restaurants offering magnificent views. In the afternoon, make your way back to Tokyo."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Modern art and traditional magic in Kanazawa Embark on a journey to Kanazawa today, utilizing your JR pass to explore a city rich in history, culture, and art. Discover renowned sites like Kanazawa Castle and Kenrokuen Garden, hailed as one of Japan's three most beautiful gardens. Delve into the intriguing Ninjadera Temple, featuring concealed passages and secret chambers designed for strategic escape and defense against adversaries. Immerse yourself in the enchanting ambiance of ancient Japan that permeates this historic town."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Shirakawago UNESCO World Heritage Embark on a bus journey to Shirakawago today, situated in the Ono district of Gifu prefecture and easily accessible from Kanazawa for a day trip. Explore the Myozenji Temple Museum, founded in 1748, located on the north side of Shirakawago village, a UNESCO World Heritage Site since 1995. The village's main allure lies in its gassho-zukuri farms, showcasing a traditional building style unique to the region."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Exploring Kyoto's Famous Temples In the morning, after enjoying your breakfast, make your way to Kyoto. Today is dedicated to exploring the western part of Kyoto, particularly Arashiyama. Stroll across Togetsukyo Bridge and, for the energetic, ascend to Iwatayama Monkey Park for a panoramic view of Kyoto. Visit the famed bamboo forests and proceed to Kinkakuji, the Golden Pavilion. In the evening, embark on a walking tour of Kyoto's local districts, savoring local Kyoto cuisine. Meals: Breakfast"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Hiking at Fushimi Inari Shrine Commence your day at the Fushimi Inari Taisha Shrine, renowned for its area adorned with over 10,000 torii gates, famously depicted in the movie \"Memoirs of a Geisha.\" Continue to Nishiki Market, where you can indulge in traditional and authentic Kyoto foods like pickled vegetables and matcha sweets. Conclude your day at Kiyomizudera Temple, relishing the beautiful views of Kyoto from this iconic site. Meals: Breakfast"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Exploring Nara Just an hour's train ride from Kyoto, Nara beckons as a serene city renowned for its amiable deer. Wander through Nara Park and witness the deer bowing in gratitude for your offerings. Visit Todaiji Temple to marvel at one of Japan's colossal Buddhas. Relish local Nyumen Somen (Noodles) for lunch before returning to Kyoto for the night. Meals: Breakfast"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Osaka: Japan's Food Metropolis Embark on a day trip to Osaka, famed for its culinary delights. Explore iconic sites like Osaka Castle, the Umeda Sky Building, and Shin-Sekai. As night falls, immerse yourself in the vibrant atmosphere of Dotonbori, where bright lights and enticing food signs captivate. Indulge in Osaka's must-try foods, including Takoyaki, Kushikatsu, and Okonomiyaki, before returning to Kyoto for the night. Meals: Breakfast"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Welcome to Hiroshima Arrive in Hiroshima today! After settling into your accommodation, explore key sites such as the renowned Peace Park featuring the Atomic Bomb Monument and the Peace Memorial Museum. Discover the tranquility of the Shukkeien Japanese garden and savor the lively ambiance of Hondori Street. Try Hiroshima's specialty, Okonomiyaki, before resting for the night. Meals: Breakfast"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Visiting Miyajima Island Embark on a ferry to Miyajima Island, a magical destination with the iconic Itsukushima Shrine. Explore Omotesando Street for Japanese steamed dumplings and grilled oysters, Miyajima's signature dishes. Visit Daisho-in Buddhist temple and stroll the scenic trails, including those in Momijidani Park. Take a cable car to Mount Misen for a panoramic view before returning to Hiroshima in the evening. Meals: Breakfast"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Transfer to Tokyo Enjoy a leisurely morning before boarding the Shinkansen for your transfer to Tokyo. Spend your free time shopping for souvenirs or exploring the Ueno area with its beautiful park, Tokyo National Museum, and Toshogu Shrine. Alternatively, visit the Nippori street market and Rikugien Park for a taste of old-town charm. End the day with a relaxing visit to an authentic onsen near Sugamo station. Meals: Breakfast"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Departure from Tokyo Transfer to the airport for your flight home. We hope you've cherished your time in Japan! Meals: Breakfast"
+    }
+  ],
+  "map": ""
+}

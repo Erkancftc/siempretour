@@ -1,0 +1,70 @@
+{
+  "destination": "New Zealand",
+  "mainPhoto": "",
+  "id": "unexplored-kiwi-bliss-off-the-beaten-track-north-island-tour",
+  "tourName": "Unexplored Kiwi Bliss: Off the Beaten Track North Island Tour",
+  "placesVisited": "Great Barrier Island, Kawhia, Waihi Beach, Napier, Hawke's Bay",
+  "generalInfo": "This adventurous 11-day excursion will celebrate these places of privacy and enchantment, from hiking trails to romantic bays and the stories behind the scenes. It will provide you with a highly authentic Kiwi and Maori experience in places that are typically missed by others. New Zealand’s North Island remains a destination of unexplored treasures. Remote beaches ignite the imagination, magnificent waterfalls hide from the tourist trail, nearby islands evoke Pacific bliss, and rolling vineyards hide so many secrets.",
+  "durationDays": "11",
+  "price": "4,500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Auckland – Arrival and Orientation",
+      "description": "You will be greeted at arrivals and transferred to your boutique accommodation in Parnell instead of one of the luxury hotels around Auckland Harbor. Here, idiosyncratic cafes are influenced from all over the world but always seem to preserve a local charm. This off-the-beaten-track tour will not be a rush between attractions. Parnell is the perfect neighborhood for an immersion into such a mindset and will provide you with an excellent orientation after your long flight. The day will be at your leisure, so you can head out and explore."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Auckland – The Epic Omanawanui Track",
+      "description": "The Omanawanui trailhead can be found about an hour out of Auckland. After the road journey, you will spend half a day walking along a well-maintained track. By descending through forest and then rising onto mountain slopes, you can sense the wilderness that dominates the landscape here. It can seem that every five minutes brings another spectacular viewpoint, and some will provide you with a full panorama of a lush interior that contrasts the rugged connection of peaks and slopes that stretch into the Pacific. Half a day will allow you plenty of time to enjoy the beaches."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Great Barrier Island – Escaping to Pacific New Zealand Bliss",
+      "description": "Great Barrier Island is home to a handful of small settlements. People do live here, but you will mostly find wilderness and the sense of New Zealand in the time of early explorers. Inaccessibility keeps visitors away, but you will fly to the island in a light aircraft. You will fly from Auckland and have two days to explore Great Barrier Island at your leisure. With a good map, some great local recommendations, and a reliable 4WD vehicle, these two days will be your New Zealand expedition. Your lodge will be hidden away on a vast tract of private beachfront land, like every single property on Great Barrier Island. This is an island without electricity pylons, so locals use generators and solar panels."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Kawhia – Black Volcanic Beaches and Kiwi Authenticity",
+      "description": "After a short flight back to Auckland, you will be transferred by road to Kawhia, which is a mostly forgotten beach town on the North Island’s western coast. The beach is quiet and spacious, although its color is very different from elsewhere in New Zealand. Volcanic, black sand gives Kawhia a unique appearance. Kawhia is a sleepy town with a very typical, old-world Kiwi lifestyle. You can indulge in a short stroll out of the town before your guide leads you to a black beach and gives you a shovel so that you can dig your own jacuzzi."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Kawhia – An Off-the-Beaten-Track, 153-Meter Waterfall",
+      "description": "Wairere Falls crashes down almost 500 feet, and it is comfortably the largest waterfall on the North Island, but it remains a very secretive natural wonder. Reaching the falls is part of your experience, and you will trek through luscious forest and traverse among natural stone sculptures. You may even have to remove your shoes and wade across in some places, hop between stones in others, and climb up to swing bridge crossings that provide spectacular views. The trail runs parallel to the falls for some beautiful views and continues above the falls as well."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Waihi Beach – Maori Tradition and Discovering the Coromandel Peninsula",
+      "description": "En route to the Coromandel Peninsula, you will stop at a small Maori community and spend a morning immersing yourselves in the local way of life. You will witness how certain traditions remain integral to today’s lifestyle while also discovering how the people have adapted and evolved to the 21st century. This morning with the Maori will be an informal way to explore their history, and you will also be guided around a forest to discover how different plants and trees can be used. Stories of settlers and warriors will evoke New Zealand’s early years, and a large family lunch can give you as powerful a welcoming as any war dance. After lunch, you will be transferred onto the coast and a two-night stay on Waihi Beach."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Waihi Beach – Hiking to a Deserted Beach",
+      "description": "Orokawa Bay is hidden by the indigenous forest. Its white sand sparkles beside turquoise waters, and there is usually not a single footprint on the beach. Reaching the bay is an adventure, which is a one-hour hike of epic coastal views and overgrown trails. Hiking is the only way to reach this bay and beach, and you will set off on foot before quickly feeling cut off from the rest of the world. As with every day on your North Island vacation, you will not have a definitive time to start trekking or a limit on how long you can spend on the beach. Your guide will provide you with a picnic, and today is really all about escaping into off-the-beaten-track serenity."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Hawke's Bay – Hawke's Bay Wine Trails",
+      "description": "After a private transfer down the coast, you will have two days to explore the authentic Hawke's Bay wine trails. Dazzling vistas will accompany any journey here, especially in the lush months prior to harvest. A local wine guide will plan out these two days around your tastes and the availability of winemakers and cellar-masters. Usually, during long and informal sessions that are as much about the conservation as what you drink, you will taste with the people who have helped to define Hawke's Bay wine. Food is also integral to the experience here, and your guide will make reservations at a series of small farmyard restaurants, where the food is designed around the wine."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Napier – Art Deco and Departure",
+      "description": "Napier is a city of delightful art deco architecture and untold history. Secrets will abound when you step off the main street. A local guide will immerse you in tales of the 1920s, and a few hours in Napier will provide you with some final North Island memories in addition to a final opportunity to indulge in some authentic Hawke's Bay gastronomy. After lunch, you will be transferred to Napier’s airport for a domestic flight to Auckland. Dayroom use at an airport hotel will be arranged, so you can freshen up before your late-evening, international departure."
+    }
+  ],
+  "map": ""
+}

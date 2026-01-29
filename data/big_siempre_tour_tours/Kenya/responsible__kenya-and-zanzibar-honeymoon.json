@@ -1,0 +1,50 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "kenya-and-zanzibar-honeymoon",
+  "tourName": "Kenya and Zanzibar Honeymoon",
+  "placesVisited": "",
+  "generalInfo": "An exhilarating Masai Mara safari experience in Kenya, followed by lazy days relaxing on the exotic island of Zanzibar: this honeymoon is the perfect combination of adventure, relaxation and romance. <br/><br/>Game drives on the Mara offer some of the best wildlife viewing destinations on the continent, as the national park is famous for big cats (lion, leopard and cheetah can all be found here), as well as zebra, wildebeest, buffalo, impala, gazelle and elephant, whilst crocs and hippos lurk in the rivers. Time your visit well and you may witness the Great Migration of zebra and wildebeest as they make their annual cycle around East Africa.<br/><br/>Next, you'll swap the wild expanses of Kenya's national parks for the white sand and sparkling turquoise waters of Zanzibar, a semi-autonomous island off the coast of Tanzania. Stay on an exclusive private island, bask in tropical paradise and watch spectacular sunsets dip below the ocean horizon.<br/><br/>Luxury accommodation is selected based on your specific requirements, preferences and tastes, plus activities and excursions such as a sunrise hot air balloon flight over the plains of the Masai Mara followed by a champagne breakfast, or a romantic beach dinner under the stars. <br/><br/>Participate in adventurous game drives, stay in world-class safari lodges and relax in idyllic beach tranquillity on an intimate East African honeymoon - the perfect start to married life.",
+  "durationDays": "12",
+  "price": "8580",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Kenya - As soon as you disembark the aircraft from your international flight, you will receive a warm welcome from a friendly representative who will escort you through immigration, customs and baggage collection, and they will remain with you until you meet your driver in the arrivals area. You will then be transferred to the domestic airport, where you’ll board a light aircraft flight to the Masai Mara. Upon arrival at the Masai Mara you will be driven to your safari lodge or camp, where you will stay for the next four nights. We use a number of different award-winning safari camps and luxury lodges within the Masai Mara and we will ensure that we match you to the most suitable accommodation for your requirements and sense of style."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Explore the Masai Mara - During the next three days you’ll enjoy two game drives per day on the plains of the Masai Mara, where you’ll spot an abundance of African wildlife. This iconic reserve offers amazing wildlife viewing opportunities and it’s highly likely that you’ll see zebra, impala, gazelle, wildebeest, buffalo, rhino and elephant; plus lions, cheetahs and leopards. Your lodge or camp may also offer the opportunity for a night game drive, where you’ll see nocturnal animals, such as aardvarks and honey badgers. As well as game drives, there are a range of other activities you can participate in during your time in the Masai Mara, including cultural visits to Maasai villages and markets, guided bush walks, horse riding, black rhino tracking experiences, or you may wish to take an early morning hot air balloon flight over the plains and forests of the Masai Mara."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Transfer to Zanzibar - Enjoy an early morning game drive before being driven to the airstrip in time for your scheduled light aircraft flight to Nairobi, where you’ll board a connecting flight to the exotic island of Zanzibar. You will be met on arrival in Zanzibar and driven to your accommodation, where you will stay for the next four nights. We offer a range of accommodation options on the island and we will ensure that we match you to the most suitable accommodation for your requirements and sense of style – whether that's a rustic beach lodge or a luxurious 5-star resort."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Explore Zanzibar - With its golden sunsets, beautiful sandy beaches, clear turquoise waters and colourful coral reefs, Zanzibar is the perfect honeymoon destination. There are plenty of excursions that you can join during your time on the island, including visits to historic Stone Town, Jozani Forest, Prison Island, the spice plantations and cultural tours to local villages. There’s also a wide choice of adventure activities that you can participate in, including mountain biking, hiking, bird-watching, wind-surfing, kite-surfing, kayaking and sailing. Plus, the island has fantastic coral reefs, which are perfect for diving and snorkelling – and you may even be lucky enough to see dolphins, green turtles and at certain times of the year, whale sharks."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Depart from Zanzibar - After breakfast, you’ll check out of your accommodation and transfer to Abeid Amani Karume International Airport (ZNZ) for your flight home. You'll be sad to leave these area of abundant natural beauty, but you'll return home with incredible memories of your Kenya and Zanzibar honeymoon."
+    }
+  ],
+  "map": ""
+}

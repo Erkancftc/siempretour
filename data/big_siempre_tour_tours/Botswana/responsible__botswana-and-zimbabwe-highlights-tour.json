@@ -1,0 +1,70 @@
+{
+  "destination": "Botswana",
+  "mainPhoto": "",
+  "id": "botswana-and-zimbabwe-highlights-tour",
+  "tourName": "Botswana and Zimbabwe highlights tour",
+  "placesVisited": "",
+  "generalInfo": "This 10-night trip includes four bucket-list destinations across Zimbabwe and Botswana in one great-value, seamless itinerary. <br/><br/>Your first destination after arriving into Victoria Falls is Zimbabwe's largest national park - Hwange. Spend three nights in private concession in a remote corner of the park at a luxury tented camp. While famous for its elephant densities it is also a great area for lion and cheetah sightings.<br/><br/>The next stop is Victoria Falls, spend two nights here to see the famous waterfall and enjoy any manner of activities that are available in this area - commonly known as the adventure capital of Africa. The white-water rafting and bungee jumping are well-known but you might like to opt for more sedate options like a guided tour of the falls or a sunset boat cruise. <br/><br/>The final five nights of your trip are spent in Botswana as we leave Victoria Falls on a road transfer across the border to Chobe National Park. Chobe is one of the most diverse and productive safari areas in Africa, so no matter what time of year you visit there will always be something interesting to see.<br/><br/>The final destination on this incredible trip is the Okavango Delta and the Khwai concession to the east of the Delta. Enjoy three nights searching for wild dogs, leopard, cheetah and lions among many other animals before flying onwards to Maun.",
+  "durationDays": "11",
+  "price": "6795",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Upon arrival in Victoria Falls Airport, Zimbabwe you will be met and directed to your internal flight to Hwange National Park. Where you will be met by your guide and driven the short distance to Davison's Camp, where you are staying for the next three nights."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Enjoy a safari in the incredible Hwange National Park. Activities are included twice a day with the expert local guides at this camp. As well as game drives we would thoroughly recommend getting out on foot on a walking safari."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Fly back to Victoria Falls Airport and meet a transfer to Ilala Lodge, your next destination for two nights."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Enjoy a full day to explore Victoria Falls. It is an easy area to explore independently or we can discuss any additional activities you might like to include."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "This morning you will be transferred across the border into Botswana and to the world famous Chobe National Park for two nights. You are staying at Chobe Bakwena, a boutique, luxury, eco-lodge right on the banks of the Chobe River. Enjoy an afternoon game drive or boat cruise."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "You have a full day to explore Chobe National Park on activities with Chobe Bakwena. The boat cruises are particularly good here as the wildlife is very well-accustomed to boats and you can get very good sightings."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "You may have the chance for a final safari activity before you are driven to Kasane Airport to fly to the Khwai region of the Okavango Delta. Upon arrival in Khwai you will; be met and driven to MmaTsebe Tented Camp for a final three nights."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "The Khwai concession of the Okavango Delta is one of the most prolific wildlife areas and you can explore on game drives and you will also have the chance to do a relaxing mokoro trip - a Botswana speciality."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Your trip comes to an end with a flight to Maun International Airport to meet your international flight arrangements."
+    }
+  ],
+  "map": ""
+}

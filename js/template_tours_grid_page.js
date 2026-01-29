@@ -3,29 +3,36 @@ async function loadTours() {
   if (!container) return;
 
   const params = new URLSearchParams(window.location.search);
-  const country = params.get('country');
+  const countryParam = params.get('country');
 
-  if (!country) {
-    container.innerHTML = '<p>Ülke seçilmedi. Lütfen Destinations sayfasından bir ülke seç.</p>';
+  if (!countryParam) {
+    container.innerHTML =
+      '<p>Ülke seçilmedi. Lütfen Turlar sayfasından bir ülke seç.</p>';
     return;
   }
 
-  // ✅ Absolute path
-  const toursUrl = `/data/turlar/siempretour_tours/${encodeURIComponent(country)}/tours.json`;
+  // 🔑 URL parametresini decode et (encode ETME!)
+  const country = decodeURIComponent(countryParam);
+
+  // ✅ Relative path (static server uyumlu)
+  const toursUrl =
+    `./data/big_siempre_tour_tours/${country}/tours.json`;
+
+  console.log("COUNTRY:", country);
+  console.log("TOURS URL:", toursUrl);
 
   try {
-    console.log("COUNTRY:", country);
-    console.log("TOURS URL:", toursUrl);
-
     const res = await fetch(toursUrl, { cache: "no-store" });
+
     if (!res.ok) {
-      throw new Error('HTTP hata: ' + res.status + ' | ' + toursUrl);
+      throw new Error(`HTTP ${res.status} → ${toursUrl}`);
     }
 
     const tours = await res.json();
 
     if (!Array.isArray(tours) || tours.length === 0) {
-      container.innerHTML = `<p>${country} için şu anda tur bulunamadı.</p>`;
+      container.innerHTML =
+        `<p>${country} için şu anda tur bulunamadı.</p>`;
       return;
     }
 
@@ -57,7 +64,7 @@ async function loadTours() {
                   <p class="mb-0">${days ? `${days} günlük tur` : ''}</p>
                 </div>
                 <div class="entry-price text-end">
-                  <p class="mb-0">${price}</p>
+                  <p class="mb-0">${price}$</p>
                 </div>
               </div>
 
@@ -78,7 +85,8 @@ async function loadTours() {
 
   } catch (err) {
     console.error('Turlar yüklenirken hata:', err);
-    container.innerHTML = `<p>Şu anda ${country} turları yüklenemiyor.</p>`;
+    container.innerHTML =
+      `<p>Şu anda ${country} turları yüklenemiyor.</p>`;
   }
 }
 

@@ -1,0 +1,60 @@
+{
+  "destination": "Alaska",
+  "mainPhoto": "",
+  "id": "canadian-rockies-and-alaska-cruise",
+  "tourName": "Canadian Rockies and Alaska cruise",
+  "placesVisited": "",
+  "generalInfo": "This trip combines the stunning Rocky Mountains, with a tour of the renowned Icefields Parkway, with a journey on the famous Rocky Mountaineer train, and a cruise along the Inside Passage from Vancouver, marked by its spectacular beauty with untouched coastal landscapes, towering glaciers and remote Alaskan settlements.  This itinerary makes use of local excursions and transfers, and includes a huge diversity of scenery and opportunities to see the native wildlife in its natural habitat.<br/><br/>Accommodations can be tailored to individual budgets along the way: everything we offer is tailor made, and this itinerary is a sample to provide an idea of what is possible … we can amend it in terms of routing, duration, and direction … please contact us so that we can tailor the perfect holiday for you. <br/><br/>Trip Highlights<br/><br/>•\tExcursions in the Rocky Mountain town of Banff: see Bow Lake, and spectacular views from the top of Sulphur Mountain <br/>•\tSpectacular Scenery of Lake Louise, Peyto Lake, Moraine Lake, on Icefields Parkway excursion<br/>•\tRocky Mountaineer train trip from Banff to Vancouver<br/>•\tExplore Vancouver under your own steam, or take excursions<br/>•\t7 day Alaskan Cruise up the Inside Passage, with fabulous scenery and on-shore excursions.<br/><br/><br/>Photo credits:  Rocky Mountaineer, BC Ferries, Destination Canada, Prince of Whales/Seanie Malcolm, Attraction Pursuit/Mike Seehagel, Tourism Alberta, Destination BC/Tanya Goehring",
+  "durationDays": "17",
+  "price": "6950",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "CALGARY TO BANFF Arrive at Calgary International Airport and take a transfer to Banff."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "BANFF Banff National Park encompasses valleys, rugged mountains, enormous glaciers, deep forests, alpine meadows and glassy turquoise lakes. Through it wander wildlife such as bears, elks, wolves and bighorn sheep. The bustling town of Banff is a base for a multitude of outdoor activities. Take a guided tour which visits a number of local highlights such as Bow Falls, the hoodoos, Surprise Corner Tunnel Mountain Drive overlooking the beautiful scenery of the Bow River Valley, and also includes a ride on the Gondola – the views from the top are superb. Maple cookies and refreshments are provided. The high street offers a range of restaurants, including gastro pub, vegetarian bistros, upmarket burger bar … don’t miss the cheesecake and torte at Wild Flour."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "BANFF NATIONAL PARK A full day tour of the stunning Icefields Parkway, between Banff and Jasper. Includes a trip on the Athabasca Glacier, and the Glacier Skywalk. Also stop at Bow Lake and Saskatchewan Falls for magnificent views."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Rocky Mountaineer: BANFF TO KAMLOOPS Board the famous Rocky Mountaineer this morning, travelling through the Yellowhead Pass and along the fertile route of the North Thompson River to Kamloops. As you leave the glaciers and snow-capped peaks of the Rockies behind, you travel through the Spiral Tunnels, Kicking Horse Canyon and over Roger’s Pass – all spectacular scenery as you pass over high mountain passes, through remarkable tunnels, along rocky lakeshores and across ranch lands. Try the Noble Pig – a buzzy brewpub with an outdoor patio and food."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Rocky Mountaineer – KAMLOOPS TO VANCOUVER Today’s train journey takes you along the shores of Kamloops Lake, through the desert-like BC interior, through forests and winding river canyons surrounded by the peaks of the Coast and Cascade Mountains, through the lush green fields of the Fraser Valley towards Vancouver. Later, explore downtown Vancouver: people-watch at a pavement café or visit the Aquarium or excellent science centre, take the Stanley Park train or relax at English Bay beach."
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Your cruise returns to Vancouver today: spend a final night in the city enjoying the outdoor lifestyle and buzz of this vibrant city."
+    },
+    {
+      "dayNumber": 17,
+      "title": "",
+      "description": "Return flight from Vancouver International Airport"
+    }
+  ],
+  "map": ""
+}

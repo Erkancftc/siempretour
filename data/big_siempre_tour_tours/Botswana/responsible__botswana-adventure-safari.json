@@ -1,0 +1,85 @@
+{
+  "destination": "Botswana",
+  "mainPhoto": "",
+  "id": "botswana-adventure-safari",
+  "tourName": "Botswana adventure safari",
+  "placesVisited": "",
+  "generalInfo": "The Safari begins in Maun and concludes at Victoria Falls in Zimbabwe, offering an unforgettable journey through the captivating Okavango Delta water system and some of Botswana’s finest wilderness areas. This 10-night adventure allows you to explore various regions in Botswana, famous for their abundant wildlife and stunning landscapes. The safari promises not just a visual feast of breathtaking scenery and wildlife, but also an opportunity to connect with nature in its most untouched form. You’ll create lasting memories of Africa’s natural wonders, enjoying a balanced mix of land and water activities. Travelers may enjoy an optional scenic flight over the Okavango Delta for a truly comprehensive adventure.<br/><br/>Accommodation is in 2.5 metre bow tents with built in floor, mosquito nets and 40-50mm sleeping mattress. Minimum age limit is 12 years.",
+  "durationDays": "12",
+  "price": "2465",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Departure: We are happy to arrange International flights. Depending on the time of arrival into Botswana, you may require an overnight hotel which we can arrange for you."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Maun - Delta: The safari will begin in Maun, where your guide will meet you at a designated location. Upon reaching the Okavango Delta by the Gomoti River, you will meet local polers with their mekoro (dugout canoes). You will quietly cruise through river channels and floodplains, enjoying the stunning landscape. Over three days, you will explore the Delta with mokoro excursions and guided nature walks on islands and floodplains, camping on a small island for two nights and one night by a lagoon (B,L,D)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Delta: Explore the Delta with mokoro excursions and guided nature walks on islands and floodplains (B,L,D)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Delta: Tonight camp by a lagoon. This afternoon, you will have the option to take a 30-minute helicopter flight with doors removed for breathtaking views. This must be booked during the safari, with payment in USD cash. The flight offers an aerial view of the Okavango, with the possibility of spotting elephants, giraffes, and hippopotami (B,L,D)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Moremi Game Reserve: After an early breakfast, you will head to Moremi Game Reserve, a premier wilderness area in Botswana with both floodplain and woodland habitats. You will spend three days searching for diverse wildlife and birds, enjoying the region’s beauty. You will stay at two different campsites, with game drives in the early morning and late afternoon. Camping will be in private sites with bush ablutions. (B,L,D)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Moremi Game Reserve/Xakanaka/3rd Bridge and Khwai: Spend your days exploring the lush wilderness of Moremi (B,L,D)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Moremi Game Reserve/Xakanaka/3rd Bridge and Khwai: Daily game drives on your 4x4 Open vehicle (B,L,D)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Southern Chobe National Park (Savuti/Zwei Zwei): Your next destination will be Chobe National Park, known for its diverse and striking landscapes. You’ll search for wildlife in the drier Savute region, where bull elephants roam the plains. Savute’s dynamic ecosystem, with waterholes, dry river channels, and marshes, will attract a variety of animals, making each game drive exciting and unpredictable. You’ll camp in private designated areas with bush ablutions. (B,L,D)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Northern Chobe National Park: You’ll head north to the Chobe River, where game drives will follow the riverbanks, guided by the call of the African Fish Eagle. Expect to see a wide variety of animals, including puku and Chobe bushbuck, along with stunning birdlife. This transfer/game drive will take you from Southern Chobe National Park to the Chobe River floodplain. (B,L,D)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Northern Chobe National Park: You’ll explore Northern Chobe and the floodplain through game drives. (B,L,D)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Victoria Falls: Following a brief morning game drive, your guide will escort you to the Kazungula border, where you will meet your transfer vehicle to your lodge in Victoria Falls, Zimbabwe (Visa required). You will spend the night at a comfortable lodge. In the afternoon, you’ll have the opportunity to witness the thundering Victoria Falls and shop for souvenirs. Lunch and dinner will be at your own expense."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Depart: Depart for Victoria Falls airport. We are happy to arrange an additional night in Victoria Falls"
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,90 @@
+{
+  "destination": "Borneo",
+  "mainPhoto": "",
+  "id": "borneo-river-and-jungle-wildlife-adventure",
+  "tourName": "Borneo river and jungle wildlife adventure",
+  "placesVisited": "",
+  "generalInfo": "Embark on an extraordinary tailor-made wildlife adventure through the heart of Borneo, where lush jungles and winding rivers reveal one of the planet's most biodiverse ecosystems. This journey takes you deep into the natural beauty of Sabah, from the vibrant rainforests of Sepilok to the secluded wildlife habitat of Sungai-Kupar Virgin Jungle Reserve. <br/><br/>Meet endangered orangutans in their Sepilok rehabilitation home, discover sun bears rescued from poachers and explore Gomantong Caves that shelter mysterious nocturnal creatures. Cruise to the Kinabatangan River, one of Borneo's longest rivers. It flows through lush rainforests and is home to diverse wildlife, including orangutans, pygmy elephants and proboscis monkeys. The river offers unique eco-tourism opportunities, including boat tours for wildlife viewing and exploring pristine ecosystems. Navigate wild terrain and experience sunrise river cruises to spot elusive wildlife or night safaris uncovering the secrets of the jungle after dark. Enjoy wildlife encounters, peaceful solitude and an unfiltered connection with nature at the remote Utan Rainforest Lodge nestled deep in the Sungai-Kupar Virgin Jungle Reserve. The reserve is a pristine rainforest celebrated for its biodiversity and natural beauty. It is home to diverse flora and fauna, offering eco-tourism opportunities like jungle trekking and river cruises. It provides a sanctuary for wildlife and an educational experience for nature enthusiasts and researchers alike. End your journey on the serene shores of Gaya Island, where relaxation and exploration await. Get ready for an experience like no other.",
+  "durationDays": "13",
+  "price": "4095",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly to Sandakan."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Land Sandakan and drive to Sepilok and your lodge, located on the edge of the Kabili-Sepilok Forest Reserve. This evening enjoy a night safari at the Rainforest Discovery Centre. (B/D)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Transfer to the Sepilok Orangutan Rehabilitation Centre. Visit the juveniles in the nursery and walk ten minutes through the rainforest to witness the feeding of the orangutans. Afterwards visit the Borneo Sun Bear Conservation Centre to learn about conservation of the world’s smallest bear. (B/L/D)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "After lunch, embark on a 2.5-hour journey by speedboat up the Kinabatangan River to Sukau Rainforest Lodge. Late afternoon, take a late afternoon cruise in search of Borneo's wildlife and birds. Return to the lodge for dinner followed by a slide presentation by a naturalist guide. (B/L/D)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Rise early for the morning river cruise to Kelenanap Oxbow Lake to view more birds and wildlife. Return for breakfast and enjoy a nature walk along the lodge's Hornbill and Attenborough Boardwalks with the in-house naturalist. Enjoy free time before this afternoon heading to Gomantong Caves to explore the intricate cave system. Head back to the lodge for a scrumptious dinner and a restful night's sleep. B/L/D)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Check out early and commence a 2.5-hour overland drive to Lahad Datu. Change vehicles and continue to drive a 2.5-hour overland journey to reach Utan Rainforest located within the Virgin Jungle Reserve (VJR) of Sungai Kapur. Enjoy lunch followed by an introductory walk into Sungai Kapur’s Virgin Jungle Reserve to explore its world of flora and fauna. Nearing sunset embark on a river cruise for wildlife encounters and a mesmerizing estuary sunset. Weather permitting there may be a captivating light show courtesy of fireflies as you return to the lodge for dinner. This evening take a night safari drive for a chance to encounter nocturnal wildlife. (B/L/D)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Wake up to the sounds of gibbons and hornbills in the rainforest. After a quick bite, take a short morning hike. Visit the Cuckoo Hide to photograph Borneo's endemic birdlife before returning to the lodge for a scrumptious breakfast. After breakfast, embark on a river cruise along the coastline, venturing into the Segama River and its mangrove forest. Keep your eyes peeled for the wildlife such as flying foxes, eagles and dolphins. Return to the lodge for lunch. After a sunset dinner and head out for a night walk around the lodge. Keep an eye out for nocturnal creatures like civets, leopard cats, mouse deer and moonrats that rule the night. (B/L/D)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Rise and shine to the sounds of the jungle. Enjoy your free time at leisure before lunch and check-out. Depart for Lahad Datu for your late afternoon flight to Kota Kinabalu. Land and transfer to Gaya Island and Bunga Raya Resort. (B/L)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Enjoy a free day to relax beachside. Take advantage of the water sports facilities available. (B)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Enjoy a free day. Take a jungle trek to explore the island interior or maybe enjoy the zip line adventure. (B)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Enjoy a free day. Indulge in a luxurious pampering massage at the resort’s on-site Wellness Spa. (B)"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Enjoy a final free day to relax beachside. End with a sumptuous dinner at the Pantai Restaurant & Bar and why not pair your meal with a bottle from the resorts Longhouse Wine Cellar. (B)"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Take the boat back to the mainland and depart from Kota Kinabalu. (B)"
+    }
+  ],
+  "map": ""
+}

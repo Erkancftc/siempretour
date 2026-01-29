@@ -1,0 +1,40 @@
+{
+  "destination": "Rwanda",
+  "mainPhoto": "",
+  "id": "3-day-rwanda-gorilla-safari",
+  "tourName": "3 day Rwanda gorilla safari",
+  "placesVisited": "Kigali, Genocide Memorial site at Gisozi, Ruhengeri, Volcanoes National Park, Virunga Mountains, Gorilla trekking",
+  "generalInfo": "A three day  Rwanda holiday that includes not only one full day on a gorilla safari, one of the world’s most sought after wildlife watching experiences, but also a guided tour around the country’s historic capital, Kigali,  a city that has been the centre of clan led kingdoms for generations and then colonial powers after that. The horrors of the 1994 genocide are commemorated at Gisozi, a memorial site on the outskirts of the city, which you will visit. <br/><br/>From the turbulent past to the tranquillity of the hills, where the Volcanoes National Park boasts not only an extraordinary landscape of nine volcanoes, six of which are active, but also habitats for the world famous mountain gorilla. Enjoy a day trekking with expert guides through these beautifully biodiverse, elevated forests in search of the greatest primates of them all.  <br/>",
+  "durationDays": "3",
+  "price": "2850",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "On arrival at the Kigali International Airport you will be met and transferred to the Flame Tree Village in the heart of Kigali city. Overnight at the hotel on bed and breakfast basis (Dinner is on own arrangement)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "After breakfast, embark on a City Tour of Kigali. Learn the history behind Rwanda through the tales told by its capital; get acquainted with pre-colonial and colonial Rwanda, the 1994 genocide and see the new developments. A visit to the genocide memorial site at Gisozi, about 35km outside the city centre, is the highlight of the city tour. This visit is an emotional experience for most visitors as they encounter the horrid massacre that engulfed the country in 1994. It also presents an opportunity to learn about other genocides in the world. You then have lunch at a local restaurant in Kigali After lunch, depart Kigali on a scenic drive north-westwards to Ruhengeri at the foothills of the Virunga volcanoes. Enjoy the picturesque countryside as you drive on to check-in to the Gorilla Mountain View Lodge for dinner and overnight."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "After an early breakfast at the lodge, transfer to the Volcanoes National Park at 0630. Arrive at the park headquarters for registration - a simple process where the park staff asses your fitness level to determine which Gorilla Family you will visit. Thereafter, the park staff brief on trekking times and conditions to the various groups based upon their location in the park the previous evening. There are a total of 80 gorilla permits available each day with a maximum of 8 trekkers visiting any one group. Treks vary in duration depending on which gorilla group you are assigned to. After locating your assigned gorilla group, you will spend approximately one hour in their company before heading back down the volcano slopes. The park is located in the Virunga Mountains, a magnificent chain of dormant volcanoes in the north of Rwanda which it shares with the Democratic Republic of the Congo (DRC) and Uganda. The mountains form part of the extension of the Congo-Nile divide, separating two of Africa´s most important watersheds. They are also home to the world’s last surviving Mountain Gorilla populations, currently about 700 individuals. After a great gorilla trekking experience, drive south-eastwards back to Kigali City. Transfer to Kigali International Airport for your departure flight."
+    }
+  ],
+  "map": ""
+}

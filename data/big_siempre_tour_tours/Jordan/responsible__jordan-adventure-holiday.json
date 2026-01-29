@@ -1,0 +1,80 @@
+{
+  "destination": "Jordan",
+  "mainPhoto": "",
+  "id": "jordan-adventure-holiday",
+  "tourName": "Jordan adventure holiday",
+  "placesVisited": "",
+  "generalInfo": "Whilst the popular perception of Jordan may be of a desert state it is far more varied than that boasting forests and canyons, ancient cities and the Dead and Red Seas alongside stunning desert landscapes.  This private, tailor-made tour visits the remote national parks of the country spending time in the bird-rich Azraq Wetland Reserve along with the crusader castles and forests of Ajloun.  Explore the impressively well-preserved Roman ruins in Jerash and walk in the Dana Nature Reserve – from a guesthouse built into the cliffs through the reserve to the candle-lit eco-lodge of Feynan.  Wander down the Siq into the magical city of Petra and spend a night under the star-filled skies of Wadi Rum, as well as covering yourself in mud and floating in the remarkable Dead Sea.",
+  "durationDays": "11",
+  "price": "3185",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly to Amman. Land and transfer to the hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Depart the city and drive towards the Azraq Wetlands Reserve. En-route stop to visit the impressive desert castles including the bath-house of Qusayr Amra and Qasr al-Kharanah. End the day in Azraq and enjoy a guided tour of the wetlands in search of the local birdlife. Spend the night in the quirky Azraq Lodge, a converted 1940's British military field hospital which sits at the edge of the Eastern Desert. Enjoy dinner and overnight. (B,D)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "This morning enjoy free time to explore the wetlands further if you wish. Depart Azraq and drive towards the Ajloun Forest Reserve. En-route stop to visit the impressive hilltop crusader castle at Ajloun which offers panoramic views down to the Jordan valley. Continue to Ajloun and spend the night in the Ajloun Cabins which sit in a large grassy clearing and offer beautiful views of the reserve. Dinner and overnight in the reserve. (B,D)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Embark on a walk along the Alyoun Trail, which is one of the quietest and most scenic parts of the Jordan highlands. Pass olive groves and limestone cliffs and discover early Bronze Age dolmens and a Roman wine press. Visit the Calligraphy House to learn to write your name in Arabic script and the Soap House to see the making of handmade olive oil soap. Enjoy lunch with a local family and end the day back at the cabins for dinner and overnight. (B,L,D)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Today drive from Ajloun to the fabulous site of Jerash which is one of the best-preserved Roman cities in the Middle East. Join a local guide on a stroll through this epic site to visit the Oval Plaza, the South Theatre and the Temple of Zeus. Continue the drive to Dana Nature Reserve ending the day at the Dana Guesthouse which sits atop the edge of Wad Dana and offers breathtaking views of the reserve below. Dinner and overnight at the guesthouse. (B,D)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "This morning commence the 5-7 hour walk through Wadi Dana towards Feynan Eco Lodge. Begin the walk at 1200 metres before descending and traversing the beautiful Dana Biosphere Reserve to Feynan which sits at 325m. Cross paths and exchange warm greetings with local Bedouin goat herds, they may ask you to join them for a cup of sweet tea. End this scenic hike at Feynan Eco Lodge which is regarded as one of the best eco-lodges in the world. Enjoy dinner by candle light and head to the roof to enjoy a spot of star gazing. A packed lunch is provided for the hike. (B,L,D)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Depart the reserve this morning in a 4WD provided by the local Bedouin community. Change vehicles and drive to Shobak Castle, another of the crusader castles to explore the battlements and secret passageways. Drive onwards to the desert landscape of Wadi Rum and jump in a 4WD for a driving adventure in the dunes. Take a camel ride at sunset before a night in a Wadi Rum camp. (B,D)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Awake to the peaceful silence of the Wadi Rum desert before driving to the magnificent rose red city of Petra. Meet your guide and enter the site by winding your way through the siq which ends at the Treasury. Explore the key areas of the site before spending the night in Petra. Note: please ask for the supplement to include Petra by Night which operates on Mon, Wed & Thu only) (B)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Today provides another opportunity to explore Petra at your own pace. We recommend getting to the site early morning to avoid the bulk of the crowds and the heat of the day. Spend as long as you like in Petra, there are a few restaurants in the site to enjoy lunch at your own expense. Overnight Petra. (B)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "This morning drive north to Wadi al Mujib which is located close to the Dead Sea. Enjoy a walk in Mujib Canyon before ending the day with time free to relax and enjoy a float in the Dead Sea. Overnight Mujib Cabins. (B,D)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Transfer to Amman airport for the flight back to the UK. (B)"
+    }
+  ],
+  "map": ""
+}

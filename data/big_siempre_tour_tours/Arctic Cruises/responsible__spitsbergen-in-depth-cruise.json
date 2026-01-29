@@ -1,0 +1,40 @@
+{
+  "destination": "Arctic Cruises",
+  "mainPhoto": "",
+  "id": "spitsbergen-in-depth-cruise",
+  "tourName": "Spitsbergen in depth cruise",
+  "placesVisited": "",
+  "generalInfo": "Similar to the classic Realm of the Polar Bear itinerary, but with 3 extra days of exploring and higher chances of completing a Spitsbergen circumnavigation, this really is the ultimate Svalbard expedition. This fantastic itinerary offer lots of opportunities to see polar bears on the ice as well as other spectacular wildlife including different species of whales - fin, minke, humpback and even blue and beluga - plus walrus, seals, Arctic fox, reindeer and myriad birdlife. This on top of amazing mountain, glacial and tundra scenery, make the voyage an unforgettable experience.<br/><br/>HIGHLIGHTS:<br/><br/>- Attempt to fully circumnavigate the spectacular island of Spitsbergen in the Svalbard archipelago<br/>- Great chances of seeing polar bears<br/>- Observe whales, walrus, Arctic fox and other wildlife<br/>- Myriad birdlife including rare ivory gull and others<br/>- Spectacular mountain and glacial scenery throughout<br/>- Exciting Zodiac excursions and guided shore visits<br/>- Midnight sun<br/>- Kayaking options available (additional fees apply)<br/><br/>Various departures available aboard The Expedition. Please enquire for full dates and rates. Lowest prices shown are per person based on sharing a triple cabin.",
+  "durationDays": "11",
+  "price": "5449",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Longyearbyen: Your journey begins in Longyearbyen, the administrative capital of Svalbard, where after arriving independently you will be transferred to the port for afternoon embarkation. Settle in to your new surroundings and prepare for adventure as your crew prepare the ship for departure in the evening."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Svalbard Archipelago: Over the course of the next nine days we will immerse ourselves in the spectacular coastline of Spitsbergen, the largest island in the Svalbard archipelago, with our unique Polar vessel allowing us to visit remote and seldom-visited areas on a constant search for wildlife and historical and scenic experiences. Our exact route and itinerary will be dependent on ice, sea and weather conditions and will be determined on a day by day basis - this is true expedition sailing after all. Exploring as many remote areas as possible we will visit ice-covered fjords with breathtaking mountain scenery and glaciers, land at historical and cultural sites and spend time sailing through the ice in search of polar bears hunting seals. Making land at unforgettable stops across the island we will hope for sightings of Arctic fox and Svalbard's unique reindeer, learning all about the area's distinctive tundra and geological features as we go. With plenty of days for exploration, we will attempt to circumnavigate the island if possible. If ice conditions are favourable we will hope to sail through Hinlopen Strait towards the island’s east coast, before sailing south into the Freemansundet area. As with all Polar expeditions, the conditions will determine our route however, and we may decide to explore alternative routes to make every moment of our time in this truly remote destination count. The route taken may also depend on which part of the season you are sailing in; late season voyages often result in a full circumnavigation of the island as the waterways are less ice-clogged and a late-season voyage could take us to the seldom-explored areas of Kvitoya and Nordaustlandet. On early season voyages there are more large ice floes and Arctic pack ice, which although means we may not be able to venture entirely around the island, will usually bring more frequent wildlife viewing. Whichever route we take we will be on a constant lookout for wildlife, and with near 24 hour daylight, there are lots of opportunities, so be prepared to be called at any time for close up polar bear, walrus or whale sightings. We will also see lots of birds, including hopefully the rare and lovely ivory gull, plus little auks, guillemots, puffins and more. Each day will be spent exploring by Zodiac or on foot experiencing once-in-a-lifetime encounters and scenic opportunities."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Longyearbyen: On the morning of day 11 your ship will have arrived back in Longyearbyen where sadly it is time to disembark and bid farewell to your new-found friends. A transfer will be provided to the airport for those with homeward flights or to a downtown location for those wishing to stay on in Longyearbyen to experience more of this unique town and the many Arctic adventures that it holds. For more information on land-based Arctic adventures available in Longyearbyen please talk to one of the Wildfoot team who will be happy to point you in the right direction."
+    }
+  ],
+  "map": ""
+}

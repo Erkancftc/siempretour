@@ -1,0 +1,90 @@
+{
+  "destination": "Nicaragua",
+  "mainPhoto": "",
+  "id": "nicaragua-holidays-tailor-made-tour",
+  "tourName": "Nicaragua holidays, tailor made tour",
+  "placesVisited": "Managua, León, Juan Venado Island, Granada, Las Isletas, Mombacho volcano, Ometepe Island, San Juan del Sur",
+  "generalInfo": "This Nicaragua holiday is a tailor made tour of the best that this small Central American country has to offer. It provides an insight into Nicaragua’s turbulent history through explorations of its capital Managua, as well as the stunning colonial cities of León and Granada. You’ll also get to visit beautiful Ometepe Island and spend a few days relaxing at an eco-resort along the coast. <br/><br/>After leaving the capital, Managua, you head north to discover León – a beautiful city full of crumbling colonial architecture and framed by towering volcanoes. Then you’ll make for the little-known Juan Venado Island to discover its rich wildlife with the help of knowledgeable local fishermen. Granada, Nicaragua’s other colonial city comes next, with a stop at the steaming crater of Masaya Volcano along the way. <br/>",
+  "durationDays": "13",
+  "price": "5150",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Today you will begin your journey by boarding your international outbound flight to Managua"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Travel in private vehicle to León and enjoy a guided tour of the city's elegant colonial centre."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Today, embark upon a tour to the Juan Venado Island off the Pacific coast, home to sea lions and an array of birdlife."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Travel by road to the grand colonial city of Granada, stopping en-route to visit the vast crater of the Masaya volcano."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Enjoy a private tour of Granada's historic centre plus a boat trip on Lake Nicaragua to visit Las Isletas, an archipelago of tiny volcanic islands."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Today you will visit the Mombacho volcano, and have the opportunity to hike through the cloudforest at its crater."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Travel by road and then ferry across Lake Nicaragua to Ometepe Island, with its twin conical peaks."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Free time on Ometepe Island to go hiking, kayaking or swim from Playa Santo Domingo and admire the volcano views."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Transfer to San Juan del Sur for some relaxation on the beach."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Beach relaxation on the Pacific coast."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Further relaxation on the beach, try your hand at surfing or perhaps take a taxi to explore the small town of San Juan del Sur."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Transfer from the coast back to Managua in time for your onward international flight."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Arrive back in London."
+    }
+  ],
+  "map": ""
+}

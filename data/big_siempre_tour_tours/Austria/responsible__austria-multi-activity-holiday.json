@@ -1,0 +1,60 @@
+{
+  "destination": "Austria",
+  "mainPhoto": "",
+  "id": "austria-multi-activity-holiday",
+  "tourName": "Austria multi activity holiday",
+  "placesVisited": "Typical Austrian chalet in Hohe Tauern National Park, Family adventures in the Austrian Alps, Yoga lessons, Yoga studio with mountain views, Guided hiking, Guided mountain biking, White water rafting",
+  "generalInfo": "This exciting multi activity holiday is hosted at MoaAlm Mountain Retreat, a unique and beautifully designed mountain house, situated high in the Austrian Alps. Each holiday at MoaAlm offers a healthy balance of fresh air, mountain activities, yoga and great freshly cooked plant based food. <br/><br/>HIKING:<br/>Situated at 1800m,  MoaAlm Mountain Retreat offers a superb base from which to explore the breathtaking mountains of East Tirol. We create a personalised holiday, giving you the opportunity to share our passion for the mountains, with five guided hikes.<br/><br/>MOUNTAIN BIKING:<br/>Alpine trails, windy forest tracks, or speedy down hill bump tracks are available within cycling distance from MoaAlm. You can choose between traditional mountain bikes or have a go on a e-mountain bike, allowing you to tackle more of the down hill without the strenuous up hill first!<br/><br/>RAFTING:<br/>The river Isel that flows at the bottom of our valley is a unique river, being the only river in the Alps that has not been damned or used for hydroelectricity. Not only does this mean it is an excellent place to spot wildlife, but it is also excellent for rafting! We work with a trusted local rafting guide to ensure you have an incredible day out on the rapids. <br/><br/>YOGA: <br/>Every holiday with us includes six yoga classes in our in-house yoga studio with panoramic mountain views. At MoaAlm we believe that yoga is for everyone, no matter what your age or level of fitness and, as such, our classes are prepared with all of our guests’ needs in mind. <br/><br/>ADDITIONAL ACTIVITIES<br/>If you would like an adrenaline rush, we can also arrange additional activities with our local partners, such as canyoning, paragliding, mountaineering and rock climbing. <br/><br/>FOOD:<br/>We are passionate about healthy living and reducing our impact on the environment. Therefore included in your holiday are five three course evening meals which are entirely plant based. Our in house chef creates seasonal menus and our food is organic and as locally sourced as possible. We also offer a delicious, organic breakfast and freshly baked cakes with organic tea and coffee. <br/><br/>ABOUT THE AREA<br/>We are situated on the edge of the Hohe Tauren National Park underneath Austria's highest mountain, Großglockner. This means we have a unique opportunity to spot rare wildlife, flora and fauna. Our local village Kals is still a traditional Alpine village, where many of the residents graze animals on the high alpine pastures. Kals is also home to a small ski resort and a few lovely traditional restaurants.",
+  "durationDays": "8",
+  "price": "1490",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival at MoaAlm. Welcome drink enjoying the stunning views and remote location. Meet other guests and chat over delicious three course dinner about your weekly activity preferences."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Start the day with yoga watching the sun rise from behind the mountains. Organic breakfast is followed by a guided hike from MoaAlm exploring the National Park Hohe Tauern. On return to your home, the hot tub is lit and you enjoy a relaxing late afternoon on the terrace."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Fancy some biking and hiking? Rent an e-mountain bike from your local sports shop and explore the breathtaking landscape around the Großglockner. Back for an afternoon restorative yoga session, followed by cake and tea. Dinner out this evening at one of the restaurants in the village."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "The weather allows us to take our morning yoga session outside. After breakfast you take the gondola up to 2600m to do some high alpine hiking towards the top of Blauspitz mountain. You enjoy a picnic at the summit before heading back to enjoy the hot tub and a plant-based dinner."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "After yoga and breakfast you could head to the nearby town of Lienz to try the rodel-rollercoaster, browse the shops, taste local wine or visit the olympic size swimming pool. Under favorable conditions, a paragliding flight can be booked. Dinner out this evening at one of the restaurants in the village."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Yoga in our panoramic studio is followed by a nutritious breakfast. On request, we can organize a rock climbing course with a local mountain guide. Those who do not want to climb can take a guided hike from the climbing garden with a view of Austria's highest mountain!"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Friday comes around all too quickly. Sunrise yoga and a guided hike from MoaAlm to the stunning Dorfer Lake. Those who want more than a cold dip can book a rafting tour on the Isel instead. Hiking back for cake and tea. The hot tub is lit, and we enjoy a final evening on the terrace. A special three course dinner is served, followed by a camp fire."
+    }
+  ],
+  "map": ""
+}

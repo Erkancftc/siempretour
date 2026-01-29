@@ -1,0 +1,60 @@
+{
+  "destination": "Usa",
+  "mainPhoto": "",
+  "id": "lake-tahoe-and-yosemite-tour-usa",
+  "tourName": "Lake Tahoe and Yosemite tour, USA",
+  "placesVisited": "",
+  "generalInfo": "Bookended by stops in two bustling cities, this seven-day adventure takes you through some of the incredibly diverse landscapes California’s national parks have to offer. Soaring Sequoias that’ll make your jaw drop and Yosemite’s dramatic waterfalls will leave you awe-inspired – all within the same state! As you take in the big sites, you’ll have a local leader filling you in on all the small details, with no story going untold as you leave no stone unturned on this naturally epic escapade.",
+  "durationDays": "7",
+  "price": "2545",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Las Vegas.",
+      "description": "Welcome to Nevada! Las Vegas will be your gateway to the grandeur of the Golden State. Your adventure begins with a welcome meeting at 5 pm, giving you plenty of time to bathe in Vegas’ glow. It’s recommended that you arrive a day or two early to really experience the city, allowing time to do the classics (think casinos, drive-through weddings and live shows) as well as scratching below the surface to see Las Vegas’ diverse neighbourhoods and thriving arts scene."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Las Vegas to Visalia.",
+      "description": "Leaving Sin City in your dust, you’ll road trip across state lines and through the Mojave Desert today, then around to Sequoia National Park. It’s a long drive, but it’ll give you the chance to see the changing geography of the American west – watch on as the desert gives way to the peaks of the southern Sierras. Settle into your accommodation near Sequoia National Park in the afternoon, and then head out for an included dinner at a local restaurant with your group."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Sequoia National Park.",
+      "description": "Today is simply about seeing the best of the USA’s Sequoia National Park. After breakfast, you’ll embark on leader-led walks around Sequoia, driving from stop to stop as you get to feel small next to the staggering size of General Sherman, the Giant Forest and other specimens of Sequoia’s towering timber. You may even drive through a tree at Tunnel Log, peer into Tharp’s Log and spot marmots, black bears and recently re-introduced bighorn sheep."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Yosemite National Park .",
+      "description": "After breakfast, you’ll hit the highway headed for the world-famous Yosemite National Park. To start, get acquainted with the awe-inspiring Yosemite Valley during a guided hike. Strewn with dramatic waterfalls, gigantic granite outcrops and lush meadows, this is one of the most spectacular spots in the country. Your leader will also teach you about the ecologically diverse landscape along the way. After sunset, you’ll join a Naturalist from the Yosemite Conservancy for a guided stargazing program. The park’s minimal light pollution makes it an excellent place to see the stars while learning about astronomy, constellations and local lore. For the next two nights, you'll be staying in a hotel just a few minutes from the park's main entrance."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Yosemite National Park.",
+      "description": "Today, Yosemite is all yours to explore! In the morning there’ll be leader-led walks around some of the park’s best trails. If it’s a clear day you may also drive up to Glacier Point for a view you won’t soon forget, looking down over the valley and across to the iconic Half Dome. The afternoon is yours to fill how you’d like. You might choose to hike along the breathtaking Mist Trail with its many fabulous views, hire a bicycle and pedal along some of the 12 miles of designated (and flat) path or immerse yourself in the park’s history at the Ahwahnee Hotel. Once you’ve seen the sights, the day will be capped off with a pizza picnic in the park for dinner."
+    },
+    {
+      "dayNumber": 6,
+      "title": "San Francisco.",
+      "description": "After saying fond farewells to Yosemite, you’ll head west to vibrant San Francisco. Stop to do a walk over the iconic Golden Gate Bridge, and then check in to your hotel for the night. At sunset, you can hit the water for an optional catamaran cruise around the bay, with views of the Golden Gate Bridge and Alcatraz Island – this is the perfect farewell to a sun kissed Californian adventure. If you like, head out with your fellow travellers for one last dinner."
+    },
+    {
+      "dayNumber": 7,
+      "title": "San Francisco .",
+      "description": "With no activities planned today, your adventure ends this morning. If you’d like to stay longer, just speak to your booking agent."
+    }
+  ],
+  "map": ""
+}

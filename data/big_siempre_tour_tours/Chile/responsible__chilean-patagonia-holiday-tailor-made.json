@@ -1,0 +1,60 @@
+{
+  "destination": "Chile",
+  "mainPhoto": "",
+  "id": "chilean-patagonia-holiday-tailor-made",
+  "tourName": "Chilean Patagonia holiday, tailor made",
+  "placesVisited": "",
+  "generalInfo": "In just under three weeks journey into the rugged wilderness of Chile, exploring remote natural gems and visiting four of the country’s most iconic national parks.<br/><br/>Begin and end in Santiago, Chile’s capital, before heading south to the Aysen region. Navigate the Marble caves, explore the rugged beauty of Patagonia National Park, and marvel at the mighty San Rafael Glacier. Continue to the Lake District and Chiloè Island, where you’ll discover colourful stilt houses, UNESCO-listed wooden churches and immerse yourself in local traditions during a home-cooked lunch with a Chiloè family. End your wild exploration of Chile in Torres del Paine National Park, seeking out the elusive puma, and enjoying guided activities that showcase both the pristine Patagonian landscapes and local culture. <br/><br/>Excursions are a mix of private and small-group tours, led by expert local guides. Accommodation has been hand-picked by us to ensure a comfortable and enriching experience. This trip can be tailored to your interests, so let us know your preferences.",
+  "durationDays": "17",
+  "price": "7464",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Santiago: Welcome to Chile’s capital Santiago. Upon arrival, settle into your boutique hotel in the heart of the city’s downtown. Spend the afternoon at leisure or let us organise a city tour or culinary experience on request."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Coyhaique: Return to Santiago airport and fly south to Coyhaique: the capital of the Aysen region and gateway to remote and untouched Patagonia. Spend two nights in the city in a rustic, charming hotel. The following day, with your expert local guide explore the trails of Cerro Castillo National Park. See hanging glaciers, hike through native forest and enjoy a true Patagonian experience on this full day tour."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "The Aysen Region: This morning, with your expert guide visit the Marble Caves, accessible only by boat. Navigate through the striking marble formations and marvel at their swirling blue and turquoise reflections. Continue along the shores of General Carrera Lake, Chile’s second largest lake, where you’ll be welcomed into a charming family-run lodge that will be your home for the next four nights. Over the coming days, discover the highlights of the Aysen region at your own leisure. From the secluded San Rafael Lagoon and its glacier, Patagonia National Park and the rapids of the Baker River, immerse yourself in the wild beauty of Chilean Patagonia."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Puerto Varas: Fly to Chile’s Lake District and transfer by road to the charming town of Puerto Varas, known for its lakes and German colonial influences. Stay one night at a lakeside hotel overlooking Lake Llanquihue and Osorno Volcano."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Chiloè: Take a morning ferry crossing to the enchanted island of Chiloè: a place of myths, traditions and wild beauty. Over the next three nights, get-off-the beaten path with your expert guide and visit the island’s coastal wetlands, villages and heritage church. Join a local family and learn what life was like for the ancient Chiloè farmer and learn all about the local traditions that have been preserved to this day. Take part in a unique gastronomical experience with a renowned chef and explore the bustling local market which offers an authentic experience into rural life on the island."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Torres del Paine: Journey deeper into Patagonia and fly to the colourful port town of Puerto Natales and continue to Torres del Paine National Park. Spend four nights at a charming working estancia where Patagonian heritage, conservation efforts and outdoor adventure are all part of the experience. Horseback ride across the Patagonian steppe, join conservation safaris to observe and learn about the local wildlife and conservation efforts, hike to spectacular viewpoints and discover the history of the estancia through cultural tours. All guided excursions are included as part of your stay and will allow you to explore the stunning landscapes and heritage of the park."
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Santiago: Say goodbye to Patagonia and fly north to Santiago, where you’ll spend one final night before heading home. If you would like to make the most of your time in the capital, we can arrange a guided city tour or recommend some wonderful places to eat- just let us know your preferences."
+    }
+  ],
+  "map": ""
+}

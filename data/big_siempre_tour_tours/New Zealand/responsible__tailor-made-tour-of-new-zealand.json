@@ -1,0 +1,160 @@
+{
+  "destination": "New Zealand",
+  "mainPhoto": "",
+  "id": "tailor-made-tour-of-new-zealand",
+  "tourName": "Tailor made tour of New Zealand",
+  "placesVisited": "Auckland, Paihia, Bay of Islands, Rotorua, Te Puia, Taupo, Napier, Wellington, Nelson, Abel Tasman Coastal Track, Christchurch, TranzAlpine through the Southern Alps, Hokitika, Fox Glacier, Wanaka, Te Anau, Fiordland National Park, Milford Sound, Queenstown, Mount Cook National Park",
+  "generalInfo": "This self-drive tailor made tour of New Zealand takes you from the North Island to the South Island, taking in all the country’s best-known highlights as well as little-visited, out of the way sights. Over 27 days you’ll get to know the ‘real’ New Zealand with the help of local guides and small, authentic hotels and lodges. <br/><br/>Your North Island highlights will include swimming with dolphins at the Bay of Islands, staying on a farm in Waikato, wine tasting in the winelands of Hawkes Bay and watching Maori craftsmen at Te Puia.<br/><br/>South Island brings more natural and cultural highlights, among which are walking part of the Abel Tasman Coastal Track, whizzing past stunning scenery on the TranzAlpine train from Christchurch to Greymouth, and planting a tree at a reforestation project at Wanaka’s Mou Waho Island. <br/>",
+  "durationDays": "27",
+  "price": "4965",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive at Auckland International Airport where you will be welcomed to New Zealand and transferred by private car to your hotel, which is located in the heart of the city, placing you within walking distance of a variety of the city’s dining, shopping and entertainment venues. Remainder of the day at leisure to explore the ‘City of Sails’."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Start the day with a leisurely breakfast before taking a ferry out to the pretty seaside town of Devonport with its beautiful views and fabulous cafes. Or head out to Rangitoto Island and walk up to the summit for amazing 360° views of the Hauraki Maritime Gulf or visit the conservation island of Tiritiri Matangi to see endemic species such as the Takahe and the Kokako."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Collect your rental car and drive north over the Auckland Harbour Bridge, along the Hibiscus Coast Highway to the seaside town of Paihia in the beautiful Bay of Islands."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "After a lovely breakfast at your accommodation enjoy a stroll in Paihia and in the afternoon board a cruise to the ‘hole in the rock’ , or take a ferry over to the historic village of Russell once called 'The Hellhole of the Pacific'."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "After breakfast join a guided tour of the Waitangi Treaty House and grounds – it was here in 1840 that the historic document was signed between Maori chiefs and British settlers forming the nation of New Zealand. Enter the meeting house, be awestruck at the size of the war canoe or stroll across the lawns for views out over the sea."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Time to leave the Bay of Islands and head South to Rotorua. En route it is possible to experience the real Middle Earth and visit Hobbiton Take a look at Bag End, where Frodo and Bilbo’s adventures began. Get lost among the hobbit holes and visit the Green Dragon Inn, the mill and the Party Tree. Listen to spell-binding tales of how Hobbiton came to be."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Visit the popular attraction of Te Puia to see Maori craftsmen demonstrating weaving, carving and other traditional skills and explore the fascinating geothermal wonderland. This evening experience Maori culture with a traditional ceremony, cultural performances and hangi meal."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Following breakfast, time to head to Taupo, the vast lake formed by a super-volcano thousands of years ago. This is a good spot for lunch before continuing to Hawkes Bay."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "After breakfast spend the day exploring Napier, the Art Deco capital of New Zealand. Take a guided walking tour to learn about how the town was rebuilt following the devastating earthquake in 1930. In the afternoon, take a wine tour guided by a local expert and visit some of the many boutique wineries for which the area is famous."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Travel south through the farmlands of central Hawke’s Bay and the Wairarapa into Wellington, the capital city and Seat of Parliament. Walk down Cuba Street with its eclectic mix of cafes, boutiques and bars, or spend the afternoon immersing yourself in New Zealand culture and history in Te Papa, the outstanding National Museum."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Board the Interislander ferry for a three and a half hour cruise to Picton. Drive to Nelson, the sunniest region in New Zealand famed for its easy lifestyle and vibrant arts scene."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "The best way to appreciate the amazing beaches is by boat, so after a coach transfer, hop on a small cruiser for the day. Land on an idyllic beach and walk a section of the famous Abel Tasman Coastal Track, then re-join the boat at Torrent Bay. Return to Nelson."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Depart by coach and enjoy the drive via the Lewis Pass or Blenheim for an East Coast journey to Christchurch. You can of course, choose to drive this and you would be able to stop off in Kaikoura on the way to Christchurch and enjoy a whale watching trip."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Depart Christchurch on the TranzAlpine train for a scenic rail journey through the splendour of the Southern Alps to the West Coast. Enjoy thrilling vistas over deep gorges as you travel alongside the ice-fed Waimakariri River to Arthur’s Pass before continuing on to the town of Greymouth. Collect your rental car and drive down the West Coast to the town of Hokitika, famed for its gold mining heritage."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "After breakfast continue south through the native rainforest of the Southern Alps Mountain Range to the small township of Fox Glacier. Take a walk to the Glacier and around the beautiful Lake Matheson. Or take to the sky and enjoy a scenic flight to see the glacier close up."
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Today travel south through the ever-changing scenery of the Haast Pass across the Southern Alps and around the shores of l Lake Hawea and into the charming town of Wanaka in Mt Aspiring National Park. Spend the afternoon exploring the town’s galleries, cafes and craft studios or take a walk around the shores of the lake and dine at one of the many highly rated restaurants."
+    },
+    {
+      "dayNumber": 17,
+      "title": "",
+      "description": "A day at leisure - Take a short drive out to the Matukituki Valley to view the Rob Roy Glacier, or enjoy an exhilarating river cruise on Lake Wanaka Alternatively visit the magical Mou Waho Island nature reserve, where guide Chris Riley will introduce you to the unique landscapes and diverse flora and fauna of the island."
+    },
+    {
+      "dayNumber": 18,
+      "title": "",
+      "description": "A day at leisure to enjoy all that Wanaka offers. Enjoy a slow walk along the lake and then maybe have some lunch in Wanaka."
+    },
+    {
+      "dayNumber": 19,
+      "title": "",
+      "description": "Today travel across Central Otago, around the shores of Lake Wakatipu and across Southland to Te Anau, gateway to the Fiordland National Park. Enjoy a short walk around the lake or cruise to the western shores of Lake Te Anau and visit the Glow worm caves."
+    },
+    {
+      "dayNumber": 20,
+      "title": "",
+      "description": "Travel by coach from Te Anau into Fiordland National Park to Milford Sound. Stop at the Mirror Lakes to see the near perfect reflections of the mountains, before arriving in Milford Sound. Cruise the Sound past Mitre Peak to the Tasman Sea. Enjoy the stunning scenery of cascading waterfalls, dense rainforest and the marine life that inhabits these waters."
+    },
+    {
+      "dayNumber": 21,
+      "title": "",
+      "description": "Surrounded by majestic mountains and set on the shores of crystal clear Lake Wakatipu, the natural beauty and unique energy of the Queenstown region create the perfect backdrop for a holiday full of adventure, exploration or relaxation."
+    },
+    {
+      "dayNumber": 22,
+      "title": "",
+      "description": "As well as white-knuckle thrills, Queenstown offers gentle cycling, wine-tasting, a gondola ride and good shopping. A cruise on TSS Earnslaw up to Walter Peak sheep station for dinner is a favourite early evening option."
+    },
+    {
+      "dayNumber": 23,
+      "title": "",
+      "description": "Drive alongside the shores of Lake Pukaki into Mount Cook National Park. This is an International Dark Sky Reserve and at the Mount John Observatory you can see galaxies ‘far far away’."
+    },
+    {
+      "dayNumber": 24,
+      "title": "",
+      "description": "Sir Edmund Hillary climbed these peaks before his ascent of Everest. Visit the Alpine Centre that bears his name, before following the Hooker Valley Track for superb views of Mount Cook."
+    },
+    {
+      "dayNumber": 25,
+      "title": "",
+      "description": "After enjoying the view from the Church of the Good Shepherd, step aside to see the statue which celebrates the working sheepdogs of the Mackenzie area, then cross the Canterbury Plains to Christchurch."
+    },
+    {
+      "dayNumber": 26,
+      "title": "",
+      "description": "Following the 2011 earthquake, the 'Garden City' is rebuilding, blending old and new to reclaim its place as the premier city of the South Island. A guided tour with a local is a must, then try a tram ride or go punting."
+    },
+    {
+      "dayNumber": 27,
+      "title": "",
+      "description": "After breakfast transfer to Christchurch Airport to return your rental vehicle and board your flight home."
+    }
+  ],
+  "map": ""
+}

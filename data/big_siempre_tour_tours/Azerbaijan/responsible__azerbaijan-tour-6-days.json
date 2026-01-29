@@ -1,0 +1,55 @@
+{
+  "destination": "Azerbaijan",
+  "mainPhoto": "",
+  "id": "azerbaijan-tour-6-days",
+  "tourName": "Azerbaijan tour, 6 days",
+  "placesVisited": "",
+  "generalInfo": "Explore the enchanting beauty of Azerbaijan in a comprehensive 6-day tour that takes you through the historical and cultural landmarks of this captivating country. Begin your journey in Baku, a city where European elegance meets Eastern charm, featuring architectural wonders, ancient mosques, and UNESCO-listed sites like the Maiden Tower. <br/><br/>Your adventure continues with a visit to the Gala Archaeological and Ethnographic Museum Complex, offering insights into Azerbaijan's ancient past through fascinating exhibits and a unique mini zoo. The tour takes a cultural turn towards Sheki, where you'll explore the heritage of the Udi people and visit their unique small church.<br/><br/>This tour is a perfect blend of history, culture, and natural beauty, designed to provide an unforgettable experience of Azerbaijan's most treasured sights.",
+  "durationDays": "6",
+  "price": "1157",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Baku, transfer to the hotel. Free day Overnight: Hotel in Baku"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Have a city tour around Old city (Baku Fortress): Tourists will visit the complex \"Old City\", which is UNESCO World Heritage Site. The tour starts at the entrance to Baku fortress. Tourists walk into fortress through the \"Double Gates\". Walking the ancient lanes of the fortress, tourists will visit the oldest Caravanserai, medieval Hamams and Mosques, Shirvanshakhs' Palace, and climb the rooftop of Maiden Tower. Maiden Tower is one of the legendary constructions of ancient East. Also the tour guide will show the tourist the place where apostle Bartholomew was crucified. Then you will head to Heydar Aliyev Cultural Center. An internationally recognized architectural marvel, Heydar Aliyev Cultural Center displays a curved modern style. Overnight: Hotel in Baku Meals: Breakfast"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "After breakfast starts excursion to museum complex Gala. The museum complex is located in Gala village. In the territory of museum there are gathered and restored monuments of architecture, found in Absheron peninsula. You can also visit an interesting museum of modern art, the exhibits ofwhich are created by an international team of artists and sculptors from items collected at the dump. Master class on cooking Gutabs (A flour dish of Azerbaijani cuisine, this is a thin crescent-shaped unleavened pie with a filling. As a filling is used meat, greens, pumpkin. Continue to the Zoroastrian temple-museum \"Atashgah. After an excursion in Atashgah you will head to mound Yanardag. After the Absheron Tour enjoy a beautiful drive out of Baku to visit the Gobustan National Park. You will travel 64 km southwest of Baku along with the Caspian shore. The tour will start from Gobustan Museum where you will see ancient human bones, work tools used in back to thousand years ago during the Mesolithic Period. Then, you will advance to the mountain in order to see real Rock Paintings in the open-air museum. You will also get a chance to marvel at the Mud Volcanoes in the Gobustan Reserve, which is home to almost half of the world’s mud volcanoes. At the end of the Gobustan tour, you will return to Baku. Overnight: Hotel in Baku Meals: Breakfast"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "In the morning, after breakfast, departure from your hotel to Sheki. On the way, visit Diri Baba mausoleum in Maraza village visit the Church of the Udi, near Gabala, in the village of Nij. Arrival to Sheki. You will have excursions in Sheki: The magnificent Palace of Sheki Khans and the Craft Museum. Built in 1797 as a summer residence for Muhammad Hasan Khan, the Palace of Sheki Khans is a masterpiece of lavish decoration. Both the exterior and interior decorations of the palace embody the architectural glamor of the ancient Sheki Khanate. Shebeke craft workshop. Overnight: Hotel in Baku Meals: Breakfast"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "The day will start with a nice tour around the local sweet bakery. After a while you will head to Kish village. The place is well known for its Church of Saint Elishe which is one of the oldest Orthodox churches in the world. Transfer back to Baku. Overnight: Hotel in Baku Meals: Breakfast"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Transfer to the airport, departure."
+    }
+  ],
+  "map": ""
+}

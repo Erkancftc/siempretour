@@ -1,0 +1,70 @@
+{
+  "destination": "Antarctica",
+  "mainPhoto": "",
+  "id": "active-argentina-and-antarctic-cruise-holiday",
+  "tourName": "Active Argentina and Antarctic cruise holiday",
+  "placesVisited": "",
+  "generalInfo": "Awaken your inner explorer on this three-week journey through Argentina and Antarctica and discover soaring peaks, vast glaciers and untouched polar landscapes. This is truly a once-in-a-lifetime experience, perfect for lovers of the outdoors, wild scenery and epic adventure. <br/><br/>Your journey begins in Buenos Aires, where a guided cycle tour reveals the city’s Parisian charm and neighbourhoods in the north. From the capital, fly south to Patagonia and venture to Argentina’s hiking mecca: El Chalten. Spend several days exploring the dramatic trails of Los Glaciares National Park, where glacier fields, jagged mountains, and turquoise lakes await around every bend. <br/><br/>Continue to El Calafate to marvel at the scale of the Perito Moreno Glacier, then fly even further south to Ushuaia, the world’s southernmost city. From here, embark on your ten-day voyage exploring the wild and untouched Antarctic Peninsula and South Shetland Islands. Guided by a hugely experienced team of naturalists, enjoy daily landings and zodiac excursions. Witness vast icescapes, sculpted icebergs, thriving penguin colonies, and enjoy close-up encounters with sea lions, whales and seabirds.<br/><br/>Throughout, excursions are a mix of private and small-group tours, led by expert local guides. Accommodation has been hand-picked by us to ensure a comfortable, responsible and enriching experience. This trip can be tailored to your interests, so let us know your preferences.",
+  "durationDays": "22",
+  "price": "16130",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Buenos Aires: Arrive in Argentina’s capital and private transfer to your boutique hotel. The following day, join your local guide for an in-depth cycle tour of leafy Palermo and iconic Recoleta. We recommend adding on a Tango show with dinner and wine tasting for an unforgettable evening, where you’ll discover the soul of Argentina’s capital."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "El Chalten: Fly south to El Calafate and transfer by bus to the mountain village of El Chalten in Los Glaciares National Park. From your hotel, set out on world-class hiking trails suited to every fitness level. Explore independently or with tailored guided planning. Recommended hikes include Laguna de Los Tres trail, with epic views of Mount Fitz Roy, and the Laguna Torre hike to admire the Cerro Torre."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "El Calafate: Return to El Calafate, the gateway to the Perito Moreno Glacier. Spend a full day exploring this natural wonder up close, sail Rico Lake, walk along panoramic walkways and see huge chunks of ice calve into the water. Optional adventures include a guided ice hike on the glacier or kayaking among floating icebergs."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Ushuaia: Fly further south to Ushuaia and transfer to your hotel. Choose to explore Tierra del Fuego National Park, sail the Beagle Channel or simply relax and enjoy panoramic views from your hotel."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Drakes Passage: After a leisurely morning, board your small expedition vessel and set sail for Antarctica. Over the next 48 hours, navigate the legendary Drake Passage and watch for wandering albatrosses, petrels and whales. Between wildlife sightings, join your Polar experts for fascinating lectures on the seas, ice, and wildlife of this extraordinary region."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "South Shetland Islands: Today rewards you with your first glimpse of Antarctica and the remote South Shetlands. Depending on conditions, you may go ashore to meet bustling penguin colonies, cruise in zodiacs past icebergs, or spot seals lounging on the ice floes."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Antarctic Peninsula: Continue south to the heart of the Antarctic Peninsula. Daily zodiac landings and shore excursions offer close encounters with gentoo, chinstrap, and Adélie penguins, as well as opportunities to see seals, whales, and an incredible variety of seabirds in their natural habitat. Navigate through narrow straits, explore picturesque bays and experience the profound silence of one of the most untouched places on Earth. Every landing is unique, shaped by weather, ice, and wildlife activity, ensuring no two voyages are ever the same. During your voyage, choose from a range of adventure options and even (possibly) camp under polar skies."
+    },
+    {
+      "dayNumber": 18,
+      "title": "",
+      "description": "Drakes Passage: Say goodbye to Antarctica and begin your journey back to Ushuaia, crossing the Drake Passage. Enjoy a last meal with your fellow comrades and reflect on the unforgettable moments shared and the privilege of having set foot on the White Continent."
+    },
+    {
+      "dayNumber": 20,
+      "title": "",
+      "description": "Buenos Aires: Disembark in Ushuaia and transfer to the airport for your return flight to Buenos Aires. Spend one final night in the capital before your onward journey home. If you’d like to make the most of your last night, we can recommend some wonderful places to eat- just let us know your preferences."
+    }
+  ],
+  "map": ""
+}

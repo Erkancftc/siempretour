@@ -1,0 +1,65 @@
+{
+  "destination": "Ecuador & Galapagos",
+  "mainPhoto": "",
+  "id": "classic-galapagos-island-hopping-tour-tailor-made",
+  "tourName": "Classic Galapagos island hopping tour, tailor made",
+  "placesVisited": "San Cristobal, Kicker Rock, Santa Cruz, Charles Darwin Research Station, Highlands excursion, Giant Galapagos Tortoises, Isabela, Flamingo Lagoon, Sierra Negra Volcano trek, Concha Perla, Los Tuneles, Kayaking in bay of Puerto Villamil",
+  "generalInfo": "Perhaps the world's foremost destination for wildlife watching, and the inspiration behind Charles Darwin's Theory of Evolution, the Galapagos Islands are an awe-inspiring archipelago of biodiversity. On these isolated isles you'll discover plant and animal species that simply don't exist anywhere else, some as uninhabited as the day the Beagle first weighed anchor here. <br/><br/>On this eight day, island-hopping tour of the Galapagos, we visit three of the main islands, San Cristobal, Santa Cruz and Isabela, travelling between them using speedboat transfers and staying in comfort class hotels. <br/><br/>Our tour begins on the island of San Christobal, where you will have free time to visit the Interpretation Centre or enjoy some sun on the beautiful Playa Mann beach if you like. We'll spend a whole day snorkeling and exploring the stunning marine life around Kicker Rock, where sharks and rays swim, before continuing on to the island of Santa Cruz. And it's here, on the Santa Cruz Highlands, that you'll meet the famous Giant Galapagos Tortoises. <br/><br/>We then transfer to Isabela island, where we visit the colourful residents of the Flamingo Lagoon. Isabela is also the site of Los Tuneles, a sea sanctuary considered as one of the world's best spots for snorkeling. Lava flows have produced unique geological formations creating the ideal habitat for a wide variety of marine species. We'll also enjoy a kayak excursion of Puerto Villamil Bay.",
+  "durationDays": "8",
+  "price": "3807",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Quito – San Cristobal – Free Afternoon: Our English speaking guide will be waiting for you at the San Cristobal airport. If you arrive before 02:00 PM you will get lunch. If you arrive later, lunch is not included. This day will be self-guided. Optional activities: You can visit The San Cristobal Interpretation Center, where you will learn about the islands, evolution of their species, fauna, migration, and how humans came to live here. Then you can go to Playa Mann for your first contact with the stunning waters of these islands. Accommodation in Hotel Casa Opuntia or similar. Lunch included."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Kicker Rock: After breakfast, you go by boat to snorkel at Kicker Rock, one of the most spectacular landmarks in the Galapagos Islands. Two volcanic rocks of 140 meters tall, located off the coast of San Cristobal Island. Viewed from the south, the rocks look like a sleeping lion, which is why the Spanish name is León Dormido (sleeping lion). From another side it looks like a boot, hence the English name: Kicker Rock. This tiny island is the favorite place for an array of marine birds and great underwater life. The natural erosion of this ancient cone has created a channel between the rocks that provides the ideal habitat to a variety of sharks and rays. In the afternoon, you go back to the hotel. Accommodation in Hotel Casa Opuntia or similar. Breakfast and lunch included."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Free Morning – Puerto Ayora: You have the morning for yourself where you can visit Playa Mann, La Loberia or just to relax in your hotel. At 14:00 PM, you take the public speedboat to Puerto Ayora (about 2,5 hours). Upon arrival you will be taken to your hotel. Accommodation in Hotel Fiesta or similar. Breakfast included."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Bartolome, Plazas, Floreana, or North Seymour: Today you go on a full day tour by speedboat to one of the uninhabited islands Bartolome, Plazas, Floreana or North Seymour. All the trips include some snorkeling and hiking. The chosen island depend on availability and National Park regulations. You can let us know your preference. Accommodation in Hotel Fiesta or similar. Breakfast and box lunch included."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Santa Cruz Island Highlands – Isabela Island: In the morning you will go to the Highlands of Santa Cruz to make closer contact with the Giant Galapagos Tortoises in their natural habitat. You will be surrounded all the excursion by the endemic vegetation of the Galapagos. Around 1:30 PM, you will take a public speedboat to Isabela Island, which takes approximately 2,5 hours. Upon arrival in Isabela, you will be taken to your beach front hotel. You can walk around or visit by yourself the Flamingo Lagoon (10 min walking). This place is the largest coastal lagoon found in the Galapagos and is one of the main reproductive sites for the majority of flamingos. Accommodation in Hotel Albemarle or similar. Breakfast included."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Los Tuneles: After breakfast, your guide will take you to what is said to be one of the best snorkeling places in the world, Los Tuneles. The water is shallow, calm and very clear- a sea sanctuary. A series of lava flows have produced unique geological formations, a series of arcs and tunnels underneath and above the water- a habitat for many local Galapagos Species. The entrance to the site is shallow and the waves can be strong, for this reason, the access can be complicated. You will have a snack on board and then return to Puerto Villamil. Accommodation in Hotel Albemarle or similar. Breakfast and snack included."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Kayak in Puerto Villamil - Free Afternoon: After breakfast the guide will accompany you for a kayak excursion in the bay of Puerto Villamil. The afternoon you have time to enjoy the beautiful beach or to do another optional activity. Accommodation in Hotel Albemarle or similar. Breakfast included."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Flight to Baltra Airport: After breakfast you take a flight from Isabela airport to Baltra airport (about 45 minutes). Your tour ends on Baltra Airport. Breakfast included. End of services."
+    }
+  ],
+  "map": ""
+}

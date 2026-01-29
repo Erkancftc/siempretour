@@ -1,0 +1,50 @@
+{
+  "destination": "Seychelles",
+  "mainPhoto": "",
+  "id": "seychelles-mini-cruise",
+  "tourName": "Seychelles mini cruise",
+  "placesVisited": "",
+  "generalInfo": "A small ship cruise is the perfect way to discover the unspoilt 115-strong archipelago of the Seychelles, hopping from island to island, visiting places which will captivate your senses with their amazing and unique flora and fauna. It’s a little taste of paradise, where every step takes you further off the beaten track of over tourism.<br/><br/>Life here is as fascinating and unusual below the water as it is above, and every secluded beach feels like your own private paradise.  If you're looking to immerse yourself in nature and learn about the amazing wildlife of these islands, or simply escape from the fast pace of life on beautiful beaches, this cruise will fit the bill.<br/><br/>Optional excursions take you to see the famous Hawksbill Turtles, Cousin Island which is home to amazing endemic bird species, nature walks and more.  Life on board is all about relaxation, amazing swim stops in secluded bays, beautiful local food and of course the warm welcome from our dedicated crew.<br/><br/>If you're short on time our seven night Garden of Eden Cruise can be shortened to either a 3 or 4 night sailing - hopping between Mahe &amp; Praslin or reversed.",
+  "durationDays": "5",
+  "price": "2652",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Saturday: Mahe/Victoria (Inter island Quay) - St. Anne. Embarkation 15:00 to 16:00 pm. After the Welcome cocktail and safety drill, we leave Port Victoria and sail to nearby St Anne for a refreshing swim stop off the ship. Overnight at anchor near St Anne. Welcome dinner"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Sunday: St. Anne - Curieuse. St Anne Island - Curieuse We leave St Anne Island early in the morning to reach Curieuse. This morning we visit this uninhabited island, once a leper colony and home to giant tortoises. Our walking excursion with a park guide will bring us to the farm, along mangrove forests. Later we return to the beach for a BBQ under the trees. In the afternoon you can enjoy the beach and sea activities. Overnight at anchor."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Curieuse - Cousin island - Anse Lazio. In the morning we sail for Cousin Island. Excursion to the Bird Sanctuary which is in the care Bird Life International. A quarter million birds breed on Cousin which also has several nesting beaches for turtles. Later in the afternoon we reach Anse Lazio. In the afternoon we sail to Anse Lazio, Praslin, one of the most beautiful beaches in the world. Time for water sports and snorkeling. Evening at anchor."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Tuesday: Anse Lazio - Aride - St. Pierre - Baie St. Anne/Praslin. In the morning we leave for Aride. Our excursion by the island’s rangers will take you all the way to the top of the island for an amazing view of the island. The island is home to the Wright's gardenia found nowhere else on earth and to bird species like the Audubon's shearwater, the Seychelles warbler. At noon we sail for St Pierre Island. We reach St Pierre after lunch for a 3 hour snorkeling and swimming stop. At sunset, we leave St Pierre to sail into Baie St Anne, Praslin. Overnight at dock. Creole Night."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Wednesday: Baie St. Anne, Praslin. Disembarkation at 9:00 am after breakfast."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,50 @@
+{
+  "destination": "Tanzania",
+  "mainPhoto": "",
+  "id": "tanzania-nyerere-safari-holiday-zanzibar",
+  "tourName": "Tanzania Nyerere safari holiday & Zanzibar",
+  "placesVisited": "Dar es Salaam, Nyerere National Park, three nights on safari, Zanzibar beaches, optional trips including to Stone Town or Jozani Forest, option to include Mafia Island and Pemba Island",
+  "generalInfo": "Enjoy an off-the-beaten track safari experience in the Nyerere National Park, then explore the idyllic island of Zanzibar.<br/><br/>This 10-day tailor-made holiday offers an off-the-beaten track safari experience in Nyerere National Park in southern Tanzania where you can enjoy game drives with expert guides, plus bush walks and boat safaris. You can expect to see large herds of elephants, plus buffalo, giraffe, zebra, impala, eland, wildebeest, baboon, hyena, lion and leopard, as well as the endangered African wild dog. <br/><br/>From  Nyerere, you'll fly to the exotic spice island of Zanzibar where you can relax on the palm-fringed sandy beaches, enjoy activities such as diving and snorkel on the colourful coral reefs, kite-surfing, mountain biking or hiking or join excursions to discover the mangrove forests, spice plantations and local villages, or the fascinating UNESCO World Heritage Site of Stone Town.",
+  "durationDays": "10",
+  "price": "5999",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive Dar es Salaam & Fly to Nyerere National Park - Upon arrival at Dar es Salaam Airport, you’ll be met by a representative who will transfer you to the domestic terminal, where you’ll board a scheduled light aircraft flight to an airstrip in the Nyerere National Park in southern Tanzania. At the airstrip, you’ll be met by a representative and driven to your luxury lodge or camp, where you’ll stay for the next four nights."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Explore Nyerere National park - Covering over 50,000 square kilometres, 5% of Tanzania, Nyerere is Africa’s largest game reserve and twice the size of the Serengeti, yet remains one of the country’s least visited safari destinations. The mighty Rufiji River winds through the park, creating a mosaic of lakes and deltas that attract diverse wildlife, especially during the dry season (June to November). Spot elephants, crocodiles, hippos, buffalo, giraffe, lion, leopard and the endangered African wild dog. Game drives in 4WD vehicles can venture off-road for closer wildlife encounters, and you can also explore this remote wilderness on foot or by boat."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Fly from Nyerere to Zanzibar - This morning you can enjoy one final game drive in the Nyerere before being transferred back to the airstrip for your scheduled light aircraft flight to Zanzibar. You will be met on arrival in Zanzibar and driven to your accommodation, where you will stay for the next four nights."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Explore Zanzibar - Zanzibar is ideal for unwinding after safari, with its beautiful sandy beaches, clear turquoise waters, and vibrant coral reefs. You can relax on palm-fringed shores or stay active with options like snorkelling, diving, windsurfing, sea kayaking, and sailing, sometimes spotting dolphins, turtles, or whale sharks. There are also opportunities to explore the island’s rich culture and history, including excursions to Stone Town, spice plantations, Jozani Forest, and local villages."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Depart from Zanzibar - Your Nyerere and Zanzibar holiday comes to an end. After breakfast, you’ll check out of your accommodation and be driven back to Abeid Amani Karume International Airport for your flight home."
+    }
+  ],
+  "map": ""
+}

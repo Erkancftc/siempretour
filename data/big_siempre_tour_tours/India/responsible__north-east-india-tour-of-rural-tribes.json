@@ -1,0 +1,40 @@
+{
+  "destination": "India",
+  "mainPhoto": "",
+  "id": "north-east-india-tour-of-rural-tribes",
+  "tourName": "North East India tour of rural tribes",
+  "placesVisited": "Kolkata, Shillong, Khasi homestay, South Sikkim, Bhutia family homestay, Yuksom, Khecheperi Lake, Kanchenjunga Falls, Mt. Kanchenjunga, Pelling",
+  "generalInfo": "This Northeast India tour takes travellers into little-visited regions, through the undulating valleys of Meghalaya to the mountainous sub-Himalayan regions of Sikkim, where you’ll spend time with the Limbu, Bhutia and Khasi communities of these remote areas. These tribes share a rich ancestry from as far off as Tibet, Bhutan, Nepal and even Myanmar, which is mirrored in their religious beliefs, their living habits, their artisanal skills and traditions and most importantly their cuisine. Both the Khasis and the Limbus of are matrilineal societies, with property and family deities all passing from mother to daughter. <br/><br/>Your journey starts in Meghalaya State, in the city of Shillong, where colonial British settlers left their mark with their churches, the bazaars and the culture of music. Moving on, you’ll spend four days with a local Khasi family in their village, immersing yourself in local life. Time can be spent experiencing traditional honey hunting, weaving, extracting silk or other artisanal pursuits. <br/><br/>Next, you’ll fly to South Sikkim, where you’ll visit the settlements of the Limbus and Bhutias. Both tribal communities are predominantly farmers and ecologists at the same time. The Limbus, for example, participate in an annual afforestation program lead by the local Sikkim Government to plant forest tree saplings all over the surrounding mountain slopes. You’ll experience life on an organic farm, visit ancient monasteries, a waterfall and a magical lake, and discover a region rich with endemic species found nowhere else on the planet. <br/>",
+  "durationDays": "15",
+  "price": "4500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Yuksom & Khecheperi Lake Today is spent in the discovery of the local landscape from the mighty Kanchenjunga falls, to the ancient capital of Yuksom we’ll ultimately end up at the magical lake of Khecheperi to spend the night, with the lake’s folklore for company amidst it’s beautiful environs."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Pelling, West Sikkim Pelling and the surrounding regions are all about the discovery of the region’s organic farming practices, be it tea, rice or millet, its ancient Monasteries and Ruins of Rabdentse – its former capital, the spectacular views of Mt. Kanchenjunga and the Himalayan peak line. But ultimately it’s about the discovery of its wonderful traditions surrounding gastronomy – from their locally-brewed millet beer Tongba or their authentic Thendruks and Thukpas."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Return to Kolkata We bring you back to Kolkata to ultimately connect onwards, either back home or on another journey with us in a different part of the sub-continent."
+    }
+  ],
+  "map": ""
+}

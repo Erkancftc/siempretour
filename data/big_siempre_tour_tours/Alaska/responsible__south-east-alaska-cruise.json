@@ -1,0 +1,65 @@
+{
+  "destination": "Alaska",
+  "mainPhoto": "",
+  "id": "south-east-alaska-cruise",
+  "tourName": "South east Alaska cruise",
+  "placesVisited": "Sitka, Glacier Bay National Park, Skagway, White Pass & Yukon Route railroad, Juneau, Colt Island, Tracy Arm, Frederick Sound, Petersburg, Wrangell Home, Thorne Bay, Kasaan, Metlakatla, Misty Fjords, Ketchikan, Activities include kayaking, beach bonfires, village visits",
+  "generalInfo": "This cruise slips down a treat. In a week you can make some serious headway into southeast Alaska’s sounds, fjords and straits. Start in Sitka, a city right on the edge of the ocean and end in Ketchikan, the salmon capital of the world.<br/> <br/>Southeast Alaska is a thin strip of the USA that sits on the edge of Canada. Its lacy edge of islands is raggedy with glaciers and cloaked with the temperate rainforest of Tongass National Forest. Many people come here to explore Glacier Bay and its surrounding Glacier Bay National Park, but on this small ship cruise you can also visit Tlingit towns like Kake and see the world’s tallest totem pole. <br/><br/>It’s waterways, not roads, that connect the communities on the islands, so a small cruise ship is the best way to see everything. Excursions by kayak and reinforced inflatable boat get you even closer to the scenery.<br/><br/>In the water, there’s every chance of seeing whales feeding in Frederick Sound and sea lions hunting off the rocks. On the shore, you might see a foraging bear emerging from between the Sitka spruce. Decamp to your boat’s DIB (Demaree Inflatable Boat), which is designed to cruise in shallow water, and you can safely observe wildlife close to the shore.  <br/>",
+  "durationDays": "8",
+  "price": "4847",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Sitka Welcome to beautiful Sitka—the only community in Southeast Alaska that faces the open ocean waters of the Gulf of Alaska. We encourage you to arrive early and explore the community’s rich culture, history, and biodiversity. Then embark for the winding narrows north of town while searching for bald eagles, sea otters, bears, whales, and other wildlife."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Kake and Frederick Sound View the world’s tallest totem pole, a carving demonstration, and experience the inspiring culture of the Tlingit in the Alaska Native village of Kake. Later, explore the Alaska wilderness in picturesque Frederick Sound—an area humpback whales and other wildlife frequent. Humpbacks are famous for behavior that lends itself to incredible viewing and photography, such as tail lobbing, lunge feeding, pectoral slapping, breaching, and graceful dives that showcase their massive flukes. Other opportunities for in-depth exploration may include the protected waters or shores of Security Bay, Skanax Bay, Pybus Bay, and The Brothers islands."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Wrangell Home to a little over 2,000 permanent residents, Wrangell is the only town in Alaska to have been under the jurisdiction of three flags and ruled by four nations- the Tlingit, Russia, England, and the United States. Enjoy several options to explore this colorful history, including a guided tour and a trip to the Wrangell Museum. Visit the intriguing state historic park, Petroglyph Beach, which contains the highest concentration of petroglyphs in Southeast Alaska."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Petersburg & Wilderness Exploration Discover the charming Mitkof Island fishing town of Petersburg. Founded by Norwegian fishermen in the late 1800s, Petersburg is nicknamed Alaska’s “Little Norway.” Experience this Scandinavian culture with a folk-dance show by local youth at the iconic Sons of Norway Hall. Later, explore the Alaska wilderness on the eastern side of Frederick Sound. Your Captain and expedition team will choose an exciting activity based on the day’s circumstances and weather. Options may include trekking ashore, kayaking, or wildlife viewing in the sound."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Tracy Arm Fjord Journey through Tracy or Endicott Arm in the Tracy Arm-Fords Terror Wilderness, a place the famous naturalist, John Muir, referred to as, “A wild, unfinished Yosemite.” Renowned for its glaciers, pristine waterfalls, towering icebergs, abundant harbor seals, and granite cliffs that rise from sea level to 4,000 feet, this wilderness is often referred to by locals as one of the most scenic areas in the state."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Glacier Bay National Park This remarkable national park fjord extends 65 miles, contains tidewater glaciers, and provides pristine habitat for a wide array of wildlife, including both brown and black bears, wolves, mountain goats, Steller sea lions, and humpback whales. The highlight for many is Margerie Glacier or John Hopkins Glacier, which have been known for their dramatic calving displays. Enjoy a stop at Bartlett Cove for an evening rainforest walk and Huna Tribal House visit or kayak paddle."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Lisianski Inlet & Pelican Transit Lisianski Inlet, a narrow body of water between Yakobi Island and Chichagof Island. These islands are home to dense populations of coastal brown bears and other Alaska wildlife species. Explore the unique boardwalk “road” of Pelican, Alaska during a port call to this small fishing community of just 60 to 70 year-round residents."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Juneau Disembark in Juneau, the beautiful capital city of Alaska. Transportation to your hotel or the airport is complimentary on the day of disembarkation. We encourage you to spend some time exploring the capital on your own. The town boasts a vibrant culinary scene, local breweries, distilleries, cultural centers, museums, a tram, the Mendenhall Glacier, and more."
+    }
+  ],
+  "map": ""
+}

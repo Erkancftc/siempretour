@@ -1,0 +1,60 @@
+{
+  "destination": "Costa Rica",
+  "mainPhoto": "",
+  "id": "one-week-costa-rica-adventure-tour-for-couples",
+  "tourName": "One-Week Costa Rica Adventure Tour for Couples",
+  "placesVisited": "Arenal, Tortuguero, Osa Peninsula",
+  "generalInfo": "By including Caribbean escapism, Pacific Ocean bliss, and the rainforest canopy, this luxurious, 7-day tour captures the three essential elements of a Costa Rica adventure for couples. Handcrafted with domestic flights and private activities, this one-week tour will celebrate the unspoiled allure of Costa Rica, including hidden beaches, volcanic hot springs, hanging bridges, and sea turtles. It will provide you with a getaway from the world, where wildlife sings an evening lullaby and luxury radiates from your private locations.",
+  "durationDays": "7",
+  "price": "2,100",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Arenal – Private Hot Springs",
+      "description": "After a meet and greet service at Juan Santamaria International Airport, you will be transferred to Arenal. You should note that of San Jose’s two international airports, Juan Santamaria is better as it is located on the Arenal side of the capital city. You will check-in to your lodge, where you will have a two-hour couple’s treatment in the spa. This will still leave some time for free exploration in the surrounding rainforest. Trails set out directly from your lodge, and you do not need a guide to explore these mostly private sections of Arenal. Your main highlight will likely be the hot springs. Although the Arenal area is famous for its therapeutic waters, only a couple of lodges have private hot springs."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Arenal – Hanging Bridges and a Volcano",
+      "description": "After breakfast, your local guide will discuss different hiking options with you in addition to some other activities that you may wish to try, such as ziplining or horseback riding. A legendary experience can be found high in the treetops: wandering upon hanging bridges that provide you with a bird’s-eye view of an immaculate landscape. On today’s tour, you can traverse the slopes of a volcano. After a customizable day of touring, you will have more time to enjoy your lodge, hot springs, and gardens."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Tortuguero – The Caribbean Coast",
+      "description": "This morning, you will fly to the Caribbean coast before transferring to Tortuguero National Park, which is a wilderness area that is best navigated by boat and canoe. Your lodge will be more than 100 miles from the nearest town, and the coastline is inaccessible by road. Tortuguero is famous for sea turtles. You will be staying at a luxury lodge that is located directly on the water. As you are staying in the wilderness, all meals will be included at the lodge and can be served to your room. After checking-in to your lodge, a local guide will explain different activity options to you. You can spend some alone time at the beach, traverse narrow creeks in small boats, or venture on some short hikes."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Tortuguero \u0000– Wildlife Encounters and Connections",
+      "description": "With a full day in Tortuguero, you can discover much of the best of Caribbean Costa Rica. After traveling inland along the rivers, you can stop at a small Afro-Caribbean village. From the village, you can travel around another few river bends to Tortuguero Beach, where hundreds of sea turtles lay their eggs, and a conservation program is helping to ensure the survival of a new generation. Today’s program will be flexible, and you can adjust the activities to your mood. It will be worth exploring creeks in the morning before the midday heat takes hold. You may also want to indulge in an expedition to a hidden rainforest waterfall or to spend an afternoon drinking cocktails around the pool."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Osa Peninsula – Pacific Ocean Seclusion",
+      "description": "After crossing Tortuguero River by boat, you will fly across Costa Rica to the Osa Peninsula. Your lodge will be located inside Corcovado National Park. From your suite, your views will be entirely uninterrupted. These views can also feature the onsite spa, and after checking in, you will enjoy a couple’s treatment in the spa, which will prove to be an excellent way to fill the hotter hours of the day before having the afternoon at your leisure. There are some stunning beaches within easy reach of the lodge, including two that can be visited on a self-guided rainforest trail. Today, you will find pure seclusion amid a landscape of tropical colors and evocative sounds."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Osa Peninsula – Natural Splendor",
+      "description": "During your full day in the national park, you can explore in many different directions. The activities will be customized to your interests and are best arranged after you arrive, so they can be tailored around your prevailing mood. You can indulge in a stroll along the Carbonera River with a local guide before swimming beneath the falls. The Osa Walk rainforest trail is an excellent choice for a self-guided hike because most of it is well signposted. A stay in Corcovado always involves some beach time, and you can visit different stretches of sand, including small bays that are concealed by overhanging forest and what remains of an ancient cliff line."
+    },
+    {
+      "dayNumber": "7",
+      "title": "San Jose – Departure",
+      "description": "After a final breakfast and spa session in Costa Rica, you will be transferred to the airport for a domestic flight back to San Jose. Here, you will be assisted in transferring to international departures for your outbound flight."
+    }
+  ],
+  "map": ""
+}

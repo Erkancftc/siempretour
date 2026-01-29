@@ -1,0 +1,65 @@
+{
+  "destination": "Belize",
+  "mainPhoto": "",
+  "id": "belize-for-all-ages-family-with-seniors-tour",
+  "tourName": "Belize for All Ages: Family with Seniors Tour",
+  "placesVisited": "San Ignacio, Ambergris Caye, Hol Chan Marine Reserve, Cockscomb Basin Wildlife Sanctuary, Xunantunich",
+  "generalInfo": "Celebrate natural wonders and historic splendor during your luxurious 8-day family Belize tour. Create lasting memories with your family during fascinating excursions in search of jaguars, hiding in the rainforest underbrush, or finding black howler monkeys among trees. The charms of Belize will enchant and inspire your family, from its azure Caribbean waters to the emerald leaves of the tropical jungle and hidden Mayan cities.",
+  "durationDays": "8",
+  "price": "4,600",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "San Ignacio – Introduction to Belize",
+      "description": "Your flight will land at Philip S.W. Goldson International Airport, where your private transfer will meet your family and escort you deep into the remarkable jungle terrain to your luxurious eco-friendly accommodation. After settling in to the comforts of your accommodation, the remainder of the day will be yours to enjoy the secluded destination as a family by walking along the Medicine Trail or visiting the butterfly farm. At the butterfly farm, you can learn about the stunning Blue Morpho butterfly by watching the life cycle progress from a pale green egg the emergence of the iridescent blue wings from the cocoon."
+    },
+    {
+      "dayNumber": "2",
+      "title": "San Ignacio – Wildlife along the Macal River",
+      "description": "When you are ready, you will meet your guide in your hotel’s lobby and be led through the wilderness of Belize. The peaceful water away from the borders of San Ignacio will brush against serene shores that support dozens of endangered species, such as the scarlet macaw, Morelet’s crocodile, and jaguars. Your family will feel inspired as you witness troops of these monkeys, which are the loudest terrestrial animal in the Western Hemisphere as their calls are audible for up to three miles away. The slow pace of your tour will provide you and your family with more time to view the wildlife."
+    },
+    {
+      "dayNumber": "3",
+      "title": "San Ignacio – Cockscomb Basin Wildlife Sanctuary",
+      "description": "The marvels of the Cockscomb Basin Wildlife Sanctuary will welcome you with nearly 200 square miles of preserved jungle terrain. The lush and dense forest terrain supports flocks of neotropical birds in addition to wildcats, grazing tapir, and elegant deer, which represents the incredible biodiversity through a mosaic of rugged landscapes. A marked trail will lead you from the visitor’s center deeper into the jungle, where you will find the colorful beaks of keel-billed toucans as they forage for nuts. The sanctuary protects approximately 20 jaguars that live and hunt within the tree canopy."
+    },
+    {
+      "dayNumber": "4",
+      "title": "San Ignacio – The Mayan Ruins of Xunantunich",
+      "description": "When you are ready, you will meet your guide and travel to the fascinating site of Xunantunich, which is one of Belize’s most impressive archeological sites. Your family will delight in traveling across the waters of the Mopan River by a classic hand-cranked cable ferry, and the warmth of the tropical jungle will blanket the complex upon your arrival. Your guide will lead you among the deserted homes and preserved architecture that reflect the depths of the Mayan civilization. You can climb the steps to the top of the structure to earn the reward of a panoramic view of a classic Maya settlement and the eastern frieze."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Ambergris - Delight in a Zipline Tour",
+      "description": "Today, your family will indulge in an exhilarating zipline excursion that will have you gliding through the trees. Your guide will escort you from your hotel to the base of your adventure in the rainforest, where you will travel up to 75 feet above the forest floor along a series of elevated platforms. During your ziplining adventure, you will be able to hear the chatter of the birds hidden in the trees. You can also visit the famous Actun Tunichil Muknal Cave before reaching Ambergris Caye. Here, you and your family will discover the surprising Crystal Maiden, which is a skeleton of a woman covered in calcium carbonate."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Ambergris – Hol Chan Marine Reserve",
+      "description": "After breakfast, you will board a boat and venture to the heart of Hol Chan Marine Reserve, which covers 4,448 acres on a natural break in the reef. Here, you will plunge into the tropical waters with your guide for an incredible snorkeling tour within the marine gardens. During your expedition, you will discover the spectacular hues of the reef. The protected marine area offers refuge for sea anemones, curious moray eels, and sea turtles. You will continue with your family to Shark Ray Alley, where you will have a captivating time witnessing groups of nurse sharks and stingrays."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Ambergris – Family Day at your Leisure",
+      "description": "After breakfast, the day will be at your leisure to indulge in the beauty of the island and greater Belize at your preferred pace. For an exciting possibility, you can indulge in a cruise around Swallow Caye Wildlife Sanctuary, where the protected land and water covers over 9,000 acres. Your skipper will turn off the motor, causing the boat to float quietly on the calming water surrounded by the emerald hue of the bordering jungle. On your way back to the dock near your hotel, you can also find bottlenose dolphins as they leap out of the Caribbean Sea."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Ambergris – Depart for Home",
+      "description": "In the morning, you can indulge in the majesty of Ambergris Caye before the streets of San Pedro brim with activity. When the shops and restaurants in town open, the air will fill with the aromas of traditional Belizean dishes, such as steaming tamales, stewed chicken, and the invigorating scent of fresh ceviche. At breakfast, you will find the exquisite flavors of mangos, grapefruits, and bananas before your transfer meets you in the lobby and escorts you to the Ambergris Caye airport for your flight to Belize City, where you will continue home."
+    }
+  ],
+  "map": ""
+}

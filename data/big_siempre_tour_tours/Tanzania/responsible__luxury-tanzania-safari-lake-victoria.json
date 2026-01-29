@@ -1,0 +1,65 @@
+{
+  "destination": "Tanzania",
+  "mainPhoto": "",
+  "id": "luxury-tanzania-safari-lake-victoria",
+  "tourName": "Luxury Tanzania safari & Lake Victoria",
+  "placesVisited": "",
+  "generalInfo": "Explore three of Tanzania’s unique, wildlife-rich landscapes. While Northern Tanzania is best known for Serengeti National Park, there are a number of other national parks and conservation areas that offer exceptional wildlife experiences, with fewer crowds and vehicles.<br/><br/>In this itinerary, you’ll visit three of these areas: Tarangire National Park, the Ngorongoro Crater Conservation Area, and Rubondo Island National Park. Each offers something unique. Tarangire National Park delivers a Big Five safari with varied landscapes, diverse bird species, and relatively few visitors.<br/><br/>The Ngorongoro Crater is the busiest of the three destinations in this itinerary, but with expert guides, you’ll descend into the crater early in the morning, before the crowds arrive, and have the opportunity to enjoy other activities such as hiking and authentic cultural experiences with the local Maasai community.<br/><br/>Finally, Rubondo Island National Park, which is perhaps the most unique of the three. This small island within vast Lake Victoria is almost entirely covered by pristine forest. It is home to just one camp; the only other human inhabitants are researchers studying the island’s habituated chimpanzees. Guests can enjoy game drives, birdwatching, boat safaris, catch-and-release fishing, and even join rangers on chimpanzee treks.<br/><br/>Throughout the journey, you’ll stay in luxurious lodges, each set in a prime location to maximise your game-viewing opportunities and offer breathtaking views across the wilderness.",
+  "durationDays": "9",
+  "price": "6185",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "After arriving in Tanzania, transfer from Kilimanjaro International Airport to a hotel in Arusha for an overnight stay."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "You will be transferred to your camp in Tarangire National Park. Enjoy lunch at the luxury tented camp and relax on your private deck before experiencing your first game drive."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Spend your day exploring Tarangire National Park. The camp offers guided walking safaris and night drives. Tarangire National Park is home to an array of animals, including rarer species such as wild dogs, oryx and gerenuks."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Today you will travel towards the Ngorongoro Crater, arriving at your stunning camp, The Highlands, set on the slopes of Olmoti volcano. The Highlands is a small camp with eight unique domed suites that offer panoramic views of the surrounding forest."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Explore the Ngorongoro Crater Conservation Area, home to the ‘Big 5’. Enjoy game drives before returning to camp, where roaring fires will await guests in the cosy suites and lounge areas."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Travel to Rubondo Island National Park, a remote island on Lake Victoria. Rubondo Island Camp is the only camp on the protected island, which is wild and virtually uninhabited, apart from park wardens and researchers."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Explore the island, combining time spent relaxing in the peaceful surroundings with a range of activities. The activities on offer range from cookery classes and fishing trips to a chimpanzee habituation experience and guided forest walks."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Begin your journey home, having explored some of Tanzania’s hidden gems."
+    }
+  ],
+  "map": ""
+}

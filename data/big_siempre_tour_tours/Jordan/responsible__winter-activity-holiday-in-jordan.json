@@ -1,0 +1,65 @@
+{
+  "destination": "Jordan",
+  "mainPhoto": "",
+  "id": "winter-activity-holiday-in-jordan",
+  "tourName": "Winter activity holiday in Jordan",
+  "placesVisited": "",
+  "generalInfo": "Jordan offers guaranteed sunshine for most of the year - perfect for outdoor thrill seekers!<br/><br/>A perfect trip for action enthusiasts who want to go beyond the ordinary, on this itinerary you will cycle from Madaba to Mount Nebo, hike through the desert to the 'back door' of Petra and climb mountain trails in Petra and Wadi Rum. Also on offer is a 4x4 jeep safari through Wadi Rum's otherworldly landscapes and hiking through the Wadi Ghwair canyon to reach a magical pool and waterfall. <br/><br/>Your active holiday will conclude with diving opportunities and exploring the Red Sea. <br/><br/>Jordan is an adventurer's playground for young and old!",
+  "durationDays": "8",
+  "price": "2350",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Queen Alia International Airport – Madaba Arrival at Amman Queen Alia International airport, our representative waits you at the airport holding a name sign and he will help you in arranging your visa ( Non- restricted nationalities), and then walk with through the customs. Your driver will wait for you in the arrival hall, holding a name sign he will transfer you to the 4* Grand Hotel in Madaba for overnight, including bed and breakfast."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Madaba – Mount Nebo - Dead Sea – Petra After breakfast meet your cycling guide for 2-3 hrs cycling, start from St George’s Church in Madaba where you’ll cycle the scenic backroads to Mt Nebo where Moses viewed the Promised Land. During the bike ride, you’ll have breathtaking views across the Jordan Valley and down to the Dead Sea. Before moving to the Dead Sea, the lowest point on the earth’s surface. Enjoy day entry and lunch at the 4*Dead Sea Spa Hotel. Float in the salty waters and try out the famous healing mud. Transfer toward the south to Petra. Overnight at the 3* La Maison Hotel, including bed and breakfast"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Petra For most visitors to Jordan this is the highlight of the trip, a full day to explore Petra, one of the New Seven Wonders of the World. After breakfast, your transfer will take you to the 'back door' of Petra, where you will be able to see the city from the reverse direction to most other visitors. You will climb up the steps and hike the back door route to the Monastery, one of Petra's largest carved façades. This route also gives beautiful views over the surrounding area and a chance to explore. You will enjoy hiking inside of Petra at the Snake Monument, close to Jabal Haroun Mountain. Continue your tour through Petra, taking the Monastery steps back down to the Colonnaded Street, Theater, Street of Facades and finally the Treasury, which is the most photographed image of Petra and an awe inspiring sight. You will leave Petra via the Siq, which provides more great photo opportunities. It is a lot of walking and fairly gentle climbing during your day in Petra, but definitely worth it for the views! Make sure that your phone or camera is fully charged because you will want to take hundreds of photos – guaranteed! At 18.00 PM: You will enjoy a local family in Wadi Musa for a cultural, language and a traditional cooking experience. You will have dinner together while you are enjoying a lot of chatting!! Overnight at the 3* La Maiosn hotel, including bed and breakfast"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Petra – Wadi Ghwiar – Petra Transfer to Mansurah, the entrance of Wadi Gwair at Shobak. The hike takes around 7 hours. A stream runs down the Wadi and you may well find your feet in water. In the winter the pools maybe deeper and it is possible you might have to swim for a few meters. Lunch boxes are included for today. The Wadi is beautiful, at the top there are magnificent formation and colors in the sandstone and lower down spectacular hanging gardens of fern and palms. The tour will end at Feynan where the jeep is awaiting you to take you back to the hotel for freshen up. Option for tonight : 'Start your Petra experience with the Petra Night Show from 20.30 to 22.30, which is a magical way to see part of the rock city by candlelight. Explore the old city, by walking the entire Siq to the Treasury, which is lit by over 1,500 candles.' --> 25 USD Per person Overnight at the 3* La Maiosn Hotel, including bed and breakfast"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Petra – Wadi Rum Free morning in Petra. At about 13.00 PM transfer to Wadi Rum, Jordan’s extraordinary red desert, famous for Lawrence of Arabia and more recently, the Star Wars, Aladdin and Martian films. At 15.00 you will have an extraordinary sunset experience by camel for one hour. Overnight at Rahayeb Campsite, including dinner and breakfast"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Wadi Rum Meet your Bedouin English Speaking guide and starting your day in Wadi Rum the jeep will transfer you the start point of hiking discovering the Moon Valley by following the steps of Lawrence of Arab .At the end of the day the guide will stop by appropriate area in the middle of the desert to set a camp and prepare the dinner. A lot of chat you can have and enjoy with your guide this evening. Bring your own sleeping bag – it's not included"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Wadi Rum – Aqaba In the morning the Bedouin guide will prepare you the breakfast, and when you are ready you will start another new fabulous experience in Wadi Rum, this time you will driver by 4 x4 jeep to discover further magic of Wadi Rum. Check in at your hotel then transfer to the Bernice Beach for entrance and lunch with many options of water activities you can book yourself there. Overnight at the 3* City tower Hotel, including bed and breakfast."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Aqaba –QAIA in Amman/ King Hussein International Airport in Aqaba Transfer to airport for departure"
+    }
+  ],
+  "map": ""
+}

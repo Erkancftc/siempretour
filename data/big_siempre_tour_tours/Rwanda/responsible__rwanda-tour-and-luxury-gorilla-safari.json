@@ -1,0 +1,45 @@
+{
+  "destination": "Rwanda",
+  "mainPhoto": "",
+  "id": "rwanda-tour-and-luxury-gorilla-safari",
+  "tourName": "Rwanda tour and luxury gorilla safari",
+  "placesVisited": "",
+  "generalInfo": "Enjoy Rwanda safari with carefully crafted tour itinerary to deliver personalized custom adventures. This tour is about incredible gorilla safaris and wildlife adventure designed to meet our clients travel expectations. Besides gorilla tours, we immerse you with memorable Africa holiday experience. We help you explore the natural beauty, sunny weather and stunning environment in Africa at affordable rates with unparalleled value. Venture further for chimpanzee trekking, bird watching, and mountain climbing. <br/><br/>You may think of mountain gorillas as something that should provoke a fight or flight response if encountered in the wild. They are anything but. In Rwanda, people treasure a visit with the endangered Silverback Mountain gorillas who are surprisingly playful and relaxed in human presence. This tour ensures you have a life time memorable experience.",
+  "durationDays": "4",
+  "price": "7640",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "ARRIVAL- ENTEBBE Today you will arrive at Entebbe Airport. Upon clearance, you shall finalize immigration formalities and exit the Airport to be received by your guide. Transfer will be arranged to your hotel which is only 20 minutes from the airport. Dinner on own arrangements. Meal Plan: Breakfast"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "ARRIVE IN ENTEBBE. FLIGHT TO BWINDI IMPENETRABLE NATIONAL PARK After breakfast and checkout, transfer will be arranged to Entebbe airport to check in for your flight to Bwindi departing from Entebbe at 07:00hr or midday and arrive in Bwindi at 08:15hr or 09:30hr or 14:40hr. You will be picked from the airstrip by your guide to start your journey to Bwindi impenetrable national park. The journey will lead you through the green countryside. You will arrive at your lodge in time for lunch. Bwindi impenetrable national park is a magnificent green swathe of dense rainforest and is one of the most biologically diverse areas on earth. It is a habitat for nearly 350 birds’ species, 120 mammals and other insect species. The park is home to the endangered mountain Gorillas."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "GORILLA TREKKING IN BWINDI Early morning breakfast. Begin your gorilla trek early in the morning and set off into the tangled and mist-shrouded forests with guides and trackers who are very experienced at locating the gorillas by finding the nest the family had used the previous night. Watching gorillas in their natural habitat is a memory that will last a lifetime. The experienced ranger guides will willingly share with you a lot of information about the history and lifestyle of the Gorillas. After spending an hour with the gorillas, we head back to the lodge and relax. You may do any optional activities around Bwindi this evening."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "DRIVE TO AIRSTRIP. FLIGHT TO ENTEBBE AND DEPARTURE After breakfast you will check out of your accommodation to drive back to the Airstrip. From here you will take a flight to Entebbe airport. The flight departs from the airstrip at 08:30hr or 09:30hr and arrives in Entebbe at 11:25hr. In Entebbe you shall check in for your departure flight to the next destination. MEAL PLAN: BREAKFAST"
+    }
+  ],
+  "map": ""
+}

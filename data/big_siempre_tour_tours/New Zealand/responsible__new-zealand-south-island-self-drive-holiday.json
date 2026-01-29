@@ -1,0 +1,75 @@
+{
+  "destination": "New Zealand",
+  "mainPhoto": "",
+  "id": "new-zealand-south-island-self-drive-holiday",
+  "tourName": "New Zealand South Island self drive holiday",
+  "placesVisited": "",
+  "generalInfo": "This 10 day tour takes you to the icons of the South Island, with extra nights in Christchurch, Fiordland and Queenstown you'll have time to discover the charms of each destination. You begin with a journey past the mountains of the Southern Alps and turquoise waters of alpine lakes before arriving into Mt. Cook National Park.  Next you venture further south to Te Anau, gateway to Fiordland National Park.  Here you’ll explore the pristine wilderness on a Milford Sound nature cruise.  In Queenstown, the Adventure Capital, there’s time to enjoy the scenery and endless activities on offer before returning to Christchurch via the magnificent West Coast Glaciers.<br/><br/>Included within this package<br/>Accommodation for 9 nights staying in Hotel 4 star<br/>Rental car hire: included as specified for the duration of the tour package. <br/>Rental car insurance included: Fully inclusive with variable excess/deductible.<br/>Rental car inclusions: GPS navigation, unlimited kms, airport/ferry terminal fees, additional drivers.<br/>Tour pack: Includes detailed driving instructions, maps, guide books and much more.<br/>Private transfer Christchurch Airport to your accommodation<br/>Travel guide and in-country support<br/>Private transfer accommodation to Christchurch Airport<br/>Te Anau Glowworm Caves<br/>Milford Sound Cruise with RealNZ<br/>TSS Earnslaw Gourmet BBQ Dinner Cruise<br/>Private Transfer Christchurch Train Station to your accommodation<br/>TranzAlpine Scenic Train: Greymouth to Christchurch<br/>9 breakfasts, 1 lunch, 1 special dinner",
+  "durationDays": "10",
+  "price": "1969",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive into Christchurch City Accommodation: Sudima Christchurch City"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Take the day to explore the ever changing city of Christchurch. Accommodation: Sudima Christchurch City Meals included: Breakfast"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Today you'll enjoy a scenic drive through Canterbury and the MacKenzie Country Accommodation: Hermitage Hotel, Wakefield Wing Superior Room Meals included: Breakfast"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Follow the dry lands to Lindis Pass which leads into Central Otago, then through the Kawerau Gorge to Queenstown and south to Te Anau Accommodation: Distinction Luxmore Hotel Meals included: Breakfast"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Journey along the magnificent Milford Road to your cruise on Milford Sound Accommodation: Distinction Luxmore Hotel Meals included: Breakfast, Lunch"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Travel through rolling Southland countryside then follow Lake Wakatipu to Queenstown Accommodation: Millennium Hotel Queenstown Meals included: Breakfast, Speciality Dinner"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "The day is yours to discover all the scenic spots and fun activities on offer in Queenstown. From adrenaline fuelled activities to enjoying the breath taking scenery from the shore of Lake Wakatipu. Accommodation: Millennium Hotel Queenstown Meals included: Breakfast"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Take the Crown Range Road to Wanaka before travelling the spectacular Haast Pass to the West Coast Accommodation: Scenic Hotel Franz Josef Glacier Meals included: Breakfast"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Drive north along the stunning West Coast Road and take the TranzAlpine train to Christchurch Accommodation: Sudima Christchurch City Meals included: Breakfast"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Depart Christchurch today."
+    }
+  ],
+  "map": ""
+}

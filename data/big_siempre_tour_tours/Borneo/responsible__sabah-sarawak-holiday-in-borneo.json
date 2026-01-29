@@ -1,0 +1,95 @@
+{
+  "destination": "Borneo",
+  "mainPhoto": "",
+  "id": "sabah-sarawak-holiday-in-borneo",
+  "tourName": "Sabah & Sarawak holiday in Borneo",
+  "placesVisited": "Sandakan, Kinabatangan River, Abai, Pitas Lake, Sepilok Nature Reserve, Sepilok Rehabilitation Centre, Kuching, Bako National Park, Batang Ai reservoir, spend time with local tribes people, Pulau Damai Beach",
+  "generalInfo": "This wonderful trip takes in the best of Borneo including both Sarawak and Sabah. You will begin your holiday in Sabah and a journey into the Kinabatangan region for a couple of nights.  Here you may spot Proboscis Monkeys, Pygmy Elephants, the Hornbill and other numerous wildlife that frequents the river banks by day and night, you may even see a wild Orangutan!  Don't worry if you don't as you will see them on your next stop at Sepilok where the Rehabilitation Centre holds twice daily feeding viewings.  There is also the Sun Bear Rehabilitation Centre and the Rainforest Discovery Centre to explore.<br/><br/>On to the Sarawak region.<br/>Bako National Park is a full day trip exploring one of the oldest national parks in Borneo and is one of the best places in Sarawak to see the wildlife in their natural surroundings. Tropical rainforest ranges from mangrove to kerangas, tropical swamp vegetation, cliff vegetation and beach vegetation. You will be hiking through jungle trails in search of the resident wildlife.<br/><br/>Next visit a traditional Longhouse. You will stay at a jungle lodge next to a longhouse and spend time with the local Iban people, learn about their culture, experience how they live and enjoy some local rice wine! <br/><br/>Spend your last few nights relaxing (or not) at a nature retreat, away from the bustle of Kuching.<br/><br/>Please ask us if you would like to include a stopover in Kuala Lumpur on the outward or return journey.",
+  "durationDays": "14",
+  "price": "2390",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Depart UK on the overnight flight with Malaysia Airlines via Kuala Lumpur."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Arrive Sandakan and transfer to your hotel where the rest of your day is at leisure. (B)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Today you will be collected form your hotel and transferred to the jetty where you will take the boat cruise down the Kinabatangan River to Abai. After lunch, free time to relax before cruising upriver to search for the local wildlife. After dinner, a night cruise leads you to witness the beautiful fire flies glowing in the dark. Overnight in Abai. (B,L,D)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Take an early morning river cruise to Pitas Lake observing wildlife en-route. You may spot the Proboscis Monkeys, Pygmy Elephants and the numerous birdlife that live here. After breakfast, you have the opportunity to take part in the tree planting project followed by an optional lunch with the local Abai villagers. This afternoon you will have some free time before embarking on an afternoon river cruise. Overnight at the lodge (B,L,D)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "This morning return to Sandakan by boat and visit the Central Market for a spot of souvenir shopping, the largest market in Sandakan with great sea views. After lunch, transfer to the Sepilok MY Nature Resort. You arrive in time for the afternoon feeding at Sepilok Orangutan Sanctuary. Night walk at the resort. Overnight Sepilok My Nature Resort (B,D,)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Day at leisure. You may wish to return to the Sepilok Rehabilitation Centre to see the Orangutans once again. There is also the Rainforest Discovery Centre to explore and learn about the flora and fauna which can be found in Borneo. Learn about the Sun Bears at the Conservation Centre where you can see the world's smallest bears which are also now under threat. (B)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "This morning you fly to Kuching in the Sarawak region via Kota Kinabalu. On arrival, you will be met and transferred to your hotel in the centre of this accessible and delightful small city (B)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Day Trip to Bako National Park, one of the best places in Sarawak to see wildlife in their natural surroundings. Vegetation in the tropical rainforest ranges from mangrove to kerangas to tropical swamp. This popular tour gives you a brief taster of the wonders of Sarawak and introduces you to Long-Tail Macaques, monitor lizards and a wide variety of birds as well as the Proboscis Monkeys. Return to Kuching. [B,L]"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Travel inland today to the Batang Ai reservoir passing pepper gardens, cocoa and rubber plantations to the jungles and rivers of Nanga Sumpa. Overnight will be spent in a jungle lodge close to a traditional Longhouse. Spend time with the locals and learn about their culture and sample some of the local rice wine! [B,L,D]"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Explore Batang Ai. Full day exploring the surrounds and spending time with the local tribe people - learn how to fish on a river cruise. Overnight at Nanga Sumpa Lodge - a village stay operated by the locals of Ulu Ai [B/L/D]"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Return to Kuching today and transfer to your nature resort to spend 3 nights relaxing at an intimate hideaway at the foot of Mount Santubong. (B)"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Days at leisure to enjoy the facilities of the hotel, laze by the pool or embark on some of the excursions available from the hotel. (B)"
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Return to Kuching airport for your flight to Kota Kinabalu and onwards to London."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Arrive UK."
+    }
+  ],
+  "map": ""
+}

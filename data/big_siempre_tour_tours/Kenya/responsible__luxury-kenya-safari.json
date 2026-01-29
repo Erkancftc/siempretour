@@ -1,0 +1,70 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "luxury-kenya-safari",
+  "tourName": "Luxury Kenya safari",
+  "placesVisited": "",
+  "generalInfo": "An unforgettable safari taking you into the heart of Africa’s most spectacular wildlife areas. You will be fully immersed in the heart of the action, in the best game viewing areas of the Masai Mara, Laikipia and the Great Rift Valley in Kenya.<br/><br/>The Safari offers 2 nights full board accommodation at Loldia House in the Great Rift Valley, followed by 2 nights at Governors’ Mugie House on Private Ranch in Laikipia with all activities provided on the ranch and the Conservation fee for Mugie Ranch included. A a 4 night stay at one of the Governors’ Camps in the Masai Mara with daily morning &amp; evening game drives with expert guides, and internal flights to/from the camp.",
+  "durationDays": "10",
+  "price": "5022",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Met on arrival at Nairobi Airport and transfer to your Hotel for an overnight stay on a bed and breakfast basis."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Pick up from your hotel and transfer by road (approximately a 2hr drive) through the scenically beautiful Great Rift Valley down to Loldia House, nestling on the shores of Lake Naivasha. Enjoy a delicious lunch, al fresco style, on the lawn overlooking the lake and with Mt Longonot in the distance."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Todau you can either opt for a full day’s activities on Loldia Ranch; these include birdwatching and boat trips on Lake Naivasha, visits to the local flower farm and night game drives. Alternatively, you can have a early morning start and head off to Lake Nakuru National Park with a packed breakfast. Enjoy a morning game drive around Lake Nakuru, famous for its abundance of flamingos and a large variety of water birds."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Enjoy breakfast at Loldia, before heading off on a very scenic drive (approx. 4 hours) up to Kenya’s Northern Frontier District, where a delicious lunch will be waiting for you at Governors’ Mugie House. Depending on what you feel like doing, you can either head out on your first afternoon game drive and explore this pristine wilderness (which is home to some of Kenya’s northern rangeland species), lay by the pool, enjoy the hide overlooking the waterhole, indulge in some spa treatments or enjoy a siesta. Pre-dinner drinks around a fire, dinner and overnight at Governors’ Mugie House."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Activities at Mugie Conservancy, from traditional game drives to canoeing on Mugie Dam (elephants might decide to take a playful dip beside you), to bush walks, bush meals and fishing on the Mugie Dam."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Take a short light aircraft flight to your Masai Mara camp. Enjoy a game drive en route to the camp, followed by an alfresco lunch served overlooking the Masai Mara plains. In the afternoon game drive across the Mara plains before returning to camp at sundown. Pre-dinner drinks around the campfire, a candlelit dinner in the dining tent or around a blazing campfire and overnight at Governors’ Camp."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Early morning game drive at dawn, returning to the Camp for a full breakfast, served in the shade of the camp’s indigenous riverine forest. There are no set times at Governors’ Camps. After breakfast there is the opportunity to take a game drive along the banks of the Mara River, or to visit some of our responsible tourism initiatives – the world’s first bio gas plant in a Masai Manyatta and also visit the Mara Rianda Primary School. Return to Governors’ Camp for a delicious lunch overlooking the rolling Mara Plains. Later, depart on an afternoon game drive enjoying some of Africa’s best game viewing. Return to camp before sundown, and relax around the campfire before enjoying the evenings’ fine dining."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Days spent exploring the Masai Mara Game Reserve and all that it has to offer. Dinner and overnight at Governors’ Camp."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Arise for your last early morning dawn game drive, returning to camp for a leisurely long breakfast in camp, before taking your flight back to Nairobi and onward arrangements."
+    }
+  ],
+  "map": ""
+}

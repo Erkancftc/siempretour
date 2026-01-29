@@ -1,0 +1,50 @@
+{
+  "destination": "Jordan",
+  "mainPhoto": "",
+  "id": "jordan-tailor-made-holiday",
+  "tourName": "Jordan tailor made holiday",
+  "placesVisited": "",
+  "generalInfo": "Jordan’s relatively small area belies its wealth of cultural, archaeological and natural sights, while allowing succinct exploration. Nabatean Petra tops many wish lists, and for once the reality exceeds the hype. Roman Jerash too surprises in terms of scale and preservation. However, for some the wonder of Wadi Rum’s epic natural landscape easily surpasses any manmade monument.<br/><br/>Memorably excellent cuisine, surprisingly good white wine and genuine hospitality are all aspects of Jordan missing from headlines that seem only to feature the Middle East in the event of bad news.<br/><br/>Right now, the region’s tourism languishes in the doldrums, normally popular sights are devoid of crowds… which means it’s a great time to tour Jordan.",
+  "durationDays": "5",
+  "price": "825",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival in Amman - Arrive in Amman and transfer to your hotel. Depending on your time of arrival, there may be time to explore the city at leisure. No meals or guided services are provided today. Overnight Hotel Larsa Hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Amman - Petra (UNESCO) - This morning after breakfast, drive to Wadi Musa, adjacent to the archaeological site Petra, the 2nd century Nabatean capital and Jordan’s pre-eminent ancient site. After checking in to the hotel we wind through the atmospheric canyon of the Siq in anticipation to finally emerge in front of the remarkable 40m façade of the Treasury UNESCO World Heritage Site of Petra. Spend the rest of the afternoon exploring the treasures of Petra with your local guide. Overnight Petra Guesthouse. (B)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Petra (UNESCO) - A further full day dedicated to the UNESCO World Heritage Site of Petra. Once again take the journey through the narrow canyon of the Siq and into this remarkable open-air museum. Petra is huge – over 26,000 hectares, at its peak encompassing an estimated population of 20,000. Spend the day explore the site with your local guide on foot, taking in the theatre, tombs, and numerous other structures. There’s the opportunity to ascend nearly 800 steps, taking 40-minutes, to the exquisite monastery of El Deir, a quite astonishing building carved from living rock and one of site’s highlights. Since its rediscovery in the early 19th century much has been written about Petra, but nothing really prepares for the scale and extent of the reality. Overnight Petra Guesthouse. (B)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Petra - Dead Sea – Iraq Al Ameer Cooking Experience – Amman - After a leisurely breakfast, depart Petra and drive through impressive scenery to the shores of the Dead Sea, 430.5m below sea level, on the border with Israel and the occupied West Bank. Take the opportunity to float in the exceptionally salty water among a most dramatic and barren landscape. We then continue to the Iraq Al Ameer Women’s Co-Op and take part in the preparation of traditional dishes, which you will then enjoy for a late and leisurely lunch before returning to Amman where your evening is at leisure. Overnight Larsa Hotel. (BL)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Departure from Jordan - The final day is at leisure until your airport transfer. If your flight depart in the late evening do let us know if you require any further additional guided services. (B)"
+    }
+  ],
+  "map": ""
+}

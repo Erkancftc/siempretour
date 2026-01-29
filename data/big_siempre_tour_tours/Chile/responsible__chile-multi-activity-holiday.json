@@ -1,0 +1,50 @@
+{
+  "destination": "Chile",
+  "mainPhoto": "",
+  "id": "chile-multi-activity-holiday",
+  "tourName": "Chile multi activity holiday",
+  "placesVisited": "",
+  "generalInfo": "Designed for the active traveller, this two-week adventure immerses you in the heart of Chile’s wilderness. Hike volcanoes, white-water raft rapids, trek forested valleys, and kayak across majestic lakes: all in one extraordinary adventure. <br/><br/>Arrive in Santiago, Chile’s vibrant capital and directly head to the surrounding countryside to explore Chile’s boutique winelands. Hike, cycle or horse ride, and sample the country’s world-class wines.<br/><br/>Fly south to the pristine landscapes of Chile’s Lake District, dividing your time between Pucon and Puerto Varas. Explore Villarrica National Park, climb its volcano and hike through forests filled with ancient Araucaria trees. Marvel at the snow-capped Osorno Volcano before continuing south to Torres del Paine National Park for an all-inclusive stay at one of our favourite lodges. Located inside the park and within a private reserve, hike unexplored paths, kayak or swim in Toro Lake, or simply admire the amazing scenery that surrounds the lodge. <br/><br/>Excursions are a mix of private and small-group tours, led by expert local guides. Accommodation has been hand-picked by us to ensure a comfortable and enriching experience. This trip can be tailored to your interests, so let us know your preferences.",
+  "durationDays": "15",
+  "price": "5610",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Winelands: Arrive in Santiago, Chile’s vibrant capital, and directly transfer to the surrounding countryside to explore Chile's boutique winelands. Cycle through the country’s world-class vineyards with your local guide and enjoy a picnic lunch in a stunning setting. Sample wine from the region and indulge in fresh produce from local artisans."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Pucon: Fly to Chile’s adventure capital. This lively lakeside town is a hub for outdoor adventures. From hiking, kayaking and rafting or relaxing in nearby hot springs, Pucon is a great base to explore some of Chile’s striking scenery. During your stay, hike to the top of Villarrica Volcano with a local expert guide and be rewarded with stunning views at the top of one of Chile’s most active volcanoes. Head to the Trancura River for an unforgettable white-water adventure. Navigate thrilling river rapids as you journey through dramatic ravines and valleys, surrounded by wild scenery."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Puerto Varas: Transfer by road to charming town Puerto Varas, known for its lakes and German colonial influences. During your stay, immerse yourself in the traditions of the Mapuche Huilliche, the ancestral people of Southern Chile. This cultural tour offers an authentic insight to their history, customs, and way of life, providing a meaningful connection with the local community."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Torres del Paine: Journey deeper into Patagonia and fly to the charming port town of Puerto Natales and continue to Torres del Paine National Park. Spend four nights at a remarkable lodge exploring the best of the park. Hike the French Valley with its glaciers and towering granite walls, kayak the pristine waters of Lago Toro, or trek to the iconic Base of Towers. All guided excursions are included as part of your stay and will allow you to explore all four corners of this legendary national park."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Santiago: Say goodbye to Patagonia and fly north to Santiago, where you’ll spend one final night before heading home. If you would like to make the most of your time in the capital, we can arrange a guided city tour or recommend some wonderful places to eat- just let us know your preferences."
+    }
+  ],
+  "map": ""
+}

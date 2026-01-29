@@ -1,0 +1,55 @@
+{
+  "destination": "Canary Islands",
+  "mainPhoto": "",
+  "id": "canary-islands-sailing-holiday",
+  "tourName": "Canary Islands sailing holiday",
+  "placesVisited": "",
+  "generalInfo": "Sailing holidays of the beaten track, with or without sailing experience and with sightseeing. <br/><br/>This way of travelling takes you to places you would otherwise not be able to visit, to places unreachable from the road. Sailing along the coast gives a completely different view of the country and the sailing also provides a good sense of achievement on arrival.<br/><br/>On wind and tidal power, we sail to a different place every day and your luggage travels along by itself. The tide is the clock and the wind determines the destination. That is why we do not have a tight day-to-day schedule. Travelling in and with nature with a small group (max 8 passengers + 2 crew).<br/><br/>It is up to you however much you wish to do regarding sailing and there is always plenty of time to sit back and enjoy the surroundings in a convivial atmosphere. Sailing together from one place to another quickly creates a group feeling, and these trips attract like-minded people. <br/><br/>When you board, the groceries are done, the vessel is clean and the bosun is cooking dinner. So, after a sumptuous breakfast the next day, we will have a relaxed start of your sailing holidays.",
+  "durationDays": "7",
+  "price": "1888",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "On day 1 you travel to the boat and at 18:30 you are welcome to come a board. After getting acquainted with the crew and the other passengers and a drink, you can arrange your cabin and then we will have a nice meal together on board (our meals are also always vegetarian and a few times a week there is a meat/fish option). After dinner we will do a safety briefing and discuss our plans for the week with the lates shipping forecast."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "After a delicious breakfast and a washing up, we’ll do a round over deck to explain how the sails, lines and winches work and then it’s off to sea! While it’s cold in the UK with drizzle and a monotonous gray sky, we will sail from the sunny south Tenerife under the lee of the island. First along the coast, with a good chance of seeing Pilot Whales. The wind generally comes quite consistently from the Northeast, and with the spring-like temperature between 22 and 27 degrees, this provides perfect sailing conditions. Between the islands, the wind increases due to the ‘Venturi effect’, which makes for spectacular sailing on the azure blue ocean swell."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Our first destination will probably be the charming town of San Sebastian on La Gomera. The Western Canary Islands are beautifully green and without the mass tourism of Tenerife and Gran Canaria. In ‘San Seb’, we will therefore stay in the harbor for a day and we can rent a van for an excursion inland. In the middle of the island lies the beautiful ‘Parque Nacional de Garajonay’, with one of the oldest forests in the world. Due to its altitude (in the clouds) and enormous heather and laurel trees, this forest is truly unique in Europe. Superb green, but also misty due to the clouds, which creates a magical atmosphere. We can make a walk to a forest cabin with a cozy wood stove, to dry off a bit and of course for a delicious lunch."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "The next day, we sail along the coast to ‘Valle Gran Rey’, an authentic harbor next to an impressively high, stunning red cliff. The narrow alleys in the charming village lead to a little bar with tapas and a breathtaking view over the ocean, the perfect spot to enjoy a sunset. In the little town of Puerto Vueltas there are still some hippies living, creating a relaxed and unique atmosphere."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Then we cross over to ‘El Hierro’, a full beautiful day of sailing with a fair wind. This stunning island (the skipper’s favorite) is far from the tourist route because it’s hard to reach. Despite the excellent marina, there aren’t many sailors who dare to sail to this remote island, so it’s nice and quiet. We also stay for a day to explore the island. We can rent a van to drive along the most spectacular spots, like the ‘Mirador de la pena’, designed by Cesar Manrique and beautifully integrated into the rocks with a breathtaking view over the rugged ‘El Golfo’. The places we will visit are very varied, from rugged coastlines to green forests and steep cliffs with stunning views, an unforgettable day."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Via the south side of La Gomera, where we anchor or visit a small harbor, we sail back to Tenerife. Now with a great chance of seeing dolphins. In Tenerife, we conclude the sailing trip in a cozy Spanish restaurant."
+    }
+  ],
+  "map": ""
+}

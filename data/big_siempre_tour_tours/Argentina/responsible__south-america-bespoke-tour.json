@@ -1,0 +1,135 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "south-america-bespoke-tour",
+  "tourName": "South America bespoke tour",
+  "placesVisited": "",
+  "generalInfo": "This suggested itinerary can be varied in any way you choose to suit your exact requirements so please contact us to discuss any modifications.<br/><br/>This Tour is PRIVATE - you will have your personal drivers and specialist guides.<br/>This three-week itinerary from the Pacific to the Atlantic includes the highlights of the Inca Empire in Peru and travels across Lake Titicaca into Bolivia before taking in the Iguazu Falls on the way to Rio de Janeiro. We call it a South American Experience.<br/><br/>Highlights: Cuzco – Sacred Valley – Machu Picchu – Lake Titicaca – La Paz – Buenos Aires – Iguazu Falls – Rio de Janeiro<br/><br/>Hotels: <br/>We offer a range of accommodation from three star standard hotels to five star luxury so please chat to our staff for informed advice and expertise to discuss arrangements for your tailor-made holiday.<br/><br/>Included Tours, Excursions &amp; Activities whilst on your South American Holiday<br/>The tours, excursions &amp; activities mentioned in the above sample itinerary are just a selection of what is available in each location. The itinerary can be adjusted to fit your particular requirements for this holiday; please liaise with your Travel Consultant to confirm what other activities are available and what you would like to include in your tailor-made holiday.<br/><br/>Duration of your Holiday: <br/>If you like the broad sweep of the above sample itinerary but have fewer days to spend on your holiday, or wish to extend it in any way, please ask your Travel Consultant for ideas on how to shorten or lengthen the holiday, or how to reorganise the itinerary.<br/><br/>No-Obligation Quote: <br/>We would be delighted to email you a no-obligation, fully-detailed itinerary &amp; quote for your tailor-made itinerary in South America together with  links to hotel websites, plus details of any included tours &amp; excursions. The quote will clearly state what is, and what is not included in the quoted price. If you thereafter wish to make any changes to the initial itinerary – be it an alternative hotel, different activities, a different duration in any location etc. – that’s not a problem and we will continue to work with you to adjust the itinerary until it exactly matches what you’re looking for from this South American Experience.",
+  "durationDays": "22",
+  "price": "10000",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly to Lima. You will be met on arrival and driven to your hotel. Lima is our gateway to the marvels of Peru and you won't have much time to explore the city. Larcomar in the Miraflores district has some great restaurants, shops and cafes with a view over the ocean which, together with nearby Parque del Amor, is very popular with Limenos at dusk."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Sacred Valley. Transfer to the airport in time for your flight to Cuzco. On arrival you will be met and driven to your hotel in the Sacred Valley. Afternoon tour of Ollantaytambo. Hotel: Casa Andina Premium."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Sacred Valley. In the morning there will be a short excursion to the salt pools at Maras which have been used since pre-Inca times. We would be delighted to discuss other excursions and activities such as local markets, a zipwire adrenaline experience or a visit to one of the social projects supported by the Latin America travel industry. Hotel: Casa Andina Premium."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Machu Picchu. A full day tour to Machu Picchu travelling by train from Ollanta station to Aguas Calientes and by bus to the Inca citadel. Guided tour of the site is included. Overnight at a hotel in the local village or, if funds and availability permit, at the only hotel next to the ruins. For keen walkers we can arrange a 4-6 hour trek to take in the last part of the traditional Inca Trail and arrive at Machu Picchu via the Sun Gate. Hotel: Belmond Sanctuary Lodge; Board: Breakfast & Dinner."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Cusco. Free morning to return to Machu Picchu or to explore the market in the local village. Afternoon train back to the Sacred Valley with onward transfer by road to your hotel in Cusco. Hotel: Antigua Casona San Blas, Cusco; Board: Breakfast & Dinner."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Cusco. The capital of the Inca empire is a gem. Your half day guided tour will show you some of the wonders of Cuzco, including the amazing fortress of Sacsayhuaman which overlooks the city. Free afternoon for your own activities but please let us know if you would like to arrange anything special for you: cooking, mountain-biking, riding or perhaps simply dinner and a show. Antigua Casona San Blas, Cusco; Board: Breakfast & Dinner."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Free day in Cusco. This would be an ideal day to arrange white-water rafting or a riding and trekking excursion. Antigua Casona San Blas, Cusco; Board: Breakfast & Dinner."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Puno. Travel to Lake Titicaca. The Titicaca Train runs on Mondays, Wednesdays and Saturdays with an additional service on Fridays between October and April only. Otherwise there is a daily bus service. We will arrange transfers between your hotel and the bus or train station at each end accordingly. Hotel: Uros Titicaca Lodge Floating Island; Board: Breakfast & Dinner."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Puno. Full day excursion out on Lake Titicaca to the Uros Islands and to either Taquile or Amantani. Uros Titicaca Lodge Floating Island; Board: Breakfast & Dinner."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "La Paz. Full day's spectacular journey from Puno via Copacabana and the Island of the Sun and across Lake Titicaca to reach La Paz. Hotel: Atix; Board: Breakfast & Dinner."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "La Paz. Half day tour of La Paz with special insight into the city with the help of a shoe-shiner for part of the itinerary. The tour continues to the Moon Valley. Free afternoon. Hotel: Atix; Board: Breakfast & Dinner."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Buenos Aires. Fly to Buenos Aires and transfer to your hotel. Hotel: Legado Mitico; Board: Breakfast & Dinner."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Buenos Aires. Our city tour takes in some of the key places in Buenos Aires, including the Plaza de Mayo, San Telmo and La Boca before continuing to the Puerto Madero docklands which have undergone complete transformation in the last 15 years into a thriving area of bars and restaurants. The tour ends at the elegant district of Recoleta. In the evening a tango show is included with dinner. Hotel: Legado Mitico; Board: Breakfast"
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Free day in Buenos Aires. Please let us know if you would like us to arrange any particular excursions or activities such as a day trip to Colonia in Uruguay. Hotel: Legado Mitico; Board: Breakfast & Dinner."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Iguazu Falls. Fly to Iguazu on the Argentine side of the border and transfer from the airport, via the falls to your hotel in Brazil. Accommodation: Awasi Iguazu Lodge. Board: Breakfast & Dinner."
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Iguazu Falls. Free day to explore the Brazilian side of the falls. Please let us know if you would like us to book a tour of the impressive Itaipu Dam. Accommodation: Awasi Iguazu Lodge. Board: Breakfast & Dinner."
+    },
+    {
+      "dayNumber": 17,
+      "title": "",
+      "description": "Rio de Janeiro. Fly to Rio de Janeiro and transfer to your hotel. Afternoon tour to Sugarloaf mountain."
+    },
+    {
+      "dayNumber": 18,
+      "title": "",
+      "description": "Rio de Janeiro. Half day excursion to Corcovado and the famous statue of Christ the Redeemer. Please call us to discuss other activities."
+    },
+    {
+      "dayNumber": 19,
+      "title": "",
+      "description": "Relaxation. We will arrange transfers to Angra Dos Reis, Buzios or to Ilha Grande for a few days of relaxation at the end of your South American Experience. If you prefer to stay in colonial Paraty please let us know, There is easy access from here by boat to explore secluded bays and islands."
+    },
+    {
+      "dayNumber": 20,
+      "title": "",
+      "description": "Relaxation. We will arrange transfers to Angra Dos Reis, Buzios or to Ilha Grande for a few days of relaxation at the end of your South American Experience. If you prefer to stay in colonial Paraty please let us know, There is easy access from here by boat to explore secluded bays and islands."
+    },
+    {
+      "dayNumber": 21,
+      "title": "",
+      "description": "Relaxation. We will arrange transfers to Angra Dos Reis, Buzios or to Ilha Grande for a few days of relaxation at the end of your South American Experience. If you prefer to stay in colonial Paraty please let us know, There is easy access from here by boat to explore secluded bays and islands."
+    },
+    {
+      "dayNumber": 22,
+      "title": "",
+      "description": "Depart Rio de Janeiro. Transfer to Rio in time to check in for your transatlantic flight home."
+    }
+  ],
+  "map": ""
+}

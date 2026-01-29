@@ -1,0 +1,75 @@
+{
+  "destination": "Mozambique",
+  "mainPhoto": "",
+  "id": "mozambique-holiday-tailor-made",
+  "tourName": "Mozambique holiday, tailor made",
+  "placesVisited": "",
+  "generalInfo": "Go far beyond the tourist trail in Mozambique to discover the hidden histories and colourful cultures that make this one of Africa's most incredible countries to visit. Admire the colonial architecture in Maputo, go on safari in Gorongosa National Park and explore Ilha de Mozambique, a UNESCO World Heritage Site with over 500 years of history. Finish your adventures in style beside pristine beaches and a winding lagoon, with as much snorkelling, paddle-boarding through the mangroves, and sunset sailing in traditional dhows that you can handle.",
+  "durationDays": "13",
+  "price": "5465",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly to Maputo via Johannesburg."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "On arrival in Maputo you are transferred to the Polana Serena, also known as ‘The Grande Dame of Maputo’ with its elegant colonial style, stunning rooms and fabulously huge swimming pool with uninterrupted views out over the Bay of Maputo. You have the afternoon to relax and enjoy the pool soaking up some southern African sun. Alternatively, head out into Maputo for a wander. The hotel is well placed to explore the city easily on foot."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "This morning you'll enjoy a guided city tour of Maputo. There is a huge amount of history surrounding the city since its birth in 1975 after independence and all the changes that came with it. There are some great architectural relics from the old Portuguese colonial days (the Cathedral and National Library are good examples), and you'll also visit the bustling port and the city's fabulous beaches. Local residents are friendly and football mad, so stopping for a chat is always a pleasure. Soak up the atmosphere of this beautiful city that was for years ignored due to the blanket of civil war."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Today you fly up to Beira. A city that was devastated by cyclone Idai in 2019. On arrival you'll be met and driven up to Gorongosa National Park (about 3 hours) to stay the next 3 nights at The Montebelo Gorongosa Lodge. Gorongosa National Park was described by Time Magazine as ‘One of the greatest places on earth’ in 2019. Towards the late 60's Gorongosa was the safari jewel in the crown of Mozambique, and home to huge numbers of animals with over 200 lions, 2000 plus elephants, nearly 15,000 buffalo as well as over 4000 hippos. This all changed by the late 70’s, and with the civil war escalating and poaching rife as a means of feeding hungry troops, as well as the sale of ivory, the park was closed in 1983 and abandoned. It was the scene of many ferocious battles for the next decade leaving the animal population on its knees. The war ended in 1994 and Gorongosa’s infrastructure was slowly rebuilt. It wasn’t until 2004 that the government struck a deal with US-based The Carr Foundation to restore the wildlife and spur local development. This was originally a 3 year agreement which was extended to another 20 year agreement which is in place today. National Geographic recently published an article titled ‘How one of Africa’s great parks is rebounding from war’, which complimented the healthy number of large game and called it an incredible birding paradise."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Enjoy game drives and walks in this remote park, where you'll rarely see another visitor. There are good numbers and species of mammals and plains game, as well as exceptional scenery and birdlife."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Transfer back to Beira where you'll fly further north up to Nampula. On arrival you'll be met and driven about 2 hours to Mozambique’s ancient capital and Vasco da Gama’s sometime home, Ilha de Mozambique. You'll be here for the next 3 nights to explore this old town that time forgot. A UNESCO World Heritage site that is not (yet) overrun with tourists is a joy to behold. You'll be staying at La Feitoria for 3 nights with breakfast. Although not founded by the Portuguese, Ilha de Mozambique was an important 16th century settlement for them with a missionary centre and hospital as well as Fort San Sebastian, a naval base and a chapel dating back to 1507, generally recognised as the oldest western building in the Southern Hemisphere. There are various other buildings of interest on the island as well as various mosques and Hindu temples."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Enjoy 2 days exploring Ilhe De Mozambique – with or without a guide. Perhaps take a trip on a traditional sailing dhow and see this historic island from the water."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "You'll be picked up today and sailed across to the mainland to stay at the luxurious Coral Lodge to enjoy your last 3 days on a typical pristine and deserted Mozambican beach. The lodge itself is entirely powered by the sun and the wind and offers luxury beach accommodation, fantastic food and a wide range of activities including snorkelling, fishing, and stand up paddle boarding in the mangroves, as well as visiting the local village and learning about the local macua people."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Enjoy a couple of days at Coral Lodge, relaxing or being energetic, as you wish."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Transfer back to Nampula Airport in time to connect with your flight to Johannesburg, which will in turn connect with your flight home."
+    }
+  ],
+  "map": ""
+}

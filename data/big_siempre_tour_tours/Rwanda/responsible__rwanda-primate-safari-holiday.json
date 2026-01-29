@@ -1,0 +1,55 @@
+{
+  "destination": "Rwanda",
+  "mainPhoto": "",
+  "id": "rwanda-primate-safari-holiday",
+  "tourName": "Rwanda primate safari holiday",
+  "placesVisited": "",
+  "generalInfo": "On this safari, you will experience the scenery, nature and wildlife of Rwanda. This is an all things Rwanda primate tour - offering opportunities of visiting Volcanoes national park and Akagera national park. <br/><br/>Start the safari in Volcanoes national park where you will join in a gorilla trekking safari and golden monkey monkey trekking. You will also enjoy a cultural  experience at the gorilla guardians village. <br/><br/>End the tour in Akagera national park where you will search for the Big 5 - Lions, Leopards, Elephants, Buffaloes and Rhinos. Watch out for more wildlife while on a game drive and boat safari. Join in on a night game drive to search for nocturnal animals.",
+  "durationDays": "6",
+  "price": "6076",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Welcome to Rwanda the “land of a thousand hills.” Our guide/ representative staff will be at the airport to pick you and transfer you to the hotel for check in and overnight."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "TO VOLCANOES NATIONAL PARK. Have breakfast and then leave for Volcanoes national park. Start with canoeing river Mukungwa – enjoy Rwandan stories from your guide as you watch birds in the agricultural lands and wetlands along the river. Have lunch and check in to your lodge."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "RWANDA GORILLA TREKKING. Start the gorilla trek with a briefing from the ranger guides at the park headquarters. After the brief, join a gorilla group with guidance from your tour guide. Depending on location of gorilla family, you might have to drive to the trail head. After one hour with the gorillas, you start your hike out of the park. Your driver guide will pick you up and transfer you to the lodge for down time. In the afternoon, visit the Gorilla Guardians village. Learn about the culture and history of Rwanda. Try out your bow and arrow shooting skills or basketry etc."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "GOLDEN MONKEYS & GORILLA GUARDIANS VILLAGE. Golden monkeys are in the Virunga volcanoes of Uganda, Rwanda and DR Congo. After a short brief from the ranger guide, you will start your hike up in search of the golden monkeys. Enforcement officers join you to help in case you meet buffaloes which can be dangerous. The golden monkeys are more active than the gorillas and you will follow them as they move to feed. Like gorilla trekking, you are only allowed 1 hour with the golden monkey. Transfer to Akagera national park. You might the night game drive today or tomorrow."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "AKAGERA NATIONAL PARK | ENCOUNTER WILDLIFE We arise early and leave after breakfast for a game drive in Akagera national park. We will search of the big mammals like Elephants, Giraffes, Buffaloes, several Antelope species, and recently the re-introduced Lions. The park is a varied habitat for wildlife and a birders haven with over 500 species in the park. The game drive will last about 6 hours or more depending on your interests. Have lunch and then leave for a boat trip on Lake Ihema watch Hippos and crocodiles in the water or by the shores."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "KIGALI | DEPARTURE. Have breakfast and transfer to Kigali for your flight home. Depending on flight time – you will have a short city tour of Kigali."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,45 @@
+{
+  "destination": "Canada",
+  "mainPhoto": "",
+  "id": "kayak-with-orcas-holiday-in-canada",
+  "tourName": "Kayak with orcas holiday in Canada",
+  "placesVisited": "",
+  "generalInfo": "Get eye to eye at sea level, from the eco-friendly vantage of a kayak! Your journey begins in Port McNeill, BC, Canada, on the very northern end of Vancouver Island. Here, in the sheltered waters of the Inside Passage, hundreds of orcas congregate following the summer salmon runs into the narrow geography of Johnstone Strait. This is the best place on Earth to view wild killer whales, and the generally calm waters are also ideal for kayaking. <br/><br/>On this adventure, you can select from either four or six days paddling the magnificent waters of the Strait in the heart of orca territory. You'll stay at eco-friendly base camps, complete with sleeping cots and full-height canvas tents that overlook the water. Orcas may pass just meters from your bed! <br/><br/>You'll paddle about 4-5 hours per day, with plenty of time left for hiking, tidepooling, strolling the beach, and eating really delicious meals cooked from scratch in the wilderness. Whales always steal the show, but let our guides share their enthusiasm for the rain coast ecosystem through natural history discussions and up close wildlife encounters. In addition to orcas, you might find dolphins, porpoises, colorful invertebrates, numerous sea birds from soaring eagles to clunky auklets, bear, deer, mink, and even the occasional wolf!<br/><br/>With 20 years in business, we are an authority on sea kayaking and exploring this stunning location. Let us share our experience so that you can have seamless and spectacular adventure!",
+  "durationDays": "6",
+  "price": "2040",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 0,
+      "title": "",
+      "description": "Arrival. Meet your guides for an orientation meeting in the small village of Port McNeill, located on the northern end of Vancouver Island."
+    },
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Today you'll start out on the water bright and early. The guides will meet you at the kayak launch site, where they will conduct a thorough safety orientation. Then, it's time to head out into the wild! You'll have lunch on a beach and paddle to the first night's camp. Accommodations: Beachside Camping Meals Included: Lunch, Dinner"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Each day will begin with the same rhythm. You'll awake to the smell of your favorite brew while your guides prepare a hearty, warm breakfast. Then, you'll head out into the Strait and adjoining waterways, on the lookout for whales, eagles, and beautiful scenery. You'll paddle about two hours in the morning and two hours in the afternoon, broken up by a long lunch break with time to hike or take in the splendor of this lovely area. After you paddle to your evening camp site, cozy in to pre-assembled tents in time for happy hour and ocean-side dinner. Whales make their own travel patterns, but you could see them at any time during the trip. Accommodations: Beachside Camping Meals Included: Breakfast, Lunch, Dinner"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "After a final breakfast, you'll paddle back to the kayak launch site. You'll have time to enjoy lunch at Telegraph Cove and to explore the Whale Museum at this interesting site. A van will return you to your hotel for showers and a bit of relaxation before a farewell dinner with your guides and group. Accommodations: None Meals Included: Breakfast, Lunch"
+    }
+  ],
+  "map": ""
+}

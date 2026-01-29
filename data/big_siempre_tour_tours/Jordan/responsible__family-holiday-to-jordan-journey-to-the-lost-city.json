@@ -1,0 +1,65 @@
+{
+  "destination": "Jordan",
+  "mainPhoto": "",
+  "id": "family-holiday-to-jordan-journey-to-the-lost-city",
+  "tourName": "Family holiday to Jordan, Journey to the Lost City",
+  "placesVisited": "Amman, walk in Ajloun Forest Reserve, Jerash, Madaba, Dana village, Petra, cooking class, Little Petra, Wadi Rum, 4WD desert discovery, optional: explore by camel, night in desert camp, Aqaba, Red Sea, snorkelling, Dead Sea",
+  "generalInfo": "Spend a week discovering the history and highlights of Jordon on this family holiday. Journey to the lost city of Petra, explore the Roman site of Jerash, spend a night under the stars in the desert of Wadi Rum and enjoy a float in the super salty Dead Sea. <br/><br/>This family adventure has been carefully designed to show you Jordan’s most fascinating places, but at a pace that suits everyone. There is a carefully balanced mix of activities and relaxing free time, so you all get the most from this Middle Eastern holiday.<br/><br/>Take a 4WD safari through the desert and, if you fancy it, climb onto a camel to explore in traditional style. In the Red Sea, you can snorkel over reefs and take a boat trip, or just relax. In Petra, one of the Seven Wonders of the World, a local guide will bring the site to life. Kids can make like Roman gladiators in Jerash and enact ancient epics in the crusader Kerak Castle. A cookery class gives everyone the chance to cook Jordanian dishes, too, before tucking in, of course. It’s a perfectly paced, fun and fascinating week.<br/>",
+  "durationDays": "8",
+  "price": "1589",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Amman.",
+      "description": "Ahlan Wa Sahlan! Welcome to Jordan. If you have booked a transfer, you’ll be met at Queen Alia International Airport and transferred to your hotel. Your adventure begins with a welcome meeting at 5 pm in Amman – the ancient capital of Jordan known for its 1994 excavation uncovering homes and towers believed to have been built during the Stone Age. If you arrive early, maybe visit the Roman Theatre, learn about the Dead Sea Scrolls at The Jordan Museum or explore the excavated ruins of the Umayyad Palace. After your meeting, you'll be able to get to know your fellow travellers better over a group dinner."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Amman / Jerash.",
+      "description": "This morning, set off on a short walk along the Soap House Trail. As you hike through the Ajloun Forest Reserve, take in the surrounding landscape of woodlands, filled with oak, pistachio and oriental strawberry trees. When you arrive at the soap house, meet some of the local women who are keeping the traditional process of making pure Orjan olive soap alive. After your hike, travel to Jerash to explore the ruins, which were re-discovered in 1806. Wander along the Colonnaded Street and see the grooves in the paving stones where chariot wheels once rolled. Later, return to Amman. In your free time tonight, maybe visit the Citadel or find a local restaurant for dinner - your leader will have the best recommendations!"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Amman - Madaba - Dana Village - Petra.",
+      "description": "Take the Desert Highway to Petra this morning. Along the way, stop at Madaba – a historical town known for its Ottoman-style houses and beautiful Byzantine-era mosaics. Slightly out of town, you might see the black beit ash shar tents of the hardy Bedouin who still wander throughout the Middle East as they have for centuries. After, travel to Dana Village, built on a nature reserve, and join your local leader on a walk. Meet some locals and learn about their culture as you make your way through the terraced gardens. After checking into your hotel in Petra the rest of the evening is yours to enjoy."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Petra.",
+      "description": "This morning, squeeze through the long stretch of stonewalls to Petra – one of the Seven Wonders of the World. When you arrive, explore the old Roman road, temples, old tombs and the rock-hewn amphitheatre. After, maybe walk up the clifftop path to the Monastery for panoramic views overlooking the Treasury. Later today, join a Jordanian cooking class at a local Al Qantara kitchen. Prepare appetisers like baba ghanoush and hummus, typical Jordanian mains like kabsah (mixed rice) or mjadra (lentils and rice) and learn the secrets behind these delicious Arabic flavours."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Wadi Rum.",
+      "description": "After breakfast, travel to Wadi Rum – a valley known for its desert scenery, which has been the backedrop to many films. Along the way, stop for a tea with a local Bedouin family in Little Petra. When you arrive in Wadi Rum, jump in one of the jeeps and drive through the Mars-like landscapes, passing by Lawrence Spring – a rocky landscape contrasted by a freshwater spring with panoramic views over the valley. You’ll also stop at Lawrence House – supposedly the house where Lawrence of Arabia lived and stored his equipment. Continue to one of the largest sand dunes in Wadi Rum and check out some of the famous rock bridges. After, set up camp in Bedouinstyle tents. If you choose, you can even sleep in the open air, surrounded by the Mars-like mountains in the background. Fall asleep under a desert blanket of an undisturbed night sky, rich with stars."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Aqaba.",
+      "description": "Today you’ll drive from the desert to the coast for some sun and relaxation. Aqaba is landlocked Jordan’s only town on the sea, and this Red Sea beach resort is yours to explore for the rest of the day. Just south of town, the warm and shallow waters of the Red Sea is home to a series of untouched coral reefs. Maybe grab a mask and some flippers and explore the underwater world, take a walk along the shoreline or simply kick back by the pool. Later, maybe visit the 14th century Ottoman Fort. This is where the T.E Lawrence (of ‘of Arabia’ fame) rode to Cairo with big news about a revolt."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Dead Sea.",
+      "description": "This morning, travel along the King's Highway – a winding road that follows the contours of the rocky hills, occasionally passing nomadic shepherds as they tend their flocks in the few areas where there’s water. Descend lower and lower until you eventually arrive on the shores of the Dead Sea. When you arrive, put your swimwear on and take a dip in the salty lake. While you’re here, maybe grab a handful of the shoreline’s mud and slop it over your body – it’s full of nutrient-rich natural minerals that are meant to have healing properties and will leave your skin feeling great. This evening, maybe find a nearby restaurant and head out for dinner with your fellow travellers."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Amman.",
+      "description": "After breakfast, this amazing adventure through Jordan comes to an end at your resort in the Dead Sea. You might like to stay longer otherwise Amman's Queen Alia International Airport is approximately one hour's drive from the Dead Sea. Airport transfers and additional nights accommodation can be arranged through your booking agent."
+    }
+  ],
+  "map": ""
+}

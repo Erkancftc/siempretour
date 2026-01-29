@@ -1,0 +1,60 @@
+{
+  "destination": "South Africa",
+  "mainPhoto": "",
+  "id": "south-africa-holiday-cape-town-to-kruger",
+  "tourName": "South Africa holiday, Cape Town to Kruger",
+  "placesVisited": "Cape Town, Table Mountain, Kruger National Park, Sabi Sands, Zambezi River, Victoria Falls",
+  "generalInfo": "This 10-day Southern Africa holiday offers the opportunity to see the highlights of southern Africa, such vibrant Cape Town, Kruger National Park (one of the best wildlife destinations on the continent) and the thundering power of Victoria Falls. <br/><br/>Visit the spectacular Cape Peninsula for epic views and the Cape Winelands for rural beauty and wine-tasting experiences. Next, head for the Sabi Sand Game Reserve in the Greater Kruger region for safari. Your last destination is one of Africa’s most iconic sites, Victoria Falls. Explore this iconic waterfall and its surrounding areas through scenic hikes and helicopter rides.<br/><br/>From the spirited city of Cape Town to valleys of vineyards to game drives in the world-famous Kruger National Park, Southern Africa has so much to offer travellers, that you’ll find it difficult to leave.",
+  "durationDays": "10",
+  "price": "5999",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival in Cape Town - Upon arrival in the city, you’ll either be transferred directly to your accommodation or, if you prefer, we can arrange for you to drive your hired car to your accommodation from there. You are free to explore Cape Town at your leisure during the reminder of the day. Visit the iconic Victoria and Alfred Waterfront, see penguins at Boulders Bay or enjoy a meal at one of the fantastic restaurants along the promenade at Camps Bay."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Explore Cape Town - You may wish to summit the iconic Table Mountain for breathtaking, scenic views of Cape Town or gain an insight into the lifestyle of the residents of Langa. You could even visit Robben Island, home to the infamous prison where Nelson Mandela spent 18 years, and explore the four Clifton beaches and the nearby Camps Bay. After exploring Cape Town, drive to the historic towns of Stellenbosch, Franschoek and Paarl, known for their famous vineyards and trendy restaurants."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Fly to Kruger - After breakfast, its time to catch your flight to the Greater Kruger region. Meet our representative on arrival and drive to a camp situated in the Sabi Sand Game Reserve, a private reserve located in the Greater Kruger region."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Safari in Sabi Sands - Head out on an early morning safari with an expert guide. Have a picnic breakfast in the bush, before returning to your camp where you can relax by the pool before lunch - then return for another safari trip in the afternoon. Look out for a variety of wild animals, including elephants, lions, leopards, buffalos, white and black rhinos, hippos, cheetahs, crocodiles, hyenas, wild dogs, zebras, giraffes and several species of buck."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Fly to Victoria Falls - Transfer to the airport after breakfast and board a short flight to Victoria Falls. You will be met by a representative and driven to your safari lodge, located on the banks of the Zambezi River. The lodge is a fantastic base from which to see the majestic Victoria Falls and the mighty Zambezi River."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Explore Victoria Falls - Explore Victoria Falls with scenic walks along well-marked paths and multiple viewpoints, including the dramatic Knife Edge Bridge, offering spectacular views of the waterfall and Batoka Gorge. Expect to feel the mist and hear the thunder of the falls as you take in the breathtaking scenery. Beyond the falls, you can enjoy game drives in Victoria Falls National Park, guided walks on nearby islands, and cultural visits to local villages for a deeper understanding of the area’s natural and cultural heritage."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Depart Victoria Falls - You’ll be transferred back to the airport after breakfast for your onwards flight back home."
+    }
+  ],
+  "map": ""
+}

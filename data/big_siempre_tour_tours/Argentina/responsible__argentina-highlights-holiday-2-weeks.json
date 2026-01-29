@@ -1,0 +1,55 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "argentina-highlights-holiday-2-weeks",
+  "tourName": "Argentina highlights holiday, 2 weeks",
+  "placesVisited": "",
+  "generalInfo": "Travel better on this two-week classic Argentina itinerary and discover the country’s iconic highlights and most remarkable scenery. Wander the quirky, colourful barrios of Buenos Aires, marvel at glaciers and wild Patagonian landscapes and stand before the cascading falls of Iguazu, all while keeping to a budget and traveling responsibly. <br/><br/>Your adventure begins in Buenos Aires, where a guided walking tour reveals the city’s Parisian charm and vibrant neighbourhoods. Continue to Ushuaia, the world’s southernmost city, and explore Tierra del Fuego’s rugged mountains, windswept glaciers and dense forest. Next, hike the spectacular trails in El Chalten before experiencing the awe-inspiring Perito Moreno Glacier. End your Argentina itinerary at the majestic Iguazu Falls, one of the world's largest waterfall systems surrounded by lush sub-tropical rainforest. <br/><br/>Excursions are a mix of private and small-group tours, led by expert local guides. Accommodation has been hand-picked by us to ensure a comfortable and enriching experience. This trip can be tailored to your interests, so let us know your preferences.",
+  "durationDays": "15",
+  "price": "3515",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Buenos Aires: Welcome to Argentina’s capital Buenos Aires. Transfer to your boutique hotel in leafy Palermo, renowned for tree-lined streets and trendy vibe. Let your local guide, show you the city’s cultural highlights on a private walking tour and explore its diverse and characterful barrios. Make sure to witness some tango and indulge in an Argentine steak at one of the many acclaimed restaurants."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Ushuaia: Journey by air to the most southerly city in the world. In the coming days, explore Ushuaia with a local guide and enjoy a range of day trips which include hiking in the Tierra del Fuego National Park, canoeing down a river and through lagoons and visiting a lovely family-owned ranch where you can explore farming traditions and the local way of life."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "El Chalten: Journey into the captivating Los Glaciares National Park and base yourself in El Chalten for two nights. Well-marked trails start directly from town, catering to every fitness level. Time here is yours to explore independently or with guided planning tailored to your pace and interests. We recommend Laguna de Los Tres hike or Laguna Torre hike during your full day here."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "El Calafate: Head back to El Calafate, the gateway to Argentina’s mightiest glacier: the Perito Moreno Glacier. Enjoy a full-day tour, exploring its boardwalks and admire the glacier from different perspectives."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Iguazu Falls: Fly north to Iguazu Falls and spend three nights, exploring both the Argentina and Brazilian side for a complete experience of this natural wonder. Explore Argentina’s immersive walkways and forest trails and enjoy panoramic, wide-angle views on the Brazilian side."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Buenos Aires: Say goodbye to Iguazu and fly south to Buenos Aires, where you’ll spend one final night before heading home. Finish your Argentine experience, with a private tango class at a local milonga and with your local guide learn about the history of tango and how how it became one of the country's greatest cultural treasures."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,100 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "highlights-of-argentina-tailor-made-tour",
+  "tourName": "Highlights of Argentina tailor made tour",
+  "placesVisited": "Buenos Aires, Tango show, El Calafate, Perito Moreno Glacier, El Chalten, Ushuaia, Tierra del Fuego National Park, Beagle Channel cruise, Puerto Iguazu, Iguazu Falls",
+  "generalInfo": "This tailor made tour of Argentina’s highlights gets started in buzzing Buenos Aires. A tour of the city’s historic and political districts will be top of the agenda, after which you’ll get the chance to experience the city’s legendary nightlife, with dinner and a tango show. <br/><br/>Argentina’s natural beauty is the main draw of this particular adventure, though, and soon you’ll be heading out into the wilderness. Highlights include visiting Los Glaciares National Park, where you’ll get up close to the Perito Moreno Glacier, and even walk on it, should you choose; trekking and canoeing through the stark beauty of Tierra del Fuego National Park; cruising the Beagle Channel in search of marine life; and marvelling at the thundering waters of Iguazu Falls.<br/>",
+  "durationDays": "15",
+  "price": "4565",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Buenos Aires: Upon arrival you will be met at the airport and transferred by private service to your hotel, leaving you the remainder of the day to explore the historic neighborhoods and enjoy the cafe culture of Buenos Aires."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Buenos Aires Tour & Tango Show: Our City Tour will provide you a great overview of the city and its diverse attractions. Over the course of three hours you will have the chance to visit Retiro, Avenida 9 de Julio, Downtown, Puerto Madero, San Telmo, Recoleta and La Boca. In the evening you will be picked up from your hotel to be driven to a mystical place where you’ll discover one of our most ancient traditions. Tango is more than our national dance. Tango is: our immigrant origins, the talent of our local artists, the sensuality of the Argentine woman and our way to deal with a broken heart, dancing our way through tragical and yet eternal love stories. Tonight you will enjoy a 3 hour long professional display of tango and music with a group of local artists onstage immersed in an elegant and alluring place. The manners, ambience, clothes and dance steps which tango lovers used to practice 100 years ago will come to life again and you will travel in time for a night. This spectacular demonstration of the finest local dancing will be accompanied by delicious Argentine and international cuisine. Dinner is à la carte, beverages included so you can lose yourself in the ethereal taste of Malbec wine. At the end of the evening, around midnight, you will be driven back to your hotel, fully in love with the bohemian spirit of our beloved Buenos Aires. Duration: 3-4 hours Included: transportation mentioned above Note: formal dress is not required"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Buenos Aires to El Calafate: At appropriate time you will be picked up at your hotel and transferred to the airport for your flight to El Calafate. Upon arrival you will be taken to the hotel and have the rest of the day to relax or explore the areas around the town or possible make the 1km hike out to Laguna Nimez for a beautiful Patagonian sunset."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Perito Moreno Glacier: Today you will enjoy a tour of Perito Moreno Glacier. Located in Los Glaciares National Park and a UNESCO World Heritage Site, Perito Moreno Glacier is one of the most awe inspiring destinations in Argentina. During your tour, you will have the chance to enjoy stunning views of the glacier's ice wall from the nearby walking & viewing trails. You will also be able to get up close to the glacier for some amazing photos on the included glacier cruise on Lake Argentino. Don't forget your camera! In the early evening you will be returned to you hotel. For even more adventure and the chance to actually go hiking on the glacier, ask about reserving the Big Ice excursion at the time of booking your trip. (Please note, the Big Ice excursion is not included in the tour price and due to limited availability needs to be reserved well in advance.)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "El Calafate, Patagonia: Day at leisure to enjoy any of the optional tours around El Calafate. We suggest a visit to Estancia Cristina, a bike ride out to the lake, or a boat cruise to explore some of the more remote glaciers in the region."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "El Calafate to El Chalten: At the appropriate time, you will be transferred from your hotel in Calafate to your hotel in El Chalten."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "El Chalten, Patagonia: Day at leisure to enjoy one of many self guided treks. The trails are all well-marked and maintained. We recommend that you do the full-day hikes to Mount Fitz Roy (where the view of Laguna de los Tres is unforgettable) or Mount Torre. We will provide you with all the trekking information you may require."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "El Chalten to El Calafate: Day at leisure to enjoy any of the self guided treks in the area. In the afternoon you will board your bus back to El Calafate. Upon arrival you will make your way from the bus station to your hotel. (In El Calafate a taxi will cost roughly $4 to get from the bus station to your hotel.)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "El Calafate to Ushuaia, Patagonia: At appropriate time you will be transferred to the airport to take your flight to Ushuaia. Upon arrival, you will be transferred to your hotel leaving you the rest of the day to explore the city, try some delicious fresh seafood, or learn about the region's history at the Prisoners Museums."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Tierra del Fuego National Park, Ushuaia: After breakfast, you will leave on a full day excursion to Tierra del Fuego National Park that allows you to get off the tourist path and see a side of the park that most visitors miss. The excursion includes guided trekking and canoeing in this remote part of the southern hemisphere. (Box lunch is included)."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Beagle Channel Navigation After making your way to the pier you will depart on the half day cruise of the Beagle Channel where you will enjoy some of the region’s most spectacular views."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Ushuaia to Puerto Iguazu: At appropriate time you will be taken to the airport to take your flight to Puerto Iguazu. Upon arrival, you will be taken to your hotel at which point you will have the afternoon to relax and enjoy the tropical climate and jungle setting."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Tour of Iguazu Falls- Argentine Side: After breakfast you will depart on a full day excursion to the Argentine side of the Iguazu Falls where you will have intimate views of this unforgettable section of the Iguazu River. Lower and upper walkways permit up close and personal experiences with this magnificent spectacle of nature. Trails through the 210 square mile reserve provide visitors with various views of the Falls, especially the largest one, Devil's Throat. The ecological train ride is included in the tour with an option to add the Safari Nautico boat trip taking you right up to the base of the Falls (this exiting excursion is highly recommended in order to feel the power of the Iguazu Falls. You should know that you will get 100% wet because it is like a “natural shower”. Be sure to take extra clothes if you want to do this extra excursion). Return to the hotel in the late afternoon."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Tour of Iguazu Falls- Brazilian Side / Iguazu to Buenos Aires After breakfast, enjoy a half day excursion to the Brazilian side of the Iguazu Falls where you will enjoy vast panoramic views of the Falls allowing you to take them in in their entirety. At appropriate time in the afternoon you will be transferred to the airport to take your flight to Buenos Aires. Upon arrival you will be taken to your hotel."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Buenos Aires: At appropriate time you will be escorted by private service to the international airport for your flight back home."
+    }
+  ],
+  "map": ""
+}

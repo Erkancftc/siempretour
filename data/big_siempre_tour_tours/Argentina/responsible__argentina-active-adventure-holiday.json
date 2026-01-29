@@ -1,0 +1,50 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "argentina-active-adventure-holiday",
+  "tourName": "Argentina active adventure holiday",
+  "placesVisited": "",
+  "generalInfo": "Explore the great wilderness of Argentina's Lake District and Patagonia on this activity-focussed example itinerary. <br/><br/>Hike, bike, kayak and horse-ride amongst the mountains, lakes, glaciers, forests and fjords that make this part of the continent such an iconic destination for outdoor enthusiasts. From Bariloche to Ushuaia and Tierra Del Fuego, via the towering peaks around El Chalten and stunning Moreno Glacier.<br/><br/>All of our trips can be tailormade from scratch, so take this as an example of what is possible and \"Enquire Now\" so we can create your very own dream adventure.",
+  "durationDays": "16",
+  "price": "5900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "BUENOS AIRES - Begin your Argentine adventure with a walking tour of the elegant Palermo and Recoleta districts of the capital city, followed the next day by a choice of cycling tour, Tango class, or perhaps a football match."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "LAKE DISTRICT - Staying at a charming lodge close to Bariloche, these next few days offer a chance to trek, raft, kayak and horse-ride amongst the lush forests and sparkling lakes that give the region it;s name."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "EL CALAFATE - Flying south to deepest Patagonia, you will visit the famous Moreno Glacier and have a chance to get up close on a mesmerising kayaking expedition."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "EL CHALTEN - Driving a few hours north, we find the trekking capital of El Chalten, which will be our base for the next few days of optional excursions into the mountains. Choose from rustic lodgings and self-guided trails, or an activity-inclusive luxury lodge."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "TIERRA DEL FUEGO - We end our Patagonian adventure in Ushuaia, the 'World's Most Southernly City', with a series of stunning end-of-the-earth feeling treks, plus optional rail and boat excursions."
+    }
+  ],
+  "map": ""
+}

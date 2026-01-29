@@ -1,0 +1,60 @@
+{
+  "destination": "Zambia",
+  "mainPhoto": "",
+  "id": "remote-zambia-safari-tailor-made",
+  "tourName": "Remote Zambia safari, tailor made",
+  "placesVisited": "",
+  "generalInfo": "Experience Zambia's pristine wilderness with this itinerary, which is perfect for the adventurous traveller looking to explore beyond the beaten track. The first stop is Kasanka National Park, a hidden gem with stunning landscapes and diverse wildlife. If you visit between October and December, see the world’s largest bat migration in action, although the park offers excellent birdlife and wildlife experiences throughout the year. <br/><br/>Next, head to the heart of Kafue National Park and stay within the Busanga Plains, with unparalleled access to the park’s vast, wildlife-rich floodplains. Kafue National Park is Zambia’s oldest and largest national park, and is home to four of the “big five”. The open plains are a dramatic backdrop for game drives and walking safaris, offering fantastic photographic opportunities. <br/><br/>Finally, visit Liuwa Plain National Park. The park is best known for Africa’s second-largest wildebeest migration, with 40,000 wildebeest migrating through the park annually, without the crowds.",
+  "durationDays": "8",
+  "price": "8130",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "After arriving in Lusaka, fly to Kasanka National Park, an area that is home to incredible birdlife and unique wildlife. Enjoy the afternoon at camp, attempting to spot the rare Pel’s fishing owl, before a dinner by candlelight."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Today, drive out to witness the Kasanka bat migration (seasonal). Your guide will place you to see one of the most mesmerising natural events in the world. Listen to the trees groan and creak under the weight of the bats as you watch from a safe distance. This event normally happens in the early morning so spend the rest of the day on a game drive, looking out for some of the larger game, including the Lichtenstein’s hartebeest."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Fly to Kafue National Park, Zambia's largest and oldest national park which is known for its diverse habitats and abundant wildlife. ."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Cruise along the Kafue River on boat safaris, offering excellent opportunities to observe hippos, crocodiles, and a variety of birdlife, including the iconic African fish eagle. Embark on guided walking safaris to explore the park on foot, accompanied by knowledgeable guides who will provide insights into the park's ecology and wildlife behaviour."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Transfer to Liuwa Plains National Park, one of the oldest reserves in Africa. The park is thought of as one of Africa's last untouched wilderness areas, and it is home to unique wildlife, including groups of up to 50 hyenas hunting together."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Enjoy game drives across the remote, tranquil park and if you are lucky, witness the seasonal migration of around 45,000 wildebeest across the plains."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "After a final game drive, travel back to Lusaka for your journey home after a trip through Zambia's wilderness."
+    }
+  ],
+  "map": ""
+}

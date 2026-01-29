@@ -1,0 +1,45 @@
+{
+  "destination": "Colombia",
+  "mainPhoto": "",
+  "id": "casanare-tour-in-colombia",
+  "tourName": "Casanare tour in Colombia",
+  "placesVisited": "",
+  "generalInfo": "Welcome to your 4-day adventure package in the beautiful region of Casanare, Colombia! You will be picked up from Yopal airport and taken on a scenic 2.5-hour drive through stunning Orinoquia landscapes to the Natural Reserve of Guanapalo, where you will spend all three nights.<br/><br/>Guanapalo Natural Reserve is a true paradise for nature lovers and is located on the banks of the beautiful Pauto River. The reserve is known for its outstanding biodiversity, where you will find a variety of birds, reptiles, amphibians, and mammals, including capybaras, ballas (small alligators), palm and honey bears, wild horses, howler monkeys, armadillos, foxes, turtles, wild pigs, and pumas. In addition to its rich wildlife, the reserve is home to the Llanera culture, where you can learn about the local customs and traditions.<br/><br/>On the first day of your adventure, after settling into your accommodations, you will embark on a 4-hour safari tour on an open-top 4x4 vehicle. You will explore the vast nature reserve and get up close to some of the amazing wildlife that thrives in this region. Keep your eyes peeled for colorful birds and elusive animals.<br/><br/>On the second day, you will start your morning with an exhilarating birdwatching tour during sunrise. Afterward, you will take a walking safari tour to explore more of the reserve's stunning landscape. In the afternoon, you will ride on horseback for a unique safari experience.<br/><br/>On the third day, you will explore the Pauto River and its surroundings with a canoe safari tour and attend a workshop on the traditional Colombian cowboy lifestyle, which is deeply ingrained in the Llanera culture.<br/><br/>Finally, on the fourth day, you will have a leisurely morning before being driven back to Yopal airport. This incredible 4-day package will provide you with a once-in-a-lifetime opportunity to experience the beauty and diversity of Colombia.",
+  "durationDays": "4",
+  "price": "3047",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "You’ll be collected from the airport in Yopal and take a relaxing journey of around 2-2.5 hours through some beautiful Orinoquia landscapes to your Hato (Typical farmhouse of the region). On arrival at your Hato, you’ll be greeted with warm smiles and be shown to your room for the next 2 nights in the Casanare. Once you’ve freshened up it’ll be time for a wonderful typical lunch of the region. After lunch, it’s climbing into an open-top 4x4 and off on your first 3-4 hour safari of this magnificent area in search of some of the many wild animals that thrive in this region. (Overnight in traditional hato)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Rising with the sun you'll take a quick coffee or juice before heading out on foot for a couple of hours to check out the amazing abundance of birdlife in this region. Next, it's back to the lodge for some breakfast and maybe a quick nap before you're off again around 10:30am for a guided walking safari to build up your appetite before lunch. Following lunch, you'll have a bit of me time to just enjoy your surroundings before venturing out on another 3-4 hour safari. But this time on horseback for a new experience in this beautiful location. (Overnight in Traditional Hato)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Waking with the sounds of the wildlife and the light peaking into your room you'll rise and enjoy this beautiful sunrise on your last day in this paradise. With time to head down to the lake and enjoy the golden hours of light for some wonderful photography before breakfast, you'll quickly down coffee and be on your way. Returning for breakfast and time for another safari on your choice of a canoe (if in the wet season), or on foot. You'll venture out for a couple more hours in search of some more magical moments to share between yourself and these wild animals. Enjoy one more lunch in this wonderful location of the Colombian Casanare, followed by an experience learning about the life of the Llanos cowboys. Discover their tools of the trade, their artisan-crafted utensils, and about the indigenous who inhabit these lands."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Enjoy a relaxing morning in your Hato before being transferred to Yopal for your flight back to Bogotá"
+    }
+  ],
+  "map": ""
+}

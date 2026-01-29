@@ -1,0 +1,60 @@
+{
+  "destination": "Costa Rica",
+  "mainPhoto": "",
+  "id": "off-the-beaten-path-costa-rica-family-tour",
+  "tourName": "Off-the-Beaten-Path Costa Rica Family Tour",
+  "placesVisited": "Turrialba, Puerto Viejo, Tortuguero National Park",
+  "generalInfo": "Connect with the indigenous culture and explore wildlife-filled nature during this adventurous 7-day family journey through Costa Rica. Featuring local experiences and beautiful off-the-beaten-path locations, this handcrafted tour will show you the natural splendor Costa Rica, which is a land of authentic and often surprising scenes. Meet Bribri Indians, savor a cultural farm-stay experience, paddle through the jungle in search of monkeys, and search for sea turtles on Caribbean beaches.",
+  "durationDays": "7",
+  "price": "2,100",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Turrialba – Costa Rica’s Volcano Heartland",
+      "description": "Costa Rica’s volcanic heartlands epitomize the local saying of Pura Vida . This is a country that instantly seems exotic and new but is also quick to make you feel at home. Today’s experiences will be customizable and can be adjusted after you arrive, depending on how you feel. The journey to Turrialba will lead you by Poas and Turrialba, which are two volcanoes that offer a superb variety of hiking trails. By trekking through forests, you can search for quetzals and waterfalls. It is also possible for your guide to drive you to Poas’s summit, where you can admire fumaroles, mini geysers, and mud that spits and surges."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Turrialba – Cultural Exchange on a Farm",
+      "description": "Today, you will be immersed in the Costa Rican farming lifestyle with a full-day cultural exchange. Exact activities can be tailored based on your interests, and the general idea will be to gain an authentic insight into local rural life. Learning local production methods can be fascinating, but today can also include visiting stables and animal pens with activities, such as gathering eggs and brushing horses. Discovering organic coffee is likely to be part of your day, and you can follow the process from bean to cup. From seeds and crops, drying and roasting, and grinding and packing, you can explore how small decisions have an enormous impact on the final product."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Puerto Viejo – Sloths and Howler Monkeys",
+      "description": "Your drives will feel like you are on an adventure rather than just a transfer between destinations. As green pastures set the scene, you will be bumping along country roads to Puerto Viejo with stops at charming villages along the way. With a private journey to Puerto Viejo, you can make many other stops along the way. Before settling onto a quiet Caribbean beach, you will spend a portion of the afternoon in the Jaguar Rescue Center. Here, your children can get up-close with rehabilitated and rescued animals, and you can watch how a creature can create such wide-eyed amazement in your kids."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Puerto Viejo – Indigenous Jungle Experience",
+      "description": "Today, you will travel down the Yorkin River in a canoe, which will be an enchanting 90-minute journey that demonstrates how much of Costa Rica remains untouched. After being introduced to the indigenous community, you will be guided to some natural pools for a refreshing swim before being provided with a traditional Bribri lunch that will teach you about different elements of the local culture. The afternoon will include palm thatch weaving, archery, learning the Bribri language, and tasting homemade chichi , which is a fermented corn drink."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Tortuguero National Park – Encounters with Hatchling Sea Turtles",
+      "description": "After a short journey to Limon, flying to Tortuguero will save you valuable vacation time. After settling in to your opulent accommodation, your family will go searching for sea turtles. Four different species nests in the area, including leatherbacks that weigh up to 1.5 tons. On a small boat, you will then explore tranquil Caribbean waters. Snorkeling is wonderful here, and your guide will select places based on the abilities and ages of your kids. The real highlight will come after dark. Walking the beaches with a flashlight can feel like a treasure hunt as the roving light seeks out hatchlings on their wild dash to the water."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Tortuguero National Park – Jungle Canoe Ride",
+      "description": "A canoe ride will be the best way to explore, and it is also an ideal activity for families with kids of all ages. Everyone can have the chance to paddle, but you can also just sit back and explore without needing to walk and brave the insects. Traveling in a canoe is slow and silent, which also means you can get really close to the animals. Caimans and otters often peek above the water as they swim from bank to bank. Lizards typically bask on the riverbanks, and the sight of a manatee may add another dimension to your excursion. It is best to ride early in the morning because the wildlife is more active."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Tortuguero National Park – Departure",
+      "description": "After a short river ride, you will fly out of Tortuguero National Park. The domestic flight will touch down in San Jose, where a local representative will meet you and ensure that you are comfortably transferred to your international flight."
+    }
+  ],
+  "map": ""
+}

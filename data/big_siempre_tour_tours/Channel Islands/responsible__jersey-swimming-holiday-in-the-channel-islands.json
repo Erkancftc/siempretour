@@ -1,0 +1,45 @@
+{
+  "destination": "Channel Islands",
+  "mainPhoto": "",
+  "id": "jersey-swimming-holiday-in-the-channel-islands",
+  "tourName": "Jersey swimming holiday in the Channel Islands",
+  "placesVisited": "",
+  "generalInfo": "Perfect for swimmers seeking a relaxing yet adventurous getaway, this late September trip to Jersey offers the chance to explore the island’s dramatic coastlines, hidden bays, and crystal-clear coves shaped by its unique tides. <br/><br/>With fully supported, short open water swims (1–3 km per day) tailored to group ability and weather conditions, you’ll enjoy two swims daily alongside time to unwind and discover Jersey’s rich heritage.<br/><br/>A highlight includes a possible swim to the Écréhous islands—watch for dolphins en route. <br/><br/>With warm sea temperatures (around 18°C), flexible routes, and a maximum group size of 12, the trip suits open water swimmers looking for a pampered yet active break.",
+  "durationDays": "4",
+  "price": "1109",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "There will be an airport transfer at 1pm, and the tour will begin at 2pm, when on arrival at Hotel Cristina, we will gather for a safety briefing before heading to Greve de Lecq for a swim in this popular golden bay (1-2km). Discover a miniature private beach and the beautiful Octopus Pools."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Following breakfast, we will drive to Portelet bay to swim around Janvirin’s Tomb. We will enjoy lunch in a local cafe before driving to our next stunning swim spot at Beauport. After walking down to Beauport Bay, we will swim out, round the headland and into St Brelade’s Bay before returning to the hotel to get changed ready for dinner."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "This morning we will take a boat ride to the stunning Écréhous Islands, situated 6 miles off the coast. We will enjoy a refreshing dip before heading back to land. After lunch, enjoy a swim from the iconic red and white tower at Archirondel back to the L’Hopital slipway, before heading back to the hotel to get ready for dinner."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "We will get up early on the final morning and head down to Belcroute Bay for a sunrise swim. After the swim, we will enjoy a well-deserved breakfast, followed by departures. Checkout is at 10am."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,125 @@
+{
+  "destination": "Vietnam",
+  "mainPhoto": "",
+  "id": "vietnam-holiday",
+  "tourName": "Vietnam holiday",
+  "placesVisited": "Ho Chi Minh City (Saigon), Cu Chi Tunnels, Mekong Delta, Mekong Delta homestay, Cai Be floating market, Dalat, Nha Trang, Quy Nhon, Hoi An, Hue, Hanoi, Hanoi Old Quarter Mai Chau, Hoan Kiem Lake, Halong Bay",
+  "generalInfo": "Immerse yourself in the sights, tastes and energy of Vietnam on a 20-day adventure, starting in Ho Chi Minh city in the south and ending in Hanoi in the north. You’ll be in a small group and will travel like the locals do, spending two nights on sleeper trains, and riding everything from motorbikes to junks and public buses! There’s no better way to meet the friendly Vietnamese people, as you’re whisked from dynamic cities to tranquil backwaters, imperial ruins to picture-perfect landscapes. <br/><br/>This trip includes all the classic must-see highlights, like Halong Bay, together with off-the-beaten track gems, including Quy Nhon, with its beautiful beaches and bay. Explore the narrow cobbled streets of Hoi An’s Old Town, slurp on noodly pho in beautiful, coastal Nha Trang and cruise the Perfume River in Hue as you get to grips with this exciting country. Enjoy Vietnamese hospitality and home cooking on a homestay in the Mekong Delta and Mai Chau, and get stuck into a range of activities and spectacles, from mud baths to market shopping, snorkelling to watching a water puppet show.<br/>",
+  "durationDays": "20",
+  "price": "2220",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Ho Chi Minh City.",
+      "description": "Xin Chao! Welcome to Vietnam. Your adventure begins in Ho Chi Minh City with a welcome meeting at 6 pm today, where you'll get to know your fellow travellers and local leader. If you arrive early, maybe head to Pham Ngu Lao Street to see the local open-air market visit Vinh Nghiem Pagoda. After the meeting, you may like to join your group for an optional dinner at one of the city's fantastic eating spots. Because this trip doesn’t spend much time in Ho Chi Minh City, you might even choose to spend an extra day or two here to see the sights."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Mekong Delta/Ho Chi Minh City.",
+      "description": "Today, you'll travel south by private minibus to Mekong Delta. When you arrive, you’ll board a boat and explore the intricate waterways of the Mekong Delta. Often referred to as ‘the rice bowl’ of Vietnam, the fertile delta is where rice, tropical fruit and flowers are grown for the whole country. You'll get a chance to get off the boat to visit an orchard and sample some tropical fruit. You’ll then continue the cruise and visit a selection of local cottage industries along the way where you'll experience local life and the industries surrounding the river up close. Return to Ho Chi Minh City this afternoon and enjoy a free evening in the city."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Ho Chi Minh City.",
+      "description": "After breakfast today, you’ll visit one of the most important sites in Ho Chi Minh City – the famous Cu Chi Tunnels. These complex tunnels were used by the Viet Cong in the long war against the Americans and were instrumental to the Vietnamese victory. Later in the day, take a tour of the city, passing the Reunification Palace, Notre Dame Cathedral and the Opera House. Head to the War Remnants Museum for a sobering yet informative lesson on the Vietnam War. Here you’ll see things like old military equipment, an F5A fighter and a UH1-Huey helicopter. Enjoy some free time afterwards at your leisure. We recommend exploring the city’s restaurants and trying Ho Chi Minh City’s distinctive fresh and flavoursome food. In contrast to the north of Vietnam, the cuisine here is spicier, sweeter and more varied. There are also plenty of street food stalls if you’d like to take a few bites of the local fare."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Dalat.",
+      "description": "After exploring Ho Chi Minh City, take a bus to Dalat. Temperate and cool compared to the rest of the country, Dalat has gained the name ‘City of Eternal Spring’ due to the mists that cover its nearby valleys nearly all year around. The Hang Nga guesthouse stands as a towering, melted stone obelisk over the lush garden below. There’s also plenty of charming Art Deco-influenced structures and gardens around the area. This afternoon, perhaps go for a wander through the streets for a better feel of the city or find a café for a cup of artichoke tea – a regional specialty."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Dalat.",
+      "description": "Dalat’s soothing climate isn’t just a great reprieve from the heat of Vietnam's coast, it also creates the perfect environment to grow a wide selection of fruits, vegetables and herbs. Take a full day to stroll through the tranquil gardens of this city, darting past plantations full of plump vegetables, colourful flowers, medicinal herbs and juicy strawberries. You'll have a guided garden visit to learn more about this fruitful area."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Nha Trang.",
+      "description": "After breakfast this morning travel by minibus to the coastal town of Nha Trang. When you arrive, stretch your legs with a leader-led orientation walk. Then, enjoy free time in the afternoon and evening to explore this coastal city. You might like to make a beeline straight to the beach or try a mud bath. Maybe find a beach side bar for a cocktail at sunset, then tuck into some of this town's fresh seafood – your leader knows all the good spots."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Nha Trang / Overnight Train.",
+      "description": "After breakfast this morning, out for a leisurely boat trip in Nha Trang Bay. You'll stop at Mieu Island to learn about local fishermen's life here, then give it a go yourself with the rowing bamboo basket boat. Then you'll hop to Tam Island for some swimming and snorkelling in the turquoise water among the corals. Head back to Nha Trang in the early afternoon. This evening, board an overnight train to Da Nang."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Hoi An.",
+      "description": "You'll arrive in Hoi An early this morning. Recently declared a UNESCO World Heritage site, Hoi An was a major trading port with the West from the 15th to the 19th century. Today, it’s been restored to look exactly as it did more than a century ago, giving it an old-world feel full of nooks and crannies for you to explore. You’ll have some free time to wonder the city at your own pace this afternoon. Hoi An is also very popular with shopping, with specialty shops lining the Old Town – you can even get some clothes tailor made! Why not browse the paintings, woodwork, ceramics and embroidery all made by the locals."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Hoi An.",
+      "description": "Today is another free day in the town of Hoi An. See the Chinese shophouses, enjoy the busy market, visit Cua Dai Beach, cycle to the rice fields or browse the array of art galleries. This is also a great spot to sit by the water and people watch at happy hour, so maybe ask your leader for some restaurant recommendations and soak up the atmosphere."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Hue.",
+      "description": "This morning, wave goodbye to Hoi An and make tracks to My Khe Beach. Cross the dramatic Hai Van Pass and make a quick stop at the fishing village of Lang Co before making your way to Hue. The former imperial capital of Vietnam, Hue contains the treasures of Vietnam’s royal history, and has a curious blend of bustling streets and tranquil settings. You'll explore the Imperial Citadel this afternoon – this fortress houses the Imperial City and the citadel-within-a-citadel, the Forbidden Purple City. This icon was almost completely destroyed during the Vietnam War, and the ruins and holes left by bombs are a reminder of the destruction caused by the war. In your free time, you might like to visit to Dong Ba Market which offers locally made goods, fresh produce and street food. This is a good place to try the specialties enjoyed by Emperor Nguyen such as the banh khoai royal rice cake."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Hue.",
+      "description": "'See Hue like a local – from the back of a motorbike! Straddle the saddle and whiz around town with a local guide, taking in historic and contemporary sights along the way. Stop at Thanh Toan to see the 18th-century covered bridge and villagers shopping at their local market. Visit the 17th-century active Buddhist monastery of Thien Mu Pagoda and see the car that belonged to Thich Quang Duc, the monk who self-immolated in 1963 in protest against the treatment of Buddhists by the South Vietnamese regime. For lunch, savour a vegetarian feast in a nunnery. Finish at the lakeside royal tomb of Emperor Tu Duc before heading back to town."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Phong Nha-Ke Bang National Park.",
+      "description": "Today, you'll take a minibus to the Vinh Moc Tunnels. These were used during the Vietnam War as shelter for the villagers who were escaping intense bombing. Incredibly, the locals here lived in an underground system over three levels. You’ll get a chance to enter the tunnels, which remain in their original form. This afternoon, continue to your homestay tonight at the centre of Phong Nha. Your host is a family of three generations, and you'll be able to experience how the locals go about their daily routines while staying here."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Phong Nha-Ke Bang National Park / Overnight Train.",
+      "description": "After breakfast today, visit the Phong Nha-Ke Bang National Park. This UNESCO World Heritage site contains the oldest known karst mountains in Asia. The area is also known for its enormous cave system. You’ll visit the Thien Duong Cave (Paradise Cave), then take a cruise up the Son River towards the Phong Cave – the scale of the place is astounding. In the late afternoon, travel to Dong Hoi and catch an overnight sleeper train to Hanoi."
+    },
+    {
+      "dayNumber": 14,
+      "title": "Hanoi.",
+      "description": "Arrive in Hanoi early in the morning and transfer to your hotel. Vietnam’s capital is famous for its beautiful lakes, shaded boulevards, public parks and French-style Old Quarter. As an emerging city in South East Asia, Hanoi has an attractive contrast of modern office buildings, old Buddhist temples and a labyrinth of ancient streets. Later in the day, you’ll visit the Ho Chi Minh Mausoleum complex, including One Pillar Pagoda and the Ho Chi Minh Museum. Then, enjoy a water puppetry performance – a unique and traditional Vietnamese art form."
+    },
+    {
+      "dayNumber": 15,
+      "title": "Lam Thuong.",
+      "description": "This morning, visit Vun Art Centre – a social enterprise that employs people living with disabilities to make art pieces with recycled silk. Hear from the employees about the great things they do and then make the drive to Lam Thuong Village. When you arrive, settle into your homestay for the night – sitting on stilts, these local homes belong to the Tay people and have beautiful views of the valley and offer authentic village experiences. Then, head out for a bike ride through the village and the valley, passing rice fields, homes and learning about the local’s day to day life. Enjoy a homecooked dinner tonight made by your hosts using local ingredients."
+    },
+    {
+      "dayNumber": 16,
+      "title": "Lam Thuong.",
+      "description": "Spend another day in the village today, starting with a transfer to a trailhead. Head out for a morning hike past rice paddies to a viewpoint overlooking the village, the valley and the rice fields. Return to the village this afternoon and visit a local handicraft workshop to learn about bamboo weaving, natural dyeing and how the locals make Tay hats. This afternoon, you’ll have some free time to rest or explore the village at your own pace."
+    },
+    {
+      "dayNumber": 17,
+      "title": "Hanoi.",
+      "description": "Today, say goodbye to your friendly hosts and return to Hanoi. Along the way, stop at Luc Yen gemstone market. After a while to explore (and pick up any souvenirs you might want to take home), continue to Hanoi. Arrive in the late afternoon and settle into your accommodation. This evening, you’re free to rest, relax and recharge."
+    },
+    {
+      "dayNumber": 18,
+      "title": "Halong Bay.",
+      "description": "After breakfast today, you’ll drive to Bai Chay Harbour to the famous UNESCO World Heritage site of Ha Long Bay – a blue-green bay studded with limestone outcrops, this area is full of beaches and natural grottos. You’ll take a boat through the limestone peaks and caves filled with stalactites and stalagmites, and you might even stop at a private beach for a swim. If you like, you can take a kayak out on the bay and explore the still waters from a new perspective. Spend the night on the boat beneath the star-studded sky and fall asleep to the gentle rocking of the waves."
+    },
+    {
+      "dayNumber": 19,
+      "title": "Hanoi.",
+      "description": "After breakfast today you'll return to Hanoi, arriving mid-afternoon. You’ll have free time this afternoon to explore at your own pace or rest and recharge. Why not head out in search of a bia hoi (freshly brewed draught beer) at one of the microbars in the Old Quarter. Or, maybe mark the end of your trip with an optional farewell dinner with your group – your leader will have some great recommendations."
+    },
+    {
+      "dayNumber": 20,
+      "title": "Hanoi.",
+      "description": "There are no activities planned for today and you can depart the accommodation at any time. There’s so much to see and do in Hanoi, so why not stay a day or two longer! If you need additional accommodation, just reach out to your booking agent ahead of time. If you have extra time, you may like to do an Urban Adventure tour – see urbanadventures.com/destination/hanoi-tours. Thinking of exploring more of the majestic Northern Vietnam after your trip is finished? Then check out our Ninh Binh Mini Adventure (TVAN) -for an off-the-beaten path discovery of Pu Long and Ninh Binh. Or you can try our Hiking In Sapa (TVAG) - for a big doze of dramatic mountain landscapes, crisp fresh air and colorful hilltribes."
+    }
+  ],
+  "map": ""
+}

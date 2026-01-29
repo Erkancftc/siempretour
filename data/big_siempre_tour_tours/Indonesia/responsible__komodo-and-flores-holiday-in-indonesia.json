@@ -1,0 +1,100 @@
+{
+  "destination": "Indonesia",
+  "mainPhoto": "",
+  "id": "komodo-and-flores-holiday-in-indonesia",
+  "tourName": "Komodo and Flores holiday in Indonesia",
+  "placesVisited": "Denpasar, Bali, Labuan Bajo, Flores Island, Two night cruise around Komodo and Rinca islands, Ruteng, Bajawa, Moni, Kelimutu crater lakes, Sanur beach, Bali",
+  "generalInfo": "Cruise the waters of the Komodo archipelago and enjoy snorkelling at isolated spots. On land observe the Komodo dragon in its natural habitat, explore traditional villages in the depths of rural Flores, meeting the local people and staying at small, locally run guest houses.<br/><br/>You’ll also have the chance to stay a few nights at the Kelimutu Eco Lodge and enjoy trekking around the Three Coloured Lakes. End the trip with a few days relaxing on the beaches of Bali.",
+  "durationDays": "15",
+  "price": "6450",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly to Bali, Indonesia today. Overnight on board aircraft."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "On arrival in Denpasar you will be met by your guide and driver and transferred to your hotel."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "At leisure to relax."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "This morning fly to Labuan Bajo on the island of Flores and board a local boat for a two-night cruise around Komodo and Rinca Islands in search of the Komodo dragon."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Continue exploring the archipelago and tracking the dragons."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Today you return to Labuan Bajo where you will spend the night."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Begin your journey through Flores as you travel to Ruteng, known for its ikat weaving and bustling market."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Continue east to the town of Bajawa for an insight into the ancient culture and unique traditions of the area's untouched villages."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Depart Bajawa and head towards Moni to see impressive views of Mount Inerie and more local villages."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Your guide will meet before dawn this morning for your hike to watch the sunrise over the Kelimutu crater lakes. The varied hues of the lakes are unique, and scientists still do not understand why they have changed so significantly over time. After your hike you will continue your journey to Ende."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "After breakfast your guide and driver will pick you up for your flight back to Bali."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Day at leisure to relax on Sanur beach."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "At leisure"
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "After a leisurely day, you will return to the airport late this afternoon, in time for your departing flight."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Return home this morning."
+    }
+  ],
+  "map": ""
+}

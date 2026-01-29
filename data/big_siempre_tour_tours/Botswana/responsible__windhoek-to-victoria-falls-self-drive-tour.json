@@ -1,0 +1,75 @@
+{
+  "destination": "Botswana",
+  "mainPhoto": "",
+  "id": "windhoek-to-victoria-falls-self-drive-tour",
+  "tourName": "Windhoek to Victoria Falls self drive tour",
+  "placesVisited": "Windhoek, Sossusvlei, Namib-Naukluft National Park, Sesriem Canyon, Dune 45, Swakopmund, Skeleton Coast, Damaraland, Cape Cross seal colony, Etosha National Park, Etosha Pan, Caprivi Strip, Kwando River, Mayuni Conservancy, Bwabwata National Park, Chobe National Park, Victoria Falls, Zambezi River, Lower Zambezi National Park",
+  "generalInfo": "On this multi-country self-drive holiday you'll explore Namibia, Botswana and Zimbabwe. Your adventure starts in Namibia, where you'll discover the world-famous sand dunes in the Namib Desert, visit seal colonies on the Skeleton Coast and search for desert-dwelling elephants in Damarland, before observing a dramatic change in the landscape as you drive north and enter the Caprivi Strip, bordered by the Okavango, Kwando, Chobe and Zambezi Rivers. <br/><br/>You’ll then cross into Botswana for a safari in the Chobe Game Reserve, known as one of the best wildlife parks in the world; before driving into Zimbabwe, where you can enjoy adventure activities and exciting experiences at the mighty Victoria Falls.<br/><br/>Watch the sunrise over Dune 45, track rhino in Damaraland and hear the thunder of Victoria Falls, on this self-drive Africa adventure.",
+  "durationDays": "17",
+  "price": "8899",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival in Windhoek - Arrive in Namibia’s capital, where you will be met and transferred to your central accommodation. Your rental car will be delivered to your hotel with a mobile phone and an information pack containing driving directions, accommodation details, and contact numbers. Enjoy the rest of your day exploring Windhoek at your leisure."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Explore to Sossusvlei - After breakfast on day two, you will drive from Windhoek to Sossusvlei in the Namib Desert, celebrated for its towering orange sand dunes and striking white salt pans. Spend two nights exploring this remarkable landscape, with visits to Sesriem Canyon and iconic sights like Dune 45, Big Daddy, and Deadvlei. On day three, you can climb the dunes at sunrise for breathtaking views, take a nature drive to spot desert-adapted wildlife, enjoy a guided dune walk, or choose a hot air balloon ride for a spectacular aerial perspective. In the evening, unwind with a sundowner and perhaps join a guided stargazing tour to experience the Namib’s extraordinary night skies."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Swakopmund - Drive north from the Namib Desert through striking canyon and desert scenery towards Swakopmund on the Atlantic coast. Along the way, stop at Walvis Bay, where the lagoon is home to rich birdlife including flamingos and pelicans. Swakopmund is a charming coastal town known for its German colonial buildings and relaxed atmosphere. Many locals speak German, and cultural festivals reflect the town’s heritage. It is a great place to unwind, enjoy fresh seafood, stroll the beach, and explore historic streets before continuing your journey north."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Twyfelfontein & Damaraland - On day five, drive to Twyfelfontein, where you will stay for two nights in a camp set among dramatic boulders, offering sweeping views of the surrounding landscapes. Over these two days, you can explore the varied scenery of Damaraland on foot, take a nature drive to search for Namibia’s rare desert-dwelling elephants, or visit the UNESCO World Heritage Site of Twyfelfontein to view ancient rock engravings, as well as the striking features of Burnt Mountain and the Organ Pipes."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Explore Etosha - Spend three days discovering the diverse wildlife and striking landscapes of Etosha National Park, beginning with a stay in central Etosha and continuing with two nights in the eastern part. Renowned for exceptional game viewing, the park’s waterholes draw a remarkable variety of animals throughout the year. Etosha’s well-marked roads make self-drive exploration easy, giving you the flexibility to seek out wildlife at your own pace. A quarter of the park is made up of dramatic salt pans, and seasonal gatherings of flamingos can be seen on the vast Etosha Pan when conditions are right. After each day's adventure, relax at your lodge and take in the unique blend of open horizons and ever-changing natural spectacles that make Etosha one of Africa’s premier safari destinations."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Drive to Caprivi West - You will travel from Etosha eastwards through Rundu to the Caprivi Strip, witnessing a shift from dry savannah to lush river landscapes. After passing Grootfontein, the drive continues to Rundu, where the environment becomes greener alongside the Okavango River. From Rundu, you head northeast into the Caprivi region, near Popa Falls and Bwabwatha National Park. Depending on your arrival time, options include a boat or mokoro trip, a visit to Popa Falls, or a cultural village tour. The route is straightforward and offers a remarkable contrast of Namibia’s diverse landscapes and cultures."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Bwabwata - Travel east across the Kwando River to the eastern edge of the Caprivi, where Namibia borders Botswana, Angola, Zambia, and Zimbabwe. Your accommodation is located on the banks of the Kwando River in the heart of the Mayuni Conservancy within Bwabwata National Park. Elevated tented suites overlook the river and floodplains, offering stunning views of passing wildlife. Over these two days, you can explore Bwabwata National Park and immerse yourself in the Zambezi landscape. The lodge arranges activities such as guided game drives to spot large herds of buffalo and elephants along the riverbanks, bush walks to discover the diverse flora and fauna, and cultural visits to local villages for insight into the traditions of the Caprivi region. Relax by the river and watch wildlife gathering at the water’s edge for a truly memorable experience."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Chobe - Drive to Katima Mulilo, return your vehicle, and take a short flight to Kasane in Botswana. From there, transfer to a luxury lodge in Chobe Game Reserve for a two-night stay. The following day, explore Chobe’s remarkable wildlife with an early morning game drive and an afternoon boat safari on the Chobe River, home to elephants, hippos, crocodiles, and abundant birdlife."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Victoria Falls - Cross into Zimbabwe and continue to Victoria Falls, a transfer of around three hours including the border crossing. You’ll stay for two nights in luxury near the Zambezi River, perfectly situated for exploring the falls and surrounding area."
+    },
+    {
+      "dayNumber": 17,
+      "title": "",
+      "description": "Depart Zimbabwe - After breakfast, you’ll be transferred to Livingstone Airport to connect with your international flight home."
+    }
+  ],
+  "map": ""
+}

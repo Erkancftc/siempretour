@@ -1,0 +1,45 @@
+{
+  "destination": "Uganda",
+  "mainPhoto": "",
+  "id": "uganda-tailor-made-safari",
+  "tourName": "Uganda tailor made safari",
+  "placesVisited": "Murchison Falls, Queen Elizabeth National Park, Kazinga Channel, Uganda’s wildlife, Safari camps, Lake Mburo National Park",
+  "generalInfo": "This Uganda tailor made safari follows a carefully crafted itinerary taking you to some of the most magnificent wildlife parks in the country. With a few days in each of Lake Mburo National Park, Queen Elizabeth National Park and Murchison Falls National Park you will discover not only wildlife spectacles but landscape ones as well. The wildlife spots are also a lot quieter than other safari destinations as Uganda is still very much undiscovered in terms of tourists, and local people will welcome you with open arms. <br/><br/>Highlights include taking a boat along Kazinga Channel which is lined with elephants, buffalo, marabou storks and Nile crocodiles. The vast Murchison Falls National Park is bisected by the River Nile and wildlife cruises here are also unforgettable experiences. You can trek to the top of the Falls too if you like. This is a tailor made trip and so we can fine tune any details to suit your timeframe and interests. <br/><br/>Travelling with your own driver guide and staying at safari lodges or tented camps, you will wake up to the sound of wildlife and birds, and no better place for the latter than at Lake Mburo National Park, the last stop on this Ugandan trip. Because its wetlands and savannah are home to over 350 bird species as well as hippo, buffalo and zebra. <br/>",
+  "durationDays": "12",
+  "price": "2500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive at Entebbe International Airport, you will be met by our representative who will welcome and drive you to your hotel for the first night/depending on the time of arrival."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "You will spend this time on different game drive in Muchison Falls, here you will enjoy game drives with opportunity to see the big 5."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "During this trip to Queen Elizabeth you will have an opportunity to visit the crater lakes, boat ride on Kazinga Channel, and wonderful opportunity to see a varierty of bird species."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Drive back from Queen Elizabeth National Park and on ways stop by and make a quick visit to Lake Mburo National Park, home to number of Zebras. At the end you will be driven to the airport to catch your flight back home."
+    }
+  ],
+  "map": ""
+}

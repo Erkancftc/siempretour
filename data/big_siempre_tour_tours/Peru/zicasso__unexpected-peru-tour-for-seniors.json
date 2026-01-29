@@ -1,0 +1,60 @@
+{
+  "destination": "Peru",
+  "mainPhoto": "",
+  "id": "unexpected-peru-tour-for-seniors",
+  "tourName": "Unexpected Peru Tour for Seniors",
+  "placesVisited": "Lima, Palcoyo, Madre de Dios, Llachon, Chinchero",
+  "generalInfo": "On this seven-day adventure to Peru, you will uncover the best-kept secrets this region of the world has to offer. Visit charming towns nestled into the hillside of the Sacred Valley, trek to the lesser-known Rainbow Mountain in Palcoyo, and fall asleep among the thick vegetation and exotic bird calls of the Madre de Dios region of the Amazon Rainforest.",
+  "durationDays": "7",
+  "price": "2,600",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Lima – The Barranco District",
+      "description": "Your 7-day Peru will begin when you arrive in the nation's capital. After collecting your belongings, a private driver will greet and transfer you to your accommodation in the heart of the city. Although many tourists tend to stay in downtown hotels, you will enjoy a vivacious evening in the Barranco District. You can walk across the Puente de los Suspiros for stunning views of the cobblestone streets and vibrant backdrop. In the evening, you will travel by bike to the opulent neighborhood of Miraflores. Here, you can enjoy a luxurious meal by sunset."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Palcoyo – Rainbow Mountain",
+      "description": "In the morning, you will fly to Cusco. After settling in to your accommodation, you can spend the first part of the day exploring Cusco, shopping among the frenetic energy of Avenida del Sol, or visiting Qorikancha Temple. By early afternoon, you will meet your guide and begin the two-hour journey to the small town of Palcoyo. While thousands of visitors flock daily to the official Rainbow Mountain, this lesser-known alternative provides a lighter hike, significantly smaller crowds, and avoids some of the environmental issues, such as erosion, that have arisen at Rainbow Mountain. After your visit, you can stop in the small town of Palcoyo to shop for souvenirs."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Chinchero – Culture Class and Horseback Ride",
+      "description": "The following day, you will board a private shuttle and set out for the Sacred Valley. In the morning, you can enjoy a light breakfast beside the Plaza de Armas before breaking away from Cusco's downtown. Along the perimeter, you will stop at the sites of Tambomachay and Saqsayhuaman. After, you will begin the illustrious journey through the Sacred Valley. Here, you will attend a culture class in the village of Chinchero that will teach you about ancient wool dyeing and weaving techniques. In the afternoon, you will have the chance to explore the valley on horseback."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Madre de Dios \u0000\u0000– Birdwatching in the Amazon",
+      "description": "Today, you will embark on an adventure to Peru's Amazon Rainforest. On your first day in the rainforest, you can settle in to your secluded lodge accommodation in the rainforest. By mid-day, you will set out with your guide along the river in hopes of spotting the Amazon's most beautiful bird species. With binoculars in hand, you will keep watch at the famous clay licks, on which the macaw birds are known to perch after traveling hundreds of miles across the Amazon. In the evening, you will join your guide on a short evening hike to uncover the captivating animals of the night."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Madre de Dios – Local Tasting Event",
+      "description": "In the morning, you can partake in a short walk for an up-close look at the local flora and medicinal properties of many of the local vegetation. Then, you and your guide will set out on a riverboat cruise to Cordillera del Pantiacolla, the Cocha Salvador wildlife refuge, and Monkey Island to see many of the Amazon's famous spider monkeys. On the return trip, you will stop at a small alcove of thermal hot springs. In the afternoon, you will attend a culture class that will teach you about the indigenous tribes that have called Peru's Madre de Dios region home for generations."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Llachon – Lake Titicaca and Trout Dinner",
+      "description": "After two days in the Amazon Rainforest, you will make your way to Lake Titicaca. In the morning, you can explore the city of Puno, which is situated at the base of the lake. Although the city has a charming downtown, Puno is best known for its annual carnival festivities that attract thousands of visitors each year. Your guide will lead you along the route of the procession and show you vibrant examples of festive clothing. Around mid-day, you will sail along the water of Lake Titicaca and stop at the artificial floating islands."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Lima – Departure",
+      "description": "Your Peruvian adventure will conclude with a brief exploration of Lima. In the morning, you will board a flight to Lima and stow luggage at your hotel in Miraflores so that you can experience your last hours of metropolitan life in Lima. For the first half of the day, your guide will lead you on a tour of the downtown area. In the afternoon, you will meet your guide in front of your hotel and transfer to the airport for your flight home."
+    }
+  ],
+  "map": ""
+}

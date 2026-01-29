@@ -1,0 +1,75 @@
+{
+  "destination": "Namibia",
+  "mainPhoto": "",
+  "id": "namibia-self-drive-safari",
+  "tourName": "Namibia self drive safari",
+  "placesVisited": "Windhoek, Kalahari Desert, Namib Desert, Sossusvlei, Swakopmund, Damaraland, Etosha National Park, Okonjima Nature Reserve",
+  "generalInfo": "Namibia is a land of geographical extremes encompassing vast areas of inhospitable desert, towering mountain ranges and unspoilt wilderness areas. It’s home to elephant, rhino, lion, giraffe, and a host of unique flora and fauna. <br/><br/>Whereas much of southern Namibia is made up of desert, the north is home to the rich farmland of Damaraland, fed mainly by the Okavango River, as well as the sub-tropical forest and mopane bush of Etosha National Park, one of the largest game viewing parks in Africa. <br/><br/>This Namibia self drive explores the best of the country’s north and south, taking advantage of good tarmac roads, which are straight and traffic free. You’ll experience the country's wildlife, landscapes, and culture from your own vehicle and at your own pace, staying at lodges working with local community and animal conservation projects. <br/><br/>See black rhino, ostrich, springbok, wild horses and desert adapted elephants in the vast expanses of Namibian wilderness. Marvel at the scenery around the dunes of Sossusvlei and explore the prehistoric rock paintings of the San (Bushmen) in the Twyfelfontein Conservancy.<br/><br/>Next stop is Ongava Game Reserve, where you’ll stay at a lodge on the southern boundary of Etosha National Park. The reserve acts as a buffer to Etosha, helping animals to move freely around the park without coming into contact with the surrounding environment. Finally you will stop in Okonjima, home to animal rehabilitation and research centre the AfriCat Foundation, where you’ll come into close contact with cheetah, leopard, and lion first hand. <br/><br/>Your route ends back in Windhoek where you’ll return your hire car before being transferred to the airport for your flight home.<br/><br/>This itinerary is tailor made and can be modified to add Fish River Canyon, Victoria Falls, Botswana or any of the remarkable highlights of the region. Ask your travel specialist for recommendations!",
+  "durationDays": "14",
+  "price": "2450",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive Namibia. Surrounded by mountains, Windhoek is the perfect place to start your self-drive adventure. Enjoy its Germanic influence in its cuisine, architecture and crafts. You’ll be met by a local expert guide to discuss your route and any questions and familiarised with your 4WD vehicle at your hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Mariental: Heading south, you'll soon gasp at your first sight of the stunning open landscapes. The Kalahari is the largest stretch of sand on the planet, characterised by towering red dunes which stretch for 100s of kilometres. Drive through this wilderness to your hotel which lies in a lush green oasis surrounded by the desert. (B, D)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Namib Desert. Settlements sprung up in the desert courtesy of the diamond rush in the early 1900s. Now these are ghost towns, slowly being covered by sand. Enjoy a tour of deserted Kolmanskuppe with its grand mansions before heading to the seaside town of Luderitz. (B, D)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Sossusvlei. Drive to one of Namibia’s most spectacular landscapes, a place of massive sand dunes (the biggest in the world) with dramatic streaks of black and red. Keep an eye out for the wild horses of the Namib who have conquered the inhospitable desert. (B, D)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Swakopmund. Back to the Atlantic coast and the sandy beaches of Swakopmund. Enjoy an optional catamaran cruise to see dolphins, seals and pelicans in the bay while enjoying fresh Walvis bay oysters and sparkling wine. There are plenty of other activities on offer, from sand boarding to quad biking, and deep sea fishing. (B)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Twyfelfontein. Drive to Damaraland where you will see ancient rock paintings, petrified forest and the indigenous Welwitschia plants which only grow in a remote place in the desert. It is also home to open plains filled with elephant, rhino, ostrich and spingbok. (B, D)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Etosha National Park. One of the largest and best game viewing parks in Africa, Etosha has dozens of waterholes which attract a huge number of plains game including the endangered Black Rhino and huge herds of elephants. (B, D)"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Okonjima Nature Reserve. Explore this national park, home to unrivalled cheetah and leopard safaris and nestled in the Omboroko Mountains. (B, D)"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Return to Windhoek. Check into your hotel and return your hire car. (B)"
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Departure. Transfer to the airport for your return flight. (B)"
+    }
+  ],
+  "map": ""
+}

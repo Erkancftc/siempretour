@@ -1,0 +1,90 @@
+{
+  "destination": "Peru",
+  "mainPhoto": "",
+  "id": "peru-adventure-holiday-private-departure",
+  "tourName": "Peru adventure holiday, private departure",
+  "placesVisited": "",
+  "generalInfo": "Discover Peru's greatest sites with an active twist, on this private example adventure. Staying at stylish boutique hotels throughout, and accompanied by your own private guides, some of the key highlights include;<br/><br/>- Explore Lima's up-and-coming cultural districts by foot and bike <br/><br/>- Visit the islands of Lake Titicaca by kayak, rather than the busy tourist boats<br/><br/>- Trek a quiet extension of the Great Inca Trail, on the way between Lake Titicaca and Cusco, with guiding and lunch provided by the local community<br/><br/>- Spend a day with the Indigenous community of Misminay, where cultural walks, bike rides, and hands-on workshops are all on the menu<br/><br/>- Choose from optional extra activities in the Sacred Valley, ranging from full day hikes to reforestation projects and cooking classes<br/><br/>- Tackle the last section of the Inca Trail, from KM104 to the famous Sun Gate, whilst staying in luxury boutique hotels instead of camping<br/><br/>This example itinerary has been designed to provide a more authentic, community-based, activity-focussed adventure through Peru. As all our trips are tailormade we can also create a unique version just for you.",
+  "durationDays": "15",
+  "price": "4000",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive Lima - Upon arrival you will be met in the arrivals hall, and transferred by private vehicle to your hotel. This evening is at leisure, before your first excursion tomorrow."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Barranco Cycling Tour - Hit the streets on a private half day cycling tour of the colorful streets of Barranco, enjoying the bohemian spirit, architectural gems, street art and local cuisine of this enticing district."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Lima Gastronomy - Private exploration of the historic centre of Lima on a street food tour. We will make a number of gastronomic stops, including the main market, and enjoy an array of Peruvian cuisine."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Lima to Lake Titicaca - Fly to Juliaca high in the Andes today, before a private transfer to your hotel on the shores of Lake Titicaca. Spend the rest of today acclimatising to the altitude, and enjoying your position overlooking the mystical lake."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Lake Titicaca by Kayak - Avoiding the busy tourist boat trips, we will head out to the fascinating floating reed islands of the Uros community on kayaks today. After visiting two of the islands and meeting the locals, we continue to Taquile island and walk around the stunning cultivated slopes of the UNESCO-listed community here. Lunch is a shared affair accompanied by traditional music on the island, before we return to the mainland this afternoon."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Puno to Cusco \"Sun Route\" Trek - Another fantastic off-the-beaten path experience awaits us today, as we take a detour on the drive to Cuzco with a trek along the ancient Great Inca Trail, hosted by the local 'Inka Routes Experiential Tourist Association'. Learn about their traditions and legends on the walk, and enjoy a tasty local lunch when we reach Raqchi and the temple of Wiracocha. Continue to Cuzco."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Sacred Valley Community Immersion - One of our flagship excursions, we spend today with the Andean Misminay community and take part in activities of your choice with them such as traditional adobe brick making, a cooking class, agricultural demonstrations, Quechua lessons, textile weaving, or a hike to their lookout point with stunning views over the Moray archaeological site. This unique cultural experience has been a huge success in preserving the local way of life, and providing funds for health and education facilities in the community. Return to your hotel and reflect on a very special day."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Sacred Valley Kayaking or SUP - Time to get active as we head to the Piuray Lagoon, for your choice of either kayaking or stand-up paddleboarding. Enjoy the beautiful natural surroundings, including an array of birdlife, before returning to shore and back to your hotel."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "'Short Inca Trail' to Machu Picchu - A big day awaits us! Starting with a train from Ollantaytambo to 'Km 104', we then embark on an unforgettable trek along the final stretches of the Inca Trail (approx 6 hours). On the way we will visit the ruins of Winay Wayna and take lunch, before continuing through highland jungle to the famous Sun Gate for your first dramatic view over the Inca citadel of Machu Picchu. After taking it all in, we jump on the bus down into Aguas Calientes and check-in to your hotel for the night."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Machu Picchu - After an energising breakfast, we take the bus back up to the gates of Machu Picchu, and start our exploration of one of the true Wonders Of The World. As we walk amongst the ruins and terraces, you will learn about the history of the site and the wider Inca civilisation, the amazing engineering skills still on display, and marvel at the sight of ancient buildings clinging to the mountainside. After lunch nearby, we board the picturesque train back to Cuzco and check-in to your boutique city hotel."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Cusco & Sacsayhuaman - Charming Cusco was the capital of the Inca Empire, and today is a UNESCO World Heritage Site and thriving tourist town. Today we will take in all the key historic spots, from the grand colonial Plazas de Armas to the Inca Koricancha Temple, up to the imposing fortress of Sacsayhuaman and Q’enqo ceremonial site. We will also spend time exploring the iconic San Pedro Market for a taste (literally) of modern Cusco."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Cusco at Leisure - Cusco is an easy city to explore on foot should you wish to have a day to yourself, or we can arrange some interesting final cultural experiences for you."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Depart Cusco - Wave goodbye to Peru, as we transfer you to Cusco airport today for your onward flight home."
+    }
+  ],
+  "map": ""
+}

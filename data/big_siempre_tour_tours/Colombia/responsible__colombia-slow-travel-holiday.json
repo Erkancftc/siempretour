@@ -1,0 +1,55 @@
+{
+  "destination": "Colombia",
+  "mainPhoto": "",
+  "id": "colombia-slow-travel-holiday",
+  "tourName": "Colombia slow travel holiday",
+  "placesVisited": "",
+  "generalInfo": "Discover on your own slow-paced adventure to Colombia’s greatest sights as well as some off the beaten track areas giving a real sense of authentic Colombia! Visit the buzzing cities of Bogota, Medellin and Cartagena.  Explore the cowboy country in Yopal and the asrtisinal towns in beautiful Pasto.<br/><br/>You'll have plenty of time in each destination, to witness first the classic highlights, and then the lesser-known gems that only an extended stay allows (and we believe makes for a more memorable and fulfilling experience). <br/><br/>All of our trips can be tailormade from scratch, so take this as an example of what is possible and \"Enquire Now\" so we can create your very own dream adventure.",
+  "durationDays": "22",
+  "price": "6100",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "BOGOTA: Welcome to the heart of Colombia, the city steeped in the old and new! Step into the heart of Colombia's culinary soul at the iconic Paloquemao Market, a haven so abundant that you could relish a different fruit every day of the year, without repetition. Explore the colonial downtown with museums, restaurants, hotels and bars peppered amid 300-year-old homes, churches, and convents before visiting the most extensive collection of pre-Hispanic gold works in the world at the Museo de Oro."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "YOPAL: Colombia’s cowboy country! This ecological haven will introduce you to the rich flora and fauna on offer. Walk the trails and explore on a horseback safari through the floodplains where you’ll spy birds, mammals, amphibians, reptiles, and fish in their natural habitats. Get under the skin of a working ranch, learning about milking and working in the corral before taking a boat to try your hand at traditional fishing techniques. End the day with a sundowner watching over the savannah."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "PASTO: Known as Colombia’s “Surprise City” this quaint city in the South of the country preserves old school charm and traditional ways of life. Explore artisanal workshops trading in harvesting, woodworking and decorative varnishing and learn all about Carnival “a la Colombia” at the Carnival museum. Las Lajas Sanctuary is home to the impressive gothic basilica built in the early 1900’s. Spend the day exploring on foot before a panoramic cable car ride. Your final day involves La Cocha Lagoon, a volcanic crater lake surrounded by Swiss style houses on the shore."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "MEDELLIN: Medellin known for its colourful history but not so much the pretty villages nearby. Visit Carmen de Viboral with its ceramics and pottery, you’ll be an expert following a workshop. Santa Elena another village close to the city is famous for flower farming which thrives in the temperate climate. These “Silletas” are now the national symbol of Colombia. No trip would be complete without seeing Gutape, the giant rock you can climb for views of the surrounding lakes. End with a tour of Comuna 13, the now thriving neighbourhood in Medellin’s centre."
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "COFFEE REGION Your next stop is Colombia’s famous coffee region. Here you’ll explore the private coffee estate of the Valencia Family and learn about the coffee process from bean to cup before tasting the freshest coffee of your life! Solento is not to be missed, this enchanting Andean town with its luscious landscapes is the gateway to the iconic Coroca valley, where you can hike, or simply explore the traditional artisans, with weaving and basketry work at the forefront of their craft."
+    },
+    {
+      "dayNumber": 18,
+      "title": "",
+      "description": "CARTAGENA: Cartagena de Indias is the undisputed queen of the Caribbean coast, but it’s not all about the sea! From Cartagena you’ll visit the Matute national park, a haven for nature where you’ll spot native birds and howler monkeys swinging in the canopy. No visit would be complete without a tour of the old town and the Getsemani neighborhood, the most popular sector of the city. For some down time, end with a day on the Rosario Islands, with crystal clear water and a bountiful seafood accompanied by and ice cold drink. Snorkel or relax on the beach before heading back to the city."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,60 @@
+{
+  "destination": "Ecuador & Galapagos",
+  "mainPhoto": "",
+  "id": "ecuador-galapagos-active-adventure-holiday",
+  "tourName": "Ecuador & Galapagos active adventure holiday",
+  "placesVisited": "",
+  "generalInfo": "Immerse yourself in Ecuador's steamy cloud forest, towering Andes mountains, and majestic Galapagos Islands on a privately-guided outdoor adventure...<br/><br/>- Hike for three days through the indigenous markets and villages of Otavalo<br/><br/>- Stay in a peaceful cloud forest eco-lodge, with optional river tubing, ziplining and horse riding<br/><br/>- Take in the views of snow-capped Cotopaxi Volcano from a cosy lodge offering mountain biking, horse riding, and guided treks<br/><br/>- Explore three Galapagos Islands, with hiking, biking, kayaking and snorkelling all included whilst you meet the archipelago's iconic wildlife<br/><br/>The exact itinerary can be tailormade to your own needs, wants, interests and timeframes, but we think this is a great example to start from.",
+  "durationDays": "15",
+  "price": "4950",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Quito - After being welcomed at the airport and taken by private car to your boutique hotel, you have time at leisure to rest, relax, and acclimatise. The following day we take a walking tour of the UNESCO-listed colonial centre, with optional cultural activities afterwards such as a cooking class, chocolate tour, or visits to artisanal workshops."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Cloud Forest - Journey approx 2 hours out of Quito into the lush and magical cloud forest, staying at charming small eco lodge on the banks of a babbling river and surrounded by protected forest. The area is known for world class birdwatching and nature walks, but also offers optional river tubing, zip lining, horse riding and wild swimming for the active traveller."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Otavalo - Moving up into the mountainous Otavalo region, we start three days of stunning hikes amongst indigenous villages and shimmering lakes. Day 1 is a beautiful walk around the deep blue Cuicocha crater lake. Day 2 we hike between our two lodges, via the colourful indigenous craft markets of Otavalo and the workshop of a renowned traditional 'Master Weaver'. The final day is a hike to another valley with differing cultures, finishing with a cooking class in the home kitchen of a friendly local family."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Cotopaxi - Driving south towards Cotopaxi National Park, we check-in for two nights at a charming mountain lodge featuring stunning views of the iconic snow-covered volcano that gives the park its name. Your time here is at leisure to arrange guided horse riding, mountain biking or treks with the lodge, or set out into the national park by foot yourself for some independent adventures."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Santa Cruz Island, Galapagos - We return to Quito airport and fly to one of the worlds greatest outdoor destinations, the Galapagos Islands. Settle in to your hotel, from where you can walk or cycle to nearby beaches or visit the Charles Darwin Research Station. The next day we take a private boat excursion to one of the neighbouring islands, to walk and snorkel amongst the iconic wildlife that makes the Galapagos so special."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Isabela Island, Galapagos - Reached by an exhilarating speedboat journey, Isabela Island offers a quieter version of the Galapagos. Our time here includes opportunities for kayaking and snorkeling amongst reef sharks, sea turtles and penguins, and a stunning full day trek up and around the rim of the mighty Sierra Negra volcanic crater. Each afternoon we return to our boutique hotel on a gorgeous white sand beach, perfect for relaxing and taking in the amazing sights of the Galapagos."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Depart - Time to wave goodbye to this incredible country, as we head back to the mainland to connect with your flight home."
+    }
+  ],
+  "map": ""
+}

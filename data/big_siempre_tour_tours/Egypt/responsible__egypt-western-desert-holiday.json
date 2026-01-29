@@ -1,0 +1,75 @@
+{
+  "destination": "Egypt",
+  "mainPhoto": "",
+  "id": "egypt-western-desert-holiday",
+  "tourName": "Egypt Western Desert holiday",
+  "placesVisited": "",
+  "generalInfo": "Experience Egypt beyond the usual path; from Cairo’s ancient wonders to the peaceful Oases of Kharga and Dakhla, ending in Luxor’s timeless temples.<br/>This trip combines adventure with local life, staying in eco-lodges, meeting local people, and discovering desert landscapes.<br/>You’ll travel responsibly, support small communities, and help preserve Egypt’s heritage and nature.<br/><br/>Activities:<br/>*Oasis exploration<br/>*Desert safari (optional)<br/>*Cultural visits<br/>*Local food experiences<br/>*Ancient temples &amp; tombs<br/>*Discover the GEM (Grand Egyptian Museum) <br/>*Land of Civilization<br/>*Eco Lodge <br/>*Desert Vibes<br/>*Palm Trees <br/>*Hot Springs (optional) <br/>*Sand Dunes <br/>*Egypt’s Capital <br/>*Countryside Charm<br/>*Simplicity<br/>*Quietness",
+  "durationDays": "10",
+  "price": "2170",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival at Cairo International Airport, meet & assist through formalities, transfer to your hotel, check-in & overnight."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Breakfast, full day to visit Sakkara and the Great Pyramids of Giza & Sphinx. Chance to stop at local stores. Overnight in Cairo."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "After breakfast, you will visit the new Grand Egyptian Museum. Return to hotel and overnight."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Early breakfast, then flight to Kharga. Transfer to Qasr El Bagawat Eco-Lodge, dinner & overnight."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "After a delicious breakfast, visit Bagawat tombs, Hibis Temple, Kharga Museum, and the Old Market. Dinner & overnight."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "After breakfast, Drive to Dakhla Oasis, visit Qasr, Blat, and Mzoka, plus a natural hot spring \"if available\". Return to Kharga."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Start your day with a delicious breakfast, followed by a visit to Al-Ghawita Temple and relax in the natural hot spring\"if available\". Dinner & overnight."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Breakfast, check-out, and drive to Luxor. Check-in at hotel and overnight."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "After your breakfast, you will visit the West Bank (Valley of the Kings, Hatshepsut Temple, Colossi of Memnon) and the East Bank (Karnak Temples). Overnight in Luxor."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Breakfast, check out, and final departure from Luxor Airport."
+    }
+  ],
+  "map": ""
+}

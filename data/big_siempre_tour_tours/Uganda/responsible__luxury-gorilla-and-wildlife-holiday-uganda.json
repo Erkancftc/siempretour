@@ -1,0 +1,55 @@
+{
+  "destination": "Uganda",
+  "mainPhoto": "",
+  "id": "luxury-gorilla-and-wildlife-holiday-uganda",
+  "tourName": "Luxury gorilla and wildlife holiday, Uganda",
+  "placesVisited": "",
+  "generalInfo": "Uganda is an incredible destination that is not as famous as it should. This safari will give you an opportunity to experience the beautiful scenery, nature and wildlife of Uganda with opportunities to interact with the people of Uganda. <br/><br/>The safari  starts with Queen Elizabeth national park “medley of wonders” for a wide range of wildlife and beautiful scenery of crater lakes and the famous tree climbing lions of Ishasha. And you end your tour in the incredible Bwindi impenetrable national park for gorilla trekking experience.",
+  "durationDays": "6",
+  "price": "10535",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "WELCOME TO THE PEARL OF AFRICA. Your Uganda safari begins today with your arrival at Entebbe International Airport where you will be welcomed by a Kagera Safaris representative. You will be transferred to your hotel in Entebbe for check in and overnight."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "FLIGHT TO QUEEN ELIZABETH PARK: Transfer to Queen Elizabeth national park, known as a medley of wonders because of the many activities in this park. Take a mid morning flight to Kasese and check in to your lodge. In the evening, take a night game drive in the park."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "QUEEN ELIZABETH NATIONAL PARK | ENCOUNTER THE WILDLIFE: After an early breakfast, leave for a game drive in search of wildlife like elephants, water bucks, kobs and the elusive leopard and lions. In the afternoon, take a relaxing boat ride on Kazinga Channel for opportunities to view different species of birds and other animals like hippos, crocodiles etc."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "CHIMPANZEE TREK IN KYAMBURA GORGE & TRANSFER TO BWINDI FOREST Use the morning to track chimpanzees in Kyambura gorge. The gorge is an underground forest with amazing views and host to a chimpanzee family. After this experience, transfer to Bwindi Forest."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "BWINDI FOREST | GORILLA TREKKING The driver guide will transfer you to briefing point to join everyone else. You will receive briefing from the ranger guide and later be allocated a gorilla family and a ranger guide to lead you on your hike. You start the hike from the briefing area or you might need to drive to the trail head depending on location of the gorilla family. You have up to one hour in the presence of the gorillas, after which you will be asked to start the journey back. Consider hiring a porter to help with carrying your extra luggage and you will be giving back to the community."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "FLIGHT TO ENTEBBE INTERNATIONAL AIRPORT After breakfast, depending on your flight time. You will take a morning flight or afternoon flight from Kihihi airstrip to Entebbe for departure."
+    }
+  ],
+  "map": ""
+}

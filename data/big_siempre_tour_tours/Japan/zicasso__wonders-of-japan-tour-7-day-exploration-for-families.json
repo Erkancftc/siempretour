@@ -1,0 +1,60 @@
+{
+  "destination": "Japan",
+  "mainPhoto": "",
+  "id": "wonders-of-japan-tour-7-day-exploration-for-families",
+  "tourName": "Wonders of Japan Tour: 7-Day Exploration for Families",
+  "placesVisited": "Osaka, Kyoto, Tokyo, Hakone",
+  "generalInfo": "Designed for families who want to explore Japan in an exciting and immersive way, this customizable one-week Japan tour allows you to experience many of the best attractions that Japan has to offer. Traverse through the life-sized reproductions of Studio Ghibli characters, indulge your culinary desires at Dotonbori, and marvel at geishas and monkeys as they pass through the bamboo forest.",
+  "durationDays": "7",
+  "price": "4,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Osaka - Fulfill Your Culinary Desires",
+      "description": "Osaka is a foodie’s paradise. It is also a city of incredible views and ancient crafts. When your flight lands at Kansai Airport, a private driver will greet and transfer you to your accommodation. Once you have had enough time to relax after your flight, your guide will lead you to Sumiyoshi Shrine, which is the oldest Shinto shrine in Japan. Dotonbori is a magical world for anyone who enjoys food because you can find anything your heart desires. There are a variety of gourmet restaurants here as well."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Osaka - Ascend the Umeda Sky Building",
+      "description": "After breakfast this morning, your guide will lead you to Olaka Caste, which was built during the 16th century and was the largest castle during that time. After your tour of the castle, you will head to the Umeda Sky Building, which is an impressive building that has an observation deck on the 39th floor. The 570 feet tall building is made of two towers that are connected by a floating garden observatory, which offers incredible views of the entire city."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Kyoto - The Arashiyama Bamboo Forest",
+      "description": "After breakfast this morning, you will travel from Osaka to Kyoto. When you arrive, a driver will greet you and transfer you to your accommodation, where you will have a brief moment to relax. When you are ready, your guide will lead you to the Arashiyama Bamboo Forest. If you are truly lucky, you will spy on several geishas as they slowly make their way through the forest. Fushimi Inari-Taisha is a visually captivating place to visit because row upon row of orange torii gates line the walkway. Your guide will lead you to the top of the mountain, passing a thousand gates to get there."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Kyoto - Authentic Samurai Experience",
+      "description": "In the morning, your guide will take you to the Gion district of Kyoto, which is known for its abundance of artists and geishas. In the Gion district, you will watch the geishas perform their traditional tea ceremony, which is an act that takes years to perfect. Afterward, you will learn more about the ways of the samurai and their history in Kyoto before donning the armor and learning sword techniques from a swordmaster. Then, you will experience an interactive ninja session."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Hakone - Submerge Yourself in a Private Onsen",
+      "description": "Hakone is a hot springs resort town that was built into the side of a mountain. You will transfer to Hakone this morning, and a private driver will greet and transfer you to your accommodation. When you are ready, you may visit Owakudani Valley, which is a volcanic valley that was created from the eruption of Mt. Hakone. On a clear day, you will have an unfiltered view of Mt. Fuji. In the evening, you can submerge yourself in a private onsen ."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Tokyo - The Mysterious Ways of the Ninja",
+      "description": "After breakfast this morning, you will transfer to Tokyo. After arriving at your accommodation in Tokyo, you may decide to visit the Tokyo Skytree. Here, you can ascend to the top of the building for an impressive view of the entire city. Afterward, you may choose to partake in a Ninja experience. During which, you are met at a nondescript door, where a ninja will escort you over a drawbridge and into a labyrinth of secret passages."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Tokyo - Studio Ghibli & Departure",
+      "description": "After breakfast this morning, you will venture to the remarkable world of Studio Ghibli, which is located in Inokashira Park. In this grand mansion that houses all things Ghibli, your family will have the chance to explore an anime world that has come alive. Afterward, your driver will transfer you to the airport for your flight home."
+    }
+  ],
+  "map": ""
+}

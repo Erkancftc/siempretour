@@ -1,0 +1,95 @@
+{
+  "destination": "Borneo",
+  "mainPhoto": "",
+  "id": "sarawak-and-singapore-holiday",
+  "tourName": "Sarawak and Singapore holiday",
+  "placesVisited": "Kuching, Batang, Ai Reservoir, longhouse stay with an Iban family, Semenggoh Wildlife Centre, Sarawak River Cruise, Bako National Park, Mulu, Deer, Lang’s, Wind and Clearwater Caves, Damai Beach, Singapore",
+  "generalInfo": "Set on Borneo’s northwest coast, Sarawak is home to jungle landscapes, enormous caves and awe-inspiring wildlife. This 14-night trip takes you from the cultural city of Kuching to the coves and beaches of Bako National Park to the rainforests of Mulu. Along the way you’ll stay with a native Iban family in their traditional longhouse, spot monkeys, wild boar and birds, and visit the Semenggoh Wildlife Centre. <br/><br/>In Mulu you’ll have plenty of time to explore Deer, Lang's, Clearwater and Wind Caves and see the incredible exodus of 2 million bats taking to the skies as they leave for their night time feeding. Back in Kuching you’ll have three days to unwind in a top-end resort on a stretch of private beach before heading on to Singapore, your final stop. You can explore the city on your own or take one of several optional tours.  <br/><br/>The trip includes all meals as stated in the itinerary as well as all tours and transfers.<br/>",
+  "durationDays": "15",
+  "price": "2220",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Depart London Heathrow on an overnight flight to Singapore."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "On arrival in Kuching you will be met and transferred to your hotel in the epicentre of Kuching’s tourist, dining and entertainment hub. The remainder of the day is free to relax or explore the city."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Spend the day exploring Kuching (B)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Drive to Batang Ai reservoir, stopping for a stroll around the small native market at Lachau Bazaar. Take a longboat across the reservoir to visit the Menyan Tais Longhouse where you will meet your Iban hosts. Spend the evening relaxing on the ruai (veranda) with the Iban people and enjoy a night in a traditional longhouse. (B, L, D)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "After breakfast with the Iban family, enjoy a short jungle walk before having lunch at the longhouse. Return to your longboat and head downriver, returning to Kuching late afternoon. (B, L)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Visit Semenggoh Wildlife Centre, a rehabilitation centre which helps train orphaned and rescued orangutans how to survive in the wild. Over 20 Orangutans live within the forest nature reserve and return to the centre at feeding times. Enjoy a briefing about the work of the centre before watching the feeding session. In the evening enjoy a sunset river cruise down the Sarawak River observing Kuching from the water and a scenic sunset. (B)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Take a 25 minute boat ride to Bako Natonal Park, perched on the edge of a peninsula and one of the best places in Sarawak to see wildlife in a natural setting. Keep your eyes peled for proboscis monkeys, long-tailed macaques, wild boar, lizards and wonderful bird species. Spend the day exploring the park and its trails, coves and beaches. (B, L)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Take a short flight to Mulu and check into your stilted resort, built on the banks on the Melinau River. In the afternoon enjoy a 3km plank walk through the rainforest to Deer Cave – the world’s largest cave passage – over 150m wide and 120m high. Next visit the impressive stalagmites and stalactites in Langs Cave. Finally watch the incredible exodus of over 2 million bats as they leave the caves in search of food from the Bat Observatory. (B)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Board a longboat for a journey upriver to Wind Cave, where impressive stalactites and stalagmites with delicate lace-like patterns can be seen. Take a short plank walk and climb to Clearwater Cave – a unique habitiat for plants and a wonderful swimming area shaded by giant trees. Enjoy a picnic, swim and relax for the afternoon. (B, L)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Take a short flight back to Kuching and check into your luxurious resort and spa on Damai Beach for the next 3 nights. You’ll find superb restaurants, swimming pools, a state of the art fitness centre, tennis courts and a private stretch of beach. (B)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Enjoy two days to relax on the beach and enjoy the hotel. The resort offers plenty of water sports activities, land excursions, jungle trekking, and a wonderfully indulgent spa. (B)"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Transfer to the airport for your flight to Singapore. On arrival you will be transferred to your hotel in the heart of the city. The afternoon is at your leisure and there are plenty of optional tours we can organise for you including a city tour and night safari. (B)"
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Spend the day exploring Singapore."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "You will be transferred to the airport this morning for your return flight home."
+    }
+  ],
+  "map": ""
+}

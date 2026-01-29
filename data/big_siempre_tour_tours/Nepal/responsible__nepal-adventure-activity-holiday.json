@@ -1,0 +1,65 @@
+{
+  "destination": "Nepal",
+  "mainPhoto": "",
+  "id": "nepal-adventure-activity-holiday",
+  "tourName": "Nepal adventure activity holiday",
+  "placesVisited": "",
+  "generalInfo": "Nepal is one of the most stunning and beautiful Himalayan countries in the world, offering unparalleled opportunities for adventure enthusiasts. Our adventure activity holidays cater to travelers seeking unique experiences that are often exclusive to Nepal. Each special trip focuses on a specific activity, often tied to a particular region, ensuring guests can enjoy the most authentic and exciting experiences tailored to their preferences. With years of expertise, we specialize in crafting the best adventure options to suit our guests’ needs.<br/><br/>In addition to our curated activity holidays, we offer a wide range of thrilling adventure sports, including mountain flights, river rafting, paragliding, ultralight flights, zip-lining, bungee jumping, and hiking. Each activity is designed to provide adventure seekers with a truly fulfilling and unforgettable experience in the heart of the Himalayas.<br/><br/>Imagine soaring through the skies alongside Himalayan griffin vultures, eagles, and kites, floating over picturesque villages, monasteries, temples, lakes, and jungles—all while taking in breathtaking views of the majestic Himalayan peaks. Experience the adrenaline rush of a 160-meter bungee jump into a dramatic gorge, the exhilaration of navigating strong rapids while river rafting, or the thrill of a paragliding flight that offers a bird’s-eye view of Nepal’s magnificent mountains.<br/><br/>For a softer adventure, enjoy a hike to Ghorepani Poonhill, where you’ll be rewarded with stunning panoramic views of the Himalayas. These adventures promise a perfect blend of excitement, natural beauty, and unforgettable memories, making your trip to Nepal truly extraordinary.",
+  "durationDays": "8",
+  "price": "880",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Kathmandu Arrival. Meet us at Kathmandu Airport, transfer to hotel. Rest. Overnight stay in hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Kathmandu - Rafting - Pokhara After breakfast, Drive to Pokhara. On the way to Pokhara, stop at Chauradi for 2-3 hours white water rafting, start rafting in Trishuli River, run through the rapids, lunch on the beach somewhere. Continue drive to Pokhara. Overnight stay in hotel."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Pokhara - Kushma Bungee (world’s second-highest) After breakfast, scenic drive to Kushma from Pokhara (approx. 2 hours’ drive). You will experience the thrill of the Kushma Bungee, Nepal’s highest bungee and the world’s second-highest bungee Jump. You can choose adventure activities if you like; Bungee Jump, Swing Jump, Tandem swing, Sky Cycling, Sky Gliding, Wasting Hand, Family Ping, Sky Cafe and Zipline. Later on, you can explore longest suspension bridges in Kushma. Overnight stay in the Cliff Resort."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Kushma - Beni - Ghorepani After breakfast, Drive to Ghorepani via Beni. On the way stop at Tatopani for Natural Hot Spring. After hot spring continue drive to Ghorepani via gravel road. Overnight stay in Lodge/teahouse."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Ghorepani - PoonHill - Ghorepani - Pokhara Wake up early morning, have tea/coffee then climb up Poon hill (3210m./10593 ft.) 45 minutes’ walk with day pack to see the Sunrise and Panoramic view of Mt. Annapurna and Dhaulagiri with fishtail and other mountains. After breakfast, drive to Pokhara. Overnight stay in hotel."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Pokhara After breakfast, boating at Phewa Lake and visit Barahi Temple. In the morning Paragliding Tour, which is a great way to have a bird eye view of the beautiful Mountains, Pokhara and the nearby hills. Later on, you can do any optional activities on your own choices; Cable car to visit Sarangkot, Ultralight Flight Tour, Zip Flying, Skydiving etc. Afternoon, half day visit David’s fall, Mahadev Cave, Seti River George, Mountain Museum etc. Overnight stay in hotel."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Pokhara - Kathmandu (Approx. 6 hours’ drive) After breakfast, scenic drive back to Kathmandu (approx. 6 hours’ drive). Afternoon, free for personal activities. In the late afternoon, we will take you to Nepali Cultural Restaurant for farewell dinner with typical musical show. Overnight stay in hotel."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Departure Early morning Everest Scenic Mountain flight (free for optional activity) After breakfast, Free till departure. Transfer to Airport. Fly back to Home."
+    }
+  ],
+  "map": ""
+}

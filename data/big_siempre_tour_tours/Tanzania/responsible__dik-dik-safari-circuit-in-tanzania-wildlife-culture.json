@@ -1,0 +1,55 @@
+{
+  "destination": "Tanzania",
+  "mainPhoto": "",
+  "id": "dik-dik-safari-circuit-in-tanzania-wildlife-culture",
+  "tourName": "Dik Dik safari circuit in Tanzania, wildlife & culture",
+  "placesVisited": "",
+  "generalInfo": "This is our Dik Dik safari circuit.<br/><br/>Even with it being budgeted safari itinerary it still provides a wonderful look at Tanzania's three key wildlife areas and is a great introduction to this country.<br/><br/>On this safari route you will experience much wildlife, and during your time in the Ngorongoro Conservation area there are opportunities for cultural visits too. This is a unique, protected area in Tanzania where humans and wildlife share the same environment.<br/><br/>On your visit to Serengeti NP you will be able to visit a Maasai Boma family for the morning and participate in their daily life for a few hour as a cultural exchange.<br/><br/>",
+  "durationDays": "6",
+  "price": "3660",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arriving at Kilimanjaro International Airport (JRO), then 1hr transfer to Arusha region and Overnight in Arusha at Katambuga lodge"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "After breakfast, 2hrs Drive with packed lunch to Tarangire National Park, then a full day in Tarangire National Park , then 1hr drive to Karatu district and overnight in Ngorongoro Farm House at Karatu district."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "After breakfast, 1hr 30mnts drive to Ngorongoro Crater with packed lunch, then a full day gamedrive down the crater and overnight in Ngorongoro Farm House"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "After breakfast, 2hr30mnnts drive to Serengeti National Park with packed lunch, then Gamedrive en-route to Serengeti National Park and overnight in Katikati camp in Central Serengeti National Park"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Early morning gamedrive with packed breakfast to the Eastern side of Serengeti, then a Lunch in Katikati camp, then an Evening gamedrive in Central Serengeti and a Sundowner at Central Serengeti"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "After breakfast, a drive to Seronera Airstrip, gamedrive en-route, then Fly to Arusha for a day room before your International flight home, followed by a day room at Katambuga Lodge and later transfer to Kilimanjaro International Airport ( JRO )"
+    }
+  ],
+  "map": ""
+}

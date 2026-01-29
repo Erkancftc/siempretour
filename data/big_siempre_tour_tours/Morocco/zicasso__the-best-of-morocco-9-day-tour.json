@@ -1,0 +1,70 @@
+{
+  "destination": "Morocco",
+  "mainPhoto": "",
+  "id": "the-best-of-morocco-9-day-tour",
+  "tourName": "The Best of Morocco: 9-Day Tour",
+  "placesVisited": "Casablanca, Res, Meknes, Volubilis, Merzouga, Marrakech, Atlas Mountains",
+  "generalInfo": "A dizzying display of color, an enticing cocktail of aromas, and an exciting immersion into the dramatic North African landscape await you on your 9-day Best of Moroccan tour. Camel ride to famous sand dunes. Explore the lively souks in search of spices and vibrant clothing. Take part in preserved tradition and uncover ancient architecture. Your customizable Morocco tour will introduce you to ancient medinas, continued customs, and endless beauty.",
+  "durationDays": "9",
+  "price": "11,700",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Fes - Arrive in Casablanca and Travel to Fes",
+      "description": "Morocco is atmospheric and captivating. Upon arrival in Casablanca, your private transfer will meet you at customs and escort you to the nearby city of Rabat for an introduction to the historic architecture and ambiance for which Morocco is famous. You can wander along the palm-lined boulevards, listen to the crashing waves of the Atlantic coastline, and explore the evocative walled medina. The antique Hassan Tower stands 147-feet tall and captures the once-grand vision of the mosque with intricate motifs draping across the facade. After discovering Rabat, you will continue to your luxury accommodations in Fes."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Fes - Discover Fes with a Private Guide",
+      "description": "The imperial city of Fes captures the historic culture and embodies the preserved heritage of Morocco with a bustling marketplace filled with aromatic spices. The narrow lanes and tall buildings of the medina create an exciting labyrinth. Your guide will lead you on a private tour to find the aromas of fresh bread, visit children studying Koran in school, and meet with artisans in their workshops as they dye leather or craft vibrant shoes. In the evening, you can sample mint tea and pastries before experiencing the lively city by night from the jewelry market to the Jewish quarter."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Fes - Culture in Fes, Meknes, and Volubilis",
+      "description": "In the morning, you will venture through Fes with a guide to sample the city’s traditional cuisine. You may visit a local butcher or sample the salted phyllo pastry, enjoy the aroma of cumin or find spicy potato balls. In Meknes, you can wonder at the massive Bab al-Mansour gate that separates the old medina from the Imperial district. The intricate details of zellige tiles and carvings embody the city’s former grandeur. Continue to the ancient city of Volubilis, where you can find the remains of Roman foundations featured in colorful mosaics and soaring pillars."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Erg Chebbi - Travel to the Famous Desert Dunes",
+      "description": "After breakfast, you will fly from Fes to reach Errachidia. The charter flight will be scenic and take you over the elegant snowcapped peaks of the Atlas Mountains. You may be able to see the impressive gorges and lush valleys before landing in the Sahara Desert. A 4x4 vehicle will meet you upon your arrival and lead you from the swaying palms of the Ziz Valley oasis to the arid and sandy plateau until finally reaching the Merzouga Dunes. You can ride a camel over the soft and silty sands to admire the sea of rolling dunes reaching the horizon."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Marrakech - Transfer from the Desert to Marrakech",
+      "description": "You can rise early to watch the sunrise burn over the renowned Sahara dunes. The scent of mint tea at breakfast may blend with the morning air. Your private transfer will take you to Rissani to visit the medieval trans-Saharan trade city. You can explore the antique lanes, visit the mausoleum of Ali Cherif, or wander the yellow shrine of Ksar Oulad Abdelhalim to find painted ceilings and carved stucco windows. You will fly back over the mountains to reach Marrakech, where you can settle into the city and your luxury accommodations for the night."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Marrakech - Explore Cultural Marvels in Marrakech",
+      "description": "Marrakech is an essential experience in Morocco, with nearly a millennia of history and culture captured in the maze of the medina’s narrow lanes and the aromatic conical spices on display in the marketplace. Your guide will take you on an immersive tour beginning with the Koutoubia Mosque, whose foundations date back to the 12th century and stand beneath the remarkable minaret. Traditional craftspeople continue to make shoes, garments, and essential oils. In Djemaa el-Fna Square, you can watch the evening bring the plaza to life with food vendors, storytellers, and musicians."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Marrakech - Enjoy an Atlas Mountains Excursion",
+      "description": "You can discover the splendor of the Atlas Mountains with a visit to an authentic community. As you spend time overlooking the steppe and basking in the views of the mountain peaks cracking the sky, you bake bread with your guide to learn about the traditions of the community or learn the art of crafting the perfect Moroccan tagine. You may hear stories of the family as they brew mint tea or visit a ceramics shop to witness the elegant and customary designs of the region. After your mountain experience, you will return to Marrakech for the evening."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Marrakech - Continue Uncovering Marrakech",
+      "description": "You will have the day to explore Marrakech at your leisure, to continue uncovering the monuments of the city, or perhaps to return to the souk to purchase a tea set or carpet. You could spend time at the Badi Palace to wander the ruins of Al-Monsour’s grand compound set among gardens and reflective pools. Mosaic-tiled floors and the main pavilion represent the former opulence. Inside the Marrakech Museum, you can find ceramic work, textiles, and coins that share a timeline in the city, or simply enjoy the blend of Portuguese and North African architectural elements."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Marrakech - Depart for Home",
+      "description": "At breakfast, you may find the aromas of mint tea, dates, and pastries filling the dining room. The narrow streets of the medina will return to full life and color as the shops open for the day and the aromatic collection of spices fill the air. After breakfast, your private transfer will meet you in the hotel lobby and take you back to Casablanca to reach the airport with plenty of time to check in to your flight home."
+    }
+  ],
+  "map": ""
+}

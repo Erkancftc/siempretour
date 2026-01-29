@@ -1,0 +1,60 @@
+{
+  "destination": "Australia",
+  "mainPhoto": "",
+  "id": "seven-day-sydney-vacation-for-the-entire-family",
+  "tourName": "Seven-Day Sydney Vacation for the Entire Family",
+  "placesVisited": "Sydney, Blue Mountains",
+  "generalInfo": "This luxurious 7-day adventure has been handcrafted for families and allows you to experience the culture and heritage of the land down under. It has long been known that the vast and diverse country of Australia has a wealth of offerings, making it a perfect choice when it comes to accommodating all types of visitors from the millennial world traveler to the sunset crowd. Embrace the great outdoors on a nature trek in the Blue Mountains, indulge in a hot air balloon ride high over Sydney Harbour, and Explore the Jenolan Caves.",
+  "durationDays": "7",
+  "price": "2,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Sydney – Sail on a Pirate Ship",
+      "description": "A private driver will be awaiting your arrival in Sydney, and once you make it through customs, you will be whisked away to your luxurious accommodation. After having a bit of downtime to regroup, you will indulge in your evening excursion. Your family will be sailing in a private pirate ship replica around Sydney Harbour. Even the cabin crew, including the captain and your guide, will be dressed in pirate attire, ensuring that the evening’s festivities feel authentic and fun. As you glide through the harbor under the dazzling stars of the night sky, you will even be served pirate-themed appetizers and alcoholic and non-alcoholic rum drinks."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Sydney – Hot Air Balloon Ride and Bike Tour",
+      "description": "You will begin your first full day in Australia with an exhilarating hot air balloon ride over Sydney Harbour. After you land, you will spend the rest of the afternoon on a sightseeing tour that will introduce to many of the best spots in Sydney. There is the exclusive option to do your tour on bicycles, which is a fun and immersive experience that will have you cruising around the electric metropolis on state-of-the-art bicycles. As Sydney is a relatively flat, picturesque, and pedestrian-friendly city, biking is the perfect mode of transport to explore its iconic locales, including the Sydney Opera House, Luna Park, and the Sydney Harbour Bridge."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Sydney – Blue Mountains and Jenolan Caves",
+      "description": "Today, you will venture to the Blue Mountains. You will also be provided with the chance to explore the Jenolan Caves, which will add to the excitement of your day. After departing from Sydney in the morning, you will make your way to the Blue Mountains National Park, where you will begin your nature hike after stopping at the requisite Echo Point, Three Sisters, and Jamison Valley. You will then continue your guided hike along one of the national park trails. You will then transfer to the Jenolan Caves. Here, you will have the opportunity to explore the incredible underground world that is filled with voluminous caverns and epic wonders."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Sydney – Travel to a Working Sheep Farm",
+      "description": "This morning, you will make your way to a sheep farm that overlooks the Blue Mountains. You and your family will partake in many hands-on activities while you are here, all of which will give you a bit of culture shock, especially if you are city dwellers who are unfamiliar with country life. When you are ready, you will be led on a private tour of the property via tractor. Around midday, you will pause your explorations to enjoy a delicious BBQ lunch, which will be prepared in the authentic Aussie way. After befriending the resident sheep and discovering a new side of Australia that you never knew about, it will be time to transfer back to Sydney."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Sydney – Private Wildlife Safari",
+      "description": "Today, you will be led on a private 4WD safari to secret spots that are difficult to reach. While you ride from spot to spot, you will come face-to-face with incredible animals, including kangaroos, kookaburras, cockatoos, rosellas, rainbow lorikeets, and magpies, and much more. After bidding your new Aussie animal friends farewell, you will return to Sydney, where you will have some time to relax. This evening you will be led on an evening tour to witness many of Sydney’s most iconic sights under the impression of the night. After your evening tour, you will be returned to your accommodation, where you will have the remainder of the evening to spend at your leisure."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Sydney – Kayak and Surf",
+      "description": "This morning, you will transfer to Sydney Harbour, where you will embark on a sunrise kayaking excursion. Even if you and your loved ones have never kayaked before, this user-friendly activity is easy enough for everyone to enjoy. Your afternoon activity will be a private surf lesson from a professional surfer at Bondi Beach. Whether your family are novices or are looking to hone your skills, your expert instructor can cater to your skill levels. After catching some waves, you will have some free time to enjoy the beach at your leisure."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Sydney – Departure",
+      "description": "After an incredible week, you will awake to your final morning in Sydney, and after enjoying one last breakfast, you will be escorted to the airport for your return flight home."
+    }
+  ],
+  "map": ""
+}

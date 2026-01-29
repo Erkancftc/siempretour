@@ -1,0 +1,50 @@
+{
+  "destination": "Tibet",
+  "mainPhoto": "",
+  "id": "tibet-cultural-tour",
+  "tourName": "Tibet cultural tour",
+  "placesVisited": "",
+  "generalInfo": "This tour covers the major places in Lhasa City: Potala Palace, Jokhang Temple, Barkhor street, Drepung and Sera monastery, and you can see Yamdrok Lake is one of the biggest and beautiful lake in Tibet. Yamdrok means torquise in Tibetan language. In fact, the lake looks exactly as beautiful as torquise blue during the good weather days. This freshwater lake, unlike other Tibetan lakes, is sweet and non-saline, extending for 624 sq. km., in the shape of two pincers of a large scorpion. You can have a stop on its bank and enjoy photography here.",
+  "durationDays": "5",
+  "price": "850",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive Lhasa (3650m). Arrival at Gongar airport or train station in Lhasa. Upon arrival you will be met by your Tibetan local guide and transferred to a Hotel in Lhasa."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "After breakfast, visit Potala palace, the seat of both religion and politics in Tibet. It was built in the 7th century by Tibetan king Songtsen Gampo and later renovated by the 5th Dalailama in the 17th century. Afternoon visit Jokhang Temple and Barkhor market, this is the holiest shrine in Tibet and houses of golden statue of the Shakyamuni Buddha which was brought to Tibet by the Chinese princess Wenchen. Overnight Hotel."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "After breakfast, visit Drepung monastery, which is the largest Monastery of the Gelugpa sect in Lhasa, which was built in 1416 by Jamyang chojie a disciple of Tsongkhapa. Afternoon visit Sera monastery located in north of Lhasa city, It was built in 1419 by Jamchen Choeji, a disciple of Tsongkhapa,the founder of the Gelugpa sect. Sera monastery is one of the three major monasteries of yellow sect in Tibet. Overnight Hotel."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Today after breakfast, we have to drive from Lhasa to Yamdrok Lake. On the way, the group will pass over the Gampala pass (4790 m),and tourists will have a glimpse of Yamdrok-tso Lake (4400m) .The Lake is surrounded by many snow-capped mountain and in the distance you have spectacular views of Holy Mount Nyenchen Khangsar (7191m), the highest mountain near Lhasa. Then drive back to Lhasa. Overnight Hotel."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Departure from Lhasa to airport and fly to your next destination."
+    }
+  ],
+  "map": ""
+}

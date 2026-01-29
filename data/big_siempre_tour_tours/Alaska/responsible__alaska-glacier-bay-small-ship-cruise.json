@@ -1,0 +1,65 @@
+{
+  "destination": "Alaska",
+  "mainPhoto": "",
+  "id": "alaska-glacier-bay-small-ship-cruise",
+  "tourName": "Alaska Glacier Bay small ship cruise",
+  "placesVisited": "Sitka, Saginaw Bay & Kake, Petersburg, Frederick Sound, Whale watching, Alaskan wildlife, Tracy Arm Fjord, Orca Point Lodge, Glacier Bay, Juneau",
+  "generalInfo": "This eight day, Alaska small ship cruise through some of Alaska’s most stunning inlets and fjords, many of which are far off the beaten track, is on board a beautiful 45m boat called the Admiralty Dream. Sleeping maximum 66 passengers, you will cruise through the magnificent waters of Southeast Alaska. <br/><br/>Your journey starts in Sitka where you settle into your twin cabin, before going on a journey through some of Alaska’s most spectacular coastal wonders. Head south from the historic city of Sitka, on Baranof Island, to explore Kuiu and Kupreanof, two of the large islands within the Alexander Archipelago. Discover the Norwegian fishing heritage town of Petersburg on Mitkof Island, look out for whales, bears and superb wildlife and take a kayaking excursion to get even closer. <br/><br/>You then head north again to Tracey Arm Fjord, which is part of the larger Tracy Arm-Fords Terror Wilderness area where you cruise alongside calving glaciers and sheer granite cliffs with tumbling waterfalls. We also stop at out of the way places such as Haida village of Kasaan, Hobart Bay and Orca Point Lodge, with your final journey north into Glacier Bay National Park which is 65 miles long and boasting the most pristine Alaskan seascape imaginable.  As well as some spectacular wildlife watching possibilities the highlight for many is Margerie Glacier, known for its dramatic calving displays. From Glacier Bay you then head south again finally disembarking in Juneau, Alaska’s capital. <br/><br/>Our responsible Alaskan small ship cruise ensures that you not only get to visit some of the most wonderful land and seascapes but also engage with local indigenous communities, dine on superb local produce and taste some Alaskan beers too! Southeast Alaska has so much to offer and we look forward to welcoming you on board. <br/>",
+  "durationDays": "8",
+  "price": "4308",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Sitka. Explore beautiful Sitka, the only community in Southeast Alaska that faces the open ocean waters of the Gulf of Alaska. Participate in a wilderness hike on one of the many trails in town. Visit sites that highlight the community's rich Alaska Native and Russian history. Embark for the winding narrows north of town while searching for bald eagles, sea otters, bears, whales, and other wildlife."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Rainforest Hike & Baranof Island's Waterfall Coast. Spend the day exploring remote, Inside Passage wilderness. Hike a rainforest trail, featuring towering spruce and hemlock trees and lush undergrowth. Your knowledgeable guide will provide commentary on the indigenous plants and wildlife of the area. Explore Baranof Island’s charming shoreline dubbed “The Waterfall Coast” and savor an opportunity to kayak a protected bay in the area."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Frederick Sound. Scout for humpback whales and other marine mammals in Frederick Sound. Humpbacks are famous for behavior that lends itself to incredible viewing and photography, such as tail lobbing, lunge feeding, pectoral slapping, breaching, and picturesque dives that showcase their massive flukes. Other opportunities for in-depth exploration include the protected waters or shores of Security Bay, Skanax Bay, Pybus Bay, and The Brothers Islands."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Kake View the community’s remarkable, 132-foot totem pole, an artist demonstration, and experience the inspiring culture of the Tlingit in the Alaska Native village of Kake. Later, take in the beautiful sights of Keku Strait and enjoy opportunities for kayaking, expedition vessel adventures, or beachcombing. Options include such picturesque locations as Hamilton Bay, Port Camden, and more."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Tracy or Endicott Arm Journey through Tracy or Endicott Arm in the Tracy Arm-Fords Terror Wilderness—a place the famous naturalist, John Muir, called, “a wild, unfinished Yosemite.” Renowned for its glaciers, pristine waterfalls, towering icebergs, abundant harbor seals, and granite cliffs that rise from sea level to 4,000 feet, this wilderness is often referred to by locals as one of the most scenic areas in the state."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Wilderness Exploration & Orca Point Lodge. Begin the day with unscripted exploration of Southeast Alaska. Your captain and crew will search for wildlife, including the area’s famous humpback whales. End the day's adventure with a relaxing evening at Orca Point Lodge, our own exclusive day-lodge on Colt Island. Enjoy a Tlingit cultural presentation, as well as the beautiful grounds, beach, and marine life touch-tank. Dine on Alaskan salmon, Alaskan king crab, or prime rib from the warmth of the lodge, or nestled next to a beachside bonfire."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Glacier Bay National Park. This remarkable national park fjord extends 65 miles, contains eight tidewater glaciers, and provides pristine habitat for a wide-array of wildlife, including both brown and black bears, wolves, mountain goats, Steller sea lions, and humpback whales. The highlight for many is the Margerie Glacier, known for its dramatic calving displays. A Glacier Bay National Park Service Ranger narrates the day's program and a Native Huna Tlingit interpretive naturalist joins us to reveal traditional cultural ties to this ancient treasure. End the day in Bartlett Cove to enjoy a rainforest path, the inspiring Tlingit tribal house, and a fully articulated humpback whale skeleton."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Juneau. Disembark in Alaska's capital city of Juneau. Transfer to the airport or your hotel is complimentary."
+    }
+  ],
+  "map": ""
+}

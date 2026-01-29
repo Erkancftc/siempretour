@@ -1,0 +1,45 @@
+{
+  "destination": "Colombia",
+  "mainPhoto": "",
+  "id": "4-days-in-the-colombian-amazon-holiday",
+  "tourName": "4 days in the Colombian Amazon holiday",
+  "placesVisited": "",
+  "generalInfo": "Join us for an incredible 4-day journey into the heart of the Colombian Amazon! From the moment you board your flight from Bogotá to Leticia, you'll be captivated by the lush beauty and biodiversity of the region. Upon arrival, you'll be taken to your Amazon Jungle Ecolodge, where you'll spend the next 3 nights, and have the chance to embark on a thrilling night safari into the jungle on your first evening. The following days will be filled with cultural encounters, exploration of the rainforest, and unique experiences like canoeing down the Amazon River, trying your hand at Piranha fishing, and learning about the healing powers of plants from a Cocama medicine man. Your journey will also be enriched by the wisdom and traditions of the local indigenous communities, with a Shaman performing a traditional smoke bath blessing to connect you deeply with the jungle surroundings. On your last day, you'll have a quick tour of Leticia before heading back to Bogotá with unforgettable memories of your Amazon adventure.",
+  "durationDays": "4",
+  "price": "2683",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "You'll have a 2-hour flight from Bogotá over national parks into the heart of the Amazon; Leticia. You'll be collected from the airport and taken on a short drive through Leticia to the wharf, where you'll catch a boat up the Amazon River to your Amazon Jungle Ecolodge for the next 3 nights. You'll be arriving in the mid-afternoon after a boat ride of approximately 2 hours, and in time for a bit of relaxation before dinner. Following dinner when it is nice and dark you'll venture out on a night safari into the jungle, In search of tarantulas, giant insects, mammals, and different Amazonian fauna and flora. NB A Tourist Tax of $35.000 Colombian Pesos will need to be paid before leaving the airport"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "You'll start your day with a delicious breakfast at the eco-lodge before embarking on a short boat trip to the \"Painted Village\" of the Mocagua community. The vibrant murals, part of an art project by the Calanoa reserve, showcase the community's culture and contribute to environmental conservation. After lunch at the eco-lodge, you'll have the option to hike through the jungle to Matamata creek and canoe back down the Amazon River or visit Mocagua Island for a unique hike and the chance to spot the giant Lotus Victoria Amazonica. You can also try your hand at Piranha fishing from the eco-lodge dock. Your day will be filled with adventure, culture, and the beauty of the Amazon rainforest. Please note that the itinerary may be adjusted based on weather conditions and traveler preferences for a customized experience."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "You'll explore the lush Milciades Gardens and learn about the healing powers of plants with a Cocama medicine man. After a delicious lunch, you'll spot camera-shy dolphins and witness a stunning sunset on the Amazon River. In the evening, a local Shaman will perform a traditional smoke bath blessing, connecting you deeply to the jungle surroundings. This unforgettable day will leave you with a newfound appreciation for the Amazon's natural beauty and the wisdom of its indigenous communities."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Following a relaxing breakfast, you'll be taken by boat back to Leticia and a quick tour of this small town on the border with Brazil and Peru before being transferred to Leticia airport and your flight back to Bogotá."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,75 @@
+{
+  "destination": "Japan",
+  "mainPhoto": "",
+  "id": "japan-luxury-ski-holiday",
+  "tourName": "Japan luxury ski holiday",
+  "placesVisited": "",
+  "generalInfo": "Step into Japan’s winter wonderland, where flawless powder snow meets centuries of heritage.<br/>Whether you’re seeking the exhilaration of world-class skiing or snowboarding, or the allure of Tokyo’s seamless blend of ancient tradition and cutting-edge modernity, this 10-day luxury journey delivers it all.<br/><br/>Your adventure begins in Tokyo, a city of vivid contrasts — tranquil temples framed by manicured gardens stand beside neon-lit skyscrapers. From here, you’ll trade the city’s vibrant pace for the pristine slopes of Japan’s premier ski resort, where five days of JaPOW perfection await.<br/><br/>The journey concludes in a storybook mountain town, where cobblestone streets lead to historic ryokans, steaming hot springs, and the irresistible flavours of regional Japanese cuisine. Every moment offers a new perspective on a country where nature, tradition, and innovation intertwine effortlessly.",
+  "durationDays": "10",
+  "price": "8799",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Luxury Arrival in Tokyo - Your extraordinary journey through Japan begins with a seamless arrival at Tokyo Airport. As you glide into the city, skyscrapers shimmer with giant digital billboards while, in between, quiet pockets of tradition reveal themselves — serene temples, shaded gardens, and whispers of history. Your luxury hotel, a striking piece of modern architecture, awaits to welcome you in style."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Cultural Treasures of Tokyo - Greet the day early as Tokyo’s vibrant streets and hidden gems unfold before you on a privately guided tour. Wander through the world-famous Toyosu Fish Market and discover its surrounding boutique district. Your guide unveils the city’s many faces — from the grace of Shinto rituals to the high-energy spectacle of Shibuya’s Scramble Crossing. Along elegant Omotesando Avenue, explore Tokyo’s culinary diversity, whether in a tucked-away yakitori alley or at a refined fine dining restaurant. Optional: TeamLab Planets or Borderless (Odaiba) Immerse yourself in the mesmerising world of TeamLab’s digital art — interactive, multisensory installations for all ages. Wander through Floating Flower Gardens and experience Tokyo’s cutting-edge creativity."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Transfer to Japan’s Ski Paradise - Enjoy a final Tokyo breakfast before your journey to one of the world’s premier ski resorts. Optional detours include the iconic Senso-ji Temple and Nakamise-dori shopping street. Board the Shinkansen for a sleek two-hour ride, perhaps with a drink in hand, before arriving to a warm welcome at your resort. Settle into the designer lounge with an artisan cocktail and views over pristine powder fields."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "On the Slopes - The adventure begins with Japan’s legendary JaPOW snow — light, fluffy, and unforgettable. Whether you’re a beginner or expert, skier or snowboarder, the resort caters to every level with expert guidance and plenty of charm."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Backcountry Adventure - For experienced snow enthusiasts, today’s guided backcountry tour offers untouched powder and thrilling terrain. Beginners can enjoy more slope time or relax in the resort’s hot springs and bakery."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Snowmobile Exploration - Trade skis for speed as you explore the powdery wilderness by snowmobile, guided by local experts. Breathtaking mountain vistas await at every turn."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Leisure, Ski & Snowboard Begin your day with a nourishing breakfast, preparing for a final stretch in Japan's ski paradise. If you wish, the day is all yours to perfect your ski or snowboard skills on the crystal slopes. For those looking for something different, we can arrange activities to fit your personal style. One thing's for sure though, you'll want to take a final plunge into one of the resort's curated menus. Succulent seafood, local sake, yakiniku, noodles, and more - an extravaganza for the tastebuds!"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Hot Spring Bliss - After a scenic Shinkansen ride, arrive in Ginzan Onsen — a storybook town of historic ryokans and steaming baths. Your inn, with over a millennium of heritage, combines impeccable service with the restorative magic of Japan’s volcanic waters."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Traditional Ryokan & Japan Food Tour - Your traditional breakfast showcases ingredients like grilled fish, miso soup, and tsukemono. Setting you up for the day, you stride out into your peaceful yet captivating onsen town. OPTION 1: Risshaku-ji Temple A short train journey from Yamagata Station takes you to this phenomenal temple with a challenging ascent. 1,000 stone steps lead to exceptional cliff-top panoramas, while a hearty, soba noodle lunch is on offer to replenish your energy. OPTION 2: Ginzan Onsen History A more relaxed experience takes place in Ginzan Onsen, where its history museum displays the town's far-stretching timeline. Spend the rest of your morning sinking into the soul-soothing waters of Ginzan's best hot spring baths. During your afternoon in Ginzan, try your hand at a folk crafts workshop before indulging in tea and sweets at the riverside. What better way to finish your final full day than with a goodbye dinner? Paired with aged sake, tuck into regional Yamagata dishes like gyutan, spicy kaya, and pickled cherries."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Departure from Tokyo - A final breakfast and easy-going check-out from the inn kicks off your transfer back to Tokyo. It's time to wave goodbye to Japan - but it's not all bad - you're leaving with a camera and heart full of memories and meaningful moments."
+    }
+  ],
+  "map": ""
+}

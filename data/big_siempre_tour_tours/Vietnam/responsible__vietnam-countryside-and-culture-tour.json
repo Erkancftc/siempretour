@@ -1,0 +1,55 @@
+{
+  "destination": "Vietnam",
+  "mainPhoto": "",
+  "id": "vietnam-countryside-and-culture-tour",
+  "tourName": "Vietnam countryside and culture tour",
+  "placesVisited": "",
+  "generalInfo": "Vietnam’s unique geography often leads travelers along a well-worn path, but this holiday takes a different route. Perfect for those wanting to step away from the everyday and get a different perspective on Vietnam. <br/><br/>Highlights include:<br/><br/>Staying in safari-style tents overlooking Lak Lake in Vietnam's central highlands.<br/>Kayak, cycle, and trek through the spectacular Phong Nha-Ke Bang National Park, home to the world’s largest caves.<br/><br/>Ride pillion on a vintage Vespa along the iconic Hoi An to Hue coastline.<br/>Journey north through the countryside on the Reunification Express from Dong Hoi to Hanoi.<br/><br/>Explore the lesser-known districts of Saigon and Hanoi with insider tours of backstreets and traditional markets.<br/><br/>This is a bespoke holiday suggestion and we can change this holiday to suit your budget, style and expectations",
+  "durationDays": "17",
+  "price": "3800",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Depart the UK: Set off from the UK on an overnight flight bound for Ho Chi Minh City, also known as Saigon."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Vespa Coastal Adventure from Hoi An to Hue: Today, you’ll travel from Hoi An to Hue, a route that showcases some of Vietnam’s most breathtaking views. Choose between a train journey or an exhilarating ride on a vintage Vespa. If you take the Vespa, you’ll have an experienced driver leading the way as you drive over the famed Hai Van Pass. Upon arriving in Hue, settle into your hotel for a two-night stay and spend a day exploring with your guide, uncovering the city’s remarkable historical sites."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Phong Nga Ke Bang Caves: The journey from Hue to your accommodation at Phong Nha-Ke Bang National Park. This remarkable park boasts one of the world’s largest limestone regions, housing some of the planet’s most expansive caves. Spend your first night in a lodge on the park’s edge, relaxing and savouring the scenery and local activities. During your stay, choose from a range of adventurous activities, from kayaking and bike tours to nature trails. Additionally, consider an in-depth caving adventure with or without an overnight camping experience in the jungle or cave. This promises an unforgettable way to experience the national park, complete with cave swimming, jungle treks, and night-time barbecues."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Reunification Express to Hanoi: Transfer to Dong Hoi, where you’ll board the “Reunification Express” train. Opt for a day train and relish the scenic journey through Northern Vietnam, or opt for a night train with a comfortable sleeper cabin bound for Hanoi."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Hanoi: Arrive in Hanoi and check in to your hotel. Over the next couple of days, delve into a series of tailored experiences led by your private guide. Begin your mornings early with a visit to the vibrant flower markets and a stroll around the city’s lakes, where Hanoians practice t’ai chi. Immerse yourself in the bustling old town, where residents go about their daily routines seemingly unfazed by the slow-moving trains. Savour Vietnamese coffee, explore the dynamic street food scene and try a refreshing local beer at a roadside stall. Marvel at the elegant French colonial architecture and navigate the labyrinthine alleyways of the old quarter. Dive into your chosen museums, be it ancient history, military history, fine arts, or the tranquil Temple of Literature."
+    },
+    {
+      "dayNumber": 17,
+      "title": "",
+      "description": "Departure: Today marks your departure from Vietnam as you embark on your flight back to the UK."
+    }
+  ],
+  "map": ""
+}

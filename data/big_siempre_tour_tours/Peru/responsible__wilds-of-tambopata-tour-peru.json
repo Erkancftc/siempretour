@@ -1,0 +1,45 @@
+{
+  "destination": "Peru",
+  "mainPhoto": "",
+  "id": "wilds-of-tambopata-tour-peru",
+  "tourName": "Wilds of Tambopata tour, Peru",
+  "placesVisited": "Tambopata River trips, Bahuaja-Sonene National Park, Tambopata Candamo Reserve, Day and night guided rainforest treks, Exotic wildlife, Sandoval Lake and paddling dugout canoes, Comfortable jungle lodge (option to extend stay)",
+  "generalInfo": "This trip provides a highly accessible opportunity to experience pristine Amazon rainforest, with activities from dawn river trips to guided walks through the rainforest at  night. Stay at a comfortable jungle lodge where you can climb into a forest canopy walkway as well as a cosy bed.<br/><br/>Your journey begins with a short flight from Lima or Cusco to Puerto Maldonado, from where a motorised canoe takes you up the Tambopata river into the Tambopata Candamo Reserve, looking out for caiman, turtles and riverine birdlife on the way. <br/><br/>Journey upriver to the Bahuaja-Sonene National Park for a magical Amazon sunrise plus a chance to observe a clay lick that attracts hundreds of exotic birds (parrots, parakeets and macaws) as well as monkeys and tapirs. Then swim in a natural river 'jacuzzi'. <br/><br/>Another day, a 2-mile walk through monkey-filled forest brings you to Sandoval Lake – one of Peru's most beautiful Oxbow lakes – to board dug-out canoes and paddle the palm-fringed waters observing hoatzin, monkeys. Then do some river fishing – or just have a relaxing swim.",
+  "durationDays": "4",
+  "price": "552",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "A short flight takes you from Lima or Cusco to Puerto Maldonado, where the Madre de Dios and Tambopata rivers meet. We travel first by road and then by motorized canoe up the Tambopata river into the Tambopata National Reserve. Look out for caiman, turtles and river birds on the way. We reach the lodge after around two hours and have time for a short rest before lunch. We set out on an afternoon walk in the nearby forest with our naturalist guide. In evening, you can join a forest walk to observe nocturnal wildlife and experience the unique sound of the jungle by night. (1 night jungle lodge, L,D)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "It is an early start today as wetravel up the river to the El Chuncho clay lick, which we reach as the sun comes up. The clay lick attracts hundreds of exotic birds such as parrots, parakeets and macaws. We'll have a delicious open-air breakfast here. We then head back to the lodge where we have a couple of hours to relax and catch up on sleep. Or you can take a dip in the pool or in the river. In the afternoon you can join another fascinating ethno-botanical forest walk with your guide. After dark, we head out in the boats, caiman spotting, before returning to the lodge to eat and discuss the day's adventures. (1 night jungle lodge, all meals)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "After breakfast we return to Puerto Maldonado where we will spend the last night. However, our jungle adventure is not over yet – from here we set off to Sandoval Lake, considered to be the most beautiful Oxbow lake in Southern Peru. It's 30 mins from the eco-lodge, and then a 3km walk , We hope to spot monkeys and other wildlife en route. Once through the forest to the edge of the lake, we board dug-outs and paddle on the palm-fringed lake, observing hoatzin, monkeys and, hopefully, a giant otter family that lives here. We'll stay here till the sun starts to set, then return to Maldonado for a balmy evening in town. (1 night Puerto Maldonado lodge, all meals)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Early breakfast before your flight back to Cusco/Lima. (B)"
+    }
+  ],
+  "map": ""
+}

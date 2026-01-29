@@ -1,0 +1,65 @@
+{
+  "destination": "Egypt",
+  "mainPhoto": "",
+  "id": "wheelchair-accessible-nile-cruise-egypt",
+  "tourName": "Wheelchair accessible Nile cruise, Egypt",
+  "placesVisited": "Cairo, Giza, Nile Cruise, Valley of the Kings, Temple of Queen Hatshepsut, Edfu, Aswan, Elephantine Island",
+  "generalInfo": "This wheelchair accessible Nile cruise will take you to some of Egypt’s most impressive and beautiful sights. You’ll be transferred in a specially adapted air-conditioned vehicle and receive all the extra assistance that you need along the way.<br/><br/>Kicking off your tour in Cairo, you’ll visit the Egyptian Museum, the Pyramids at Giza and the Sphinx before heading to Luxor where you’ll board a luxury, wheelchair accessible cruise ship for your journey down the Nile. <br/><br/>You’ll spend four nights sailing on the Nile between Luxor and Aswan, during which you’ll see the country’s best archaeological sites, including the Karnak Temples, the Valley of the Kings, the the Edfu Temple, the Kom Ombo Temple and the High Dam.<br/><br/>All accommodation on your itinerary is suitable for wheelchair users. All transfers will be undertaken in an air-conditioned wheelchair accessible vehicle and assistance is on hand for boarding the cruise and visiting the historical sites - read our accessible notes further down the page for more information. Included in the price are all sightseeing tours, entrance fees and guide fees, as well as all accommodation and most meals. <br/><br/>",
+  "durationDays": "8",
+  "price": "4950",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Our representative will meet & assist you at Cairo International Airport. Then you will be transferred by a wheelchair accessible private air-conditioned vehicle to your 5 star hotel in Cairo, provided with rooms designed for travelers in wheelchairs. Overnight in Cairo."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "After enjoying a delicious wholesome breakfast at your hotel, your personal guide will take you to the Giza Plateau to start your journey by marveling at one of the Seven Wonders of the World, the Great Pyramids of Giza. Visit the iconic Sphinx and Valley Temple. After your pyramid visit, you’ll go for lunch at an authentic Egyptian restaurant and then head over to the New Grand Egyptian Museum, also known as the Giza Museum, which is an archaeological museum in Giza, Egypt, about 2 kilometers (1.2 miles) from the Giza pyramid complex. The GEM Complex is now offering limited access to test site readiness and the visitor experience ahead of the official opening. Admission is currently limited to the Main Galleries, Grand Hall, Grand Staircase, commercial area, and exterior gardens. Return back to your hotel. Overnight in Cairo. Meals: Breakfast, Lunch. Visits: Great Pyramids of Giza, Sphinx, Valley Temple, Grand Egyptian Museum (GEM)."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "After Breakfast, check out from your hotel in Cairo, then, you will be transferred to Cairo Airport for departure to Luxor where you will be met and assisted, then taken by a wheelchair accessible air-conditioned vehicle to board your 5 star deluxe cruise boat for wheelchair (disabled) travelers, Acamar Nile Cruise. After lunch on board, enjoy a visit to the impressive Karnak and Luxor Temples. Dinner and overnight on board. Meals: Breakfast, Lunch, Dinner"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "After breakfast on your Nile cruise, take an excursion to the royal cemetery for 62 Pharaohs, Valley of the Kings, then to mortuary Temple of Queen Hatshepsut, which was built by the architects of the New Kingdom Pharaoh Hatshepsut in the 15th century BC. Proceeding to the Colossi of Memnon. After lunch, you will sail to Edfu enjoying a leisurely dinner on board. Overnight on board Nile Cruise. Meals: Breakfast, Lunch, Dinner"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "After breakfast on Nile Cruise, visit the well-preserved Ptolemaic Temple dedicated to Horus at Edfu. Sail to Kom Ombo to see the unique Temple of Sobek, dedicated to Sobek the crocodile god, and Horus the falcon-headed god. Lunch on board. Continue sailing to Aswan. Dinner and overnight on board you deluxe Nile Cruise. Meals: Breakfast, Lunch, Dinner"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Enjoy a day’s sightseeing in Aswan. Start with the High Dam and the Nubian museum by car, Dinner and overnight on board. Meals: Breakfast, Lunch, Dinner"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Transfer to Aswan airport to return to Cairo, where you'll be met and assisted at the airport and taken to your hotel. Overnight in Cairo. Meals: Breakfast"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "After enjoying a beautiful breakfast, you will be transferred by a wheelchair accessible modern vehicle to Cairo International Airport for final departure. Meals: Breakfast"
+    }
+  ],
+  "map": ""
+}

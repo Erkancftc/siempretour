@@ -1,0 +1,70 @@
+{
+  "destination": "Ecuador & Galapagos",
+  "mainPhoto": "",
+  "id": "galapagos-luxury-wildlife-cruise",
+  "tourName": "Galapagos luxury wildlife cruise",
+  "placesVisited": "",
+  "generalInfo": "Discover the best of the Galapagos Islands aboard a boutique first-class catamaran, offering a comfortable, sustainable and intimate way to experience this wild and remote archipelago. Spend each day snorkelling, kayaking and hiking across remote islands and bays, encountering unique wildlife and dramatic volcanic landscapes found nowhere else on earth.<br/><br/>Begin in Quito, Ecuador’s capital and spend two nights exploring its beautifully preserved historic centre before flying to the Galapagos archipelago, where your first-class catamaran awaits. Over the next nine days, expert naturalist guides lead you on a once-in a lifetime journey across the northern and southern islands offering a close look at the region’s unique ecosystems. In just one trip, snorkel with penguins, wander white-sand beaches, observe huge colonies of sea lions and witness the Giant Tortoise in its natural habitat.",
+  "durationDays": "10",
+  "price": "7100",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Quito: Arrive in Quito and transfer to your boutique hotel located in the heart of the historical old town. The following day, enjoy a walking tour of the UNESCO-listed colonial centre, with optional cultural activities afterwards such as a cooking class, chocolate tour, or visits to artisanal workshops."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Bartolome: Take a morning flight to the Galapagos and embark on your small first-class catamaran, which will be home for the night eight nights. After a welcome briefing and lunch, set sail for your first excursion to Bartolome Island. Witness the archipelago's most famous panoramic view, surrounded by volcanic cones, lunar-like craters, lava fields, and the famous Toba-formed \"Pinnacle Rock\" and snorkel round the bay where sea turtles and a small colony of Galapagos penguins often frequent."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Mosquera & North Seymour: Embark on your first full day exploring the Galapagos Islands, navigating Mosquera Islet and North Seymour Island. Mosquera Islet is one of the smallest islands in the archipelago and is best known for its beautiful white sand beaches, turquoise waters, black lava rocks and lush green vegetation. In the afternoon, follow the trails of North Seymour Island, where you’ll have the chance to observe large colonies of frigatebirds, watch blue-footed boobies perform their iconic courtship dance, and admire the playful sea lions that frequent the coastline."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Genovesa: Often referred to as \"Bird Island\" due to the abundance of bird species that nest along its dramatic cliffs, Genovesa offers one of the most amazing wildlife experiences in the Galapagos. As you walk the volcanic trails of El Barranco, you may encounter Nazca boobies, storm petrels and a host of other fascinating species that call the area home. In the afternoon visit Darwin Bay, a favourite among birdwatchers, as it provides extraordinary opportunities to witness red-footed boobies, masked boobies, wandering tattlers, lava gulls, whimbrels, yellow-crowned and black-crowned lava herons, and yellow warblers."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "South Plazas & Santa Fe: Begin exploring the tiny island of Plazas home to some of the Galapagos' most distinctive wildlife. Its notable residents include the Plazas land iguanas and unique hybrid iguanas, who combine the traits of both marine and land iguanas. Thought to be the oldest Island in the archipelago, Santa Fe is home to a number of endemic species like the Galapagos hawk, Galapagos snake, Galapagos mockingbird, rice rats and one of the two species of land iguanas found on the islands. Spend the afternoon, walking nearby one of the many sea lion colonies, wander the trails past salt bushes and giant prickly pear cacti and snorkel with playful sealions and tropical fish."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "San Cristobal: Spend two full days exploring San Cristobal, the easternmost island and one of the oldest in the archipelago. The first day is spent visiting the Tortoise Breeding Centre, where you can witness these majestic creatures and learn about the ongoing efforts to recover the island’s giant tortoise species. In the afternoon, spend time exploring the oldest natural museum on the archipelago and gain insight into the geological and human history of the Galapagos. The following day visit Punta Pitt, a wonderful landscape home to an abundance of birds including three species of boobies: the blue-footed booby, red-footed booby and nazca booby. In the afternoon, visit the small Lobos Island, well known for its lively sea lion population. Snorkel in the island's protected channel and swim with sea lions as well as other marine species."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Espanola: Today explore the southernmost of the Galapagos islands', home to a number of endemic species, particularly the waved albatross that call the island home between April to December. In the morning, wander, snorkel or swim at the beach of Gardner Bay where sealions and even sharks can often be seen. Three species of Darwin finches can also be observed including the singing finch, the small-beaked ground finch and a sub-species of the large-billed cactus finch. In the afternoon explore Suarez Point. An excellent spot for seeing the blue-footed boobies, albatrosses, and Nazca boobies. Witness the legendary blowhole, which spurts water high into the air, reaching heights of at least 50 to 75 meters."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Floreana: An island, full of fascinating human history, dramatic landscapes and remarkable wildlife, this island is a real highlight. Begin the morning at one of the largest and most impressive flamingo lagoons, then enjoy snorkelling around Champion Islet, where sea turtles, playful sea lions and an abundance of reef fish often frequent. In the afternoon, visit the legendary Post Office, established in 1793 by whalers and still used today, as an informal mail system where travellers leave and collect postcards to hand-deliver around the world."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Santa Cruz: Spend your final morning exploring the legendary Charles Darwin Foundation before transferring to the airport for your flight back to mainland Ecuador, connecting with your international flight home."
+    }
+  ],
+  "map": ""
+}

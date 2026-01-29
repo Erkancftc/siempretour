@@ -1,0 +1,40 @@
+{
+  "destination": "China",
+  "mainPhoto": "",
+  "id": "china-8-day-tour",
+  "tourName": "China 8 day tour",
+  "placesVisited": "Beijing, Xi’an, Great Wall of China, Terracotta Army, Shanghai, Sleeper train journey, Internal flight Xi’an to Shanghai",
+  "generalInfo": "Beijing - Great Wall of China - Terracotta Army - Shanghai<br/><br/>This China tour is a nine day, tailor made trip for those who like to travel independently but follow a carefully crafted itinerary, with transport, accommodation and excursions taken care of.  In just eight days you will city hop the highlights of China from the bright lights of Beijing and the Great Wall of China, to the amazing terracotta army and finally sensational Shanghai, where an explosion of modernity coexists with the rich Chinese history.<br/> <br/>Starting in Beijing, we recommend three days here to adjust to the buzz of this mega metropolis, and navigate your way around its narrow streets or ‘hutongs’ and yet find time to soak up the tranquillity of some of its more sacred sites, such as The Temple of Heavenly Peace. Make sure that you set aside ample time to explore the mammoth and amazing Forbidden City, complete with thousands of palaces, museums and pavilions that were home to Chinese emperors over many generations. <br/><br/>Another attraction of epic proportions is the Great Wall of China beginning in Beijing, before taking an overnight sleeper train to the city of Xi’an, yet another historic great. Xi’an is not only the beginning and end of the ancient Silk Road, but now a thriving, sophisticated city. It also boasts many important sacred sites and ancient relics, the most famous of which is the Terracotta Army. <br/><br/>Your final stop is Shanghai, which you can reach on a short domestic flight from Xi’an. It feels as if eastern traditions almost crash into western culture on the banks of the East China Sea. The Bund, or waterfront, is the most well known area of the city and you will stay in a colonial hotel nearby, taking time to absorb the eclectic mix of ancient alleyways, art deco and all day, all night city culture.",
+  "durationDays": "8",
+  "price": "1485",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Temples and Hutongs of Beijing: You’ll spend three nights soaking up the sights, sounds and smells of Beijing, an intoxicating clutter of history and modern-day ambition. Wander through the atmospheric hutongs, visit the Forbidden City and take a breather from the madness of the city at the Temple of Heavenly Peace. Top off your time in Beijing with a trip along the twisting Great Wall, one of the world’s most staggering sights. This afternoon, you’ll be collected from your hotel in Beijing and taken to the train station. You’ll take the bullet train to Xi’an which takes around 6 hours."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Terracotta Army and Drum Towers: Marvel at the soldiers of the ancient Terracotta Army and wander around the Bell Tower in Xi’an. A modern city with an imperial past, it’s an eye-opening window into Chinese culture. Drenched in history and jam-packed with fascinating places to explore. You’ll spend two nights in China’s past Imperial Capital, soaking up the atmosphere and visiting the impressive Terracotta army. Today you’ll arrange make your own way to the airport for your onward flight to the bright lights of Shanghai. Your flying time today is roughly 2.5 hours"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Shanghai: Back to the Future: Explore Shanghai, crammed with skyscrapers and exploding with variety. From 19th century alleyways to swanky bars and art-deco buildings, there’s nowhere like it. With twice as many skyscrapers as Manhattan, Shanghai is a sleek modern sprawl that seems to go on forever. You will stay in a colonial style hotel close to the Bund and your time is free to explore the city at your own pace. At the end of your whirlwind adventure you'll make your own way to the airport in time to check in for your international flights home."
+    }
+  ],
+  "map": ""
+}

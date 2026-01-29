@@ -1,0 +1,60 @@
+{
+  "destination": "Bhutan",
+  "mainPhoto": "",
+  "id": "small-group-tour-to-bhutan",
+  "tourName": "Small group tour to Bhutan",
+  "placesVisited": "Paro, Thimphu, Punakha, Dochu-La pass (3,048m), Chimi Lhakhang, Punakha Dzong, Tiger's Nest Monastery",
+  "generalInfo": "If you’re thinking Bhutan then this small group tour is certain to take you on an unforgettable journey into the realm of one of Asia’s best kept secret kingdoms. <br/><br/>Having only recently opened its doors to travellers, Bhutan provides a fascinating example of life in between India and Tibet that’s still, as yet, undiscovered by backpackers and coach loads of trekkers. <br/><br/>From picturesque and dramatic mountain scenery to precariously placed monasteries and peaceful Buddhist communities, this is a land where smiles and symbolism are as prevalent as incense, temples and red robed monks. <br/><br/>Happiness in Bhutan is measured much higher than materialism and money. From the paddy fields of Paro Valley to Punakha Dzong and the Tiger's Nest Monastery, this is a gentle introduction to the Land of the Thunder Dragon with optional hikes taking travellers to new heights, in every sense.<br/>",
+  "durationDays": "7",
+  "price": "2820",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Paro - Thimphu.",
+      "description": "After arriving at Paro Airport and making your way through immigration and customs formalities, you will be greeted by your guide and driver and warmly welcomed to the enchanting Land of the Thunder Dragon. Drive alongside mountains, rivers, and fields of red rice to Thimphu, Bhutan's capital city. If you arrive in the morning, you'll have lunch and then head out for some sightseeing. Stop in at the Nado Poizokhang Incense Factory, Bhutan’s most famous traditional incense maker, as well as the colourful Gagyel Lhundrup Weaving Centre. If you arrive in the afternoon, you'll meet the rest of your group in the evening for a welcome meeting before heading out together for dinner. Take an evening wander through the fascinating streets of Thimphu, the world’s only capital city without a traffic light!"
+    },
+    {
+      "dayNumber": 2,
+      "title": "Thimphu.",
+      "description": "Today begins with a hike that journeys up the valley through paddy fields, pristine woodlands, and a Tibetan village, a trail that continues uphill (1 hour) to the Cheri Dorji Dhen monastery – built in 1620 by Shabdrung, the first ruler of Bhutan. Back in Thimphu, stop to enjoy the incredible views from the Buddha Dordenma before visiting Simply Bhutan, a living museum where you can explore the traditional homes and lifestyles of the Bhutanese. You may like to try your hand at archery, Bhutan's national sport. Stop by the National Memorial Chorten – many Thimphu residents consider this to be the heart and soul of the city and gather here every day to pray and walk clockwise around the chorten. Afterward, visit a local institute where students become masters of Bhutan's 13 national arts and crafts - from carpentry and masonry to paper making and embroidery. The incredible National Textile Museum is a great way to learn more about the history of craft in Bhutan and if you’re in the mood for a spot of shopping, the National Handicrafts Emporium offers high-quality traditional goods and a small family-run enterprise that manufactures paper and paper products using traditional methods."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Punakha.",
+      "description": "This morning, drive to Punakha – the ancient winter capital of Bhutan. Stop at Dochula Pass for a breathtaking view of the eastern Himalayas, including Bhutan's highest mountain, the majestic Gangkhar Puensum. Continue the journey before taking another break. Enjoy an optional short walk to visit Chimi Lhakhang, a fertility temple built in 1499 by lama Ngawang Chogyel. Arrive in Punakha for a good night’s rest before another day of exploration tomorrow."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Punakha.",
+      "description": "After breakfast we head out on a short hike (1.5 hours) to Khamsum Yulley Monastery – an elaborately decorated chorten, built to ward off evil spirits and bring peace and harmony to all living things. As with many monasteries in Bhutan, your leader may need to hunt around for the caretaker with the keys to have a look inside! Afterwards, head down to the convergence of the Pho Chu and Mo Chu Rivers, two of the main rivers of Bhutan, and admire breathtaking views of the majestic Punakha Dzong, the second oldest and second-largest Dzong in the country, as well as the cantilever bridge that spans across the river. Drive up to Sangchhen Dorji Lhuendrup Nunnery and take in the serenity and the views of this mountaintop site. Return to Punakha for the evening."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Paro.",
+      "description": "This morning head back over the Dochula Pass and continue to Thimphu. The roads in Bhutan are narrow, and while the distances don’t appear to be very far, due to the nature of the roads and the many valleys they pass through, travelling can take some time – so this is a good chance to relax and enjoy the passing scenery. After lunch continue into the Paro Valley, stretching your legs with an optional wander around town on arrival. Get a good night's sleep tonight as tomorrow will be an active and exciting day!"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Paro / Tiger's Nest Monastery.",
+      "description": "After an early breakfast followed by a short drive, prepare for your hike to see the legendary Taktsang (Tiger's Nest) – a magnificent monastery, clinging on a rock cliff 900 metres above the valley floor. After approximately 1 hour ascending the mountainside, reach a small teahouse that has a wonderful panoramic view of the temple and the ideal place to enjoy lunch. For those interested, it’s possible to get a closer view by hiking another 45 minutes to 1 hour (each direction) to reach the small chorten directly across from the temple. Anyone not interested in hiking any further can relax at the teahouse and enjoy the view. In the evening, after returning to Paro, experience Bhutanese hospitality and a taste of tradition with a home-cooked meal at a local farmhouse. Soak up the friendly atmosphere and consider taking an optional hot stone bath. A great way to relax after your hiking, this bath is a form of traditional Bhutanese medicine where fresh river water is mixed with local herbs and heated with fire-roasted river stones. A soak in these soothing waters is bound to revive and relax you."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Paro.",
+      "description": "Enjoy breakfast at your hotel before a departure transfer to Paro airport for your flight out of Bhutan."
+    }
+  ],
+  "map": ""
+}

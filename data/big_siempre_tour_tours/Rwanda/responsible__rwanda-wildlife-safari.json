@@ -1,0 +1,65 @@
+{
+  "destination": "Rwanda",
+  "mainPhoto": "",
+  "id": "rwanda-wildlife-safari",
+  "tourName": "Rwanda wildlife safari",
+  "placesVisited": "",
+  "generalInfo": "On this trip, you will experience the beauty of Rwanda – the “land of a thousand Hills.” Enjoy the different backdrops and Landscape of Rwanda as you turn along the hilly roads. The parks are a mixture of savannah, forest, and mountainous. You will trek Chimps in Nyungwe forest, and gorillas in Volcanoes national park.",
+  "durationDays": "8",
+  "price": "7962",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival to Kigali Welcome to the beautiful land of “a thousand hill.” Our guide/ representative staff will be at the airport to pick you and transfer you to your hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Transfer to Akagera National park Today morning after breakfast, you will have a short tour of Kigali visiting the Kandt Museum, craft markets and Genocide memorial. Leave for Akagera National Park after the tour of Kigali. On arrival in the park, proceed to your hotel for check in."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Explore Akagera national park Akagera National Park is a Savannah park with Elephants, Hippos, Buffaloes and Lions. After an early breakfast we take a game drive in search of these animals, the game drive will take us to the northern part of the park where most of the animals prefer to inhabit. Look out for the Zebras, Giraffes and Impalas which are usually scattered along the game tracks. Return to the lodge for lunch. After lunch you will take a boat safari on Lake Ihema for a beautiful afternoon breeze and some sighting of birds and wildlife."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Transfer to Nyungwe Forest - the home of chimpanzees. This morning leave for Nyungwe forest national park via Kigali. Visit the national museum to learn more about the history and traditions of the Rwanda people. We arrive in Nyungwe forest later in the evening and check in."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Chimpanzee Tracking and Canopy walk in Nyungwe forest After an early breakfast, we leave for Chimpanzee tracking in Nyungwe forest. The forest is rich in botanical diversity and home to 13 species of primates including Chimpanzees, L’Hoest monkeys, and Columbus monkeys with 300 bird species. Your tour guide will transfer you to the briefing area where you will meet your ranger guide and receive briefing before you start your trek. Return to lodge after the chimp trek or you can choose to do the Canopy walk immediately so that you rest once. The canopy walk allows you beautiful views of the forest from above as you admire nature."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Transfer to Volcanoes national park This morning again we leave for the briefing point at the Nyungwe forest. After briefing, the ranger guide will lead you into the forest for the Colobus monkey trekking. One of the habituated troops has many individuals, look forward to experiencing playful interactions of the monkeys as they groom, feed and play for each other. You are allowed 1 hour in their presence before you start the trek back. Leave for Volcanoes national park after Colobus monkey trekking with views of Lake Kivu and winding roads in the land of a thousand hills."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Gorilla trekking Meet the mountain gorillas in the dense jungles of the Virunga ranges. The trek to the gorillas starts with a briefing at the park headquarters in Kinigi where you are assigned a ranger and gorilla family to trek. After briefing, your ranger guide leads you to the starting point of the trek. You might need to drive to the starting point of the trek depending on location of gorilla group you are trekking. The trek through the habitat of these enormous animals is a fulfilling unforgettable experience that many people look to undertake. The trek can last from a few minutes to several hours depending on where the gorillas nested the previous night. In the afternoon, visit the Gorilla Guardians village. Learn about the culture and history of Rwanda. Try out your bow and arrow shooting skills or basketry etc"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Golden Monkey trekking & Transfer to Kigali. Golden monkeys are in the Virunga volcanoes of Uganda, Rwanda and DR Congo. After a short brief from the ranger guide, you will start your hike up in search of the golden monkeys. The golden monkeys are more active than the gorillas and you will follow them as they move to feed. Like gorilla trekking, you are only allowed 1 hour with the golden monkey. After this experience, leave for the airport."
+    }
+  ],
+  "map": ""
+}

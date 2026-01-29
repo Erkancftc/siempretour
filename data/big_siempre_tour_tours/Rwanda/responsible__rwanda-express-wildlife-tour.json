@@ -1,0 +1,50 @@
+{
+  "destination": "Rwanda",
+  "mainPhoto": "",
+  "id": "rwanda-express-wildlife-tour",
+  "tourName": "Rwanda express wildlife tour",
+  "placesVisited": "",
+  "generalInfo": "Rwanda is known as the land of a thousand hills. This small country has invested and continues to invest in tourism and conservation. They now have the Big 5 in Akagera national park and are steadily increasing the numbers of wildlife in the park. They also continue to see an increase in number of primates especially mountain gorillas and golden monkeys in Volcanoes national park.<br/><br/><br/>On this safari, you will enjoy a game drive experience in Akagera national park. The park is the only Savannah park in Rwanda hosting a number of big mammals with the most sought after being Lions, Buffaloes, Giraffes, Zebras, and Hippos, and recently Rhinos which will provide for great photographic moments. You will also search for animals on a boat safari on Lake Ihema and a night game drive in search of nocturnal animals. <br/><br/><br/>In Volcanoes national park, you will explore the park as you trek mountain gorillas and golden monkeys. In the afternoon, you will visit a cultural experience at the gorilla guardians village.",
+  "durationDays": "5",
+  "price": "5626",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "AKAGERA NATIONAL PARK | RELAX ON THE LAKE: We leave for Akagera national park in the morning after your breakfast. The journey to the park is about 2 hours depending on the stopovers along the way. On arrival at the park, we shall proceed to our accommodation check in. Have lunch and then leave for a boat trip on Lake Ihema watch Hippos and crocodiles in the water or by the shores. Return to the lodge and later leave for a night game drive."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "AKAGERA NATIONAL PARK | ENCOUNTER WILDLIFE: We arise early and leave after breakfast for a game drive in Akagera national park. We will search of the big mammals like Elephants, Giraffes, Buffaloes, several Antelope species, and recently the re-introduced Lions. The park is a varied habitat for wildlife and a birders haven with over 500 species in the park. The game drive will last about 8 hours or more depending on your interests. After this experience relax at the lodge."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "TO VOLCANOES NATIONAL PARK | GORILLA GUARDIANS VILLAGE Leave for Volcanoes national park after breakfast, driving through Kigali city. Enjoy the winding roads and scenery of northern Rwanda. In the afternoon, visit the Gorilla Guardians village. Learn about the culture and history of Rwanda. Try out your bow and arrow shooting skills or basketry etc."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "GORILLA TREKKING: Start the gorilla trek with a briefing from the ranger guides at the park headquarters. After the brief, join a gorilla group with guidance from your tour guide. Depending on location of gorilla family, you might have to drive to the trail head. After one hour with the gorillas, you start your hike out of the park. Your driver guide will pick you up and transfer you to the lodge for down time."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "GOLDEN MONKEY TREKKING & TRANSFER TO KIGALI: Golden monkeys are in the Virunga volcanoes of Uganda, Rwanda and DR Congo. After a short brief from the ranger guide, you will start your hike up in search of the golden monkeys. Enforcement officers join you to help in case you meet buffaloes which can be dangerous. The golden monkeys are more active than the gorillas and you will follow them as they move to feed. Like gorilla trekking, you are only allowed 1 hour with the golden monkey. Have an early lunch and leave for Kigali."
+    }
+  ],
+  "map": ""
+}

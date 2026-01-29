@@ -1,0 +1,100 @@
+{
+  "destination": "Vietnam",
+  "mainPhoto": "",
+  "id": "vietnam-experience-tour",
+  "tourName": "Vietnam experience tour",
+  "placesVisited": "",
+  "generalInfo": "Vietnam Experience is our premium 12 or 15 day group tour.<br/><br/>With epic premium accommodation and lots of amazing inclusions, its perfect for those wanting to see the best of Vietnam in style.<br/><br/>12 DAY: Hanoi - Hoi An<br/>15 DAY: Hanoi - Ho Chi Minh<br/><br/>You’ll explore Hanoi on a traditional rickshaw, stay with locals in the lush mountainside of Sapa, sail through Ha Long Bay, learn to cook tasty Vietnamese food, discover traditional villages in the Mekong Delta, and learn some history at the Cu Chi tunnels, all while staying in upgraded accommodation. <br/><br/>Plus you’ll have an awesome group leader with you from the moment you step off the plane, an instant group of friends to share your adventure with and help with your onward travel. Get ready for the trip of a lifetime!<br/><br/>HIGHLIGHTS <br/><br/>- Enjoy premium accommodation including upgraded traditional homestays and four-star hotels<br/>- Immerse yourself in the buzz of Hanoi on a walking and rickshaw tour<br/>- Trek through the lush, rolling mountainsides of Sapa<br/>- Cruise overnight through the magnificent Ha Long Bay<br/>- Be captured by the charm of Hoi An<br/>- Learn about local village life in the Mekong Delta and discover the history of the Cu Chi tunnels (15 Day Only)<br/><br/>INCLUSIONS <br/><br/>- Personal Airport Pickup To The Hotel 24/7 <br/>- All Transport &amp; Internal Flights<br/>- Awesome Group Leader<br/>- Walking &amp; Rickshaw Tour of Hanoi<br/>- Night Out in Hanoi<br/>- Sapa Mountain-Side Accommodation<br/>- Sapa Trekking with Locals<br/>- Overnight Boat Trip on Ha Long Bay<br/>- Kayaking<br/>- Local Homestay Experience<br/>- Bicycle Tour of Ninh Binh<br/>- River Boat Trip<br/>- Dragon Mountain Viewpoint<br/>- Cooking Class<br/>- Traditional Crab Fishing Basket Boat Tour <br/>- Lantern making class<br/>- Overnight Mekong Delta Experience (15 Day only)<br/>- Cu Chi Tunnels Tour (15 Day only)<br/>- Local Village Visit (15 Day only)<br/>- Help with Onward Travel",
+  "durationDays": "15",
+  "price": "1499",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "ARRIVE IN HANOI: We’ll meet you at the airport and take you to your hotel. You’ll have plenty of time to rest after your flight before meeting up with your group and getting excited for the experiences to come!"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "RICKSHAW EXPLORING: Immerse yourself in the bustle of Hanoi with a walking and rickshaw tour of the capital. Togeth-er we’ll explore the themed trading streets, soak up the intriguing culture and stay fuelled with delicious street food. Tonight we’ll head out for dinner and drinks to experience Hanoi’s night-life."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "SAPA TREKKING: This morning we’ll take a VIP limousine bus to the rolling hills of Sapa. We’ll learn from our local guide how different ethnic groups live peacefully together while retaining their customs, then begin our trek deep into the Muong Hoa Valley. Passing rice paddies, mountain views and water buffalo, we might get a little muddy, but it’s all part of the fun!"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "VILLAGES & MOUNTAINS: Today we trek through terraced hills and discover local villages. This afternoon we'll enjoy our beautiful mountain-side hotel and take in the serenity of our surroundings."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "EXPLORE SAPA TOWN: Explore Sapa at your own pace, or take the cable car up to Fan Si Pan peak, also known as the roof of Indochina. This afternoon we’ll jump back in the VIP limousine bus back to Hanoi."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "HA LONG BAY OVERNIGHT BOAT: We’ll head straight to the stunning natural wonder of Ha Long Bay and board our luxurious boat for the night. Known for its emerald waters, magical caves and towering limestone mountains covered in rainforest, we can kayak and sunbathe on deck with a drink in hand."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "TRAVEL TO NINH BINH: Today we head south to the beautiful countryside of Ninh Binh. This evening we’ll check in to our unique traditional homestay and watch the sunset whilst relaxing in our riverside bungalows."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "EXPLORE NINH BINH: We’ll hop on bicycles to ride through rice paddies, then take a local rowboat through rivers and caves. This afternoon we’ll tackle the iconic Dragon Mountain viewpoint for jaw-dropping views over the rural landscape. We'll then board our surprisingly comfortable overnight train bound for Hoi An."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "EXPLORE HOI AN: Hoi An is full of markets, colourful alleyways and lanterns lighting up the streets. Here you can wander the streets, sip a drink by the canal or get measured for custom clothes at a local tailor. Tonight we’ll go out for dinner and drinks to soak up the buzzing nightlife of the town and also experience the iconic lantern boats."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "BASKET FISHING & COOKING CLASS: Be guided by local fisherman through coconut groves and learn the art of crab fishing before trying your hand at a traditional Vietnamese cooking class. The afternoon is free for you to relax by the pool, get a massage or try on your new tailored clothes."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "LANTERN MAKING & BEACH DAY: This morning we’ll learn how to make lanterns. We’ll then enjoy a chilled day at a beach club before enjoying our final night in Vietnam together!"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "HO CHI MINH CITY: Enjoy the last bits of Hoi An this morning before we catch an internal flight to Ho Chi Minh City. We’ll head straight out to the markets for dinner then up to a rooftop bar to treat ourselves to a drink."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "MEKONG DELTA: Today we’ll explore the lush beauty of the Mekong Delta, learn how locals live on the river and check in to a traditional family-run homestay for the night."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "CU CHI TUNNELS: Today we learn some history at the Cu Chi tunnels, a fascinating network of hand-dug tunnels that played an important role in the Vietnam War. We’ll arrive back to Ho Chi Minh city this afternoon before heading out for our farewell dinner and drinks!"
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "CHECK OUT: Your amazing 15-day adventure comes to an end. You can either check out and make your way home or continue your travels around Vietnam or Asia with help from your group leader."
+    }
+  ],
+  "map": ""
+}

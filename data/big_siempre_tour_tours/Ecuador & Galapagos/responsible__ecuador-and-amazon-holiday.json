@@ -1,0 +1,95 @@
+{
+  "destination": "Ecuador & Galapagos",
+  "mainPhoto": "",
+  "id": "ecuador-and-amazon-holiday",
+  "tourName": "Ecuador and Amazon holiday",
+  "placesVisited": "",
+  "generalInfo": "A 2 week small group adventure holiday in Ecuador. Create your own action packed itinerary with optional outdoor activities, such as mountain biking and horseback riding, guided walks and canoe rides in the Amazon Rainforest.<br/><br/>Historic Quito, the Andes and the Amazon are all included in this comprehensive itinerary so you can enjoy browsing in the markets, exploring the rainforest and walking the mountain passes.<br/><br/>This is a small group adventure with a max group size of 16, average 10.",
+  "durationDays": "14",
+  "price": "1599",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Quito. Arrive any time"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Quito/Baños. Travel to Baños where you can choose from a variety of optional outdoor activities like hiking, ziplining, and canyoning. Or, take it easy and relax in local hot springs."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Baños. A free day to continue to enjoy the activities in this adventurous town."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Baños/Tena. Travel by bus into the Amazon Jungle. Spend two nights in rustic jungle huts in a local Quichua community. Enjoy nature walks and learn about local culture."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Tena. Learn about local life in the Amazon RainforestAmazon learning about local life in the jungle & spend the night in jungle huts in a Quichua community."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Tena/Papallacta. Travel by bike to the nearby community of Shandia and discover the beauty of the Amazon with a member of the community as your guide. Later, take a local bus to Papallacta and relax in the natural mineral hot pools with volcanic views."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Enjoy a relaxing morning at the hot springs before travelling back to Quito for free time to explore."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Quito/Otavalo. Explore the largest handicraft market in South America, Otavalo market. Villagers from the surrounding countryside come every week to sell handmade goods as well as livestock, fruits, and vegetables."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Otavalo/Cotopaxi. Travel to Cotopaxi National Park and explore the area or mountain bike trails with views of thei Volcano. After a busy day relax in a mountain lodge near the national park."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Day 10: Cotopaxi/Alausí. In the morning, visit Cotopaxi National Park before continuing on to Alausi."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Alausí/Cuenca. All aboard the train for an included excursion bound for the Devil's Nose. Afterwards, we head to Cuenca with its impressive colonial architecture."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Cuenca. Enjoy a free day to explore beautiful Cuenca. Opt for a city tour, go hiking in Cajas National Park, or soak in nearby hot springs."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Cuenca/Quito. A final flight back to historic Quito for our last night"
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Quito. Depart at any time."
+    }
+  ],
+  "map": ""
+}

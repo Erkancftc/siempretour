@@ -1,0 +1,85 @@
+{
+  "destination": "Panama",
+  "mainPhoto": "",
+  "id": "panama-holiday-cloudforests-to-the-caribbean",
+  "tourName": "Panama holiday, cloudforests to the Caribbean",
+  "placesVisited": "",
+  "generalInfo": "Panama is home to some of the wildest rainforests in the Americas, seas teeming with wildlife, and the rich heritage of its Hispanic and indigenous populations. We start this trip in Panama City, a vibrant metropolis that marries the old and new with enviable ease, visiting the famous Panama Canal and the quaint colonial centre of its old quarter, tasting traditional dishes along the way.<br/><br/>From here we head south to the rugged Azuero Peninsula, a land of white washed churches and family run ranches. It’s here that local traditions are perhaps at their strongest, and the region is a treasure trove of crafts and culture. We visit a typical farm and explore picturesque towns that are a world away from the modern capital, where the pace of life is gentle and rural customs hold sway.<br/><br/>From here we head to the mountains, forests and waterfalls of Santa Fe National Park, exploring on foot and by vehicle, then continue to the highland town of Boquete. This is a centre for Panama’s coffee growing industry, and no stay here would be complete without seeing how this is grown and produced. Nearby lie the dense forests of La Amistad National Park, one of the most biodiverse regions on the planet – we explore the area in search of wildlife such as sloth, monkeys and the Resplendent quetzal.<br/><br/>Our final stop on our journey through Panama is the idyllic archipelago of Bocas del Toro, on the Caribbean side of the country. We meet the indigenous Ngobe Bugle people and see how they are retaining their traditions, and take a boat trip through the islands. One of the most impressive sights here is Zapatilla Cays, two stunning uninhabited islands where coral reefs teem with colourful fish.<br/><br/>From the natural world to charming colonial architecture and a wealth of traditions, experience the best of a little known part of Central America.",
+  "durationDays": "12",
+  "price": "3299",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Panama City - Arrive into Panama City and transfer to your hotel. Overnight Riande Granada Hotel or similar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Panama City - This morning visit the iconic Panama Canal, heading to the Miraflores Locks to see gigantic ships transiting between the Pacific Ocean and the Caribbean. Later we head to the historic quarter of Casco Viejo, taking a walking tour to discover local markets and some typical Panamanian dishes. Overnight Riande Granada Hotel or similar. (BL)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Azuero Peninsula - Drive to the Azuero Peninsula, situated in the south of Panama and one of the best places to see traditional Panamanian culture. On arrival we visit a typical family farm, learning about the history of the family and seeing how they make typical artisan produce. Overnight Cubita Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Azuero Peninsula - Spend the day exploring some of the historic towns of the peninsula. The towns of Los Santos, Las Tablas and Guarare are home to fine colonial architecture and a good place to understand the heritage of the region, with a wealth of traditional arts and crafts. Overnight Cubita Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Santa Fe National Park - Drive into the mountains to reach Santa Fe, a beautiful area dotted with rivers and waterfalls. In the afternoon we explore the national park on foot and by vehicle. We visit a local community that lives within the park, some of the petroglyphs to be found here, and look out for wildlife along the way. Overnight Coffee Mountain Inn or similar. (B)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Santa Fe National Park - Continue exploring the park on foot on an easy hike to some nearby waterfalls. The afternoon is free to explore further – our lodge has a number of different activities to choose form – or you can just relax and enjoy the tropical gardens and great views. Overnight Coffee Mountain Inn or similar. (B)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Boquete - Drive to the picturesque mountain town of Boquete, on the edge of Baru Volcano National Park. In the afternoon visit a nearby coffee farm in the surrounding highlands, learning how the crop is grown and processed into the finished product, as well as some of the history of the farm itself. Overnight Firefly Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "La Amistad National Park (Bajo Mono) - We spend the morning hiking along the Pipeline Trail in the Bajo Mono forest situated in the buffer zone of La Amistad National Park. The trail consists of an easy ascent for most of the hike, with a couple of steeper sections and three bridges to cross. It culminates at a picturesque waterfall and is also well-known as a good place for sightings of the Resplendent quetzal. Overnight Firefly Hotel or similar. (B) Please note: This hike should take around 3-4 hours, depending on ability, and is the easiest hike available in the area, with the trails inside the park itself being of a much higher level of difficulty."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Almirante – Bocas del Toro - Travel to the coastal town of Almirante and from here transfer by boat to the archipelago of Bocas del Toro, an idyllic group of islands in the Caribbean. We spend the afternoon with the Ngobe Bugle people who show us how they use the cacao plant, as well as teaching us about their customs and culture and the local community based projects in place here. Overnight Gran Hotel Bahia or similar. (BL)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Bocas del Toro - Today is spent discovering the beauty of the Bocas del Toro archipelago with its white sand beaches, lush vegetation, mangroves and vibrant marine life. We stop at Laguna de Bocatoritos to look out for dolphins, Coral Cay for snorkelling among the coral reefs, and spend some time relaxing at Zapatilla Cays, two stunning uninhabited islands located within the boundaries of Isla Bastimentos National Park. The area boasts crystalline waters and coral reefs full of fish including Angel fish, Butterfly fish, Parrot fish, Moray eel, lobsters, crabs and others. Overnight Divers Paradise Hotel or similar. (BL)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Bocas del Toro – Panama City - After a free morning, fly back to Panama City for your final night in the country. Overnight Hotel Riande Grande or similar. (B)"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Panama City - Transfer to the airport for departure. (B)"
+    }
+  ],
+  "map": ""
+}

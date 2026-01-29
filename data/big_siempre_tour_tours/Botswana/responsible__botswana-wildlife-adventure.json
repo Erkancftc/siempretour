@@ -1,0 +1,50 @@
+{
+  "destination": "Botswana",
+  "mainPhoto": "",
+  "id": "botswana-wildlife-adventure",
+  "tourName": "Botswana wildlife adventure",
+  "placesVisited": "",
+  "generalInfo": "A fantastic Botswanan wildlife adventure, taking in four different locations all with their own distinct qualities. Start in Chobe River Front, and then head to Linyanti Concessions, Okavango Delta and Nxai Pan National Park.",
+  "durationDays": "12",
+  "price": "9317",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Chobe Riverfront: You will be picked up from Kasane airport and transferred to Chobe game lodge. The Chobe Riverfront is home to the largest density of African elephants in the world. Travel here during winter and you’ll see them drinking at the riverbanks and socialising out on the floodplains. Thanks to its ease of access from Victoria Falls, the Chobe Riverfront is the busiest part of Botswana, but it more than makes up for this with quality game viewing: giant elephant bulls strolling up next to your vehicle or wading through rivers, hippos and buffaloes crowding you out on the floodplains, prides of lions stalking antelopes by the water’s edge - it will leave you alone with your thoughts while the classic red sunsets melt over the river to a soundtrack of whistling fish eagles."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Linyanti Concessions: After your included internal flight to Kwando airstrip, you will arrive at Lagoon camp, Linyanti. The Linyanti is a safari addict’s bush nirvana. One of the most remote and exclusive pockets of Botswana, this pristine wilderness is what great game viewing and wildlife documentaries are made of. Only private concessions are on offer here, where the rules are flexible and the crowds can’t go. The Linyanti is not just for ticking off the big game; it also has a knack for delivering lesser-spotted bucket list items, whether it’s a rare bush pig or that long-searched-for wild dog. If Botswana puts a heavy emphasis on preserving the wild and taking only a handful of people into the bush, then the Linyanti is where this concept is taken to the extreme."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Okavango Delta: Next a flight from Kwando airstrip to Kwara is included, destination, Little Kwara camp. The Okavango Delta is where the wild things are: an immense, waterlogged oasis alive with elephants and birdlife, adrift in the middle of Kalahari sands. During winter in the Kalahari, when the sun has baked the earth bare and turned the desert its driest, water fills the Okavango; transforming the floodplains into a Noah’s Ark of African wildlife: as the water brings life to the delta, its local residents shape and recreate it. The Okavango has many faces, which change throughout the year, prompted by that most unpredictable phenomenon of all: the weather. Water levels rise and drop, expanding and shrinking islands, while animals move where the life is easiest and the grass greenest. In a few days, a sandy road driven by vehicle can become a waterway of unknowable depth, prompting a safari by boat instead."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Nxai Pan National Park: After landing at Nxai airstrip, you will be taken to Nxai pan camp, to continue your amazing journey. Modestly sized and largely under-visited, Nxai Pan is one of Botswana’s best-kept secrets for a desert safari. The action takes place around Nxai Pan itself and the park’s two waterholes, which keep wildlife in the area year-round. In Nxai Pan the landscape is dominated by short, yellow grasses, which turn green with the summer rains, worn down to white soil where zebras have made paths across the pan. Much of Nxai Pan can be explored in a day, however the real reason to visit is to take a slower pace and watch the waterholes as the wildlife arrives to drink. If you’re lucky, your patience might pay off as a hungry cheetah charges a thirsty springbok, sending a shower of dust over the waterhole. Once the summer rains arrive, Nxai Pan’s dust is washed away and the landscape turns bright and vivid, with hundreds of wildflowers providing the backdrop for the increased predator and prey interactions of the rainy season."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Fly back to Maun airport to catch your departure flight"
+    }
+  ],
+  "map": ""
+}

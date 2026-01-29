@@ -1,0 +1,70 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "argentina-and-brazil-tour-tailor-made",
+  "tourName": "Argentina and Brazil tour, tailor made",
+  "placesVisited": "Buenos Aires, Iguazu National Park, Rio de Janeiro, Corcovado & Sugar Loaf Tour",
+  "generalInfo": "Buenos Aires and Rio de Janiero are two of the most exciting cities in the world, and on this tailor made Argentina and Brazil tour you’ll be able to visit them both, as well as taking in the natural wonder of Iguazu Falls. <br/><br/>The tour kicks off in Buenos Aires, where there’s time to wander and soak up the atmosphere as well as take a guided tour of the city’s historical and political highlights. Next it’s off to Iguazu National Park, where you’ll have an afternoon to relax and adjust to the tropical climate before a tour of the Argentine side of the falls, including a boat trip and an ecological train ride. The next day will take you across the border to admire the rushing waters from the Brazilian side. <br/><br/>Rio de Janiero is next on the agenda. There will be time to explore the city under your own steam as well as take an organised tour to both Sugarloaf Mountain and Corcovado Mountain, which is crowned by the famous Christ the Redeemer statue. <br/>",
+  "durationDays": "9",
+  "price": "3015",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Buenos Aires: Upon arrival you will be met at the airport and transferred by private service to your hotel, leaving you the remainder of the day to explore the historic neighborhoods and enjoy the cafe culture of Buenos Aires."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Buenos Aires: Breakfast. Our City Tour will provide you a great overview of the city and its diverse attractions. Over the course of three hours you will have the chance to visit Retiro, Avenida 9 de Julio, Downtown, Puerto Madero, San Telmo, Recoleta and La Boca."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Buenos Aires to Puerto Iguazu: Breakfast. At appropriate time, you will have a private transfer to the domestic airport to take your flight to Puerto Iguazu. Upon arrival, you will be met at the airport and provided a regular transfer to your hotel. You will have the afternoon to relax and enjoy the tropical climate and jungle setting."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Iguazu National Park- Argentine Side: After breakfast you will depart on a regular, full day tour to the Argentine side of the Iguazu Falls where you will have intimate views of this unforgettable section of the Iguazu River. Lower and upper walkways permit up close and personal experiences with this magnificent spectacle of nature. Trails through the 210 square mile reserve provide visitors with various views of the Falls, especially the largest one, Devil's Throat. The ecological train ride is included in the tour with an option to add the Safari Nautico boat trip ( for an additional cost ). The Iguazu boat trips takes you right up to the base of the Falls. This exciting excursion is highly recommended in order to experience the true power of Iguazu Falls. ( Please be aware- on the boat trip there is a 100% chance that you will get wet...the Falls provide a refreshing \"natural shower\". Be sure to take some extra clothes if you want to do this excursion). Return to the hotel in the late afternoon."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Iguazu National Park- Brazilian Side: After breakfast, enjoy a regular, half day excursion to the Brazilian side of the Iguazu Falls where you will enjoy vast panoramic views of the Falls allowing you to take them in in their entirety."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Puerto Iguazu to Rio de Janeiro: Breakfast. At appropriate time, you will be transferred to Foz de Iguaçu airport to take the flight to Rio de Janeiro, regular service. Upon arrival in Rio de Janeiro you will have the remainder of the day to explore the lively city or spend time relaxing by the beach."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Corcovado & Sugar Loaf Tour, Rio de Janeiro: After breakfast you will depart on a tour to see the two 'must see' sites of Rio, Corcavado Mountain, home to the famous Christ the Redeemer statue, and Sugarloaf Mountain, the monolithic morros of granite and quartz that rise straight from the water's edge. Make sure to bring your camera as these mountains allow you some of the most incredible views of Rio de Janeiro. Lunch included."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Rio de Janeiro, Brazil: Today you will have the city at your disposal to take in a Samba show, enjoy some Brazilian BBQ, shop on Avenida Nossa Senhora, or relax on Copacabana or Ibanema beaches."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Rio de Janeiro: Breakfast. At appropriate time, you will be taken to the international airport to take your flight back home, private service. NOTE: Iguazú Eco Fee: Mandatory tax to be paid once you get to your hotel in Iguazú. It's about 5 usd per guest, per night, and it varies according to your hotel category. Only cash is accepted."
+    }
+  ],
+  "map": ""
+}

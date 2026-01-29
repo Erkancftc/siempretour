@@ -1,0 +1,60 @@
+{
+  "destination": "Peru",
+  "mainPhoto": "",
+  "id": "idyllic-peruvian-getaway-tour-for-all-ages",
+  "tourName": "Idyllic Peruvian Getaway Tour for All Ages",
+  "placesVisited": "Lima, Isla Palomino, Cusco, Machu Picchu, Aguas Calientes",
+  "generalInfo": "The vast treasures of Lima, Peru will be yours to uncover during this 7-day journey that will have you indulging in many of the most exclusive experiences that this country has to offer. Discover the mystic ruins of ancient civilizations and the wonders of modern life in the eclectic city of Lima. Explore the ruins of Machu Picchu, Cruise along the water of Isla Palomino during a marine wildlife exploration, and visit Inca ruins.",
+  "durationDays": "7",
+  "price": "2,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Lima - International Arrival",
+      "description": "Over the course of your week in this illustrious country, you will discover that Peru is a treasure trove of historical gems. Upon landing, you will meet your private ground transportation and journey to Lima's center, where you will settle in to your hotel. You will spend the afternoon and evening hours traversing Lima's downtown at your leisure. You can amble along the shoreline in the city's opulent neighborhood of Miraflores. After visiting the beautiful Parque del Amor at sunset, you can choose from a variety of dining options, each with stunning views that overlook the Pacific."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Lima – Pisco Sour Tasting",
+      "description": "This morning, you will join your expert guide in Lima's Plaza de Armas after breakfast for a comprehensive tour of the city's highlights. The first stop of your tour will bring you to the illuminated Plaza de Armas. During your tour, you will have the opportunity to step inside the Basilica and Convent of San Francisco of Lima to witness its elaborate interior and famed catacombs. You will then venture to the Torre Tagle Palace, which is an extraordinary example of Spanish architecture with its bright exterior and careful stonework. Later in the day, you will partake in an exquisite pisco sour tasting event along the illustrious coastline."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Lima – Discover Huaca Pucllana",
+      "description": "In the morning, you will have a quick breakfast at your hotel before transferring to the ruins of Huaca Pucllana. This adobe and clay pyramid is reminiscent of the ancient culture, which pre-dates even the Incas and their most famous citadels, including Machu Picchu. After touring the pyramid, you will visit the central plaza and stone walls along the outer edge. In the evening, you will return to Lima for a luxurious dinner along the shoreline and will have the option to choose between a variety of high-end restaurants in Miraflores."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Isla Palomino - Scenic Cruise and Marine Life",
+      "description": "Today, you will embark on a day-long cruise to the alluring island of Isla Palomino. Here, you will witness the island’s incredible scenery in addition to being provided with the unique opportunity to witness some of the region's most spectacular sea life. As the sun begins to wane in the sky, you will return to the mainland, where you can rest your feet and enjoy the panoramic views from a luxurious cafe. You can relax with a small sampling of tapas or ceviche before indulging in other local favorites, such as escabeche de pescado , which is a sauteed medley of fish, peppers, onion, and cumin."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Cusco - Downtown Exploration",
+      "description": "Today, you will soon find yourself on the edge of the Sacred Valley, ascending to the captivating city of Cusco, which is the jumping-off point to the famed ruins of Machu Picchu, which you will see tomorrow. Once your plane lands, you will be escorted to your accommodation. In the afternoon, you will venture into the city to explore its wonder. During your tour, you will pass the open-aired markets, where women sell handicrafts, fruits, and vegetables of every variety. Afterward, you will make your way along the frenzied Avenida del Sol for a chance to step inside the opulent Inca temple of Qorikancha. Later in the evening, you will venture to the illustrious neighborhood of San Blas."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Aguas Calientes - Tour of the Machu Picchu Ruins",
+      "description": "As the sun warms the hillside that surrounds Cusco City, you will journey to the ruins of Machu Picchu. After a light breakfast at your hotel, you will meet your expert guide, and together, you will board Peru's most luxurious train and ride through the Sacred Valley. Within just a few hours, you will arrive in the base city of Aguas Calientes. After settling in to your luxurious accommodation, you will meet your guide for a customized tour of the ruins. You will visit prominent features of the Machu Picchu’s citadel, including the Temple of Three Windows, the Principal Plaza, and the Sacred Rock. In the evening, you will return to the city of Aguas Calientes."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Lima - Departure",
+      "description": "In the morning, you will breathe in the fresh mountain air and listen to the swift stream of the Urubamba River from your hotel balcony. During the morning hours, you can venture into the city center and enjoy a light breakfast before shopping for souvenirs. By mid-morning, you will board the scenic train for a ride back to Cusco. Soon, you will arrive in Poroy, and from there, you will be transferred to Cusco's regional airport. You will fly to Lima before boarding your international flight home."
+    }
+  ],
+  "map": ""
+}

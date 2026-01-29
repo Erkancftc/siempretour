@@ -1,0 +1,80 @@
+{
+  "destination": "Uganda",
+  "mainPhoto": "",
+  "id": "uganda-ultimate-primate-safari",
+  "tourName": "Uganda ultimate primate safari",
+  "placesVisited": "",
+  "generalInfo": "Uganda is home to several primates with the most outstanding being mountain gorillas and chimpanzees. This safari will combine gorilla trekking experiences and chimpanzee trekking with a visit to the beautiful Queen Elizabeth national park for game drive watching the wildlife in their natural habitat.     <br/><br/>Queen Elizabeth national park has some of the best landscapes nestled between the escarpment and Mt Rwenzori. You will enjoy views of crater lakes while on the crater drive in the park. Time spent in the Ishasha sector of the park will increase your chances of watching the tree climbing lions. The lions in Ishasha often climb trees especially in the midmorning to afternoon.           <br/><br/>In addition to watching the different wildlife, you will visit a community to interact with the people - it is often said that people come to Africa for the animals but leave with memories of the people they interact with. You will get to impact these communities with your dollars and they will share their lives teaching you a skill or two and even learning about their culture.",
+  "durationDays": "11",
+  "price": "13253",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "On arrival at Entebbe International airport, you will be welcomed by our driver guide or hotel representative and transferred to your hotel for overnight."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Drive to Kibale national park after breakfast. Your first stopover is the Entanda community experience for a time exploring Buganda culture. Enjoy tropical fruits, music and dance and tasty Ugandan food. Proceed to your lodge for overnight."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Chimpanzee trekking and Bigodi village walk. Your driver guide will pick you up early to leave for chimpanzee trekking in Kibale national park. This park is home to 13 primates. You will receive briefing from the ranger guide after which you enter the forest in search of chimpanzees. Bigodi village is near the park. For years the human wildlife conflict was high and some of the villagers decided to kill the animals from the park because of going into their gardens. Young people received training and started trails in their village to earn from tourism and therefore be less hostile to the few wild animals that trespassed. In addition this created extra income for a community that only depended on agriculture."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Transfer to Queen Elizabeth national park. Today after an experience in the chimpanzee word, you will be transferred to the beautiful Queen Elizabeth national park. The drive will take you through the crater lake area, enjoy views of the Mt Rwenzori and the different craters. You will visit the Rwenzori founders for sculpture viewing and purchase if this is of interest to you. When you arrive in the park, you will have an afternoon game drive in the picturesque crater drive before retiring to your lodge for overnight."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "A morning game drive and afternoon boat safari. You will have an early morning game drive in search of elephants, buffaloes, Uganda Kobs, Lions, waterbucks, warthogs, and elusive Leopards etc. Seeing wildlife in their natural habitat is not a guarantee but a privilege. Spend the afternoon on a boat safari on the Kazinga Channel. Enjoy the boat ride as you watch different wildlife come to the channel for watering. Return to the lodge for overnight."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Transfer to Ishasha Sector of Queen Elizabeth national park: Ishasha is the southern sector of Queen Elizabeth national park and is home to the tree climbing lions. Arrive in the park for a game drive in search of the tree climbing lions."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Transfer to Bwindi forest. Have a slow morning because the drive to Buhoma sector of Bwindi impenetrable national park is not too far. After a morning game drive, return to the lodge for breakfast and later leave for Bwindi Forest."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Uganda Gorilla Trekking in Bwindi impenetrable national park. The trekking happens in this thick forest. Your driver guide will transfer you to the briefing point right at the edge of the forest. After briefing from a ranger guide, you will be allocated a gorilla family which you will be tracking. You will then leave for trekking together with the members of that group. Some gorilla families require that you drive to the starting point of the trek."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Transfer to Lake Mburo national park. This is the smallest savannah park in Uganda. It is home to the beautiful Zebras and Giraffes that are not in Queen Elizabeth national park. Drive from Buhoma to Lake Mburo national park - in the evening enjoy a nature walk in the park."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Horse Riding and Nature walk. After breakfast leave for the a morning nature walk in lake Mburo national park. In the evening, take a horse back safari in the park."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "End of Uganda Safari. Have a breakfast and depart for Entebbe International airport for your departure flight."
+    }
+  ],
+  "map": ""
+}

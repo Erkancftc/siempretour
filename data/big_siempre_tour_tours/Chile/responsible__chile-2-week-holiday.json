@@ -1,0 +1,55 @@
+{
+  "destination": "Chile",
+  "mainPhoto": "",
+  "id": "chile-2-week-holiday",
+  "tourName": "Chile 2 week holiday",
+  "placesVisited": "",
+  "generalInfo": "This two-week classic Chile itinerary takes you from the country’s most iconic highlights to some of South America’s most spectacular scenery, offering a journey of striking contrasts. Sail through hidden fjords of Patagonia, wander the bohemian streets of Valparaiso, and witness the otherworldly salt flats of the Atacama, all in one unforgettable trip. <br/><br/>Begin in the vibrant capital of Santiago, before flying into the heart of Patagonia, where Torres del Paine reveals its forested valleys, windswept glaciers and jagged peaks. Afterward, explore the arty port hub and UNESCO city of Valparaiso, with its creative charm and colourful hills. End your classic itinerary in the Atacama Desert, home to vast salt flats, sand dunes, rocky plateaus and Mars-like terrain, as well as deep ancestral roots. <br/><br/>Excursions are a mix of private and small-group tours, led by expert local guides. Accommodation has been hand-picked by us to ensure a comfortable and enriching experience. This trip can be tailored to your interests, so let us know your preferences.",
+  "durationDays": "15",
+  "price": "4318",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Santiago: Welcome to Chile’s capital Santiago. Transfer to your boutique hotel in upscale El Golf, renowned for tree-lined streets and sophisticated vibe. Let your local guide, show you the city’s cultural highlights on a private walking tour and learn about Santiago’s past and customs, see its iconic buildings and take in views of the Andes backdrop."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Puerto Natales: Journey by air to the charming port town of Puerto Natales. During your stay, enjoy a full-day boat navigation through Patagonia’s hidden fjords and journey to the Balmaceda and Serrano Glaciers. Only accessible by water, this day trip offers a secluded and tranquil glacier experience."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Torres del Paine: Transfer to the captivating Torres del Paine National Park and explore its highlights on a full day excursion. You’ll stay at a hotel located inside the park, and conveniently placed on the shores of Grey Lake, surrounded by epic scenery. Your stay is at leisure, and the hotel can help you organise a range of excursions to ensure you explore the park your own way. From classic hikes, like the Base of the Torres, to lesser-known hiking trails such as Pingo Valley, and boat navigations to Grey Glacier."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Valparaiso: Fly back to Santiago and travel to the nearby Valparaiso, a UNESCO port city. With an expert local guide explore the historical and cultural highlights of Valparaiso, ride a funicular to the hilltops for dramatic Pacific Ocean views and marvel at the bright, patchwork-coloured houses that adorn the hills."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Atacama: Fly north and escape to the driest non-polar desert in the world: The Atacama Desert. With an expert guide, witness the magic of Moon Valley at sunrise. Visit a traditional ayllu community to share Atacameñan food and learn how families farm and preserve their deep-rooted culture. Explore the desert’s-coloured salt lagoons: float effortlessly in Cejar Lagoon, marvel at the perfectly round freshwater lagoons of Ojos del Salar and end the day at Tebinquiche Lagoon, where the salt flats glow with pink, purple and orange beneath the Andes sunset."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Santiago: Say goodbye to Atacama and fly south to Santiago, where you’ll spend one final night before heading home. If you would like to make the most of your time in the capital, we can arrange a guided tour or recommend some wonderful places to eat- just let us know your preferences."
+    }
+  ],
+  "map": ""
+}

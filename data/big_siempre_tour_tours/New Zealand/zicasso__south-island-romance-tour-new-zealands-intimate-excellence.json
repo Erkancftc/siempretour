@@ -1,0 +1,60 @@
+{
+  "destination": "New Zealand",
+  "mainPhoto": "",
+  "id": "south-island-romance-tour-new-zealands-intimate-excellence",
+  "tourName": "South Island Romance Tour: New Zealand’s Intimate Excellence",
+  "placesVisited": "Queenstown, Doubtful Sound, Kaikoura, Christchurch",
+  "generalInfo": "Celebrate in style with the most romantic one-week tour of New Zealand’s South Island. Handcrafted with exquisite private activities and five-star accommodations, these seven days offer very personal experiences in majestically wild landscapes. Get ready to wander hand in hand through the finest New Zealand nature, from fjords to glaciers and plains.",
+  "durationDays": "7",
+  "price": "2,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Queenstown – Romance by the Lakeshore",
+      "description": "Queenstown’s natural setting is a premium place for romance to thrive. Snowy mountains surround a glassy lake, and solitude reigns. Trails meander into Middle-earth, and there is serenity everywhere. After a short airport transfer, today will be at your leisure. Your lakeside hotel commands sublime mountain views. All the suites are standalone, and you can enjoy a couples treatment in the spa at any time during the day. This is an iconic and romantic version of New Zealand that encourages you to unwind and let soft pleasures flow. There will be time for activities later; now is the time for two."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Queenstown – Afternoon in the Vineyards",
+      "description": "Majestic scenery extends behind your lodge, and you will venture to Middle-earth this morning. While the area is famous for its movie locations, it remains blissfully quiet and perfect for a private stroll in nature. You will initially be guided around in a 4WD vehicle, but your guide will show you trailheads and leave you to explore alone on foot. After your morning wilderness pleasures, you will spend the afternoon at two of Central Otago’s vineyards, sampling the wines. Again, the day’s focus will be on privacy in South Island’s diverse landscapes."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Doubtful Sound – Overnight Adventure in Fiordland",
+      "description": "By traveling across mountain passes en route to Fiordland National Park this morning, you will be able to feel the adventure. Doubtful Sound is nearly inaccessible, and you will have 24 hours to embrace its surreal wonder. Cliffs tower 2,000 feet above your boat, waterfalls tumble around playful dolphins, and solitude pervades in amorous tones. When the other boats leave, you will stay behind for a night of complete escapism on this narrow fjord. After an optional kayaking trip, you can watch the mist roll in on this remarkable feat of nature."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Queenstown – Helicopter Picnic and Glacier Expedition",
+      "description": "You will wake up to the mist and watch it slowly disperse as you eat breakfast. You can take kayaks to the dolphins once more and savor the sight of canyon walls as they emerge and narrow waterfalls that cascade with power. With no other boats around, this will be a morning of romance and privacy deep inside Fiordland National Park. This afternoon will provide another perspective in the form of a private helicopter tour. You can touch down on a glacier for a hand-in-hand stroll before touching down on remote cliffs for a private picnic with a view."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Kaikoura – Whale Watching and Romance",
+      "description": "After flying to Christchurch, you will transfer to Kaikoura. Your hotel will be hidden in the cliffs here, which is a sublime place to forget the rest of the world. For two days, you can wallow in privacy. The only planned activity will be a private whale-watching cruise on the Pacific. During your cruise, you will explore waters that are very popular with resident and migratory whales. Sightings are likely to include breaching humpbacks as well. This will not be a rushed cruise that desperately seeks out whales. Instead, this will be a leisurely afternoon on a private yacht, celebrating romance and the ocean’s greatest creatures."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Kaikoura – Spa Indulgence and Winding Cliffs",
+      "description": "Today will be completely at your leisure, and it may be hard to leave your property. You can wander into the spa for a selection of treatments, including an hour in the private hammam . You can take a stroll above Kaikoura along windswept cliffs that often provide views of passing whales. With the South Island, you can usually be alone and enveloped by wild nature in locations that feel like the edge of the world."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Kaikoura – Hot Air Balloon Ride & Departure",
+      "description": "After a quick ride back to Christchurch, you will spend your final morning in a hot air balloon, drifting across multihued plains. You will touch down to a Champagne breakfast before having time to wander the Canterbury Plains. Shortly after, a private driver will transfer you to Christchurch’s international airport. Dayroom hotel use can be arranged so that you can freshen up before departure."
+    }
+  ],
+  "map": ""
+}

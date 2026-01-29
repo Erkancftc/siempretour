@@ -1,0 +1,65 @@
+{
+  "destination": "China",
+  "mainPhoto": "",
+  "id": "yunnan-8-day-cultural-tour-ancient-trails",
+  "tourName": "Yunnan 8 day cultural tour, ancient trails",
+  "placesVisited": "",
+  "generalInfo": "This 8-day expedition is a masterclass in \"off-the-beaten-path\" exploration, designed for travelers who crave a harmonious blend of UNESCO-listed natural grandeur and deep cultural authenticity. We begin by ascending the mist-shrouded Ailao Mountains to encounter the Huayao Dai (Flower Waist Dai) people, whose vibrant traditions remain anchored in a landscape of primary forests and thunderous waterfalls. You will walk sections of the ancient Tea Horse Road, a perilous trade route that once linked the far reaches of Asia, feeling the weight of history in every stone-paved step.<br/><br/>The journey transitions from the wild ridges of the Ailao range to the architectural elegance of Jianshui, a Tang Dynasty gem where 600-year-old towers and labyrinthine courtyards tell stories of a scholarly past. A highlight of the trip is the immersion into the Yuanyang Rice Terraces, a 1,300-year-old agricultural masterpiece of the Hani people. Here, the \"stairways to heaven\" create a geometric wonder that shifts from golden reflections at sunrise to deep emeralds at dusk. Beyond the landscapes, we explore Yunnan’s unique historical legacy along the Centennial Yunnan-Vietnam Railway. From the French-influenced nostalgia of Bisezhai Station to the surreal red-brick artistry of Dongfengyun in Mile, this trip is a sensory feast. Whether you are navigating Asia’s largest floral hub in Kunming or gazing into the sapphire depths of Fuxian Lake, you will experience a Yunnan that most tourists never see—a kingdom of untamed beauty and enduring spirit.",
+  "durationDays": "8",
+  "price": "2688",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "ARRIVAL IN KUNMING. Meet your team for a personalized transfer to your hotel and an afternoon at leisure."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "KUNMING TO XINPING. Travel to Gasa to encounter the Huayao Dai culture and trek through the Jinshan Primitive Forest."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "AILAO MOUNTAIN TO JIANSHUI. Witness the sea of clouds at sunrise before exploring Shimen Gorge and the historic Jianshui Ancient Town"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "JIANSHUI TO YUANYANG. Visit the 17-arch Shuanglong Bridge and Ant Workshop before catching the sunset at Bada Terraces."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "YUANYANG TO MENGZI. Sunrise at Duoyishu Terraces, a visit to Qingkou Hani Village, and exploration of the historic Bisezhai Station."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "MENGZI TO MILE. Experience the narrow-gauge heritage railway in Kaiyuan and explore the traditional crafts of Mile Water Town."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "MILE TO KUNMING. Wander the surreal red-brick Dongfengyun Scenic Area and soak in the views of Fuxian Lake."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "DEPARTURE FROM KUNMING. Visit the Dounan Flower Market before your final airport transfer."
+    }
+  ],
+  "map": ""
+}

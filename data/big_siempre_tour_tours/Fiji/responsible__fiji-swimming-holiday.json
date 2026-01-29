@@ -1,0 +1,60 @@
+{
+  "destination": "Fiji",
+  "mainPhoto": "",
+  "id": "fiji-swimming-holiday",
+  "tourName": "Fiji swimming holiday",
+  "placesVisited": "",
+  "generalInfo": "This Fijian swimming holiday offers an unforgettable adventure in the Soft Coral Capital of the World. Set on the stunning Taveuni Island, known for its lush landscapes and vibrant marine life, the trip combines open-water swimming with relaxation. You will enjoy daily guided swims, explore coral reefs, and even visit waterfalls, with plenty of time for downtime to enjoy the resort's amenities or learn about Fijian culture through activities like coconut lessons and traditional ceremonies.<br/><br/>Designed for swimmers with some open-water experience, this holiday offers two swims per day, with flexibility for those who wish to swim shorter distances. There is access to optional one-on-one swim coaching and stroke video analysis. Safety is paramount, with boats accompanying each swim and local guides offering expertise on the area's unique waters.<br/><br/>With a maximum group size of 12, the Fiji swim holiday ensures an intimate and personalized experience. Guests will enjoy six nights at the luxurious Paradise Taveuni, with amenities like oceanfront views, daily meals, and a range of optional experiences. It's the ultimate getaway for both swimmers and those seeking a tropical retreat.",
+  "durationDays": "7",
+  "price": "2695",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "AM: Welcome to Fiji! We will meet you at the airport and transfer you to your accommodation for the week PM: introductions, a short acclimatisation swim in the crystal-clear bay in front of the resort"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "AM: leisurely coastal swim (approximately 2km) along Taveuni’s stunning lava-black south coastline. PM: we’ll head to Vuna Reef for our second swim of the day, where you can marvel at the diverse coral."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "AM: Enjoy a 3km swim at Rainbow Reef, one of the most famous dive sites in the South Pacific PM: coastal swim along the sandy beaches and bays of Levu (approximately 1.5-2km)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "AM: Dolphin Bay. Here, you’ll swim with the currents along the reef, keeping an eye on the snapper and trevally below. PM: You can choose from various activities - a scuba dive, personalised swim coaching, frond weaving and coconut catching, or simply relax in a hammock!"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Today promises to be an adventure as we head to Bouma National Park. We’ll hike into the rainforest, taking refreshing dips in waterfalls along the way and visit Taveuni’s swim-up waterfall, an ideal spot to cool off!"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "AM : Weather permitting, we’ll return to Rainbow Reef for a drift swim, soaking in the beauty of the coral formations. PM: We’ll embark on our final swim of the week directly from the hotel jetty, exploring the resort’s beautiful house reef."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "For those with early flights, departure is at 6:30am. If you’re on an afternoon flight, enjoy a leisurely breakfast and a final swim before packing up for your departure."
+    }
+  ],
+  "map": ""
+}

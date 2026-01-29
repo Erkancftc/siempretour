@@ -1,0 +1,55 @@
+{
+  "destination": "Uganda",
+  "mainPhoto": "",
+  "id": "chimp-and-gorilla-tracking-in-uganda",
+  "tourName": "Chimp and gorilla tracking in Uganda",
+  "placesVisited": "",
+  "generalInfo": "This 6-day tailor-made private Uganda Gorilla and chimp  tracking gives you an opportunity to see Uganda’s most famous mountain gorillas in Bwindi National park and track the incredible chimpanzees in Kibale forest.<br/>On this trip you will get to see many other wildlife and many bird species and many monkeys as well as the mighty mountain Gorillas. You will also meet many amazing people and their cultures and learn why Uganda was voted the friendliest country in Africa.",
+  "durationDays": "6",
+  "price": "2800",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "You will be met and picked at the airport by your guide/driver, then you will be driven to your lodge for an overnight."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Day 2: Kampala to Kibale Via Mityana This day, you will leave for kibale a journey of about 6 hours. getting to your lodge at around 3pm."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Chimp Tracking Day Today it's your day for tracking the chimps, you will leave in the morning and go looking for the chimps. the trek varies in how long it takes but it's very special experience."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Kibale - Bwindi forest national park After breakfast, you will set off Bwindi forest."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Gorilla tracking day: Today is the long awaited time to go and track the famous mountain gorillas. Seeing these animals is very special experience and privilege, the hour you will spend with them will forever be memorable."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Bwindi - Entebbe: Very early in the morning you will leave bwindi and head back to entebbe, to catch your flight back"
+    }
+  ],
+  "map": ""
+}

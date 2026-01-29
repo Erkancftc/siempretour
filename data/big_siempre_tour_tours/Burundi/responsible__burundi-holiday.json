@@ -1,0 +1,65 @@
+{
+  "destination": "Burundi",
+  "mainPhoto": "",
+  "id": "burundi-holiday",
+  "tourName": "Burundi holiday",
+  "placesVisited": "Bujumbura, Rusizi National Park, Ijenda tea plantations, Rumonge, Lake Tanganyika, Nyakuza, Kalera waterfalls, Gitega, Lake Rwihinda National Reserve",
+  "generalInfo": "The tiny nation of Burundi is the focus of your trip, and you’ll spend eight days getting to know its history, culture and wildlife; including dense forests, lively cities and flora and fauna rich national parks. Even better, you’ll do so without meeting many other visitors, as Burundi is far from the main tourist trail. <br/><br/>Kicking off your trip, you’ll get to grips with local culture and customs with a tour of the suburbs of capital Bujumbura, run by local women. You’ll also learn about the country’s pre- and post-colonial history. Other cultural highlights include a visit to the National Museum of Gitega, which has an impressive collection of artefacts, and watching a performance of renowned Burundian drummers on the royal hill of Gishora. <br/><br/>You’ll also have the chance to explore some of the country’s rich nature reserves and areas of natural beauty, including the wetlands of Rusizi National Park, where you’ll find hippos, sitatungas and many species of bird; the ‘Chutes de la Kalera’, a collection of waterfalls rumoured to have healing powers; and Lake Rwihinda National Reserve, where you’ll take a sunrise tour in a dugout canoe.<br/>",
+  "durationDays": "8",
+  "price": "2345",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival in Bujumbura - Arrive in Bujumbura and transfer to hotel accommodation. The rest of the day is left at leisure to relax after your flight. Overnight at Club du Lac Tanganyika or similar. No meals nor guided arrangements included today."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Bujumbura - Today, Rusizi National Park’s wetlands form an ideal habitat for hippos, water-adapted Sitatunga antelope, and a wide variety of birds. Taking a boat trip on the Rusizi River and Lake Tanganyika, there’s time to visit a nearby fishing village. Later, we explore a little-known and intriguing African capital. Learn about pre- and post-colonial history, and some of the challenges Burindi has faced. The city tour includes the outskirts of Bujumbura, and this will offer a glimpse of daily life. Visits include the Cathedral of Regina Mundi, and we pass the monument of the unknown soldier, the mausoleum of Prince Louis Rwagasore and Unity Monument, then ending with Musee Vivant. Overnight at Club du Lac Tanganyika or similar. (BL)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Bujumbura – Teza Tea Plantations- Kibira Nature Walk - Today, we drive to Teza to see the tea plantations and observe one of the main products the country exports and Burundian tea production. Later we take a nature walk around Kibira National Park. After a visit to Teza Plantations, we visit Kiganda Treaty Site, one of the historical sanctuaries containing all the details about signing the Treaty between Germans and King Mwezi Gisabo who was the king of Burundi during that colonial era. In the afternoon, we drive back to Bujumbura. Overnight at Club du Lac Tanganyika or similar. (BL)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Livingstone & Stanley - Rumonge – Resha- Artisanal Production of Palm Oil - Our first stop is ‘La Pierre de Livingstone et Stanley’, a stone monument claiming to mark the site where explorer Dr. David Livingstone met journalist Henry Morton Stanley, on 25th November 1871. At Rumonge there’s a first-hand opportunity to explore the increasingly contentious artisanal production of palm oil, before continuing to Resha for the night. In the afternoon around 4p.m, you are free to take a walk/hike in the hills overlooking the Lake Tanganyika which will mark the end of today’s tour. Overnight at Tanganyika Blue Bay or similar. (BL)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Kigwena National Reserve -The Source of the Nile-Karera Waterfalls - The day starts with a nature walk in Kigwena National Reserve where we track for chimpanzees and baboons. We continue to visit the southernmost source of the Nile in Rutovu near Rutana, only discovered in 1937. Continue to visit Karera waterfalls also known as les ‘Chutes de la Karera’, an impressive series of waterfalls said locally to have healing powers. Afterward, drive to the town of Gitega. Overnight at Hotel Tropitel or similar. (BL)."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Gitega National Museum – Gishora Drum Sanctuary- Transfer to Kirundo - The country’s largest city, since January 2019 Gitega is again Burundi’s official capital. We visit the National Museum, a rather down-at-heel institution that nonetheless houses the country’s largest historical and ethnographic collection – in one room... However, museums and political administration are not Gitega’s headline acts. That billing rests with the world-famous Gitega Drummers whose performance on the royal field of Gishora is a sight not to be missed. This evening Later, we transfer to Kirundo for the night. Overnight at Rama Hotel or similar. (BL)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Kirundo Intore Dancers- Birds Lakes- Transfer to Bujumbura - Today it’s an early start for a sunrise trip by dugout canoe on Le Lac aux Oiseaux in Lake Rwihinda National Reserve. We will later visit the Intore Warrior Dancers for a show. During the royal times, the Intore warriors defended the King and paraded in dance before the delighted people when returning from victory. The dancer wears the skin of a leopard and an elaborate headdress, bells on their ankles, and a necklace of ivory. After a picnic lunch, we drive back to Bujumbura (230 km) for an overnight at Club du Lac Tanganyika. (BL)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Bujumbura - Airport - Departure from Burundi - After breakfast, drive to the handcrafts market “Chez Natalie” to buy last-minute souvenirs for family and friends back home. Relax at the beach enjoy lunch then after, transfer to the airport for onward or homeward flights at the end of our Burundi tour. (BL)"
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,90 @@
+{
+  "destination": "Costa Rica",
+  "mainPhoto": "",
+  "id": "costa-rica-on-a-shoestring-self-drive-holiday",
+  "tourName": "Costa Rica on a shoestring, self drive holiday",
+  "placesVisited": "",
+  "generalInfo": "This self-drive adventure links Costa Rica’s most iconic landscapes into a single flowing journey. After a brief pause in San José, the trip begins in Tortuguero, where the only roads are canals and the rainforest comes alive at dawn with the calls of monkeys and the flash of toucans. <br/><br/>Guided boat safaris here make the wildlife experience effortless, while evenings at a riverside lodge immerse you in the rhythm of the Caribbean lowlands. From there, you collect your car in Guápiles and drive to the Arenal region, where the dramatic cone of the volcano rises above a landscape of hot springs, farmland and rainforest. <br/><br/>Days here include a guided hike across old lava fields, a relaxed sloth-spotting circuit, and time to explore La Fortuna or soak in thermal pools at your own pace.<br/><br/>The journey then climbs into the mist-shrouded cloud forest of Monteverde, where cool air, moss-draped trees and the chance of spotting the resplendent quetzal provide a striking contrast to the lowlands. <br/><br/>Finally, you descend to the Pacific coast for a coastal stay in Manuel Antonio, where palm-lined beaches meet lush rainforest filled with sloths, squirrel monkeys and birdlife. A guided walk in the national park is paired with ample free time for beach relaxation or optional adventures such as kayaking and waterfall hikes. <br/><br/>With car hire, accommodation and key activities included, the itinerary keeps travel straightforward while delivering exceptional variety: rainforest canals, volcanic landscapes, highland forests and tropical shores, all threaded together with just the right balance of freedom and expert guidance.",
+  "durationDays": "14",
+  "price": "2390",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive San José. Met on arrival and transferred to Hotel ; rest of day at leisure. (Overnight San José)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "San José to Tortuguero (group transfer). Breakfast stop en route by Braulio Carrillo; boat through the canals to lodge; forest walk after lunch; dinner at the lodge. (B,L,D)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Tortuguero: Dawn canal tour; breakfast; second canal tour; visit the small museum, beach and village; dinner at the lodge. (B,L,D)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Tortuguero to Guápiles (shared transfer). Collect SUV (unlimited mileage; LDW & liability cover) and self-drive to Arenal; afternoon at leisure. Overnight (B)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Arenal: Guided hike on trails across old lava flows with volcano viewpoints (AM). Easygoing sloth-spotting tour by vehicle (PM); chances to see toucans, monkeys, iguanas and poison-dart frogs; local snacks included. (B)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Arenal: Day at leisure for hot springs, La Fortuna and optional activities. (B)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Arenal to Monteverde: Self-drive to the Tilarán range (approx. 3.3 hrs / 119 km). Evening at leisure. Overnight Hotel (B)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Monteverde Cloud Forest Reserve: Guided walk on signed trails with opportunities for hummingbirds and, with luck, resplendent quetzal. (B)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Monteverde to Manuel Antonio: Self-drive to the Pacific (approx. 3.3 hrs). Arrive and check in (B)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Manuel Antonio: Day at leisure—beaches, short waterfall walks, kayaking or time by the pool. (B)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Manuel Antonio National Park: Guided naturalist walk; look for sloths, several monkey species and birdlife; free time for the park’s pristine beaches afterwards. (B)"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Manuel Antonio: Second day at leisure for optional activities or relaxation. (B)"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Manuel Antonio to San José: Drive back to San José airport (approx. 2.5 hrs) for return flight. (B) Optional night in San Jose region, depending on departure flights."
+    }
+  ],
+  "map": ""
+}

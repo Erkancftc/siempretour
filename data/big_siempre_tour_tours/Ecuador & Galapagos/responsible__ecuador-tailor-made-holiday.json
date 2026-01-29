@@ -1,0 +1,60 @@
+{
+  "destination": "Ecuador & Galapagos",
+  "mainPhoto": "",
+  "id": "ecuador-tailor-made-holiday",
+  "tourName": "Ecuador tailor made holiday",
+  "placesVisited": "Quito, Amazon, Napo Wildlife Centre, Piranha fishing, Night walks, Otavalo, Cotopaxi National Park, Optional: hikes or horse riding, Riobamba, Ride the Devil's Nose Train, Ingapirca, Cajas National Park, Cuenca, Guayaquil",
+  "generalInfo": "Spend 11 days enjoying some of Ecuador’s most beautiful landscapes and sights, learning about its different cultures and meeting its people on this Ecuador tailor made holiday. Spend two nights in the capital Quito before flying to the beautiful Amazon rainforest. Here, you can explore by canoe or by walking, enjoy activities such as piranha fishing and learn first hand about life in the Amazon from the communities living here. Next, from the Amazon to the Andes, as you head to Cotopaxi National Park to see the spectacular Avenue of the Volcanoes. You can hike, horse ride or simply relax here. You’ll also visit quiet old towns including Riobamba, Otavalo and Cuenca, ride the Devil's Nose train – an amazing engineering feat – explore Cajas National Park, see Inca ruins and shop in busy markets. It's a superb introduction to this fascinating, beautiful country.",
+  "durationDays": "11",
+  "price": "2500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Fly into the Amazon and transfer by boat to the Napo Culture Centre. We work closely with a few different lodges to cover most budgets, all offering incredible Amazon experiences. (B/D)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Fly back to Quito where you will be met and taken north to visit the colourful town of Otavalo. The town's famous market is a fantastic place to buy presents and experience the capital of Ecuador's indigenous heartland. (B/D)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Your journey now turns south as you drive to the wide open spaces of Cotopaxi National Park, filled with tropical flowers, beautiful mountain lakes and, of course, the stunning Cotopaxi volcano. Once you reach your lodge you can relax and stroll among the beautiful scenery, or we can arrange hikes or horse riding for you. (B/L/D)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Continue your exploration of the High Andes as you drive to the town of Riobamba. Situated at the base of the mighty Chimborazo Volcano, the highest peak in Ecuador, Riobamba is a lovely town in which to spend the afternoon, meandering through the old colonial streets. (B/L)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Today is a real treat! Spend the day on the breath-taking Devil's Nose Train, one of the greatest feats of engineering in the world, as it traverses up an almost sheer cliff. Afterwards continue on to Ecuador's most important Inca site, Ingapirca. where you can explore before staying in the local posada for the night. (B/L)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Today you will visit Cajas National Park, before heading to the stunning colonial town of Cuenca. The scenery of Cajas is one of major attractions of the area and includes tundra-like flora and hundreds of crystal blue lakes, providing spectacular hiking opportunities through remote areas. Cuenca is a wonderful town to explore on foot in the afternoon, with its amazing network of beautiful old colonial buildings and streets. (B)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "In the morning you will be taken to Guayaquil to catch your international flight home or a domestic flight to Quito. If you have time you can explore the old port of Ecuador’s second city before catching your flight. (B)"
+    }
+  ],
+  "map": ""
+}

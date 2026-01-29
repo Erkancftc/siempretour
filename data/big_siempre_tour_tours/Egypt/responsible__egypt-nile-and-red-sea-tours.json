@@ -1,0 +1,80 @@
+{
+  "destination": "Egypt",
+  "mainPhoto": "",
+  "id": "egypt-nile-and-red-sea-tours",
+  "tourName": "Egypt Nile and Red Sea Tours",
+  "placesVisited": "Cairo, Pyramids of Giza, the Sphinx, Egyptian Museum, Memphis, Sleeper train to Aswan, Abu Simbel temple, Nile river cruise to Luxor, Valley of the Kings, Temple of Queen Hatshepsut, Hurghada, Red Sea",
+  "generalInfo": "Head for the Nile and the Red Sea on this tailor made holiday, where you’ll encounter some of the world’s most impressive archeological sites, as well as the dazzling waters of Egypt's coast. Your tour starts in Cairo, where you’ll visit the Egyptian Museum as well as the Pyramids at Giza and the Sphinx. Next, you’ll take the sleeper train from Giza to Aswan, a memorable experience that will give you real insight into modern Egyptian culture. <br/><br/>After a day spent in Awan, during which you’ll visit the Abu Simbel temple, you’ll board your luxury vessel for a cruise up the Nile. As well as enjoying the dramatic scenery as you make your way towards Luxor, you’ll get to visit the High Dam, Edfu, Kom Ombo and the incredible Valley of the Kings. <br/><br/>Now that you’ve had your fill of ancient history, you’ll make your way down to the coast for two days relaxing on the shores of the Red Sea, where optional activities include diving, snorkelling and windsurfing. <br/><br/>All sightseeing tours, guides, accommodation, transfers and most meals on the tour are included. Optional extras such as snorkelling and diving are not. <br/><br/>",
+  "durationDays": "12",
+  "price": "3729",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Our tours representative will meet & assist you at Cairo International Airport. After that you will be transferred to your hotel by a private air-conditioned vehicle. Upon arrival at the hotel he will check you in and give detailed information concerning your tomorrow’s trip. Overnight in Cairo."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "After breakfast you will be accompanied by your personl guide to Giza Plateau to visit the Great Pyramids of Cheops, Chefren and Mykerinus - Famous Sphinx and Valley temple facing the great statue, Lunch included during the tour and then proceed to Sakkara area to visit Sakkara Complex and first pyramid ever built (Djoser Pyramid). Overnight in Cairo. Meals: Breakfast, Lunch"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "After breakfast, the first stop will be The New Grand Egyptian Museum, also known as the Giza Museum, which is an archaeological museum in Giza, Egypt, about 2 kilometers (1.2 miles) from the Giza pyramid complex. The GEM Complex is now offering limited access to test site readiness and the visitor experience ahead of the official opening. Admission is currently limited to the Main Galleries, Grand Hall, Grand Staircase, commercial area, and exterior gardens. After that, you’ll go for lunch at an authentic Egyptian restaurant. Then head over to the Egyptian Museum, in the heart of historic Downtown Cairo, overlooking the infamous Tahrir Square. Transfer for a quick visit to Khan El Khalili Bazaar if there is time. After your visits, you will be transferred to Cairo airport for your flight to Aswan. Meet & assist, and transfer to your hotel. Overnight in Aswan. Meals: Breakfast, Lunch. Visits: Grand Egyptian Museum (GEM), Egyptian Museum."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Free day in Aswan Optional (not included) to enjoy a tour to one of Egypt's top tourist attractions, Abu Simbel Temples, which were originally carved out of the mountainside during the reign of Pharaoh Ramesses II approximately in the 13th century BC, as a lasting monument to himself and his Queen Nefertari. Overnight in Aswan. Meals: Breakfast."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Breakfast at your hotel in Aswan. Then transfer to embark your Nile River Cruise before Lunch, then enjoy the awesome Philae temple, which is devoted to the two goddesses Isis and Hathor , and the largest known ancient obelisk, located in the northern region of the stone quarries of ancient Egypt, the Unfinished Obelisk. Dinner on board and overnight in Aswan. Meals: Breakfast, Lunch, Dinner"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Sail to Kom Ombo, have breakfast on board and Visit the Temple shared by two gods Sobek & Haeroris in Kom Ombo. Sail to Edfu, lunch on board after that Visit the best-preserved cult temple in Egypt, Horus Temple in Edfu. Take afternoon tea during sailing to Esna. Dinner and overnight on board. Meals: Breakfast, Lunch, Dinner"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Sail to Luxor, have breakfast on board then Visit the West Bank, take an excursion to the royal cemetery for 62 Pharaohs, Valley of the Kings, then to mortuary Temple of Queen Hatshepsut, which was built by the architects of the New Kingdom Pharaoh Hatshepsut in the 15th century BC, at El-Deir El-Bahari & the Colossi of Memnon. Lunch on board. Enjoy afternoon tea during sailing. Dinner on board Overnight in Luxor. Meals: Breakfast, Lunch, Dinner"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Breakfast on board, Disembark from your Nile cruise after breakfast . Then transfer to visit Karnak & Luxor temples. In the afternoon transfer to Hurghada on the Red Sea. From Luxor to Hurghada is about a 03 hour and half drive. Overnight in Hurghada. Meals: Breakfast"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Optional tours to experience the exquisite diving and snorkeling among the Red Sea coral reefs and see some amazing rare fish. Or choose one of the many other activities such as windsurfing, sailing and deep-sea fishing. Overnight in Hurghada. Meals: Breakfast"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Breakfast at your hotel in Hurghada and then you will be transferred to Hurghada airport, upon arrival in Cairo you will be met and assisted, then transferred to your hotel for free time at leisure. Overnight in Cairo. Meals: Breakfast."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Breakfast at the hotel in Cairo - free time before your flight - check out and then transferred to Cairo International Airport for final departure. Meals: Breakfast"
+    }
+  ],
+  "map": ""
+}

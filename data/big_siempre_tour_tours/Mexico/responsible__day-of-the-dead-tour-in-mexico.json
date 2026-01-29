@@ -1,0 +1,50 @@
+{
+  "destination": "Mexico",
+  "mainPhoto": "",
+  "id": "day-of-the-dead-tour-in-mexico",
+  "tourName": "Day of the Dead tour in Mexico",
+  "placesVisited": "",
+  "generalInfo": "Immerse yourself in the vibrant culture and history of Mexico City in experience filled with traditional festivities, breathtaking architecture, and tantalising cuisine. This unforgettable journey will see you exploring ancient ruins, hiking scenic trails, and partaking in the magical celebrations of Día de los Muertos. From bustling markets to the serene beauty of its plazas, Mexico City offers a unique blend of the old and new, making it a destination of diverse and memorable experiences.",
+  "durationDays": "5",
+  "price": "1070",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Mexico City, Mexico: Departure Time: 11:00 hr Duration: 5 days Mexico City Welcome Meeting & Walking Tour Bienvenidos! The day will start with a welcome meeting at your accommodation reception (please bring insurance details to share with your tour leader). Next go on a walking tour of the historic city center, where modernity meets ancient history - be sure to keep an eye out for any traditional day of the dead decorations! These lively streets are packed with beautiful architecture, chic and traditional restaurants, museums, and street food. Visit the famous Zocalo, the city’s huge central plaza to see the ancient Aztec ruins of Templo Mayor and the stunning Spanish architecture of the Metropolitan Cathedral. Walk past the beautiful Bellas Artes art museum, a masterpiece of Art Deco architecture and stop at the famous and exotic Mercado San Juan, where they sell everything from Spanish tapas to edible insects. Treat yourself to lunch with both traditional and adventurous options--ostrich burger, anyone? (lunch not included.) Overnight in Mexico City."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Mexico City-Tepotztlan-Mexico City, Mexico: Tepoztlan Temple Hike & Visit to Traditional Altars Today we will depart Mexico City in the morning (around 08:00hrs) and travel to the charming “magic town” (or “pueblo magico”) of Tepoztlan to explore the town and the nearby Aztec ruins with a local guide. Considered the birthplace of the Mesoamerican God Quetzalcoatl, this town is an important indigenous site and many people feel that it still holds a spiritual sacred energy, drawing many artists and mystics. The town is surrounded by majestic soaring cliffs and the stunning ruins are located at the top of one of these high-altitude lookouts. The hike to the top (about 1 hour) is very steep and can be quite challenging at this high altitude. But for adventurers, this hike is definitely well worth it. If you don’t feel up to it, you’re welcome to continue to explore this lovely town and its lively marketplace.You will also get to see the traditional altars that are central to the vibrant Day of the Dead festivities. Feel free to take pictures, the guide will explain the different elements that make up the altars, and meaning behing the colors ,candles, and more . We will return to Mexico City in the early evening (around 18:00hrs) for overnight. Overnight in Mexico City."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Mexico City, Mexico: Local Market Visit & Day of the Dead Festivities in Mixquic Today we will have a morning visit to Jamaica market, famous for its ornamental flowers. In addition to the impressive variety of flowers you will also get to see altars and even stop for lunch if you’re feeling peckish (not included). You will then return to your accommodation around midday. Later on in the afternoon we will visit the town of Mixquic, famous for its vibrant and energetic Day of the Dead festivities. A big part of Day of the Dead is the light-hearted festivities that families organise in the local cemeteries to spend time with their deceased loved ones. The ceremony starts in the afternoon when families colourfully decorate the graves of their loved ones and continues late into the night with parties, music, dancing, and of course a good dose of tequila. Immerse yourself in the spirit as this is sure to be a unique experience! Overnight in Mexico City."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Mexico City, Mexico: Mexico City Free Day Today you are free to enjoy the magnificent capital of Mexico City at you own leisure. It's been an action-packed few days - maybe you want to rest! If not, there are countless things to do in Mexico City that you can organize at your own convenience. If enough of your group is interested, a uniquely Mexican outing to Xochimilco can be organized locally at an additional cost. You will cruse the canals of Xochimilco, enjoying cold beverages and snacks of your choosing (not included). Tonight, enjoy a goodbye dinner and drinks during a fun night out (not included). Embrace the festivities and atmosphere of the Day of the Dead during a lively last evening with your new travel friends, it will be a night to remember! After, if you feel up to it, go for a night out at some of the hippest spots Mexico City has to offer! Don't forget to try some mezcal, a unique beverage derived from the agave plant. When you're ready, head back to your accommodations. Overnight in Mexico City."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Mexico City, Mexico: Accommodation Check-Out Check out of your accommodation and say goodbye to your new friends over breakfast. Your unforgettable trip ends here. We wish you luck on your journey onward!"
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,80 @@
+{
+  "destination": "Egypt",
+  "mainPhoto": "",
+  "id": "egypt-highlights-with-nile-dahabiya-cruise",
+  "tourName": "Egypt highlights with Nile Dahabiya cruise",
+  "placesVisited": "",
+  "generalInfo": "This 11-day journey connects Egypt’s greatest treasures, from the mighty Pyramids of Giza and the new Grand Egyptian Museum to the timeless temples of Aswan and Luxor, all experienced at a gentle pace aboard a traditional Dahabiya sailboat.<br/><br/>Begin your adventure in Cairo, exploring ancient wonders with your local Egyptologist before flying south to Aswan. From there, cruise the Nile the old-fashioned way, gliding past palm-fringed villages, green riverbanks, and golden deserts. Along the way, visit Philae, Kom Ombo, and Edfu temples, and meet local communities who keep Nubian traditions alive.<br/><br/>End your journey in Luxor, walking through the Valley of the Kings and the magnificent Karnak and Luxor Temples, places where history still whispers through every stone.<br/><br/>This trip blends discovery, comfort, and meaningful encounters, perfect for travelers who want to experience Egypt’s culture and nature with care and respect.",
+  "durationDays": "11",
+  "price": "3940",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Meet your local representative at Cairo International Airport and transfer to your hotel for check-in and overnight."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "After breakfast,discover Egypt’s ancient origins at the Step Pyramid of Djoser in Saqqara. Continue to the Great Pyramids and the Sphinx before returning to your hotel."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "After a delicious breakfast, visit the new Grand Egyptian Museum, home to treasures of Ancient Egypt. Later, enjoy an authentic countryside experience, visit a local family, learn about traditional recipes, and share a freshly prepared Egyptian meal together."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Breakfast, explore the Citadel of Salah El Din and the Alabaster Mosque, then visit Old Cairo’s Hanging Church and Ben Ezra Synagogue. Overnight in Cairo."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Start the day with a delicious breakfast, then fly south to Aswan, meet your guide, and board your Dahabiya sailboat, your home on the Nile. Dinner and overnight onboard."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Visit the Philae Temple and the High Dam. Enjoy free time on the boat and watch the sunset over the Nile."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Sail to Koubania, with lush gardens, then visit the camel market at Daraw. Learn about local life along the Nile."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Sail to Kom Ombo to explore the twin temple dedicated to Sobek and Haroeris, then continue to Edfu and visit the Temple of Horus by horse carriage. Dinner under the stars onboard."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Disembark and explore Luxor, visiting the Karnak and Luxor Temples. Overnight in Luxor."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "After breakfast, explore the Valley of the Kings, Hatshepsut Temple then Fly back to Cairo, transfer to your hotel, and enjoy a relaxed evening in the capital."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "After breakfast, transfer to Cairo International Airport for your flight home carrying memories of Egypt’s timeless beauty and warm hospitality."
+    }
+  ],
+  "map": ""
+}

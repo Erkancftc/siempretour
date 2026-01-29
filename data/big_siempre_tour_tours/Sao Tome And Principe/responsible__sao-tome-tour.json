@@ -1,0 +1,65 @@
+{
+  "destination": "Sao Tome And Principe",
+  "mainPhoto": "",
+  "id": "sao-tome-tour",
+  "tourName": "Sao Tome tour",
+  "placesVisited": "Sao Tome, Lagoa Amelia, Trinidad, São João dos Angolares, Ribeira Afonse, Night-time beach turtle watch, Rolas Island and coastal cruise, Obo National Park, cacao plantation visit and rainforest hikes",
+  "generalInfo": "The island nation of São Tomé and Principe is a little-explored African jewel - a tropical paradise awash with atmospheric colonial reminders and fascinating nature, girdled by an unspoilt coastline of wild beaches hemmed by rainforest. <br/><br/>This compact tour offers an excellent introduction, starting in the capital Sao Tome with its unique Portuguese-Creole flavour. From here we drive south to São João with its gorgeous black sand beaches, most famously the wild beaches of Porto Alegre.<br/><br/>You'll also get a chance to explore intriguing coastal fishing villages such as São João dos Angolares and Ribeira Afonse, as well as see unusual colonial sites like the historic hospital at Agua Eize and visit a cacao co-operative to see how the local chocolate is made. You'll also get a chance to watch for turtles laying eggs at night on moonlit sands, where the only sound is the whisper of unseen waves. <br/><br/>Heading out onto the ocean, we visit tiny Rolas Island where you can stand astride the Equator line, before continuing by boat up the west coast to Mucumbli, our base for exploring Obo National Park, where unusual endemic flora and intriguing birdlife flourishes amid a scattering of waterfalls and old plantation houses.  <br/><br/>Staying in charming lodges and converted plantation houses we have excellent opportunities to meet local people too, and experience the best of the incredible biodiversity and unusual history in this novel corner of Africa.",
+  "durationDays": "8",
+  "price": "2799",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "São Tomé - Arrive in São Tomé and transfer to your hotel. Overnight Hotel Residencial Avenida or similar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "São João dos Angolares - Drive south to the coastal village of São João dos Angolares. On the way visit the colonial era hospital at Agua Eize and the fishing village of Ribeira Afonse. The journey takes you into the heart of the Caue district at the extreme south of the island, where the road ends and onward travel is difficult. Spend the night in a converted plantation house (roca). (BL)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Porto Alegre – Praia Inhame - Drive to the far south of the island and the stunning wild beaches of Porto Alegre, then continue to Praia Inhame. Hike around the coastline, surrounded by rainforest. In the evening we head to Praia Piscina and Praia Jade to wait for turtles to emerge from the ocean and lay their eggs nearby. Overnight Praia Inhame Lodge. (BD)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Rolas Island - Boat trip to the tiny Rolas Island off the south coast of Sao Tome. Walk to the equator line, have a traditional lunch in the village and swim in clear blue waters from beautiful beaches. Return to Praia Inhame for the night. (BL)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Mucumbli - Travel by boat along the west coast of Sao Tome, arriving at Mucumbli Eco-Lodge around lunchtime. Later we visit a local cacao co-operative to see how this is grown and processed for chocolate – cacao is one of the island’s main exports and integral to its economy. Overnight Mucumbli Eco-Lodge. (BL)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Obo National Park - A full day excursion hiking in the primary forest of Obo National Park, looking for endemic plants and birds. You will also pass by a pretty waterfall and see old plantation houses on your route. Overnight Mucumbli Eco-Lodge. (BL)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Sao Tome - Travel overland to the north coast of the island. Walk around the Blue Lake and continue to Morro Peixe beach with opportunities to swim and look for birdlife. Continue to Sao Tome where we will spend the night. Overnight Hotel Residencial Avenida or similar. (BL)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Sao Tome - This morning head to the countryside. We explore the pretty town of Trinidad on foot, visit the Roca Monte Café and stop at the Roca Saudades Alemeda Negreiro for lunch. Return to Sao Tome for a city tour, where a day use room is available for you to freshen up before transferring to the airport for your flight. (BL)"
+    }
+  ],
+  "map": ""
+}

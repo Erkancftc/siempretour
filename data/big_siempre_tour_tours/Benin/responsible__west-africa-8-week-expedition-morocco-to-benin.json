@@ -1,0 +1,295 @@
+{
+  "destination": "Benin",
+  "mainPhoto": "",
+  "id": "west-africa-8-week-expedition-morocco-to-benin",
+  "tourName": "West Africa 8 week expedition, Morocco to Benin",
+  "placesVisited": "",
+  "generalInfo": "A Journey Beyond Borders<br/>Embark on a 56-day West Africa Overland adventure from Marrakech through deserts, mountains, coastlines, and vibrant cultures. Traverse Morocco’s High Atlas and Sahara dunes, discovering caravan routes, hidden oases, and prehistoric rock art before reaching the Atlantic.<br/><br/>Cross into Mauritania to explore historic towns like Chinguetti and Ouadane, then follow Senegal’s beaches to colonial Saint Louis with its lively markets. Experience The Gambia’s wetlands, Senegal’s Casamance, and the Bijagos Archipelago in Guinea Bissau, rich in nature and culture. Guinea’s Fouta Djallon offers waterfalls, highlands, and bustling markets.<br/><br/>Continue through Sierra Leone, Liberia, Ivory Coast, Ghana, Togo, and Benin, encountering UNESCO forts, vibrant music, sacred ceremonies, colonial towns, and palm-fringed beaches. From Accra to Abidjan, immerse yourself in local life at every stop.<br/><br/>With comfortable accommodations, authentic cuisine, and expert guidance, this expedition is a cultural journey across West Africa’s landscapes and histories.",
+  "durationDays": "8",
+  "price": "18155",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Marrakech (Morocco) - Arrive and check into the hotel. Evening arrival meeting at 8?pm. Overnight: Novotel Kenzi Rose Hotel or similar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "High Atlas (Morocco) - Explore remote Berber villages, try gem digging, and cross the Tizi n'Tichka pass. Visit Ait Benhaddou, site of many famous films. Overnight in Ouarzazate at a comfortable hotel with traditional adobe style."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Ouadi Draa & Rock Art (Morocco) - Follow the Draa River, walk through palm oases, and visit prehistoric rock art. Continue to Mhamid, the last desert outpost. Overnight: Hotel Pacha, Mhamid."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Dunes, Fossils, and Antelopes (Morocco) - 4x4 through Erg Chegaga dunes, spot rare addax antelopes, and explore fossil sites. Arrive at Foum Zguid oasis. Overnight: Bab Rimal."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "The Oasis Trail (Morocco) - Drive through rocky landscapes and lush oases. Walk through Icht oasis. Overnight: Borji Biramane."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Caravan Terminals (Morocco) - Discover ancient caravan architecture in Assa and Guelmim. Visit a ghost fort along the former French-Spanish border. Base for two nights at Ksar Tafnidilt."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Estuaries and Desert (Morocco) - Explore remote beaches, dunes, and small fishing settlements along the Dra estuary. Return to Ksar Tafnidilt."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Dunes and Lagoons (Morocco) - Drive through coastal dunes to Naila salt lagoon, an important bird sanctuary. Visit Tarfaya and the Aeropostale museum. Overnight: Hotel Casamar."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "The Western Sahara (Morocco) - Meet a local Sahrawi guide for a three-day off-road desert expedition across Saguia El Hamra and Tiris Zemmour. Camp under the stars in mobile tents."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Desert to Ocean (Morocco) - Continue desert crossing and drive to the Atlantic coast. Overnight: Hotel Buena Vista."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Rio de Oro (Morocco) - Explore Dakhla Peninsula, visit the fishing harbor and oyster farm, drive along the Rio de Oro shoreline. Overnight: Hotel Buena Vista."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Border Lines in the Sands (Morocco & Mauritania) - Cross the Tropic of Cancer and enter Mauritania at Guerguerat. Arrive in Nouadhibou. Overnight: El Medina."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Adrar Massif (Mauritania) - Drive across dunes to Akjoujt and Erg Amatlich. Explore nomadic settlements, stone tools, and pottery shards. Base for two nights in Chinguetti. Overnight: Sahara Hotel (Day 14), La Gueila (Day 15)."
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Chinguetti (Mauritania) - Explore Chinguetti, its stone architecture, ancient manuscripts, and central mosque. Overnight: La Gueila."
+    },
+    {
+      "dayNumber": 17,
+      "title": "",
+      "description": "Ouadane (Mauritania) - Off-road drive to Ouadane oasis, a historic trading post. Return to Chinguetti. Overnight: La Gueila."
+    },
+    {
+      "dayNumber": 18,
+      "title": "",
+      "description": "Green Oasis (Mauritania) - Visit mountains, gorges, prehistoric rock art, and the lush Terjit oasis. Overnight: Hotel Sahara."
+    },
+    {
+      "dayNumber": 19,
+      "title": "",
+      "description": "Nouakchott (Mauritania) - Tour the capital, including the National Museum and fishing harbor. Overnight: Azalai Hotel."
+    },
+    {
+      "dayNumber": 20,
+      "title": "",
+      "description": "Djoudj Ornithological Sanctuary (Mauritania & Senegal) - Cross into Senegal, explore the Senegal River delta and Djoudj National Park by boat. Arrive in Saint Louis. Overnight: Hotel de la Poste."
+    },
+    {
+      "dayNumber": 21,
+      "title": "",
+      "description": "Saint Louis (Senegal) - Walk or ride a kalash through the historic town with galleries, markets, and museums."
+    },
+    {
+      "dayNumber": 22,
+      "title": "",
+      "description": "Fishing Villages and Holy Men (Senegal) - 4x4 along the coast to a large fishing village, meet artisans and a local Marabut, then visit Lac Retba. Overnight: Trarza Hotel."
+    },
+    {
+      "dayNumber": 23,
+      "title": "",
+      "description": "Dakar & Gorée Island (Senegal) - Explore Dakar’s museums, colonial architecture, and ferry to Gorée Island for sunset. Overnight: Maison Municipal."
+    },
+    {
+      "dayNumber": 24,
+      "title": "",
+      "description": "Salt Pans of Kaolak (Senegal) - Visit Kaolack, a key salt and peanut port. Overnight: Relais de Kaolak or Kabacoto Safari Lodge."
+    },
+    {
+      "dayNumber": 25,
+      "title": "",
+      "description": "Archaeology and Contemporaneity (Senegal & Gambia) - Visit Sine Ngayene megaliths, cross into The Gambia, and tour Banjul’s national museum. Overnight: Atlantic Hotel."
+    },
+    {
+      "dayNumber": 26,
+      "title": "",
+      "description": "Gambian Birds (Gambia & Senegal) - Bird-watching in wetlands, then arrive in Ziguinchor, Casamance region. Overnight: Kadiandoumange Hotel."
+    },
+    {
+      "dayNumber": 27,
+      "title": "",
+      "description": "Kings and Masks (Senegal) - Visit a Diola village, meet the king, and witness sacred mask dances. Overnight: Kadiandoumange Hotel."
+    },
+    {
+      "dayNumber": 28,
+      "title": "",
+      "description": "Between Water and Land (Senegal & Guinea-Bissau) - Drive through tidal Bolon estuaries to Bissau. Overnight: Azalai-Dunia Hotel."
+    },
+    {
+      "dayNumber": 29,
+      "title": "",
+      "description": "Bijagos Archipelago (Guinea-Bissau) - Speedboat tour of the islands, visiting Bolama ghost town. Overnight: Ponta Anchaca Resort."
+    },
+    {
+      "dayNumber": 30,
+      "title": "",
+      "description": "Vaca Bruto Dancing Ceremony (Guinea-Bissau) - Witness initiation ceremonies and traditional dances on Bubaque Island. Overnight: Ponta Anchaca Resort."
+    },
+    {
+      "dayNumber": 31,
+      "title": "",
+      "description": "Islander Life (Guinea-Bissau) - Relax or walk the island; optional hippo excursion to Orango Island. Bissau city tour. Overnight: Azalai-Dunia Hotel."
+    },
+    {
+      "dayNumber": 32,
+      "title": "",
+      "description": "The African Troubadours (Guinea-Bissau) - Visit a Malinké village, meet griot musicians, then travel to Gabu. Overnight: Hotel Karsa."
+    },
+    {
+      "dayNumber": 33,
+      "title": "",
+      "description": "Fouta Djalon (Guinea-Bissau & Guinea) - Cross into Guinea, explore Fouta Djalon highlands and remote Fulla settlements. Overnight: Hotel Tata, Labe."
+    },
+    {
+      "dayNumber": 34,
+      "title": "",
+      "description": "Wild Highlands (Guinea) - Visit Labe market, waterfalls, Dalaba town, and Fulla architecture. Overnight: Tinka Hotel, Dalaba."
+    },
+    {
+      "dayNumber": 35,
+      "title": "",
+      "description": "The Council of the Elders (Guinea) - Meet local chiefs, learn about traditions, and visit Jardin Chevalier. Overnight: Tinka Hotel."
+    },
+    {
+      "dayNumber": 36,
+      "title": "",
+      "description": "Baga Nimba (Guinea) - Travel to Kindia, enjoy Guinean gastronomy, and attend Baga Nimba mask performance. Overnight: Hotel Masabi or Moringa."
+    },
+    {
+      "dayNumber": 37,
+      "title": "",
+      "description": "Freetown (Guinea & Sierra Leone) - Arrive in Sierra Leone’s capital. Overnight: Swiss Hotel."
+    },
+    {
+      "dayNumber": 38,
+      "title": "",
+      "description": "The Mountains of Lions (Sierra Leone) - Explore Freetown’s landmarks, drive along the scenic coast, then transfer to Kent. Overnight: Bafa Lodge."
+    },
+    {
+      "dayNumber": 39,
+      "title": "",
+      "description": "Banana Island (Sierra Leone) - Explore Banana Island, primary forests, and Kriol village. Drive to Bo. Overnight: Bo Inn Hotel."
+    },
+    {
+      "dayNumber": 40,
+      "title": "",
+      "description": "Diamonds and Female Masks (Sierra Leone) - Visit diamond mining village and observe female Bundo mask dances. Overnight: Bo Inn Hotel."
+    },
+    {
+      "dayNumber": 41,
+      "title": "",
+      "description": "Pepper Coast (Sierra Leone & Liberia) - Drive to Liberia via the Mano River border. Arrive in Monrovia. Overnight: Cape Hotel."
+    },
+    {
+      "dayNumber": 42,
+      "title": "",
+      "description": "The Land of Freemen (Liberia) - Explore Monrovia’s Krio culture, colonial buildings, and National Museum. Travel to Ganta. Overnight: Alvino Hotel."
+    },
+    {
+      "dayNumber": 43,
+      "title": "",
+      "description": "Liana Bridges (Liberia & Ivory Coast) - Visit a remote village and walk across a traditional liana bridge. Arrive in Man. Overnight: Hotel Amoitrin."
+    },
+    {
+      "dayNumber": 44,
+      "title": "",
+      "description": "Dan Masks (Ivory Coast) - Discover We and Dan ethnic masks and dance traditions. Overnight: Hotel Cascades or Amoitrin."
+    },
+    {
+      "dayNumber": 45,
+      "title": "",
+      "description": "Magical Traditions (Ivory Coast) - Experience Gueré mask dances and traditional juggling rituals. Travel to Daloa. Overnight: Hotel La Grace."
+    },
+    {
+      "dayNumber": 46,
+      "title": "",
+      "description": "Capitals and Coffee (Ivory Coast) - Visit Guro communities for Zaouli masks, then Yamoussoukro and the Basilica of Peace. Overnight: Royal Hotel."
+    },
+    {
+      "dayNumber": 47,
+      "title": "",
+      "description": "Abidjan, Skyscrapers and Lagoons (Ivory Coast) - Explore Abidjan’s modern cityscape, markets, and cathedral. Overnight: Hotel Azalai."
+    },
+    {
+      "dayNumber": 48,
+      "title": "",
+      "description": "Grand Bassam (Ivory Coast) - Visit the historic town and Costume Museum, then travel to Aboisso. Overnight: Hotel le Rochè."
+    },
+    {
+      "dayNumber": 49,
+      "title": "",
+      "description": "Gold Coast (Ivory Coast & Ghana) - Drive to Ghana, visit Axim’s St. Antonio fort. Overnight: Anomabu Beach Resort."
+    },
+    {
+      "dayNumber": 50,
+      "title": "",
+      "description": "Elmina (Ghana) - Tour Cape Coast and Elmina castles, exploring slave trade history. Overnight: Anomabu Beach Resort."
+    },
+    {
+      "dayNumber": 51,
+      "title": "",
+      "description": "Ashanti (Ghana) - Visit Kumasi market, Ashanti Cultural Centre, and meet a traditional chief. Overnight: Miklin Hotel."
+    },
+    {
+      "dayNumber": 52,
+      "title": "",
+      "description": "Accra (Ghana) - Explore James Town, Ga culture, and fantasy coffin workshop. Overnight: La Villa Boutique Hotel."
+    },
+    {
+      "dayNumber": 53,
+      "title": "",
+      "description": "Lome (Ghana & Togo) - Tour Lome’s markets, fetish market, and colonial architecture. Overnight: Hotel Onomo."
+    },
+    {
+      "dayNumber": 54,
+      "title": "",
+      "description": "Voodoo (Togo & Benin) - Witness authentic Voodoo ceremonies. Travel to Grand Popo. Overnight: Awale Plage Hotel."
+    },
+    {
+      "dayNumber": 55,
+      "title": "",
+      "description": "Ouidah (Benin) - Explore Zangbeto masks, “Slave Road,” Python Temple, and Portuguese Fort. Overnight: Hotel Casa del Papa."
+    },
+    {
+      "dayNumber": 56,
+      "title": "",
+      "description": "The Stilts Village (Benin) - Visit Ganvié, the largest stilt village, and experience floating markets. Transfer to Cotonou airport."
+    }
+  ],
+  "map": ""
+}

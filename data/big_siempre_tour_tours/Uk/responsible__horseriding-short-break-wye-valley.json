@@ -1,0 +1,40 @@
+{
+  "destination": "Uk",
+  "mainPhoto": "",
+  "id": "horseriding-short-break-wye-valley",
+  "tourName": "Horseriding short break, Wye Valley",
+  "placesVisited": "",
+  "generalInfo": "Enjoy the peace and quiet of the green, rolling hills, ancient farmlands and heather swept moorlands with unbeatable views of the Black Mountains and Radnor Hills.<br/><br/>The route on this trail consists of lots of grassy tracks, open hills, old green lanes and so on.  The trails are a mix of little used bridle ways, old council roads and timeworn drovers routes.  The pace of the ride is calm and relaxed, with lots of trotting on the old lanes and canters wherever the terrain allows.  There are also points along the route where it is necessary to dismount and walk with your horse, such as steep down hill tracks which may be loose underfoot.",
+  "durationDays": "3",
+  "price": "1165",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Meet your guide, your fellow riders and pack your saddle bags. Meet your horse and prepare them for a day out on trail. Follow the quiet, country lanes up onto the rolling green hills of the Begwns. Wind through the soft, grassy tracks, passing the ‘Roundabout’ an unusual landmark built in the 19th Centaury to honor Queen Victoria’s Diamond Jubilee. Enjoy a peaceful picnic lunch in the hills. Drop down into the valley before climbing onto Llanbedr hill. Notice the change in terrain from grass and bracken to heather and gorse scattered moorland. Spot wild Welsh Mountain ponies and Red Kites as you sweep around the hills, dropping down to your end location for around 4pm. Total length: 14 miles"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "After a hearty Welsh breakfast, catch, feed, groom and tack up the horses. Blow away the cobwebs with some fantastic canters on Newchurch Hill before following part of the Offa's Dyke trail across Disgwylfa Hill. After lunch, enjoy the panoramic views atop Hergest Ridge. Enjoy a canter around an abandoned racecourse on the very top of the ridge. This racecourse started up in 1825 and held regular events until around 1880. Pass the ‘Whet Stone’ a traditional gathering point where, in this case, would have been used for betting and bargaining. Drop down off the Ridge and head to your overnight stop. Total length: 13 miles"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "After breakfast, head back to the horses. Catch, feed, groom and tack up. Follow the old country lanes across the remote Burl Hill to join the rugged farmland of Gwaunceste Hill. Pass the remains of Black Yatt, an old farmhouse built in the 18th Century which was blown up in the 1960s to feature in a film about the second world war. Ride the old tracks and lanes to cross Bryngwyn Hill before dropping down through the hamlet of Painscastle, where one of the biggest battles in all of Welsh History took place in 1198. From here its back onto the Begwns for a last canter before following the lanes back to Freerein HQ. Enjoy a cup of tea and homemade cake and say farewell to your new friends, horse and guide. Total length: 18 miles"
+    }
+  ],
+  "map": ""
+}

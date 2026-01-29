@@ -1,0 +1,65 @@
+{
+  "destination": "Poland",
+  "mainPhoto": "",
+  "id": "poland-highlights-tour",
+  "tourName": "Poland highlights tour",
+  "placesVisited": "",
+  "generalInfo": "This trip will let You discover Poland’s culture on its every plane. During 8 days of traveling You will visit astonishing places in the country, taste all the best Polish cuisine can offer, and experience history in the way you have never done before. Living culture in historical buildings, flavors of the past served in modern interiors, tradition, and warm hospitality. Visit the finest places full of living history, and relax at the seaside.",
+  "durationDays": "8",
+  "price": "2199",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "pick up from the Warsaw Airport, transfer to the hotel, welcome dinner and an evening walk."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Breakfast, guided Warsaw City Tour: Historic District, Royal Castle, The Bathrooms Park (Lazienki), Warsaw Getto District, The Belvedere, dinner, visiting The Warsaw Uprising Museum (depending on avalibility - an alternative event might be offered), evening special (optional)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "- breakfast - transfer to the Southern Poland, to Zalipie historical village - dinner - hand painting Workshops - you will have a chance to learn the traditional ornament hand painting techniques - sightseeing the Zalipie Heritage Park - bus transfer to Cracow - Hotel Check-in"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "breakfast - guided Cracow City Tour (Wawel Royal Castle, St. Mary Basilica, Cloth Hall (Sukiennice), Wawel Cathedral, Dragon’s Cave, Jewish District) - dinner - Wieliczka Salt Mine - Accomodation in the Mine Hotel - 410 ft. under the ground surface. - supper - evening special (optional)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "breakfast - bus transfer to the Silesia Region - guided tour on the medieval Ksiaz Castle - dinner - accommodation in the beautiful family run guest house - relax in the garden - supper outdoor at the campfire with a tasty presentation of polish beekeeping traditions (honey, drinkable alcohol honey, wax items - all available to taste and purchase as a souvenir - night tour at Czocha Castle (with torches)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "early breakfast - bus transfer to Poznan, visiting the Old Town Square - bus transfer to Biskupin Heritage Park - dinner - Biskupin Tour with 1 hour narrow-gauge railway ride - transfer to Sopot, at the Baltic Seaside - late night accommodation in a hotel - late supper"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "breakfast - guided Gdansk City Tour: Oliwa Archicathedral with church pipe-organ concert and Oliwa Gardens walk, Historical City, St. Mary’s Church, Amber Market at St. Mary Street, The Great Crane, Long Market Street (Dlugi Targ) - dinner - Westerplatte Guided Tour - return to the hotel - supper - evening relax"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "breakfast - relax and chill out at the seaside. - optional visit at the Viking Burgh in Sopot - dinner - depending on Your further plans - transfer to the ariport/train station"
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,60 @@
+{
+  "destination": "Australia",
+  "mainPhoto": "",
+  "id": "7-day-sydney-vacation-for-seniors-opera-to-blue-mountains",
+  "tourName": "7-Day Sydney Vacation for Seniors: Opera to Blue Mountains",
+  "placesVisited": "Sydney, Blue Mountains, Canberra",
+  "generalInfo": "From flying high over Sydney Harbour to immersing yourself in mother nature in the Blue Mountains, this 7-day excursion invites you to embark on a week in Sydney that you will never forget. Wild, wondrous, and unlike any other place in the world, Australia is a must-see on any traveler’s bucket list. Whether you are seeking outdoor excursions in some of the most stunning locales or are looking for a more cosmopolitan experience, this amazing city and its outlying area have it all.",
+  "durationDays": "7",
+  "price": "3,500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Sydney – Sunset Dinner Cruise",
+      "description": "Upon your arrival in Sydney, your private driver will be ready to whisk you away to your accommodation. After settling in and having some much-needed downtime to regroup, you will embark on a relaxing dinner cruise through Sydney Harbour. After your feast is complete and the last rays of the sun have disappeared beyond the horizon, you will return to the Sydney dock, feeling completely satisfied. Your private driver will be waiting to return you to your accommodation for the evening."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Sydney – Helicopter Ride Over the Harbor",
+      "description": "You will officially begin your Australian journey by exploring the metropolis of Sydney. From the famed Sydney Opera House to Luna Park, your guide will introduce you to the cultural and historical highlights of this gorgeous city. You will even be able to stop at the historic Rocks area, which is the iconic locale of Sydney’s first settlement. Following your tour, you can window shop and stroll around some of the enclaves that particularly strike your fancy. In the late afternoon, you will enjoy a helicopter ride over Sydney, which will offer you an incredible and unmatched bird’s eye view of all the amazing sights that you just witnessed on the ground."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Sydney – Blue Mountains and Jenolan Caves",
+      "description": "After departing Sydney, your guide will lead you on a lovely drive to the Blue Mountains National Park, where your first destination will be Echo Point. After a leisurely climb to its scenic overlook, you will be rewarded with one of the most spectacular views in the entire country. You will then be provided with the opportunity to stop by a few of the charming towns that surround this UNESCO World Heritage Site, including Katoomba, Laura, and Blackheath. Afterward, your tour will continue to the famed Blue Lake. A stop at the jaw-dropping world of the Jenolan Caves will follow, and here, you will be amazed by this awe-inspiring destination that dates back nearly 340 million years."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Sydney – Tour of Canberra",
+      "description": "A trip to Australia would not be complete without spending time exploring the nation’s capital city of Canberra. En route to Canberra, you will have a side trip to the charming town of Sutton Forest, where you will have the opportunity to walk along its charming streets and to enjoy a cup of tea amid the picturesque scenery. After arriving in Canberra, your guide will introduce you to the capital city’s highlights, including the Parliament House, the National Museum, the Captain Cook Memorial Fountain, the National Library, and the Lodge. You will then have the opportunity to tour the War Memorial."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Sydney – A Performance at the Opera House",
+      "description": "In the morning, you will depart from your Sydney hotel and be led to a wilderness area on the outskirts of the city, which is a beautiful space where the Australian wildlife can be viewed in its natural habitats. You will also encounter a seemingly endless amount of kangaroos, which are known to frequent the area. After making friends over the wild animals that you have chanced upon, you will venture on a scenic route back to Sydney that will have you heading down the picturesque Parramatta River on a relaxing ferry ride. This evening, you will attend a performance at the world-famous Sydney Opera House."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Sydney – The South Coast of New South Wales",
+      "description": "Today, you will discover the glory and splendor of the South Coast of New South Wales, which will include the sensational scenery of the Southern Highlands and the Grand Pacific Drive. The first town of Thirroul will welcome you with a morning tea. Kiama will be your next destination, and this is where you will gaze in awe at the famous Kiama Blowhole and its powerful sea plumes. You will then venture away from the coastline until you arrive at Mt. Cambewarra Lookout. Afterward, you will make your way to Kangaroo Valley, where you will eventually arrive at Fitzroy Falls. Your comprehensive tour will conclude with a charming drive through the Southern Highlands, which will include a stop at Berrima."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Sydney – Farewell to Australia",
+      "description": "As you wake up to your last morning in Australia, you will certainly have mixed feelings, including gratitude for your unforgettable time spent in this phenomenal country and a bittersweet reluctance to leave it after only a week. You will be provided with a final brunch before being transferred to the airport for your return flight home."
+    }
+  ],
+  "map": ""
+}

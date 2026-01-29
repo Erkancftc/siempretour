@@ -1,0 +1,55 @@
+{
+  "destination": "St Helena",
+  "mainPhoto": "",
+  "id": "saint-helena-nature-and-culture-tour",
+  "tourName": "Saint Helena nature and culture tour",
+  "placesVisited": "",
+  "generalInfo": "Discover Saint Helena. The small island has a rich, well-documented history that is still evident at every turn. The volcanic island is blanketed in lush green vegetation, including an ancient cloud forest which is home to around 250 endemic species. With a number of well-signposted trails, varying in length and difficulty, Saint Helena is a hiker's paradise. Explore the deep waters surrounding the island and spot dolphins, whales, endemic marine life and whale sharks. Visit historical landmarks, including Naoplean's residence during his exile, the remnants of fortified walls and excellent examples of Georgian architecture as well as places used as campsites for Boer Prisoners of War.",
+  "durationDays": "7",
+  "price": "2970",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "After flying to Saint Helena via South Africa, check in to your hotel which is set in the island’s capital, Jamestown. The hotel is a few minutes walk from the seafront and is set within a historic building that was previously home to the East India Company's officer barracks."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Explore the waters around the island on a boat cruise. Look out for the varied marine life that can be spotted, including bottlenose dolphins, pan-tropical dolphins, and rays. If you are visiting from January – March you may be lucky enough to see the elusive Whale Sharks. There are a number of great spots to snorkel from your boat as well."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Days at leisure. Optional activities include guided hikes of varying difficulty and guided 4x4 island tours. These tours can include a visit Deadwood Plain, the camp site of Boer prisoners during the Anglo Boer War and a private tour of the Governor's residence, Plantation House which was built in 1792. Plantation House is also home Jonathan the tortoise, a 191-year-old giant tortoise who is the world's oldest living animal."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Explore Jamestown. Start with a visit to the Museum of Saint Helena, which traces the varied history of the island, but also has artefacts from the number of wrecks that dot the coastline over the last 500 years. After this visit St James Church, the oldest Anglican Church in the Southern Hemisphere and the famous Jacob's ladder which ascends 699 steps above the town."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Learn about the exile of Napolean Bonaparte and visit all three Napoleonic sites owned by the French government, including Longwood House, where he lived and died. It is one of the best Napoleonic museums in the world, with original furniture and over 900 artefacts."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Begin your return journey, flying from Saint Helena to South Africa for your onward flight."
+    }
+  ],
+  "map": ""
+}

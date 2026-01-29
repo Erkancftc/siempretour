@@ -1,0 +1,115 @@
+{
+  "destination": "Japan",
+  "mainPhoto": "",
+  "id": "japan-and-south-korea-holiday",
+  "tourName": "Japan and South Korea holiday",
+  "placesVisited": "",
+  "generalInfo": "Your journey begins in Tokyo, where you'll stay at Henn na Hotel Tokyo Hamamatsucho. Experience a full-day trip to Mount Fuji, Kawaguchi Lake, and Oshino Hakkai, followed by a thrilling Street Kart adventure in Shibuya. Next, travel to Takayama and check in at Residence Hotel Takayama-Ekimae, with a visit to the stunning World Heritage Sites of Shirakawago and Gokayama. Continue to Kyoto, staying at Luck You Kyoto, and enjoy a magical Gion Night Walk and explore Arashiyama’s beautiful bamboo forest and temples. Then, head to Hiroshima for a memorable Peace Cycling Tour with a local guide. Your journey continues in Fukuoka for some relaxation before heading to Busan, South Korea, for a brief stay. Visit Gyeongju next, where you'll enjoy a two-day templestay at Golgulsa Temple. Finally, wrap up your adventure with stops in Jeonju and Seoul, where you’ll take part in a walking tour of the capital.",
+  "durationDays": "18",
+  "price": "5000",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Begin your journey by catching a train to the bustling metropolis of Tokyo, setting the stage for your adventure ahead."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Meet your guide at a convenient Tokyo location and embark on a scenic 2.5-hour bus ride to the iconic Mount Fuji. Capture breathtaking photos at LAWSON Kawaguchiko Station and participate in an authentic Japanese tea ceremony by Lake Kawaguchi. Soar to new heights with the Mt. Kachi Kachi Ropeway, offering stunning views of Mount Fuji and Lake Kawaguchi, before exploring the enchanting village of Oshino Hakkai. As the day concludes, return to Tokyo."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Experience the thrill of driving a custom go-kart through the streets of Tokyo in costume. Conquer the world-famous Shibuya Crossing and explore the vibrant districts of Harajuku and Omotesando. This one-of-a-kind tour promises excitement and memorable photo opportunities."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Catch a train to the charming town of Takayama, where you'll have a free day to explore this scenic destination at your own pace. Discover its traditional wooden buildings, browse quaint shops, and soak in the serene atmosphere that surrounds this beautiful location."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Journey into history with a visit to the Ainokura Gassho Community in Gokayama, a UNESCO World Heritage Site known for its unique thatched-roof houses. Continue to the historic Shirakawa-go village, exploring its timeless architecture and picturesque views."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Travel to Kyoto, where ancient traditions meet modern life."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Immerse yourself in the magical atmosphere of Gion, Kyoto’s famous geisha district. Wander through narrow streets lit by traditional lanterns. Visit Hanamikoji Street and the iconic Yasaka Shrine, soaking in the history and serenity of Kyoto."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Explore the enchanting Arashiyama Bamboo Forest and the exquisite Okochi Sanso Garden. Discover the historic Tenryuji Temple before a scenic walk through the Kimono Forest and crossing the Togetsu-kyo Bridge. End the day with a hike to Iwatayama Monkey Park for stunning views and playful encounters with wild monkeys."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Board a train to Hiroshima and take in the city's contemporary charm and deep historical significance."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Spend a free day exploring Hiroshima at your leisure, discovering its cultural and historical sites."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Continue your journey with a train ride to Fukuoka, a city radiating dynamic energy and culinary delight."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Enjoy a leisurely car ferry ride to Busan, South Korea's vibrant port city, where urban excitement meets a relaxed coastal vibe."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Explore Busan’s beautiful beaches, indulge in local seafood, and stroll through the colorful streets of Gamcheon Culture Village."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Immerse yourself in a serene temple stay experience, engaging in Seonmudo training, meditation, and reflection. Relish in this unique opportunity to embrace the tranquil rhythms of spiritual life."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Immerse yourself in a serene temple stay experience, engaging in Seonmudo training, meditation, and reflection. Relish in this unique opportunity to embrace the tranquil rhythms of spiritual life."
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Travel to the charming city of Jeonju, known for its rich history and vibrant culture."
+    },
+    {
+      "dayNumber": 17,
+      "title": "",
+      "description": "Arrive in Seoul, where tradition and cutting-edge innovation merge. Visit the Jogyesa Temple, wander through the historic Bukchon Hanok Village, and explore the cultural hub of Insadong."
+    },
+    {
+      "dayNumber": 18,
+      "title": "",
+      "description": "Conclude your memorable journey with a heart full of experiences and a deeper understanding of the wonders of East Asia. Safe travels!"
+    }
+  ],
+  "map": ""
+}

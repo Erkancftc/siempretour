@@ -1,0 +1,115 @@
+{
+  "destination": "Mongolia",
+  "mainPhoto": "",
+  "id": "wild-mongolia-golden-eagle-festival-holiday",
+  "tourName": "Wild Mongolia & Golden Eagle Festival holiday",
+  "placesVisited": "",
+  "generalInfo": "Revel in Mongolia’s beautiful mountainous regions, traverse the steppe and desert to discover ancient archaeological sites, stay with a nomadic family and witness the vibrant Golden Eagle Festival.",
+  "durationDays": "11",
+  "price": "5725",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Ulaanbaatar.",
+      "description": "We begin our adventure in Ulaanbaatar, a thriving city, where modern life comfortably blends with the Mongolian traditional lifestyle. Meet your Tour Leader and the rest of your group in the hotel lobby at 5pm for your Welcome Meeting."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Ulaanbaatar.",
+      "description": "Today we explore the fascinating city of Ulaanbaatar and accustom ourselves to the Mongolian way of life."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Ulaanbaatar to Khovd.",
+      "description": "We fly to Khovd city, the entry point to western Mongolia and the capical of the province. Khovd is the most ethnically diverse and distinct region of Mongolia and this is highlighted in the city which is rich in colourful museums, markets and diversity. We enjoy a city tour with our local guide."
+    },
+    {
+      "dayNumber": 4,
+      "title": "To Zereg.",
+      "description": "Today we drive c130km to Zereg. We will have a picnic lunch in the serene landscape on the way. On arrival we will meet our host camel herder family in the evening and spend time getting to know them."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Migration Day.",
+      "description": "The family is moving to their winter camping ground by camel. We will help them to take down their ger, load the cargo and move with their nomadic herders to their next camping spot. After lunch we will assist with building the gers and marvel at the nomadic way of life."
+    },
+    {
+      "dayNumber": 6,
+      "title": "To Khoid Tsenkher Cave.",
+      "description": "Today we visit the expansive cave that has paintings depicting the ancient people who lived in the cave and their ways of life in umber and red ochre. The drawings date back to the 40.000 ago upper Paleolithic period, depicts animals such as stags, buffalo, oxen, ibex, lions, Argali sheep, antelopes, camels, elephants, ostriches, and mammoth."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Drive to Olgii.",
+      "description": "After breakfast we drive to Olgii, the capital of Bayan-Olgii, Mongolia’s most western province. A region famous for its untouched snow-capped mountains and the Kazakh inhabitants that make up nearly ninety percent of Olgii’s population with their rich and unique culture."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Altai Mountains & Tavan Bogd National Park.",
+      "description": "Today we journey into the spectacular mountains to visit some of the pristine lakes of the region. Dayan Lake is our first stop, considered by ornithologists to be of significant importance. The lake remains frozen from June to October but we may be lucky and spot a kestrel or falcon in the area. We will also visit the deer stones and balbal stones, 6-8th century Turkish burial markers. We will spend the evening wth our Kazakh nomadic family hosts."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Altai Mountains & Tavan Bogd National Park.",
+      "description": "We spend the day enjoying the scenery around the shores of Lake Dayan. The landscape is stunning wtih forests and snow-capped mountains."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Altai Mountains & Tavan Bogd National Park.",
+      "description": "Today we will travel further on some challenging roads, deep into the lakes region of Tavan Bogd National Park. The two main lakes, Khurgan Nuur and Khoten Nuur, some 1500-2000 years old, are fed by streams from the surrounding mountains with a number of stunning waterfalls. We will spend the night on Biluut Hill which is full of Turkic origin rock carvings. Everywhere we turn there are magnificent views and pristine scenery."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Altai Mountains & Tavan Bogd National Park.",
+      "description": "Today we make our way to the White River Valley. The astonishingly beautiful valley and freshwayer might even be an opportunity to get your feet wet! We will also have an opportunity to visit Tuvan people, a separate ethnic and cultural group in Mongolia who still live a nomadic life and practice Shamanism."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Shiveet Uul Mountain.",
+      "description": "Today we hike to the impressive Shiveet Uul Mountain with its beautiful blue lakes, 4000m high snow-capped summit, glacier and rich archaeological history."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Return to Olgii.",
+      "description": "Today we drive back to Olgii and spend the afternoon discovering the city further and perhaps including some arts and crafts shopping."
+    },
+    {
+      "dayNumber": 14,
+      "title": "Olgii and the Golden Eagle Festival.",
+      "description": "Get set for a truly unique & unforgettable experience, one that is sure to be a highlight of our Wild Mongolia & the Golden Eagle Festival journey! Each year Kazakh hunters from near and far attend the festival with their prized Golden Eagles, known as Berkut, to enter them into competitions testing their speed, agility and accuracy. Ceremonies, dance performances and a parade in the city square take place in celebration of the Kazakh heritage and traditions."
+    },
+    {
+      "dayNumber": 15,
+      "title": "Olgii and the Golden Eagle Festival.",
+      "description": "The Golden Eagle festivities continue. Join the crowds, who are often as entertaining as the hunters themselves, in cheering the winners and serenading the losers in song!"
+    },
+    {
+      "dayNumber": 16,
+      "title": "To Khovd.",
+      "description": "We return to Khovd for our flight home. On arrival in Khovd we have some time at leisure to reflect on the last few days of festivites."
+    },
+    {
+      "dayNumber": 17,
+      "title": "Return to Ulaanbaatar.",
+      "description": "We join our flight back to Ulaanbaatar to return to where this incredible journey began. On our final day in Ulaanbaatar we will enjoy an amazing performance by traditional throat singers."
+    },
+    {
+      "dayNumber": 18,
+      "title": "Ulaanbaatar.",
+      "description": "We say farewell to our fellow travellers and our journey comes to an end."
+    }
+  ],
+  "map": ""
+}

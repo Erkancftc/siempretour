@@ -1,0 +1,50 @@
+{
+  "destination": "Bolivia",
+  "mainPhoto": "",
+  "id": "bolivia-amazon-tour",
+  "tourName": "Bolivia Amazon tour",
+  "placesVisited": "",
+  "generalInfo": "Madidi National Park is the known to be the richest spot in biodiversity on Earth, a truly planetary treasure of flora and fauna. The sheer numbers of species are gigantic: over 1,000 birds species, 44% of mammals native to the Western Hemisphere, and 38% of amphibians which inhabit both North and South America live here. <br/>We take you to Chalalan Ecolodge, located inside Madidi National Park guided by locals who will teach you about this unique rainforest park and share their  Quechua-Tacana customs and history.<br/><br/>Featured activities<br/>- River travel and exploration in Amazonian rainforest <br/>- Rainforest walks<br/>-Canoeing in a beautiful lake<br/>- Wildlife sighting<br/>- Cultural exchange<br/>-Wildlife photography",
+  "durationDays": "5",
+  "price": "1644",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Rurrenabaque - Chalalán Ecolodge. Transfer to El Alto airport for a morning flight to Rurrenabaque. Welcome to Rurrenabaque! A guide picks you up from the airport and transfer you to the Chalalan office in Rurrenabaque. For the next adventure, we will be taken to the port to board a motorboat that will take us to Chalalan Lodge. The trip will take 6 hours traveling up the Beni and Tuichi rivers. First, we will pass through the Cañón del Bala (Bala George) in the Beni River and later will turn into the Tuichi River to enter Madidi National Park. During this amazing boat ride, we will have a chance to appreciate and enjoy the spectacular scenery of this part of the Amazon, also may observe some wildlife on the river’s bank and beaches. Once we arrive at the Chalalán port, we start a 25-minute walk to the Lake Chalalán where the cabins are located. There will be a reception and welcome in Chalalán Ecolodge, then the guide will show us to our rooms. Shortly after, we will have a welcome lunch and a rest or siesta. Later we will have a short walk and return to the lodge by canoe, this will give us a chance to observe some species of monkeys and birds. At night, we have a short walk on the trail for 1 to 2 hours to observe the nocturnal animals, and also will appreciate the many mysterious sound of the rainforest. (L, D)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Chalalán Ecolodge - Madidi National Park. In the morning after breakfast, we will have a guided walk for 3 to 4 hours exploring the Tapacare trail or similar. Another day to have more opportunities to observe wildlife and learn more about plant and animal natural history. We will have a chance to observe animals such as, squirrel monkeys, howler monkeys, spider monkeys, capuchin monkey and many other species of birds such as toucans, large macaws, parrots, eagles, and guans. The guide will explain more about the rainforest as we walk through this trail. Upon return to the lodge, we will have lunch, and in the afternoon, after some rest, we will take another walk towards El Mirador (Lookout) to enjoy the beautiful scenery of Lake Chalalán and the extensive primary rainforest of Madidi National Park. Dinner and optional canoe rides along the Lake, to see more nocturnal amphibians, birds, fishing bats, and the glowing eyes of the black caimans. (B, L, D)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Chalalán Ecolodge - Madidi National Park. Today after breakfast, we will have a longer hike to the Eslabón River trail, the walk itself takes approximately 6 hours. This time we will be diving deeper to the pristine rainforest and have more opportunities to observe more fauna, such as the black spider monkey, the Brazilian tapir, red brocket deer, or troops of peccaries. It is also a chance to learn more about the Amazon rainforest. while our guides will talk about natural history, as we experience the rainforest. Box lunch in Eslabón River. After a short rest, observing the landscape and taking pictures, we will return to the lodge walking back the same trail. The rest of the day will be at the lodge where we can rest and/or enjoy a refreshing swim in the lake. (B, L, D)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Chalalán Ecolodge – Rurrenabaque. This last day, after an early breakfast, we will take one last short walk in the trails and have one more opportunity to observe wildlife. We will return to the lodge to have an early lunch. As soon as we are done, we start our walk to the Tuichi River port to go back to Rurrenabaque. This boat ride is only 3 hours long, as we will be going with the current. Keep your senses alert because there are always chance of spotting more wildlife on the riverbanks and beaches. Upon arrival at Rurrenabaque, the guide will take you to the hotel. (B, L)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Rurrenabaque - La Paz. We will pick you up from your hotel and then transfer to the airport for a flight to the City of La Paz. Transfer to your hotel."
+    }
+  ],
+  "map": ""
+}

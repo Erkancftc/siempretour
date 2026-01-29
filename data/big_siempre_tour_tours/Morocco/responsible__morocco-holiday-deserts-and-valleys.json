@@ -1,0 +1,60 @@
+{
+  "destination": "Morocco",
+  "mainPhoto": "",
+  "id": "morocco-holiday-deserts-and-valleys",
+  "tourName": "Morocco holiday, deserts and valleys",
+  "placesVisited": "Marrakech, Ouarzazate, Tamegrout, Zagora, Erfoud, Merzouga, Todra Gorges, Dades",
+  "generalInfo": "Pack your bag for the most incredible nights of explorations, spectacular views and experiences. Take in Todra Gorges &amp; Dades Valley, as well Erfoud, one of the largest oases in all of Morocco. The dramatic sunset from dunes of Merzouga will be a memory that will stay with you for a lifetime!<br/><br/>Your holiday includes:<br/>* Private round trip transfers Airport/Hotel/Airport <br/>* Tours as stated with private/shared transport and guides<br/>* Entrance fees to monuments<br/>* Accommodation based on twin/double room inclusive tax and service charges<br/>* Meals as specified (B=Breakfast, L=Lunch, D=Dinner)<br/>* Services of our local agents in Morocco<br/><br/>Your holiday excludes:<br/>* International flights &amp; taxes<br/>* Any meals not specified<br/>* Beverages <br/>* Travel Insurance<br/>* Tipping for guide, driver and hotel staff<br/>* Porterage at airport<br/>* Personal expenses",
+  "durationDays": "7",
+  "price": "1685",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Depart on your outbound UK flight to Marrakech. Upon arrival you will be met and depart towards Ouarzazate via the Tizin ‘Tichka pass. Check in at your hotel for dinner and the rest of the day at leisure. (D)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Today head to the oasis of Ouarzazate, a former outpost of the French Foreign legion. Continue along the scenic Draa Valley to Zagora along the “Road of One Thousand kasbahs”. Stop to visit these earthen fortified structures with their indigenous Berber bas-relief decoration. Visit the village of Tamegrout famous for centuries for its rich green pottery. Zagora, the door to the saharan desert, was a large commercial centre where goods and wealths of Africa, salt, ivory, slaves, gold, were traded for the marvels of Moroccan crafts, leather, carved woods. Zagora, the door to the saharan desert, was a large commercial centre where goods and wealths of Africa, salt, ivory, slaves, gold, were traded for the marvels of Moroccan crafts, leather, carved woods. Continue to your hotel for check-in, dinner an overnight. (B,D)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Depart to Erfoud, in the Tafilalet Oasis. Drive through the scenic Todra Gorges and the Dades Valley. Continue down the route of kasbahs past acres of roses and stop for a walk a date oasis, one of the largest, most decorated kasbahs in Morocco. Enjoy lunch at leisure en route. Arrive at Erfoud, one of the largest oasis in all of Morocco. This region is famous for its almost one million date palm trees. Your 4x4 will drop you at Auberge Kasbah Tombouctou. Here you can refresh and relax during your afternoon at leisure. (B,D)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "After breakfast, visit the souk of Rissani- the largest in the region. Explore the crumbling ruins of once-grand Kasbahs, now half buried by sand. Especially notable is Sijlimassa, although the crumbling ruins of this legendary destination reveal nothing of its glorious past, it is hard to overestimate the role of Sijlimassa in Saharian trade. The legendary route across the desert to the secret gold-mines was full of danger, intrigue and great risk. Lunch is at leisure en route. Transfer to the dunes of Merzouga, one of the truly great sights of Morocco, in time to admire the sunset. Dinner and overnight under the stars in a private encampment. (B,D)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "After breakfast depart to Ouarzazate via Todra Gorges and Dades enjoying the spectacular scenery en route. The rest of the afternoon is at leisure in Ouarzazate with dinner and overnight once again at the Kenzi Azghor hotel. (B,D)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Depart towards Marrakech (roughly 4 hours driving distance, 250 kms). On arrival, check-in at your hotel and in the afternoon enjoy a city tour of Marrakech. Visit El Bahia Palace, explore Souks, a riot of colour, noise and activity, watch the craftsmen at work. Continue to Djemâa El Fna square, in the past a centre for public meetings and even riots. Today it provides constant ever-changing entertainment, where a real image and the charm of Moroccan folklore is operating: story tellers, snake charmers, acrobats, folkloric bands. Dinner and overnight accommodation at your hotel. (B,D)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Return to Marrakech airport for your return flight home. (B)"
+    }
+  ],
+  "map": ""
+}

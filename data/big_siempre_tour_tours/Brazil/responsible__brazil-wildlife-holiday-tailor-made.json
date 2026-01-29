@@ -1,0 +1,80 @@
+{
+  "destination": "Brazil",
+  "mainPhoto": "",
+  "id": "brazil-wildlife-holiday-tailor-made",
+  "tourName": "Brazil wildlife holiday, tailor made",
+  "placesVisited": "Rio de Janiero, The Pantanal, Uakari Lodge, Mamirauá Reserve",
+  "generalInfo": "This tailor made Brazil wildlife holiday takes you to a country full of contrasts, with everything from wild, empty beaches, to rainforests brimming with plants and wildlife. It includes both the biggest jungle in the world and the biggest wetlands in the world. <br/><br/>The first stop on your tour is to the mighty Iguacu Falls on the border between Brazil and Argentina, one of the world’s greatest natural phenomena. In the midst of a subtropical nature reserve, the earth seems to open up and 275 separate falls crash over a horseshoe-shaped precipice, nearly five kilometers wide and 90 meters high. Spectacular all year round, we recommend two days here to fully explore the falls on both the Argentinian and Brazilian sides.<br/><br/>From Iguacu you will continue on to Rio de Janiero, where you’ll take in the sights in the company of an experienced local guide. As well as visiting the famous Sugarloaf Mountain and Corcovado, you’ll also get an insight into local life through a BBQ lunch at a traditional restaurant and a visit to some “favelas,” or shanty towns. <br/><br/>Next, you’ll head (via internal flight) for the Pantanal – a vast wetland that’s around half the size of France. It may be one of the least explored areas in Brazil, but it’s also one of the most wildlife rich, with over 650 species of bird and 260 fish species. What makes a visit here even more special is the fact that you can explore on foot, on horseback or by canoe. <br/><br/>A couple more internal flights later and you’re in Manaus in the Amazon. From here you’ll make your way to Uakari Lodge, which floats on the Rio Solimoes, within the Mamirauá Reserve. The lodge is simple, but the incredible location means that you can spot plentiful wildlife and drink in beautiful views without even leaving the premises. The lodge itself is quite simple, however the wildlife in the surrounding area is abundant. You can expect to see endemic species such as the white uakari monkey and the black headed squirrel monkey, as well as the Amazon pink river dolphin, the red howler monkey, the scarlet-macaw, the harpy eagle and the black cayman. <br/><br/>The best time to visit the Pantanal is the dry season of May to September, when there are fewer mosquitoes and the mammals, reptiles and birds are around the water sources and therefore easier to spot. This is also the perfect time to go to the Amazon as the nights are cooler, the skies are filled with stars and the birdwatching is top-notch.<br/>",
+  "durationDays": "14",
+  "price": "6825",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly from London to Rio."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Upon arrival in Rio you will be met at the airport and privately transferred to your hotel."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Sightseeing in Rio. Spend a day visiting the stunning sights of Rio such as Sugarloaf Mountain and Corcovado."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "A day to explore the rest of the city. There are a number of interesting tours including a half day in the old town, schooner trips out to the surrounding bays, or hiking in the Tijuca forest."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Pantanal. Fly to the Pantanal and enjoy excursions from your lodge."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Excursions from the lodge with your naturalist guide."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Fly to Manaus and spend the night in the Amazonian city before heading into the jungle."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Transfer to Anavilhanas Jungle Lodge and partake in excursions."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Excursions from the lodge with your naturalist guide."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Fly to Sao Paulo for your return flight to the UK."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Arrival back in the UK."
+    }
+  ],
+  "map": ""
+}

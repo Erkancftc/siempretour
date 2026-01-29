@@ -1,0 +1,60 @@
+{
+  "destination": "Botswana",
+  "mainPhoto": "",
+  "id": "botswana-fly-in-safari-holiday",
+  "tourName": "Botswana fly-in safari holiday",
+  "placesVisited": "Maun, Moremi Game Reserve, Okavango Delta, Chobe National Park, Optional trip to Victoria Falls",
+  "generalInfo": "Taking you to three amazing safari camps and lodges, this fly-in safari gives you a comprehensive, yet affordable, Botswana experience. <br/><br/>Botswana has several world-famous safari destinations. Each one is a unique and distinct experience. By flying between them, you have plenty of time to explore and catch sight of Botswana’s wildlife rich area. There are the life-giving waterways of the Okavango Delta and the wildlife-rich Chobe National Park, adjacent to the magnificent Victoria Falls, where your safari ends.<br/><br/>The Okavango, your first stop on your trip, offers the chance to see lion, leopard, buffalo, elephant, hippo, crocodile, plains of zebra and a variety of buck and the area is renowned as being a bird-watchers paradise. Consisting of a vast river which never meets the sea, the Delta spreads across the Kalahari Desert to create a wetland paradise.  <br/><br/>Next is Chobe National Park which boasts the largest concentration of elephant in Africa along with countless other game and bird life. All of the areas are pristine and under strict conservation policies to ensure the continuation of wildlife here.  <br/><br/>At the end of your trip, you could opt to spend a day exploring one of the Seven Wonders of the World, the dramatic sights of Victoria Falls, where a curtain of water 1708m wide plunges 103m in to the Zambezi Gorge below. <br/><br/>Throughout your trip you will stay in comfortable lodges and you will be accompanied by an expert, English speaking guide and meals, game drives and other activities are included where specified.",
+  "durationDays": "7",
+  "price": "3355",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Oddballs Camp. On arrival in Maun you will be transferred to the airstrip for your first internal flight into Moremi Game Reserve and your safari camp. Overlooking the reed-fringed lagoon, your camp will enjoy regular visitations from local wildlife, in particular the resident herd of hippos. Your accommodation is in one of 15 en-suite safari tents, each uniquely positioned under the shade of the acacia trees and with views into the surrounding woodland. (L, D)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Game Drives. Spend the day exploring the vast Okavango region – Africa’s largest wetland wonder which creates a haven for wildlife. You day will be spent on game drives (morning and evening) where qualified guides will show you the best that the park has to offer. Other activities include a Mokoro fishing trip into the Delta or relaxing at the camp and enjoying its facilities which include a lounge and bar area. (B, L, D)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Khwai Guest house. Board your plane for your next flight which takes you to Khwai. Lying on the eastern fringes of the Okavango Delta with a rich wildlife population and no borders drawn around it on the map, Khwai is often overlooked in favor of its more famous neighbors. The Khwai River is a beacon for wildlife and plays host to leopards stalking lechwe in the long grass, lions swimming from the banks to save their cubs’ during territorial disputes and crocodiles competing with wild dogs for a midday meal of impala. As Khwai lies outside the parks, it offers the freedom and flexibility normally only possible with the heavier price tag of a private concession. Go off-road for a closer look at sightings, night drive in search of nocturnal species, and, with a little advance planning, head out on game walks to track wildlife on foot. Khwai is also home to a village community where people live side by side with the resident wildlife. Blending traditional African feel with a stylish and welcoming modern touch, the guest house comprises of 10 en-suite bungalows, 2 of which are family units. All rooms are en-suite with a shower. (B, L, D)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Chobe Elephant camp. Your third flight of the trip brings you to Kasane and Chobe, which sits in the heart of Chobe National Park. Located high on the edge of a rocky ridge overlooking the famous Chobe River is Chobe Elephant Camp. This uniquely designed lodge has been built to take advantage of the incredible views overlooking the sweeping floodplains while offering a comfortable refuge from the harsh African conditions. Activities include viewing the regions spectacular wildlife from open safari vehicles and by boat on the Chobe River as well as a cultural visit. Chobe will leave you feeling tiny as giant elephant bulls stroll up next to your vehicle or snorkel alongside your boat. It will make you feel lost as hundreds of hippos and buffaloes crowd you out on the floodplains. It will put your heart in your throat as prides of lions stalk antelopes by the water’s edge, and it will leave you alone with your thoughts while the classic red sunsets melt over the river to a soundtrack of whistling fish eagles. (B, L, D)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Depart. Transfer for the airport for your return flight home. (B)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "OPTIONAL EXTRA Victoria Falls. An early transfer to Victoria Falls and your charming, Edwardian-style hotel where world-class service and top-end facilties mark the end of your incredible Botswana safari adventure. Enjoy an afternoon tour of Victoria Falls, taking in the Devils Cataract, Main Falls and Horseshoe Falls before enjoying a sunset cruise down the Zambezi River in the late afternoon. (B)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "OPTIONAL EXTRA Depart. Transfer for the airport for your return flight home. (B)"
+    }
+  ],
+  "map": ""
+}

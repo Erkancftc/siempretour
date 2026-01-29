@@ -1,0 +1,55 @@
+{
+  "destination": "Ecuador & Galapagos",
+  "mainPhoto": "",
+  "id": "galapagos-diving-tour",
+  "tourName": "Galapagos diving tour",
+  "placesVisited": "",
+  "generalInfo": "In this Galapagos Diving Tour, you will explore the Galapagos Islands with a combination of organized day tours with an English-speaking guide and time to explore by yourself with our self-guided packages. You will stay in local tourist superior class hotels with a private rooms and bathroom. All tours include some meals, transportation on and between the islands, and activities mentioned in the tour itinerary. Explore the Enchanted Islands with this Galapagos Diving tour!",
+  "durationDays": "6",
+  "price": "1843",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Today, your Galapagos Diving tour starts. Upon arrival at Galapagos (Baltra Airport), our transportation will take you to Puerto Ayora. This afternoon you are free to visit the Charles Darwin Station. Here you can get plenty of information about the Galapagos Islands. Before dinner, our dive master will meet you in the Hotel to organize everything related to your next two days of diving."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "After breakfast, the dive guide will take you to one of the dive sites around Santa Cruz. The place you visit will depend on the day of the week you are visiting. You can check the schedule in the ‘Additional Information’ section. You will reach the dive sites by speedboat. Depending on the dive site, this ride will take you between 30 minutes and 2.5 hours. You will have two immersions here. The dive equipment is included. The maximum depth for this dive site is 30m."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "On the third day of your Galapagos Diving tour, you will have another dive day. You will go to one of the spots by speedboat. Where you go depends on the day of the week you are visiting, as specified before. You will have two immersions."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "This day will offer some free time in the morning where it is recommended to spend time in Tortuga Bay. This luxurious white sand beach is a great place to see marine iguanas and have the opportunity to go kayaking along the coast. Many travelers spot Tintoreras sharks while exploring here. In the afternoon, after lunch, you will take a speedboat to Isabela (about 2,5 hours), where you will visit the Flamingo Lagoon and spend the night relaxing."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "This day will offer some free time in the morning where it is recommended to spend time in Tortuga Bay. This luxurious white sand beach is a great place to see marine iguanas and have the opportunity to go kayaking along the coast. Many travelers spot Tintoreras sharks while exploring here. In the afternoon, after lunch, you will take a speedboat to Isabela (about 2,5 hours), where you will visit the Flamingo Lagoon and spend the night relaxing."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "This is the last day of your Galapagos Diving Tour. After breakfast, you will travel to Baltra Airport with a Spanish-speaking driver, where you will depart to Quito or Guayaquil."
+    }
+  ],
+  "map": ""
+}

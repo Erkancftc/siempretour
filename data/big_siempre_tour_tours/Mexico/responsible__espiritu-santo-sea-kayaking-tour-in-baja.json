@@ -1,0 +1,55 @@
+{
+  "destination": "Mexico",
+  "mainPhoto": "",
+  "id": "espiritu-santo-sea-kayaking-tour-in-baja",
+  "tourName": "Espiritu Santo sea kayaking tour in Baja",
+  "placesVisited": "",
+  "generalInfo": "Boasting some of the world’s most beautiful beaches, Isla Espiritu Santo lies just off the southeast coast of Baja California. This adventurous trip includes days spent kayaking through the pristine waters of this UNESCO Biosphere Reserve where dramatic headlands plunge into the turquoise waters of the Sea of Cortez.  <br/> <br/>Aside from its healthy populations of pelicans and dolphins, Isla Espiritu Santo remains uninhabited, which only adds to its allure. You’ll have the opportunity to go hiking through its colorful arroyos with their iconic cacti and snorkel amidst hundreds of tropical fish on the shallow reefs. Nights will be spent at spellbindingly beautiful beach camps where you’ll be treated to unparalleled stargazing in the skies above. <br/> <br/>A highlight of the trip is snorkeling with sea lions at Los Islotes, a series of volcanic islets where playful pups can be seen diving into the waters below. There is also the option to add on a day tour to go snorkeling with whale sharks off the coast of La Paz at the end of your trip.  <br/> <br/>This kayaking trip is panga-supported and all of the heavier gear will be transported to our beach camps by boat, ensuring your kayak is light and easy to paddle. Delicious meals inspired by Mexican cuisine will be prepared by your guides, offering a unique taste of Baja California.",
+  "durationDays": "5",
+  "price": "2090",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 0,
+      "title": "",
+      "description": "Arrive in La Paz - After flying into La Paz, make your way to the hotel (not included) and spend the afternoon exploring the town at your leisure. Dinner is at a restaurant of your choice and we highly recommend a sunset stroll along the Malecon. In the evening, you’ll meet your guides for an orientation meeting in the lobby of the 7 Crown Centro Hotel. Accommodations: Not Included. Meals: Not Included."
+    },
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Isla Espiritu Santo - After breakfast, we’ll board a panga to be transported to Isla Espiritu Santo. Here, you will learn the basics of paddling and safety in the water from your guides before embarking on your first paddle to our campsite. All of the heavier gear, food, and water will be transported by panga, ensuring your kayak is light and easy to manage. Accommodations: Beach Camping. Meals: Lunch, Dinner."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Explore Isla Espiritu Santo - Rise to the smell of freshly brewed coffee or tea as you watch the day’s first rays illuminate the island. Following a hearty breakfast, we’ll head out on a morning paddle, with most days including around four hours of kayaking, including floating rest stops. Each day we will head to a new campsite, ensuring you get to explore as much of the area as possible. In the afternoons, there will be plenty of opportunities to go snorkeling on the surrounding reefs and hiking the island’s arroyo trails, with your knowledgeable guides sharing the natural history of the area. Alternatively, you may opt to simply relax on the beach and marvel at the changing light as the sun sinks towards the water. In the evenings, you’ll be treated to exceptional stargazing, with an almost complete lack of light pollution in the area. If you’re lucky, you may even witness blue bioluminescence glowing in the shallow waters. Accommodations: Beach Camping. Meals: Breakfast, Lunch, Dinner."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Los Islotes - This morning we will travel by panga to see the colony of sea lions that inhabit Los Islotes and snorkel amongst them. This is an incredible experience, with many of the pups incredibly curious and eager to interact. The panga will then transport you back to La Paz where you will have time to refresh with a shower and enjoy a walk along the Malecon. In the evening, we will meet for a farewell dinner at a harbour-facing restaurant. Accommodations: Not Included. Meals: Breakfast, Lunch."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "*Optional additional day in La Paz - While some guests may opt to fly home today, you can extend your stay to experience snorkeling with whale sharks during a morning expedition. As the world’s largest fish, these immense creatures can reach lengths of up to 42 feet. Each year between October and April, they migrate to the shallow waters of La Paz’s bay to feed on the abundance of plankton in the area. Accommodations: Not Included. Meals: Lunch."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "*Optional alternative departure - With no scheduled activities, you are free to depart La Paz at a time that suits you, ensuring you get to the airport at least two hours before departure. If you’re flying out of Cabo (SJD), make sure you allow adequate time for the shuttle to get you there."
+    }
+  ],
+  "map": ""
+}

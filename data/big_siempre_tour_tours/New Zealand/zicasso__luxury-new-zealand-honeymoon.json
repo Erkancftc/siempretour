@@ -1,0 +1,105 @@
+{
+  "destination": "New Zealand",
+  "mainPhoto": "",
+  "id": "luxury-new-zealand-honeymoon",
+  "tourName": "Luxury New Zealand Honeymoon",
+  "placesVisited": "Kaikoura, Marlborough, Rai Valley, Abel Tasman National Park, Wanaka, Queenstown, Doubtful Sound",
+  "generalInfo": "The romantic view of the snowcapped Remarkables Mountain Range sits outside your veranda. Your secluded room in the treetops gives you the vast expanse of the open valley. The luscious flavors of award-winning vineyards are yours to taste. The opulent water of the river rushes below you. This is your honeymoon in New Zealand, where the landscape is breathtaking, the people are friendly, the fun is never-ending, and the honeymoon never has to stop.",
+  "durationDays": "16",
+  "price": "18,300",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Kaikoura – A Budding Romance",
+      "description": "Your romantic journey through New Zealand begins in Christchurch, the Garden City, where the Avon River meanders through the parks, gardens, and the city center. The cobblestone streets, trolley cars, and budding gardens give you the feeling that you have landed in Switzerland, as the surroundings of Christchurch are lush with rolling hills, adding to the charm and beauty of the city and the South Island. Enjoy a romantic cruise down the Avon, where the vibrant lupines blossom along the riverbanks and daisies glow in the distance amongst the grass. The scent of fresh flowers embraces you as you drift along the calm water. The adventure continues as you make your way to Kaikoura. The city is nuzzled between the snowcapped and glistening Seaward Kaikoura Mountains and the South Pacific Ocean. Settle into the secluded luxuries of the Hapuku Lodge and Tree House. Your accommodation sits amongst the canopy as the mountains linger outside your door and the ocean shore laps outside your window. The fresh scent of citrus and pine emanates from the treetops. You can rest comfortably, quietly, and privately just above the surface of the valley below."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Kaikoura – An Intimate Swim",
+      "description": "Today you will have the unique experience to swim with dusky dolphins with the guidance of New Zealand’s first operator to offer a watch and swim tour. The boat weighs anchor and the soft, sweet scent of the ocean surrounds you. The dolphins begin to play in the boat’s wake as you come closer to the pods. Whether from the dry deck of the boat or beneath the surface of the water, you will never miss a second of the dolphins’ eccentric curiosity and playfulness. You can feel the cold water on your cheeks as you immerse yourself in the South Pacific Ocean. The pods can grow to several hundred strong, all leaping from the water and diving beneath the surface. Swim next to them as the try to race one another and you. Try to breach the surface with the speed and elegance of the dolphins, their black and white skin shimmering in the sun. The mountains in the distance call you back, and the intimate swim with the dusky dolphins comes to an end. The secluded beauty of the Hapuku Lodge soothes and indulges you."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Kaikoura – Uniquely Your Own",
+      "description": "Today you will once again wade out into the water for a fabulous whale-watching excursion. During the season you can see pods of whales from the shores of the city, but today will give you the opportunity to get close to the pods in their natural environment. The sea breeze blows through your hair as the bay recedes into the distance. The boat sways in the calm water. You can hear the puff of a blowhole; the spray wisps out from the water. From the gentle pod of Humpback whales to the incredible girth of the Blue whale, the experience is uniquely yours. Watch the whales breech the ocean surface, crashing back down into the water with incredible force. You can hear their cry muddled from beneath the sea. The dusky dolphins often make an appearance and play next to the boat and even next to the whales. Eventually, the whales continue along their journey and you make your way back to shore."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Marlborough – Romantic New Zealand Countryside",
+      "description": "Take leave of the stunning city of Kaikoura and make your way to the fabulous region of Marlborough by way of Blenheim. Just outside of the city you will see a sensational amount of seals sunbathing on the rocks. Their barks and scurries mix with the crashing waves. The road travels along the Pacific Coast and eventually through the salt works at Lake Grassmere. For a unique visit, stop at Sawcut Gorge. The limestone walls are smooth and damp. The water is clear and cold to the touch. Whether you want to linger in the rushing water or wander amongst the beautiful flora, the gorge will always inspire. Once in Marlborough you will cozy up into the luxuries of a wine country cottage. The soft décor, the luscious estate, and the interesting history help create the decadent charm of the five-star accommodation. Sit along the patio of your cottage and watch the vineyards expand into the foothills. The mountains stand tall on the horizon as the sun begins to set, making the valley glow in the dwindling light."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Marlborough – A Lovely Taste of the South Island",
+      "description": "Taste the love and romance that goes into the Sauvignon Capital of the World on a delicious wine tour of the area. Due to the high sunshine and an easy climate, the sweeping mountains and diverse soil, there is an exceptional array of varietals no matter the time of year. With over 40 vineyards offering tastes of their award-winning wines and their personal favorites, take advantage of the depth and multiplicity of flavors. Saint Clair’s Sauvignon Blanc is perfumed with passion fruit and blackcurrant, with a rich palate, and a silky long finish. However the luscious wine of the Kim Crawford Vineyard offers hints of grapefruit and green apple, accented with apricot. The bright acidic finish gives a lingering freshness to your taste buds. But more than the flavors of the wines is the awesome and romantic scenery, bursting with green vineyards and rolling mountains. The scent of rich earth fills the valley and the sky opens up to unparalleled blue. As the sun sets over the valley you can watch the blue fade to an enrapturing blend of purple and orange as you settle into the delightful evening."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Rai Valley – The Secluded Valley",
+      "description": "Today you will leave behind the luscious flavors and expansive sky of Marlborough and make your way to the majestic seclusion of the Rai Valley. The cottage feel of your lodge is quaint and eloquent. The lodge is scented with cedar, surrounded by an expanse of tall trees and open farmland. The perfect blend of luxury accommodation and privacy, you can hear the bleating lambs scampering through the brush, the whinny of horses as they trot along the tree line, and the quiet rustling of leaves as the breeze blows softly through."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Rai Valley – A Private Escape",
+      "description": "Hop along the famous horses of New Zealand where the characteristics of reliable and friendly go beyond defining just the people. Traverse the farmland, the forest, and the marshes on a tender horseback adventure. The trees tower high above the Pelorus riverbanks, strewn with golden grass and smoothed rocks. The gentle trickle of the river lingers in the air. The soft bounce of the horse’s trot drives you forward. Whether you prefer a short jaunt along the river or a more romantic endeavor that includes the decadent fizz of a champagne lunch, the ride through Rai Valley is more like a dream than an adventure."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Abel Tasman – Natural Beauty and You",
+      "description": "You will depart from the secluded beauty of Rai Valley and make your way to the fabulous city of Nelson and the majestic Abel Tasman. Nelson is situated within the magnificence of cool alpine lakes, raging rivers, and expansive sapphire coastlines. The scent of berries, olives, and pears fills the orchards and grapes and hops are also handcrafted into divine wines and unique beers. The surrounding bay offers sensational fish, scallops, and clams cooked to perfection in the many restaurants within Nelson’s city center, where the decadent scent of mussels steeped in garlic and cream drifts out from the open restaurant doors. From the light crash of the opulent sea to the gentle rustle of the orchard leaves, the natural beauty of Nelson is all-encompassing and all around. Continue on to your fabulous Abel Tasman accommodations overlooking the picturesque Tasman Bay. The lodge is situated between the ocean and the mountains, beneath the vast clear and sunny sky. The tide laps at the shore. Birds feed in the shallow water. The scent of freshly blossomed roses surrounds the lodge as you wander through towering trees and swaying grass. Relax in style and comfort as the sun spreads its light on the sea and sinks comfortably over the horizon."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Abel Tasman – Adoring Flights of Fancy",
+      "description": "Today you will experience the stunning beauty of Abel Tasman by both land and sea as you climb into a helicopter and head deep into Abel Tasman National Park and through Tonga Marine Reserve. From the sky you can see the opulent sapphire color of the sea. The forest is dense and rich as the helicopter sets down and you climb aboard your kayak. The water is cold on your toes. The air is crisp and warm. The scent of the sweet seawater drifts from the ocean. The water changes colors from sapphire to jade as the sun glides across the sky. Sea lions laze on the cool boulders jetting from the rocky shore. You can see dorsal fins floating next to your kayak. The cold cools your skin in the warm afternoon. The hot sand of the shores is inviting. Stroll through the lush trees to Awaroa Lodge where a delicious lunch awaits. You can hear the Tui sing in the trees. The scent of fresh fish and golden potatoes wafts from your plate before you embark once more by helicopter to make your way back to your lodge."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Wanaka – The Dream of Relaxing Luxury",
+      "description": "Today you will board a domestic flight that will take you to the sensational beauty of Wanaka where a five-star retreat awaits you. Wanaka is known for its reflectively clear lake, the Crown Ranges, golden fields, and its isolation. Winding rivers stretch along the valleys, native beech forests loom beneath the dramatic glaciers of the Southern Alps, and lush alpine meadows glow in the sun. Nuzzled on the outskirts of the Wanaka Township, you will sit in the lap of luxury and watch the uninterrupted mountain views as the scent of fresh flowers fills your suite. Regional flavors, such as wine and produce, welcome you into the decadent confines of the lodge. The lupines sway in the lake breeze. The mountain range stretches around you. Let the luxury surround you and the romance overtake you."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Wanaka – It’s Better with a Chill",
+      "description": "Snuggle up close as today you will venture into the chilly depths of a Siberian adventure. Your journey begins with an airplane flight into the remote Siberia Valley. New Zealand’s wilderness expands beneath you as rugged mountains ascend, glaciers glow in the sunlight, mountain lakes glisten turquoise, and hanging valleys sprawl beneath the foothills. The plane lands in the heart of the Siberian Valley where you can walk towards the crystal clear and clearly cold waters of Siberia Stream. Follow your guide and the river into the impressive beech forest. The trees are thin and emanate the scent of juniper. The sound of babbling water is replaced by birdsongs, until the trees disperse and you begin your jet-boat safari. Speed through the Wilkin Valley with the fresh air blowing through your hair, the sweet, cool mist on your cheeks, and the vibrant grass swaying in the alpine breeze. As the day comes to an end you can look back at the mountain range, having seen the breathtaking beauty of the Siberian Valley, and know that there will always be more splendor ahead."
+    },
+    {
+      "dayNumber": "12",
+      "title": "Doubtful Sound – A Tender Cruise",
+      "description": "Today you will venture through the windy, golden scenery of Crown Range and make your way to Manapouri where you will begin your cruise through the breathtaking Doubtful Sound. The three-mast cruise liner will set sail along the opulent waters of the sound. The lush mountains plunge deep into the water’s depths, and loom tall above the water’s surface, dwarfing the ship and you along with it. Doubtful Sound is filled with serene silence. The water is calm across the meandering foothills. Waterfalls careen down the mountainsides. The beauty of Doubtful Sound is unique, tranquil, and dreamlike. The sunset changes the sky from blue to magenta until the sunlight melts behind the mountains. When night blankets over the sound, the twinkling of stars brightens the sky and reflects on the water’s surface. The Milky Way swirls around the stars and the sound giving you an unparalleled view of the night sky, Doubtful Sound, and life’s ineffable wonders."
+    },
+    {
+      "dayNumber": "13",
+      "title": "Queenstown – The Beauty of the Royal Treatment",
+      "description": "The crisp morning air surrounds the boat as you cruise back to the Manapouri. The subtle crash of waterfalls dissipates and you are on your way to the luxurious alpine city of Queenstown. Settled between the opulence of Lake Wakatipu and the foothill of Bob’s Peak, the Remarkables Mountain Range wraps around the far side of the lake, its white-tipped peaks piercing the sky like a line of pillows. Enjoy the comforts and charm of your lodge located in a private corner that offers sensational views of the lake, the Remarkables, and the city itself. The breeze flutters in from off the water. The Remarkables sparkle in the distance and the main street of Queenstown is a close walk away. The bustling heart of Queenstown feels more like an alpine village than a city; the streets are decorated with gaslights, the stores sport pinewood facades, and the mountains are visible in almost any direction."
+    },
+    {
+      "dayNumber": "14",
+      "title": "Queenstown – Stunning Simplicity",
+      "description": "Take in the luscious scenery around Queenstown on a jet-boat cruise of Dart River. Speed through the glistening blue water of the Dart River as mountains tower around you. The peaks practically extend to the riverbanks, giving way quickly to rocky shores. The untouched air of the valley surrounds you, perfumed with fresh water and pine. As you disembark from the boat you will be guided through the ancient forests, where beech trees spire high, unchanged for millennia. The sound of chirping birds and rushing water lingers among the trees. The scent of juniper drifts from the bark. The trees hide the mountains, the river disappears, and you make your way through paradise. The rich green fields, the stunning clear lakes, and the quant township rest in the quiet as you travel the roads back to Queenstown."
+    },
+    {
+      "dayNumber": "15",
+      "title": "Queenstown – Together Through It All",
+      "description": "With your last full day in Queenstown ahead of you there is no reason not to experience the romantic landscapes of New Zealand one last time on a scenic flight over Fiordland National Park, home to the famous Milford Sound. The sound from above is breathtaking as you soar over the waterways and mountaintops. Mitre Peak sits below you with snow-capped opulence as Sutherland Falls thunders down the mountainside being fed from the crater’s lake at the top. You can practically hear the water crashing down the mountain over the thump of propellers. The helicopter lands on one of the many glaciers in Fiordland National Park where you are able to explore the ancient, frozen water. It shines turquoise and white in the bright sun. The craggy terrain looks like a frozen river with crevices and tunnels hidden at every turn. The snow is cold on your skin and the sight is unparalleled. The sound of crunched ice comes from your stomping feet before you board the helicopter and ascend, once again, into the air. Moonlight and Shotover Canyon sit below you, the rushing water flowing jade and white, the trees rustling in the wind. As you set down in Queenstown you know that there is no end to the exceptional romance of the New Zealand landscape."
+    },
+    {
+      "dayNumber": "16",
+      "title": "Queenstown – The Dream Continues",
+      "description": "Today you will transfer to the Queenstown Airport. The majesty of New Zealand has been explored, tasted, and experienced over the past 16 days. The warm sandy beaches, the cold glacial lakes, the thundering waterfalls, and the rolling mountaintops have given you non-stop excitement. The soft beds, decadent wines, friendly people, and delicious food have given you non-stop luxury. Your journey through New Zealand may be coming to an end, but as you ascend over the calm waters of the Pacific you know that the honeymoon never has to stop. If you really don't want your time in New Zealand to end, consider adding on to your trip. Be sure to read the travel reviews for New Zealand luxury tours section."
+    }
+  ],
+  "map": ""
+}

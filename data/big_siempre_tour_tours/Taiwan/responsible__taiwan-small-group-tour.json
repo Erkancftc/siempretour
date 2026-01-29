@@ -1,0 +1,70 @@
+{
+  "destination": "Taiwan",
+  "mainPhoto": "",
+  "id": "taiwan-small-group-tour",
+  "tourName": "Taiwan small group tour",
+  "placesVisited": "",
+  "generalInfo": "Experience the wonders of Taiwan on this 9-day group tour designed for travellers seeking adventure and cultural immersion. Explore the vibrant streets of Taipei, the tranquil shores of Sun Moon Lake and the wonderful geological formations of Kenting National Park to uncover the rich tapestry of Taiwan's history and indigenous heritage. Stop at renowned historical sites, local villages and traditional markets, all while sharing the experience with like-minded explorers.<br/><br/>As you travel through breathtaking national parks and bustling cities, each day offers new opportunities to connect with the local culture. Enjoy luxurious accommodations and indulge in authentic culinary delights with your fellow travellers. Whether you're marvelling at the stunning coastline or delving into the intricacies of traditional crafts, this group tour promises to create lasting memories as you discover the captivating essence of Taiwan.<br/><br/>**Please contact us for final confirmation of price (subject to confirmation of flight price).",
+  "durationDays": "9",
+  "price": "2225",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly to Taipei."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Land Taipei. Upon arrival you will be transferred to the hotel. The remainder of the day is at leisure."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Depart Taipei and head to Sun Moon Lake National Scenic Area, the largest freshwater lake in Taiwan. The lake is divided by Lalu Island, with its eastern side resembling the sun and the western side resembling a crescent moon, which inspired its name. After lunch, take a scenic bus tour around the lake. Start at Ita Thao, an indigenous village that provides insight into Thao culture before continuing to Ci'en Pagoda, built by former President Chiang Kai-shek in honour of his mother. The tour will also include visits to Xuanzang Temple, a tranquil Buddhist sanctuary, and Wenwu Temple, a significant Taoist temple. Guided commentary will enhance understanding of the area's history and cultural significance. (B)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "This morning head to Tainan, the oldest city in Taiwan. Stop at Fort Zeelandia, built by the Dutch East India Company and later rebuilt by the Japanese after damage from the British. Stroll along Anping Old Street, established over 300 years ago and known for local specialities like tofu pudding and shrimp rolls. Continue to Kaohsiung, the most populous city in Southern Taiwan. Visit Fo Guang Shan Monastery, famous for its 36m-tall golden Buddha Amitabha and 480 smaller statues. A monk will provide insights into Buddhism during the visit. (B)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "After breakfast, head south to Kenting National Park, known for its coastal geological formations and scenic landscapes. The day includes stops at various attractions, such as Maopitou, resembling a crouching cat; Chuanfan Rock, which looks like a ship's sail; Eluanpi Lighthouse, a historical site from the Qing Dynasty; and Longpan Park, offering views of the Pacific Ocean from a coral limestone plateau. (B) The journey continues to Taitung along the scenic South Link Highway, showcasing the region's diverse landscapes. The day concludes with an overnight stay at a hot spring resort in Zhiben, Taitung County, famous for its carbonate hot springs, which are known to improve blood circulation and relieve fatigue. (B)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Today continue along Taiwan's east coast, known for its pristine natural beauty. Visit notable scenic spots such as Xiaoyeliu, Sanxiantai, Shitiping and Fanshuliao, each showcasing unique geological features. Visit Sanxiantai, an offshore island connected by a cross-sea bridge, recognised as a prominent landmark in the East Coast National Scenic Area and continue to Shitiping, known for its well-developed sea erosion terrace featuring cliffs and natural formations formed over millions of years. The day concludes with a comfortable train ride from Hualien to Yilan. (B)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "After breakfast visit the King Car Kavalan Whisky Distillery, renowned for its exceptional flavours crafted from pristine water sources in the Central and Xueshan Mountain Ranges. Next, the tour heads to the National Centre for Traditional Arts, a spacious park showcasing traditional Taiwanese architecture. Engage in various cultural activities, including exhibitions, performances, and workshops like puppet shows and pottery making. The tour concludes with a bus ride back to Taipei City, where you will be dropped off at your hotel. (B)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Join a classic Taipei day tour to explore the city’s iconic historic landmarks and modern attractions. This guided tour offers insights into the past, present, and future of Taipei City. The tour includes a visit to the National Palace Museum, which houses the world’s largest collection of ancient Chinese artefacts. Continue to the Chiang Kai-shek Memorial Hall, a significant monument symbolising a key period in Taiwan's history, and Lungshan Temple, a representation of local religious beliefs and practices. The itinerary also features Taipei 101, a famous skyscraper that exemplifies the city’s modern technology and globalisation. (B)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Return to Taipei airport for the onward or return flight. (B)"
+    }
+  ],
+  "map": ""
+}

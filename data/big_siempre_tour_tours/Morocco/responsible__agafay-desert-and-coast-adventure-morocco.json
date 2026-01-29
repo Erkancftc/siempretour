@@ -1,0 +1,50 @@
+{
+  "destination": "Morocco",
+  "mainPhoto": "",
+  "id": "agafay-desert-and-coast-adventure-morocco",
+  "tourName": "Agafay desert and coast adventure, Morocco",
+  "placesVisited": "",
+  "generalInfo": "Join our 5-day Marrakech Agafay &amp; Coast and get a real mix of city, mountains, and coast with an added desert experience in Agafay. Starting off in the vibrant red city of Marrakech before travelling over the Atlas enroute to Taroudant. The next day we venture further west along the Atlantic coast to the fishing town of Essaouira with its stunning beaches, souks, and exciting water sports. Without the need to travel the long distance to the Sahara, we enjoy a night camping in the Agafay Desert, which is less than 1 hour from Marrakech. Take an optional camel trek in the rocky desert at the foothills of the Atlas Mountains or just relax by the pool before ending your journey back in Marrakech for any last-minute souvenirs.<br/><br/>HIGHLIGHTS<br/>Marrakech - Djemaa-el-Fna square, UNESCO-listed medina<br/>Taroudant – Authentic market town with souks and alleys.<br/>Tiout Oasis – Vibrant green landscapes and Palm Groves.<br/>Essaouira - Colourful fishing town and beautiful beaches<br/>Agafay Desert – Rocky and sandy desert near Marrakech. A Hidden gem!  <br/><br/><br/><br/>OPTIONAL ACTIVITIES<br/>Kite surfing – Essaouira (2 hours = approx. 700 DH)<br/>quad Biking – Essaouira AGE 16+ ONLY (2 hours= 590DH 1 pax, 2 hours for 2 pax = 690 DH)<br/>horse riding – Essaouira (1 hour = 250 DH, 2/3 hours = approx. 300 DH/390 DH approx.<br/>Cooking lesson – Essaouira (approx. 300 DH)<br/>Camel Ride – Agafay Desert (1 hour = approx. 300 DH)<br/>Guided city tour – Marrakech (approx. 3 hours = 2-4 pax =200 DH, 5-9 pax = 150 DH, 10+ pax<br/>100 DH) + 100 DH for Bahia Palace entrance, 80 DH Ben Youssef Madrassa.",
+  "durationDays": "5",
+  "price": "649",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Marrakech this morning and take your airport transfer to our joining hotel. Here we will have a welcome meeting at 12:00pm where you will meet your guide and fellow travellers. After the meeting you will have free time for an optional lunch followed by an optional city tour of Marrakech around 2pm. The city tour will include an outside visit of the Koutoubia Mosque which is the landmark of the city, and Ben Youssef Madrassa. Explore the magical souks before ending in the famous square Jemaa El Fna. Enjoy your time here before we meet for dinner at the hotel. Overnight Marrakech. (Dinner Included)."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Depart from Marrakech in the morning and take the highway towards Agadir, enjoying the changing landscapes of plains, argan tree forests, and rolling hills along the way. The drive will be comfortable, with a couple of stops for coffee, restrooms, and photos. Upon arrival in Taroudant, we will stop for an (optional) lunch in a local restaurant before continuing to the beautiful Tiout Oasis, nestled at the foot of the Anti-Atlas Mountains. There, you can enjoy a peaceful walk through the lush palm groves and argan trees, meet local Berber families, and visit a historic kasbah overlooking the oasis, offering panoramic views of the valley. After the visit, we return to Taroudant where you will have time to explore the town at a relaxed pace. Discover the medina and its souks, renowned for silver jewelry, leather goods, and spices, and stroll along the city’s impressive walls with their ornate gates such as Bab El Kasbah and Bab Targhount. A stop at Assarag Square will let you experience the lively rhythm of local life. Overnight Taroudant. (Breakfast Included)."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "After breakfast in Taroudant, depart towards the Atlantic coast, passing through fertile valleys and argan tree groves. In about 1.5hours, you will reach Agadir, where you can pause for a short coffee break and a leisurely stroll along the seaside promenade to enjoy the fresh ocean breeze. Continue your journey north along the stunning Atlantic coastline, where the road offers sweeping ocean views, traditional fishing villages, and vast argan forests. On the way, you may stop briefly in Taghazout, a relaxed surfer town with a laid-back charm. By early afternoon, you will arrive in Essaouira, the enchanting coastal town recognized as a UNESCO World Heritage site. After checking into your hotel, enjoy an optional lunch in a local restaurant before setting out on your first walk through the medina. Explore the historic ramparts of the Skala de la Kasbah, wander through the charming streets, and visit the lively fishing port. The remainder of the day is free at leisure. Overnight Essaouira. (Breakfast Included)."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "This morning will be free, so you can do more exploration of the coastal town at your own pace. We will meet at the hotel for our departure to tranquil Agafay Desert. The moon-like Agafay Desert is a hidden gem not too far from Marrakech with a rocky landscape and scenic rock formations similar to dunes. You will have a desert experience without needing to travel to the Sahara. On our arrival we will check into our tents and enjoy the pool or go for an optional camel ride while watching the sunset. Overnight at Agafay Desert. (Breakfast & Dinner Included)."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "After breakfast we will drive back to Marrakech. If your flight is in the morning, we can drop you at the airport or alternatively you can explore more of Marrakech’s majestic sights. (Breakfast Included)."
+    }
+  ],
+  "map": ""
+}

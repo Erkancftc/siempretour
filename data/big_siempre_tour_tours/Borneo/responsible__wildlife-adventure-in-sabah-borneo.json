@@ -1,0 +1,60 @@
+{
+  "destination": "Borneo",
+  "mainPhoto": "",
+  "id": "wildlife-adventure-in-sabah-borneo",
+  "tourName": "Wildlife adventure in Sabah, Borneo",
+  "placesVisited": "",
+  "generalInfo": "There are rivers to cross, mountains to climb, culture to learn, nature to admire, trails to trek, wildlife to see, local people to meet, delicious delicacies to savor, turquoise blue sea to swim in and sandy beaches to lie on. A whole wonderful experience awaits you in Borneo.",
+  "durationDays": "7",
+  "price": "1999",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival in Kota Kinabalu, the capital city of Sabah on the island of Borneo. This afternoon you will take a City tour to see the main landmarks and attractions of Kota Kinabalu, once a British Crown colony. At the end of the tour enjoy a local dinner with traditional cultural performance."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Traverse the mighty Crocker Range towards Kinabalu National Park to see the rich flora including a number of endemics. En route, stop by at Nabalu Native Market where you’ll have some time to explore the local wares. Tonight your accommodation will be at the Kinabalu Pine Resort on the Kundasang highlands. Termperature at night can drop to a low 16c."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Trek through the lowland dipterocarp forest to the Canopy Walkway. The Canopy Walkway is suspended between trees at the maximum height of 40 meters and offers bird's eye view of the tropical rainforest and good opportunity to observe wildlife in the canopy. Drive 4 hours to Sandakan with lunch en route."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "In the morning you will visit the world-famous Sepilok Orang Utan Rehabilitation Centre - Founded in 1964, the Centre helps to teach once captive, injured or abandoned Orang Utans to learn and fend for themselves again, with the aim to return them to the forest. Walk through the rainforest towards feeding platform for a chance to see the orangutans during their morning feed. Trek back to the centre for chance to watch baby orangutans play or train in the centre’s outdoor nursery. Next you will visit Bornean Sun Bear Conservation Centre – a rescue and rehabilitation facility for Malayan sun bears threatened by forest degradation, illegal hunting and poaching activities. Also known as ‘dog bear’ for its stocky, muscular build, small ears, and short muzzle, these adorable bears have an excellent sense of smell and extremely long claws, which they use to rip open trees and termite nests. They also have an almost comically long tongue for extracting honey from bee nests, giving them their other nickname, ‘honey bear’. Malayan sun bears are the smallest bears in the world and can only be found in Southeast Asia. After lunch, visit the nearby Rainforest Discovery Centre. Walk among giant rainforest trees along the 475m long and 27m high Rainforest Skywalk that leads you to the observation towers and bird shelter. The centre is home to over 300 bird species, including the rare Bornean Bristlehead and endemic Blue Headed Pitta. Explore the jungle trails with your nature guide for opportunity to sight wildlife such as the civets, slow loris, flying squirrels, tarsier, mouse deer, and orangutan in their natural habitat. This thriving forest is one of the most diverse plant repositories in the country, showcasing a wide range of species which includes the pitcher plant as well as 250 types of orchids. Night walk is available at additional cost."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Driver 2 hours by land to Bilit village by the Kinabatangan River. Afternoon River Cruise for chances to spot wildlife such as the bizarre proboscis monkey, wild orang utans, macaques, red and silver leaf monkeys, crocodiles and birdlife. Night jungle walk to discover Borneoan nocturnals and insect life. *Please note that this is a sharing tour"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Morning boat cruise to oxbow lake in search of more wildlife. Birds abound in all shapes and forms. The lake is an abode of freshwater fish, otters and sometimes - wild elephants may be sighted. Morning Jungle walk. After lunch, another river cruise for more chance to spot wildlife *Please note that this is a sharing tour"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "After breakfast, transfer by land Sandakan airport for departure flight."
+    }
+  ],
+  "map": ""
+}

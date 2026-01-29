@@ -1,0 +1,70 @@
+{
+  "destination": "New Zealand",
+  "mainPhoto": "",
+  "id": "best-new-zealand-south-island-vacation-in-9-days",
+  "tourName": "Best New Zealand South Island Vacation in 9 Days",
+  "placesVisited": "Christchurch, Aoraki Mt. Cook, Wanaka, Te Anau, Milford Sound, Queenstown",
+  "generalInfo": "Handcrafted with South Island’s most iconic and exclusive experiences, this exciting 9-day adventure will reveal glaciers, icebergs, fjords, caves, vineyards, lakes, mountains, and charming towns. New Zealand’s South Island is a canvas of dramatic landscapes, invigorating adventure, and natural wonders. Indulge in wine tasting, spend a night on Milford Sound, and explore the Fiordland from a helicopter.",
+  "durationDays": "9",
+  "price": "3,700",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Christchurch – Immersed in Art",
+      "description": "Christchurch suffered after a 2011 earthquake and still remains a bit off the radar for tourists, which is a shame because the city’s transformation has been incredible. There is a unique energy here, and Christchurch will be quick to rejuvenate you after your long flight. A local guide will meet you at the airport and transfer you to your luxurious accommodation in the heart of the city. This afternoon, you will explore the city on a private walking tour that will focus on art and change. After your tour concludes, you will have the remainder of the evening to spend at your leisure."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Aoraki Mt. Cook – Guided Stargazing",
+      "description": "Today’s journey will connect landscapes as you cross the Canterbury Plains and venture into the Southern Alps. As with all the days on your journey, the transfer will be private. With an afternoon in Aoraki Mt. Cook, you can explore some of the excellent hiking trails, including boardwalks and the well-maintained path that leads to the Hooker Valley. There are more adventurous options if you wish, including a chance to go ice climbing. This area is a designated dark sky, and the stars are phenomenal on a clear night, and your stargazing experience can even be narrated by a local astronomer guide."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Aoraki Mt. Cook – Scenic Flight",
+      "description": "Today, you will be on Terminal Lake, which is one of only three places in the world where a glacier flows into a lake. The ancient icebergs are usually the main highlight here, but just to cruise in such alpine wilderness is a wonderful experience. Your perspective will be complemented by a scenic flight. Soaring by helicopter, you will loop around the country’s highest mountains, glaciers, and a wonderland of snow and ice. Over these two days in Aoraki Mt. Cook, you will also discover the island’s laid-back atmosphere."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Wanaka – Central Otago Vineyards",
+      "description": "This sense of vacation tranquility will continue today as you travel from the mountains to the rock-strewn valleys of Central Otago. Today, you will be wine tasting with lunch. After a second vineyard visit, you will continue along the road to Wanaka, where your lodge is perched on a lake with incredible waterside views. The afternoon will be at your leisure, and there will be options for kayaking and hiking in the area in addition to a boat trip to an island spa. A small town is draped around the lake’s southern end and has some excellent restaurants and a vineyard with rows of vines that rise above the water."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Te Anau – Exploring Glowworm Caves",
+      "description": "Today, you will travel to Te Anau, which is another lakeside town that has been enveloped by scenic wonders and a peaceful aura. After crossing the lake on a catamaran, you will descend through a network of underground caves and caverns, following limestone pathways to waterfalls and intriguing rock formations. Here, whirlpools hide beneath the ground, and, as you glide further, there will be thousands of glowworms that illuminate the darkness. It is a surreal world under here, and you will have half a day to explore before having another leisurely night along the water in Te Anau."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Milford Sound – Overnight Nature Cruise",
+      "description": "After crossing mountain passes and riding along the snowline, you will be immersed in Fiordland, which is a massive national park that remains mostly unexplored. By snaking up and down a final mountain pass, you will get your first glimpse of Milford Sound, which is also the narrowest and highest of all New Zealand’s fjords. Lunch will be served on your boat, and, soon, you will be cruising into a surreal wilderness. Deep in the fjord, you can spot dolphins and seals. Then, when all the other boats leave, you will stay to spend a night on this magical work of nature."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Queenstown – Helicopter Across Fiordland",
+      "description": "Waking up on Milford Sound is a mesmeric experience: the fjord’s walls emerge from the mist and gloom, and the sun peeks through the clouds and mist. Most boats only explore in the afternoon, so this morning will be exclusive, and you can discover more of Milford Sound in a kayak or small boat. For an alternative Fiordland experience, you can cross the national park in a helicopter during a scenic flight that will lead you to Queenstown after some incredible glacier and fjord panoramas. Your Queenstown hotel will be just off the lake and features luxurious suites and top-tier amenities. When you are ready, you can indulge in a jet boat ride on the Shotover River."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Queenstown – Cruising Lake Wakatipu",
+      "description": "After your exhilarating day, your final day on South Island can be as relaxed as you desire. The morning will be at your leisure. Afterward, you will cruise on Lake Wakatipu in a steamer, which will be a connection to the area’s explorer culture. Your expedition will provide you with an insight into some of the lake’s hidden secrets. It will be a long and leisurely cruise, and drinks will be served throughout in addition to a lovely dinner to accompany the sunset. Queenstown is famous for its outdoor activities and thrills, but it is also one of the most secluded destinations on the planet."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Queenstown – Departure",
+      "description": "Late check-out will be arranged, and, when you are ready, you will be transferred privately to the airport."
+    }
+  ],
+  "map": ""
+}

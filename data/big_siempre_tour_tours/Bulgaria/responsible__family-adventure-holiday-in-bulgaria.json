@@ -1,0 +1,60 @@
+{
+  "destination": "Bulgaria",
+  "mainPhoto": "",
+  "id": "family-adventure-holiday-in-bulgaria",
+  "tourName": "Family adventure holiday in Bulgaria",
+  "placesVisited": "Sofia guided city tour, Eastern Rhodope Mountains, stay on a friendly, welcoming farm, help out with farm activities, homemade dinners made with organic ingredients, horse riding, vulture observation, gold panning in Arda River, kayaking, cycling, Plovdiv guided tour",
+  "generalInfo": "Discover the wild charm and hospitality of Bulgaria, on this week-long family adventure holiday. Spend four nights on a farm, where a herd of 500 cows and many sheep and beehives are kept, exploring the area by day and tucking into delicious homemade dinners each night made with organic food picked fresh from the land. You’ll also have a night in capital Sofia and in the beautiful town of Plovdiv, with guided tours of each.<br/><br/>On the farm you can switch off from globalisation and relax into a different rhythm. There is lots to keep little ones busy. Help out with mowing, sowing, digging in the garden and picking herbs and mushrooms, then explore the surrounding countryside. Visit the mystic Thracian Tombs and temples scattered through the mountains and enjoy cycling along the newly opened Trans-Rhodope cycling route, following the meanders of the Arda River. Try gold panning in Arda River then enjoy a kayaking adventure, paddling to Borislavtsi village to see sesame oil and butter being made in the traditional way. Go horse riding one day, and keep your eyes open for the region’s amazing birds of prey. Golden eagles, Egyptian vultures and Griffon vultures can all be seen at close range.<br/> <br/>The Eastern Rhodope Mountains are a very special part of Bulgaria, home to a great deal of wildlife, including wolves, and the best place in the country for spotting raptors. In the Arda Valley, you can see two thirds of all bird of prey species in Europe, and your trip will also support local Madjarovo Center for the protection of rare bird species.<br/><br/>You’ll end your holiday in Plovdiv, spending a night here and enjoying a guided tour will reveal the lovely old cobbled streets of the Old Town, the Roman Amphitheatre and the town’s beautiful period houses and museums.<br/>",
+  "durationDays": "7",
+  "price": "1295",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Welcome to Bulgaria! Transfer to your hotel. Sofia guided city tour. Free time to explore the capital and overnight in Sofia."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "In the morning you will get your rental car and drive from Sofia to the Eastern Rhodopes, where you will be centre-based in the remote Wild Farm in Gorno Pole village. In the afternoon farm activities, such as mowing, haying, sowing, weeding and digging in the garden, picking herbs and mushrooms.Home-made dinner with bio products from the Wild Farm garden, personally picked up from our hostess."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Early in the morning: vulture and wolf observation. In the afternoon: horse-back riding adventure through the nearby vast hills and mountains. Home-made dinner."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Gold panning in Arda River as they did in the old days during the Gold Rish Fever in Klondike, later kayaking adventure and paddling to Borislavtsi village where we will visit a small atelier for home-made sesame oil and butter (an old Bulgarian tradition). Home-made dinner."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "A cycling trip to the nearby rock phenomenon and the meanders of the Arda Rriver, as well as the newly opened Trans-Rhodope cycling route. Home-made dinner."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Guided tour of Plovdiv. Visit to the cobbled streets of Plovdiv Old Town, the Roman Amphitheatre, the Revival Period Houses, the Ethnographical and Archaeological Museums. Overnight in Plovdiv."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "You return to Sofia. Free time or travel directly to the airport where you return the car."
+    }
+  ],
+  "map": ""
+}

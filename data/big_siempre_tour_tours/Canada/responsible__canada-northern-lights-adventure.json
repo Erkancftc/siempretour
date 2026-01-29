@@ -1,0 +1,55 @@
+{
+  "destination": "Canada",
+  "mainPhoto": "",
+  "id": "canada-northern-lights-adventure",
+  "tourName": "Canada Northern Lights adventure",
+  "placesVisited": "",
+  "generalInfo": "Immerse yourself in the vast and beautiful subarctic landscape on this adventure to witness Canada’s dazzling aurora borealis. On a Subarctic Discovery: Churchill Northern Lights trip, enjoy heading away from the lights of town to exclusive viewing locations, such as Dan’s Diner a remote culinary experience located on the frozen Churchill River beneath the northern lights. <br/><br/>During the day, your small group will enjoy authentic winter experiences when you snowshoe through pristine landscapes, dog sled through the boreal forest and learn about local culture and history.<br/><br/>Located directly beneath the auroral oval, this remote community of 900 people is regarded as one of the best places on Earth to experience the dazzling aurora borealis. Imagine being able to step out onto the tundra and feel tiny against the never-ending sky, enveloping you in Mother Nature’s most spectacular light show.<br/><br/>Accompanied by your own Interpretive Guide, this Northern Lights adventure offers a unique program in which travellers can fly direct to Churchill, Manitoba to experience the dancing skies and the incredible culture of Canada's North.",
+  "durationDays": "6",
+  "price": "4450",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "ARRIVAL — You arrive into Winnipeg and check into your hotel close Winnipeg airport; This evening, you meet the rest of your group and enjoy a welcome dinner hosted by your trip guide. (MEALS: D)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "CHURCHILL ADVENTURE BEGINS This morning, you take an early morning flight to Churchill; Upon arrival, you head out on a Churchill area tour, which includes Itsanitaq Museum, which has a large collection of Inuit artifacts; a Cultural Presentation; then later, an evening forest excursion. Overnight at Churchill hotel. Meals: L, D"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Today, you visit Polar Bears International House: this facility provides space to educate Churchill visitors about polar bears, climate change, and the urgent need to take action. The display features cutting-edge interpretation on polar bears, sea ice, and current polar bear research, and hosts visiting scientists, educators, and special guests whose outreach work and support are critical to polar bear conservation. The display is intended to inspire people to care about the Arctic and its wildlife by featuring live cams that highlight polar bears, beluga whales, and northern lights. This evening, you go to Dan’s Diner and experience regional cuisine in pop-up restaurant, complete with skylights and panoramic windows for the best Northern Lights viewing experience. Overnight at Churchill hotel. Meals: B, L, D"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "DOG SLEDDING AND NORTHERN LIGHTS This morning, you join an exhilarating dog sledding experience. You will be hosted by a local expert, who will explain the significance of dog sledding to the community. This evening, there is a visit to the Thanadelthur Lounge. Here you can view the Northern Lights by peering out of the panoramic windows or you can climb onto the rooftop observation desk for an unobstructed view of the Northern Lights, as they streak across the sky. Overnight at Churchill hotel. Meals: B, L, D"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "LAST DAY IN CHURCHILL This morning, visit the Parks Canada Visitor Centre, which is full of local historical information on Churchill. Evening flight to Winnipeg; Guests will check into their Winnipeg hotel. Meals: B, L, D"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "You depart Winnipeg for your onward flight."
+    }
+  ],
+  "map": ""
+}

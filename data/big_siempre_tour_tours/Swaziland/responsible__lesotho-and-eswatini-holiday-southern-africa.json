@@ -1,0 +1,65 @@
+{
+  "destination": "Swaziland",
+  "mainPhoto": "",
+  "id": "lesotho-and-eswatini-holiday-southern-africa",
+  "tourName": "Lesotho and Eswatini holiday, Southern Africa",
+  "placesVisited": "",
+  "generalInfo": "Embark on a captivating journey through two of Southern Africa’s most enchanting and lesser-explored destinations, Lesotho and Eswatini. This carefully designed itinerary combines stunning natural scenery, rich cultural traditions and remarkable wildlife encounters. From the craggy heights of the iconic Sani Pass to the misty cascades of Maletsunyane Falls, and from the historical strongholds of Thaba Bosiu to the serene wildlife haven of Mkhaya Game Reserve, each day reveals a new facet of the landscape and culture.<br/><br/>Whether you’re hiking to see ancient dinosaur footprints, visiting jostling markets, or encountering rhinos in their natural habitat, this tour offers immersive encounters with the people, places, and traditions that make these mountain kingdoms so remarkable.<br/><br/>Spanning ten days, we hike in Lesotho’s highlands, discover Basotho heritage and track rare wildlife in Eswatini’s protected reserves. Designed with the Africa enthusiast in mind, this trip offers an authentic and meaningful glimpse into two of the continent’s smallest and under-the-radar destinations.",
+  "durationDays": "10",
+  "price": "3519",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Johannesburg - Arrive in Johannesberg and transfer to the hotel. The rest of the day is at leisure. Overnight Protea Hotel or similar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Underberg – Sani Pass – Tsehlanyane National Park - Fly to Oribi and transfer to Underberg. From here we transfer over to 4wd vehicles for our trip over the iconic Sani Pass. We stop in a small shepherds’ village en route to see the baking of traditional bread and the fascinating structure of the huts that the community live in. After crossing the highest point on the pass, Black Mountain, our final stretch takes us along the corkscrew Moteng Pass and into the lush Lesotho lowlands. We spend the night on the outskirts of Tsehlanyane National Park. Overnight Maliba Lodge or similar. (D)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Tsehlanyane National Park – Thaba Bosiu - Semonkong - After breakfast we take a short hike to see dinosaur footprints on the roof of a cave. We then continue to Thaba Bosiu where we visit a cultural centre for an insight into the fascinating history of the Basotho. Reaching Semonkong, The Place of Smoke, we check into our lodge for the night. Overnight Semonkong Lodge or similar. (BD)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Semonkong - We take an early morning hike to the world famous Maletsunyane Falls, where water crashes into the pool below, known as the ‘Place of Smoke’. In the afternoon there are optional activities to choose from such as a tour of the small local trading town or hiring a bicycle. Overnight Semonkong Lodge or similar. (BD)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Mateka – Leribe – Clarens - Leave Semonkong behind and head to Mateka to visit the Ha Kome Cannibal Caves, stopping in the small town of Roma on the way. We also visit the Leribe craft market where local women weave mohair on ancient looms and spin it on bicycle tyres. Later we head into South Africa and the quirky little town of Clarens. On arrival we have time to wander around the art galleries and quaint shops at leisure. Overnight Patcham Place or similar. (B)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Golden Gate Reserve – Ladysmith – Ezulwini Valley - Drive through the majestic sandstone mountains of the Golden Gate Reserve to Ladysmith, where we meet our guide for Eswatini. We cross the border and continue to Matenga Lodge in the Ezulwini Valley. Overnight Matenga Lodge or similar. (BD)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Ezulwini Valley - This morning we visit the Ngwenya glass blowing factory to learn about this age-old art, as well as the Swazi Market and Sibebo Rock. The afternoon is free to relax or we can sign up for additional activities such as hiking or canopy tours. Overnight Matenga Lodge or similar. (BD)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Mkhaya Game Reserve - Final game drive in the early morning before transferring to the main international airport in Eswatini for departure. (B)"
+    }
+  ],
+  "map": ""
+}

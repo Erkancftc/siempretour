@@ -1,0 +1,140 @@
+{
+  "destination": "South Africa",
+  "mainPhoto": "",
+  "id": "southern-africa-small-group-tour",
+  "tourName": "Southern Africa small group tour",
+  "placesVisited": "South Africa: Cape Town, Lambert’s Bay, Namibia: Orange River, Fish River Canyon, Namib Desert, Sossusvlei, Dead Vlei, Swakopmund, Damaraland, Twyfelfontein, Etosha National Park, Game drives, Windhoek, Botswana: Ghanzi, San Bushmen, Okavango Delta, Maun, Makgadikgadi Pans, Chobe National Park, Zimbabwe: Victoria Falls",
+  "generalInfo": "This southern Africa small group tour is an exciting overland journey taking in four amazing countries: South Africa, Namibia, Botswana and Zimbabwe. Each country offers unique spectacles, landscapes and experiences, from the Namib desert to the Okavango Delta and Victoria Falls. Discover abundant wildlife, rich culture and ever changing scenery and explore on foot, on game drives and on the water.<br/><br/>Lasting 22 days, this trip gives you time to enjoy this diverse part of Africa, and cover the distance between key sights, too, travelling in a purpose built vehicle in a group of no more than 13 people. In South Africa, travel along the west coast from Cape Town, stopping over in Lambert’s Bay, a pretty fishing town famous for its amazing seafood. Highlights in Namibia include canoeing on the Orange River, climbing to the top of Dune 45 in Sossusvlei and seeing the incredible wildlife in Etosha National Park. <br/><br/>In neighbouring Botswana, spend two nights on a houseboat in the wildlife rich Okavango Delta and explore Chobe National Park, both on game drives and with a cruise along the Chobe River to see elephants and crocs at sunset. In the Kalahari, learn about life from the San people living here and enjoy traditional dancing around the camp fire. Your adventure culminates with the awesome Victoria Falls, seen from the Zimbabwe side, which offers the best views of this spectacular waterfall.<br/>",
+  "durationDays": "23",
+  "price": "7520",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Cape Town.",
+      "description": "Welkom! Welcome to South Africa. Your adventure begins with a welcome meeting at 6 pm tonight in Cape Town – the capital that’s known for its beautiful beaches, amazing hiking opportunities and rich cultural heritage. If you arrive early, there's plenty to see and do. Maybe join a Cape Malay Cooking Tour, visit Robben Island or ride an aerial cable in Table Mountain. After the welcome meeting, get to know your new travel group over an optional dinner with your local leader."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Cape Town.",
+      "description": "Cape Town is a dynamic city known for its diverse landscapes, beautiful beaches, and rich cultural heritage. With a wealth of activities to choose from, you're free to craft your own adventure this morning, guided by the expert advice of your leader and possibly some enthusiastic group members. This afternoon, join your group on a light hike to Signal Hill in Table Mountain National Park. At the top, take in panoramic views over Cape Town and the surrounding ocean at sunset."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Trawal (Lamberts Bay).",
+      "description": "Depart Cape Town this morning and travel along the west coast to the small seaside town of Lamberts Bay. The bay’s white beaches, lobsters and incredible wildlife earned the town its nickname ‘the diamond of the west coast’. When you arrive, enjoy a delicious feast at a local open-air restaurant, where the ocean views will make for the perfect lunch setting. After, you'll head to Trawal where you can relax among the wine farms and the Cedarberg Mountain Range."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Orange River.",
+      "description": "Say farewell to South Africa as you cross the border into Namibia. Today is a bit of a long travel day, so it's a good idea to get stuck into your book or favourite podcasts. Mid-afternoon, arrive on the banks of the Orange River – the longest river in South Africa, running from the Drakensberg Mountain Range into the Atlantic Ocean. This river is significant for its role in transporting diamonds, which leave deposits that are found along the coastline. When you arrive, enjoy the rest of the day exploring at your own pace. Tonight, maybe find a local restaurant for dinner – your local leader will have the best recommendations."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Fish River Canyon.",
+      "description": "Spend a leisurely morning unwinding by the outdoor pool or soaking in the views of the Orange River in the morning light. If relaxing isn't your style, maybe head out on a canoe adventure along the river and through the ancient Richtersveld Mountains. Later, venture to Fish River Canyon – one of the biggest canyons in the world. Along the way, stop at various lookouts to catch this gigantic gorge on camera. Look out for some exotic birdlife while you’re here, including plovers, wagtails, hamerkops and herons – you might even catch a glimpse of a baboon or an antelope at dusk!"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Sesriem.",
+      "description": "Today is a long travel day, so grab a window seat if you can or play some road trip games with your fellow travellers. Say goodbye to the scenic Orange River as you drive to the eastern edge of the Namib Desert – the world's oldest desert, known for its array of geological features. Take in the ever-changing scenery as you drive, and when you arrive, maybe relax at your desert lodge or find a local restaurant for dinner."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Sesriem - Sossusvlei.",
+      "description": "Make an early morning visit to Sossusvlei, which lies at the end of an ancient riverbed. If you find yourself in the mood, a climb to the top of Dune 45 will reward you with panoramic views. After breakfast, head to Dead Vlei – a clay pan surrounded by some of the highest dunes in the world, including ‘Big Daddy’ and ‘Crazy Dune’. When you arrive, maybe explore the area on foot or organise a 4WD transfer out to the entrance point. In the afternoon, visit Sesriem Gorge. Shaped by water erosion over thousands of years, the place got its name, Sesriem (meaning ‘six belts’ in Afrikaans), from the people who lived in the area who used six knotted belts tied together to pull up water from the deep gorge."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Swakopmund.",
+      "description": "Depart your desert lodge this morning and travel across the Namib Desert to the Atlantic Ocean coastline. Along the way, you'll see the incredible Kuiseb Canyon, before arriving at the beachside town of Swakopmund on the Skeleton Coast. When you arrive, the rest of the day is free for you to explore at your own place. Your local leader will take you to a local centre, where you might like to take part in one of the activities on offer."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Swakopmund.",
+      "description": "Soak up some free time in this gorgeous coastal oasis. Your accommodation is within walking distance of town, making optional activities easy to access. Maybe stroll along the beach, explore the open-air markets or visit the local museum. Tonight, maybe join your group for dinner at a local restaurant – your local leader will have the best recommendations!"
+    },
+    {
+      "dayNumber": 10,
+      "title": "Damaraland.",
+      "description": "Get off the beaten track and head into the heart of Damaraland. The ancient landscapes of the Kunene Region are ruggedly beautiful – think sunsets and night skies filled with a multitude of dazzling stars. This part of Namibia is also known as Damaraland, as it’s the ancestral homeland of the enigmatic Damara people. Home to a small population of hardy desert adapted elephants and flora and fauna distinct to this region, this is a spot for your camera, too."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Damaraland.",
+      "description": "Spend the morning exploring the surrounding sites with a local. Visit the Petrified Forest, home to 280-million-year-old fossilised tree trunks, and the Twyfelfontein Heritage Site, which boasts one of the largest concentrations of ancient rock engravings in southern Africa. Then, wander through the Living Museum of the Damara and learn about traditional Damara culture. Later, stop at Burnt Mountain – a 200-m-tall hill at the base of a barren volcanic ridge, where you can see how an 80-million-year-old lava flow has transformed the now desolate landscape. The rest of the day is then free for you to explore at your own pace. Maybe relax by the pool or read a book in the shade."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Etosha National Park.",
+      "description": "This morning, travel to Etosha National Park. When you arrive, you’ll head out on a short afternoon game drive. Due to Namibia protecting its game reserves against poaching, there are large herds of elephants, antelope and other herbivores here. Keep your eyes peeled for the resident wildlife! The rest of the evening is then free to relax."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Etosha National Park.",
+      "description": "Today, you'll set off on a 4WD game drive through Etosha National Park. As you drive, look for black rhinos, Hartmann's mountain zebras, black-faced impalas, roan antelopes and the tiny Damara dik-diks. Game viewing in the park is relatively easy due to the man-made waterholes and the large, sparsely vegetated pans. Later, head back to your accommodation for another free evening. Maybe join your group for dinner to celebrate the last night of your adventure."
+    },
+    {
+      "dayNumber": 14,
+      "title": "Windhoek.",
+      "description": "This morning, travel to the old German town of Windhoek. Today is a bit of a long travel day, so it's a good idea to get stuck into your book or favourite podcasts. When you arrive, the rest of the day is then free for you to explore until your second welcome meeting at 6 pm tonight. In your free time, maybe visit Tintenpalast Ink Palace, see Christuskirche Church or explore the Genossenschaftshaus. After your welcome meeting, maybe get to know your new travellers over dinner at a local restaurant."
+    },
+    {
+      "dayNumber": 15,
+      "title": "Ghanzi/Central Kalahari.",
+      "description": "Today is a bit of a long travel day as you cross the border into Botswana and make your way to Ghanzi – known as the ‘Capital of the Kalahari’. Take the opportunity to grab a window seat and watch the landscape pass you by or get to know your fellow travellers a little better with some road trip games. When you arrive, settle into your lodge accommodation and soak up some Botswana sunshine or cool off in the pool."
+    },
+    {
+      "dayNumber": 16,
+      "title": "Okavango Delta Panhandle.",
+      "description": "This morning, you’ll head to the Okavango Delta – known for its sprawling grassy plains that flood seasonally, making the delta a lush animal habitat. When you arrive, board speedboats and make your way to your home for the next two nights – a houseboat in the Okavango Delta Panhandle. You can chill out on the deck or grab a few friends and attempt one of the onsite board games. For dinner, your captain will serve dinner on the deck, and you can watch the sunset while you eat and listen to the sounds of the nearby hippos on the water's edge."
+    },
+    {
+      "dayNumber": 17,
+      "title": "Okavango Delta Panhandle.",
+      "description": "After breakfast, take a speedboat and a 4WD to a nearby polling station. From here, you can explore the waterways in mokoros (traditional dugout canoes) with a local guide. Your guide will take you on a short nature walk around one of the many islands in the Delta Panhandle. Then, return to the houseboat where you can relax, read a book or do some fishing. This evening, grab a sundowner, pull up a chair and watch the often striking sunset."
+    },
+    {
+      "dayNumber": 18,
+      "title": "Maun.",
+      "description": "Leave your houseboat behind and again board the speedboats that take you back to dry land. Drive on to Maun – the gateway of the Okavango Delta. For those seeking an extra adventure, there's an opportunity to fly over the delta in a helicopter for a bird's-eye view! Your leader can give you more information on this activity and how to book, so just ask them if you’re interested. Alternatively, the afternoon is free for you to sit by the pool and take a breather when you arrive in Maun."
+    },
+    {
+      "dayNumber": 19,
+      "title": "Makgadikgadi Pans.",
+      "description": "Head to the Makgadikgadi Pans – the world’s largest prehistoric inland salt lake, in the middle of the dry savanna and now all that remains of the former Lake Makgadikgadi. Today you'll have an excursion in open 4WDs to spend time with a local meerkat community. Get close to them without disturbing their natural habitat and watch as they play together. Then, take a bush walk with one of southern Africa's oldest inhabitants and learn their way of life within the Kalahari Bushman group. They will teach you how they interact with nature, keeping a well-balanced relationship with the local land. After, you'll head under the baobab trees for a night of dining under the stars. Known as the 'Tree of Life' or the 'Ancient Giants,' the iconic baobab tree is a defining feature of the Botswana Bushveld, particularly in the Makgadikgadi basin where they're densely populated. Tonight's three-course barbeque will be traditionally cooked over hot coals, so you can enjoy the delicious smells of your dinner in the open air, while you stargaze under the African sky."
+    },
+    {
+      "dayNumber": 20,
+      "title": "Chobe National Park.",
+      "description": "This morning, make tracks towards Kasane, which sits on the edge of Chobe National Park. The stretch of road between Nata and Kasane is known as the 'Elephant Highway'. With no fences, elephants are free to move between Hwange National Park in Zimbabwe and Botswana. So, this is the perfect time keep your eyes peeled for roadside elephants during your drive! When you arrive in Chobe National Park – Botswana's first national park, known for its high concentration of elephants – settle into your lodge on the banks of the Chobe River and soak in the sounds of the wildlife."
+    },
+    {
+      "dayNumber": 21,
+      "title": "Chobe National Park.",
+      "description": "Wake up nice and early this morning to take a dawn game drive in Chobe National Park. In the park, you might see the resident elephants drinking at the waters' edge, large herds of cape buffalo or one of the many impalas that call this place home. In the afternoon, you’ll take a scenic cruise on the Chobe River – ideal for spotting local bird life such as saddle-billed storks, malachite kingfishers, fish eagles and beautiful bee-eaters. As well as birds, look out for hippos, crocodiles and large families of elephants. There will also be an opportunity to enjoy a drink and watch the sunset over the river after the boat cruise."
+    },
+    {
+      "dayNumber": 22,
+      "title": "Victoria Falls.",
+      "description": "Travel on to Victoria Falls, crossing the border into Zimbabwe. Arrive in time to have lunch on the banks of the Zambezi River. Victoria Falls is one of the world's natural wonders, and when in full flow, it forms the largest sheet of falling water on Earth. After visiting the falls, the rest of the day is yours to relax, or take part in the many optional activities available in Victoria Falls. This evening, why not share a final dinner with your travel crew, and keep the night going to celebrate a trip well-travelled."
+    },
+    {
+      "dayNumber": 23,
+      "title": "Victoria Falls.",
+      "description": "With no further activities planned, your adventure comes to an end after breakfast this morning. If you’d like to extend your stay, just speak to your booking agent ahead of time."
+    }
+  ],
+  "map": ""
+}

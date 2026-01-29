@@ -1,0 +1,45 @@
+{
+  "destination": "Uganda",
+  "mainPhoto": "",
+  "id": "gorilla-and-golden-monkey-safari-in-uganda",
+  "tourName": "Gorilla and Golden Monkey safari in Uganda",
+  "placesVisited": "",
+  "generalInfo": "Venture into the forested borderlands of Uganda and Rwanda on a remarkable primate-focused journey. This itinerary offers close encounters with East Africa’s rarest wildlife, set against the dramatic backdrop of the Virunga Mountains.<br/><br/>Begin in southwestern Uganda, where you’ll explore the rich culture of the Batwa community and trek through dense forest in search of endangered mountain gorillas. Continue into Rwanda for golden monkey tracking and further gorilla trekking in Parc National des Volcans, one of the best places in the world to observe these iconic primates in their natural habitat.<br/><br/>With breathtaking landscapes, meaningful cultural insight and unforgettable wildlife moments, this is a journey into the wild heart of East Africa.",
+  "durationDays": "11",
+  "price": "13199",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Rwanda - Arrive at Kigali International Airport, where you’ll be welcomed by your private driver and transferred to your hotel. In the afternoon, explore Rwanda’s vibrant capital on a guided tour, taking in its dynamic neighbourhoods, cultural landmarks and contemporary charm. Return to your hotel to unwind and look ahead to the adventure to come."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Virunga Highlands and Primate Encounters - Depart Kigali and travel through Rwanda’s scenic hills to southwestern Uganda. Settle into your lodge near Mgahinga National Park, with views of the Virunga Volcanoes. The next day, set out on a guided trek to observe mountain gorillas in their natural forest habitat - an experience both powerful and humbling. On your final morning in Uganda, return to the forest for golden monkey tracking before crossing back into Rwanda. Spend the evening at your lodge overlooking the volcanoes and lakes, with the option to attend a conservation talk on Dian Fossey’s legacy."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Gorilla Trekking in the Virunga Volcanoes - Return to Rwanda for another extraordinary day of gorilla trekking in Volcanoes National Park, this time through bamboo forests set against the dramatic Virunga backdrop. After the trek, relax with a spa treatment and enjoy a cultural performance at the lodge. The following day is flexible. Options include golden monkey tracking, visiting a local conservation centre, hiking to Dian Fossey’s former research site, or taking a guided walk to nearby lakes and villages."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Departure Home - As your time in this enchanted land draws to a close, take one last look at the majestic Virunga Volcanoes before departing for Kigali. Along the way, immerse yourself in Rwanda’s poignant history with a visit to the Kigali Genocide Memorial, a powerful reminder of the country's resilience and strength. Then, with memories to last a lifetime, transfer to the airport for your flight home, your heart full from this incredible journey."
+    }
+  ],
+  "map": ""
+}

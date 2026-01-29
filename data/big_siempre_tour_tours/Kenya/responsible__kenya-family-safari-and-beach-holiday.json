@@ -1,0 +1,60 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "kenya-family-safari-and-beach-holiday",
+  "tourName": "Kenya family safari and beach holiday",
+  "placesVisited": "",
+  "generalInfo": "Embark on an unforgettable Kenyan family safari, immersing yourself in three distinct ecosystems teeming with diverse species. Delve into the sprawling 14,000 acres of untamed wilderness at El Karama Ranch, a haven frequented by abundant wildlife. Experience the exclusivity of Mara House in the iconic Masai Mara, and indulge in prime wildlife viewing in the private Mara North Conservancy.<br/><br/>For the little ones, El Karama’s Kids Bush School offers bespoke, educational safari activities tailored to their interests throughout your stay, ensuring a memorable experience for the whole family.<br/><br/>From the Mara you will head down to Diani Beach to the Almanara Villas where you will be staying in a luxury villa for the next 4 nights. <br/><br/>Enjoy having some down time on the coast and at your beautiful villa. There are plenty of activities to get up to throughout your stay as well as lots of restaurant and bars to explore.",
+  "durationDays": "11",
+  "price": "5225",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Upon arrival at Jomo Kenyatta International Airport, a dedicated representative will greet you, and transfer you to Nairobi Wilson to catch your scenic flight up to Nanyuki. From there, your journey continues as you're met by your guide from El Karama Lodge who will take you there. After settling in, savour a lovely lunch at the camp before embarking on an afternoon game drive."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Your safari guide will provide a comprehensive briefing on the exciting itinerary planned for your two full days on El Karama Ranch. El Karama Ranch offers a range of activities suitable for the entire family. From day and night game drives to guided bush walks, fly camping adventures, and visits to the ranch and shamba, there's something for everyone to enjoy. Take a refreshing dip in the river, embark on a memorable camel trek, or delve into the rich cultural heritage of the local community. For the little ones, the Kids Bush School awaits! From 10:00 am to 12:30 pm daily, children of all ages can partake in engaging educational activities, including wildlife tracking, paw print cast making, hand line fishing, 'Poo' Safaris (yes, you read that right!), interactive kitchen sessions, and even termite clay sculpting and painting. It's an immersive learning experience they'll treasure forever."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Enjoy a locally sourced breakfast at El Karama before transferring to Nanyuki Airstrip for your flight to Mara North Airstrip. When you arrive at Mara North Airstrip you will be met by your guide from Mara Bush Houses who will take you on a game drive to camp. You will be staying here for the next 3 nights."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Your safari guide will provide a detailed overview of the schedule for game drives and activities during your two full days at Mara North Conservancy. During your time at Mara North Conservancy, you can embark on day and night game drives or guided bush walks. Additionally, you have the option to dedicate a day to exploring the Masai Mara Reserve or immersing yourself in the Masai culture through a cultural community visit."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Beach Time! After an early morning game drive on your last day in the Masai Mara, depart to Mara North Airstrip for your scheduled flight to Ukunda Airstrip. Upon reaching Ukunda Airstrip, you'll be greeted by a representative from Almanara Villas, who will take you to your exclusive luxury villa nestled along the picturesque Kenyan coast."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "And Relax.. Indulge in ultimate relaxation within the confines of your private villa, lounging by the swimming pool or strolling along the white sands of Diani Beach. Enjoy round-the-clock personalised butler service and savour lovely seafood and Italian dishes infused with a unique Kenyan flair. For those seeking adventure, try activities such as kite surfing and stand-up paddleboarding across the tranquil waters of the Indian Ocean. Alternatively, embark on snorkelling or deep-sea diving excursions to uncover the mesmerising marine life beneath the surface."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Time to head home Take advantage of a leisurely morning at your own pace, followed by a final meal at your villa before your transfer to Ukunda Airstrip, ensuring you arrive in time for your scheduled flight to Wilson Airport. Upon arrival at Wilson Airport, a dedicated driver-guide will be awaiting you to ensure a smooth transfer to Jomo Kenyatta International Airport, ensuring you reach your departure gate with ample time for your journey homeward."
+    }
+  ],
+  "map": ""
+}

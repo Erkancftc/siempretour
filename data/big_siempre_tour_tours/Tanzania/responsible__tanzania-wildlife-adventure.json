@@ -1,0 +1,75 @@
+{
+  "destination": "Tanzania",
+  "mainPhoto": "",
+  "id": "tanzania-wildlife-adventure",
+  "tourName": "Tanzania wildlife adventure",
+  "placesVisited": "",
+  "generalInfo": "EXPERIENCE Tanzania’s most famous and diverse National Parks — from dense jungles to the endless expanse of the Serengeti plains.<br/><br/>VISIT the Maasai, one of Africa’s most famous, friendly and unique tribes. Experience their culture, learn their traditions, sing and dance with them and see their handmade art.<br/><br/>VIEW wildlife from a guaranteed window seat in our pop-top LandCruiser. Our expert Tanzania safari guides will take you off the main roads looking for cheetahs, leopards, lions, elephants, and much more.<br/><br/>SAVOR delicious meals at our lodges, and picnic lunches in picturesque locations such as under massive Baobab trees and on Serengeti's savanna.<br/><br/>EXPLORE Ngorongoro Crater, with Africa’s densest lion population and home to some of the last black rhinos in the world.<br/><br/>WITNESS one of the most spectacular mass migrations on earth, and in July you may even be able to see wildebeest river crossings!*<br/><br/>*Migrations are seasonal natural occurrences and thus predicting them is challenging. Fear not, you'll see wildlife of an incredible variety and in staggering numbers!",
+  "durationDays": "10",
+  "price": "7495",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "After arriving in Tanzania, your guide will pick you up at the Kilimanjaro airport (JRO) and will help you to get some local cash and then bring you to your lodge. Surrounded by adorable miniature antelopes and vervet monkeys, this lodge is a secluded and relaxing place to begin our East African journey. No meals included"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "After breakfast today we depart for Arusha National Park. This park has amazing colobus monkey viewing, and giraffes, buffalos, hippos, hyenas, and zebras can all be seen around the lakes and craters. A real highlight of this park is the opportunity for a guided ranger hike followed by a picnic overlooking amazing landscapes and wildlife. Then take a lovely game-drive before returning to the hotel. Breakfast, lunch and dinner included"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "We will drive southwest to Tarangire National Park, a hidden gem of Tanzania. Tarangire is a gorgeous landscape and sightings of lions and hyenas are very common amongst the baobab trees. Tarangire is also known for being home to some of the greatest concentrations of elephants in the world. You’ll stop for a picnic, enjoy a guided game drive and rest for the night. Breakfast, lunch and dinner included"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "After breakfast we will head to Ngorongoro to enjoy time near the incredibly scenic crater. Today’s activities include a Maasai village visit in Mto Wa Mbu with a visit to a local market. At the Maasai Village you will have the opportunity to meet and talk to the tribe, see their traditionally made huts, visit a banana plantation where banana wine is made, and rent bicycles and ride around the area. Breakfast, lunch and dinner included"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Head to Ngorongoro and explore the Empakaai Crater on a full-day hike. On clear days the Crater offers views of Ol Doinyo Lengai, Tanzania’s most recently active volcano. The steep slope calls for a degree of fitness, but the walk through the lush forest, is well worth the effort. The trail continues to the lakeshore, where you can view water birds such as flamingo. Along your hike you can spot a number of animals including blue monkeys, buffalo, and bush bucks. For clients that do not wish to hike it is possible to do a game drive. Breakfast, lunch and dinner included"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Enjoy a morning game drive of the bottom of the Ngorongoro Crater. This is the world’s largest unbroken caldera and is home to the critically endangered black rhinoceros, as well as one of the densest populations of lions in Africa. Other animals to look out for are hippos, zebras and many more! In the afternoon we head to the one and only Serengeti National Park, deep into the heart of wild Africa. Breakfast, lunch and dinner included"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "With over 14,500 square kms of land, every day spent in the Serengeti will bring a new landscape and new wildlife into focus. Depending on the timing, you may get a chance to watch the unfolding of a year’s journey filled with drama and danger. Watch as hundreds of thousands of wildebeests, zebras, and gazelles make their annual 500 mile journey, while cheetahs and hyenas pursue and crocodiles wait for a chance to prey. Breakfast, lunch and dinner"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Today you will spend your last full day exploring Serengeti National Park. Watch out for lions with their cubs lounging on pride rocks, large groups of zebras clustering together for safety, and elephants and giraffes quietly reaching for and enjoying their tree-top meals. Breakfast, lunch and dinner included"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Enjoy an early morning game drive in Serengeti National Park, followed by lunch and transportation back to Arusha. This will be by Land Cruiser or by plane for an additional cost. We arrive in Arusha in time for a dinner and good night of rest. Breakfast, lunch and dinner included"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "After breakfast and a farewell to your new friends, you will be transferred to the airport for your departing flight. Breakfast included"
+    }
+  ],
+  "map": ""
+}

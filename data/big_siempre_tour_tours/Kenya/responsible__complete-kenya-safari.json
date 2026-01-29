@@ -1,0 +1,50 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "complete-kenya-safari",
+  "tourName": "Complete Kenya safari",
+  "placesVisited": "Kalama Community Wildlife Conservancy, Buffalo Springs National Park, Samburu National Reserve, trek Mount Ololokwe, Maasai Mara National Reserve, day and night game drives, guided bushwalks, luxury safari lodges",
+  "generalInfo": "This Kenya safari holiday offers a rounded view of some of Kenya’s best big game parks in a series of early morning and evening drives. You might see the Big Five (lion, leopard, buffalo, elephant and rhino), but also keep your eyes out for ostriches, cheetahs, honey badgers, African wild dogs and leopards.<br/><br/>Samburu National Reserve is your first stop – the realm of the rare Somali ostrich, reticulated giraffe, Beisa oryx and Grevy’s zebra. Then you’ll fly into the Maasai Mara, where optional activities range from guided visits to Maasai villages and bush walks to hot air balloon flights over the plains.<br/><br/>This Kenya safari holiday is tailor made, so although seven nights is recommended you can tweak it to whatever length you like. Along the way, you’ll stay in luxury safari lodges that maximise your chance of seeing animals while minimising your impact on the environment and people.",
+  "durationDays": "7",
+  "price": "4699",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Nairobi & Transfer to Kalama - You will arrive into Jomo Kenyatta International Airport, as soon as you disembark the aircraft from your international flight, you will be welcomed by a representative who will escort you through immigration, customs and baggage collection and then you will meet your driver in the arrivals area. You will then be transferred to the domestic airport where you’ll board a light aircraft flight to Kalama Airstrip. Upon arrival at Kalama Airstrip, you will be met by a representative and be driven to your accommodation in Samburu in the heart of the Kalama Community Wildlife Conservancy, which is located approximately seven kilometres from the northern border of the Samburu National Reserve."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Safari in Samburu - During the next two days, you’ll enjoy going out on morning and evening game drives in the Kalama Conservancy, Buffalo Springs National Park and Samburu National Park. You will be able to see the \"Big Five\", plus your guide will also expertly locate the \"Samburu Five\" which includes five rare animals found only in the Samburu ecosystem - Somali ostrich, Grevy’s zebra, reticulated giraffe, gerenuk and Beisa oryx. The Kalama Conservancy also has an abundance of other rare species, including striped hyena, civet and African wild dog."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Fly to Masai Mara - This morning, you will be driven back to Kalama Airstrip, where you’ll take a light aircraft flight to the Masai Mara. Upon arrival you will be driven to your accommodation, where you will stay for the next four nights. This afternoon, you’ll head out on your first game drive on the plains of the Masai Mara."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Safari in Masai Mara - Over the next two days on safari in the Masai Mara, you’ll enjoy morning and afternoon game drives in the Masai Mara National Reserve. This iconic reserve has incredible wildlife viewing experinces and it’s highly likely that you’ll see zebra, impala, gazelle, wildebeest, buffalo, rhino and elephant, as well as the cats; lions, cheetah and leopard. As well as game drives, there are various other activities that you can participate in during your time in the Masai Mara, including cultural visits to Maasai villages and markets, guided bush walks, horse riding, and black rhino tracking experiences."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Depart from Nairobi - After breakfast, you’ll check out of Saruni Mara and will be driven back to the airstrip for your light aircraft flight to Nairobi. You may wish to visit the endangered Rothschild giraffes at the Giraffe Centre in Lang'ata, or you can visit the Karen Blixen Museum. Or you may wish to do some last minute shopping at the various markets that sell African handicrafts. Alternatively, you may wish to consider fostering an elephant via the Sheldrick Wildlife Trust. Your driver will transfer you to Nairobi International Airport in the evening in time to catch your flight home."
+    }
+  ],
+  "map": ""
+}

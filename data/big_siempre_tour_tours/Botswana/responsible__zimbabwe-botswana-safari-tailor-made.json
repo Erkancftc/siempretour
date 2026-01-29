@@ -1,0 +1,50 @@
+{
+  "destination": "Botswana",
+  "mainPhoto": "",
+  "id": "zimbabwe-botswana-safari-tailor-made",
+  "tourName": "Zimbabwe & Botswana safari, tailor made",
+  "placesVisited": "",
+  "generalInfo": "Follow in the paths of one of Africa's most iconic creatures as you explore beautiful Zimbabwe and Botswana on this excellent value for money safari tour. Take a trip through Zimbabwe’s famous Hwange National Park and Botswana's Chobe National Park, take in the majestic Victoria Falls, explore the Okavango Delta and enjoy unsurpassed elephant encounters at every step.",
+  "durationDays": "11",
+  "price": "7349",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Bomani Tented Lodge, Hwange National Park: Upon arrival at Victoria Falls airport, guests will be met and transferred to Bomani Tented Lodge, where you will stay for three nights on an all-inclusive basis. Known as the land of the giants for its huge elephant herds, Hwange is the largest natural reserve in Zimbabwe and is famous for its rich diversity of wildlife. Home to one of the biggest elephant populations in the world, as well as around 100 mammal species, the park is popular among animal lovers. Several protected species inhabit the awe-inspiring open landscapes, including the endangered wild dog, critically endangered black rhino, and rare roan and sable - along with lion, cheetah, and around 500 bird species."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Batonka Guest Lodge, Victoria Falls: After breakfast, you will be transferred by air back to Victoria Falls an on to Batonka Guest Lodge, where you will stay for two nights on a bed & breakfast basis. Victoria Falls town lies on the southern bank of the Zambezi River at the eastern end of Victoria Falls. It is a lovely tourist town which is easy to explore on foot and which offers a wide range of activities from the challenge of white water rafting and Bungee jumping, to the awe-inspiring sunset cruises. Access to Victoria Falls is within easy walking distance from the town centre."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Chobe Elephant Camp, Kasane/Chobe: After breakfast, guests will be transferred by shared road transfer to Chobe Bakwena Lodge in Kasane, where you will stay for three nights on a fully inclusive basis. The Chobe River Front is a remarkable wildlife area due to the permanent water source of the Chobe River. The spectacle of all the animals coming to drink and frolic at the water's edge is one to behold and the area is famous for its abundance of elephants, a variety of predators and, in addition, you are likely to see herds of buffalo and possibly even roan and sable antelope. Included activities during your time here will be unforgettable game drives to view the region’s spectacular wildlife from open safari vehicles, as well as river safari cruises. Canoeing may also be available (depending on the season) and you can also enjoy a cultural visit to a nearby village."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Setari Camp, Okavango Delta: After breakfast, you will be transferred by road to Kasane Airport for your seat in a plane transfer to Setari Camp, where you will stay for two nights on a fully inclusive basis. Upon arrival at the airstrip, you will transfer to Setari Camp, located in a 50,000 hectare private concession in the Okavango Delta’s Panhandle region. The Okavango Delta is an immense, waterlogged oasis alive with elephants and birdlife, adrift in the middle of Kalahari sands, and your 2 days here will be filled with exciting activities based around the waterways and its inhabitants. You will have multiple chances to get up-close to elephant, buffalo, hippo, crocodile, big cats and more as you enjoy included Mokoro (traditional dug-out canoe) excursions, boat safaris, and walking safaris. As well as the big game sightings, the relaxing Mokoro excursions will allow you time to learn about the habits of the smaller animals, sighting birds and learning their calls, as well as identifying plant-life and their medicinal uses. Scenic helicopter trips over the Delta are also available for an additional cost."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "After an early morning activity (time permitting) and breakfast, you will be transferred by plane to Maun Airport, for your onward travel arrangements."
+    }
+  ],
+  "map": ""
+}

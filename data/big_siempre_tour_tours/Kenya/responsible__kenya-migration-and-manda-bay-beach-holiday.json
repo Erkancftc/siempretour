@@ -1,0 +1,50 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "kenya-migration-and-manda-bay-beach-holiday",
+  "tourName": "Kenya migration and Manda Bay beach holiday",
+  "placesVisited": "",
+  "generalInfo": "The adventure begins the moment you step aboard your light aircraft in Nairobi. Soon you’re soaring over a patchwork of wilderness, dotted with acacia trees and winding rivers, before touching down in the legendary Masai Mara. Here, the drama of the Great Migration plays out on golden plains, with wildebeest and zebra thundering across the landscape in their millions.<br/><br/>Naibor Camp awaits, an elegant tented hideaway shaded by forest along the Talek River. Wake to birdsong and the low rumble of hippos, and drift off each night to the sounds of the bush. Days are filled with game drives led by expert guides, tracking big cats, elephants, and the ever-moving herds. Between July and October, you may even witness the most dramatic spectacle of all: wildebeest braving crocodile-filled rivers in their epic southward push.<br/><br/>For a truly unforgettable perspective, rise with the sun and float silently across the savannah in a hot air balloon. Watch the plains come alive with light and movement, then touch down for a champagne breakfast in the bush.<br/><br/>After the thrill of safari, it’s time to change pace. Fly north to Lamu, where you'll be met and whisked away across the water by boat to Manda Bay, Kenya’s ultimate barefoot luxury retreat. Shoes come off on arrival and won’t be needed again until you leave. Here, white sands meet turquoise seas, and days drift by in a haze of relaxation and adventure. Snorkel, sail, water-ski, or simply stretch out under the sun. As evening falls, take a dhow cruise into a fiery sunset or set off to explore the narrow streets of historic Lamu Town, a UNESCO World Heritage Site steeped in Swahili culture.",
+  "durationDays": "11",
+  "price": "5230",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Upon arrival into Jomo Kenyatta International Airport, a representative will be waiting to meet you and transfer you across town to Wilson Airport. Here. you'll board a light aircraft flight down to the Masai Mara. The flight itself is part of the adventure. In just under an hour you'll be gliding over the Great Rift Valley, with endless plains, winding rivers, and scatters acacias unfolding beneath you. It's the perfect introduction to the wilderness you're about to explore. Your guide from Naibor Camp will be ready to meet you at the airstrip. From there, enjoy your first game drive as you travel through the open savannah towards camp. Keep your eyes peeled - it's not unusual to encounter wildebeest, giraffe, or even big cats before you've even unpacked your bags. Naibor will be your home for the next four nights, a stunning tented camp perfectly located for exploring the Mara at its very best."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Explore this amazing part of Kenya over the next three days on game drives. From July to October, you'll be at the heart of the action as thousands of wildebeest and zebra make their perilous river crossings in the Mara, pursued by lions and lying in wait for crocodiles. It really is one of nature's most dramatic spectacles. As night falls, the bush transforms, alive with the sounds of nocturnal wildlife - so you will fall asleep to the Hippos in the river below you and quite often the not so far roar of a lion. The food here is absolutely excellent and you will certainly be impressed with their delicious meals. During your visit you can also visit a nearby Maasai village as well as enjoy a hot air balloon safari (optional extra)!"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "After a final morning in the Masai Mara, you’ll transfer to the airstrip for your short flight to Nairobi Wilson, taking a last look at the vast open plains below. From here, connect to your onward flight to Lamu. On arrival, a boat will whisk you across the water to Manda Bay, where barefoot luxury and six nights of pure relaxation await."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "This is your time to unwind - stretch out on the beach, relax by the pool, and soak up the sunshine with a cocktail in hand. For those feeling adventurous, Manda Bay offers kite surfing, windsurfing, snorkelling, and fishing, along with the chance to explore the charm and history of nearby Lamu Town."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Savour your final morning in paradise, with time to relax and enjoy lunch before your flight back to Nairobi Wilson. On arrival, you’ll be met and transferred to Jomo Kenyatta International Airport for your onward journey home."
+    }
+  ],
+  "map": ""
+}

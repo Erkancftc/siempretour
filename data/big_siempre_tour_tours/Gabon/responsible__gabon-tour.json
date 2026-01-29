@@ -1,0 +1,65 @@
+{
+  "destination": "Gabon",
+  "mainPhoto": "",
+  "id": "gabon-tour",
+  "tourName": "Gabon tour",
+  "placesVisited": "Libreville, Mitshogo village, Lambarene, Schweitzer Hospital, Oguemoue Lake",
+  "generalInfo": "Gabon has been described as a paradise for wildlife enthusiasts, with a huge proportion of its land designated as national parks and home to some of the continent’s most impressive wildlife. This short Gabon tour takes you to the heart of its rainforests, a land of primeval jungles, wetlands and savannah, made famous by the explorer Mike Fay in his epic trek through Central Africa. Starting in Libreville, we trek in the forests of the Raponda Walker Arboretum and spend some time exploring the city, before travelling to the old colonial town of Lambarene where we delve into the secrets of Bwiti, a bizarre and fascinating belief system found nowhere else, and are privileged to witness a unique local ceremony and gain insights into this almost mystical religion. We take a thrilling boat journey on the Ogooue? River, penetrating further into the rainforest, and at Lake Oguemoue, we stay in a tented camp as part of a community based tourism project and explore the surrounding forest and waterways in search of Gabon’s rich wildlife. We also have opportunities to meet local villagers going about their daily lives here. This short trip offers the chance to see Africa at its wildest, where nature rules supreme and the jungle is king. Gabon has often been called ‘Africa’s last Eden’ – come and find out why.",
+  "durationDays": "10",
+  "price": "4499",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Libreville - Arrive in Libreville and transfer to your hotel. Overnight Tropicana Hotel or similar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Libreville - We start the day with a visit to the Raponda Walker Arboretum, an area of protected forest that covers around 6,747 hectares and is home to various equatorial rainforest trees and plants. We trek in the forest, learning about the properties of medicinal plants that we come across, and reach the coast where we have a picnic on the beach. Head back to Libreville in the afternoon to explore some of the city. Overnight Tropicana Hotel or similar. (BL)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Lambarene - In the morning we continue exploring Libreville with a visit to the St Michel Church and other sites. The church showcases an interesting mix of traditional Gabonese and Christian art styles. In the afternoon we head to Lambarene, on an island in the Ogooué River. Lambarene is known for its lakes, with several endemic bird and fish species, as well as the Schweitzer Hospital, established in the early 20th century and a centre for research into malaria. We spend the night in the hospital guest rooms for a sense of the history of this town. (BD)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Lambarene - In the morning we explore the hospital and the house of Albert Schweitzer which now houses a museum. We have the afternoon to relax and enjoy the beautiful surroundings here, before driving to the outskirts of Lambarene in the evening to witness a very special – and unique to Gabon – ceremony, that of the Bwiti belief system. This is a ‘secret’ society based on indigenous beliefs, where initiates seek to communicate with spirit world, and a highlight of the trip. Overnight Albert Schweitzer Hospital or similar. (BLD)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Lambarene - Free morning to relax or take a walk after a late night. In the afternoon we explore Lambarene town, visiting the Isaac market and Ogooué river. Overnight Albert Schweitzer Hospital or similar. (BLD)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Oguemoue Lake - This morning we travel by boat along the Ogooué River, a stunning journey which gives a sense of how the first European explorers of this region must have felt. We then reach our base for the next few days, Oguemoue Lake, and set out to try and catch our first glimpse of the local wildlife. Overnight tented camp. (BLD)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Lambarene - Libreville - After breakfast we make our way back to Lambarene and continue to Libreville in the afternoon. Overnight Hotel Tropicana or similar. (BL)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Libreville - We spend the day exploring Libreville with visits to some interesting workshops including those of wood sculptors and painters. We also visit the Museum of Arts and Traditions and there will be the opportunity to purchase traditional musical instruments as well as items used in traditional Bwiti ceremonies. Transfer to the airport in the evening for your flight home. (B)"
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,70 @@
+{
+  "destination": "Belize",
+  "mainPhoto": "",
+  "id": "ruins-reefs-and-rainforest-an-essential-belize-vacation",
+  "tourName": "Ruins, Reefs and Rainforest: An Essential Belize Vacation",
+  "placesVisited": "Mountain Pine Ridge, Caracol, Tikal, Chan Chich, Ambergris Caye",
+  "generalInfo": "A trilogy of breathtaking landscapes come during this 11-day tour of Belize. Epic Maya ruins rise out of a jaguar populated rainforest, Caribbean islets stand above vibrant coral reefs, and the wilderness captures all of your senses. With over a week amid the rainforest, this luxury vacation celebrates Belize’s allure. All of the adventures are tailored to your energy levels, and the lodges will immerse you in every landscape for an incredible experience.",
+  "durationDays": "11",
+  "price": "6,300",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Mountain Pine Ridge Forest Reserve – Arrival",
+      "description": "You will be met at the international airport in Belize City, and you will have the option to take a short tour of the capital or transfer directly to the jungles of Western Belize. This is a country with three major roads, and Mountain Pine Ridge Forest Reserve is far from all of them. Jaguars prowl the trees, ocelots and tapirs are regularly seen around sunset, and the bird list includes red-lored parrots and king vultures. Deep in this forest of misty pine is Francis Ford Coppola’s exclusive residence. Transformed into a 20-room hideaway, the lodge is surrounded by the sights, sounds, and smells of the wild. You will be staying here for the next few days."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Mountain Pine Ridge Forest Reserve – Outdoor Adventure",
+      "description": "You will be immersed in a landscape that encourages adventure, but the exact style of adventure is up to you. You can indulge in a sunrise horse ride through the pine, a hike in search of jaguars and cougars, or a walk that will allow you to track the wild cats in their natural environment. You can also glide through Barton Creek Cave in a canoe and take a stroll through the forest to spectacular waterfalls and viewpoints. Mountain Pine Ridge is a place of strange smells and sounds that will accompany you all day and into the night."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Mountain Pine Ridge Forest Reserve – Ruins at Caracol",
+      "description": "The Caracol ruins are so remote that you must take a government escort to reach them. On most days, there are not more than a handful of visitors. Standing on an excavated platform between the trees, Caracol is what remains of one of the Mayan’s most important cities. People lived here more than 3,000 years ago, although it has all been abandoned for millennia now. Here, you can ascend the temple steps, admire the carved altars, inspect the detail on the stelae, and walk across the plaza. This is a ghost city that you can spend an entire day exploring. Having a good guide will be essential and will help you understand the history of the city and civilization."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Mountain Pine Ridge Forest Reserve – Guatemala and Tikal",
+      "description": "Tikal is not just another Maya ruin. Yesterday at Caracol, you felt the scale of the ancient civilization, but today, you will uncover exceptional details. You will take a trip across the border to a Guatemalan coffee farm. Here, you will follow the process from bean to cup. Then, you will venture into the rainforest, where monkeys stand guard to the walking trails. Temples and pyramids rise dramatically from the forest floor, surging past the canopy with moss-covered steps and cracked stones. Many of the ruins have been overtaken by the jungle, but your guide will help you with all of the intricate details that have been preserved. You will return to Belize in the afternoon for another quiet evening in the forest."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Chan Chich – Jungle Lodge and Jaguar Prints",
+      "description": "After two days of Mayan cities and a flight to Chan Chich, you will stay at a lodge that is built on an ancient Mayan plaza. Nestled inside a vast nature reserve, the lodge is a real getaway from the modern world. Monkeys shout, cat prints fill the forest, and small Maya ruins stand guard. Upon your arrival, you can spend the day creating your own adventure. The exotic wildlife is the main highlight, and although it is rare to see a jaguar, your guides will be experts at finding the cats. Your time here will be as if you are living out Mayan history with Western comforts."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Chan Chich – Actun Tunichil Muknal Caves",
+      "description": "Actun Tunichil Muknal epitomizes the allure of Chan Chich. You will begin the day with a sunrise jungle hike, which is also the best time to search for the local wildlife. You will return to the lodge for a second breakfast before heading to another eerie jungle world, Actun Tunichil Muknal caves. To get here, you will cross rivers and climb over boulders into a realm that was only recently discovered. The subterranean journey will continue by boat, and you can pick up skulls and pots from an unknown time. This was a sacrificial Maya site. You can spend up to three to four hours in the cave system. When you return to your lodge, you can spend the rest of the day at your leisure."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Ambergris Caye – Caribbean Island Luxury",
+      "description": "From the rainforest to the reef and from ruins to the beach, your vacation will end with four self-guided days on Ambergris Caye. Belize’s largest island is the typical Caribbean getaway that is free of crowds and the large-scale resorts that have changed so many other Caribbean islands. Although this is Belize’s largest island, Ambergris Caye is barely a mile long. You will fly here from Belize City and then transfer via water taxi to a remote part of the island. With a villa on the sand, there will not be much to think about here. You can kick off your shoes and stop thinking about the time."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Ambergris Caye – The Bounty of the Barrier Reef",
+      "description": "Here, mornings are cool and quiet, the afternoons are usually warmer, and the evenings are sultry with everything from cocktails at beach bars to lazy hours of gazing at the stars. Nothing will be planned for these three days, although there are many different options that you can choose from based on your interests. You can indulge in snorkeling, scuba diving, and a scenic flight over the area. Catamaran tours can last two hours at sunset or a full day and may include stops to snorkel and to indulge in a seafood barbecue on a deserted island. After all the adventure in the jungle, you will now be immersed in a completely different landscape."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Ambergris Caye – Departure",
+      "description": "From the villa, it will be a short ride to the airport and a 15-minute domestic flight back to Belize City. From here, you will transfer to the international airport and connect with your homebound flight."
+    }
+  ],
+  "map": ""
+}

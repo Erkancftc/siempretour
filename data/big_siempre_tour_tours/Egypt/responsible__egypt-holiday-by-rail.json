@@ -1,0 +1,70 @@
+{
+  "destination": "Egypt",
+  "mainPhoto": "",
+  "id": "egypt-holiday-by-rail",
+  "tourName": "Egypt holiday by rail",
+  "placesVisited": "",
+  "generalInfo": "Embark on a 9-day journey that combines Egypt’s most iconic monuments with authentic local encounters, travelling from Cairo to Aswan and Luxor before returning to the capital. From the timeless Pyramids of Giza to the grand temples of Luxor, this trip is designed for travellers who want to experience Egypt’s history, culture, and everyday life at a comfortable and well-balanced pace.<br/><br/>Travel between major cities by sleeper train, offering a relaxed and lower-impact way to explore Egypt, complemented by private transfers for local sightseeing. In Aswan, discover the High Dam and visit the beautiful Philae Temple, set on an island and reached by boat, before continuing your journey through Upper Egypt. Walk through historic streets, explore local neighbourhoods, and visit traditional markets along the way.<br/><br/>Throughout the trip, professional Egyptian guides share both historical knowledge and personal insights, helping travellers connect more deeply with the places and people they meet. The itinerary carefully balances guided sightseeing with free time, allowing space to absorb each destination while travelling responsibly, respectfully, and with a genuine sense of local life in Egypt.",
+  "durationDays": "9",
+  "price": "2170",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive at Cairo International Airport, meet & assist through formalities, then transfer to your hotel. Check in and enjoy a relaxed evening settling in. Overnight stay in Cairo."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "After breakfast, visit the Grand Egyptian Museum to see newly displayed artifacts from Ancient Egypt. Continue to Salah El Din Citadel, enjoying panoramic city views and a tour of the Alabaster Mosque. (optional ) Spend some leisure time wandering historic streets or local cafés before returning to your hotel for overnight stay."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "After a delicious breakfast, Visit the Pyramids of Giza and the Sphinx, then explore local papyrus and jewellery stores. Enjoy lunch on your own. In the afternoon, head to Sakkara to see the Step Pyramid of Djoser, one of the oldest stone structures in the world. Transfer to Cairo train station for your overnight sleeper train to Aswan."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Arrive in Aswan, meet & assist at the train station, then visit Philae Temple, dedicated to the goddess Isis, followed by a visit to the Aswan High Dam. Lunch on your own during the tour. Transfer to your hotel in Aswan, dinner and overnight stay."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Breakfast, then visit Kom Ombo Temple, followed by Edfu Temple. Continue your journey drive to Luxor (approx. 3:30 hours), check in at your hotel, and overnight stay."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "After breakfast, cross to the West Bank of Luxor. Visit three tombs in the Valley of the Kings, explore Hatshepsut Temple, and see the Colossi of Memnon. Return to hotel for overnight stay."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Breakfast, then explore the East Bank of Luxor, visiting Karnak and Luxor Temples. In the late afternoon, transfer to Luxor train station for your overnight sleeper train to Cairo."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Arrive at Giza train station, meet & assist, then transfer to visit the National Museum of Egyptian Civilization and Old Cairo, including historic religious sites and local streets. Return to your hotel for check-in and overnight stay."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Enjoy breakfast, complete check-out formalities, and transfer to Cairo International Airport for your departure flight."
+    }
+  ],
+  "map": ""
+}

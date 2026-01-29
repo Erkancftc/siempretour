@@ -1,0 +1,65 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "carretera-austral-self-drive-holiday-patagonia",
+  "tourName": "Carretera Austral self drive holiday, Patagonia",
+  "placesVisited": "",
+  "generalInfo": "Exploring Chilean Patagonia along Carretera Austral is one of the most unforgettable experiences in Patagonia. Driving through this remote and spectacular region offers the freedom to take things at your own pace, stopping whenever you like to soak in the breathtaking scenery, from emerald lakes and misty fjords to remote glaciers and ancient forests. There's a real sense of adventure here, far from the crowds, surrounded by unspoilt nature. <br/><br/>This is a circular route, starting and ending at Balmaceda airport, and includes a ferry crossing on General Carrera Lake, the largest in Chile and shared with bordering Argentina. For those with more time, the journey can be extended into neighbouring Argentina, where the adventure continues across the Patagonian Steppe and into El Chaltén, best known for its scenic hiking trails, and El Calafate, famous for the majestic Perito Moreno Glacier. From there, you could continue south into Chile to explore Torres del Paine National Park before returning to Santiago.",
+  "durationDays": "8",
+  "price": "1800",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Your international flight is scheduled to arrive in Santiago in the morning. Upon arrival, you are met at the airport by your driver and transferred to your hotel in the city centre. Wander around the capital city, soaking up the atmosphere and visiting some interesting sites: Bellavista, a bohemian neighbourhood, Plaza de Armas with its colonial architecture and Cerro Santa Lucia with its scenic view over the city and the Andes. Transport: private transfer 1h > Accommodation: hotel *** >Included meals: none"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Today, you will fly south from Santiago to Balmaceda, in the Aysen Region, where you will find your rental vehicle waiting for you at the airport. The journey south to Villa Cerro Castillo, along the Carretera Austral (RUTA 7), will be 56 km of paved road and then 18 km of gravel to your accomodation. Transport: private transfer 1h to airport + rental car 60mi ~1.5 h > Accommodation: hotel *** >Included meals: breakfast"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "During the next few days in the area, different activities are available from self-guided walks through millenary native forests, to spotting wildlife, horseback riding or trekking in Cerro Castillo National Park. Accommodation: hotel *** >Included meals: breakfast > rental car – depending on selected activities."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "From Villa Cerro Castillo, the Carretera Austral is all gravel. Before reaching your next accommodation, we recommend a visit to the Marble Caves, a series of beautiful formations in the middle of Lake Gral. Carrera. This typical Patagonian Lake has an area of 710 sq mi, distributed into Argentinian and Chilean territory, making it the biggest lake in Chile. Get close by kayaking (~ 4 h) or by boat(~ 1.5h) . Transport: rental car 100 miles ~ 4 h > Accommodation: Hotel*** >Included meals: breakfast"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "There are various activities to enjoy in the area, including scenic hikes around your accomodation. Another remarkable stop is the junction of the Baker and Neff Rivers, featuring impressive waterfalls about 30 km from your lodge. With more time, you could also take a boat trip across the San Rafael Lagoon to its glacier, set within the Northern Ice Field and part of San Rafael National Park. Transport: rental car – depending on selected activities > Accommodation: Hotel *** > Included meals: breakfast"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Today you will drive to Chile Chico, along Ruta 265, bordering Lake Gral. Carrera. Once there we recommend continuing along Ruta X-753 all the way to Lake Jeinemeni (56km) in Patagonia National Park. On the way back, about halfway, there is a nice circular trekking including Circuito Piedra Clavada, Cueva de las Manos, and Valle Lunar, for a total of 8km. Overnight in Chile Chico. > Transport: rental car 70 mi ~ 2.5 h to Chile Chico > Accommodation: Bed & breakfast > Included meals: breakfast"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Drive back to Balmaceda airport and board a flight back to Santiago. To make things more interesting, you will board a 2.5 h ferry to Pto Ingeniero Ibanez and finally another 60 miles drive to Balmaceda airport. Once in Santiago, a private transfer will take you to your hotel for your last night in the capital city. > Transport: rental car car 50 mi ~1.5 h + ferry ~ 2.5h + private transfer 1h > Accommodation: Hotel*** > Included meals: breakfast"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Your driver will pick you up at your hotel in Santiago and take you to the airport, about 4 hours before departure of your flight back home. Transport: private transfer 1h >Included meals: breakfast"
+    }
+  ],
+  "map": ""
+}

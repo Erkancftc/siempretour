@@ -1,0 +1,60 @@
+{
+  "destination": "Australia",
+  "mainPhoto": "",
+  "id": "one-week-down-under-iconic-australia-itinerary",
+  "tourName": "One Week Down Under: Iconic Australia Itinerary",
+  "placesVisited": "Sydney, Uluru, Great Barrier Reef, Port Douglas",
+  "generalInfo": "From watching the sunset in Uluru to cruising the Parramatta River, this handcrafted one-week Australian adventure will lead you on an exclusive journey to Australia’s icons in addition to incorporating tropical Queensland and Sydney’s most exclusive experiences. Australia is a land of icons and legends that can be mostly discovered in just about a week. Indulge in aboriginal encounters in an ancient forest, magnificent landscapes from the Great Barrier Reef to the red desert, and contemporary city wonder beside the beach.",
+  "durationDays": "7",
+  "price": "2,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Port Douglas – Rest and Relaxation",
+      "description": "After landing at Cairns International Airport, you will be transferred to Port Douglas. While Cairns is a nice town, it does not actually have its own beach. Port Douglas is smaller, quieter, and draped along a brilliant stretch of sand. Today will be at your leisure. It is great to start slow, even if you only have a week. Once you have settled in to your accommodation, you can stroll barefooted along the Pacific, bask in the shade of towering trees, and check out a low-slung town that is dominated by cafe terraces and boutiques. There is so much to do during your one week in Australia, so take today to rest and ease into the atmosphere down under."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Port Douglas – Aboriginal Experiences",
+      "description": "Today, you will be led by guides from three contrasting clans to gain a broad and intimate perspective on their ancient cultures. You will begin in the forest, shouting a message to the forest protector and exploring how every tree and plant has its use. Bush survival is easy in the hands of experts, and you will learn how to make toothpaste and soap, taste edible bugs, and explore how this forest clan has endured for many millennia. Down at the beach, you will meet a hunter-gatherer clan and venture out with a spear to catch rock crabs and various other critters that are left exposed by low tide. Aboriginal stories are passed down in paintings, and an artist will show you how dots and lines complement verbal narratives."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Port Douglas – The Great Barrier Reef",
+      "description": "Today, you will be admiring the Great Barrier Reef from an accessible vantage point. After breakfast, you will soar over the Pacific in a private helicopter to admire how hundreds of individual reefs create this barrier , each with a different shape, color, and size. Then, after touching down on a pontoon, you can snorkel in this remarkable realm. Unique colors extend further than your eye can see, and peculiar coral is dominated by a vivid collection of reef fish. Each reef is unique, and the sheer range of colors and styles is what makes this natural wonder so special. Most people take a boat tour to a single reef, but, by helicopter, you can explore many."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Uluru – Magnificent Uluru Sunset",
+      "description": "Departing from Port Douglas this morning, you will be transferred back to Cairns for a flight to Uluru. Eventually, you will touch down and have some time to relax at your desert camp in the solitude of the red desert. A private sunset Uluru tour will follow, during which you can wander the base to see Aboriginal paintings and evidence of how this rock has been used by civilization. From bright sun-bleached orange, the rock transforms, traveling through muted red tones before sinking into deep crimson and eventually shadow. An astronomer guide will introduce you to some of the constellations, and it is rare to go 20 minutes without seeing a shooting star."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Sydney – Parramatta Dinner Cruise",
+      "description": "Your stay at the desert camp will include all meals. This is a sacred Aboriginal site, and, fortunately, much of it remains in local hands, so visitors can only explore a small section. After sunrise brings the color changes of yesterday in reverse, a local guide will lead you through the stark red Kata Tjuta canyon, past billabongs, and near trickling waterfalls. Back at the desert camp, you will have a second breakfast before your flight to Sydney. Add on the time difference, and it will be late afternoon by the time you arrive, but there will still be plenty to experience. You will venture beneath the bridge on a dinner cruise past the opera house while dining on fine cuisine and soaking up your first impressions of the city."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Sydney – Climbing Sydney Harbour Bridge",
+      "description": "Last night, a dinner cruise led you through the city’s heart, but this morning’s Sydney Harbour Bridge climb will provide you with the ultimate perspective. Strapped into climbing equipment, you will ascend slowly along the iconic steel arches to the bridge’s highest point. After descending from the bridge, a local guide will lead you to the city’s hidden and iconic locales. Grand Victorian arcades are obvious highlights, but there is much more to Sydney than the famous places. Sydney Opera House will already have impressed you from the bridge and on the cruise, but today, you will experience a show at the opera house. Today will be very customizable, so you can expect your guide to respond to any personal wishes."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Sydney – Departure",
+      "description": "With a final morning in Sydney, you can explore the famous beaches. These are quieter and cooler in the morning, and most locals avoid beaches like Bondi during the afternoon. Bondi is best to start with a coffee on an al fresco terrace while watching the waves. Then, you can indulge in a cliffside walking route to Coogee, which is a beautiful and easy trail that celebrates Sydney’s unique coastline. Coogee has a great restaurant for lunch, and you will have a late checkout so that you can refresh before an evening transfer to the airport."
+    }
+  ],
+  "map": ""
+}

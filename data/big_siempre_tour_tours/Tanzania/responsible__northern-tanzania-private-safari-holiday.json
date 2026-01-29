@@ -1,0 +1,65 @@
+{
+  "destination": "Tanzania",
+  "mainPhoto": "",
+  "id": "northern-tanzania-private-safari-holiday",
+  "tourName": "Northern Tanzania private safari holiday",
+  "placesVisited": "",
+  "generalInfo": "Explore Tanzania and discover the best life time memories. This tour incorporates travelling with a private tour guide who offers a total flexibility in game viewing. <br/><br/>Despite Lake Manyara being a relatively small National Park, it is incredibly diverse with plenty of elephants, tree-climbing lions (getting rarer), leopards, giraffes and more than 400 species of birds. Serengeti offers the absolute classic African safari setting with the incredible annual wildebeest migration. Visit the  world's largest crater which acts as a natural enclosure for almost every species of wildlife found in East Africa which includes the very rare black rhino. The Ngorongoro Crater is where you'll witness some of the densest population of wildlife in the world and it's a truly amazing.",
+  "durationDays": "8",
+  "price": "6630",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival/Arsha - Meet at Kilimanjaro airport and transfer to your hotel for 1 night. Accommodation: Kibo Palace Meals: Breakfast"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Lake Manyara National Park - Departure to Lake Manyara National Park, two-thirds of whose territory is occupied by the lake where hundreds of hippopotamuses share the waters with 380 species of birds. In the savannah, it is the kingdom of impala, giraffe, zebra, buffalo and lions, while the forest is home to various species of monkeys in dense vegetation. Game drive in late afternoon. Overnight: Lake Manyara Serena Lodge Meals( Breakfast, Lunch, Dinner)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Serengeti National Park - Morning game drive in the park. Departure to Olduvai Gorge, where Mary Leakey discovered fragments of human skeletons more than a million years old. Visit of the museum. Continue to the Serengeti National Park with game drive en route to your lodge. Serengeti Serena Lodge Meals( Breakfast, Lunch, Dinner)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Serengeti National Park - Morning and afternoon game drives across the vast plains of Serengeti, the scene of the most impressive migration of wildebeest and zebras followed by their predators. The park is also the ideal habitat for cheetahs, the fastest mammal Overnight Serengeti Serena Lodge Meals (Breakfast, Lunch, Dinner)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Ngorongoro Crater- Departure to the protected area of Ngorongoro, world famous. In the hollow of this beautiful rugged bowl of 8,300 km2, live some 20,000 animals. Visit a Maasai Village, where you discover the customs and customs of this people. In the afternoon, game drive in this remarkable natural amphitheater sheltering almost all species of animals from East Africa (except the giraffe). Overnight Ngorongoro Serena Lodge Meals(Breakfast, Lunch, Dinner)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Tarangire National Park- This morning, drive to the Tarangire National Park which has an amazing variety of plants (sausage trees, acacias) but is especially famous for the huge baobabs that dot its rocky slopes. The park also offers a very diverse fauna. In the afternoon, game drive in the park. Overnight Tarangire Sopa Lodge Meals (Breakfast, Lunch, Dinner)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Tarangire National Park-Game drives in the morning and late afternoon. The park is home to thousands of elephants who are fond of this site; the Tarangire River running through the park serves as a watering hole for wildlife throughout the year. Accommodation: Tarangire Sopa Lodge Meals: (Breakfast, Lunch, Dinner)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Arusha/ Departure - Game drive in the morning. Lunch at the lodge. In the afternoon drive to Arusha and transfer to Kilimanjaro Airport. SAY GOODBYE TO THE WONDERFUL COUNTRY AND PROMISE TO JOIN US ON ANOTHER EXPEDITION"
+    }
+  ],
+  "map": ""
+}

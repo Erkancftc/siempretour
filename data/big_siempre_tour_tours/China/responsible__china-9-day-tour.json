@@ -1,0 +1,65 @@
+{
+  "destination": "China",
+  "mainPhoto": "",
+  "id": "china-9-day-tour",
+  "tourName": "China 9 day tour",
+  "placesVisited": "",
+  "generalInfo": "Discover the highlights of China’s ‘Golden Triangle’ on this introductory tour, visiting Beijing, Xian and Shanghai. Your journey begins in Beijing, China’s capital with a rich imperial history where you will visit the Forbidden City, enjoy the classical Chinese gardens of the Summer Palace, explore the narrow alleys of the Hutongs by bicycle, walk on the Great Wall, and learn about rituals of old at the Temple of Heaven. Continue to Xian, once known as Chang’an (Eternal Peace) and home to numerous dynasties, including the Qin dynasty whose first emperor is guarded in his afterlife by the Terracotta Warriors. After coming face-to-face with these warriors and exploring Xian’s Muslim Quarter, your trip ends in the cosmopolitan city of Shanghai, where you will see traditional China juxtaposed with the bright lights of the future.",
+  "durationDays": "9",
+  "price": "3650",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "On arrival in Beijing, you will be met at the airport by your guide and transferred to your hotel for check-in."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Start your discovery of Beijing this morning with a visit to the historic Tiananmen Square and the Forbidden City with your private guide. Surrounded by the Tiananmen Tower, Monument to the People's Heroes, Great Hall of the People, and Chairman Mao Zedong Memorial Hall, Tiananmen Square is one of the world’s largest and each day, thousands of locals come and pay respects to Chairman Mao’s statue from all over China. Continue to the imperial Forbidden City, a vast site of ancient buildings that was once off limits to all but the emperor and the imperial family."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "This morning journey out of the city to visit the majestic Great Wall at Mutianyu, one of the best-preserved sections of the Wall where you will be able to admire the magnificent piece of architecture, aiding China’s defence in ancient times. Return to Beijing in the afternoon and take a tour of the scenic Summer Palace, the largest and most well-preserved royal park in Beijing, taking in its lakes, gardens, walkways and teahouses."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Spend this morning exploring the Temple of Heaven with your private guide. This Confucian-designed temple is technically an altar and stands in the middle of a leafy park. We can arrange for you to arrive early, so you can see Beijing residents performing the ancient art of Tai chi. Later you will be taken to Beijing West railway station by private transfer to catch the bullet train to Xian, home of the Terracotta Warriors, a five-and-a-half-hour journey. On arrival, you're met by a private guide and driver and transferred to your hotel."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Today you will take a full day tour to see Xian’s most famous sights. Begin with a visit to Xian's star attraction, the Terracotta Army, with your private guide. Even if you have read about these ancient models, nothing can prepare you for their sheer scale and number. Discovered in 1974 by a group of farmers digging a well, it is now one of the main tourist attractions in China and one of the most important archaeological finds of the 20th century. Return to the city and take a walk on the Ancient City Wall. Originally built during the Ming dynasty, the city wall has been restored to its former glory and you can marvel at the sheer scale of the construction as you stroll along the ramparts that provide magnificent views of the city. End the day with a visit to the Muslim Quarter, walking through the narrow lanes that feature old mud brick houses, butchers’ shops, small sesame oil factories and the Grand Mosque."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "This morning, transfer by private car with your guide to Xian airport and fly to Shanghai. On arrival in Shanghai, you will be met at the airport by your guide and taken to your hotel by private car. Alternatively, you may wish to take a ride on the super-fast Maglev train into the city and continue by private transfer to your hotel. The remainder of the day is at leisure for you to soak in the atmosphere of China’s exciting modern city."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Today you will explore the vibrant city of Shanghai by bike in the morning. This shared cycling tour takes you through the French Concession quarter, with its elegant Art Deco villas, before plunging you into the backstreets and alleyways of off-the-beaten-path residential areas and the maze of narrow streets that make up Shanghai’s old town to see the daily life of local people. You’ll also see the plethora of activities that take place in one of the city’s main public parks and visit a Buddhist temple. The remainder of the day is at leisure for you to explore the city independently. We suggest visiting the Shanghai Museum. Rated among the best museums in Asia, the museum boasts a comprehensive collection of Chinese cultural artefacts and art. You may wish to visit Yu Gardens, where you'll have the chance to explore the gardens, bazaars and maze of narrow lines lined with traditional houses or take a walk along the historic Bund to admire its colonial architecture and soak up the views of the famous Pudong skyline on the opposite bank of Huangpu river. We can also arrange a leisurely boat trip along the river for a relaxing way to see old and new Shanghai instead."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Today you'll be collected form your hotel and driven to the airport for your return flight."
+    }
+  ],
+  "map": ""
+}

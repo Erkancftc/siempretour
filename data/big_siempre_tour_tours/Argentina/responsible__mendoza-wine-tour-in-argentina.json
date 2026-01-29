@@ -1,0 +1,40 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "mendoza-wine-tour-in-argentina",
+  "tourName": "Mendoza wine tour in Argentina",
+  "placesVisited": "",
+  "generalInfo": "This 3 day Mendoza Wine Tour features the vineyards of Mendoza and includes guided visits to the traditional wineries to sample the rich Malbec and Cabernet. Located at the base of the Andes Mountains and nearby Mount Aconcagua, Mendoza is known for its year-round sunshine, gourmet restaurants and delicious wines. With boutique hotels as well as comfortable budget accommodation available, the Mendoza Wine Tour offers something for everyone.",
+  "durationDays": "3",
+  "price": "1065",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Mendoza: Argentina's main wine region and heartland of Malbec grape, has also impressive mountains (like Aconcagua, climbers world known summit), outdoor sports (adventurous rafting) and breathtaking landscapes. Upon arrival, you will be taken to your hotel. Private Service."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Full-Day Wineries Tour: In the morning, we will pick you up to explore Argentina’s famous Wine Road and visit some of the regions most highly acclaimed wineries. Accompanied by expert guides we learn about the production facilities, the different styles of wine-making, the gastronomy and we will have a great wine tasting. You will visit Maipu or Lujan de Cuyo depending on the operativity of the wineries. Maipu is the first viticultural area in Argentina. It was the location chosen by the first European immigrants to continue their most beloved family tradition; wine-making. Here the residents found the perfect climate and soil conditions to maintain their passion, eventually gaining international recognition for the excellence of their wines. In this region, olive-groves and vineyards sit side-by-side, making it the perfect place to enjoy an Argentine wine and olive-oil experience. Lujan de Cuyo, the region known as The Cradle of Malbec. Surrounded by gentle hills and over-looked By America’s highest mountains, Lujan de Cuyo is known for its country houses, tree-lined streets, fine restaurants, Malbec vineyards, olives and world-renowned wineries. This quaint, picturesque town is the perfect place to enjoy a captivating wine experience. In the area, we visit some of the regions most prestigious wineries where we will have guided tours and the opportunity to learn about the production facilities, the different styles of wine-making, the gastronomy and we will have a great wine tasting. We will enjoy a winery lunch prepared by a renowned chef, who has developed the best gourmet dishes to accompany the various varietals of wine produced here. After lunch, we will take you back to your hotel, with a clear picture of the diversity involved in the world of wine, the gastronomy and Mendoza’s landscape. Type of service: Semiprivate Duration: 8/9 hours Included: Transportation mentioned above, bilingual guide (English / Spanish), lunch in a winery, visit to 3 different wineries Age restriction: Wine tasting only for people older than 18 years Note: Have a good breakfast before starting the tour to enjoy the tastings. The visits in the wineries are not private (other people may be at the winery at the same time). Wineries may change according to season. They will be confirmed when booking."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Mendoza: At appropriate time, you will have a private transfer to the airport or bus terminal. Today, you can choose to extend your travels purchasing any of our available offers in Buenos Aires, Iguazu Falls or the Andes area."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,60 @@
+{
+  "destination": "Sri Lanka",
+  "mainPhoto": "",
+  "id": "sri-lanka-family-tour",
+  "tourName": "Sri Lanka family tour",
+  "placesVisited": "",
+  "generalInfo": "Negombo - Sigiriya - Trincomalee/Arugam Bay - Kandy - Ella - Yala - Colombo:<br/><br/>We’ve made cruising across Sri Lanka even more affordable with our “shoe-string” family trip. If you are an adventurous bunch, enjoy plenty of free time and don’t mind being in charge of your own entertainment, this exciting itinerary might be just the perfect match for you! With private point-to-point transfers and our selection of family-friendly hotels combined, you won’t need to worry about the logistics or missing out any highlights. During this trip, you will explore quaint streets of Negombo, climb up the Lion’s Rock in Sigiriya, admire spectacular views in Ella and (hopefully) spot wildlife in Yala. Top it up with a blissful beach stay, and your whole family will fall in love with stunning Sri Lanka in no time!",
+  "durationDays": "16",
+  "price": "1099",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fishing Boats in Negombo: Negombo is the perfect starting point for your family trip to Sri Lanka. Just up the road from Colombo, it has a lot to offer, and you’ll get to experience the fisherman’s way of life! Amble along the Dutch canals, explore colourful stalls at the fish markets or wander through the quaint streets of this charming colonial town – you are completely in charge of your own time. Your guesthouse is within walking distance of the beach and local restaurants, so you could take a gentle stroll or hop in a tuk-tuk to explore the town. Next, you’ll travel from Negombo towards Sigiriya by private car. Your journey will take around 4 hours."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Rock Up to the Lion Fortress: Today you’ll travel to Sigiriya. We have found a charming hotel with fantastic countryside views and only a few miles away from the giant Sigiriya Rock. After checking in, have a refreshing dip in the pool and enjoy the views around! The next day you’ll be climbing up to the top of Lion Rock and it’s a fun walk up as you’ll pass cheeky monkeys, countless frescoes, and Buddha images. Once you’ve made it to the top, you’ll be glad you put in the effort, as the panoramic view of the emerald green jungle below is truly remarkable! Next, you will venture off to the blissful East Coast. Journey to Trincomalee will take around 2.5 hours."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Sea Shells on Coral Islands: The east coast is the best place weather-wise for a beach stay in Sri Lanka during the summer school holiday months. The sandy beaches are long, wide and it’s the perfect place to unwind for a few days. You’ll be staying in resort by the beach, with a nice swimming pool. The time here is free, but if you want do add a little adventure to your otherwise relaxing stay, why not visit the nearby Pigeon Island for some first-class snorkelling?"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Experience Local Life in Kandy: Over the next few days, you’ll stay in the heart of Kandy. There is a lot to see and do in the city and your location is perfect for exploring the main attractions on foot, see the highlights and marvel at the Temple of the Tooth. For a real cultural immersion, we recommend getting to the temple in time for the evening pooja ceremony! And if you and your family feel slightly overwhelmed with the city buzz, the Royal Botanical Gardens are pretty spectacular and only a couple of miles away from the city centre – a perfect escape. Today, you will make your way to the local train station to get your tickets to Ella and hop on one of the most spectacular train rides through the green hills and right into the heart of the Hill Country – a true local experience! The journey takes around 5 hours and although it gets crowded on the train, you will be rewarded with spectacular views of the countryside. If you’d rather travel by car, please let us know and we can arrange it for you instead."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Hike Through the Hills of Ella: Ella is a small laid-back village located in-between tea plantations amidst the mountains. You and your family will have plenty of time to take in the beauty of this area. Your hotel is located high in the hills, offering a stunning view for you all to look out on. Whilst you’re here you have the chance to explore the hill-country at your own pace; take a walk around the countryside, have a picnic with a view or take the Little Adam’s Peak hike. Today, you will head to Yala National Park in a private car. The journey will take about 3.5 hours."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Wildlife Encounters in Yala: Elephants, monkeys, crocodiles and maybe even a leopard or black bear – this the part of Sri Lanka which the kids will be most excited about. Welcome to Yala National Park! You’ll spend the night in a simple but comfortable hotel not far from the park, with the noises of nature all around you. You’ll set off on a jeep safari with a local guide to seek out some of the country’s most famous residents. It’s an experience the whole family will remember forever. Today you will leave Yala behind and go back to Colombo for one more night in Sri Lanka. The journey will take about 6 hours."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Colombo's Tuk-tuks and Temples: OK, so maybe Colombo isn’t the place you’re most excited about in Sri Lanka, but the country’s capital has plenty to offer and is a real eye-opener for kids to see daily life in a big working city. Hustle, bustle and honking horns fill the streets, and if you’re after a little culture-shock then it’s a great place to spend a night….the food is amazing too! At the end of your trip, we’ll arrange a transfer to collect you from your hotel in Colombo and take you to the airport ready for your international flight home."
+    }
+  ],
+  "map": ""
+}

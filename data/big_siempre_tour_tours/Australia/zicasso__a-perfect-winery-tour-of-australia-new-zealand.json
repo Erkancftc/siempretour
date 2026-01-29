@@ -1,0 +1,85 @@
+{
+  "destination": "Australia",
+  "mainPhoto": "",
+  "id": "a-perfect-winery-tour-of-australia-new-zealand",
+  "tourName": " A Perfect Winery Tour of Australia & New Zealand",
+  "placesVisited": "Sydney, Hunter Valley, Melbourne, Yarra Valley, Adelaide, Barossa Valley, Queenstown, Central Otago, Marlborough, Blenheim",
+  "generalInfo": "Elevate the senses and indulge the palate with this charming winery tour of Australia and New Zealand. Five famous wine regions are visited, each unveiling their unique specialty with elegance and panache. The famous destinations are covered, like the Hunter and Barossa Valleys or Marlborough's Sauvignon Blanc vineyards. You’re also immersed in the best boutique vineyards of a continent. Accompanying the tasting is fabulous food, spellbinding panoramas, and luxurious country retreats.",
+  "durationDays": "12",
+  "price": "4,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Lavish Relaxation in Hunter Valley, Australia",
+      "description": "Land in Sydney and your personal chauffeur is waiting in arrivals, ready to whisk you into the mountains of the Hunter Valley. It's just a two-hour drive from Sydney, and while you may be tired from the flight, the first views of the luxuriantly green valley are sure to revitalize you. Soothing any travel aches is a deluxe spa suite at your luxury accommodation, your private balcony affording dazzling views over the vineyards. Just like the region's renowned whites, your luxury accommodation is subtle, elegant, and easy on the senses. Relaxation is central to the agenda today, and your expert wine guide will offer a couple of options. Either a short tour of the finest nearby vineyards or a private tasting session at the retreat's gorgeous verandah, the guide brings a collection of local favorites."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Exploring Australia's Oldest Wine Region",
+      "description": "The wine has been cultivated here for 200 years, and the warm climate has enabled a world-renowned specialty for semillons and citrus-flavored whites. Today's wine tour pairs these delicate flavors with the best locally caught seafood. Verdelhos combine with dainty prawns, Chardonnays mix with fresh crab, and the semillons are harmoniously combined with an assortment of seafood. As the day continues, the focus moves towards the valley's fabulous Shiraz, epitomized by a couple of hilltop vineyards with stunning views of nature. Like every day on this itinerary, the pace is relaxed, and your guide will tailor the stops to suit personal preferences."
+    },
+    {
+      "dayNumber": "3",
+      "title": "A Tale of Two Cities – Sydney and Melbourne",
+      "description": "There's a brief pause in the wine tasting, as this day unveils the iconicity of both Sydney and Melbourne. The sun bouncing off the Opera House's white sails, taking a boat beneath Sydney Harbour Bridge, wandering the enchanting old streets of The Rocks, soaking up the sights of Darling Harbour; all these famous experiences are neatly packaged into a three-hour morning tour of Sydney. Transfer to the airport and it's a short flight to Melbourne, where the late afternoon tour reveals colonial charms, elegant riverside delights, and alleyways of buskers and boutique restaurants. Enjoy a sumptuous four-course dinner, their stocked cellar and fabulous wine list likely to garner your approval. Tonight you sleep in the heart of the city, gazing down on the Yarra River as it cuts Melbourne in two."
+    },
+    {
+      "dayNumber": "4",
+      "title": "The Lavish Chardonnays of the Yarra Valley",
+      "description": "It takes just over an hour for the urbanity to be replaced by a patchwork of farmland and vineyards, your chauffeured journey taking you into the cool climate of the Yarra Valley. The region's Chardonnay has a lofty position on the world scale, and many of Australia's largest export vineyards can be found here. Of course, you didn't fly half way around the world to sample what you can find at home. So allow your guide to sidestep the tourist favorites and take you on a journey to family owned cellars and boutique vineyards. Indulge in soft and subtle flavors as you seek out a couple of elegant specialties, like Gewurztraminers and Marsannes. The Yarra Valley is all about the wine, but your luxury hotel will pleasantly surprise you. Lavish, artistic, and elegantly positioned above the valley, this resort provides absolute tranquility to accompany the diverse cellar."
+    },
+    {
+      "dayNumber": "5",
+      "title": "The Elegant Vineyards of the Yarra Valley",
+      "description": "Enjoy a leisurely breakfast with evocative views over the grapes, the vineyard's terraces extending down the hill from your fabulous vantage point. Then indulge in some spa therapy with a 60-minute treatment of your choice. Fully refreshed? Let’s go taste some wine. Today's tour can take many directions dependent on the mood. Sample a couple of the huge wineries and get a glimpse at large-scale wine production. Journey to cute cottages, known for exclusively cultivating their Sauvignon Blanc for over 100 years. While almost every other vineyard has a Chardonnay to sample, perhaps you'll prefer to track down the renowned pinot noir or cabernets sauvignons. Enjoy a lavish dinner consisting of four courses of local organic produce and exceptional locally produced wine."
+    },
+    {
+      "dayNumber": "6",
+      "title": "The World Famous Vineyards of the Barossa Valley",
+      "description": "Fuller flavors begin to dominate the itinerary as you head further west, a short flight taking you from Melbourne to Adelaide. As always, the luxury chauffeur is waiting in arrivals, ready to take you into the lavish green plantations and meandering mountain roads. First stop: checking in to your opulent suite with a picturesque view. Relax and refresh. Soak up the tranquility. Then begin the exploration. The reds are full-bodied and powerful while the whites provide an exquisite balance. Providing a rich overview of the region is the Taste of the Grange Tour at Penfolds Winery; expect sauvignons, rieslings, chardonnays, Shiraz, and merlots. Wolf Blass have made a name for themselves all over the world, and their winery is nearby. While it's hugely popular with tourists, it's hard to visit the Barossa Valley without savoring their Grenache and Mourvedre. Your guide won't linger here. Instead, wind back to the resort via a handful of boutique wineries that have been keeping it private and local for over 150 years."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Renowned Shiraz in the Barossa Valley",
+      "description": "As the morning mist rises across the valley, and another long day of Mediterranean style sunshine begins, the wine connoisseur may have already guessed Barossa's specialty. While this climate supports a diverse collection of grapes, it's the Shiraz that most excites the palate. Tour some of the planet's oldest Shiraz vineyards and their curators, 19th-century pioneers who have inspired a whole valley of Shiraz experimentation. A Shiraz masterclass kicks off the sensual feast and then these full-flavored wines are paired with some endemic local meat, providing the perfect opportunity to sample grilled kangaroo steak. Later in the afternoon, switch to the port wines to savor another side of the valley's delectable delicacies."
+    },
+    {
+      "dayNumber": "8",
+      "title": "The Pinot Noirs of Central Otago, New Zealand",
+      "description": "Gaze up at the Queenstown landscape and it's not what you would expect from a wine region. Rugged mountains encircle the town, the often white peaks reflected in the sapphire of Lake Wakatipu. Behind the summits are an endless series of fjords and dramatic alpine scenery. So when you swish an award-winning pinot noir around the mouth, you're surprised at the results. Full-bodied, distinctive, earthy; the Central Otago pinot noirs leave many visitors bewildered, especially when the wintery blankets of snow cover the hillside. Was this wine really produced here? It's a four-hour flight to Queenstown, and the afternoon is left free for you to marvel at the natural surroundings. Wander along the pebbled lakeshore, take a cable car for astonishing vistas and enjoy the prodigious brilliance your luxury hotel. As evening descends, you'll be sitting down in arguably New Zealand's finest restaurant, soaking up the cozy ambience. The intimate wine library is the perfect choice for a romantic dinner for two. And what a dinner! A handcrafted degustation menu takes the palate on a meandering journey, the food and wine match tantalizingly rich yet evocatively subtle."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Exploring the World's Southernmost Wine Region",
+      "description": "Most guests linger over their breakfast, the lavish parlor consumed by fresh coffee smells and a crackling log fire. Suitably energized, you wind into Peter Jackson's Middle Earth, passing countless filming locations used for The Lord of the Rings, and stopping to photograph achingly beautiful lakes amidst the forests. The world's southernmost wine region offers a boutique vineyard haven, the distinct soil and climate rewarding character and experimentation. Vintage delights are pulled from inspiring cellars, with today's tour bringing a mosaic of sumptuous Pinot noirs and a few cool climate whites. In particular, your guide is an expert at revealing the local Gewurztraminer. Expect bold flavors and wines that ooze panache, perhaps epitomized by the vineyards that have experimented in sparkling pinot noir. With a captivating platter lunch and a stop in historic Old Cromwell Town included, today will firmly convince you of Central Otago's wine wonders."
+    },
+    {
+      "dayNumber": "10",
+      "title": "The Enchanting Wineries of Marlborough",
+      "description": "Gaze from the plane window as you fly south, following the domineering mountain chain until you touch down in Blenheim. There's time for a quick wander around the enchanting town streets before you tour the vineyards, triangular green mountains a breathtaking backdrop. Marlborough is well regarded for producing the world's finest Sauvignon Blanc, but that treat is being saved for tomorrow. Today you tour Hunter's Wines and Cloudy Bay Vineyards, delving into their special edition whites with exclusive tasting sessions. Visit a few of the continent's finest purveyors of sparkling wine, predominantly concocted using Chardonnay and Riesling grapes. Retire to your luxury lodge full of historic charm and luxuriant touches for a quaint and quiet evening."
+    },
+    {
+      "dayNumber": "11",
+      "title": "In Search of the World's Finest Sauvignon Blanc",
+      "description": "Look out over Marlborough and it's impossible to miss the rows of ripening grapes. Long sunny days and cool nights provide an ideal climate for Sauvignon Blanc. Today's tour begins by wandering through the vineyards and sampling the raw grape. Then explore the famous vineyards and taste their renowned exports. Full-flavored, punchy aromas, crisp tones; you'll soon be enjoying the rationale behind Marlborough's status as the Sauvignon Blanc champion. But the world's finest bottle doesn't always come from the most illustrious vineyard. Over a leisurely afternoon, you visit half a dozen boutique wineries, each showcasing their pure and precise offerings of Sauvignon Blanc. There have been many vintage years in Marlborough, and it's hard to resist the samples that keep being delivered from the cellar. As always, having a chauffeur means there's no need to worry about who has to drive later in the day. Complete the tour with a leisurely late lunch at a top rated wine-pairing restaurant, their exquisite gardens overlooking Marlborough and their organic food complementing their famed whites."
+    },
+    {
+      "dayNumber": "12",
+      "title": "Departure",
+      "description": "You can't take a bottle of wine through airport security, so you might be wondering how all this great wine is going to make it into your own cellar. Throughout the vacation, each local guide will assist in packaging and shipping, ensuring that the delights of this vacation will make it back across the ocean. So while today brings your departure from New Zealand, the drinkable memories of this unique wine journey should accompany you until your next wine expedition."
+    }
+  ],
+  "map": ""
+}

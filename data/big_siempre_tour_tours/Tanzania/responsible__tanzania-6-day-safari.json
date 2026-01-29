@@ -1,0 +1,55 @@
+{
+  "destination": "Tanzania",
+  "mainPhoto": "",
+  "id": "tanzania-6-day-safari",
+  "tourName": "Tanzania 6 day safari",
+  "placesVisited": "",
+  "generalInfo": "Embark on an unforgettable adventure through Tanzania's top safari destinations, including Tarangire National Park, Serengeti, and the Ngorongoro Crater. Witness the famed Great Migration and spot the Big Five amidst stunning landscapes. This safari tour offers thrilling game drives, close encounters with diverse wildlife, and the opportunity to explore ancient Maasai culture. Perfect for nature enthusiasts and photographers alike, this immersive experience promises once-in-a-lifetime memories in Africa's premier wildlife conservation areas.",
+  "durationDays": "6",
+  "price": "2586",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arusha - Tarangire National Park, Tanzania: Arusha - Tarangire National Park (L/D) Get ready to be picked up from your Moshi/Arusha accommodation and start your safari journey towards Tarangire National Park. Enjoy your afternoon game ride in Tarangire National park with a picnic lunch. This park is a home to up to 300 elephants, mainly because of its sparse vegetation and the possibility of finding water in the underground streams in the dry rivers. Wildebeest, zebra and buffalo migration can be viewed around the shrinking lagoons. Overnight: Heaven Nature campsite, outside Tarangire National Park"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Tarangire - Serengeti National Park, Tanzania: Tarangire - Serengeti National Park (B/L/D) Today your journey leads inside Serengeti National Park - one of the most famous National Parks in Africa.This park holds truly amazing wildlife spectacles - the great migration of wildebeest and zebra. Serengeti is also home to lionds, cheetahs, leopards and many other predators. Overnight: Serengeti National Park at Pimbi Campsite."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Serengeti National Park, Tanzania: Serengeti National Park (B/L/D) Today will be the \"Serengeti game viewing day\". After breakfast this morning, enjoy an amazing game drive. The great diversity of Serengeti wildlife is evident here—look for buffalo, hippopotamus, elephant, giraffe, antelope, Thompson’s and Grant’s gazelle, and lions. If you are there during the spectacular wildebeest migration, you will be more than astonished. In the late afternoon we venture out in another game drive. Everywhere there are animals, monkeys and, yes, birds…but look closely and you will be thrilled to see the huge jungle cats—lion, leopard and cheetah—watching the world go by. And go by it does. Rhino, gazelle, antelope and massive elephants by the hundreds. Animals in the trees, flying, camouflaged in the bush, in rivers and in streams. This is the adventure of a lifetime! Overnight stay in Serengeti National Park at Pimbi Campsite"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Serengeti - Ngorongoro Crater, Tanzania: Serengeti - Ngorongoro Crater (B/L/D) A lovely drive takes us to Ngorongoro Crater, where the lodge sits dramatically on the rim of the crater, revealing an awesome panorama of the world’s largest, unflooded and unbroken caldera. Be prepared for some remarkable views down into the crater. The caldera of Ngorongoro marks the ancient walls of a collapsed volcano, which was probably once the size of Mt. Kilimanjaro. Nowadays, the completely enclosed circular crater is some twelve miles across, with steep walls of over 2,000 feet. We are at an altitude of approximately 7,500 feet above sea level, the highest point on our trip. After our time on the lower plains, the cooler air here is refreshing. During the afternoon, enjoy a short nature walk to learn more about the local fauna, or just stay at the lodge/camp to admire the view. Overnight stay on the rim of Ngorongoro Crater at Simba Campsite"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Ngorongoro Crater - Tarangire National Park, Tanzania: Ngorongoro Crater & Tarangire National Park (B/L/D) Early this morning we descend 2,000 feet to the crater floor to explore this natural zoological park, and observe an extraordinary variety of wildlife: elephant, rhinoceros, lion, hyena, zebra, wildebeest, Thomson's gazelle, reedbuck, and buffalo. The lovely crested crane (similar to a peacock) can be found in great profusion here and maybe you'll spot a bat-eared fox. The balance of predator and prey in this extraordinary ecosystem is so precise that animals seldom leave. Our exact route is decided on the spot by our expert safari guides, depending on where the animals are. An insider's tip: bring plenty of film-you may never take better wildlife photos anywhere else. Ngorongoro Crater is said to be one of the natural wonders of the world. A spectacular game haunt, the 102-square-mile crater is a perfect caldera, one of the largest on earth. Millions of years ago a smouldering volcano collapsed, creating the crater and as a consequence, thousands of animals amidst its many types of vegetation have grown here over the centuries. Over 30,000 animals live here: prides of lion, elephant, leopard, cheetah, giraffe, gazelle by the thousands, and multitudes of wildebeest. Uniquely beautiful, we will never see anything like it again! We spend a memorable morning exploring the crater's breadth and depth and returning to the lodge/camp for a late lunch. Enjoy the afternoon at leisure. The views from our lodge/camp are outstanding and there are various outlooks from which you can survey the crater. Tonight, as we delight in another delicious meal at this exceptional lodge/camp, we are once again stunned by the beauty of the orange sunset that hovers in the wild African sky, signalling the end to another unforgettable day on safari. Overnight: Heaven Nature Campsite outside Tarangire National Park"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Tarangire National Park - Lake Manyara - Arusha, Tanzania: Ngorongoro Crater - Lake Manyara - Arusha (B) Leave Tarangire NP after breakfast and return to Arusha with a stop at Lake Manyara to marvel at its flocks of pink flamingos. This will have been one exciting adventure!"
+    }
+  ],
+  "map": ""
+}

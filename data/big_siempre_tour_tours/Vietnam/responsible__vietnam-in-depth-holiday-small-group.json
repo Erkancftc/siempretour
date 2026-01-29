@@ -1,0 +1,130 @@
+{
+  "destination": "Vietnam",
+  "mainPhoto": "",
+  "id": "vietnam-in-depth-holiday-small-group",
+  "tourName": "Vietnam in depth holiday, small group",
+  "placesVisited": "",
+  "generalInfo": "Take an in-depth journey across Vietnam following part of the Ho Chi Minh Trail through the Central Highlands. Travel from the noise and bustle of Hanoi via tribal villages and rolling landscapes to the museums and markets of Ho Chi Minh. Along the way, explore beyond Halong Bay and cruise amongst the floating markets on the Mekong Delta. <br/> <br/> Halong Bay - Take a two-night junk boat cruise through the famous jade waters of Halong Bay.<br/> Central Highlands - Stay in a tented camp and trek and raft to visit tribal villages.<br/> Ho Chi Minh City - Crawl through the Cu Chi Tunnels and walk through the twisting alleys of Old Saigon.<br/>",
+  "durationDays": "21",
+  "price": "2385",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Join tour in Hanoi",
+      "description": ": Arrive in Vietnam's capital, Hanoi, which is famous for its rich culture, bustling life, and colonial influences. Its small lakes, busy streets and secluded alleyways are all waiting to be explored. For those arriving on time, our tour leader plans to meet you in the hotel reception at 6pm for the welcome meeting and for those that wish, there is the chance to go out for dinner. There are no other activities planned today, so you're free to arrive in Hanoi at any time. If you'd like an airport transfer, you'll need to arrive into Noi Bai International Airport (HAN), which is a 45-minute drive to the hotel. Should you miss the welcome meeting, our tour leader will leave a note at the hotel reception to inform you of any essential information. If your flight arrives earlier in the day, you might like to walk around the peaceful shores of Hoan Kiem Lake."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Discover the sights of Hanoi including the Old Quarter",
+      "description": ": This morning, we'll set out on a tour of the main sights of Hanoi. Architecturally styled like a French provincial town with tree-lined boulevards and low-built houses, the city is wonderfully nostalgic. Among the interesting sights are the charming One-Pillar Pagoda and the Presidential Palace. Ho Chi Minh himself, a spartan-living and scholarly man, chose not to live in the Presidential Palace, he preferred a simple teak stilt house on the grounds. In the afternoon, we'll have time to discover the narrow lanes of the Old Quarter solo, where the streets are named after various crafts or specialities: Paper Street, Silk Street, Basket Street and so on. The shops themselves have narrow frontages but are actually quite deep; they're known locally as tube shops. On the pavements, food vendors sell noodles, snacks and stir-fries from shoulder panniers. Take some time to really soak in these unique surroundings with the tempting smell of the food stalls mixing with the scent of incense from small temples dotted around."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Free time in Hanoi, drive to Halong Bay; overnight on boat",
+      "description": ": This morning, we'll drive out towards the magnificent Halong Bay in the Gulf of Tonkin. Thousands of jagged limestone islands rise out of the jade-green waters like the hairy scales of a submerged dragon. In fact, Halong means 'where the dragon descends to the sea' as legend tells that the rugged seascape was created by the pounding tail of a dragon as he ran from the mountains into the sea, carving islands in his wake. We'll have the chance to stop at a grotto beneath towering cliffs and perhaps pull into a beach where you'll have time to relax or kayak (optional). Soak in the scenery and watch the curious assortment of boats, junks and wooden sampans, their sails hoisted, gliding through the waters. Lunch is included and allows us to sample fresh seafood. In the evening, we'll transfer to our overnight boat, where we'll be accommodated in twin-share cabins."
+    },
+    {
+      "dayNumber": 4,
+      "title": "In Halong Bay; sea kayaking and visit floating village; overnight on boat",
+      "description": ": We have another day exploring the beauty of Halong Bay ahead of us today. Depending on the weather and tide, we'll make the most of our full-day cruise stopping at a cave island or at Three Peaches beach, situated under towering cliffs and fringed with thick jungle. Here, there'll be the chance to sea kayak through stunning limestone scenery - we carry our own kayaks and lifejackets and instruction will be provided (note, this activity is optional but included). Late in the afternoon, we'll visit Cua Van floating fishing village to experience the local life. Then, in the evening we'll transfer to our overnight boat, where we'll enjoy dinner (included) onboard."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Drive to Hanoi; sleeper train to Hue",
+      "description": ": This morning, we'll take local rowing boats on a cruise through Bai Tu Long Bay. Tucking into brunch onboard, we'll get to see the Bai Tho mountains and Halong market. During our cruise, we'll sail to the beautiful caves of Hang Luon. We'll then return to Hanoi where day-rooms will be available to use before we board the overnight sleeper train to Hue. Tonight, we'll stay in soft sleeper, four-berth cabins with bunk beds (bedding is provided). Facilities are simple but there are Western and Asian-style toilets at the end of each carriage, as well as a wash basin. Our tour leader will allocate beds and will try to keep our group together, however, we might be sharing with other passengers and passengers of a different gender."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Arrive in Hue; boat along Perfume River to Thien Mu Pagoda",
+      "description": ": We'll arrive in Hue this morning around 10:15am. A quietly impressive place, the city is one of the great cultural and religious centres of Vietnam. The Perfume River divides the city in two and has been the inspiration for poets and painters for many centuries. After checking in to our hotel, we'll take a boat trip to experience the beauty of the Perfume River, floating from Hue to the Thien Mu Pagoda. This serene temple is the oldest in Hue and the symbol of the city. We'll visit the pagoda and the monastery before heading back to Hue."
+    },
+    {
+      "dayNumber": 7,
+      "title": "In Hue, visit the Imperial Citadel; free afternoon",
+      "description": ": Today we get to explore the majesty of Hue and the Imperial Citadel. Located on the left bank is the river, the palace was built by the Nguyen dynasty, Vietnam's ruling emperors from the early 1800s to 1945. Although most of the inner city was destroyed during the Tet Offensive in 1968, the outer walls and the west wing remain a reminder of the palace's former glory. As well as the Imperial City, we'll visit the Imperial Museum and the Tomb of Tu Duc. After a history-heavy morning, the rest of the day is free for you to explore at your own pace. You might like to hire a bike and ride out to Dong Ba market, Hue's vibrant central market, or visit the Imperial Tombs. There are also optional excursions to other temples in and around Hue."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Scenic drive via Danang to Hoi An",
+      "description": ": This morning, we'll set off on a scenic drive over the stunning Hai Van Pass, also known as the Ocean Cloud Pass. As we travel, watch as we pass charming rural scenes featuring thatched wooden houses and rice paddies, all while enjoying sweeping views of the sea. Continuing our journey, we'll explore the Marble Mountains - five peaks representing the elements of water, wood, fire, metal and earth. These natural grottoes have been beautifully transformed into intricate Buddhist sanctuaries. Just a short drive away, we arrive at My Khe Beach, known as China Beach to American troops, where we'll take a brief rest on its pristine white sands. It's just a short drive from here to the UNESCO World Heritage town of Hoi An."
+    },
+    {
+      "dayNumber": 9,
+      "title": "From Hoi An, visit ancient My Son; free afternoon in Hoi An",
+      "description": ": The coastal town of Hoi An is a curious and colourful destination. Layered in history, amongst its streets, you'll spot Chinese shophouses rubbing shoulders with French colonial buildings and Vietnamese tube houses. The Portuguese arrived here in the 16th century and by the 18th century, it had become one of the busiest international trading ports of South-East Asia. This afternoon, we'll have time to explore, but first, we'll head to My Son Sanctuary. Declared a World Heritage Site by UNESCO, My Son is a striking complex of tower temples located in a secluded valley. The rest of our time is left free for you to explore solo. You might like to take part in a cookery class at one of Hoi An's restaurants or join a lantern-making workshop where you can learn how to make the beautiful lanterns that are ubiquitous in Hoi An."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Free day to explore Hoi An; optional visit to My Lai",
+      "description": ": Today is free for you to explore at your own pace. Bicycles here are a great, cheap way to get out into the surrounding countryside or visit the nearby beaches. Hoi An is also renowned for its many craft and tailor shops. Alternatively, you could visit Quang Ngai, the site of the My Lai Massacre Memorial. The massacre was a significant turning point in the Vietnam War and the horrific story is told through a photo presentation - an emotional experience. Another option is to take a fishing trip to the Thu Bon River Delta, where we'll learn how to fish using a traditional cast net. We travel out by boat where we meet local fishermen and try our hand at cast net fishing as well as trying the bamboo winches used to haul in the huge drop nets from the river. We also have a chance to go out in a Vietnamese 'basket boat' - a circular boat constructed from bamboo that takes some practice to row!"
+    },
+    {
+      "dayNumber": 11,
+      "title": "Drive through mountains to Kon Tum in Central Highlands",
+      "description": ": We have a long journey ahead of us today as we make our way to Kon Tum. The entire drive is around eight hours but we'll take plenty of comfort breaks and it's a great way to enjoy Vietnam's lush scenery. Our journey takes us inland through the mountains of the Central Highlands, where we'll spot traditional villages amongst the rolling greenery. Eventually, we'll arrive in the market town of Kon Tum, our base for tonight."
+    },
+    {
+      "dayNumber": 12,
+      "title": "In Kon Tum, walk through tribal villages",
+      "description": ": Today, we'll walk out to Kon Ko Tu, one of the many Bahnar tribal villages in the area that surrounds Kon Tum. We'll take on an easy-to-moderate-grade walk that should take us around five hours. En route, we'll pass cassava and sugar plantations as well as stilted villages. We'll stop by the riverside to enjoy a picnic lunch (included) while we soak up the scenic views. After we've refuelled, we'll board dugout canoes and float back down the river to Ko Ko Tum. Tonight, we'll visit a traditional Rong House (communal house) in the village - the most important building in the village, it acts as a court where people are tried for tribal offences and is also used in festivals and for village meetings. We'll tuck into a traditional dinner here to finish off our day."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Drive to Western Highlands; take boat on Lake Lak",
+      "description": ": We have another long drive ahead of us today as we head south through the Central Highlands to Buon Me Thuot, Dak Lak Province's administrative centre and the Western Highland's unofficial capital. Our scenic journey takes us via Pleiku and the Ham Rong Mountains, passing through the rolling hills and plains of the Dac Lac Plateau, and through rubber and coffee plantations - the area was the site of some major battles during the Vietnam War. On arrival at our destination, we'll take a 20-minute boat tour of the island and check in at our lakeview camp on the shores of Lake Lak. After settling into our picturesque accommodation, we have some free time to explore the area by foot, bicycle or by kayak. This evening, we'll enjoy a Gong Chieng show - a traditional gong performance - and dinner (included) at Y Lak restaurant."
+    },
+    {
+      "dayNumber": 14,
+      "title": "Drive to coastal Nha Trang",
+      "description": ": We have an early start this morning to take a boat out onto Lak Lake for sunrise. We'll then continue on foot to Yang Tao village where we learn about how this small community produces pottery and harvests its cacao to support the village. Later, we continue south by bus, where our drive sees us descending to the coastal plains, as we make our way to the fishing town and beach resort of Nha Trang. Some of the most impressive Cham towers can be seen on the outskirts of the town on our arrival."
+    },
+    {
+      "dayNumber": 15,
+      "title": "In Nha Trang, boat cruise on Ninh Van Bay",
+      "description": ": Today, we'll enjoy this seaside town, famed for its clear warm water, delicious seafood and white sand beach. We'll have a boat trip to some of the outlying islands and - weather-dependent - there'll be plenty of opportunity to swim and snorkel. There'll also be an optional seafood lunch before we drive back to Nha Trang, with the rest of the day at leisure."
+    },
+    {
+      "dayNumber": 16,
+      "title": "Fly to Ho Chi Minh City; explore Old Saigon; free afternoon",
+      "description": ": We have another early start today as we fly to Ho Chi Minh City (formerly Saigon). On arrival, we'll head out to take in the sights of Old Saigon, now District 1 of Ho Chi Minh City. Along the way, our tour leader will point out the Notre Dame Cathedral and the GPO building as well as some of the old French Colonial hotels such as The Rex. Next, we'll drive to the Independence Palace (renamed the Reunification Hall) and the graphic War Remnants Museum. Another side to the city awaits this afternoon, as we walk through Old Saigon's back alleys. Our walk takes us past ramshackle shopfronts, through local markets selling everything from colourful fruit to bootleg DVDs, and past houses, churches and schools, all squeezed into the small buildings that line the narrow alleys. If you need a pick-me-up, we'll stop at a local stall for a traditional Vietnamese coffee (brewed coffee served sweet with condensed milk). Here, we can also sample 'Banh Mi' - a Vietnamese take on the humble French baguette - freshly baked and packed with a combo of traditional and more exotic, aromatic ingredients. The walk ends at Saigon's 'Secret Weapons Bunker'. A small unassuming 'tube house' hides a trap door which conceals a basement stocked full of rifles, grenades and ammunition. The bunker played a key role in the TET Offensive of 1968. There's time to explore the house and bunker, filled with decommissioned weapons and photographs, news clippings and memorabilia from wartime."
+    },
+    {
+      "dayNumber": 17,
+      "title": "Drive to Mekong Delta; cruise Mekong River; overnight in homestay",
+      "description": ": This morning, we'll drive to Sa Dec, a peaceful town in the heart of the Mekong Delta. We'll explore the town on foot, walking through its narrow streets lined with centuries-old houses and Chinese Temples. We'll then make our way to the dock where we board our specially chartered river boat. Travelling along the backwaters by boat is by far the best way to see the delta, passing villages of stilted houses, abundant rice fields and a variety of cottage industries as we go. Before lunch, we stop at Tan Qui Dong, famous for its perfectly manicured floating flower gardens. Lunch will be served onboard, with delicacies such as 'elephant ear fish' available with a selection of locally sourced produce. We end the day by docking outside our night stop, the Ut Trinh Homestay. Set amongst manicured gardens, our homestay comprises of light and airy twin rooms with en-suite facilities (toilets and hot showers). The décor is traditional and reflective of this region, and there is a large communal living area and dining room. It is here we can get to know our hosts whilst we help them to prepare a selection of local dishes for tonight's dinner."
+    },
+    {
+      "dayNumber": 18,
+      "title": "In Mekong Delta, watch cottage industries alongside narrow canals",
+      "description": ": After a hearty breakfast, we'll wave goodbye to our hosts and continue our cruise up the delta, first stopping at My An. Here we meet a family of traditional brick makers, learning how they have been using their kiln to fire bricks for local industries for generations. We then move onto Hoa Tinh village where we disembark for a short walk to spot the locals weaving baskets and crafting a variety of implements from bamboo. Lunch is served onboard as we voyage through the small narrow canal of Cai Ca, with plenty of opportunity to watch local life pass by. Coming out of the tributaries we cross the lower river and continue onto Can Tho, the bustling capital of the Mekong Delta. Can Tho is the centre in which farmers, fishermen and tradespeople come together to sell their products, and of course to buy for themselves and their families. Can Tho is packed full of markets, some are street markets but most are on the water, with many river intersections bustling with floating markets."
+    },
+    {
+      "dayNumber": 19,
+      "title": "Drive to Ho Chi Minh City",
+      "description": ": This morning, we venture out to explore one of the biggest floating markets in the area, Cai Rang. This market is the coming together of boats big and small from all parts of the Mekong Delta. We'll have a chance to watch the lively morning trade, as well as try our hand at some bartering ourselves. Here we can choose from the excellent array of fresh fruit such as the ubiquitous jackfruit, sweet mango, dragon fruit, or the infamously pungent durian fruit. From Cai Rang, we'll disembark and drive back to Ho Chi Minh City, where the rest of the day is free."
+    },
+    {
+      "dayNumber": 20,
+      "title": "From Ho Chi Minh City, visit Cu Chi Tunnels",
+      "description": ": This morning, we'll take a short drive (around 90 minutes) out of the city to the infamous Cu Chi Tunnels, an underground command base which was a major part of the 1968 Tet Offensive. If you're up to experiencing the claustrophobic conditions the Viet Cong lived in, there's the opportunity to crawl through a small, specially adapted section of the tunnels. Returning to Ho Chi Minh City, the remainder of the afternoon is free to shop for last-minute souvenirs or try your final bite of Vietnamese cuisine."
+    },
+    {
+      "dayNumber": 21,
+      "title": "Tour ends in Ho Chi Minh City",
+      "description": ": The trip ends after breakfast at our hotel in Ho Chi Minh City. There are no activities planned today, so you're free to depart from Ho Chi Minh City at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from Tan Son Nhat International Airport (SGN), which is a 30-minute drive from our hotel."
+    }
+  ],
+  "map": ""
+}

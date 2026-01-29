@@ -1,0 +1,50 @@
+{
+  "destination": "Lapland",
+  "mainPhoto": "",
+  "id": "northern-lights-holiday-in-swedish-lapland",
+  "tourName": "Northern lights holiday in Swedish Lapland",
+  "placesVisited": "",
+  "generalInfo": "Immerse yourself in the heart of Swedish Lapland on this spectacular 4-night short break in search of the fascinating northern lights. Fly to Kiruna, the northern most town in Sweden situated past the Arctic Circle and gateway to Abisko National Park. Board the Arctic Circle Train for a journey into the heart of the park and become a true aurora hunter. Accommodation will be in two unique properties, the family owned Camp Ripan which boasts a location close to Kiruna city centre and an excellent spa for relaxing evenings and also the STF Abisko Turiststation Hotel which sits close to the Aurora Sky Station chair lift and offers great views of Tornetrask Lake.",
+  "durationDays": "5",
+  "price": "1495",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly from the UK to Kiruna. Land and transfer to Camp Ripan Retreat. Afternoon at leisure."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "This morning jump aboard the scenic Arctic Circle Train disembarking at Abisko National Park. Make your own way from the station to the STF Abisko Turiststation Hotel, regarded as the world's best location for aurora hunting. This evening don your winter woollies and take the chair lift to Aurora Sky Station for an exclusive 4-course Nordic dinner while waiting for the northern lights to (hopefully) appear. (B/L/D)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Today is free at leisure to explore Abisko National Park at your own pace or there are numerous excursions you can book. This afternoon head out on a guided northern lights hike before returning to the accommodation and a roaring fire. (B/L/D)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Enjoy the day at leisure until boarding the Arctic Circle train back to Kiruna. Check back into Camp Ripan for your final night. We recommend visiting the hotel's Aurora Spa for a traditional sauna ritual. (B)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "This morning is at leisure until you are transferred back to Kiruna airport for the flight back to the UK. (B)"
+    }
+  ],
+  "map": ""
+}

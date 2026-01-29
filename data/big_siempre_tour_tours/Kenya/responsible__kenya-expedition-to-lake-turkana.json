@@ -1,0 +1,80 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "kenya-expedition-to-lake-turkana",
+  "tourName": "Kenya expedition to Lake Turkana",
+  "placesVisited": "",
+  "generalInfo": "Kenya is renowned for its wealth of wildlife, the sweeping plains of the Masai Mara, and its white sand beaches. But look beyond these stereotypes, glorious though they are, and one can find a diverse kaleidoscope of ethnicities and tribal groups, far removed from the tourist trail and virtually unchanged for generations. On this expedition we head north from the capital to Samburu Game Reserve – no visit to Kenya would be complete without at least a little wildlife, after all. We spend a day here on game drives looking for lion, elephant and some of the species which are seldom found elsewhere, such as gerenuk and beisa oryx.<br/><br/>We then drive into the tribal heartlands that stretch towards the borders with South Sudan and Ethiopia, taking challenging routes and driving through remote areas to meet some of Africa’s most traditional groups. We meet the Samburu and Rendille people, pastoralists who compensate for their austere surroundings with stunning body decorations and enormous beaded necklaces.<br/><br/>Continuing to the Chalbi Desert we head for the oasis of Kalacha, a centre for the Gabbra people, camel herding nomads who eke an existence from this unforgiving land. Pushing further north we drive to the ‘Jade Sea’, the vast waters of Lake Turkana – one of East Africa’s most remote regions. Here we meet the Turkana people, a proud warrior people who held out against colonial domination until the 1950s, and who still retain a fierce independence from central government. <br/><br/>This is a trip through some of East Africa’s most isolated regions – you can expect some full days of driving on rough and non-existent roads to reach these communities, and at times it may be challenging. The rewards however are great – to meet proud warriors and nomadic communities following in the steps of their ancestors, with little influence from the modern world, masters of their own lands yet welcoming to visitors. This is Kenya with a twist, and unlike you have seen it before.",
+  "durationDays": "13",
+  "price": "5249",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Nairobi - Arrive in Nairobi. The rest of the day is at leisure. Overnight Emory Hotel or similar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Samburu National Reserve - Drive to Samburu National Reserve where we will have an afternoon game drive. Samburu is home to a number of species rarely seen elsewhere such as the reticulated giraffe and gerenuk, and we spend our time searching for these and other wildlife. Overnight Samburu Simba Lodge or similar. (BLD)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Samburu - Ngurunit - Drive to Ngurunit, located at the base of the Ndoto Mountains where we explore the lands of the Samburu and Rendille people, two of Kenya’s most striking ethnic groups. We visit their settlements and learn about their way of life in this harsh corner of the country. Overnight Camp Ndotto or similar. (BLD)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Kargi - ontinue to the village of Kargi in the heart of the Chalbi desert. Kargi is home to the Rendille group and we spend time here immersing ourselves in their culture. Overnight camping. (BLD)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Chalbi Desert - A long drive to Kenya’s remote northern frontier, eventually arriving at Kalacha, a desert oasis that sustains the Gabbra people and their cattle during the dry season. We spend our time here meeting the Gabbra in the Chalbi Desert. Overnight camping. (BLD)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Loyangalani - Drive across some of East Africa’s most dramatic scenery to Loyangalani. The frontier town is a melting pot of ethnic groups, and divides neatly into tribal zones; the Samburu, Turkana and Rendille have each made one part of the town their home. Overnight Oasis Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "South Horr - We move away from Lake Turkana and drive towards South Horr, heading to the lands of the Samburu people. We camp in the valley of Samburu’s sacred mountain, Oldonyo Nyiru and explore the surrounding Samburu villages. Overnight camping. (BLD)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Maralal - This morning, we have a long drive towards Maralal, the capital of the Samburu county. Upon arrival, we have a walk around the city to get a sense of local life here. Overnight Samburu Guest House or similar. (BLD)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Churo - Head to the highlands, inhabited by the Pokot community. The Pokot people are mainly pastoralists and are distinguished by their giant beaded necklaces. We explore the village, learning about the daily lives of the villages and seeing some of the unique traditions found here. Overnight camping. (BLD)"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Lake Baringo - We leave the village behind and make our way to Lake Baringo, one of the Kenyan Rift Valley lakes. The lake is home to a number of species, including crocodiles and hippos and we enjoy a boat excursion in the hopes of spotting these. Overnight Tumbili Cliff Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Baringo - Nairobi - Return to Nairobi and transfer to the airport for departure. (BD)"
+    }
+  ],
+  "map": ""
+}

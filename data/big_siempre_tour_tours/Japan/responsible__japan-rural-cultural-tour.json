@@ -1,0 +1,60 @@
+{
+  "destination": "Japan",
+  "mainPhoto": "",
+  "id": "japan-rural-cultural-tour",
+  "tourName": "Japan rural cultural tour",
+  "placesVisited": "Osaka, Kameoka, Kyoto, Arashiyama bamboo forest, Nara, Stay with a Japanese family, Optional extras include: calligraphy, flower arranging, cookery classes",
+  "generalInfo": "Get off the tourist conveyor belt, and instead get to know Japan from a rural homestay. Travel slower, travel deeper – and still see two of Japan’s greatest cities, Osaka and Kyoto. <br/><br/>This seven day tailor-made tour suits two or more people travelling together. Flying into Osaka, you’ll enjoy dining in the city before heading to the rural city of Kameoka, where you’ll find your homestay. In this leafy town, just 20km outside Kyoto, you’ll get to know the neighbourhood through the eyes of your hosts, from its shrines, to its temples and talented artisans.<br/><br/>It would be a shame to be in the area and not visit Kyoto. On day four of your trip you’ll cross the mountains and spend two days exploring. Japan’s former imperial capital is museum-like in the preservation of traditional high culture. You can join a tea ceremony and explore the famous bamboo forests. A day trip to Nara – an older former capital, makes a picturesque end to your trip.<br/>",
+  "durationDays": "7",
+  "price": "9500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "OSAKA – (no meals) | Your airport pick up will meet you at Kansai International Airport (assuming your flight arrives after 8:00am and before 21:30) and will take to your hotel in Osaka by public transportation. They will give you an orientation, hand you your transportation tickets, give you your rental pocket internet device, check you into your hotel, and answer any of your questions. You will be on your own for dinner but your airport pick up will make a few suggestions. Osaka is huge city with down to Earth people who are very proud of their cuisine, most notably okonomiyaki (a pancake-based dish containing vegetables, meat, and/or seafood), takoyaki (octopus dumplings) and udon noodles. These dishes are not fancy but are like the people of Osaka, friendly and open. The train from Kansai Airport to Namba Station in Osaka will take about 45 minutes."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "KAMEOKA – (breakfast & dinner) | Today you will take a train to Kyoto and then to the rural town of Kameoka. You will meet your guide/host at Kameoka Station who will take you to your home for the next 2 nights. This quaint rural town is located on the other side of the mountains that surround Kyoto but is a world away. You will stay in your guides home and they will show you around their neighborhood before settling in for the evening dinner and conversation. If the weather is nice you may consider an evening stroll before heading to bed. The train from Namba Station in Osaka to Kameoka Station will take about 1 hour."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "KAMEOKA - (breakfast & dinner) | Today you will start your in depth exploration of Kameoka along with your guide/host. Here the possibilities are endless: you can explore Kameoka by bicycle or on foot and also learn about Japanese cooking, flower arrangement, pottery, and much, much more. If you are interested your guide may introduce you to some of their artisan friends which will further expand your understanding of Japan. For lunch (not included) you will stop in a local restaurant that tourists could never find. In the evening you will head back to your host’s home for dinner. This is really the best way to experience Japan."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "KYOTO (breakfast) | Today you will cross the mountains and head to Kyoto, formerly the imperial capital of Japan. If you are traveling in Japan during the warmer months you may consider taking a traditional boat ride from Kameoka to the Arashiyama area of Kyoto. These boat are expertly guided down the river much as they were during the Edo Period. While in Arashiyama you will take a stroll with your private guide through Kyoto’s famous bamboo forest before exploring other areas of this amazing city. For accommodations you can chose from a ryokan inn, machiya townhouse or hotel. The trip from Kameoka to Arashiyama by train take only 15 minutes."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "KYOTO – (breakfast) | Today you will have free time to explore though your guide from day 4 and your tour organizer will give you plenty of options. Kyoto is where the traditional 'high arts' flourished. Numerous temples and shrines are located throughout the city and walking along canals, next to traditional wooden houses and through the small streets really gives you an idea of the ancient Japanese imperial culture. Let us know if you would like to join a tea ceremony, calligraphy class, flower arranging class, cooking class, geisha makeover or any other class or activity and we will make these arrangements."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "DAY TRIP TO NARA (breakfast) | Nara is located near Kyoto and was the imperial capital from 710 until 784 before it was moved to Heijo-kyo (Kyoto). During this period, a large number of shrines and temples were erected under the protection of the imperial family and aristocrats. However, the monks in the surrounding hills started ro gain too much influence and eventually tried to seize power from the Shinto emperor. It was decided to move the capital to Heian-kyo, nowadays known as Kyoto. Many of the temples built at the height of Nara power, like the Todaiji and Horyuji temples, are currently registered as World Heritage Sites. Both Japanese and foreign tourists visit the city to see these temples, to walk among the free-roaming deer of Nara park or to visit some of the beautiful scenic mountains surrounding the city. You will return to Kyoto for the evening. The train from Kyoto Station to Nara Station will take about 45 minutes."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "DEPART - (breakfast) | Today will be your last day in Japan and your last chance for sightseeing and shopping. You will take a train from Kyoto Station to Kansai Airport following the directions in your tour organizer."
+    }
+  ],
+  "map": ""
+}

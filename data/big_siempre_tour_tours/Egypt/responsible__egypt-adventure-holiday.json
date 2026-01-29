@@ -1,0 +1,65 @@
+{
+  "destination": "Egypt",
+  "mainPhoto": "",
+  "id": "egypt-adventure-holiday",
+  "tourName": "Egypt adventure holiday",
+  "placesVisited": "Cairo, Giza Pyramids, Aswan, Nubian bazaar, Temple of Isis, Dinner with a Nubian family, Nile felucca journey, Luxor, Valley of the Kings, Karnak temple, Optional: Abu Simbel temple, camel ride",
+  "generalInfo": "Follow the course of the Nile from Cairo to Aswan before cruising by traditional felucca to Luxor and making the return to the capital by train to complete, what will no doubt become, a classic Egypt adventure holiday over the course of a week. <br/><br/>From a cruise on the Nile and chatting to Nubian crew members to experiencing the colossal temples and monuments of Luxor and joining a local family for some delicious home cooking, there’s not much that this Egypt adventure holiday doesn’t include all within a week away.<br/><br/>Important booking note: prior to signing up to this Egypt adventure holiday we advise all of our potential guests to read the safety section of the specific trip notes which offers advice regarding how to travel safely whilst in Egypt. <br/>",
+  "durationDays": "8",
+  "price": "1295",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Cairo.",
+      "description": "Ahlan! Welcome to Egypt. Your adventure begins in Cairo with a welcome meeting at 4 pm, where you’ll meet your leader and fellow travellers. If you arrive early, get your bearings by walking around the neighourhood, or escape the hustle and bustle and explore the Christian quarter, known as Coptic Cairo. After the meeting, head out with your fellow travellers and discover Khan al-Khalili Bazaar, located in Cairo's Islamic centre. This traditional souk is a labyrinth of narrow alleys lined with local merchants, making it the perfect place to experience daily Egyptian life."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Cairo/Overnight Train.",
+      "description": "This morning, head to Giza – home to some of the world’s most iconic sights and one of the Seven Wonders of the World. Explore the structures that have stood tall for 4500 years and uncover the mysteries surrounding them with your leader. Head to a spot where you'll have a panoramic view of the three pyramids, before checking out the Great Sphinx of Giza. For lunch, follow your leader to a local restaurant to try a Koshary plate (a tasty and filling Egyptian take on pasta). After, make your way to the Grand Egyptian Museum, newly open in November 2025, which houses one of the world's greatest collections of antiquities. Wander through the treasure-filled halls while your leader highlights the true gems of the exhibits. Later, meet your leader and travel to the nearby train station, where you’ll board an overnight sleeper train bound for Aswan."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Aswan.",
+      "description": "Travel to Aswan – Egypt's southernmost city, where the river Nile flows, white-sailed feluccas glide by and Elephantine Island awaits. Today is a free day, so take the opportunity to see some Aswan sites like the Unfinished Obelisk – an ancient monument that has remained unfinished for 3500 years – or the High Dam. Maybe see The Nubian Bazaar, the Nubian Museum or the beautiful Temple of Isis, dedicated to the goddess Isis on Philae Island. The waterfront promenade, or Aswan's Corniche, runs alongside one of the Nile's most appealing stretches and is the perfect place to pause for a mint tea. This evening you’ll experience modern Nubian culture first-hand by joining a local Nubian family for dinner in a nearby village."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Aswan.",
+      "description": "Today is another free day in Aswan. Perhaps head out of the city and visit Abu Simbel this morning. With the four colossal statues of Ramses guarding the Great Temple, carved directly from the mountain on the west bank of the Nile, this is one of Egypt's most memorable sights. Alternatively, you could take a sailboat around the islands in a traditional felucca, stopping off at the botanical gardens on Kitchener's Island. Your leader will be on hand to help you arrange any excursions. Otherwise, simply relax and take in the beauty of the Nile or do some shopping in the local bazaar."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Nile Felucca.",
+      "description": "With your free time this morning, perhaps hop on a motorboat out to the Tomb of the Nobles or stock up on snacks for your evening on the Nile. Board the felucca with your group just before lunch and spend the afternoon out on the river, watching Egyptian daily life play out on the banks, before spending a night under the stars. Your Nubian sailing crew provides all the meals, which are hearty and delicious, as well as some local entertainment. Being a traditional wooden boat with broad canvas sails, your felucca offers some shade and protection from the elements, however, there’s no cabin or enclosed section. Tonight, watch the sunset across the Nile for a sight you won't forget."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Luxor.",
+      "description": "Say goodbye to your Nubian friends this morning and take a private van to the ‘open-air museum’ of Luxor. From the spectacular temple complex of Karnak to the Valley of the Kings, Luxor is full of wonderfully preserved reminders of the Pharaohs. On the way, there's the option to visit either the unique mirror-image design of the Temple of Kom Ombo, or the beautifully preserved Temple of Edfu. In the afternoon, explore the magnificent Karnak Temple, which is perhaps the most impressive of all the ancient Pharaohs' monumental works. One of the world's most celebrated temple complexes, Karnak is a house of the gods built over a period of 200 years. After, visit a local NGO, Animal Care in Egypt (ACE), our Foundation partner, to learn about the work they do to care for wounded working animals in the region. The rest of the day will be free to relax, shop in the bazaar or chill out in a local teahouse."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Luxor/Overnight Train.",
+      "description": "Today, discover some of the wonders of ancient Thebes via a private minivan. Your first stop is the Colossi of Memnon – two 17-m-high statues on Luxor's West Bank. Carved from granite blocks, they represent the Pharaoh Amenhotep III and were once part of an impressive colonnade. Continue to the royal burial site of the Valley of the Kings – here, buried under the arid hills, are over 60 richly decorated tombs of pharaohs. Your leader will explain the history and legends of these remarkable pharaohs and the significance of the many paintings and hieroglyphics. After, join a local family for lunch and try some traditional home cooking. The rest of the afternoon is yours to explore at your pace before boarding an overnight sleeper train from Luxor back to Cairo."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Cairo.",
+      "description": "Arrive in Cairo early this morning and have one last breakfast with your group. Your trip then comes to an end. If you'd like to extend your stay, just get in touch with your booking agent ahead of time."
+    }
+  ],
+  "map": ""
+}

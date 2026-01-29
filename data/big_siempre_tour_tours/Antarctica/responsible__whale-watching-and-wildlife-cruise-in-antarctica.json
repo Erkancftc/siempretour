@@ -1,0 +1,85 @@
+{
+  "destination": "Antarctica",
+  "mainPhoto": "",
+  "id": "whale-watching-and-wildlife-cruise-in-antarctica",
+  "tourName": "Whale watching and wildlife cruise in Antarctica",
+  "placesVisited": "",
+  "generalInfo": "All aboard – the journey of a lifetime awaits. Set sail towards the Antarctic Peninsula, where whales gather in their largest numbers, on this 12-day expedition designed especially for wildlife-lovers and epic adventurers. Follow the migration paths of whales and spot seals, penguins and seabirds along the way. Explore the frozen wilderness from the deck of the Ocean Nova and from a fleet of up-close-and-personal Zodiacs, scanning for underwater silhouettes. Take an optional expedition by day paddle or choose to take a reinvigorating polar plunge. Among electric blue glaciers, this by-sea adventure provides the best opportunity for whale-spotting and once-in-a-lifetime exploration.",
+  "durationDays": "12",
+  "price": "6712",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Ushuaia.",
+      "description": "Welcome to Ushuaia, the gateway to Antarctica! On arrival at Ushuaia Airport, there’ll be a transfer included to your joining hotel. This evening, you’ll have the chance to meet your fellow travellers and Expedition Team during an important welcome meeting at your hotel. Your leaders will share more about the journey ahead and provide details for tomorrow’s embarkation. If you arrive in Ushuaia early, you might like to explore downtown, where you can shop for unique souvenirs or indulge in authentic Argentinian cuisine at one of the town’s excellent local restaurants."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Embarkation in Ushuaia, Argentina.",
+      "description": "Enjoy a relaxing morning – Ushuaia is a charming, compact town with breathtaking views of the snow-capped Andes, so be sure to have your camera ready! Then, transfer to the port of Ushuaia, where you'll board the Ocean Nova, your home for the next 10 nights. Once aboard, settle into your cabin, and head to the outer decks as the Ocean Nova embarks on its journey through the historic Beagle Channel, bound for Antarctica. Later, join the excitement indoors as you learn about the incredible adventures ahead."
+    },
+    {
+      "dayNumber": 3,
+      "title": "At sea, Drake Passage.",
+      "description": "Embark on a two-day journey across the legendary waters of the Drake Passage, named after British seafarer Sir Francis Drake, as you head toward the Antarctic Peninsula and the South Shetland Islands. If conditions permit, take advantage of the outer deck spaces to look out for dolphins, whales, and various seabirds, including the Wandering albatross, with its impressive three-meter wingspan. The onboard lecture program will also begin, allowing you to join at your leisure as a team of polar experts provides insights into Antarctic history, geology, biology and much more. With favourable weather, you’ll reach the Islands of the Antarctic Peninsula by early evening on day four, with the first sighting of land always sparking excitement and anticipation for the next phase of your southern adventure."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Drake Passage.",
+      "description": ""
+    },
+    {
+      "dayNumber": 5,
+      "title": "South Shetland Islands & Antarctic Peninsula.",
+      "description": "The Antarctic Peninsula offers incredible wildlife sightings against breathtaking backdrops of towering mountains, icy landscapes, and pristine waters. As you explore, watch for migrating whales – the peak of the migration season, from February to March, provides the best chance to witness these majestic ocean giants. You’ll also have the exciting opportunity to participate in our Citizen Science project, helping to track individual whales and their movements across the oceans. Weather permitting, you can look forward to at least two excursions each day, offering plenty of chances to immerse yourself in the stunning Antarctic landscape. For those who crave even more adventure, treat yourself to an optional kayaking excursion. You’ll also be able to take a polar plunge off the Ocean Nova. There’s nothing like a quick dip in the Antarctic’s icy depths to get you going!"
+    },
+    {
+      "dayNumber": 6,
+      "title": "South Shetland Islands and Antarctic Peninsula.",
+      "description": ""
+    },
+    {
+      "dayNumber": 7,
+      "title": "South Shetland Islands and Antarctic Peninsula.",
+      "description": ""
+    },
+    {
+      "dayNumber": 8,
+      "title": "South Shetland Islands and Antarctic Peninsula.",
+      "description": ""
+    },
+    {
+      "dayNumber": 9,
+      "title": "South Shetland Islands and Antarctic Peninsula.",
+      "description": ""
+    },
+    {
+      "dayNumber": 10,
+      "title": "At Sea, Drake Passage.",
+      "description": "As the Ocean Nova begins its journey back to Ushuaia, take this time to reflect on the incredible adventure you've experienced. You’re expected to reach the calm waters of the Beagle Channel by the evening of Day 11. Your final meal will be a memorable highlight of the expedition. Celebrate the unforgettable moments of your Antarctic adventure with your fellow travellers and Expedition Team, cherishing the connections and experiences you’ve shared!"
+    },
+    {
+      "dayNumber": 11,
+      "title": "Drake Passage.",
+      "description": ""
+    },
+    {
+      "dayNumber": 12,
+      "title": "Disembarkation in Ushuaia, Argentina.",
+      "description": "After breakfast, it’s time to disembark the Ocean Nova as your unforgettable Antarctic expedition comes to an end, leaving you with memories of a truly remarkable adventure. A morning transfer to Ushuaia Airport or downtown is included."
+    }
+  ],
+  "map": ""
+}

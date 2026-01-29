@@ -1,0 +1,65 @@
+{
+  "destination": "Faroe Islands",
+  "mainPhoto": "",
+  "id": "faroe-islands-self-drive-tour",
+  "tourName": "Faroe Islands self drive tour",
+  "placesVisited": "",
+  "generalInfo": "Explore the Faroe Islands on this fascinating 8 day fly-drive tour. The tour offers you the chance to explore the beautiful Faroe Islands, home to luscious green mountains, towering cliffs and many a welcoming smile.<br/>The emphasis for this tour will be on the islands’ scrumptious cuisine allowing you to sample traditional dishes as well as their more modern counterparts.  As an isolated archipelago the Faroese people have historically relied on their natural resources, especially lamb and fish. In more recent years a number of restaurants have emerged that have used the ancient techniques such as drying and smoking to produce some very modern dishes. So along with sampling skerpikjot (wind-dried sheep’s meat) and roestur fiskur (wind-dried fish) be prepared to also experience local ingredients transformed into fine dining.",
+  "durationDays": "8",
+  "price": "2950",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly to Vagar. Land, collect your hire car and check in to the Hotel Vagar. This afternoon enjoy an excursion out to the remote village of Gasadalur. With a population of just 17 the village is surrounded by mountains. We recommend enjoying refreshments in the Gasadalsgardurin Guesthouse & Café."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Today head towards Eysturoy, first heading through the under-sea tunnel to Streymoy. On Streymoy, we suggest visiting Saksun, perched at the end of a long valley above the Pollurin tidal lagoon before continuing on to Tjornuvik, one of the islands' most picturesque villages. Drive to the village of Søldafjørður to a local home. Meet Lena, walk around the beautiful garden and enjoy a home-cooked lunch. After lunch continue to the village of Gjógv and enjoy a Faroese cultural evening of food and dance. (B,L,D)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Journey through the sub-sea tunnel to Klaksvik on Bordoy island. From here there are opportunities to take a ferry to historic Kalsoy, to Kunoy for its excellent walking trails or explore the churches on the islands. We recommend lunch in Café Frida on Klaksvik before returning to Gjogv. (B)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Today drive to Torshavn. This evening enjoy dinner at the Barbara Fish House and tuck into a tasty 6-course chef's choice menu. (B,D)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Enjoy a full free day to explore Torshavn with its narrow streets and turf-roofed houses. Head to the harbour and watch local fishermen bringing in the day's catch. Explore the national museum, a local art gallery and the Nordic house - a cultural centre often home to exhibitions and concerts. This evening enjoy a set menu at ROKS. The set menus reflect the bounty from the surrounding waters. (B,D)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "This morning head over to Vestmanna for a memorable \"Hook and Cook\" experience. Suitable for keen anglers and beginners alike, the captain will advise you on how to catch fish from the waters between the islands Vágar and Streymoy. After around 4 hours on the sea, the captain will fillet your fish ready for the chef back at the marina restaurant \"Fjørukrógvin\". The chef will then cook your fish for you to enjoy the fruits of your labour. In the afternoon on the way back to Torshavn, perhaps visit nearby Kirkjubour, one of the most important cultural centres in the Faroe Islands and home to the ruined St. Magnus' Cathedral. (B.L)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Today is your final full day in Torshavn. We suggest taking the 20-min passenger ferry to the island of Nolsoy which boasts an extremely slow pace of life. The island offers a number of walking trails to head out for a yomp. This evening back in Torshavn enjoy a 3-course dinner at Aarstova, one of the best restaurants in the Faroes and famous for its Faroese lamb. (B,D)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Return the hire car to the airport and take the flight back to the UK. (B)"
+    }
+  ],
+  "map": ""
+}

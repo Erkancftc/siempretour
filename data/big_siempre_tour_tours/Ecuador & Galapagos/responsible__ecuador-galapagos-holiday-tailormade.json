@@ -1,0 +1,75 @@
+{
+  "destination": "Ecuador & Galapagos",
+  "mainPhoto": "",
+  "id": "ecuador-galapagos-holiday-tailormade",
+  "tourName": "Ecuador & Galapagos holiday, tailormade",
+  "placesVisited": "",
+  "generalInfo": "A very popular itinerary that combines three different experiences in a flexible way so that you have a lot of choice. You select the Amazon lodge that suits you best, in the Andes you can either explore the crafts and markets of Otavalo, the wonderful scenery of Cotopaxi, or the natural world of an Andean cloud forest. Then you select the boat of your choice for the Galapagos Islands. We can help you to decide if you are not sure. <br/><br/>Featured activities on this trip include: walking, jungle treks, horse riding (optional), cruising and wildlife watching. <br/><br/>Best time to go:<br/>Ecuador's weather varies little throughout the year, but there are large variations around the country, primarily due to differences in altitude. In the Andes, June to September are generally drier and clearer than the rest of the year (6-7 hours of sunshine as opposed to 5-6 hours at other times). At other times, a typical sierra day would start with a sunny clear morning, clouding over later in the afternoon perhaps with some rain. Cloud and rain are created by the mountains, so can vary widely as you move around them. There is little difference in temperature around the year. In the Amazon, warm temperatures and high levels of humidity are the norm. It rains too (hence the rainforest), but not as much as you might think. You would be unlucky to lose more than half a day to rain in a 4 day visit - but it does happen. The Galapagos Islands are an all year round destination.",
+  "durationDays": "16",
+  "price": "12500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Quito. You are met on arrival at Quito airport and transferred to a 3* hotel, your base for two nights."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "In the morning your guide will meet you at your hotel and take you on a walking tour of the Old City. After lunch, visit the Equator at either the unconventional Inti-Ñan museum or the Mitad del Mundo complex. Or take the cable car up Pichincha volcano."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Amazon. Early morning transfer to the airport for a short flight to Coca, where you will be collected by a fast river boat and taken to the Amazon lodge of your choice for a 4 day/3 night visit."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Excursions at Amazon lodge."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Andes. Returning to Quito by boat and air, you are met at the airport and driven to your choice of three destinations in the Andes. Your time is free in each location to relax at the hotel or for optional excursions which can be arranged by you locally at extra cost. Otavalo: (markets and craft villages) Stay at either Hacienda Pinsaqui and Hacienda Cusín. Both are convenient for visits to Otavalo and its neighbouring villages. Horse riding is available at both. Cotopaxi: Stay at El Porvenir, a beautifully located small hacienda style lodge situated on the edge of Cotopaxi national park, offering hiking, biking and riding. Mindo (Andean cloud forests): Stay in your choice of cloud forest lodge in the Mindo area . They have resident naturalist/ornithologist guides available for hire."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Free day."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Morning free. Afternoon transfer back to Quito. Overnight in the same hotel as Day 1."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Galápagos. Transfer to the airport for a flight to the Galápagos, where you join your chosen 7 night cruise."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Galápagos cruise."
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Disembark from your boat in time for a midday flight to Guayaquil, arriving in time for international overnight flights to Europe."
+    }
+  ],
+  "map": ""
+}

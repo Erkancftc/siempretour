@@ -1,0 +1,65 @@
+{
+  "destination": "Peru",
+  "mainPhoto": "",
+  "id": "perus-treasured-past-fascinating-8-day-history-tour",
+  "tourName": "Peru's Treasured Past: Fascinating 8-Day History Tour",
+  "placesVisited": "Lima, Cusco, Machu Picchu/Aguas Calientes, Pisco, Nazca, Paracas",
+  "generalInfo": "This customizable 8-day Peru tour offers a glimpse of one of the most fascinating cultures in the world. The mystic Andes Mountains conceal secrets of centuries past and riveting tales of the Inca Empire. Beauty exudes from every crevice of the whimsical Sacred Valley, and palaces, cathedrals, and open-aired markets dot the vivacious city streets of Cusco and Lima. Book your trip of a lifetime today.",
+  "durationDays": "8",
+  "price": "3,300",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Lima – Touchdown in Lima",
+      "description": "As soon as you touch down in Lima, you will be serenaded by the sweet melodies of authentic Peruvian music. Shortly after your private driver greets you, they will transfer you to your accommodation in the Miraflores neighborhood. You can enjoy a few leisurely hours to unwind in your room before venturing to the city center. You will truly get a feel for the local culture this evening by dining at the water's edge. You can top off the night with a traditional glass of Peru's national drink, pisco sour, as you look out at surfers and paragliders before settling in for the night."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Cusco – Ancient Inca Ruins",
+      "description": "Today, you will venture to the beautiful city of Cusco. Here, your guide will lead you to some of the city's most impressive Inca ruins of Tambomachay and Saqsaywaman. You will also discover irrigation systems that were used by Inca nobility as a water source for the city of Cusco and to create spa-like baths. In the evening, you will descend on Cusco's main Plaza de Armas. Alongside your guide, you will sample some of the region's most exquisite culinary delights, including cuy, or guinea pig."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Aguas Calientes – World Heritage Ruins of Machu Picchu",
+      "description": "Today, you will embark on a journey to the famed ruins of Machu Picchu. This UNESCO World Heritage site hosts millions of admirers each year. You will surely see why when your guide leads you on a customized tour of the ruins. As you stare out onto the Andean Mountain range, you can marvel at the power and might that was required to construct the citadel in such an isolated location. You will then explore some of Machu Picchu's most illustrious features, such as the Sacred Rock, the Royal Tomb, and the Temple of Three Windows, before having the chance to climb Huayna Picchu."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Pisco – Pisco Sour Tasting Event",
+      "description": "After breakfast this morning, you will transfer to the shimmering coastlines of Pisco. Here, you can indulge the magic of the nation's most prized national drink. For years, Peru and its southern neighbor, Chile, have been engaged in a lively debate over who can claim the citrusy drink as their own. You will soon see why this drink is such a crowd-pleaser. As you sit at a table that overlooks the Pacific, you will follow along on a guided tasting of several varieties of pisco sour . In the evening, you can enjoy some rest and relaxation on the sandy shores as the sun begins to set."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Nazca – Helicopter Tour of Nazca Lines",
+      "description": "Today, you will take to the skies with a helicopter ride. Your flight will lead you over Peru's Nazca Lines for the best vantage point. Your expert guide will share some information about these unique designs and geometric patterns that offer insight into Inca and pre-Inca civilizations. You will also learn more about the various theories of how they came to be. In the afternoon, you will tour the city's municipal museum and dive deeper into the local heritage and folklore. You can also visit the Plaza de Armas."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Paracas – Scenic Tour of Islas Ballestas",
+      "description": "After breakfast this morning, your guide will escort you to a cruise that will lead you to the lovely city of Paracas. As you near the rocky island, you will soon be greeted by its eclectic residents, which include sea lions and a variety of bird species. You may even have the rare opportunity to see a humpback whale as it makes its way to warmer water. On the island, you can enjoy a seaside dinner along the beach."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Lima – Ceviche Cooking Class",
+      "description": "During your final full day in Peru, you will return to the lively capital city of Lima. After settling in to your accommodation, your guide will lead you on a tour of the city center. You will begin in the vibrant Plaza de Armas, where the facades allude to the region's colonial past. Your tour will also include stops at a few of Lima’s public parks before concluding your tour in the Barranco District. In the late afternoon, you will participate in a ceviche cooking class with an expert chef."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Lima – Departure",
+      "description": "In the early morning hours, you can enjoy a refreshing cup of cafe con leche with breakfast. You will then have a couple of hours for self-exploration along the coast or inside several local markets. Soon, you will have to return to your accommodation for your transfer to the airport."
+    }
+  ],
+  "map": ""
+}

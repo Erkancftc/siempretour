@@ -1,0 +1,50 @@
+{
+  "destination": "Morocco",
+  "mainPhoto": "",
+  "id": "morocco-express-tour",
+  "tourName": "Morocco express tour",
+  "placesVisited": "",
+  "generalInfo": "Experience the best of Morocco on our Morocco Express tour. Immerse yourself in the vibrant energy of Marrakech's red city, explore the majestic Atlas Mountains, and unwind on the stunning Atlantic coastline. Our journey takes you through diverse landscapes, starting with the bustling souks and historic landmarks of Marrakech. We then traverse the breathtaking Atlas Mountains, stopping in Taroudant before continuing to the charming coastal town of Essaouira, where you can wander through its picturesque medina, indulge in fresh seafood, and enjoy thrilling water sports. For a unique desert experience without the long journey to the Sahara, we'll spend a night camping in the Agafay Desert, just a short drive from Marrakech. Here, you can choose to embark on an optional camel trek through the rocky terrain at the foothills of the Atlas Mountains or simply relax by the pool and soak up the tranquil atmosphere. Finally, we'll return to Marrakech, where you can explore any remaining attractions, browse for souvenirs, or simply savor the city's vibrant ambiance one last time. This unforgettable journey promises a perfect blend of cultural immersion, natural beauty, and relaxation. Accommodation on this tour is in 3 to 4-star hotels, plus a night at at camp in the Agafay Desert. Transportation is either by minivan or 4x4 land cruiser",
+  "durationDays": "5",
+  "price": "649",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Marrakech & Transfer to hotel. Optional city tour After arriving in Marrakech we'll whisk you away to your comfortable hotel. At 12"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Taroudant & Tiout Oasis Depart from Marrakech in the morning and travel by highway towards Agadir, enjoying a shifting landscape of sweeping plains, argan forests, and rolling hills. The journey is designed for comfort, with pauses for coffee, restrooms, and photography. Upon arrival in Taroudant, we will stop for an optional lunch at a local restaurant before proceeding to the stunning Tiout Oasis, nestled at the foothills of the Anti-Atlas Mountains. Here, you can enjoy a serene walk through lush palm groves, meet local Berber families, and visit the historic kasbah, which offers panoramic views over the valley. Following the oasis visit, we return to Taroudant for a relaxed exploration of the town. You will have time to discover the medina and its souks—famous for silver jewellery, leather goods, and spices—and stroll along the city’s impressive ramparts to view ornate gates like Bab El Kasbah and Bab Targhount. Finally, experience the vibrant rhythm of local life with a stop at Assarag Square. OVERNIGHT"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "To the coastal city of Essaouira via Taghazout After breakfast in Taroudant, depart towards the Atlantic coast, travelling through fertile valleys and argan tree groves. In approximately one and a half hours, you will reach Agadir, where you can pause for a coffee break and a leisurely stroll along the seaside promenade to enjoy the fresh ocean breeze. Continue your journey north along the stunning Atlantic coastline, where the road offers sweeping ocean views, traditional fishing villages, and vast argan forests. En route, you may stop briefly in Taghazout, a surfer town known for its laid-back charm. By early afternoon, you will arrive in Essaouira, an enchanting coastal town recognised as a UNESCO World Heritage site. After checking into your hotel and enjoying an optional lunch at a local restaurant, set out on your first walk through the medina. Explore the historic ramparts of the Skala de la Kasbah, wander through the charming streets, and visit the lively fishing port before enjoying the remainder of the day at leisure. OVERNIGHT"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Overnight in the Agafay Desert, optional camel ride Feel free to explore the coastal town at your own pace this morning. Later, we'll gather at the hotel and embark on a journey to the serene Agafay Desert. This hidden gem, with its lunar-like landscape and striking rock formations, offers a unique desert experience without the need to venture all the way to the Sahara. Upon arrival, we'll settle into our comfortable tents and you'll have the option to relax by the pool or embark on a memorable camel ride as you witness the breathtaking sunset. OVERNIGHT"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Return to Marrakech We return to Marrakech this morning where the tour will come to an end upon arrival. Extra nights can be arranged for those planning to spend longer exploring Marrakech OVERNIGHT"
+    }
+  ],
+  "map": ""
+}

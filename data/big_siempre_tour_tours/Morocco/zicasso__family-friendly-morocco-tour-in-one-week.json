@@ -1,0 +1,60 @@
+{
+  "destination": "Morocco",
+  "mainPhoto": "",
+  "id": "family-friendly-morocco-tour-in-one-week",
+  "tourName": "Family-Friendly Morocco Tour in One Week",
+  "placesVisited": "Essaouira, Marrakech, Ouarzazate",
+  "generalInfo": "Handcrafted with three distinctive Moroccan destinations, this one-week tour is perfect for families who want something a little more intrepid than a standard vacation. Ancient souks arouse the senses, historical villages immerse you in tradition, and there is so much to do and see. From Sufi drumming to horseback rides and movie scenes to Berber villages, you will fall in love with this incredible country.",
+  "durationDays": "7",
+  "price": "2,600",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Essaouira – Colorful First Impressions",
+      "description": "Essaouira evokes many dreamy impressions of Morocco, but it is much smaller than famous cities like Marrakech and Fes. Ancient castle walls keep guard over the city center, and the streets are broad and pedestrianized. You will be met at the airport and transferred to a hotel in the medina. A local guide will take you on a walking tour orientation so that you can feast on some of the exotic flavors and scenes. You will already be able to notice the reverie that Moroccans have toward family. It will all be very exciting and much calmer than being in Marrakech. This evening, you can continue the exotic narrative with a Sufi drumming workshop."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Essaouira – Water Sports and Horse Rides",
+      "description": "Essaouira is a light version of Marrakech without the same level of things to see. You can combine tradition and culture with water sports and time on the beach. Stunning beaches extend down the Atlantic coastline and are within easy reach of the medina. Other than a few horses and the odd surfer, these long beaches are very quiet. This morning, you will travel along the coast on horseback, which is the best way to enjoy an ocean breeze and get out to the remote sand. The afternoon will be kept free so that you can have time to try different water sports."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Marrakech – Horse-Drawn Carriage Ride",
+      "description": "After two days of absorbing local Moroccan flavors, you will be ready for Marrakech. Here, stalls line the souks, and each section has its own product, from spices to leather and household plastic to jewels. Rather than dive into Marrakech, you will first explore the city on a horse-drawn carriage ride. This is a fabulous way to take in all the enchanting sights and sounds without needing to stop or feel overwhelmed by everything. After a short transfer to the city, you will check into your central hotel and spend the afternoon riding around the medina, with stops to discover the city’s fabulous architecture and souks."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Marrakech – Family Cooking Class",
+      "description": "This morning, you will set out on foot to the traditional souks that make Marrakech such an alluring destination. Throughout your wandering, you will witness how the local people love children and families. Today’s tour will be completely customizable to where you want to go and what you want to experience. The kids will be cooking lunch as part of a cooking class that will connect the souk with the kitchen. Your local guide will help shop for ingredients before leading you to a traditional homestead for some fun in the kitchen. You will have some time at your hotel this afternoon before a guide accompanies you to Morocco’s carnival capital of Djemaa el-Fna square."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Ouarzazate – Mountain Trekking in the High Atlas",
+      "description": "Mountains hang along the horizon beyond Marrakech. In just 90 minutes this morning, you can be up in the clouds, crossing a mountain pass. Then you will descend into an oasis-laden valley, where small Berber villages dot ancient paths. Accompanied by mules and guides, you will set off on a trek in these High Atlas mountains. You can have a full-day journey with stops at four different villages or just a two-hour jaunt on the flat between two villages. Experiencing remote villages is what makes the trekking so special, especially the welcome that you will receive at almost every doorway. After trekking, you will continue to Ouarzazate to enjoy the country’s local side."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Ouarzazate – Recreating Famous Movies",
+      "description": "Ouarzazate is Morocco’s movie capital, and it is remarkable how many Hollywood epics have been filmed here. Most movies set in historical Rome, the Middle East, or Africa, were filmed in the desert and mountains around Ouarzazate. This morning, you will tour the movie studios. After lunch, you will visit the UNESCO World Heritage village of Ait Benhaddou. This was the village where Gladiator was filmed, and you can recreate scenes in the famous arena. By stopping for glasses of mint tea, you can chat with the locals before an evening in Ouarzazate."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Ouarzazate – Departure",
+      "description": "From Ouarzazate, you will fly by local charter back to Marrakech, where you will continue your journey home on your international flight."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,65 @@
+{
+  "destination": "India",
+  "mainPhoto": "",
+  "id": "india-backpacking-tour",
+  "tourName": "India backpacking tour",
+  "placesVisited": "",
+  "generalInfo": "India is not only exciting but it is also a travelling must-see destination. If you are short of time and looking for an affordable and fun tour, look no further. In 13-days, you will see some of the iconic wonders of this mesmerising country.<br/> <br/>If you are heading to India in October, why not take part in our 18-day tour that adds on the golden beaches of Goa? Not to be missed! <br/><br/>The cost of the tour covers all accommodation and transport. Some must-see activities are included but many activities are optional. We provide full budgeting information pre-departure.",
+  "durationDays": "13",
+  "price": "849",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Delhi - The adventure begins at 19:00 on day 1 in the capital. Board an overnight train to Varansi."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Varansi -You will have the day to explore the city - opt to watch the Ganga Aarti ceremony or visit the excavated ruins. In the evening, head out for your first group dinner."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Agra - Home of the impressive Taj Mahal, see the stunning building as the sunrises. There will also be plenty of opportunities to explore the Agra Fort or the foundations of the Black Taj."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Jaipur - Take part in a guided tour of 'The Pink City'. You can also opt to take part in a food tour or an art class."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Jaisalmer - Head to the desert and camp under the stars. The camel trek will continue to a desert village."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Jodhpur - Visit the 'Blue City' where, if you are feeling brave, you can zip-line over the Mehrangarh Fort."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Udaipur - Arrive early in the afternoon in time for a sunset cruise on Lake Pichola, with incredible views of the old town and palace."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Mumbai - End the tour in Mumbai, where there are plenty of opportunities to explore all the city offers. You can also opt to take a walking tour."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,55 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "ultimate-kenya-luxury-safari",
+  "tourName": "Ultimate Kenya luxury safari",
+  "placesVisited": "",
+  "generalInfo": "Embark on an unforgettable 9-day safari that departs any day of the week. This trip immerses you in an exclusive experience of Kenya that goes beyond typical safari packages. Your journey begins at Kenya's most iconic hotel, where luxury meets history. <br/><br/>From there, spend three days in a secluded bush camp in a private conservancy, just a stone's throw from the renowned Masai Mara National Reserve. You'll then retreat to a stunning beach hideaway for four days, enjoying a luxurious homestay complete with a private beach and the mesmerizing blue waters of the Indian Ocean, all set against a backdrop of lush coastal forest.<br/><br/>For those looking to enhance their adventure, we offer options to extend your tour into Tanzania, maintaining the same high standards and a beach extension along the beautiful Kenyan coastline. With daily departures, this safari is designed to fit seamlessly into your schedule. Contact us today for more details or to book the ultimate Kenyan safari experience!",
+  "durationDays": "9",
+  "price": "8445",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival Nairobi - Upon arrival at Nairobi’s Jomo Kenyatta International Airport, you will be met by our representative and driven to the historic Fairmont Norfolk Hotel. One of the great historic hotels of the world, and a feature on Nairobi’s landscape since it opened on Christmas Day 1904, the Fairmont Norfolk Hotel has entertained such historic figures as Winston Churchill, Theodore Roosevelt and Karen Blixen. Recently exquisitely refurbished, this atmospheric and beautifully appointed hotel stands in the centre of town where it offers an unusually wide selection of 167 rooms, ranging from opulent suites to cosy cottage-style rooms set around a central garden courtyard. Dining options include the famous Lord Delamere Terrace, The Tatu Restaurant fine-dining experience and the poolside restaurant. Other facilities include a health centre (heated swimming pool, state-of-the-art gym and aerobics studio, steam and sauna), a hair dressing salon and gift shop. Overnight at the Fairmont Norfolk Hotel"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Into the Masai Mara National Reserve - After breakfast, you will begin your journey to the Masai Mara National Reserve. On arrival you will be met by your guide and continue to the Instinct of the Mara in time to relax before lunch. After lunch enjoy your first game drive in this world-renowned reserve before returning to camp for dinner. Instinct of the Mara lies on the Southeastern border of the Masai Mara Game Reserve (between the Tanzanian border and Sand River) in the private Olderkesi Conservancy. There are 2 family suites and 7 spacious, stylish tents providing complete privacy and intimate contact with nature. All the tents have a private veranda and ensuite bathroom. The central mess area stands on a raised deck. The camp also offers an outdoor lounge and campfire area. Game walks and drives are tailored to suit the clients’ wishes but typically take place early morning and late afternoon. Evening sundowner drives can also be arranged, as can night game drives, a unique activity not permitted in the actual reserve. Overnight at the Instinct of the Mara (BLD) including Afternoon Game Drive"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "On safari in the Masai Mara National Reserve - With three days on safari in the Masai Mara, the opportunities for game viewing are unprecedented. A pristine wilderness of haunting beauty, the Mara promises a profusion of wildlife, prolific bird life and the unprecedented opportunity of catching up with all the members of the ‘Big Five’ in one morning. Overnights at the Instinct of the Mara (BLD) including Morning and Afternoon Game Drives"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "To the North Coast - Enjoy the morning in the Mara, before travelling to Mombasa. Upon arrival at Cardamom House there maybe time to relax and freshen up for dinner. Cardamom House is your perfect beach hideaway presented in 4 Villas (Manda Toto, Villa Shela, The Tower and Villa Lulu) with elegant Swahili-inspired architecture, afro-chic interiors, a pool built into the coral and a private white-sand, blue water beach lined with palm trees. Located in Kuruwitu Beach, Vipingo, home to Kuruwitu Marine Area, the first locally managed marine park in Kenya, stretching 7.5miles protecting marine life while sustainably supporting almost 30,000 villagers. To preserve the natural palms and vegetation in the area, Cardamom House has been built around the existing nature, wildlife, textures and elements. This means that each villa has a green element in or around it. Overnight at Cardamom House (BLD)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "At the Coast - Three days of idyllic living in one of the 4 luxurious villas. There are a variety of activities to indulge in including Snorkelling and Scuba Diving, Safari Day Trips, Dhow Trips, Kite Surfing, a PGA Rated Golf course, Dolphin Watching, Fishing and Horseback Riding (all bookable and paid for locally). Overnights at Cardamom House (BLD)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Return to Nairobi - Enjoy a leisurely morning and, after lunch, drive to Mombasa to connect to your flight to Nairobi and your onward connection."
+    }
+  ],
+  "map": ""
+}

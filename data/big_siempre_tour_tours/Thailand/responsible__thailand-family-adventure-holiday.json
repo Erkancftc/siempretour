@@ -1,0 +1,95 @@
+{
+  "destination": "Thailand",
+  "mainPhoto": "",
+  "id": "thailand-family-adventure-holiday",
+  "tourName": "Thailand family adventure holiday",
+  "placesVisited": "Bangkok, Kanchanaburi, River Kwai, Elephant sanctuary, Erawan National Park, Overnight sleeper train to Chiang Mai, Cycling and kayaking in Sri Lanna National Park, Fly to Koh Samui Island, Optional speedboat ride to Angthong National Marine Park",
+  "generalInfo": "This family adventure through Thailand has been designed for children of eight years and upwards. The trip is an ideal introduction to Thailand or to show your children a country you have traveled to before and loved. You will start in Bangkok to get acclimatized and to explore the sights with an innovative excursion that makes use of the city's modes of public transport. Bangkok is also an amazing place to sample Thailand's famous cuisine before getting more adventurous later in your trip. Next stop is Kanchanaburi for an informative history lesson and encounters with the Asian elephant, giving insight into Thailand's incredible wildlife. You will then hop on the overnight sleeper train to Chiang Mai to spend a few days exploring the city, as well as spending time with a local Thai family. Finish with a few days of relaxation at the beach before returning home.",
+  "durationDays": "14",
+  "price": "4290",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly internationally from your home airport to Bangkok."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "After being welcomed by your guide at Bangkok Airport, take a private transfer to your hotel."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "A private guided tour of Bangkok is a great introduction to Thailand today. Visit the capital's key attractions: the Grand Palace, Wat Po (home to the reclining Buddha) and Jim Thompson's house. Try out Bangkok's different forms of public transport - the Skytrain which winds its way through the skyscrapers and shopping malls, the public taxi boat, a long-tail boat and of course the infamous Thai tuk tuk. This is a fun excursion that gives you a fantastic insight into the capital as well as the people that call Bangkok home. As this is a private tour, your guide is able to go at a pace that suits your family."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Your guide collects you from your hotel this morning for your private transfer to Kanchanaburi, a journey of about two and a half hours. This area is renowned for its time during the 2nd World War when Allied POWs were used by the Japanese to build the Burma-Thailand Railway. Gain an insight into this history with a private guided tour of the main points of interest: the Thailand-Burma Railway Centre, the infamous Bridge On The River Kwai and Hell Fire Pass. The tour includes a boat journey up the River Kwai and a train journey on the infamous Death Railway. In the evening, relax in your river camp's beautiful setting."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Experience one of Thailand's most magnificent creatures today with a shared tour at Elephant's World, an elephant sanctuary that looks after old, sick, handicapped and rescued elephants. The sanctuary's motto is 'we humans work for the elephants, they will not work for us' - experience this for yourself as you spend the day looking after them: feeding, and preparing their food."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "The morning is at leisure. You may like to relax in the camp's rock pool by the River Kwai, use your camp's complimentary mountain-bikes or visit the beautiful falls at the Erawan National Park. Your guide collects you for your private transfer to Bangkok, assisting you to catch the overnight sleeper train to Chiang Mai, located in the north of Thailand. The train journey should take 12 hours however trains in Thailand are notorious for being late so this could extend by two to four hours."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Meet your waiting guide at the train station in Chiang Mai who accompanys you and your family on your private transfer to your hotel. After settling into your hotel you have the rest of your day at leisure. Late afternoon is a great time to visit Chiang Mai's most famous land-mark: the temple of Wat Phra That Doi Suthep. This is one of Thailand's most important temples and has fantastic views of the city. In the evening you may like to visit the city's famous night bazaar."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Today you and your family get a fantastic experience into Thai life as you and your family are collected by a local man to visit him and his family at their home. During your stay learn how to cook authentic Northern Thai flavours and enjoy a home-cooked lunch with the family."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Meet your guide this morning for your private cycling and kayaking adventure. The tour starts about one hour's drive from Chiang Mai in the lovely Sri Lanna National Park. The bike ride is a scenic 15-20 km (10 - 13 miles) ride and the kayaking takes place on a lake, passing jungle-clad hills to a small village of floating houses. Traditional Thai lunch is included at the village and afterwards you can relax in the village, go for a swim or explore further in your kayaks before you are taken back to your hotel by boat and road."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "The beach part of your holiday starts today. Your guide is on hand to accompany you on your private transfer to the airport for your direct flight to Koh Samui. The flight takes 1 hour 45 minutes. After being met upon arrival, take a private transfer to your lovely small boutique resort nestled in tropical gardens and overlooking emerald waters and the white sands of Maenam Beach."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Today is free to relax, or explore the island."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Another day free to explore. A popular tour that you might like to consider is a speedboat ride to the nearby Angthong National Marine Park."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Today is your last day by the beach before heading home. With calm waters, the beach is ideal for younger children to try for the first time, or for more advanced trips, guided snorkeling tours are available."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Depart from the hotel this morning for your private transfer to the local airport for your onward flight."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,50 @@
+{
+  "destination": "Botswana",
+  "mainPhoto": "",
+  "id": "botswana-bush-and-beach-honeymoon",
+  "tourName": "Botswana bush and beach honeymoon",
+  "placesVisited": "",
+  "generalInfo": "Explore the Okavango Delta through this 10 day itinerary. Kick off your adventure with a two night stay at Mokolwane Camp. Days here are all about exploring the wildlife-rich Xudum concession in the heart of the Okavango Delta. The main focus is on game drives, which take place in the early morning, late afternoon, and often stretch into the evening. This gives you the best chance of witnessing the delta’s remarkable diversity of animals, from big game like elephants and lions to rarer nocturnal species as the bush comes alive after dark.<br/><br/>For those who want to see the Delta from a different perspective, scenic flights can be arranged at an additional cost. Soaring over the waterways and floodplains offers a spectacular bird’s-eye view of this ever-changing wilderness.<br/><br/>Next, a three night stay at Mbamba Lodge in the Sekwana Community concession. After a day of adventure, where you will explore the area's diverse habitats and view incredible wildlife, guests gather around the firepit to share stories and enjoy some of the clearest stargazing in Africa. It’s a chance to slow down, listen to the night sounds of the Delta, and connect with the wild in a way that feels both intimate and unforgettable.<br/><br/>Finally, after a brief stopover in Johannesburg, you will visit the Bazaruto Archipelago, staying at Zenguelemo Lodge for three nights - a luxurious retreat where you can explore crystal clear waters, snorkelling on the reef, try stand up paddle boarding, or have a relaxing spa treatment. There is something for everyone here!",
+  "durationDays": "10",
+  "price": "7650",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Mokolwane - Okavango Delta - Depart from Maun International Airport, and arrive in Mokolwane. Stay for 2 nights in Mokolwane Camp, part of the Xudum concession in the Okavango delta. The camp features seven canvas tents set on raised platforms overlooking the Matsebi River. All tents enjoy superb river views, especially during the floods. A central lounge and dining area, also raised on wooden decking, is complemented by a firepit for storytelling and stargazing after dinner. Activities centre on morning, afternoon and evening game drives, with excellent wildlife diversity across the concession. Scenic flights over the Okavango Delta can be arranged at extra cost. The camp is reached exclusively by a 30-minute helicopter transfer from Maun. Head out on morning and afternoon game drives in comfortable vehicles, with expert guides revealing the Okavango Delta’s most iconic wildlife and hidden gems."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Mbamba - Okavango Delta - 3 nights - After taking a helicopter charter from Mokolwane, you will arrive at Mbamba. Set within the Sekwana Community concession in northern Okavango, Mbamba Lodge offers a tranquil safari escape surrounded by floodplains and ancient leadwood trees. The lodge has 12 en-suite canvas tents, including two spacious family units, each with comfortable furnishings and private decks overlooking the bush. A relaxed central area with lounge, dining space, bar, library and pool provides the perfect place to unwind between wildlife adventures. Glide through lily-dotted channels on a boat safari, watching wildlife up close along the waterways."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "City Lodge at Tambo Airport - Johannesburg - 1 night - Perfectly located at Tambo International Airport, the City Lodge offers a seamless stopover with 365 stylish, air-conditioned rooms featuring en-suite bathrooms, satellite TV and thoughtful touches like tea and coffee facilities. Between flights, unwind at the sundowner bar, pool or fitness room, and enjoy freshly prepared meals at the welcoming on-site café."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Zenguelemo Lodge - Bazaruto Archipelago - 3 nights - Fly from Maun International Airport to Vilanculos Airport, where you will be transferred to Zenguelemo Lodge. Zenguelemo Lodge is a luxurious eco-retreat where rolling sand dunes, pristine beaches and lush wilderness meet. Its elegant, sustainably designed rooms feature spacious interiors, modern comforts and private terraces with uninterrupted views of nature. Dining celebrates fresh, locally sourced ingredients, with gourmet dishes served in the stylish restaurant or al fresco by the ocean. Guests can spend their days snorkelling the reef, stand-up paddling on the Indian Ocean, indulging in spa treatments or simply unwinding on the beach. For those seeking more adventure, excursions on a traditional sailing vessel or 'dhow', and private boat trips to uninhabited islands can be arranged. Attentive service and a tranquil setting make this a sanctuary for both relaxation and discovery."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "End of Itinerary - Take a helicopter charter from Zenguelemo Lodge to Vilanculos Airport, then begin your onward travel home."
+    }
+  ],
+  "map": ""
+}

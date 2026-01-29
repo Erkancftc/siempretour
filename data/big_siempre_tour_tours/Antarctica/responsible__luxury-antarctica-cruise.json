@@ -1,0 +1,55 @@
+{
+  "destination": "Antarctica",
+  "mainPhoto": "",
+  "id": "luxury-antarctica-cruise",
+  "tourName": "Luxury Antarctica cruise",
+  "placesVisited": "Drake Passage, Antarctic Peninsula, Whale watching, Options to see following: Aitcho Islands, South Shetland Islands, Brown Bluff , Tabarin Peninsula, Cuverville Island, Paradise Bay, Paulet Island, Wilhelm Archipelago, Expert expedition team",
+  "generalInfo": "This Antarctica cruise is, on average, eleven days long and starts with a couple of days’ crossing of Drake Passage, our expedition ships well able to take on the ups and downs of this notoriously rough channel. When you come through it, however, you will see that the rewards are huge, and considered by many to be the modern explorer’s final frontier. <br/><br/>As well as the magnificent sea birds, including albatrosses and whales that you will hopefully see on Drake’s Passage, you will witness some of the most amazing midnight sunsets.  Then once we get to the Antarctic Peninsula you have a world of icebergs, glaciers, towering ice cliffs and ice floes that never fail to amaze. Same goes for the wildlife that inhabits these mammoth land and seascapes, including minke, humpback and orca whales, penguins and seals. We have Zodiac boats on board our expedition ship for various excursions closer to land or indeed on land, where you will be accompanied by our expert expedition team. Anchorage points depend on conditions on the day, but It doesn’t really matter where, be it the South Shetland Islands or Paradise Bay, it is all extraordinary. <br/><br/>Our vessels<br/><br/>We use a selection of purpose built expedition ships, with strengthened hulls and Lloyd’s Register ice class notation for ease of passage through these frozen waters. Most sleep around a hundred passengers but cabin facilities vary, so do talk to us more about the ship that is scheduled for the date you hope to travel. <br/>",
+  "durationDays": "12",
+  "price": "11319",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "BUENOS AIRES. Meet and greet at the hotel by our local representative. Check-in from late morning. Lunch on your own and time at leisure in the afternoon. Dinner. Overnight at the hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "USHUAIA. Flight Buenos Aires/Ushuaia. Capital of Argentina's Tierra del Fuego province, Ushuaia is considered the gateway to the “Great White“ and the South Pole. Nicknamed “El fin del mundo” by the Argentinian people, this city at the end of the world nestles in the shelter of mountains surrounded by fertile plains that the wildlife seem to have chosen as the ultimate sanctuary. With its exceptional site, where the Andes plunge straight into the sea, Ushuaia is one of the most fascinating places on earth, its very name evocative of journeys to the unlikely and the inaccessible…"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "CROSSING THE DRAKE PASSAGE Use your days spent in the Drake Passage to familiarise yourself with your ship and deepen your knowledge of the Antarctic. The Expedition Leader will first present the IAATO rules of conduct that must be observed during landings in the region and will explain everything you need to know about the Zodiac® outings. Lectures about the history and wildlife of the Antarctic will be an opportunity for you to learn more about this magical region, where every cruise is a unique experience. From the ship’s bridge, you will experience exceptional sailing moments before joining the naturalist-guides on your ship’s exterior decks to look out for albatrosses, cape petrels, and other seabirds flying over the Drake Passage."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "ANTARCTIC PENINSULA. To learn more about ecosystems, fauna and landscapes in Antarctic regions, go to the section “Discover Antarctica” of your cruise. Succumb to the magic of a place unlike any other. To this day, the mythical Antarctic Peninsula still holds real fascination and promises its visitors unforgettable moments. Throughout your adventure in this icy realm, you will find yourself in the heart of a spectacular decor in subtle shades of blue and white, surrounded by exceptional wildlife. Penguins, humpback whales, seals and giant petrels are at home here, as are elephant seals, fur seals, Antarctic minke whales, and orcas. Depending on which sites you will be lucky enough to visit, you may get the chance to observe them and share with them the beauty of these extreme parts. Each day, based on ice conditions, the Captain and the Expedition Leader will suggest Zodiac® outings or landings to discover the infinite riches of the Antarctic Peninsula. Glaciers, ice floe, tabletop icebergs, mountain peaks that plunge straight into the sea, volcanic beaches, research stations, enchanting bays, and vestiges of the whaling industry: these are the faces of the Antarctic that will likely reveal themselves to you, in a hushed and surreal atmosphere. You will sail in the wake of Jean-Baptiste Charcot, Adrien de Gerlache and Sir Ernest Shackleton, great Antarctic explorers who, from the 19th century, set out to conquer these remote and uninhabited lands."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "CROSSING THE DRAKE PASSAGE. If there is one place, one sea, one waterway dreaded by tourists, researchers and hardened seafarers alike, it is undoubtedly Drake Passage. Situated at the latitude of the infamous Furious Fifties winds, between Cape Horn and the South Shetland Islands, it is the shortest route to Antarctica. Seasoned navigators will tell you that you must earn your visit to the White Continent! As the Antarctic convergence zone where cold currents rising up from the South Pole meet warmer equatorial water masses, Drake Passage harbours a very diverse marine fauna. Don't forget to look to the sky to catch a glimpse of elegant albatross and Cape petrels, playfully floating about in the wind around your ship."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "USHUAIA. Disembarkation. Charter flight Ushuaia to Buenos Aires."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,80 @@
+{
+  "destination": "Japan",
+  "mainPhoto": "",
+  "id": "hokkaido-tour-in-japan",
+  "tourName": "Hokkaido tour in Japan",
+  "placesVisited": "Sapporo, Otaru, Furano, Biei, Abashiri, Utoro Onsen, Akan National Park, Kawayu Onsen Hot Spring, Kushiro wetlands, Stay in a traditional ryokan inn",
+  "generalInfo": "Hokkaido is Japan’s northernmost large island, known for national parks and steamy hot springs. On this 11 day tailor-made tour you’ll circle the island. Make the most of whatever season you’re travelling in – from winter powder to summer flowers.<br/><br/>You’ll start and end your tour in Sapporo, the island capital. From Sapporo you’ll go on to Furano, in the hilly interior of the island.  Next you’ll head onto the northern coast, to stay at a ryokan inn in Abashiri and enjoy a Japanese Kaiseki dinner. From here it’s on to national parks, where rare cranes, preserved wetlands and fresh seafood await. <br/><br/>This trip changes a little with the seasons. In summer, Hokkaido is in full bloom. Travel in warm weather and you’ll come across wild flower gardens in Abashiri, admire Furano’s lovely lavender fields, and see unique flower fields in Biei as you cycle through the farmland. <br/><br/>In winter it’s a different story. Furano is world-famous for its winter sports. Hit the slopes in the cold months – or just admire the frosty wonderland. You can see the massive ice floes from an icebreaking ship on the Sea of Okhotsk near Abashiri.  Come on this trip in February and you might even be able to visit Sapporo’s popular snow festival. <br/>",
+  "durationDays": "11",
+  "price": "9500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "SAPPORO – (no meals) | Your airport pick up will meet you at New Chitose Airport (assuming your flight arrives after 8:00am and before 21:30) and escorted to your hotel in Sapporo by public transportation. They will validate your JR Rail Passes, make seat reservations, answer any of your questions and hand you your pocket internet device to give you access to internet maps, translations and the like. Sapporo is the capital of Hokkaido Prefecture and fourth largest city in Japan with 2 million people. It is most famous for its snow festival in February where hundreds are snow artists show off their works. It is a fun town to explore and you may wish to visit the beer museum, Moerenuma Park or Mt Moiwa for views of the city. If food is your thing then you will enjoy the curb market, Ishiya Chocolate Factory or our favorite, Ganso Ramen Noodle Alleyway. The summers are usually warm and dry; however the winter are very cold, with heavy snow falls so please dress accordingly."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "DAY TRIP TO OTARU – (breakfast) | Today you will take a train to Otaru to visit their canal district, and Sakimachi Street. Otaru gained it wealth as a base for international trade. This quaint town is known for its glassware which many tourists purchase for souvenirs. You will then head back to Sapporo for the night."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "FURANO – (breakfast) | Today you will travel to central Hokkaido to visit Furano. In the summer travelers come to Furano to see the lavender fields but in the winter it turns into a winter wonderland with all kinds of different winter sports including downhill and cross country skiing. At the end of the day you can relax in Furano hot spring baths."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "DAY TRIP TO BIEI – (breakfast) | A short train ride from Furano is Biei known for its Patchwork Road and rolling beauty. If you are visiting in the summer you will take a half or full day cycling small group tour. If you prefer a driving tour than we can also arrange that. In the evening you will return to Furano."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "ABASHIRI – (breakfast & dinner) | Today you will head to the northern coast of Hokkaido to stay at either Abashiri or Utoro Onsen in a hot spring ryokan inn. Abashiri is a town of 40,000 residents, on the Northeastern coast of Hokkaido. In winter the town is a popular destination for visitors who want to see the ice flows on the Sea of Okhotsk. Here you will take a sightseeing cruise on one of their ice breaking ships. In summer the town has beautiful wild gardens where wild flowers bloom. Dinner will be served at your ryokan inn."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "ABASHIRI – (breakfast & dinner) | Today you will have a full day in Abashiri, where you can visit place like North People Museum to learn about the native people of Hokkaido and the National Park of Shiretoko. In the evening you will head back to your ryokan inn for dinner and a soak in a hot spring bath, this is really the best way to end your day."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "KAWAYU ONSEN HOT SPRING near Lake Kussharo – (breakfast & dinner) | Today you will head to the quaint hot spring town of Kawayu Onsen (hot spring). You will stay at a local ryokan inn and be served dinner in the evening. Here you can visit one of the many open air hot spring baths, enjoy the naturally beauty of Hokkaido or the Ainu Folklore Museum. In the evening you will head back to your ryokan inn for dinner and a hot spring bath."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "KUSHIRO MARSHLANDS – (breakfast) | Your travels will continue on to Kushiro and Shitsugen National Park, known as Japan's largest wetland preserve. This is the only known habitat of the endangered Japanese Crane (tancho). There are a number of observatories and feeding stations for you to enjoy."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "KUSHIRO MARSHLANDS – (breakfast) | Today you will a full day around Kushiro, where we suggest to visit the fish market where you can select and eat the fish for your lunch. The city also offer a beautiful atmosphere for strolls and people watching."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "SAPPORO – (breakfast) | Today you will head across Hokkaido, finishing your loop of the island, and spending the night in Sapporo where your adventure began."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "DEPART – (breakfast) | Today you will travel to New Chitose Airport and head home."
+    }
+  ],
+  "map": ""
+}

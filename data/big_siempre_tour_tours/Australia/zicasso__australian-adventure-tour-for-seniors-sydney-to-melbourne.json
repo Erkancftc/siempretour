@@ -1,0 +1,95 @@
+{
+  "destination": "Australia",
+  "mainPhoto": "",
+  "id": "australian-adventure-tour-for-seniors-sydney-to-melbourne",
+  "tourName": "Australian Adventure Tour for Seniors: Sydney to Melbourne",
+  "placesVisited": "Sydney, Melbourne, Blue Mountains, Uluru (Ayers Rock) & Kata Tjuta, Great Barrier Reef, Daintree Rainforest",
+  "generalInfo": "Explore the Oceanic continent on a 14-day senior tour of Australia. Discover biodiversity on a four-wheel-drive excursion to the Outback, board a luxurious catamaran to explore the Great Barrier Reef, and join a local guide to immerse yourself in the rich heritage of the Aboriginal people. Get lost in the hustle and bustle of city life and delve into classic adventures at your pace.",
+  "durationDays": "14",
+  "price": "7,800",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Sydney - Welcome with a Private Walking Tour",
+      "description": "Upon arrival at Sydney's International Airport, you'll be whisked away by private transport to your luxury accommodations in the city center. Whiz past looming skyscrapers and lush public parks. Drift around Sydney Harbour and catch a glimpse of the world-renowned Sydney Opera House. Moments later you'll arrive at your five-star hotel, with panoramic views of the skyline. Enjoy an afternoon of rest and relaxation before meeting your guide for a short walking tour of the immediate area, including the Royal Botanic Gardens."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Sydney - Explore Sydney Harbor Bridge and City",
+      "description": "Awake to the hum of early commuters, street vendors, and corner cafes. You'll enjoy a leisurely continental breakfast before joining your private tour guide in the lobby of your hotel. Today you'll enjoy a full-day tour: first by land, then by sea. Marvel at Sydney Harbor Bridge and small sail boats bobbing in the distance. In the afternoon, board a luxurious cruise for unparalleled views of the city from a distance. You'll sail past the Sydney Opera House and sip a glass of wine as the sun begins to set."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Blue Mountains - Enjoy a Wildlife Adventure",
+      "description": "Leave the frenzy of city life behind for Australia's captivating wildlife. Travel to the Blue Mountains for breathtaking views of Australia's natural splendor. Upon arrival in the base town, you'll board a cable car to climb above the treetops and rugged cliffs sparkling in the morning sunlight. Just 50 kilometers outside one of the largest cities in the world, you'll enjoy stunning views of the valleys and rocky mountainsides that have earned this area the title of UNESCO World Heritage site."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Uluru - Embrace Dinner Under the Stars at Ayers Rock",
+      "description": "Today you'll travel to the internationally acclaimed Uluru, or Ayers Rock. This truly remarkable sandstone formation soars to 868 meters in what's otherwise considered a flatlands region, home to waterholes and rolling plains. Uluru is also an incredibly sacred site to the Pitjantjatjara, or Aboriginal people, of the region. The area is also home to many rock caves and ancient paintings, a window into ancient indigenous culture. That evening, enjoy a romantic dinner beneath the stars against the backdrop of Uluru and the great Australian Outback."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Uluru - Discover Kata Tjuta and Aboriginal Sacred Sites",
+      "description": "The following day, join your tour guide for a full-day immersive experience into traditional indigenous culture. You'll spend the day on foot and in private transport as you explore several sacred Aboriginal sites, including a 15,000-year-old rock formation. Drive around the entire base perimeter of Uluru, with several short, guided hikes along the way. In the afternoon you'll visit a nearby wildlife sanctuary for a chance to learn more about Australia's wildlife. Meet koalas, kangaroos, and wallabies up close, and get insight into local conservation efforts to protect endangered animals."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Port Douglas - Witness Local Art and Coastal Transfer",
+      "description": "Watch the sun illuminate the sky during the spectacular Sunrise Field of Light and Outdoor Art Exhibition. Take in the mesmerizing 360-degree views of Australia's Outback as the sun rises over Uluru and nearly 50,000 low-voltage colored bulbs illuminate the desert floor. Enjoy a light brunch back at the hotel before boarding your private transfer for an afternoon flight to Cairns. You will transfer to Port Douglas for several unforgettable days exploring this region's immense biodiversity, including an up-close look at the flora and fauna at the Great Barrier Reef."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Port Douglas - Revel in a Catamaran Cruise",
+      "description": "Listen to crashing waves and gulls cooing overhead as they scan the waters for their early morning catch. Today you'll board a small catamaran alongside your tour guide for a customized tour of the Great Barrier Reef. Sneak away from the most heavily touristed parts of the reef for a rare opportunity to spot clownfish, sea turtles, and manta rays up close. Along the way your guide will point out active marine life and colorful coral. Then, do some exploring of your own as you jump into the water for a few hours of guided snorkeling."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Port Douglas - Delight in a Scenic Rainforest Railway",
+      "description": "The adventure continues the next day, this time by railway. Hop aboard a luxury train for a journey through the Kuranda Highlands. Wind through the lush, rolling hills of this breathtaking region and snap photos from this captivating vantage point. Look out the window for picturesque vistas of sparkling waterfalls in the distance. Soon you'll arrive at the highland village of Kuranda, where you'll learn more about the area's arts and crafts. Then, return by cable car to the coast, gliding nearly 10 meters above the rainforest's canopy."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Port Douglas - Explore the World's Oldest Rainforest",
+      "description": "Embark on the second day of exploration in the Daintree Rainforest, with today focusing on the region's cultural significance. Revel in the natural beauty of the world's oldest rainforest as your guide leads you through some of the densest and tranquil parts of this natural wonder. Here you'll join your second guide of the day, an Aboriginal elder, for an immersive educational experience of the rainforest's indigenous inhabitants and traditions. Learn about regional initiatives that uphold the cultural significance of the Daintree Rainforest and promote local conservation efforts."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Melbourne - Explore the Melbourne’s Laneways",
+      "description": "Fly to Melbourne and enjoy a free afternoon exploring the 'Laneways'. It's here that you can explore a revitalized maze of pedestrian streets filled with cafes, wine bars, and internationally renowned restaurants. You'll also check out small boutiques of every variety, as well as souvenirs shops. Watch street performers in the central square dazzle crowds with magic acts or death-defying dance and gymnastics routines. In the evening you can opt for a guided dinner walking tour: a three-course dinner at three different restaurants, complete with gourmet food and wine varieties."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Melbourne - Wander the Great Ocean Road",
+      "description": "The next morning, rev your engines for a road tour along one of Australia's most scenic highways. You'll zig-zag around rocky cliffsides and catch breathtaking views of the shimmering Southern Ocean. Along the way you'll spot quaint fishing villages hugging the rocky cliffs and stop at one for lunch. In the afternoon, choose between a lively visit to the Otway National Park, where you'll stroll through pristine fern forests and take pictures with koalas up close, or visit the Yarra Valley wineries for a chance to step inside several boutique wineries and meet local wine makers."
+    },
+    {
+      "dayNumber": "12",
+      "title": "Melbourne - Find Kangaroos and Koalas in the Wild",
+      "description": "Today you'll spend the entire day at the Otway National Park alongside your private guide for a customized tour of Australia's most unique and beloved wildlife. Follow your guide on an immersive experience of kangaroos and koalas in the wild. You'll walk into the bush with a ranger for this special opportunity to see wildlife in its natural habitat. Keep watch for koalas, kangaroos, emus, and wallabies as they duck for cover beneath dense foliage or tuck behind rocky terrain. During the tour you'll learn more about the park's conservation efforts and commitment to community outreach."
+    },
+    {
+      "dayNumber": "13",
+      "title": "Melbourne - Watch for Wildlife and Wonder",
+      "description": "See wildlife emerge from underwater habitats today. You'll join your guide in the early morning to visit Phillip Island, home to some of Australia's diverse species of fish and birds. Spend the early afternoon hours keeping watch for small penguins as they return to their nests on the beach, just in time for sunset. You'll also have the chance to take the Mornington Peninsula Food & Wine Tour to a local wildlife sanctuary, plus personalized wine tasting."
+    },
+    {
+      "dayNumber": "14",
+      "title": "Melbourne - Depart for Home",
+      "description": "You'll enjoy a light breakfast at your Melbourne five-star hotel and venture onto side streets for one final chance to shop and converse with locals. Then, meet your tour guide in your hotel lobby and board your shuttle to the airport. Glide along the bustling streets of Melbourne's downtown ahead of your flight back home."
+    }
+  ],
+  "map": ""
+}

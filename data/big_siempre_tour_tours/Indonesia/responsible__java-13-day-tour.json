@@ -1,0 +1,90 @@
+{
+  "destination": "Indonesia",
+  "mainPhoto": "",
+  "id": "java-13-day-tour",
+  "tourName": "Java 13 day tour",
+  "placesVisited": "",
+  "generalInfo": "Java is a bustling melting pot of populous cities, stunning temples and impressive rural and volcanic landscapes. Often overlooked over its more glamorous Balinese neighbour, Java is well worth taking the time to explore in more depth - which is exactly what this private holiday aims to do!<br/>Explore Yogyakarta strolling through the kraton, a mini walled city within the city and admire the bathing pools of the Taman Sari Water Palace. Drive out to UNESCO-registered Borobudur, the largest Buddhist temple in the world, for a sunrise stroll and take in 9th Century art at the Hindu Temple of Prambanan. Marvel at the splendour of sunrise over sacred Mount Bromo and the larger Tengger Massif and continuing your discovery of this vast volcanic landscape, travel to Mount Ijen Plateau for a trek to enjoy views of the crater lake. A fabulous end to a perfect Javanese adventure!",
+  "durationDays": "13",
+  "price": "2885",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly to Yogyakarta, Java"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Land Yogyakarta. Meet a driver and transfer to a city centre hotel. The remainder of the day is free at leisure."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Spend today exploring this historic city. Known as Yogya by locals it boasts a thriving arts scene and is home to numerous historic sites. Visit the 'living museum' the kraton which is a fine example of traditional sultanate architecture and take a becak ride to nearby Kauman village. End the day at the Taman Sari Water Palace which was built over 200yrs ago as a bathing pool for the first Sultan's harem. (B)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "An early start is recommended today to avoid the crowds. Depart the hotel and drive in the pre-dawn darkness to world famous Borobudur. Enjoy sunrise from the UNESCO-registered complex before exploring the site on foot. Continue to Mendut and Pawon temples to see the impressively carved stone statues before returning to the city. (B)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Drive to the ancient Hindu temple of Prambanan and discover the three main inner shrines dedicated to the Hindu trinity: Brahma, Vishnu and Shiva. Stroll the site with your guide before continuing onwards to Solo. Remainder of the day is at leisure. (B)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Discover Solo which is regarded as the capital of the traditional batik culture and home to a host of Dutch colonial architecture. Visit Mangkunegaran Palace with its extensive collection of 14th century jewellery, silverworks, weapons and body ornaments. Enjoy lunch in a traditional Javanese restaurant. This afternoon drive out of the city to Sukuh Temple which is said to resemble Mayan Temples in Central America. (B/L)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Enjoy the day at leisure in Solo. (B)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Rise early to board the train to Malang in East Java, this is a very scenic journey passing volcanic landscapes and rural communities. Arrive Malang and transfer to Mt Bromo. Evening at leisure. (B)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "This morning is a highlight for many visitors to Java: sunrise over Mt Bromo. Jump into a 4WD jeep and head to a viewing spot offering stunning views of this fabulous daily event. Descend to the volcano caldera before leaving the vehicle behind and hiking to the rim of the still-active Bromo crater. Return to the hotel and enjoy the day to relax after the early start. (B)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Enjoy a leisurely start to the day before driving to the Ijen area and your next hotel. (B)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "This morning is the final early start of the trip. Rise early for an excursion to Mount Ijen. Hike to the crater lake atop Mount Ijen and enjoy spectacular views of the lake below. Return to the hotel. (B)"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Depart Ijen and drive to Surabaya. Day at leisure in the city. (B)"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Transfer to Surabaya airport and take the flight out of Java. Please note, there are options to travel by ferry to the west coast of Bali, please speak to us for further details. (B)"
+    }
+  ],
+  "map": ""
+}

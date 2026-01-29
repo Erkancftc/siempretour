@@ -1,0 +1,65 @@
+{
+  "destination": "Tanzania",
+  "mainPhoto": "",
+  "id": "premium-tanzania-holiday-small-group",
+  "tourName": "Premium Tanzania holiday, small group",
+  "placesVisited": "",
+  "generalInfo": "Set off on an in-depth exploration of Tanzania’s natural wonders on this eight-day Premium adventure. Take a front-row seat to soak in the magnificent landscapes and wildlife of Tarangire National Park, stop for a picnic lunch on the floor of the Ngorongoro Crater and explore Serengeti National Park on an exciting series of 4WD game drives. Relax at your Feature Stay in Serengeti, explore the national reserve’s plains with a local guide whose grown up on the land, and look for roaming wildlife like elephants, zebras and hippos every step of the way.  Dine beneath the stars, sip drinks at sunset and fall asleep to the sounds of East Africa.",
+  "durationDays": "8",
+  "price": "4710",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Arusha.",
+      "description": "Karibu! Welcome to Tanzania. Your adventure begins in Arusha – your gateway to the incredible national parks of Tanzania. When you arrive at Kilimanjaro Airport, you’ll be met by a local representative and transferred to your hotel, where your adventure officially begins with a welcome meeting at 6 pm tonight. Located on the woodland slopes of Mount Meru, in the heart of a traditional coffee farm, your hotel offers fantastic views of Lake Duluti. If you arrive early, maybe visit the Natural History Museum or head to the Ngaramtoni Market to shop for handicrafts. After your meeting, join your leader and fellow travellers for a short walk to the shores of the lake, where you’ll find chairs and lamps set up for a private welcome dinner. Watch the sunset as you toast to the beginning of a new adventure."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Tarangire National Park .",
+      "description": "After breakfast, you’ll travel to Tarangire National Park. Dotted with baobab trees, this area experiences its own small-scale migration, as animals travel from Tarangire to Lake Manyara in search of water and grass. Your accommodation here is a permanent tented camp in the heart of the park with wonderful views of the Tarangire River. During the migration periods, you may see zebras, wildebeest and elephants passing by the veranda of your tent – a true African bush experience. In the afternoon, set out in search of wildlife on a 4WD game drive through the national park."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Ngorongoro Highlands.",
+      "description": "After breakfast, set out on a sunrise4WD game drive. Tarangire National Park is populated with elephants, herds of cape buffalo, gazelles, Burchell’s zebras, giraffes and warthogs. Their predators also roam the park – look out for lions, cheetahs, leopards, hyenas, jackals and even African wild dogs. If you look to the skies, you’ll see the park’s abundant array of birdlife. After, continue your journey to the Ngorongoro Highlands. Along the way, stop at a local farmers’ market for a look at local life. Watch traders and buyers haggle over the prices of a colourful array of fruits and vegetables – your leader will pick up some seasonal fruits for you to try yourself."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Serengeti National Park.",
+      "description": "Today, you’ll make your way to the wide-open plains of the Serengeti. Travel through the UNESCO World Heritage-listed Ngorongoro Conservation Area, skirting the mighty volcanic Ngorongoro Crater. Arrive at the Endless Plains of the Serengeti – they span some 14,700 sq km, home to about three million animals! Here, you might see wildebeest, zebras, gazelles, lions, cheetahs, warthogs, hyenas, hippos and ostriches. This afternoon, head out on a 4WD game drive in the southern regions of the Serengeti for your first look at the park’s wildlife. In the evening, retire to your Feature Stay accommodation – a permanent tented camp in the breathtaking wilderness of the Serengeti. With no fences, this magnificent eco-camp allows you to really connect with your wild surroundings without sacrificing modern comforts."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Serengeti National Park.",
+      "description": "You may like to spend the morning on a hot air balloon safari over the great plains. After, you'll have a full day game drive. The interactions between the many species of the Serengeti plains often provide some of the best wildlife viewing opportunities in the world! Watch the landscape change in the park from the vast treeless central plains to thick scrubs and forests in the north. Linking these areas is the savannah, punctuated by acacia trees and rock outcrops. Return to camp around midday, and take some time to relax in the shade. Then, when it’s cooled down and the animals are more active, set out again for an afternoon game drive. Tonight, try a refreshing sundowner (an iconic part of traditional safari life)."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Ngorongoro Highlands.",
+      "description": "This morning, say goodbye to the Serengeti National Park and travel back to the Ngorongoro Crater Conservation Area – one of Africa's most beautiful nature reserves and the world's largest intact caldera. Within this crater lies every type of ecosystem, including riverine forests, open plains, freshwater and alkaline lakes. On your game drive through the crater, look for roaming wildlife like the highly endangered black rhinoceros! Then, stop for a picnic lunch on the crater floor before continuing with your game drive. After, you’ll continue on to the Ngorongoro Highlands."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Ngorongoro Highlands.",
+      "description": "This morning is free for you to explore at your own pace Then, set off on a hands-on tour of a local coffee plantation. Learn all about the coffee process, from seed to bean to cup! In the afternoon, spend some time relaxing by the pool or speak to your leader about the other activities available."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Arusha.",
+      "description": "This morning, depart the lodge and make the drive back to Arusha. When you arrive in Arusha about midday, your adventure comes to an end. If you would like to extend your stay in Arusha, just speak to your booking agent ahead of time."
+    }
+  ],
+  "map": ""
+}

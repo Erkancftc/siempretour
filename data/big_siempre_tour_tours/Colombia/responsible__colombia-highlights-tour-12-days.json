@@ -1,0 +1,85 @@
+{
+  "destination": "Colombia",
+  "mainPhoto": "",
+  "id": "colombia-highlights-tour-12-days",
+  "tourName": "Colombia highlights tour, 12 days",
+  "placesVisited": "Bogota, Armenia, Valle de Cocora, Coffee tour, Medellin, Tayrona National Park, Cartagena",
+  "generalInfo": "Caribbean coastlines, scenic mountain views, colourful cities and the aroma of freshly brewed coffee all await in this 12 day tour of the highlights of Colombia. Tailor made to meet your travel plans, this is the perfect holiday for your first visit to this beautiful South American country.<br/><br/>Trip highlights include a private tour of Bogoda, the cosmopolitan capital of Colombia best known for La Candelaria, its cultural and historical centre, and a private tour of Medellin with a local guide. Once considered one of the most dangerous cities in the world, and former home of the notorious drug lord Pablo Escobar, Medellin is now an up and coming city with the nickname 'City of Eternal Spring', better known for its flower festivals and public artwork. You'll also visit the beautiful old town and colonial architecture in the coastal city of Cartagena, and visit Armenia, in the heart of coffee country.<br/><br/>You will, of course, have time to taste some of the locally grown and processed coffee, with an interactive tour of Hacienda San Alberto, where there are panoramic views of the mountains and coffee plantations. You'll see more of Colombia's stunning scenery  during a day trip to Valle de Cocora, where you can hike among the wax palms that grow in the valley, and in Tayrona National Park, where the Sierra Nevada de Santa Marta mountains meet the rainforest and lagoon-dotted coast.<br/><br/>You'll be staying in picturesque hotels and haciendas (country homes) throughout the tour, with all private transport and English speaking guides.",
+  "durationDays": "12",
+  "price": "3307",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "BOGOTA TRANSFER IN: Start of the Colombia highlights tour: Pick-up at Bogota airport and transfer to hotel in La Candelaria Accommodation at Casa Deco or similar"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "BOGOTA CITY TOUR (B): Private city tour in Bogotá during which you will explore the narrow streets of La Candelaria (the historical center of Bogotá), visit the museum of Gold (closed on Mondays) and the museum of Botero (closed on Tuesdays). Also you will go up to the hill of Monserrate by a cable car or a funicular. All this tour will be accompanied by a local English speaking guide. Accommodation at Casa Deco or similar"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "BOGOTA – ARMENIA (B): Transfer to Bogota airport and flight to Armenia. At Armenia you will be picked up by our driver and transferred to Finca el Palmar. Accommodation at Finca del Palmar or similar"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "SALENTO – VALLE DE COCORA (B): Private day trip to Salento (a colorful town which maintained the typical architecture of the area) and Valle de Cocora where the national trees of Colombia grow – wax palms that can reach up to 60 meters height. You can take incredible hikes in the valley. Accommodation at Finca del Palmar or similar"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "COFFEE TOUR (B): Today you get interactive coffee tour in Hacienda San Alberto where you will see how the Colombian coffee is grown, which processes it goes through before it becomes a drink and will learn the secrets about its quality. You will also pass by the lovely typical village of Buenavista. The tour takes around 3 hours in total. The rest of the day is free. Accommodation at Finca del Palmar or similar"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "MEDELLIN (B): Private transport to Medellín. Although it is a 5h drive, you will be able to make some short stops on the way and enjoy the view to the mountains and to the coffee plantations. The rest of the day is free in Medellín. Accommodation at Hotel Art or similar"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "MEDELLIN CITY TOUR (B): In the morning you will be picked up by a local guide and will depart together for a private city tour in Medellín. You will take the public transport – the symbol of the city of Medellín, visit the most important squares and learn about the extreme change that this city went through from being considered as the most dangerous city in the world to becoming the most modern city of Latin America. Accommodation at Hotel Art or similar"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "MEDELLIN – TAYRONA PARK (B): Transfer to the airport of Medellín (almost 1 h). Flight to Santa Marta. Transfer to Tayrona National Park (around 2 h drive from the airport). The driver will leave you as close as the cars are allowed to go. From the parking lot there is still around 40min walk to Cabañas Arrecifes (you can get a horse service for the luggage and for the people for approx. 6 EUR). Accommodation at Cabanas Arrecifes or similar"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "FREE DAY TAYRONA PARK (B): Free day in Tayrona National Park, where you can visit beautiful beaches or hike around. For the tough travelers we recommend hiking until the ruins of Publito. Accommodation at Cabanas Arrecifes or similar"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "TAYRONA – CARTAGENA (B): Private transportation to your hotel in Cartagena. The driver will pick you up from the parking where he left you upon your arrival to Tayrona). It is around 5 h drive passing by Santa Marta, Cienaga and Barranquilla. Arrival to Cartagena, check in the hotel. You will then be met by an English speaking guide with whom you will have an approx. 4 h walk enjoying the old town of Cartagena and learning about its history as well as architecture. Accommodation at Hotel Tres Banderas or similar"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "FREE DAY CARTAGENA (B): Free day in Cartagena (Optional: day trip to Rosario Islands). Accommodation at Hotel Tres Banderas or similar"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "TRANSFER OUT (B): End of the Colombia highlights tour: Transfer out to the airport of Cartagena. End of services"
+    }
+  ],
+  "map": ""
+}

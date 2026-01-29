@@ -1,0 +1,65 @@
+{
+  "destination": "Andorra",
+  "mainPhoto": "",
+  "id": "pyrenees-activity-holiday",
+  "tourName": "Pyrenees activity holiday",
+  "placesVisited": "Hiking in Andorra, Soldeu, Siscaro National Park, Pessons Lake, Cycling in Cortals Valley, Engolasters Lake, Ziplining, Mountain biking Port de Canto, Spain, White water rafting, Mountain biking in Ordino Valley, Iron Route, Col de Beixalis, Incles Valley, Cabana Sorda Lake",
+  "generalInfo": "This centre based Pyrenees activity holiday is one of the best ways to discover Andorra, known by many for its skiing but where, on our summer holidays, we introduce you to some of its other Pyrenean thrills. Every day is different, hiking in Siscaro National Park one day, and cycling in Cortals Valley the next. <br/><br/>Our activities are adrenalin filled but aren’t meant to be super challenging, so there is a support vehicle on hand at all times, in case you want to dip in and out of the adventures on offer. Some people love zip lining from one dramatic viewpoint to another, others prefer to have their adventure on water, white water rafting down the Noguera Pallaresa River just over the Spanish border in Sort. <br/><br/>Andorra is also terrific mountain biking terrain, which you will discover in Andorra’s old Iron Route and Ordino Valley. You can always aim high in these beautiful Pyrenean peaks, or you can take a support vehicle up and just enjoy a hike or a cycle back down again. <br/>",
+  "durationDays": "8",
+  "price": "865",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Soldeu, Andorra.",
+      "description": "Benvingut! Welcome to Andorra. Situated on the southern slopes of the Pyrenees, Andorra sits between France and Spain. Although small, this country is blessed with some of the finest scenery in the Pyrenees and is a great base for an active week in the mountains. You’ll have a welcome meeting at 6 pm tonight in this gorgeous ski resort town – if you arrive early, there’s plenty to do to explore! Then, the night is yours to relax and prepare for tomorrow’s adventures."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Cycling and Zip wiring in Cortals Valley.",
+      "description": "Today, you’ll head to the Cortals Valley. After a short drive you’ll arrive at the top of the valley to enjoy some easy riding on the only flat off-road track in Andorra, which leads to Engolasters Lake. Around the lake there are plenty of fun tracks and you’ll have the choice between an easy, flat track and a more exciting path through the woods. At the other end of the lake is the zip wiring and tree top centre. After a short briefing, climb up into the trees and cross the area by zip lines and rope obstacles. After a picnic lunch in the trees by the lake, get back on your bike and take a single-track route through a short tunnel to a look-out point over the capital city Andorra La Vella. Then cycle back to the vehicles to return to Soldeu. At this point there is an option where the more experienced riders can do an exhilarating 5km road descent with switch backs and views."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Salamandres Lake Walk.",
+      "description": "This morning you’ll head into Andorra's mountains. When you arrive, walk to the base of Ransol Valley Ridge. It's a steady climb up to the Salamandres Lake, passing by the Roca del Home Dret (the rock of the straight man). While at the lake, you may get a chance to see the small yellow dotted salamander that this lake is named after. Relax by the lake or opt to hike up to the Ransol Ridge, which sits at 2500 m. At this height, there are some spectacular views across the Andorran peaks. The rest of the day is a gradual descent back down to Entorn and the hamlet of El Tarter. Keep your eyes open for the griffon vulture soaring above! Walk through the Incles Valley, cross the river and take the gentle path back to the hotel. This afternoon you can relax in the sun, explore the village or visit a nearby spa centre."
+    },
+    {
+      "dayNumber": 4,
+      "title": "White Water Rafting in Sort.",
+      "description": "Crossing the Andorran border into Spain, you’ll drive along a mountain pass of the Port de Canto. When you arrive, grab your paddles, helmets, buoyancy aids and wetsuits and then your local guides will lead you on an exhilarating white water rafting experience. The rivers around Sort have different grades of rapids (up to Class 3) and are rated in the top five in the world for safety and enjoyment! Paddle through the rapids past rolling hills and then after drying off, enjoy some time to relax in the bar or by the pool at the centre, before driving back to Soldeu for the night."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Walking in Incles Valley, Soldeu.",
+      "description": "Take a short walk into the Incles Valley, where today’s hike begins. Walk along a single track through forested mountain slopes, keeping an eye out for pine forest plants, flowers and rhododendrons in June. You can also spot some wild fruit growing in mid-summer and mushrooms in September. The climbing path zig zags up to the stunning Cabana Sorda Lake, which sits below an impressive semi-circular amphitheatre of rock. Stop for lunch and if the weather allows, take a dip in the cold mountain water. After lunch, you’ll descend through meadows and woodlands to the valley floor."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Mountain biking to Abelletes Lake.",
+      "description": "Today you’ll hop on a mountain bike and ride through the Pyrenees. Your guides will brief you on the route, then you’ll take the short shuttle ride to Port d’Envalira, which sits at 2408 m and is the highest road pass in the Pyrenees. This is a climb that has featured several times in the Tour de France! Take a road descent, then an off-road track to the Abelletes Lake – the official border between Andorra and France. Transfer back to 2400 m then descend to Grau Roig Valley where you’ll stop for a packed lunch, surrounded by mountains, pine trees and the source of the Valira River. After lunch, cycle off road back to Soldeu. Finish up at the local Caves Manacor market, where you can taste a variety of local products such as hams, cheeses and spirits."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Free Day in Soldeu.",
+      "description": "Today, you’re free to choose from the many optional activities available in Andorra. You might like to visit the thermal baths of La Caldea, or if you like heights, you can try your hand at Via Ferrata climbing. There are plenty more opportunities for walking and mountain biking here too, just ask your local leader! If you prefer, you can just take the chance to relax, enjoy the sunshine or go duty free shopping."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Soldeu.",
+      "description": "There are no activities planned after breakfast today and your adventure comes to an end. You're free to leave at any time after check out. If you'd like to extend your stay, just get in touch with your booking agent ahead of time to organise additional accommodation."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,75 @@
+{
+  "destination": "South Africa",
+  "mainPhoto": "",
+  "id": "south-africa-honeymoon-self-drive",
+  "tourName": "South Africa honeymoon, self drive",
+  "placesVisited": "",
+  "generalInfo": "Explore the vibrant city of Cape Town, drive along the scenic Garden Route, sample South African wines in the Cape Winelands and enjoy game drives in Amakhala Game Reserve.<br/><br/>Start your South Africa self-drive tour in Cape Town, where you’ll spend three nights before heading out to the spectacular, rolling vineyards, towering mountains and world-renowned wine estates of the Cape Winelands. Explore the quaint, beautiful town of Franschhoek known throughout the world for its Cape Dutch architecture and gastronomic delights. <br/><br/>Drive along the famous Garden Route, enjoying beautiful countryside, then head for the incredible Amakhala Game Reserve, near Port Elizabeth, where you will encounter some of region's big game favourites.<br/><br/>With exciting adventure activities, lush natural beauty, luxury accommodation and excellent cuisine accompanied by fine wines, we guarantee that the memories of this trip will last a lifetime.",
+  "durationDays": "13",
+  "price": "3579",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Cape Town - Collect your car upon arrival in Cape Town and drive to your accommodation. You're free to explore the city on your own. Drive to the Victoria and Alfred Waterfront, which sits right in the middle of a picturesque harbour with Table Mountain in the backdrop or enjoy a sunset cocktail at one of the trendy bars and restaurants along the promenade at Camps Bay."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Explore Cape Town - Climb to the plateau of Table Mountain in a rotating cable car, visit the District Six Museum and Robben Island to discover more about South Africa’s political history and Nelson Mandela’s legacy, or wander down the iconic Long Street, which is famous for its bohemian vibe. You have another free day to explore Cape Town and the surrounding areas today. Drive to Cape Point, located at the tip of the Cape Peninsula, 60 kilometres southwest of Cape Town and enjoy breathtaking ocean and mountain scenery. Walk the shipwreck trail and spot cape mountain zebras and elands. If you are lucky enough, you will also get the chance to see whales move past Cape Point on their annual migration (June to October). Or you may wish to participate in optional activities such as mountain biking, kayaking and scuba diving."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Drive to Franschhoeck - Leave Cape Town and drive for about an hour to the small, picturesque town of Franschhoek, located in the stunning Cape Winelands. Spend two nights at an award-winning winery, in one of their exquisite guest suites overlooking spectacular vineyards."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Explore the Winelands - During your time in Franschhoek, you have the options of exploring vineyards, going on a wine-tasting tour, hiking or cycling in the Franschhoek Mountains and dining at world-class restaurants, plus a luxury spa experience."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Drive to Oudtshoorn - Leave Franschhoek after breakfast and drive to Oudtshoon, located along the edge of the famous Garden Route. Stay at a luxurious guest house in a breathtaking location surrounded by the Swartberg and Outeniqua mountains. During your time in Oudtshoon you can join optional activities such as a wild meerkat tour, hike in the mountains, visit an ostrich farm, discover the Cango Caves and nearby waterfalls or enjoy a relaxing massage."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Drive to Plettenberg Bay - Drive along the stunning Garden Route to the charming and tranquil town of Plettenberg Bay, where you can enjoy breathtaking scenery and beautiful views over the Indian Ocean. You’ll spend the next two nights in Plettenberg Bay."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Explore Plettenberg Bay - Explore Plettenberg Bay and the surrounding areas. You may wish to relax on endless sandy beaches, explore the dramatic rocky peninsula, lagoons and estuaries, and hike through the lush mountains on your own or book optional activities like kayaking with dolphins or enjoying a round of golf at one of the 18-hole championship courses. If you are feeling adventurous enough, you can glide from tree to tree, 30 metres in the air, during a canopy tour in the Tsitsikamma rainforest."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Drive to Kwandwe Game Reserve - Leave Plettenberg Bay after breakfast and drive along the coast, via the picturesque St Francis Bay, to Kwandwe Game Reserve. A guide will meet you at the entrance of the reserve and transfer you from your rental vehicle to the lodge's 4x4 vehicle. Check in at your luxury safari lodge and get ready for an afternoon game drive. Return to the lodge for a delicious dinner."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Safari in Kwandwe Game Reserve - You’re likely to see herds of elephants as well as lions, leopards, cheetahs, plus black and white rhinos during the trip. There are also optional activities like night drives, bush walks and boat trips."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Depart from Cape Town - Drive to the entrance of the reserve and collect your vehicle. Drive for 45 minutes from Amakhala Game Reserve to reach Port Elizabeth for a domestic flight to Cape Town, from where you will take your international flight back home."
+    }
+  ],
+  "map": ""
+}

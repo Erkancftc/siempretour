@@ -1,0 +1,100 @@
+{
+  "destination": "Malaysia",
+  "mainPhoto": "",
+  "id": "malaysia-holiday-highlights-of-the-peninsula",
+  "tourName": "Malaysia holiday, highlights of the Peninsula",
+  "placesVisited": "",
+  "generalInfo": "See colonial architecture in the UNESCO-protected area of Malacca influenced by the Portuguese, Dutch and British during the spice trade. Take the monorail in Kuala Lumpur for a more local insight, explore the old mining town of Ipoh and soak up the sights, sounds and smells of the bustling UNESCO city of George Town, Penang.",
+  "durationDays": "15",
+  "price": "3800",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Catch your flight to Singapore. Overnight on board aircraft."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "On arrival in Singapore you will be met by your guide and transferred to your boutique hotel in the city centre. Enjoy the rest of the day at leisure."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Full day at leisure exploring Singapore, taking in the Gardens by the Bay perhaps, and using the city’s superb transport system to travel around."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Today you will enjoy a private walking tour of the main sights with your guide exploring parts of the colonial district, the well-known Boat and Clarke Quay and Chinatown."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Depart Singapore for your journey to Malacca. You will take the train from the Woodlands Station over the border to Tampin in Malaysia. When you arrive at Tampin, which is around 40km from Malacca, we recommend taking a taxi to your hotel, which will allow the most flexibility. You will then stay overnight at the Courtyard@Heeren, a lovely option in the heart of Malacca."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Full day in Malacca - enjoy the morning with your guide exploring the main sights of the city before heading to the river for a cruise later in the day. Overnight at the Courtyard@Heeren."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "This morning you will be transferred to Kuala Lumpur where you have the afternoon free to relax by the hotel pool or to explore the city at your leisure. Overnight at the beautifully restored Hotel Majestic."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Today you will be taken on a private heritage walking tour of the city. You will see the main sights and also get a more in depth view of the city by taking local transport such as the monorail and visiting a local tea house to sample the famous teas! This evening visit the famous Twin Towers for spectacular views over the city or people watch in one of the many food courts."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "It's an early start to learn a little more about Malay cuisine with a market visit and cooking class. You'll cook your own delicious lunch today."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "This morning you will be collected at the hotel and will head north to Ipoh, stopping for breaks along the way. You are staying at the Indulgence Restaurant and Hotel tonight."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Spend the morning with your guide exploring the area, including Kellies Castle, a brief but fascinating stop. En route enjoy a local for lunch before you continue north to Georgetown on Penang this afternoon. Evening at leisure. Overnight at the Blue Mansion."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "This morning you will take a privately guided walking tour of Georgetown seeing the history and heritage of this UNESCO city. Temples, markets and stunning architecture are all concentrated in a small area making it great for exploring on foot. Overnight at the Blue Mansion."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Enjoy a further day exploring Georgetown and other parts of the island with your chauffeur-guide. Overnight at the Blue Mansion."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "You have most of the day free to do some last minute souvenir shopping before you are transferred to the airport for your flight back to the UK. Overnight on board aircraft."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Arrival back in the UK this morning."
+    }
+  ],
+  "map": ""
+}

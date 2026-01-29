@@ -1,0 +1,60 @@
+{
+  "destination": "Iran",
+  "mainPhoto": "",
+  "id": "iran-cultural-tour-7-days",
+  "tourName": "Iran cultural tour, 7 days",
+  "placesVisited": "",
+  "generalInfo": "The 7-day tour is a brief expedition through Iran’s tourist attractions. They are mostly historical sites from ancient times up to a couple of decades ago. There are old palaces and bazaars in Tehran, Isfahan, and Kashan. Yet, you’ll see how modern people’s everyday life is. You are going to spend a fancy night in the soothing desert near Kashan. In Shiraz, the majestic Persepolis is awaiting you. Above all, you’ll taste Persian cuisine, be astonished by Iranian art and architecture everywhere, and connect with the hospitable locals. Get ready for an Iranian-style week!",
+  "durationDays": "7",
+  "price": "995",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Tehran --- Highlights: Airport Pick Up | Tabiat Bridge: Tehran’s largest pedestrian overpass with modern architecture | Bame Tehran: A recreational place and a full view of the city at Tehran heights | Sa’adAbad Palace: A complex of palaces at Tehran’s foothills that used to be the summer residence of two Iranian dynasties | Welcoming Dinner: A recreational place and a full view of the city at Tehran heights"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Tehran --- Highlights: Golestan Palace: UNESCO World Heritage; in the center of Tehran from the 18th century | Tehran Bazaar: The old maze-like market in the heart of Tehran. This 10-kilometer path is the best place to visit people close | National Museum of Iran: Largest Museum in Iran with many treasures of Iran’s historical and ancient monuments | Treasury of National Jewels: One of the world’s famous collections of jewels and diamonds from Iranian dynasties"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Kashan --- Highlights: Borujerdi House: A vast mansion with full details of Iran’s traditional architecture which was once for a wealthy merchant | Tepe Sialk: An ancient site and one of the world’s oldest civilizations that dates back to 6000 BC | MatinAbad Desert: An oasis in the tranquil of sands; stay here to touch the heart of Iran closely"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Isfahan --- Highlights: Naqsh-e Jahan Square: UNESCO World Heritage; the Iranian architecture landmark | Sheikh Lotfollah Mosque: An architectural masterpiece of Iranian mosques architecture and tilework from Safavid Empire in the 17th century ?| Shah Mosque: UNESCO World Heritage; an elegant iconic dome piercing the sky | Ali Qapu Palace: The official residence of Safavid Emperors with historically valuable paintings and mosaic work | Chehel Sotoun Palace: UNESCO World Heritage; A pleasant and freshening Persian Garden | House Dinner: A different supper; a Persian-style meal in an Iranian home, together with an Iranian family"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Isfahan --- Highlights: Vank Cathedral: A splendid church in Jolfa, Isfahan Armenian neighborhood | Jameh Mosque of Isfahan: UNESCO World Heritage; one of the oldest preserved mosques in Iran | Grand Bazaar of Isfahan: The elegant market of precious Persian carpets, handicrafts, and else | Khaju Bridge and Si-o-se-pol Bridge: A walking tour over the Zayanderud River at a spirited hangout with songs and music"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Shiraz --- Highlights: Pasargadae: UNESCO World Heritage; The majestic capital of ancient Persia’s Achaemenid Great Empire dates back to 559–530 BC | Persepolis: UNESCO World Heritage; A ceremonial complex of ancient Persian kings, The earliest remains of Persepolis are from 515 BC | Necropolis: Ancient Iranian rock reliefs cut into the cliff, from both the Achaemenid and Sassanid periods | Tomb of Hafez: the famous poet of love and mystics rests here"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Shiraz & Tehran --- Highlights: Pink Mosque: The Nasir al-Mulk Mosque with its Orsi-stained glasses creates a colorful spiritual feeling of awe | Eram Garden: UNESCO World Heritage; A Persian garden with a palace as its sparkling jewel | Fly from Shiraz to Tehran | Airport drop off"
+    }
+  ],
+  "map": ""
+}

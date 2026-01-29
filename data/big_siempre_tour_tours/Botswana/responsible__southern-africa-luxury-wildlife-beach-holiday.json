@@ -1,0 +1,60 @@
+{
+  "destination": "Botswana",
+  "mainPhoto": "",
+  "id": "southern-africa-luxury-wildlife-beach-holiday",
+  "tourName": "Southern Africa luxury wildlife & beach holiday",
+  "placesVisited": "Okavango Delta - Moremi Game Reserve and Chobe National Park, Luxurious safari lodges, Victoria Falls: activity options include bungi jumping, white water rafting, river boarding, canoeing and scenic flights, Luxury Mozambique beachside eco-retreat, Diving and snorkelling with rich ocean wildlife",
+  "generalInfo": "This unforgettable Africa experience combines Botswana’s pristine wilderness and superb wildlife with the magnificent Victoria Falls - before finishing up on the unspoilt beaches of Mozambique. <br/><br/>Botswana's Okavango Delta is a tapestry of forest, savannah and river flood plains that is home to big game including elephant, giraffe, hippo, lion, leopard, cheetah and the rare and elusive wild dog. Your luxury nature camp provides a bush experience matched by comfort, while flexible day-times let you tailor your wildlife experience - from mokoro canoe trips (subject to water levels) or fishing excursions to night game drives or walking safaris. <br/><br/>You'll experience Victoria Falls from beautifully appointed chalets with private balcony overlooking the river, and guests can augment their time at one of the world's most iconic cascades with  activities including white water rafting, scenic flights, sundowner cruises and canoeing. <br/><br/>The trip’s finale is a luxury eco-boutique retreat on an unspoilt island within a National Park on the shores of Mozambique, offering miles of deserted white sand beaches, turquoise seas crisscrossed with local dhows plying their trade – and excellent cuisine combining African and Portuguese colonial influences. Nearby reefs are excellent for snorkelling and diving, but guests may also choose to go sailing on a dhow, climb the dunes, take a picnic on a secluded beach or listen to locals recount ancient African stories that chart the cosmos on a stargazing evening.",
+  "durationDays": "15",
+  "price": "9950",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly from London to Johannesburg and to Maun, and then by light aircraft across the Okavango Delta's maze of waterways to your first lodge in the Okavango Delta. This afternoon, perhaps take a game drive or relax before dinner."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "In the Moremi Game Reserve. This area is home to a wide variety of big game including elephant, buffalo, giraffe, hippo, lion, leopard, cheetah and the rare and elusive wild dog. The camp offers some of the best game viewing in the Okavango Delta, and activities available include mokoro canoe trips (subject to water levels), exclusive bush dinners, and game drives in open-sided 4 x 4 vehicles - including the rare opportunity of night drives. Guests also have the option of walking safaris with a professional guide. Accommodation is in luxury permanent en suite tents with private balcony and hammock! The main building offers expansive views over the surrounding floodplains."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "You take a chartered flight over the Moremi Game Reserve to Chobe National Park. The lodge where you will stay here sits above the Chobe River and offers unparalleled panoramic views across the islands and flood plains as far as Namibia. Here you will enjoy creature comforts - elegantly appointed accommodations, gourmet meals and fine wines. The luxurious thatched cottages contain sunken handcrafted baths, indoor and outdoor showers, terrace and private garden with hammock overlooking the Chobe River. The area is renowned for its elephant population, as well as hippos, buffalos, puku, antelope, lions and other creatures that gather on the banks of the Chobe River. Game drives, sundowner cruises and fishing excursions are available. The lodge also offers a pool and spa treatments."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Today you will transfer by land and boat to a luxury Lodge just outside Livingstone. Here, you stay in beautifully designed chalets made of teak and custom-made canvas tenting with private balconies which extend over the river. Your stay here includes a trip to the Victoria Falls, where activity options include bungi jumping, white water rafting, river boarding, canoeing, and scenic flights. The lodge is home to an array of birdlife, and on a walk of its nature trail, you may spot the Trumpeter Hornbill, African Finfoot, Pels Fishing Owl, Pygmy Kingfisher, Rock Pratincole and White Backed-Night Heron. Activities also included are a sundowner cruise, mokoro trips, a nature trail and a tour of the local village and school."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "This morning, transfer to Livingstone Airport for a flight to Johannesburg and a connecting flight to Vilanculos in Mozambique. (NB Flight times may dictate an overnight stop in Johannesburg). You will transfer to a luxury Indian Ocean eco-island retreat. The vision here is to provide the ultimate in private luxury hideaways in a stunning ’undiscovered’ destination. Accommodation is in a luxury beach villa with private pool, beach frontage, indoor and outdoor showers, mini bar and butler service. The main fine dining restaurant offers magnificent uninterrupted views out to sea, and specialises in combining fresh local ingredients with locally caught seafood. The reefs in this area are excellent for diving and snorkelling: green and leatherback turtles, reef sharks, stingrays, devil rays, moray eels, whale sharks (seasonal), manta rays (seasonal), grouper, as well as a variety of reef fish may be seen. Dolphins are frequently sighted en route to and from dive sites and guests will be able to snorkel with them if time and sea conditions permit. Humpback whales migrate past these waters in season and are also frequently sighted or specific whale watching experiences can be arranged. On land, island drives, visits to the lakes and dunes, beach barbeques and remote beach picnics are available."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "After breakfast, you will transfer back to Johannesburg via Vilanculos, and connect with your return flight to London."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Arrive London"
+    }
+  ],
+  "map": ""
+}

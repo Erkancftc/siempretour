@@ -1,0 +1,60 @@
+{
+  "destination": "Vietnam",
+  "mainPhoto": "",
+  "id": "central-vietnam-coastal-vacation-for-seniors",
+  "tourName": "Central Vietnam Coastal Vacation for Seniors",
+  "placesVisited": "Nha Trang, Da Nang, Quy Nhon",
+  "generalInfo": "On this tailor-made one-week tour, encounter the lush landscape that flanks sandy shores and iconic landmarks that share a wealth of history. Vietnam’s stretching coastline boasts sublime seaside destinations that are shrouded in rich culture and heritage. From ornate pagodas to the geological wonders that yearn to be explored, you can expect to be completely immersed in the best scenic splendor of Vietnam.",
+  "durationDays": "7",
+  "price": "2,100",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Da Nang – Welcome in Da Nang",
+      "description": "You will land in Da Nang, where a private chaperone will welcome you to the country and transfer you to your seaside accommodation. You can settle in to the comforts of your new surroundings before having the rest of the night at your leisure. Set within Da Nang’s dazzling neon-lit atmosphere is a series of restaurants and eateries that highlight the pronounced flavors of Vietnamese cuisine. Ranging from palatial seaside restaurants to decades-old stalls, you will have no trouble finding a suitable meal for your first evening in Vietnam."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Da Nang – Visit Venerated Landmarks",
+      "description": "After breakfast, a guided tour will bring out the best that Da Nang has to offer. For complete VIP treatment throughout your adventurous exploits, a chauffeur will transfer you to the day’s destinations. The first half of your tasteful tour will be dedicated to the highlights of Da Nang City, such as the Marble Mountains, Da Nang Cathedral, and Linh Ung Pagoda. If you would like to visit a few more revered landmarks in and around Da Nang, then your helpful guide will not hesitate to take you to engrossing museums that offer a glimpse into the country’s dramatic past. Afterward, you will briefly transfer to the neighboring city of Hoi An to discover its fascinating historical highlights."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Da Nang – The Wonder of Cham Islands",
+      "description": "After breakfast this morning, you will retreat from the high-octane city districts to the secluded splendor of Da Nang’s neighboring shorelines and crystalline water along the coastline of the Cham Islands. You will journey to the islands on an exclusive tour with an esteemed guide. Your boat will dock on a quiet beach between thick foliage. Here, you will spend the morning in repose under the shelter of tall palms. You will be provided with quality snorkeling equipment to enjoy the seascape and the reefs. You may also trek into the olive-green forest to catch sights of the vibrant birdlife and varied land-dwelling species."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Quy Nhon – Fresh Seafood under the Stars",
+      "description": "You will have a five-hour journey to Quy Nhon in the morning in a comfortable vehicle. Your experienced driver will make stops along the way at pivotal sightseeing destinations so that you can admire the beauty of the expansive shores. Eventually, you will arrive at one of the premier beach resorts in the country, which surrounds a private sea cove and is bordered by acres of prolific landscape. You will be welcomed by the friendly staff and shown to your 5-star villa. You may unwind in style from the privacy of your in-villa infinity pool, which will appear to hang over the forested headland on which the accommodation is nestled."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Quy Nhon – Relics of the Cham Empire",
+      "description": "Quy Nhon holds a significant place in the history of Vietnam because it served as the home of the ancient Cham Empire. After breakfast, you will unearth the intriguing stories of the iconic Cham landmarks on an enlightening tour. You will climb a short flight of stairs to reach the base of the looming temples that rise to the sky. You can wander inside of the towers to find statues that depict ancient deities. After a thorough inspection of the towers, you will head to the Hoang De Citadel to witness the ruins of the Cham Kings’ former home. You will return to your resort later today and have the rest of the evening at your leisure."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Nha Trang – The Hallowed Grounds of Nha Trang",
+      "description": "Defined by its premier crescent coastline, Nha Trang makes for a brilliant last destination on your coastal cruise across Vietnam. The tremendously popular location offers regal treatment at premium resorts that hug the shores and overlook the translucent sea. You will transfer through lush landscapes alongside the spreading coast in a luxurious vehicle en route to Nha Trang. After you have settled in and taken an hour or so to relax, you may set off once more for a final sweeping cultural immersion. Beginning with Po Nagar Cham Towers, your tour will cover many of the landmarks in the surrounding area. Sunset cocktails onboard an elegant cruise liner with top chefs will conclude your time in Vietnam."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Nha Trang – Departure",
+      "description": "After breakfast this morning, your private chaperone will greet and transfer you to the airport so that you can connect with your flight home."
+    }
+  ],
+  "map": ""
+}

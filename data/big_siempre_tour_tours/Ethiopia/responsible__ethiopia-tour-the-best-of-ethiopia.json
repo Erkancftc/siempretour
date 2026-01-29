@@ -1,0 +1,105 @@
+{
+  "destination": "Ethiopia",
+  "mainPhoto": "",
+  "id": "ethiopia-tour-the-best-of-ethiopia",
+  "tourName": "Ethiopia tour, The Best of Ethiopia",
+  "placesVisited": "Addis Ababa, Diverse tribal encounters, Lake Chamo hippo and crocodile safari, Mago National Park, Lake Langano, Lake Tana monasteries and Blue Nile falls, Gondar, Simien Mountains, Lalibela, Axum",
+  "generalInfo": "Ethiopia is an African land unlike anywhere else on the continent. With a wealth of unique cultures, incredible ethnic and natural diversity, and some of Africa’s finest historic monuments, the country  offers a unique kaleidoscope of experiences – unforgettably revealed here with a trip encompassing the highlights of both the north and the south of the country. <br/><br/>From the colourful buzz of the capital Addis Ababa, we head south to the tribal lands of the Omo Valley to mingle with a dazzling array of traditional tribal groups – each with distinctive traits – as they come together at fabulous weekly village markets. But you will also get a chance to get close to some incredible wildlife too, including a lake safari in search of crocodiles and hippos.<br/><br/>The north of the country is best known for its striking monuments that date back through medieval times to the dawn of Christianity. You'll visit the monasteries of Lake Tana and the Blue Nile Falls (Africa's second largest), before heading to Gondar to explore castles and palaces that look more European than African. <br/><br/>In the Simien Mountains, meanwhile, you'll have a chance to hike in one of Africa's most dramatic landscapes scouting for unusual local fauna. There's also time spent seeing the incredible rock cut churches of Lalibela – ‘Africa’s Petra’ – before visiting the spiritual capital of Axum, reputedly the home of the Queen of Sheba and the Ark of the Covenant. <br/><br/>There's also a chance to extend the trip to see the remarkable hot springs of Dallol, where geological activity has created a wonderland of brightly-coloured rock formations.",
+  "durationDays": "18",
+  "price": "4399",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Addis Ababa - Arrive in Addis Ababa. After some time to freshen up explore some of the sights of this fascinating city. Overnight Jupiter Hotel or similar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Arba Minch - Morning flight to Arba Minch. In the afternoon travel to the lands of the Dorze people, whose villages are characterized by their beehive shaped huts. Overnight Paradise Lodge or similar. (BLD)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Jinka - This morning we take a boat trip on Lake Chamo to look for hippos – also to be found here are large concentrations of Nile crocodiles. We then drive to Jinka, passing through lands inhabited by the Benna, Tsemay and Ari tribal groups and visit the weekly Key Afer market, allowing us a good opportunity to appreciate the differences between these people. Overnight Jinka Resort or similar. (BLD)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Mago National Park - We head into Mago National Park, home to the fascinating Mursi people, known for their lip plates – perhaps the most striking of Ethiopia’s tribal groups. After spending time here learning about their customs we return to Jinka for the night. Overnight Jinka Resort or similar. (BLD"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Turmi - Drive to Turmi. Turmi is a major settlement for the Hamer people and we visit the weekly Dimeka market to meet them. Overnight Turmi Lodge or similar. (BLD)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Koricho - We drive this morning to Koricho, a settlement of the Karo people, known for their extraordinary body painting – the men also shave their hair into elaborate styles and often sport ostrich feathers. Overnight Turmi Lodge or similar. (BLD)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Omorate - Drive to Omorate to visit the Dassenach people, a cattle herding group whose lands extend all the way to Lake Turkana. We then return to Turmi to explore the weekly market, an important meeting place for the various tribal groups that live here. Overnight Turmi Lodge or similar. (BLD)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Arba Minch - This morning we visit a village belonging to the Konso people, renowned as excellent farmers. From here we return to Arba Minch. Overnight Paradise Lodge or similar. (BLD)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Lake Langano - We leave the Omo Valley behind and head north to Lake Langano. This is a beautiful part of the Rift Valley and the lake is a great place for birds – hippos and crocodiles also make their homes here. Overnight Sabanna Beach Resort or similar. (BLD)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Addis Ababa - Drive back to Addis Ababa. On the way we stop at the Tiya stelae, a mysterious collection of large standing stones, and Adadi Maryam, a 12th century rock cut church reminiscent of those further north at Lalibela. Overnight Jupiter Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Bahir Dar - Fly north to Bahir Dar, situated on the shores of Lake Tana. Upon arrival we head out onto the lake to visit some of the impressive monasteries tucked away on islands here. In the afternoon continue to the Blue Nile Falls, Africa’s second largest waterfall, and explore the area on foot. Overnight Avanti Blue Nile Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Gondar - Drive to Gondar and explore its remarkable collection of medieval buildings including the castle of Fasiladas. Overnight Goha Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Simien Mountains - Head into the wild landscapes of the Simien Mountains, one of Africa’s most beautiful landscapes and home to a rich variety of wildlife. We explore this area on foot. Looking out for the large troops of gelada baboons which live here, as well as Walia ibex if we’re lucky. Overnight Simiens Lodge or similar. (BLD)"
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Gondar - After a last morning in the mountains return to Gondar. This afternoon visit the church of Debre Berhan Selassie with its beautiful frescoes and learn how the local honey wine, tej, is made in the company of a traditional brewer. Overnight Goha Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Lalibela - Fly to Lalibela. We spend our time here discovering the stunning collection of rock cut churches which date back to the 11th century, hewn from the surrounding mountains. We explore those both within the town itself and in the surrounding countryside. While we’re here, we also have the chance to learn how to make traditional Ethiopian food including injera, the unique bread found here. Overnight Mountain View Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 18,
+      "title": "",
+      "description": "Addis Ababa - Fly back to Addis. In the evening head out to a traditional restaurant for a farewell dinner, before transferring to the airport for your flight home. (BLD)"
+    }
+  ],
+  "map": ""
+}

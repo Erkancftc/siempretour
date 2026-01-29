@@ -1,0 +1,65 @@
+{
+  "destination": "Oman",
+  "mainPhoto": "",
+  "id": "oman-cultural-tour",
+  "tourName": "Oman cultural tour",
+  "placesVisited": "Muscat, Sur, Wahiba Sands, Sinaw Market, Nizwa, Misfah, Al Hamra",
+  "generalInfo": "This 8-day cultural tour will give you and your family an exciting encounter with the local people. You'll experience the lives of the mountain village people while staying in a local guesthouse, meet the Bedouin tribes of the desert and the fishing people of Sur and witness traditional Omani activities. <br/><br/>Experience the hustle and bustle of Oman’s local souqs at Nizwa goat market and Sinaw market. Soak up the history visiting ancient forts and castles of Nizwa, Jabrin &amp; Bahla, all with your own private driver/guide and vehicle.<br/><br/>We can tailor make this tour to create a unique holiday for your individual requirements. You can add additional nights in places you’d like to explore more, and we can recommend different hotels and experiences for you based on your preference. We can also substitute the fixed desert camp for wild camping for a more rustic adventure",
+  "durationDays": "8",
+  "price": "2150",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Muscat where you will be met and transferred to your hotel for the next 2 nights."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Day free to explore Muscat. We recommend a visit to the Grand Mosque and the Bait Al Zubair (Natural History) museum for your first taste of Oman's rich history. There's the old town and walled city to explore or Corniche to walk around the vibrant souq and fish market. (B)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Touring the Interior: depart Muscat in a 4WD vehicle on the start of a fascinating round trip adventure of Oman’s interior. The first leg taking you in a south-eastern direction along the coastal road to Sur to see the ancient Dhow ship yards. Stop at beautiful wadis and sinkholes to swim along the way. (B)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Early risers may catch the wonderful sight of the fishermen with their catch, ask your driver to take you there then return to hotel for breakfast. Then check out and drive to Wahiba Sands, via the beautiful oasis of Wadi bani Khaled. You will have an traditional Bedouin lunch in the desert, and after some exciting sand dune driving, arrive at your Desert Camp for the evening where dinner will be served under the stars. (B,D)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Early start to enjoy the desert sunrise then head on to the busy Sinaw Market where Bedouin communities head to buy staples and sell their livestock and handicrafts. Afterwards visit Nizwa, the historical capital of Oman with ancient history where many battles were fought. See Bahla Fort and Jabrin Castle before heading into the Jabel Akhdar mountains to see the magnificent Al Hoota Cave with 4 underground lakes. Return to Nizwa for the evening. (B)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "This morning you will be taken to Nizwa Souk to see the famous cattle auction where people come to buy or sell goats, sheep and cows. Afterwards see one of the most impressive forts in Oman; Nizwa Fort with its massive Circular Cannon Tower. Depart Nizwa for Misfah; an incredible village of ancient houses and narrow streets perched in a valley where you will be staying in a local family run guesthouse for the night with dinner included. (B,D)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Head off today into the village of Al Hamra, famous for its date plantations and oldest preserved houses in Oman. Drive through the spectacular Hajar mountain range of date palms and a patchwork of terraced fields before arriving back in Muscat for your last night in Oman. (B)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "You will be collected from your hotel today for your private transfer to the airport for your departure flight. (B)"
+    }
+  ],
+  "map": ""
+}

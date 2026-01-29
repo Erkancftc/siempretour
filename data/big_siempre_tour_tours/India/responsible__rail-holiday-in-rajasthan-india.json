@@ -1,0 +1,115 @@
+{
+  "destination": "India",
+  "mainPhoto": "",
+  "id": "rail-holiday-in-rajasthan-india",
+  "tourName": "Rail holiday in Rajasthan, India",
+  "placesVisited": "",
+  "generalInfo": "Explore the fascinating state of Rajasthan by Rail.  This itinerary has four train journeys, one of them being overnight.  <br/><br/>It starts in Delhi for a few days to experience the sights and sounds of this bustling city.<br/><br/>Then take a train and visit the off the beaten track Shekhawati city of Churu - see its heritage buildings, murals and craftspeople in action.<br/><br/>Board another train to Bikaner with its markets, forts, camels and for those not squeamish a temple dedicated to rats!<br/><br/>Jaisalmer is the desert city and you have a few days here to explore the area.<br/><br/>Take a train to the blue city of Jodhpur with the imposing Mehrangarh Fort.<br/><br/>Get off the grid and stay in the gorgeous Kot Dunara, take a farm visit and immerse yourself in the culture and cuisine with your host family.<br/><br/>Your last stop in Rajasthan is the lake city of Udaipur.<br/><br/>Take an overnight train back to Delhi for your flight home.<br/><br/>This tour doesn't include Jaipur or Ranthambhore National Park - so these can be added to the itinerary if you would like to visit these areas.",
+  "durationDays": "18",
+  "price": "3360",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Depart the UK. Virgin direct from Heathrow."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Full day sightseeing tour. Morning - Old Delhi. Afternoon - New Delhi. Overnight: Haveli Hauz Khas"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Arrive in Delhi. Afternoon visit to Dilli-Haat, followed by visit to the INA market. Evening - cooking class & dinner with an Indian family. Overnight: Haveli Hauz Khas"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Transfer to railway station. Depart Delhi 08:40 arrive Churu 13:08. Afternoon at leisure. Evening sundowners on the dunes. Overnight: Malji Ka Kamra"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Start the day with a visit to a school for the disabled. After enjoy a walking tour of the al fresco-painted havelis. Picnic lunch at Prem Sarovar. Afternoon Jeep Safari. Candle-lit dinner at Johan/Kund. Overnight: Malji Ka Kamra"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Morning at leisure. Transfer to railway station. Afternoon train. Depart Churu 13:13 arrive Bikaner 16:20. Transfer to hotel. Evening at leisure. Overnight: Cavalry Villa"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Start the day with a walking tour of the market. Later visit Junagarh Fort. After lunch visit camel breeding farm & Karni Mata Temple. Overnight: Cavalry Villa"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "After breakfast, drive from Bikaner to Jaisalmer via Gajner. [Approx. 7 hrs] Overnight: The Gulaal"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Morning visit Rani Ratnavanti Girls School. [Closed on Sunday and National Holidays] Later visit Gadi-sagar lake; Jaisalmer Fort; Patwaon-ki-Haveli; Nathmal-Ki-Haveli & local market. Overnight: The Gulaal"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Morning at leisure. Afternoon train, depart Jaisalmer 15:30 arrive Jodhpur 20:55. Transfer to hotel. Overnight: Ratan Vilas"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Visit Mehrangarh Fort; Jaswant Thada; Umain Bhawan Palace Museum. Lunch at Khaas Bagh on direct basis. Afternoon walk through clock-tower; blue-city 7 local market. Overnight: Ratan Vilas"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Jodhpur to Dhundhara (approx. 1.5hrs) Overnight: Kot Dunara"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Day at leisure on own. (You can opt Artisan Safari with tea/snacks, Farm visit with high tea, Elaborate cooking demo followed by meal with the family at additional cost). Overnight: Kot Dunara"
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Dhundhara to Udaipur (approx. 6 hrs) Overnight: Amet Haveli"
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Morning city tour of Udaipur visiting City Palace; Crystal Gallery; Jagdish Temple; Sahelion-Ki-Bari & local market. Evening exclusive boat ride on Lake Pichola. Overnight: Amet Haveli"
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Full day at leisure. Morning (Optional) Jal-Sanjhi art. [Late check out subject to room availability] Evening train. Depart Udaipur 18:30 arrive Delhi 07:10 +1. Overnight on train."
+    },
+    {
+      "dayNumber": 17,
+      "title": "",
+      "description": "Arrival and transfer to hotel. Room booked from previous Night for immediate check in. Breakfast and day at leisure. Overnight: Haveli Hauz Khas"
+    },
+    {
+      "dayNumber": 18,
+      "title": "",
+      "description": "Transfer to International airport for your flight home with Virgin."
+    }
+  ],
+  "map": ""
+}

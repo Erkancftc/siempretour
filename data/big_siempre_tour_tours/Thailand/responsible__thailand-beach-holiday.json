@@ -1,0 +1,65 @@
+{
+  "destination": "Thailand",
+  "mainPhoto": "",
+  "id": "thailand-beach-holiday",
+  "tourName": "Thailand beach holiday",
+  "placesVisited": "Bangkok, sleeper train, Wat Pho, Kho Pitak, Chumphon, Ko Tao, Ko Samui",
+  "generalInfo": "This small group holiday to Thailand is all about islands and beaches - think bright blue sea, powder soft sand and simple beach bungalows. The pace is as laid-back as the surroundings on this trip, and you’ll be heading out to the country’s southern islands to chill out in the sun and sample the region’s famous cuisine. <br/><br/>After meeting your fellow travellers in Bangkok, and taking a tour of this exciting city, you’ll board an overnight train south to Langsuan. From here you’ll take a a ferry to the small island of Koh Pitak for a night in a village homestay, where you’ll be able to witness local life first hand and eat typical southern Thai food. Back on the mainland you’ll make your way to Chumphon, where you’ll stay at a guesthouse on Thung Wua Lan Beach. There’s time for relaxing on the beach as well as spending a full day snorkelling out on the local reefs. <br/><br/>Next, you’ll make for the beautiful island of Ko Tao, famed for its incredible coral reefs. There’s also a lively (but small) bar and club scene if you want to stay up late into the night. The island of Ko Samui is your final stop. Thailand's third largest island, it provides quite a contrast to your previous beachside stops, with vibrant nightlife, plush spas, Michelin starred restaurants and lively shopping districts all on offer.  As well as enjoying the many attractions here, there’s the option to take a day trip to Ang Thong Marine National Park, a sublime archipelago made up of around 40 mostly uninhabited islands.<br/>",
+  "durationDays": "8",
+  "price": "1265",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Bangkok.",
+      "description": "Sa-wat dee! Welcome to Thailand. Your adventure begins in Thailand’s bustling capital, Bangkok with a welcome meeting at 6 pm tonight. Bangkok is famous for its tuk tuks, khlong boats and street vendors who serve delicious Thai food. If you arrive early, maybe visit the Grand Palace and the Temple of the Emerald Buddha, wander down the tourist mecca of Khao San Road or relax with in a Thai massage. After the meeting tonight, maybe gather your fellow travellers together and tuck into some world-famous street food."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Bangkok / Overnight train.",
+      "description": "Start today with a visit to Wat Arun – the Temple of the Dawn. Named after the Indian God of Dawn, Aruna, this impressive landmark sits on the west bank of the Chao Phraya River. The rest of the afternoon is free for you to explore at your own pace. Maybe visit Wat Pho, home to the country's largest reclining Buddha, take a riverboat to Chinatown and wander its crowded streets or travel by longtail boat down the Chao Phraya River to explore Bangkok's famous 'khlongs' (canals). Tonight, you’ll board an overnight train southbound for Surat Thani."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Khao Sok National Park.",
+      "description": "Arrive at Surat Thani in the morning, then travel by minivan to Khao Sok. Set amid hectares of thick jungle, waterfalls, limestone cliffs and an island-studded lake, the Khao Sok National Park is a nature lover's paradise. Here, you’ll hop in a traditional longtail boat for a calm sail to your accommodation on the water. Keep your eyes out for wild bull elephants, gibbons and spectacled langur (dusky leaf monkeys). Khao Sok National Park is the wettest spot in Thailand with some of the oldest jungles in the world. Your accommodation tonight will be in a traditional raft house, surrounded by turquoise waters of the lake in the front and one of the oldest jungles at the back."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Koh Tao.",
+      "description": "This morning, you’ll wake up in the oldest evergreen rainforest in the world. Your raft house sits right inside the park, so you’ll have time this morning to catch the mist drifting along the lake as you search for wildlife in the jungle on a longtail boat. Before lunch, take a jungle hike around the park, and depending on the season, maybe see waterfalls or head up high to a panoramic viewpoint. If you're lucky, you might catch a glimpse of an elephant, hornbill or langur monkey. After, make your way to Koh Tao. Best known for its vibrant coral reefs, tis little island is popular with divers and those just looking for beautiful, palm-fringed beaches like Sairee. Soak up some free time to relax or maybe join a cooking class, visit a local spa or go swimming. Koh Tao also has a small but lively nightlife for those looking for a dance on the beach."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Ko Tao.",
+      "description": "Today, you’ll discover the underwater world that surrounds Koh Tao with an exploratory snorkelling trip. With abundant coral and tropical fish, this is undeniably one of the jewels in southern Thailand – and you might even see a timid reef shark among the corals!. Sail south from Mae Haad Pier, navigating around the southern tip of the island until you reach Shark Island. Look out for the occasional leopard shark! Drop by Luek Bay for one of the best swimming beaches on the island, with fish-filled reefs on either side, then stop at Hin Wong Bay for lunch aboard the boat. Then, head to the privately-owned Nang Yuan Island and take a short hike up to a viewpoint, relax on the beach, snorkel through schools of parrotfish or chill out on the boat."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Koh Samui.",
+      "description": "After breakfast, jump on another boat and cruise over to Koh Samui. Known simply as Samui by locals, this spot has beautiful white sandy beaches, coral reefs and coconut trees. In the afternoon, visit Khum Sa-ke Village – an organisation working to improve the eco-environment of the village. Walk along their birdwatching route and rice paddies and learn about their waste management and organic gardens. Wrap it all up with a hearty home-cooked dinner full of southern Thailand flavours and see how important coconuts are to this delicious cuisine."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Koh Samui.",
+      "description": "It’s up to you what you’d like to do today! If you feel like getting active, maybe set off on a daytrip to Ang Thong Marine National Park – an archipelago of around 40 islands (many uninhabited). If you choose this option, you’ll sail around the steep limestone cliffs to an inland saltwater lagoon called Emerald Lake (Talay Nai), which is fed by an underground cave. If you prefer to stay on land today, maybe check out the Samui Elephant Sanctuary and see the gentle giants as they roam, socialise and bathe. Or simply relax on the beach with a good book."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Ko Samui.",
+      "description": "As there are no further activities, your Thailand adventure comes to an end this morning. This doesn’t mean you have to go home! If you’d like to stay longer, just speak to your booking agent ahead of time."
+    }
+  ],
+  "map": ""
+}

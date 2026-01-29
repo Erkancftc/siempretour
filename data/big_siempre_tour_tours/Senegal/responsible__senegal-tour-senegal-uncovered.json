@@ -1,0 +1,75 @@
+{
+  "destination": "Senegal",
+  "mainPhoto": "",
+  "id": "senegal-tour-senegal-uncovered",
+  "tourName": "Senegal tour, Senegal uncovered",
+  "placesVisited": "Dakar, Goree Island, Lac Rose, Saint Louis, Toubi, Sine Ngayene, Banjul (Gambia), Casamance, Ziguinchor",
+  "generalInfo": "Senegal’s north is dominated by the sahel – where the landscape changes from desert to savannah. To the south is the Gambia, and then the lush south of Senegal and the forests of Casamance. This tour takes you from the dry grasslands down into the forest.<br/><br/>First up on this ten day tour is Dakar, a lively West African capital. Goree Island just off the coast was once the centre of the slave trade, but is now a peaceful place after the bustle of the mainland. <br/><br/>In St Louis to the north, you can tour the streets in a horse-drawn caleche (carriage), enjoying the colonial architecture and mix of Islamic and Christian influences. Lac Rose close to Dakar is a pink lake, but there’s even more pink to be found at Djoudj National Park, home to pelicans and a large, blushing flamingo population.<br/><br/>On this trip you’ll spend time with the semi-nomadic Fulani people in the Ferlo Desert, the Dioula people in Casamance, and discover amazing Neolithic structures at Sine Ngayene. You’ll also cross briefly into the Gambia to explore Banjul, the colonial capital of the country.  <br/>",
+  "durationDays": "10",
+  "price": "2799",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Dakar - Arrive in Dakar and transfer to the hotel. Overnight Hotel Djoloff or similar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Dakar – Goree Island - Spend the morning exploring Dakar and experiencing urban West Africa, before boarding a ferry to visit nearby Goree Island, once a centre of the slave trade. Explore the historic sights of the island with its colonial architecture and colourful markets. Overnight Hotel Municipal or similar. (BLD)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Lac Rose - Leave the island and continue to Lac Rose. A shallow salt lake surrounded by dunes, the high concentration of minerals sometimes gives it a pink hue. Explore the surrounding area and visit a nearby fishing village, the largest in Senegal. Overnight Hotel Trarza or similar. (BLD)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Saint Louis - Continue to the atmospheric town of St Louis, once the capital of French West Africa. Spend the day exploring its streets by traditional caleche (horse and carriage). Overnight Hotel de la Poste or similar. (BLD)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Djoudj National Park – Fulani Villages - Travel to Djoudj National Park with its incredible bird life. We discover vast flocks of pelicans, flamingos and more, Afterwards we head out into the Ferlo desert, home to the semi-nomadic Fulani people. We have the opportunity to meet them and learn about their unique culture, centred around livestock and grazing. Overnight in simple huts. (BLD)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Touba - Drive to Touba, a stronghold of the Mourid Islamic brotherhood and considered to be a sacred town in Senegal. Spend the rest of the day exploring the town and learning about the spiritual traditions of Islam in Senegal. Overnight Kabacoto Safari Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Sine Ngayene – Banjul - Drive to Sine Ngayene, an astonishing megalithic site of over a thousand carved stones arranged into fifty two circles, recognised as a UNESCO World Heritage Site. From here we cross the border into the Gambia and take a ferry across the river, to transfer to our hotel on the outskirts of Banjul. Overnight Kairaba Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Banjul – Casamance - Spend the morning in the company of an ornithological guide, looking for birds in an area that is home to over 70% of the species that live in the country. We then cross back into Senegal and the lush Casamance region. Overnight Hotel Kadiandoumagne or similar. (BLD)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Ziguinchor - Spend the day exploring the culture of the Dioula people, meeting the king of the oldest Dioula kingdom. With his permission we learn about the animistic customs that hold sway here and venture into a sacred forest where we may be lucky enough to see traditional rituals taking place. In the afternoon we fly back to Dakar over the river estuaries and Atlantic coast, and then transfer to Saly on the coast for our final night in Senegal. Overnight Hotel Bougainvilliers or similar. (BLD)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Dakar - Transfer to the airport for your flight home. (B)"
+    }
+  ],
+  "map": ""
+}

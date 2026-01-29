@@ -1,0 +1,115 @@
+{
+  "destination": "New Zealand",
+  "mainPhoto": "",
+  "id": "north-to-south-island-self-drive-holiday-new-zealand",
+  "tourName": "North to South Island self drive holiday, New Zealand",
+  "placesVisited": "",
+  "generalInfo": "Embark on an unforgettable adventure with our self-drive tour in New Zealand. Navigate breathtaking landscapes at your own pace, from the majestic mountains to the pristine coastlines. Experience the freedom of the open road and create lasting memories on your personalized self-drive journey.<br/><br/>From top to toe; on the North Island, explore the cities of Auckland, the tropical Bay of Islands, Rotorua and Wellington before embarking on a circuit of the South Island. The wine regions of Marlborough, the whales of Kaikoura, the garden city of Christchurch and the mighty Southern Alps. The Alpine adventure town of Queenstown awaits before heading to the West Coast Glaciers. Return to Christchurch on board the world famous TranzAlpine Scenic train.",
+  "durationDays": "18",
+  "price": "2855",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Welcome to Auckland the 'City of Sails.' You will be met on arrival and taken to your city hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Collect your rental car, then it's over the harbour bridge and north to the tropical Bay of Islands."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "A full day to explore, you could take to the water or discover the history of Waitangi."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Cross Northland following the aqua blue waters of the Hokianga before travelling down the Kauri Coast."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Drive south through the fertile farmland of the Waikato and maybe stop at Hobbiton Village on your way to Rotorua."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Your day in Rotorua could be spent discovering Maori culture or thrilling adventure rides."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Today is filled with fantastic scenery including Lake Taupo, the Desert Road and the Kapiti Coastline as you approach Wellington."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Today you'll cross the Cook Strait by Ferry. Approaching Picton you'll cruise through the spectacular Marlborough Sounds."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Drive to the seaside town of Kaikoura today."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "It’s just a short drive south to Christchurch, if time allows perhaps stop at the Waipara Valley wineries."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Explore the ever-changing city of Christchurch."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Today you'll enjoy a scenic drive through Canterbury and the MacKenzie Country."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Follow the dry lands to Lindis Pass which leads into Central Otago, then through the Kawerau Gorge to Queenstown."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "The day is yours to discover all the scenic spots and fun activities on offer in Queenstown."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Take the Crown Range Road to Wanaka before travelling the spectacular Haast Pass to the West Coast."
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Explore Franz Josef and Westland National Park."
+    },
+    {
+      "dayNumber": 17,
+      "title": "",
+      "description": "Drive north along the stunning West Coast Road and take the TranzAlpine train to Christchurch."
+    },
+    {
+      "dayNumber": 18,
+      "title": "",
+      "description": "Depart Christchurch today."
+    }
+  ],
+  "map": ""
+}

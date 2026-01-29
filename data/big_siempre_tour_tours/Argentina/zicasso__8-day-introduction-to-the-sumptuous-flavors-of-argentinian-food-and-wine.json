@@ -1,0 +1,65 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "8-day-introduction-to-the-sumptuous-flavors-of-argentinian-food-and-wine",
+  "tourName": "8-Day Introduction to the Sumptuous Flavors of Argentinian Food and Wine",
+  "placesVisited": "Puerto Iguazú, Mendoza, Buenos Aires",
+  "generalInfo": "Introduce your palate to the sumptuous flavors of traditional food and wine on this extravagant 8-day Argentina culinary. Indulge in dinners with views of the rainforest, sip a selection of South America’s finest wines at exemplary estates in the Wine Country, or savour traditional Asado as tango dancers twirl the night away. No matter your travel preferences, this culinary experience is tailored to your tastes.",
+  "durationDays": "8",
+  "price": "3,300",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Puerto Iguazú - Argentinian Dinner with Forest Views",
+      "description": "Countless waterfalls flow in the forests flanking Iguazú National Park, the destination where your Argentinian adventure will begin. Recognized as one of the seven Natural Wonders of the World, Iguazú Falls is a dream experience for you to relish during your stay at accommodation nestled in the flourishing rainforest. After arriving, you may admire the astonishing natural surroundings of colorful birds that sing from the canopy and monkeys that leap from branches. As the sun goes down and the nocturnal creatures take over the forest, you will tuck into a delicious Argentinian dinner with views of the sweeping greenery."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Puerto Iguazú - Dramatic Scenes of the Devil’s Throat",
+      "description": "Today’s tour after breakfast brings with it the opportunity to see the immense Iguazú Falls up close from observation points peppering the Argentinian rainforest. Your guide will lead you through the thick jungle-clad landscape along wooden and concrete walkways that weave between the lower and upper sections of the Iguazú River. These pathways veer off the beaten path and will escort you to a lofty landscape viewpoint overlooking the famous Devil's Throat. Rainbows form in the mist that hangs over the enormous blankets of falling water, providing endless photographic moments. Your expedition includes an ecological train and jet-boat ride."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Mendoza - Decadent Dining in the City",
+      "description": "Mendoza is Argentina’s hallmark Wine Country, with elaborate estates stretching across the emerald valleys surrounding the city’s modern and historic neighborhoods. Productive vineyards in the green oasis produce some of South America’s finest wines, with Malbec and Cabernets from the breathtaking region famously awarded. You will arrive in the late hours of the morning and transfer to accommodation in the heart of Mendoza’s historic district. Here, you will appreciate the views of mountainous peaks and dine on gourmet cuisine paired with sensational wines at decadent restaurants in and around the city."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Mendoza - Wandering Argentina’s Wine Country",
+      "description": "You will join Mendoza locals this morning after breakfast on a quick sightseeing tour of the city’s culinary markets, then meet your wine guide for an afternoon sipping on South America’s best varietals and vintages. Three phenomenal wine estates, with vineyards thriving across the vast landscape in the shadows of mountain summits, will invite you to explore the depth of flavor of Argentinian wines. Barreled Merlots, sparkling Chardonnays, and rich Cabernet Sauvignons are a few highlight wines on the sommeliers’ menus, each perfectly paired with regional delicacies and accompanied by beautiful landscape views."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Mendoza - Cycling Through the Wine Country",
+      "description": "There is even more to Mendoza than meets the eye, and you will uncover more of the magnificent region’s beauty up close on a cycling tour of the Wine Country. You will pedal past lush vineyards that veil the countryside, up dusty trails to panoramic viewpoints, and down to wine estates nestled between the rolling hills. Your casual cruise through the countryside will take you to a selection of pristine wine producers in picturesque parts of Mendoza, where you will learn about the unique winemaking process, sip sumptuous Malbecs and other varietals, and soak up the stunning scenery."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Buenos Aires - Relish Authentic Argentinian Asado",
+      "description": "Your Argentinian wine and food tour will conclude in the country’s capital city, Buenos Aires. A guide will greet you at the airport and you will transfer to accommodation in the middle of the bustling city. You may take some time to unwind, explore the vibrant neighborhoods, and watch tango performers twirl and twist in colorful town squares. In the evening, you will join local culinary experts for a traditional Argentinian dinner. You will chat about local culinary traditions and share stories, while making empanadas , and tucking into a classic Argentinian Asado ."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Buenos Aires - Dazzling Cultural Discoveries in the Capital",
+      "description": "Buenos Aires provides travelers with a taste of Argentina’s diverse culture and you will explore the unique charms of the capital city on a tour today. You will smell the fragrant flowers blossoming at the Paseo El Rosedal rose garden, wander the historic Plaza de Mayo town square, watch tango dancers perform in La Boca, and admire the city’s grand opera house, Teatro Colón, before the afternoon sun dips. In the evening, you will watch an award-winning El Cabaret show, complete with a live orchestra, exquisite Argentinian cuisine, and a brilliant selection of local wines."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Buenos Aires - Seduced by Argentinian Culture",
+      "description": "Your tour of Argentina comes to an end in the capital city, where you will spend your final morning immersing yourself in the local spirit at markets, museums, and plazas. You will explore the dazzling trinkets on display at boutique stalls, browse the evocative exhibits of iconic galleries, and wander the lush lawns of parklands nearby town squares, where tango performers entertain in the morning. A chance to absorb the cultural charms of Buenos Aires on your final day will curtain-call a fabulous wine and food tour, from Puerto Iguazú to Mendoza and the capital city."
+    }
+  ],
+  "map": ""
+}

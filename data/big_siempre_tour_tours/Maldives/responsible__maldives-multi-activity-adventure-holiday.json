@@ -1,0 +1,65 @@
+{
+  "destination": "Maldives",
+  "mainPhoto": "",
+  "id": "maldives-multi-activity-adventure-holiday",
+  "tourName": "Maldives multi activity adventure holiday",
+  "placesVisited": "",
+  "generalInfo": "Our multi activity package offers a range of activities as well as plenty of time to relax! Try your hand at kayaking, windsurfing, stand up paddle and SCUBA diving. No previous experience required as all the activities include a coaching session with your own instructor. Just bring along your sense of fun and adventure!<br/><br/>Based on the island of Gan, approximately 35 minutes by domestic plane from Male International Airport, Gan Island is in the southern atoll of Laamu. It is the biggest island of the Maldivian archipelago, with the longest beach existing in the Maldives (7.8km of white sandy beach). Gan has some unique features which you will explore with a local guide, These include a fresh water lake in its middle (the Red Lake, so-named because of its red water from the tree-leaves falling into it) it is believed to be bottomless. Gan also boasts ancient Buddhist ruins and we spend time exploring the island to allow you an insight into Maldivian local life.<br/><br/>Note: The Maldives is a Muslim country and therefore alcohol is not available on local islands. Subject to availability day/evening visits to resorts can be arranged. Bikinis are also not allowed to be worn on local island beaches; however female guests are also able to sunbathe in bikinis within the confines of the hotels private beach/garden area.",
+  "durationDays": "8",
+  "price": "3499",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Upon arrival at Male International Airport you will be greeted by your tour leader and transferred by domestic flight to the island of Gan, in the southern atoll of Laamu and onto your guesthouse which will be your base for the week. Settle in after your flight before taking your first steps on the sands of this tropical paradise, take a swim in the warm waters of the Indian Ocean or just explore the facilities of the guesthouse before dinner"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Following breakfast served at the guesthouse the day will be spent kayaking, providing an opportunity to explore the east side of the atoll. You will be coached on how to paddle and maneuver the kayak before heading off into the inner atoll. There will be plenty of time to stop off at isolated sandbanks and uninhabited islands to snorkel and gain your first experience of the amazing underwater world of the Maldives. A picnic lunch will be eaten and there will be time to relax and sunbathe before heading back to Gan. The remainder of the afternoon is free for you to relax on the beach, snorkel the house reef or just chill in the plunge pool."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Today the morning is free for you to hit the beach, snorkel the house reef or just chill in the peaceful guesthouse garden. Following lunch you will be taken by a local guide on an exploration trip of the island of Gan by jeep. You will visit a number of historical places and learn more about the history of the Maldives and local life, even visiting a fish factory and a local vegetable farm. Keep an eye out for the local herd of goats that are often found hiding in the undergrowth! The trip includes a visit to a local café to sample traditional ‘hedika’ - Maldivian savoury and sweet snacks served with black tea."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Today is your chance to give SCUBA diving a go! Reveries has a PADI registered dive school and was the first PADI scuba diving and water sports center on a local island in Laamu Atoll. For those who have not dived before, we offer a Discover Scuba Diving Course where you learn the basic safety guidelines and skills needed to dive under the direct supervision of a PADI Professional. You will complete two dives from the shore. Qualified divers can take 2 dives by boat to explore this virtually untouched paradise. For guests who would prefer not to dive we offer a guided snorkeling tour. Late afternoon head out to the water for the opportunity to learn to stand up paddle. With an instructor, learn and practice the skills required on land before testing them on the water. As we navigate through the lagoon, be sure to remain attentive, as you never know, we may be joined by the presence of a graceful eagle ray or a mesmerizing shark gliding by beneath us."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "After breakfast together with your tour leader we explore the northern parts of Gan by bicycle. Ride along the Link Road, a boulevard of palm trees connecting Gan to the islands of Fonadhoo, Kadhdhoo and Maandhoo, which together make up the largest local community settlement in the Maldives. With lunch in a local café and time to rest during the heat of the day it is the perfect opportunity to gain a deeper understanding about the culture, history and daily life of this island nation and its people. At the end of your return journey be rewarded with fresh coconut water known locally as ‘kurumba’."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Following breakfast served at the guesthouse the day is yours to enjoy as you please, relax on the beach or for those feeling energetic practice some of their new found skills. Optional diving trips can be organised for certified divers. As the afternoon cools down there is the opportunity to spend time on the beach, giving back to the community that has welcomed us by supporting a beach clean. Our reward will be a refreshing fresh Kurumba (coconut water) followed by an ocean swim!"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Following breakfast served at the guesthouse we head to a Robinson Crusoe uninhabited island with your guide. As you step onto its shores, you will feel like an intrepid explorer, discovering a place that feels like it belongs only to you. The island's beaches will invite you to wander and explore their hidden corners. Relax and sunbathe on the powder white beaches, swim or snorkel the beautiful azure waters and enjoy a picnic lunch. After lunch enjoy more of the same before returning to Gan for a farewell dinner."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "After breakfast you are transferred back to Male International Airport where the tour ends."
+    }
+  ],
+  "map": ""
+}

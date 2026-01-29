@@ -1,0 +1,70 @@
+{
+  "destination": "New Zealand",
+  "mainPhoto": "",
+  "id": "adventures-of-new-zealands-south-island",
+  "tourName": "Adventures of New Zealand's South Island",
+  "placesVisited": "Christchurch, Mount Cook, Queenstown, Franz Josef, Greymouth",
+  "generalInfo": "Soar to New Zealand for nine days of essential exploration through its Southern Alpines. This tour showcases the frosted allure of New Zealand's picturesque landscapes. Beginning in the buzzing city of Christchurch and culminating atop the icy summit of Franz Josef, every second of this tour will bring you closer to the surreal spectacles that sweep New Zealand’s Southern summits.",
+  "durationDays": "9",
+  "price": "3,800",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Christchurch - An Evergreen Countryside",
+      "description": "Devastatingly affected by a natural disaster some years ago, Christchurch has since rebuilt and reconstructed into a vibrant New Zealand cityscape. Luxuriant gardens and flowering trees line buzzing boulevards, and decorated cathedrals offset the gentrification of the city. After transferring to your comfy accommodation surrounded by the evergreen, you will be immersed in the colorful character of the city. With an evening to unwind, you may visit a local artisanal restaurant for a taste of New Zealand’s multicultural delights with a backdrop of the bucolic countryside."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Mount Cook - Snow-Capped Peaks",
+      "description": "You will collect your rental car early this morning and set off across New Zealand’s Southern countryside toward the Mount Cook. En route, you will cross the mesmerizing Canterbury plains and pass through lakeside towns until images of Mount Cook’s snow-capped summit peeks from between the emerald valleys. Within this mountain landscape, you may explore the picturesque icy glaciers that are often overshadowed by frozen cliffs and rising icebergs. The vistas will be sweeping and endless whichever way you look."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Queenstown - Over the Southern Alps",
+      "description": "You will travel away from the Alpine region today toward the mountains of Queenstown. Set against the Southern Alps, the lakeside town’s locale is a marvel to behold. Its allure is reinforced by the charming character that emanates through its friendly neighborhoods. You will then discover the appeal of Queenstown shortly after arriving during a delightful cruise across the calm lake. As the mist hangs low against the mountains and the sunset burns across the sky, you will tuck into delicacies served on deck and sip on tasteful wine."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Queenstown - The Doubtful Sound",
+      "description": "The momentous Lake Wakatipu is fringed by towering olive-green hills of thick forests. On a coach and boat tour of the lake, these enchanting scenes will be clearer than ever, allowing you to bask in the scenic beauty that prevails across Southern New Zealand. After accessing the phenomenal Doubtful Sound fjord from the lake, you will lose yourself in the pleasures of this pure and unspoiled environment. The landscape boasts shimmering rainforests with plant life and gushing waterfalls, making every moment will be worth capturing."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Queenstown - The Finer Side of Life",
+      "description": "While adventure abounds across the luxuriant landscape that surrounds Queenstown, the destination is also the ideal place to rest and enjoy the idyllic countryside. You may spend your day delighting in the endearing cultural heritage highlights of Queenstown at your own pace, starting along the Gibbston Valley wine trail for tastes of the region’s premier Pinot. After indulging yourself, you may glide across the lake by gondola for views of the unparalleled scenery."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Franz Josef - Thermal Glacier Pools",
+      "description": "Today, you will venture from Queenstown across the highest sealed road in New Zealand, the Crown Range, to the charming town of Wanaka. Surrounded by remote settlements and glacier pools, Wanaka is a postcard-perfect destination. Your travels will continue after appreciating the astonishing scenery, bringing you to the vitalizing thermal glacier pools of Franz Josef. Enveloped by the towering green trees and sounds of chirping birds, you will dip into the balmy pools. There are few places on Earth as peaceful and beautiful as these natural glacier baths within the rainforest."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Franz Josef - On the Frosty Crest",
+      "description": "Franz Josef is an admirable town stationed in one of New Zealand’s most remarkable destinations. Its mountains are drenched in thick rainforest, and its peaks are coated in layers of ice. Atop these crests, you will enjoy an unforgettable glacier hike, weaving in and out of wondrous ice formations to viewpoints that overlook the endless countryside. The frosty formations yearn to be captured in images and memories that will last a lifetime, and serenity can be found in the tranquility of the unspoiled landscape rarely touched by the human hand."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Christchurch - Spectacular Scenes",
+      "description": "Your journey will bring you back to Christchurch in the most fantastic way: on a breathtaking train trip through the countryside between Greymouth and Christchurch. Argued to be the most scenic train trip on Earth, this ride will meet you with incredible views of the untamed wilderness and soaring peaks of the Southern Alps. The forests will glow under the sun, and the deep river valleys will trickle between stark gorges. Eventually, you will arrive and Christchurch, where a driver will transfer you to your accommodation."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Christchurch - Departure",
+      "description": "Your Southern New Zealand experiences will sadly come to an end today; however, you will have the morning in Christchurch to cherish before transferring to the airport. You may casually bask in the stunning scenery from a quiet bench in the landscaped parks, tuck into delightful dishes, or appreciate the stained-glass murals of the city's finest churches. Regardless, you will leave no stone unturned during your final moments in New Zealand."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,80 @@
+{
+  "destination": "Jordan",
+  "mainPhoto": "",
+  "id": "jordan-highlights-luxury-tour",
+  "tourName": "Jordan highlights luxury tour",
+  "placesVisited": "Amman, Jerash, Madaba, Mount Nebo, Petra, Wadi Rum, Aqaba on the Red Sea, Dead Sea, Private guided tour with a driver",
+  "generalInfo": "Jordan is such an enjoyable country to visit: small enough that you can see several stunning locations without too much travelling, and famous for both local hospitality and world-renowned landmarks. You’ll be astonished by the diversity of a country where 75 percent of the land is in a desert climate – there’s the lowest (and saltiest) place on earth (the Dead Sea); one of the best places for diving (the Red Sea); six UNESCO sites, including Wadi Rum and Petra; holy sites, and Amman, the capital. In Jordan, luxury tours are as interesting as they are comfortable.<br/><br/>This full tour visits the country’s most impressive sights on a very doable loop. You’ll start in Amman, the capital, before heading north to Jerash, with its Roman ruins, and then south to Madaba and Mount Nebo. On to Petra, where you’ll get two days to explore the ancient city, before heading even further south into the desert at Wadi Rum. Have three rest days at a resort in Aqaba on the Red Sea, before you end your trip back up north, with a float in the Dead Sea, and time in a spa hotel.<br/><br/>What makes this trip luxury? You’ll be staying in four and five star hotels. With private transport, and local guides meeting you at the sites, you can simply sit back and relax between destinations, watching Jordan’s special landscapes – from high mountains to low deserts – change before your eyes. <br/><br/>This tour includes a guided tour of a woman’s cooperative where Amman’s unemployed women are given jobs and financial independence. They are employed to make traditional crafts which showcase and preserve pieces of Jordan’s cultural heritage.<br/><br/>This journey can be tailor made to your requirements – whether you want to add highland forests, more Biblical sights, or eco lodges in the wilderness. Jordan, and this trip, has them all.<br/><br/>Female guide available upon request.",
+  "durationDays": "12",
+  "price": "3328",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Amman where you will be met and taken to your hotel in the city to overnight"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Take a day trip to Shaumari to go on a 2-3hr Oryx trail. This evening enjoy an Arabic cooking class and dinner at a local restaurant in Amman."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Today you will have a City Tour of Amman with a guide. Visit Iraq Al Amir women’s cooperative for carpet weaving. Lunch is included and time for shopping."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Depart Amman and head north to visit the ancient Roman ruins of Jerash and historical town of Al Salt before arriving at your hotel in Madaba for the evening."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "This morning visit Madaba and Mt. Nebo before departing to Petra. Along the way stop of at desert castles and historical sites of interest."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "A full day at Petra starting at dawn with a local guide to share knowlege of the incredible site. Lunch is included at a restaurant anf the afternoon free to walk around Petra."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "A second day at Petra with your guide to visit Monastery with lunch included. In the afternoon head to Wadi Rum to your camp for stargazing and dinner."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Enjoy an exhilerating 2hr Jeep tour into the desert before heading south to the coast to overnight in Aqaba for the next 3 nights"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Free days in Aqaba to relax at poolside at your hotel or on the beach with watersports activities on offer."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Today you'll be taken to the Dead Sea to your spa hotel and time to float in the famous salty waters!"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Transfer to Amman Airport for your departure flight home."
+    }
+  ],
+  "map": ""
+}

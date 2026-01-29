@@ -1,0 +1,55 @@
+{
+  "destination": "Colombia",
+  "mainPhoto": "",
+  "id": "journey-through-colombias-wilderness-tour",
+  "tourName": "Journey through Colombia's Wilderness Tour",
+  "placesVisited": "Marinilla, Estación Cocorná",
+  "generalInfo": "Immerse yourselves in the wondrous wilderness for which Colombia is cherished and journey through Antioquia’s bucolic landscape for six days on this handcrafted tour. Discover more about the country’s fascinating traditions and savor delectable Colombian cuisine, all within an immaculate wilderness that flourishes with fragrant flower fields and diverse wildlife. Every step on Colombian soil will stir up a sensational sense of adventure.",
+  "durationDays": "6",
+  "price": "3,500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Marinilla - Stationed on Emerald Mountains",
+      "description": "Colombia’s Eastern Antioquia region is a treasure trove of wilderness highlights that you will be thrilled to discover during your adventurous tour through the greenery. You will arrive in Medellín, the region’s buzzing capital that has been dubbed the City of Eternal Spring. Here you will meet your private transfer and swiftly breeze through customs. When you are ready, you will venture to your high-end eco-suite on the viridian hills of Marinilla and capture unforgettable images of the bucolic pastures as you weave through the emerald mountainscape. An outstanding Colombian dinner will be accompanied by a bewitching orange sunset to officially welcome you to this paradisal destination."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Marinilla - Roam through Fragrant Flower Fields",
+      "description": "Antioquia’s beauty is reflected in the vivid fields of fragrant flowers you will visit today. After breakfast, you will journey to Medellín and witness the electrifying pinks, spellbinding blues, and vivacious greens of the fields. You will meet local farmers who toil tirelessly to curate this flamboyant wildlife display and families who craft elaborate floral exhibitions for the region’s world-famous Flower Festival. Afterward, you will sip on saccharine Aguapanela, which is a traditional Colombian sugar cane beverage, as the sun fades away."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Estación Cocorná - Hidden Caves Few Have Traveled",
+      "description": "Colombia has unveiled previously untouched regions for tourists to access. Today, you will peek behind these curtains to uncover the hidden gems of Estación Cocorná. You will arrive in the quiet little town that oozes with traditional character and significant history. Alongside a trusted guide, you will soar across tranquil rivers to a web of camouflaged caves where you will spot endemic wildlife among the picturesque scenes. You will then continue to a private reserve in Puerto Triunfo, where you will receive exclusive access to the farm and encounters with the protected wildlife."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Marinilla - Escobar’s Extravagant Hacienda",
+      "description": "Remnants of the notorious Pablo Escobar’s life are preserved in Antioquia, such as his sprawling estates to his personal tokens and trinkets. Today, you will delve into the dramatic events that unfolded under Escobar’s reign as you tour his extravagant hacienda. The boastful building happens to be poised on an unparalleled slice of wildlife paradise, and you will float along serene stretches of rippling water. Throughout the day, you will be able to capture panoramic images within the untamed environment."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Marinilla - Colombia’s Arts and Crafts",
+      "description": "Marinilla established itself as a Colombian powerhouse during the war for independence from Spain and was subsequently labeled the Sparta of Colombia. Today, Marinilla’s prosperity can be traced to its production of the country's best guitars. You will have the unique opportunity to explore factories where these iconic instruments are crafted before continuing to El Carmen to learn about Colombia’s celebrated ceramic manufacturing process at a boutique factory. A flawless Colombian dinner will culminate after a meticulous culinary class at an elite cooking school later this evening."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Marinilla - Finest Flavors of Colombian Coffee",
+      "description": "The sun will shine brightly over the forested landscape that sweeps Antioquia, encouraging you to set out for one last notable Colombian experience. In the morning, you will transfer to a revered Colombian coffee shop and settle in for a vitalizing tasting experience led by professional baristas. You will be able to tuck in to savory snacks and sip on a variety of bold coffees that exude the qualities that makes Colombian coffee world-famous. Birds will chirp beyond the balcony from the shady tree line, and the wind will whistle between the canopy as you relish your final few moments among the Colombian wilderness before transferring to the airport."
+    }
+  ],
+  "map": ""
+}

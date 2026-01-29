@@ -1,0 +1,75 @@
+{
+  "destination": "China",
+  "mainPhoto": "",
+  "id": "yunnan-10-day-cultural-tour-in-china",
+  "tourName": "Yunnan 10 day cultural tour in China",
+  "placesVisited": "",
+  "generalInfo": "This 10-day expedition is the ultimate overland journey through the sacred frontiers of Yunnan and Kham Tibet. Starting and ending in the \"Spring City\" of Kunming, this loop combines the comfort of modern high-speed rail with the raw, spiritual beauty of the Himalayas. You will traverse the \"Eternal Spring\" of Shangri-La, witness the sacred sunrise at Meili Snow Mountain, and hike beneath the holy peaks of Yading Nature Reserve.<br/><br/>Why choose this holiday? A Complete Loop: Unlike standard tours, we offer a seamless journey starting from Kunming. You'll experience China's world-class high-speed train to Lijiang, reducing carbon footprint while enjoying scenic views.<br/><br/>Sacred Landscapes: The itinerary features the \"Sunlight over the Golden Peak\" at Meili Snow Mountain (Kawagarbo, 6,740m) and a full-day hike in Yading Nature Reserve, home to the three holy peaks representing Wisdom, Power, and Compassion.<br/><br/>Ancient Traditions: We venture to the Yanjing (Salt Well) ancient town to witness the 1,300-year-old method of harvesting salt from the Lancang River—a living heritage site rarely seen by tourists.<br/><br/>Diverse Experiences: From the UNESCO-listed Lijiang Old Town to the bustling Dounan Flower Market (Asia's largest), and from the Tibetan calm of Shangri-La to the \"World's Highest City\" of Litang, this trip offers a profound contrast between China's vibrant culture and its serene wilderness.",
+  "durationDays": "10",
+  "price": "4066",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "ARRIVAL IN KUNMING. Welcome to the \"Spring City\". Meet your guide and relax at your hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "KUNMING TO LIJIANG. Take the scenic high-speed train (approx. 3.5 hrs) to Lijiang. Afternoon exploration of the UNESCO World Heritage Lijiang Old Town and Black Dragon Pool."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "LIJIANG TO FEILAI TEMPLE. View the First Bend of the Yangtze River, cross Baima Snow Mountain, and arrive at the gateway to the sacred Meili Snow Mountain."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "FEILAI TEMPLE TO BATANG VIA YANJING. Witness the sunrise over Meili's peaks. Visit the ancient Yanjing Salt Fields and the unique Catholic Church in the Tibetan region."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "BATANG TO YADING SCENIC AREA. Drive through the high-altitude grasslands of Litang and majestic Haizi Mountain to reach Yading."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "YADING FULL DAY EXPLORATION. Hike to Pearl Lake and view the holy trinity of mountains: Chenrezig, Jambeyang, and Chanadorje."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "YADING TO SHANGRI-LA. Journey back through the rugged Hengduan Mountains to the mythical Shangri-La via the Daochang Highway."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "SHANGRI-LA TO LIJIANG VIA BAISHUITAI. Visit the \"White Water Terrace\" (Baishuitai), the sacred birthplace of Dongba culture, before returning to Lijiang."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "LIJIANG TO KUNMING. Morning visit to Blue Moon Valley and Jade Dragon Snow Mountain area. Afternoon high-speed train return to Kunming."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "DEPARTURE FROM KUNMING. Morning visit to the spectacular Dounan Flower Market before your airport transfer."
+    }
+  ],
+  "map": ""
+}

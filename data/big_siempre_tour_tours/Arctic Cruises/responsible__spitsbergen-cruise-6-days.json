@@ -1,0 +1,55 @@
+{
+  "destination": "Arctic Cruises",
+  "mainPhoto": "",
+  "id": "spitsbergen-cruise-6-days",
+  "tourName": "Spitsbergen cruise, 6 days",
+  "placesVisited": "Longyearbyen, Barentsburg, Woodfjorden, Liefdefjorden, Moffe, 80° North, Kongsfjorden, Ny-Alesund, Isfjorden",
+  "generalInfo": "This six-day adventure, including a cruise aboard a restored vintage small ship, will take you past some of the Arctic’s most extraordinary landscapes in the ethereal light of the midnight sun. As you journey above the Arctic Circle along the remote west coast of Spitsbergen, keep your eyes peeled for glaciers, rocky mountain ranges and a whole host of wildlife including, if you’re lucky, polar bears.<br/><br/>But this cruise is not all about time on board. You’ll have plenty of opportunity to explore Sptisbergen on foot, with one or two nights spent on land and the remaining days at sea. You’ll enjoy guided tours of Longyearbyen, Svalbard’s only town and the world’s northern-most city, and Russian Barentsburg, before embarking on an adventure into the Arctic wilderness.<br/><br/>During your voyage you’ll also have the opportunity to step ashore and explore the remains of some of Svalbard’s tiny historic settlements, including an old coal mining community which is now an international Arctic research station.<br/><br/>Along the way keep a weather eye out for a plethora of Arctic wildlife including sea birds nesting on cliff faces, walrus and of course, polar bears.<br/>",
+  "durationDays": "6",
+  "price": "2118",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Mining History and Arctic Nature. Arrive in Longyearbyen, where we will meet you at the airport to transfer to your hotel. From there you can explore the town, visit the North Pole Expedition Museum, and enjoy a two-course dinner at your hotel restaurant. Overnight stay at either Radisson Blu Polar Hotel or Funken Lodge, depending on your cabin category."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Settlements of the Far North. Morning at leisure in Longyearbyen, with a two-course lunch at your hotel, before a guided tour that includes the Svalbard Museum and Camp Barentz. Embark on the MS Serenissima and sail through Isfjorden, observing Arctic wildlife and historical sites."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Into the Arctic Wilderness. Enter remote Arctic areas without communication signals, and explore Magdalenefjorden's alpine-like scenery, historical whaling sites, and rich birdlife. Potential landing depends on weather and ice conditions."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Scanning for Polar Bears. Explore the diverse landscapes of Woodfjorden and Liefdefjorden, and scan for polar bears and other wildlife. If conditions allow, sail above 80° North and approach Moffen Island, known for its walrus population."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Fjords, Glaciers and Research. Discover the scenic Kongsfjorden, hike on the tundra, and visit the research settlement of Ny-Ålesund. Learn about Arctic exploration history and send a postcard from the northernmost post office in the world. Upon arrival in Ny-Ålesund, the ship will dock at the pier, and passengers can disembark directly from the ship onto land."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Flying Home from the Arctic. Departure day, with transfer from the ship to Radisson Blu Polar Hotel Spitsbergen. From here you have another opportunity to explore Longyearbyen and buy souvenirs before a transfer to the airport."
+    }
+  ],
+  "map": ""
+}

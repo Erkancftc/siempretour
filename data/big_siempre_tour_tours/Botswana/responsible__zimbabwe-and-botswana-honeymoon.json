@@ -1,0 +1,45 @@
+{
+  "destination": "Botswana",
+  "mainPhoto": "",
+  "id": "zimbabwe-and-botswana-honeymoon",
+  "tourName": "Zimbabwe and Botswana honeymoon",
+  "placesVisited": "",
+  "generalInfo": "Your adventure begins with two nights at Old Drift Lodge in Zambezi National Park, where thrilling game drives, guided bush walks, and pontoon boat safaris bring you face-to-face with elephants, giraffes, and elusive predators, topped off with a guided tour of the awe-inspiring Victoria Falls. <br/>Head to Ngoma Safari Lodge on the Chobe Riverfront for two nights of exhilarating wildlife encounters through a mix of walking safaris, night drives, and river cruises, alongside enriching cultural visits to local schools and villages. <br/>In the Khwai Concession, Little Machaba Camp offers three nights of nocturnal wildlife spotting, and tranquil dugout canoe trips through the Okavango’s serene waterways. Each lodge combines stunning river or floodplain views, private pools, and luxurious comfort, creating an unforgettable blend of wildlife thrills and cultural immersion.",
+  "durationDays": "8",
+  "price": "3945",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Zambezi National Park - You will stay in Old Drift Lodge for 2 nights. Set in the pristine Zambezi National Park just upstream from Victoria Falls, the lodge offers a variety of wildlife-focused activities. Guests can explore the park on game drives, guided bush walks, or pontoon boat safaris, spotting elephants, giraffes, buffalo, and elusive predators. Birdwatching is exceptional, with over 400 species including Pel’s fishing owl and goliath heron. A guided tour of Victoria Falls, just 7km from Old Drift Lodge, is included in the nightly rate, with park fees payable directly and optional lunch at the Lookout Café. Step into the rainforest to experience the gentle roar of the falls, entwined trees, and the fragrance and wildlife of this awe-inspiring natural wonder. The lodge itself provides stunning river views from its decks and plunge pools. Fishing enthusiasts can try their hand at catching tiger fish in the Zambezi River."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Chobe Riverfront - Set in Northern Botswana within the Chobe Forest Reserve, Ngoma Safari Lodge is your base for the next two nights, offering a range of wildlife and cultural activities. Guests can enjoy game drives, walking safaris, and night drives through the reserve, spotting elephants, buffalo, and migrating zebra. Birdwatching and full-day excursions combine river cruising on the Chobe with drives into Chobe National Park. Cultural experiences include visits to the local school, clinic, and village, offering insight into community life. The lodge itself features river-view suites with private splash pools, plus a central area with dining, bar, pool, and a viewing platform overlooking the Chobe River."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Khwai community area - From Ngoma Safari Lodge, you will be picked up and transferred to Kasane Airport for your short flight to the Khwai Concession. Here you will be met and transferred to Little Machaba camp for 3 nights. Located in the wildlife-rich Khwai Concession of the Okavango and offering a variety of safari activities, guests can take morning and afternoon game drives across river systems and floodplains, spotting elephants, buffalo, predators, and other plains animals. Night drives provide the chance to see nocturnal species with expert guidance. Experience the tranquil, year-round Okavango waterways in a dugout canoe poled by an expert, with morning or full-day trips exploring nearby islands. The camp also offers relaxing downtime with a pool, spa treatments, and decks overlooking the floodplain. Each safari tent features an ensuite bathroom, living area, and romantic outdoor shower, blending comfort with immersive wilderness views."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "End of itinerary - After breakfast, you will be picked up and transferred to the Khwai Airstrip for your short flight to Maun, ready for your onward travel home."
+    }
+  ],
+  "map": ""
+}

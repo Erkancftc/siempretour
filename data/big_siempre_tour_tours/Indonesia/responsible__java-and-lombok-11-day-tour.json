@@ -1,0 +1,65 @@
+{
+  "destination": "Indonesia",
+  "mainPhoto": "",
+  "id": "java-and-lombok-11-day-tour",
+  "tourName": "Java and Lombok 11 day tour",
+  "placesVisited": "",
+  "generalInfo": "This leisurely paced, tailor-made holiday showcases the highlights of two of Indonesia's numerous islands: Java &amp; Lombok. <br/><br/>Over the course of 11 days visit Yogyakarta’s inspiring temples, graze on Indonesian street food, wonder at the spiritual sunrise over Mount Bromo, and spend a night in the old colonial city of Malang, before flying to the tropical island of Lombok for some dedicated beach bliss.",
+  "durationDays": "11",
+  "price": "1990",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "On arrival in Java, you'll be met by your private guide, who will accompany you to your hotel in Yogyakarta. The remainder of your day is at leisure. Overnight in Yogyakarta"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Wander through the Sultan’s Palace, enjoy a 30 minute becak (bicycle trishaw) ride to the holy community of Kauman, and finish at the 200-year old Taman Sari Water Palace bathing pools. Learn about traditional batik production, including the philosophy behind the patterns, before meeting your guide for an evening’s culinary exploration of Yogyakarta, rubbing shoulders with the locals as you try a variety of regional snacks and dishes. Overnight in Yogyakarta"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "A very early start to witness the captivating sunrise over Borobudur, and then fully explore the largest Buddhist temple complex in the world. Protected by UNESCO, these stunning ruins, decorated with 500 Buddha statues and over 2,500 relief panels, remains remarkably intact. From Borobudur, continue on to the nearby Mendut and Pawon temples, aligned perfectly with Borobudur and defined by their elaborate stone carvings. Java’s coffee has legendary status and the final stop of the morning will be at an independently owned coffee plantation where you’ll learn about the coffee production process and enjoy a tasting session. Overnight in Yogyakarta"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Start the day’s cycling tour at Kaliadem village, close to Gunung Merapi, one of Indonesia’s most active volcanoes. This leisurely, predominantly downhill cycle, takes you through local villages and rural countryside, stopping for photo opportunities and to soak in the views, with Mt Merapi an ever-present backdrop. After lunch in a local restaurant, carry on to visit Prambanan, the largest Hindu temple in Indonesia. The UNESCO heritage status complex originally housed over 240 temples, centred on three shrines dedicated to Brahma, Vishnu and Shiva - the Hindu holy trinity - but some have been damaged over time. Your guide will explain the history and symbolism of the site as you wander. Overnight in Yogyakarta"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Board the Sancaka Pagi Train at Yogyakarta Tugu Railway station to for a scenic train ride to Jombang in eastern Java. Pass through the spectacular volcanic landscapes, taking the opportunity to chat with local travellers with the assistance and translation of your accompanying guide. Disembark in Jombang and drive to Trowulan, the former site of the Majapahit Kingdom capital city, to visit the temples of Candi Bajang Ratu and Candi Tikus, before travelling along a scenic mountain route to the Bromo-Tengger National Park. The remainder of your day will be at leisure to sit back and enjoy the views of this magnificent peak. Overnight in Bromo National Park"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Depart before dawn for a sunrise jeep tour of Mount Bromo. Walk uphill to a viewing platform on Mount Penanjakan where, as the sun rises and the mist clears, you’re greeted with a breath-taking panorama. Travel into the caldera and take a walk across the otherworldly landscape of grey volcanic ash to the base of Bromo. Then walk up to the crater rim to gaze down into the smoking interior. Return to your hotel in time for breakfast, then head off towards Malang, stopping en route at the atmospheric 13th century Singosari Hindu temple. On reaching Malang take an afternoon becak tour of the city, past historic sites and Eng An Kong temple, finishing at the city Cathedral. Overnight in Malang"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Morning drive to Surabaya airport in time for your onward flight to Lombok. Upon arrival, transfer to your chosen beach hotel and the remainder of your day will be at leisure. Overnight on Lombok"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Your day is at leisure until your transfer to Lombok airport in time for your onward flight."
+    }
+  ],
+  "map": ""
+}

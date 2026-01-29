@@ -1,0 +1,95 @@
+{
+  "destination": "Vietnam",
+  "mainPhoto": "",
+  "id": "vietnam-tours",
+  "tourName": "Vietnam tours",
+  "placesVisited": "",
+  "generalInfo": "Travel the stunning coast of Vietnam on this unforgettable two-week adventure from Hanoi to Saigon. Discover the charm of vibrant cities, peaceful villages, and scenic waterways as you explore Vietnam's rich history and culture. Visit UNESCO World Heritage Sites, enjoy authentic Vietnamese cuisine, and experience local life up close on this epic journey through one of Southeast Asia's most captivating countries.<br/> <br/> Hanoi - Discover Vietnam's capital and wander through the narrow streets of the Old Quarter.<br/> Mekong Delta - Take a traditional sampan along palm-lined canals and barter for exotic fruit.<br/> Halong Bay - Cruise among stunning limestone karsts and emerald waters on a traditional boat.<br/>",
+  "durationDays": "14",
+  "price": "1665",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Join tour in Hanoi",
+      "description": ": Arrive in Vietnam's capital, Hanoi, famous for its rich culture, bustling life and colonial influences. Its small lakes, busy streets and secluded alleyways are all waiting to be explored. For those arriving on time, our tour leader plans to meet you in the hotel reception at 6pm for the welcome meeting and for those that wish, there is the chance to go out for dinner. There are no other activities planned today, so you're free to arrive in Hanoi at any time. If you'd like an airport transfer, you'll need to arrive into Noi Bai International Airport (HAN), which is a 45-minute drive to the hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Discover the sights of Hanoi including the Old Quarter",
+      "description": ": This morning, we'll set out on a tour of the main sights of Hanoi. Architecturally styled like a French provincial town with tree-lined boulevards and low-built houses, the city is wonderfully nostalgic. Among the interesting sights are the charming One-Pillar Pagoda and the Presidential Palace. Ho Chi Minh himself, a spartan-living and scholarly man, chose not to live in the Presidential Palace, he preferred instead a simple teak stilt house specially built for him on the grounds. In the afternoon, our tour leader will give you a map and instructions so you can discover the narrow lanes of the fascinating Old Quarter solo, where the streets are named after various crafts or specialities: Paper Street, Silk Street, Basket Street and so on. On the pavements, food vendors sell noodles, snacks and stir-fries from shoulder panniers. Take some time to really soak in your unique surroundings with the tempting smell of the food stalls mixing with the scent of incense from small temples dotted around."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Free time in Hanoi, drive to Halong Bay",
+      "description": ": This morning, enjoy some free time to explore more of Hanoi - you might want to stroll around the peaceful Hoan Kiem Lake, visit the fascinating Vietnam Museum of Ethnology, or catch a traditional water puppet show. In the afternoon, we'll head towards the breathtaking Halong Bay in the Gulf of Tonkin. Here, thousands of jagged limestone islands rise from the emerald waters like the scales of a mythical dragon. Legend says the dramatic landscape was shaped by a dragon diving into the sea, its tail carving out the islands as it went."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Cruise Halong Bay, overnight train to Hue",
+      "description": ": This morning, we'll set sail on a scenic cruise through the stunning islands of Halong Bay. Along the way, we'll stop to explore a grotto tucked beneath towering cliffs and maybe visit a quiet beach. It's fascinating to watch the mix of tourist boats, traditional junks, and wooden sampans drifting through the emerald waters. We'll enjoy a fresh seafood lunch onboard before heading back to our hotel in Hanoi to freshen up. Later, we'll board the Reunification Express train to Hue. As part of our commitment to sustainability, we choose to travel by train instead of flying - cutting carbon emissions and enjoying a more authentic experience of local life along the way. We'll travel in comfortable 'soft-sleeper' four-berth cabins with bunk beds and provided bedding. Each carriage has both Western and Asian-style toilets, plus a basin. Our tour leader will assign beds and do their best to keep our group together, but we may need to share cabins with other travellers."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Discover Hue and cruise the Perfume River",
+      "description": ": We'll arrive in Hue this morning, a peaceful city known as one of Vietnam's key cultural and religious centres. The Perfume River flows gently through the city and has inspired poets and artists for centuries with its serene beauty. In the afternoon, we'll take a relaxing boat ride along the river to the Thien Mu Pagoda, Hue's oldest temple and a cherished symbol of the city, surrounded by tranquil gardens and stunning views. But Hue isn't just about history - it's a food lover's paradise! Prepare to delight your taste buds with the city's legendary royal cuisine, famed for its delicate spices and unique flavours. Don't miss trying 'bun bo Hue', a spicy beef noodle soup that perfectly captures the city's rich culinary heritage. Other must-try dishes include \\ com hen' (clam rice) and \\ banh khoai' (crispy pancakes)."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Visit the Imperial Citadel, free afternoon in Hue",
+      "description": ": This morning, we'll explore Hue's incredible Imperial Citadel, a stunning palace built by Vietnam's last emperors. Even though parts were damaged in the past, the impressive walls and buildings still give a real sense of the city's royal history and charm. The rest of the day is yours to enjoy however you like. You could check out the famous Emperor's Tombs, each with its own unique vibe and beautiful surroundings. Or head to Dong Ba Market to dive into local life and taste some amazing street food. If you want to relax, take a peaceful bike ride along the Perfume River or unwind in one of Hue's cozy cafes."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Scenic drive via Danang to Hoi An",
+      "description": ": This morning, we'll set off on a breathtaking drive along the Hai Van Pass, also called the Ocean Cloud Pass. Along the way, enjoy charming rural scenes with thatched wooden houses and lush rice paddies, all framed by stunning sea views. Next, we'll explore the Marble Mountains - five striking peaks that represent the elements of water, wood, fire, metal, and earth. Inside, you'll find peaceful Buddhist grottoes and beautiful temples carved into the stone. Afterward, we'll stop at My Khe Beach, once known as China Beach by American troops, to relax on its soft, white sands. From there, it's a short drive to the enchanting UNESCO-listed town of Hoi An, where history and vibrant culture await."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Free day in Hoi An, optional visit to My Lai",
+      "description": ": Today is yours to explore Hoi An at your own pace. This historic merchant town was once one of Southeast Asia's busiest trading ports in the 17th and 18th centuries. First settled by the Portuguese in the 16th century, Hoi An still charms visitors with its beautifully preserved medieval streets and architecture. You might want to stroll across the iconic Japanese Bridge or explore the intricate Chinese temples and meeting halls scattered throughout the Old Town. The town is full of vibrant shops, cozy cafes, lively bars, and excellent restaurants - perfect for souvenir shopping, getting custom clothes tailored, or simply relaxing by the river and watching the world go by. For something hands-on, consider joining a cooking class where you'll learn to prepare traditional Vietnamese dishes using fresh, local ingredients - a delicious way to dive into the culture. Alternatively, you can take a meaningful excursion to the My Lai Massacre Memorial, a powerful site that shares the tragic history of a pivotal moment in the American War through a moving photographic exhibition."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Visit ancient My Son, free afternoon in Hoi An",
+      "description": ": This morning, we'll visit My Son, one of Vietnam's most sacred and captivating Cham sites. The Cham people were ancient rulers who broke away from Chinese control in 2 AD to build their own kingdom. The journey to My Son is a bit bumpy as we wind through lush, wooded hills, but it's well worth it to explore the impressive clusters of Cham temples scattered around the site. The afternoon is yours to relax and enjoy more of Hoi An. You might want to try a famous banh mi from one of the local vendors or take part in a lantern-making workshop, crafting the colourful lanterns that light up the town. If you prefer, the beach is just a short taxi ride away, or you could take a peaceful boat trip on the river."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Fly to Ho Chi Minh City and drive to the Mekong Delta",
+      "description": ": We're starting the day early to catch our flight to Saigon. After a quick drive to Danang Airport, we fly into Ho Chi Minh City - known as Saigon by the locals - and then head down to the amazing Mekong Delta. This area is one of the most unique spots in Vietnam, with its endless rivers, coconut palms, and small villages that feel like a whole different world. First, we hop on a local ferry to a nearby village and explore by trishaw, weaving through lively streets and local markets. Then, we jump onto traditional wooden sampan boats to cruise through the narrow canals, soaking in the peaceful vibe and watching everyday life float by. After a tasty lunch, you'll have some free time to explore more before we head back to Ben Tre by boat. We'll spend the night in a guesthouse, giving you a real feel for the laid-back, authentic charm that makes the Mekong Delta such a special place."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Explore more of the Mekong Delta and drive to Ho Chi Minh City",
+      "description": ": This morning, we have even more time to explore the winding canals of the Mekong Delta. As we glide along the peaceful waterways, there's a good chance we'll meet some of the friendly locals going about their daily routines. We might catch a glimpse of the fascinating coconut processing trade, where skilled workers turn fresh coconuts into delicious treats and useful products. If you're feeling active, you can choose to stretch your legs with a walk or hop on a bike to cycle along the scenic canal paths, taking in the lush greenery and vibrant village life at a leisurely pace. After soaking up the tranquil atmosphere and rural charm, we'll hop back in the vehicle and make our way back to bustling Ho Chi Minh City, carrying with us the unforgettable sights and stories of the Mekong Delta."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Explore Old Saigon, discover 'Secret Weapons Bunker'",
+      "description": ": This morning, we'll dive into the sights of Old Saigon, now known as District 1 of Ho Chi Minh City. Along the way, our tour leader will point out landmarks like the stunning Notre Dame Cathedral, the grand General Post Office, and some iconic French Colonial hotels like The Rex. Next, we'll visit the Independence Palace - also called the Reunification Hall - and the powerful War Remnants Museum, which offers a gripping look at Vietnam's turbulent history. In the afternoon, we'll explore a different side of the city by wandering through Old Saigon's narrow back alleys. Here, you'll see everything from quirky local shops and bustling markets bursting with colourful fruit and everyday goods, to churches, schools, and cozy homes all packed into tight spaces. Feeling peckish? We'll stop for a traditional Vietnamese coffee - rich, strong, and sweetened with condensed milk - and sample fresh \\ Banh Mi,' Vietnam's famous take on the French baguette, filled with delicious and aromatic ingredients. Our walk finishes at Saigon's 'secret Weapons Bunker' - a discreet tube house hiding a trapdoor leading down to a basement stocked with rifles, grenades, and ammunition. This bunker was a crucial part of the 1968 TET Offensive. You'll have time to explore the hidden rooms, filled with decommissioned weapons, photos, news clippings, and other wartime memorabilia."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Morning visit to the Cu Chi Tunnels and free afternoon in Saigon",
+      "description": ": This morning, we take a drive out of the city to explore the famous Cu Chi Tunnels - an underground network that played a key role during the 1968 Tet Offensive. If you're feeling adventurous, you can crawl through a specially adapted narrow section of the tunnels to get a real sense of the tight, claustrophobic conditions the Viet Cong endured. Afterwards, we'll head back to Ho Chi Minh City, where the afternoon is yours to relax or explore further. You might want to check out the vibrant Ben Thanh Market for some shopping, visit the bustling cafes for a taste of local life, or explore the trendy art galleries and rooftop bars scattered around the city."
+    },
+    {
+      "dayNumber": 14,
+      "title": "Tour ends in Ho Chi Minh City",
+      "description": ": The trip ends after breakfast at our hotel in Ho Chi Minh City. There are no activities planned today, so you're free to depart from Ho Chi Minh City at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from Tan Son Nhat International Airport (SGN), which is a 20-minute drive from our hotel. Why not extend your trip with a cultural journey through Southeast Asia's hidden gem - Cambodia - on our Inside Vietnam + Cambodia Highlights combo tour? Explore the vibrant capital Phnom Penh and experience the breathtaking temples of Angkor for an unforgettable adventure."
+    }
+  ],
+  "map": ""
+}

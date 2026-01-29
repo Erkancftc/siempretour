@@ -1,0 +1,70 @@
+{
+  "destination": "Ireland",
+  "mainPhoto": "",
+  "id": "ireland-small-group-holiday",
+  "tourName": "Ireland small group holiday",
+  "placesVisited": "Belfast, Giant's Causeway, Galway, Aran Islands, Cliffs of Moher, Adare, Killarney, Ring of Kerry, Dublin",
+  "generalInfo": "Make sure you’re on the lookout for magical creatures on this holiday, which takes you to the lush green landscapes of Ireland, a country steeped in myth and legend. You’ll visit medieval castles and Iron Age fortresses; walk along some of the country’s greatest beaches; drink Guinness and local ales in country pubs; and visit the rugged green coast of Northern Ireland, where, as folklore would have it, giants once walked.<br/><br/>Along the way, you’ll travel with a small group of up to 12 like minded travellers, as well as experienced guides. We encourage you to get to know the local way of life as much as possible, staying in small hotels, and visiting local pubs where you’ll not only sample traditional food and drink, but get to take in a music performance or two.<br/>",
+  "durationDays": "9",
+  "price": "2985",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Belfast.",
+      "description": "Welcome to Ireland! Your adventure begins in Belfast with a welcome meeting at 6 pm. If you arrive early, maybe take some time to wander the streets of the bohemian Cathedral Quarter, visit the stately City Hall in Donegal Square or see the revitalised waterfront area, home to the Titanic Belfast monument on the site of the former Harland & Wolff shipyard, where the legendary RMS Titanic was built. The monument tells the story of the ship's ill-fated maiden voyage in 1912. After the meeting, maybe head out to a local restaurant and get to know your fellow travellers over dinner."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Belfast to Giants Causeway to Derry.",
+      "description": "Travel along the scenic wild coast north of Belfast in a private transfer to the Giant's Causeway – home to roughly 40,000 basalt columns that have inspired artists and storytellers for centuries. Depending on your school of thought, these formations are either the result of an ancient volcanic eruption or a legendary conflict between rival giants. After, head to Derry – home to countless historical sites and the critically acclaimed sitcom Derry Girls. When you arrive, maybe explore the Guildhall, which houses the city council chambers and museum, or wander the streets and find a local restaurant for dinner."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Derry.",
+      "description": "After breakfast, set off on a walking tour of Derry Bogside, where you’ll learn about the Bloody Sunday from those who were directly affected by it. Hear the Bloody Sunday story in Derry City, retrace parts of the original march and visit places where the dead and wounded fell. This afternoon is free for you to explore Derry at your own pace. Maybe visit The Ulster Museum to meet Takabuti, an Ancient Egyptian mummy, or join a Black Cab Tour, where your driver will provide a comprehensive overview of Northern Ireland’s political history as you cruise around the city."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Derry to Galway.",
+      "description": "This morning, travel by private vehicle to the harbour city of Galway – capital of the county of the same name. You’ll be crossing the border from Northern Ireland to the Republic of Ireland, so you may need to switch your pounds for euros at this point. Galway is a thriving, bohemian, cultural city on the western coast. Along with being a popular seaside destination with beaches and a long winding promenade, it also has a buzzing city center. The city is a joy to explore with its labyrinthine cobbled streets, colourful shop facades and busy café and bar culture."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Aran Islands.",
+      "description": "Today you’ll head out on a daytrip by ferry to the Aran Islands, which have been crafted by centuries of wild winds and smashing waves. The islands are one of the few places where the Irish language is still used in everyday life (a Gaeltacht). With a population of under 2000 people, the islands feel like a respite from real life. You’ll travel by minibus and on foot to explore the native flora and fauna and the ruins of a church and lighthouse. There are also some remains from Bronze and Iron Age fortresses to be found. If you're lucky, you may even spot a seal lounging on the rocky shore! Return to Galway for a free evening and more exploration (or a Guinness)."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Cliffs of Moher to Adare to Killarney.",
+      "description": "The Cliffs of Moher will leave you in awe with their views over the Irish coastline. Depending on the season, maybe walk to the edge and watch puffins nesting along the cliff face. Learn about the history of this famous site and its feathered inhabitants at the Cliffs Exhibition. Next, stop in the village of Adare, colloquially known as Ireland’s prettiest village, before arriving in Killarney. Locals affectionately refer to Kerry as ‘God’s Own County’ because of its natural beauty. Ask your leader for bar recommendations if you’d like to soak up more of the Irish pub culture tonight. Maybe try some classic pub fare like Irish stew, chowder and fish and chips, or a less familiar dish like coddle (potato and sausage stew), boxty (potato pancake) or champ (mashed potato and scallions)."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Ring of Kerry.",
+      "description": "This morning brings green hills and salty coastal air as you travel along the Iveragh Peninsula, better known as the Ring of Kerry. Along the way, you'll pass through bucolic villages with views across some of Ireland's greatest beaches, lakes and rivers. Make stops at numerous outlooks along the way for photos. After, visit a sheep farm to see a sheep herding demonstration, where skilled border collie dogs round up the sheep under the farmer’s command. Return to Killarney in the evening and rest before heading out for an optional dinner."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Killarney to Dublin.",
+      "description": "This morning, grab one last coffee in Killarney before boarding a train bound for Dublin. Once checked in, your local leader will show you around the town. The rest of the day is free for you to explore on your own. Maybe visit the St Patrick Cathedral founded in 1191, currently the national cathedral of the Church of Ireland or unwind with a pint and some lively conversation on the streets in The Creative Quarter. Tonight, perhaps get your group together and head out for dinner to celebrate a trip well-travelled."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Dublin.",
+      "description": "Say goodbye to your group over one last breakfast, before heading your separate ways. Your trip comes to an end this morning. For those who wish to stay in Dublin, just chat to your booking agent ahead of time to organise additional accommodation."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,55 @@
+{
+  "destination": "Rwanda",
+  "mainPhoto": "",
+  "id": "rwanda-uganda-holiday-with-added-comfort",
+  "tourName": "Rwanda & Uganda holiday, with added comfort",
+  "placesVisited": "",
+  "generalInfo": "Come face to face with heartbreaking history and incredible wildlife on a six-day Premium journey through Rwanda and Uganda. See sombre reminders of Kigali’s devastating past, watch local life play out on the streets and witness a beautiful country that's continuously striving to move forward. Enter the world of rare mountain gorillas in Uganda’s Bwindi Impenetrable Forest and spend a day tracking and observing these creatures, overlooked by a rare silverback gorilla. Stay in memorable accommodation, including your Feature Stay surrounded by forest canopy, and sit down for amazing Exclusive Experiences like a fireside chat a field veterinarian from The Gorilla Doctors.",
+  "durationDays": "6",
+  "price": "4800",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Kigali.",
+      "description": "Murakaza neza! Welcome to Kigali, Rwanda’s capital city. You’ll be met at the airport and transferred to your hotel, where you’ll have a welcome meeting at 6 pm tonight. Your accommodation for the next two nights is no ordinary hotel – the Hotel des Mille Collines is famous for sheltering and consequently saving more than 1000 people during the Rwandan genocide of 1994. If you arrive in Kigali early, maybe start exploring at your own pace. Head to Nyamirambo, the Muslim quarter, to try some giant grilled tilapia, or stop by a local cafe and discover why Rwandan coffee is considered some of the world’s best. Tonight, you’ll join your leader for dinner at an East African restaurant popular with the locals. Enjoy live music, cocktails, great views and an authentic shared dining experience full of regional flavour."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Kigali.",
+      "description": "This morning, head out of the city for a sobering visit to the Ntarama Church. The local guide will explain how this memorial marks the spot where 5000 people were tragically slaughtered during the genocide. Reminders of lives lost remain in the church, including clothes and even bones. Continue to the Nyamata Genocide Memorial Centre – a former church where an incomprehensible 50,000 people were murdered. Your leader will discuss how the Tutsis sought refuge in churches, only for them to turn into death traps. Then, visit the Genocide Museum – a powerful yet confronting experience and important in understanding the tragedy and the resilience of the Rwandan people. This afternoon, re-energize with a local lunch and try traditional Rwandan and Ugandan dishes before taking a tour of the city and Kimironko market with your leader. The evening is then free for you to explore at your own pace."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Bwindi Impenetrable Forest.",
+      "description": "After breakfast, depart Kigali and head across the border to the Bwindi National Park in Uganda. Arrive at the Gorilla Heights Lodge – your Feature Stay accommodation for the next three nights. Sitting high on the Nteko Ridge, the lodge offers great views of the Bwindi Impenetrable Forest, which is home to half of the world’s 800 mountain gorillas. Gaze out across the jagged Virunga Mountains that straddle Uganda's border with Congo and Rwanda. Each cottage has a private balcony overlooking the forest canopy and is solar-powered. This evening, a field veterinarian from the Gorilla Doctors will join you at your lodge for a behind-the-scenes look at their work. This organization is dedicated to saving the mountain and eastern lowland (Grauer's) gorilla species using veterinary medicine and science. They provide medical interventions to protect the animals from human-induced or life-threatening trauma or disease. You'll learn more about their fascinating work during this exclusive experience."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Bwindi Impenetrable Forest.",
+      "description": "Rise early and head to the park headquarters where you’ll be briefed on today's gorilla trek by the Uganda Wildlife Authorities. The trek can be strenuous, wet and uncomfortable at times but the incredible biodiversity of the Bwindi Impenetrable Forest and the chance to see rare mountain gorillas makes it worthwhile. It’s recommended that you invest in the help of local porters who can carry your pack and provide expert, local one-on-one assistance along the trek. Not only does it make for a more comfortable trek, but it also provides valuable employment opportunities to locals. Gorilla trekking is highly controlled. When you encounter a group of gorillas, you’ll be able to stay with them for one hour – watch them swing from trees, groom each other and play, all under the watchful eye of a giant silverback. Have a picnic lunch in the wilderness of the rainforest."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Bwindi Impenetrable Forest.",
+      "description": "Enjoy a leisurely breakfast on the terrace overlooking the forest. This morning, you are free to do as little or as much as you like. For those seeking another encounter with the mountain gorillas, there’s the option for a second day of trekking. Later this afternoon, experience The Buniga Batwa Cultural Trail. The indigenous Batwa tribes, once forest-dwelling hunter-gatherers, were displaced in 1991 when the forests became protected national parks, leaving them conservation refugees. The Buniga Batwa Cultural Trail offers a glimpse into their traditional way of life. With your local guide and translator, you’ll walk through the forest as they teach you how they used to forage for food, trap animals with snares made from branches, and make tools and medicines from nature. Watch as they demonstrate their traditional hunting and fire-making techniques and learn how they built their huts and ‘nests’ in trees to protect children from dangerous animals. Afterwards, join your group and leader for dinner in the terraced restaurant surrounded by mountain views."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Kigali.",
+      "description": "After breakfast today, depart the Bwindi Impenetrable Forest and begin the journey back over the border into Kigali. After arriving at the capital, your adventure will come to an end at around 1 pm."
+    }
+  ],
+  "map": ""
+}

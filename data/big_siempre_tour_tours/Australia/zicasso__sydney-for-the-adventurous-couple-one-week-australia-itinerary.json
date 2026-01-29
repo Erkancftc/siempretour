@@ -1,0 +1,60 @@
+{
+  "destination": "Australia",
+  "mainPhoto": "",
+  "id": "sydney-for-the-adventurous-couple-one-week-australia-itinerary",
+  "tourName": "Sydney for the Adventurous Couple: One-Week Australia Itinerary",
+  "placesVisited": "Sydney, Blue Mountains, Wollongong Beach, Hunter Valley, Manly",
+  "generalInfo": "This 7-day getaway for two is the perfect choice for your next vacation. Every experience is sure to ignite the passion between you and your significant other. Come dive into an Australian adventure that will capture your hearts and have you reminiscing for years. Indulge in a tour of the Sydney Opera House, marvel at the beauty of the Blue Mountains, snorkel with unique wildlife, and partake in a charming kayaking excursion on Sydney Harbour.",
+  "durationDays": "7",
+  "price": "2,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Sydney – Performance at the Sydney Opera House",
+      "description": "As soon as you arrive at Sydney’s international airport, your private driver will transfer you to your luxurious accommodation. After checking in, you will have some time to settle in and get dressed before your evening’s exciting event: a luxurious, VIP tour of the iconic Sydney Opera House. Upon arriving at the opera house, you will be lead on a private tour that will lead backstage to witness a behind-the-scenes view of all of the inner workings of the world-renowned theater. After your tour, you will delight in a five-star meal at the opera house’s signature restaurant before witnessing a live performance at the famed locale."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Sydney – Sightseeing Tour of Sydney & Dinner",
+      "description": "As Sydney will be your base of operations for the week, it will only be fitting to start your luxurious adventure by exploring the city of Sydney and all that it has to offer. Today will lead you on a private tour of Sydney’s iconic landmarks and locales, including Sydney Harbour, the Sydney Harbour Bridge, Luna Park, and more. After you have thoroughly explored Sydney and its surrounding areas, you will venture to your next adventure, which will be a romantic dinner cruise through Sydney Harbour. After spending the day on a sightseeing tour, you will have this time to relax and sip champagne while admiring the breathtaking scenery of the harbor."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Sydney – Hike and Picnic in the Blue Mountains",
+      "description": "Today’s adventures will lead you to the world-famous Blue Mountains, where you will enjoy an idyllic escape into nature. Your outdoor journey will begin with a private hike on one of the most beloved trails in the Blue Mountains National Park. On your way to the trailhead, you will stop by the iconic sites that are on every traveler’s must-see bucket list, which include the Three Sisters and Echo Point. Once you reach the trailhead, you will be led on a full day’s hike that will lead you among flora and fauna, cascading waterfalls, and forest scenery."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Sydney – Nature Walk, Snorkel, and Private Cooking Class",
+      "description": "Manly is the destination for today’s tour, and after taking the ferry to this idyllic enclave, you will begin your morning with a guided nature walk. Hugging the coastline the entire way, you will encounter stunning views throughout the entire excursion. After your hike, you will have some free time to stroll through Manly and window-shop among its lovely boutique stores and chic cafes. After lunch, you will embark on your afternoon activity, which will be several hours of snorkeling. Upon your return to Sydney, you will spend the night in the kitchen of a master chef, learning how to craft a gourmet dish."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Sydney – A Day of Kayaking and Skydiving",
+      "description": "As the day dawns, another outdoor adventure waits for you, but in the form of a kayaking excursion through Sydney Harbour. By waking up early, you will reach the Sydney docks early to meet your guide. Your guide will give you a basic course in safety and paddling before letting you glide through the waters of the harbor. Once your kayak adventure has come to an end, you will embark on the thrilling adventure of skydiving at Wollongong Beach. This is completely optional, and your guide can provide you with plenty of options that can substitute this experience if you do not desire to jump out of a functioning airplane."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Sydney – Hunter Valley Wine Tour",
+      "description": "Today will find you enjoying a luxurious day in the Hunter Valley, sampling some of the region’s finest vintages, exploring wineries and estates, and basking in each other’s company. Upon departing Sydney in the morning, you will be driven to the Hunter Valley, which is one of the most gorgeous areas in all of Australia. Upon your arrival in the Hunter Valley, you will be provided with a private tour of several of the region’s most respected wineries, where you will be given an intimate tour that provides you with an incredible glimpse into what goes into every bottle of wine that is produced onsite."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Sydney – Farewell to Australia",
+      "description": "Your final morning in Australia will surely find you feeling mixed emotions. This morning, you will be provided with one last romantic brunch that will be complete with mimosas. After finishing your meal, your private driver will deliver you to the airport to catch your flight home."
+    }
+  ],
+  "map": ""
+}

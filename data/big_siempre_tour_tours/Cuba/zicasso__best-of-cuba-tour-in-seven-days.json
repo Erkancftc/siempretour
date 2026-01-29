@@ -1,0 +1,60 @@
+{
+  "destination": "Cuba",
+  "mainPhoto": "",
+  "id": "best-of-cuba-tour-in-seven-days",
+  "tourName": "Best of Cuba Tour in Seven Days",
+  "placesVisited": "Havana, Vinales, Cienfuegos, Trinidad, Cayo Macho, Santa Clara",
+  "generalInfo": "Witness fine cigars rolled before your eyes and a majestic waterfall hidden in the Escambray Mountains during your 7-day Cuba tour immersing you in the island’s heart and soul. French architecture and Cuban heroes decorate Cienfuegos. The forest canopy protects radiant hummingbirds. Classic American cars add to the soundtrack of Havana. Cuba provides endless excitement and tangible splendor gathered into your week-long adventure filled with an endlessly uplifting spirit.",
+  "durationDays": "7",
+  "price": "3,800",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Havana – Brilliance of Havana Style",
+      "description": "Step off the plane at Jose Marti International Airport and meet your private transfer at customs to reach the heart of classic Havana. Pastel-colored buildings travel alongside the road reminding you of Cuba’s Caribbean setting. The University of Havana dates back to Dominican monks in the 18th century and stairs lead to the neoclassical 20th-century structures of the Vedado district. Once in your comfortable accommodations in the heart of Old Havana, you can settle into the colonial buildings and energetic music that fill the streets."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Vinales – The Secret Beauty of Vinales",
+      "description": "You will leave behind Havana’s charm in the morning with your private transfer traveling along the city’s seaside Malecon. Classic American cars cruise beside the seawall before the highway shifts to a country road and the spectacular view of Vinales Valley. Red soil will spread across the plain with intermittent limestone karsts rising out of the valley like mounds. You can travel along the paths meandering around the karsts’ basins and possibly find a farmer tilling his field with two gigantic oxen to pull an antique metal plow and giving you an insider’s look at how Cubans cultivate tobacco. Return to Havana for the evening."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Cienfuegos – Visiting History",
+      "description": "Locals roast homegrown coffee beans in the morning with the scent possibly lingering around Vinales’s main street. After a leisurely morning, you will leave Havana for Cienfuegos and views of the Atlantic Ocean. A very charming city, you can explore the El Nicho Waterfalls, take a tour of the Palacio de Valle or simply settle into your accommodations and enjoy the views. Sunsets in Cienfuegos can be very dramatic, so you will end your day positioned to celebrate the beauty of it all."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Trinidad – Tradition of Music",
+      "description": "In the morning, you can step out onto the streets of Cienfuegos to find turquoise water shining against the city’s white facades and the 18th-century Castillo de Jagua fortress standing guard against the bay. Your private transfer will take to the colonial town of Trinidad. The sounds of clopping horse hooves may echo down the cobblestones of the car-less city center beneath the pastel yellow bell tower of the former Convent of Saint Francisco de Asis. At the Casa de la Musica, you can hear musicians play traditional Cuban music celebrating their heritage and the city’s large Afro-Cuban culture."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Trinidad – A Look at Trinidad’s Borders",
+      "description": "Fragments of sugar mills will speckle Valle de los Ingenios outside of Trinidad. An antique steam train will travel between the city and the former valley harboring the wealth of sugar barons and Cuba’s natural beauty. In the Escambray Mountains, you can board a former Russian military vehicle to Codina National Park in search of Cuba’s national bird, blossoming orchids, and the 203-foot waterfall Salto del Caburni splashing into jade pools with cold, refreshing water."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Havana – Part of the Revolution",
+      "description": "When you arrive in Santa Clara, the spirit of the revolution remains tangible. The university encourages students to question authority, based on the ideals of Che Guevara. The local tobacco factory produces some of Cuba’s finest cigars, including Che Guevara’s favorite. Upon your return to Havana, you can embark on a tour led by a local architect. The powerful dome of the capitol will crown the cityscape. Cobblestone streets in Cathedral Square with Baroque and neoclassical facades will accentuate the city’s splendor. After your tour, your private dance instructor will show you the soul of Cuba by teaching you salsa."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Havana – Close Your Eyes and Remember",
+      "description": "At a glance, the grandeur of the Palacio de los Capitanes remains prominent as it borders the Plaza de Armas. The elegance of the palace, along with its history, has shaped the splendor of Havana’s culture. After breakfast, your private transfer will meet you at your accommodation. Soon you will return to Jose Marti International Airport to check-in for your flight, but you can take your time in the morning to enjoy one last stroll around the magnificent streets of Old Havana."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,50 @@
+{
+  "destination": "Tibet",
+  "mainPhoto": "",
+  "id": "lhasa-and-namtso-lake-tour-in-tibet",
+  "tourName": "Lhasa and Namtso Lake tour in Tibet",
+  "placesVisited": "",
+  "generalInfo": "Two days you will visit Lhasa city and you can see Namtso Lake, 180km Northwest of Lhasa, is one of the most beautiful places in the Nyenchen Tanglha mountain range. Namtso means \"Heavenly Lake\" In the Tibetan \"Nam\" means Sky and \"Tso\" means Lake. <br/><br/>Namtso Lake is at an elevation of 4,718 meters, covering an area of 1,940 square kilometers. Namtso Lake is the highest salty-lake in the world, and one of the 3 holy lakes of Tibet. It is also the second largest salt lake in China. The water here is a storybook crystal-clear blue. Clear skies join the surface of the lake in the distance, creating an integrated, scenic vista. Soul of every visitor who has ever been here seems to be cleansed by the pure lake water.",
+  "durationDays": "6",
+  "price": "980",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly to Lhasa airport and transfer to Lhasa (95 km - It takes approx. 2 hours to Lhasa through the Yerlung Tsangpo and the Lhasa Kyichu River). Overnight Hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Sightseeing in Lhasa (3650). Full day sightseeing tour of Lhasa visiting Potala palace, Jokhang Temple, Barkhor Bazzar, Norbulingkha, Sera and Derapung Monastery."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Lhasa to Namtso Lake (250km, 5 hours). In the morning, drive from Lhasa to Lake Namtso. On the way, you can see Nyenchen Thanglha (snow mountain ranges) and lots of nomads tent with grazing yak and sheep densely-populated around the mountain side. Namtso Lake is the Heavenly lake which is one of the four holy lakes of Tibet and also the highest salt lake. You can do a very relaxing trekking around the lake side and Tashi Island. To spend a night at lake shore is fantastic to see the stars. Overnight Guest house"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Namtso Lake back to Lhasa via Yampachen (230km, 5 hours). Enjoy the clear morning at the lake shore, you can trek along the lake shore to Tashi Dor Island to explore the meditation caves. Drive to Dumxung to have lunch. In the afternoon, you may enjoy Yangpachen hot spring (Optional) and have both indoor and outdoor swimming pool filled with hot springs water. Finally, drive back to Lhasa. Overnight Hotel."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Departure. Drive to Gongar airport, fly home."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,60 @@
+{
+  "destination": "Japan",
+  "mainPhoto": "",
+  "id": "best-of-tokyo-kyoto-tour-a-tale-of-two-capitals",
+  "tourName": "Best of Tokyo & Kyoto Tour: A Tale of Two Capitals",
+  "placesVisited": "Tokyo, Kyoto, Nara",
+  "generalInfo": "Your 7-day best of Japan tour captures the essence of city life along the famous streets of Tokyo and Kyoto. Follow specialist guides on custom-tailored tours that reveal opulent palaces and the intricate work of dedicated artisans. Enjoy the polished life of modernity, the traditional charms of the past, and a calming ambiance inspired by tradition while you discover Japan's timeless allure and majesty.",
+  "durationDays": "7",
+  "price": "4,600",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Tokyo – Arrive in Tokyo, Vibrant and Colorful Capital of Japan",
+      "description": "As your plane descends over the Tokyo metropolis, the brilliance of the city lights draws open your eyes. Your transfer will greet you at Narita Airport to take you to your luxury hotel located in the heart of the city. From Narita Airport, the trip into Tokyo proper takes you along the roads and railways that form the backbone of this timeless city. Once you settle into your luxurious hotel room, take some time to relax. You will want to be well rested for the captivating experiences that await you in the week ahead."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Tokyo – Explore Tokyo’s Fish Market, National Diet and Tokyo National Museum",
+      "description": "Rise early to peek into the Tsukiji Fish Market auction. Transport carts and trucks zip across the complex of warehouses. Potential buyers dig sample chunks from the massive fish and take meticulous notes. Afterward, you can enjoy a fresh sushi breakfast at an adjacent restaurant. Journey to the National Diet, where you will see the Emperor’s throne. Mostly bare of furniture, the walls and ceiling are elegantly embroidered with symbols of the Imperial family including the crest of the chrysanthemum and the Imperial phoenix. The Tokyo National Museum is the country’s oldest and richest repository of Asian art and artifacts. You can find Buddhist sutras and pictorial accounts about the Asuka and Nara periods of Japanese history in the Gallery of Horyuji Treasures."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Tokyo – Embrace Views from Tokyo Tower and on a Sumida River Cruise",
+      "description": "Today you'll discover the lattice structure and curving legs of Tokyo Tower. The main observatory deck features sections of see-through flooring and the special observatory has views of Mt. Fuji on a clear day. You will return to Earth with a stroll through Happo-en , the “Garden of Eight Views.” At the Imperial Palace, you can find the East Garden of inner grounds decorated with a stone foundation of an Edo-era castle tower. Afterward, you can take a cruise along the Sumida River and behold the marvels of engineering found in skyscrapers, suspension bridges, and even the river. In the spring, the cherry blossom trees drop white and pink petals on the water. In the evening, you'll discover the customs of worship at Senso-ji, the brilliant golden altar, and the five-story pagoda. Have your fate revealed to you from an o-mikuji , a scrolled-up fortune. It’s fairly common to leave less beloved fortunes at the temple."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Mt. Fuji – Visiting the Lakes, Towns, and Bathhouses of Mt. Fuji",
+      "description": "Travel to Mount Fuji in the morning to explore this powerful symbol of national identity. Upon arrival, you have a chance to wander the rugged terrain at an elevation of over 7,000 feet. At Hakone, you can enjoy Its onsen (hot springs), golf courses, wooded lakeshores, and views of Mount Fuji for the perfect immersion into the area. The peak of nearby Mount Komagatake is just a gondola ride away, and from here, you can see how Lake Ashi stretches through the valley below, finding inlets in the ridged hills that surround it. Before dinner, take a long soak in an outdoor onsen . The geothermally heated water is said to contain healing minerals and the backdrop of natural beauty is therapeutic. You'll spend the night in a ryokan , a traditional Japanese inn that offers the highest quality of Japanese service."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Nara – Transfer to Nara, Japan’s Former Capital",
+      "description": "Aboard the Shinkansen Bullet Train, the journey between cities is a morning commute. Kyoto is in many ways frozen in its imperial past. The historical neighborhoods are still filled with simple wooden buildings and cobblestone streets, rickshaws and red lanterns. Perhaps the most famous of these neighborhoods is the Gion District, home of the geisha and teahouses. Visit the Kyoto Imperial Palace to find the courtyard of uniform white gravel spread before the Imperial Throne. Walk to mighty Todaii-ji, a temple whose fame eclipses that of the city because of its revered Great Buddha statue. Sitting in the lotus position, the world’s largest bronze Buddha is 50-feet tall and fills much of his hangar-sized confines. Local deer line around the walking paths and aren’t shy around people. They’re happy to stay by your side for a photo as long you’ve got food."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Kyoto – Traverse Shogun Palaces and the “Golden Pavilion”",
+      "description": "The construction of Nijo Castle aligns with the dawn of the Edo Period in 1603, the same year Tokugawa Ieyasu claimed the shogunate and, thus, Japan itself. Nijo Castle was built with nightingale floors, designed to make chirping sounds under the weight of any would-be assassins. The floors still chirp as you tour the inner sanctum, and those with a keen eye may spot some of the acute shogun’s other construction tricks like secret passages, concealed closets for extra bodyguards, and concubine dormitories. In Kinkaku-ji, known as “the Golden Pavilion” you can find the entirety of the top two stories gilded with gold. The villa was built upon the shores of a large pond and on a sunny day, the reflection in the water shimmers. Continue to the temple of Higashi Hongan-ji to find an imposing wooden house of worship split off from the Nishi Honganji temple. After exploring the history, you can enjoy Kyoto's famous kimono and clothing along Shijo street."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Kyoto – Depart for Home",
+      "description": "Wake up to the golden sun slowly rising over the mountains and cityscape. In the morning, your private transfer will meet you at the hotel lobby, ready to take you to Osaka International Airport for your flight home. It’s farewell for now, but you could always extend your tour of Japan to see more of the hidden treasures of which you have only had a brief taste."
+    }
+  ],
+  "map": ""
+}

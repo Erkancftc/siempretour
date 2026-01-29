@@ -1,0 +1,40 @@
+{
+  "destination": "Thailand",
+  "mainPhoto": "",
+  "id": "andaman-holidays-community-tours-thailand",
+  "tourName": "Andaman holidays & community tours, Thailand",
+  "placesVisited": "",
+  "generalInfo": "Ban Talae Nok is a pleasant village situated near a beautiful stretch of undeveloped beach with a traditional way of life that remains mostly unchanged. After the 2004 tsunami the community members were interested in interacting with tourists in a culturally respectful way and a homestay program was developed.<br/><br/>Walking through this small village, you’ll notice women sitting together outside their houses shelling cashew nuts, weaving palm roofs, or making fishing nets while children play.  The lifestyle is relaxed and friendly, like one big family.<br/><br/>Activities can include livelihood and handicraft making, local fishing, snorkeling, and island trips.",
+  "durationDays": "3",
+  "price": "18100",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Start the tour in Kuraburi at Andaman Discoveries’ office for a pre-trip briefing and cultural orientation. Transfer, together with you bilingual Thai/English translator, to Ban Talae Nok village to meet your host family and be welcomed into their way of life. Take a walking tour of the community, enjoy a homemade Thai style lunch, and learn the art of Batik making. In the late afternoon head to the beach for a fishing demonstration and sunset barbeque. Spend the night in a homestay."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Take off in a longtail boat for a mangrove tour and out to the white sand beaches of the uninhabited Gam Islands for snorkeling and a picnic lunch with your hosts and translator. Return in the afternoon to make a Thai snack and relax on the beach. Have a personalized Thai cooking class and cultural exchange with your host family. Spend the night in a homestay."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Join in a handicraft workshop with the soap making group, visit the school and enjoy a last lunch with your homestay friends. Transfer back to Kuraburi."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,70 @@
+{
+  "destination": "India",
+  "mainPhoto": "",
+  "id": "golden-triangle-cultural-tour-india",
+  "tourName": "Golden Triangle cultural tour, India",
+  "placesVisited": "",
+  "generalInfo": "The Golden Triangle Cultural Tour, India with Kathmandu is one of the most popular and enriching travel circuits in South Asia, offering a perfect blend of history, architecture, culture, and spirituality across India and Nepal. This classic journey covers the three iconic cities of northern India—Delhi, Agra, and Jaipur—and extends to Kathmandu, the cultural and spiritual heart of Nepal.<br/>The Golden Triangle route showcases the grandeur of Mughal, Rajput, and British-era heritage, allowing travelers to experience centuries of history through magnificent forts, palaces, temples, and UNESCO World Heritage Sites. From the bustling streets of India’s capital to the timeless beauty of the Taj Mahal and the royal elegance of Rajasthan’s Pink City, the tour is a celebration of South Asia’s cultural richness.<br/><br/>The journey continues to Kathmandu Valley, home to ancient Hindu and Buddhist landmarks, medieval cities, and living traditions. Here, travelers explore sacred temples, monumental stupas, and historic Durbar Squares, offering a fascinating contrast and cultural extension to the Indian Golden Triangle.<br/><br/>This tour is ideal for travelers seeking a comprehensive cultural experience, combining architectural wonders, spiritual heritage, and vibrant local life across two remarkable countries.",
+  "durationDays": "9",
+  "price": "798",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Delhi, the capital of India. You will be greeted by our representative at the airport and transferred to your hotel. The rest of the day is free to relax after your journey. Overnight at the hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Delhi Sightseeing – Old & New Delhi. After breakfast, enjoy a guided tour of New Delhi, visiting Laxmi Narayan (Birla) Temple, India Gate, and Parliament House (drive past). In the afternoon, explore Old Delhi, including Jama Masjid, one of Asia’s largest mosques; the majestic Red Fort (UNESCO World Heritage Site); and Raj Ghat, the memorial of Mahatma Gandhi. In the evening, enjoy a sound and light show highlighting Delhi’s rich history. Overnight at the hotel."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Delhi – Agra (200 km | approx. 4 hrs). After breakfast, drive to Agra, the city of the Taj Mahal. Upon arrival, visit the world-famous Taj Mahal (UNESCO World Heritage Site), a symbol of eternal love. Continue to Agra Fort, an impressive red sandstone fortress that served as the seat of Mughal power. Check in to your hotel and relax. Overnight at the hotel in Agra."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Agra – Fatehpur Sikri – Jaipur (145 km | approx. 4 hrs). After breakfast, depart for Jaipur, stopping en route at Fatehpur Sikri, the abandoned Mughal capital built by Emperor Akbar. Explore highlights such as Buland Darwaza, Diwan-e-Khas, Panch Mahal, and the Tomb of Salim Chishti. Continue to Jaipur, the vibrant Pink City of Rajasthan. In the evening, enjoy a cultural dinner experience at Chokhi Dhani, a traditional Rajasthani village. Overnight at the hotel in Jaipur."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Jaipur Sightseeing. After breakfast, explore Jaipur’s royal heritage. Visit the magnificent Amber Fort, perched on a hilltop overlooking Maota Lake. Continue to the City Palace, Hawa Mahal (Palace of Winds), and the historic Jantar Mantar Observatory (UNESCO World Heritage Site). Overnight at the hotel in Jaipur."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Jaipur – Delhi (265 km | approx. 5 hrs) – Fly to Kathmandu. After breakfast, drive back to Delhi. Upon arrival, transfer to the international airport for your flight to Kathmandu, Nepal. On arrival, meet our representative and transfer to your hotel. Overnight at the hotel in Kathmandu."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Kathmandu and Bhaktapur Sightseeing. After breakfast, begin sightseeing in the Kathmandu Valley. Visit Pashupatinath Temple, Nepal’s most sacred Hindu temple, located on the banks of the Bagmati River. Continue to Boudhanath Stupa, one of the largest Buddhist stupas in the world. Later, drive to Bhaktapur, a beautifully preserved medieval city, and explore Bhaktapur Durbar Square, known for its exquisite temples and traditional architecture. Overnight at the hotel."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Kathmandu – Patan and Swayambhunath. After breakfast, enjoy a full-day cultural tour of Kathmandu Valley. Visit Kathmandu Durbar Square, including the Kumari Temple, home of the Living Goddess. Continue to Swayambhunath (Monkey Temple), offering panoramic views over the city. Later, explore Patan Durbar Square, famous for its Newari architecture, Krishna Mandir, and the Golden Temple. Overnight at the hotel."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Departure. Free time until your scheduled transfer to the airport for your onward journey, carrying unforgettable memories of India and Nepal’s cultural treasures."
+    }
+  ],
+  "map": ""
+}

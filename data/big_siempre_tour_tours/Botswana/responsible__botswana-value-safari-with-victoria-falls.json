@@ -1,0 +1,60 @@
+{
+  "destination": "Botswana",
+  "mainPhoto": "",
+  "id": "botswana-value-safari-with-victoria-falls",
+  "tourName": "Botswana value safari with Victoria Falls",
+  "placesVisited": "",
+  "generalInfo": "This trip is a fantastic way to experience Victoria Falls and Botswana’s most iconic safari destinations without the high price tag. You’ll begin on the banks of the Zambezi River, where the mighty Victoria Falls – the ‘Smoke that Thunders’ – provides an unforgettable backdrop. There’s time to soak up the atmosphere and enjoy activities such as sunset cruises or even a helicopter flight before crossing into Botswana.<br/><br/>Your adventure continues in Chobe National Park, famous for its vast herds of elephants and diverse wildlife. Here, game drives and river safaris give you the chance to spot lion, buffalo, hippo and prolific birdlife, all against the dramatic scenery of the Chobe River.<br/><br/>From Chobe, you’ll fly deep into the Okavango Delta, staying in a simple but comfortable bush camp set in one of Africa’s most remarkable ecosystems. With access to private concessions, you’ll enjoy a more exclusive experience, with expert guides leading you on walking safaris and peaceful mokoro canoe excursions through the waterways.<br/><br/>Accommodation throughout is intentionally unpretentious but full of character, with warm hospitality and knowledgeable guides at the heart of the experience. This is a journey for travellers who prioritise wildlife, wilderness and authenticity over luxury – a chance to enjoy some of Africa’s most spectacular landscapes and encounters at exceptional value.",
+  "durationDays": "11",
+  "price": "3799",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Time on the banks of the Zambezi - After arriving in Johannesburg, you’ll connect with your onward flight to Victoria Falls, touching down in the early afternoon. Here, a driver will be waiting to meet you and transfer you to Bayete Guest Lodge, a welcoming, family-run retreat set just a few minutes from the Falls. Surrounded by leafy gardens and offering a pool and activity desk, it’s an ideal base to combine relaxation with easy access to all the area’s adventures."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Exploring Victoria Falls - Soar above Victoria Falls on a breathtaking helicopter flight, the best way to grasp the sheer scale and drama of this natural wonder. Nicknamed the “Flight of Angels,” this thrilling experience offers unforgettable views and is often the highlight of a visit to Zimbabwe."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "The Old House, Kasane - Settle into The Old House in Kasane, your base for the next three nights and a great spot for a relaxed safari with a touch of town comfort. Right on the banks of the Chobe River, this characterful guesthouse offers both easy access to Chobe National Park and the convenience of nearby shops and restaurants. Your stay includes meals and three safari activities, from classic game drives to river cruises, with the flexibility to trade an unguided Victoria Falls day trip for extra time exploring the park. With its warm, friendly atmosphere and riverside setting, The Old House makes an inviting base for discovering Botswana’s wildlife and waterways."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Relax by the pool or spot more wildlife - At Khwai Guest House, your days are filled with immersive safari experiences that showcase the best of northern Botswana. Twice-daily activities take you into the Khwai Concession and Moremi Game Reserve, where game drives by day and night offer the chance to spot elephants, big cats and a wealth of other wildlife. For a quintessential delta experience, set out on a mokoro (dugout canoe) excursion, gliding quietly along the waterways, or opt for a guided bush walk to see the landscape from a new perspective. A visit to Khwai Village can also be arranged, offering a genuine glimpse into local culture and daily life in this remote community."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Explore on foot or by mokoro canoe - Set deep in the Okavango Delta, Oddballs’ Camp offers a wonderfully different safari experience. Here, you’ll explore on foot and by mokoro canoe, a peaceful contrast to the vehicle and boat safaris of Chobe. These slower-paced adventures allow you to notice the smaller details of the bush, from animal tracks to bird calls, while your expert guides share insights into traditional plant uses and how local communities live in harmony with the Delta’s remarkable wildlife."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Wildlife viewing and relaxation - Life at Oddballs’ is as much about relaxation as it is about adventure. After energetic mokoro excursions and walking safaris, there’s plenty of time to unwind back at camp. Swing in a hammock and take in the sweeping Delta views, settle into your tent with a good book, or treat yourself to a soothing massage. The team here are wonderfully warm and welcoming, adding to the charm of the camp and making your stay in this remote corner of the Okavango Delta feel genuinely special."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Time to travel home - You’ll have the opportunity for a final morning activity from the camp before breakfast, followed by a short flight from the local airstrip to Maun. From there, you’ll connect to Johannesburg, and after a brief layover, board your overnight British Airways flight to London Heathrow, arriving the following morning."
+    }
+  ],
+  "map": ""
+}

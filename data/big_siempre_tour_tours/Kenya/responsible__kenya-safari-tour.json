@@ -1,0 +1,65 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "kenya-safari-tour",
+  "tourName": "Kenya safari tour",
+  "placesVisited": "Nairobi, Lake Nakuru, Lake Naivasha, Loita Hills Maasai Village, Maasai Mara National Reserve",
+  "generalInfo": "Join us for a Kenya safari tour that takes you from a world famous national park, to little-known wilderness areas, to the country’s dynamic capital. After a day spent in Nairobi, perhaps visiting the National Museum of Kenya or the Karen Blixen Museum, you’ll head north through the dramatic scenery of the Great Rift Valley to Lake Nakuru National Park, where you’ll have a good chance to spot rhinos, as well as other members of the Big Five.<br/><br/>Next, it’s Lake Naivasha, one of the few freshwater lakes in the Great Rift Valley, and home to a large hippo population as well as diverse birdlife. Then you’ll move on to Loita Hills Maasai Village, the perfect place to learn more about Maasai culture – here you’ll visit a Maasai home and see how cattle are kept. <br/><br/>Your final stop is the iconic Maasai Mara National Reserve, the quintessential wildlife watching experience, with wide open plains, vast skies and some of the most incredible wildlife spectacles on earth. <br/><br/>",
+  "durationDays": "8",
+  "price": "1415",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Nairobi.",
+      "description": "Jambo! Welcome to Kenya. Your trip begins in Nairobi with a welcome meeting at 6 pm. If you arrive with time to spare, consider getting to know the city on an Urban Adventure like the ‘Nairobi Experience’. This optional 4-hour tour is a great way to get a feel for Nairobi and includes lunch at a local restaurant. After the meeting, maybe join your new travel companions for an optional group dinner and get to know each other better."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Lake Nakuru National Park.",
+      "description": "Drive north-west past splendid views of the Great Rift Valley, Lake Naivasha and Elementaita to Lake Nakuru National Park. Situated in the heart of the Great Rift Valley, Lake Nakuru National Park is a great location for spotting wildlife, which you’ll get a chance to do on an early morning game drive tomorrow. For now, head to a nearby village with your leader. This is a fantastic opportunity to interact with the local folk and get a feel for everyday life here. Take a cooking class and return later in the evening to share the results for dinner."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Lake Naivasha.",
+      "description": "Wake early for a light breakfast this morning and head into the Lake Nakuru National Park for a game drive in the overland vehicle. Lake Nakuru is home to rhinos, and there will be a good chance of spotting and photographing one of these magnificent beasts. Return to camp for lunch, then drive to Lake Naivasha. One of the few freshwater lakes in the Great Rift Valley, Lake Naivasha has floating islands of papyrus reeds and a border of flat-topped acacias. It's also home to a healthy population of hippos and a huge variety of birds."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Lake Naivasha.",
+      "description": "Today, you’ll head out for a boat trip across Lake Naivasha – the best way to take in the atmosphere of this lush area. With your experienced guide, look out for the numerous hippo that live here, as well as kingfishers, fish eagles, herons, giraffes, zebras and waterbucks. Set against a backdrop of the Eburru volcanic mountain range and lined by acacia trees, this lake is one of the most renowned in the area. After, you have a free day to choose from a variety of optional activities. Maybe opt for a trip to Hell's Gate National Park, which boasts beautiful cliffs, gorges, rock towers, volcanoes and a range of geothermal phenomena, or hire a bike for the day and make some of your own discoveries, venturing beyond the cacti and olive trees."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Loita Hills Maasai Village.",
+      "description": "Depart Lake Naivasha, making a short stop in Narok for food shopping. Continue to Loita Hills, home of the Maasai people, stopping for lunch on the way. You’ll be camping at Tepesua Village, which is known for championing Maasai women’s health and education. When you arrive, be welcomed by traditional Maasai warrior song and dance, then your host will explain the details of Maasai warrior training. Take a walk to the community village, founded to alleviate the poverty of Maasai widows, who traditionally are not allowed to inherit property. The village offers support, safety and economic growth through the Tepesua Widows Income Project. Spend the evening around a campfire and learn more about their age-old culture and traditions as you share stories with Maasai warriors into the night."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Maasai Mara National Reserve.",
+      "description": "Today, you’ll travel from Loita Hills to Maasai Mara. Most of the road there is tarmacked, but the final 5 km is dusty when dry and muddy when wet. The Maasai Mara, with its sparse open plains, dramatic skies and some of the world's most tremendous animals, is the quintessential African experience. After setting up camp, sit down for some lunch. Then, it's time to jump in 4WDs and go for a game drive through the wilderness of the Mara, looking out for all your wildlife favourites form the Lion King – think wildebeest, lions, leopards, cheetahs, buffalo, elephants and rhino."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Maasai Mara National Reserve.",
+      "description": "This morning, maybe take an optional balloon ride over the Mara at sunrise. If you’ve pre-booked this activity, you’ll be picked up before dawn and driven to the launch site for a safety briefing from your pilot. You’ll then glide through the skies, sometimes at tree height, for some amazing photo opportunities. After landing, you'll be treated to a bush breakfast before meeting up with the rest of the group. Today you’ll venture into the Maasai Mara National Reserve with expert local driver guides for a day-long 4WD game drive. You'll explore this diverse environment and most likely see a multitude of wildlife."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Nairobi.",
+      "description": "Say goodbye to the open expanses of the African bush and return to the bustling metropolis of Nairobi. When you arrive, you'll be dropped at a centrally located hotel and you’re free to leave at any time. If you would like to extend your stay in Nairobi, just speak to your booking agent ahead of time."
+    }
+  ],
+  "map": ""
+}

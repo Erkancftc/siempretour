@@ -1,0 +1,50 @@
+{
+  "destination": "Ethiopia",
+  "mainPhoto": "",
+  "id": "ethiopia-express-tour",
+  "tourName": "Ethiopia express tour",
+  "placesVisited": "",
+  "generalInfo": "In this combined tour, you will explore the rock-hewn churches of Lalibela and the otherworldly landscapes of the Danakil Depression on this 5-day tour and visit the most famous churches in Lalibela, including the famous Bet Giyorgis, and see the colorful Dallol geothermal site.",
+  "durationDays": "5",
+  "price": "1900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly to Lalibela & Visit the Rock Hewn Churches of Lalibela Arrive to Lalibela and take the airport transfer to the town and visit the rock-hewn churches. After you check in at your hotel, you will drive to sites where you’ll find a concentration of some of Ethiopia’s most famous rock-hewn churches, mostly referred to by many as “the living wonders of the world.” These churches have been here for at least 900 years and include an active Christian shrine, the spiritual center of the country’s religious life. Then, you will visit Northwestern Clusters of churches this group contains, Bet Medhane Alem, Bet Maryam, Bet Meskel, Bet Danagel, Bet Mikael, and Golgotha. After lunch, you’ll continue to visit the Southeastern Cluster of Lalibela churches —Bet Gabriel-Rafael, Bet Merkorios, Bet Amanual, and Bet Abba Libanos. Finally, you’ll visit the most famous of all the churches —Bet Giyorgis, a huge monolithic in the shape of a cross, constructed in honor of St. George, the patron saint of Ethiopia. You’ll stay overnight in Lalibela."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Fly Lalibela – Addis Ababa Morning visit Lalibela Churches and Fly back to Addis Ababa. Overnight: Addis Ababa"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Fly Addis Ababa to Semera Take a flight to Semera town of the Afar regional capital, pick from the airport with experienced drivers and excellent 4WD with AC along a team of experienced expert guides. Overnight: Camping"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Drive to Hamedela town At the morning we will pick you at the hotel and begin your journey with an excellent cook team, local guide and road leader from the tourism authorities, police escort , all camping gears ready to depart with you. Then head directly to Hamedela town of Dallol. Visit the Sunset at Lake Assale late in the afternoon. Overnight open air camping with clean beds, Mattress, pillows, clean bedsheets and a lot water for hydration 6 liters per person per day. Meals B.L.D"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Semera – Addis Ababa In the morning wake up with the sun and after breakfast drive to Afdera salt Lake Town. The major hub for salt production and distribution lying at -102m below sea level and the highest temperature feeling in the Danakil depression. Have lunch in town, a glimpse of the salt lake, a walk along the salt farms and after this we drive back to Semera. In the afternoon we drive back to Semera and take a late afternoon flight back to Addis."
+    }
+  ],
+  "map": ""
+}

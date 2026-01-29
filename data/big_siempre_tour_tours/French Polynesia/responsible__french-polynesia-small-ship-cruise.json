@@ -1,0 +1,65 @@
+{
+  "destination": "French Polynesia",
+  "mainPhoto": "",
+  "id": "french-polynesia-small-ship-cruise",
+  "tourName": "French Polynesia small ship cruise",
+  "placesVisited": "",
+  "generalInfo": "Discover the world-famous Society islands of French Polynesia by small ship. Bora Bora, Taha'a, Moorea, Huahine, Raiatea - islands sculpted by sky-piercing, moss-green peaks and lined with vivid turquoise lagoons. Island hopping allows you to see every landscape, from geometric ridges strung with waterfalls on the high islands to flat, desert-like atolls where lagoons far outsize the landmass. There are many sides to the Islands of Tahiti, yet they are all connected by Mana. Mana is a life force and spirit that surrounds us. You can see it. Touch it. Taste it. Feel it. And from the moment you arrive, you will understand why locals say the islands are embraced by Mana.<br/>Choose between a range of activities such as a Bora Bora Cultural Tour by 4x4 or an excursion to snorkel with sting rays and sharks and explore the lagoon of the island. Visit a pearl farm and a traditional vanilla plantation at the island of Taha'a. Swim and snorkel close to reef islets. Enjoy a guided tour at Unesco protected sites and kayak in Raiatea's beautiful Faaroa River. French Polynesia has it all so board your floating hotel and get ready for an exploration around the small paradise of Society Islands!",
+  "durationDays": "8",
+  "price": "3904",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Embark the motor yacht in Papeete Port between 2:30pm and 4:00pm. After a welcome briefing and safety drill, we will set sail for Moorea"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "MOOREA As we lay at anchor in Moorea, you will enjoy swimming, snorkelling and water sports from our swimming platform in her beautiful sapphire waters! A delicious lunch will boost your energy for your afternoon exploration of the island! Join us on an enchanting 3.5-hour island tour (included in the cruise fares), where your knowledgeable guide will regale you with captivating tales of Moorea's rich history, vibrant culture, and diverse ecology. Traverse through the lush Opunohu Valley, ascend the slopes of Mt. Tohi'e'a, and meander past the picturesque Cook's and Opunohu Bays. Along the way, indulge in a stop at the Moorea Fruit Juice Factory, where you can savour refreshing juices and liqueurs, crafted from locally sourced fruits, like star fruit, ginger, papaya, mango, coconut, and pineapple. After this delightful and included tour, relish in some free time to explore Moorea at your leisure before we set sail for our next destination, Raiatea island. Departure after dinner to Raiatea"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "RAIATEA Early in the morning we sail across the lagoon to reach nearby Raiatea, which translates to “faraway heaven” and “sky with soft light”. Originally known as Havai’i, Raiatea is considered the homeland of the ancient Polynesians. We will have a variety of optional activities to choose from, such as: Faaroa River and Motu beach break or visit the Anapa family Pearl farm*. Overnight in port. (docked or on anchor at times)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "TAHA’A Noon arrival in Taha'a, which shares a magnificent lagoon with Raiatea Island. As we lay at anchor in Taha’a, you will enjoy swimming, snorkelling and water sports from our swimming platform in her beautiful sapphire waters! The fertile island is covered with banana, watermelon and coconut groves. The island also acts as a vast natural greenhouse for the treasured Tahitian vanilla orchid. Optional visit of the island with a vanilla plantation , a rum distillery while enjoying some snorkelling. Or take a 4X4 safari tour around. Late night departure to Bora Bora."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "BORA BORA Without a doubt, Bora Bora reigns supreme as the crown jewel of the South Pacific, holding the spotlight as French Polynesia's undisputed star. Today, we've arranged for you to experience the essence of Bora Bora with a unique excursion aboard Le Truck, a vibrant journey lasting approximately 2.5 hours (included in the cruise fares). Climb aboard this colorful chariot as it guides you through Bora Bora's landscapes, passing coconut groves and quaint villages nestled along the shoreline. Immerse yourself in the rich tapestry of Tahitian history, traditions, and cultures as your knowledgeable guide narrates the 22-mile road encircling this legendary island. Explore the villages of Farepiti, Faanui, and Anau, each adorned with ancient \"Marae\" shrouded in mystery. And as your adventure unfolds, be captivated by the breath taking vistas from Matira Point, a vantage point offering unparalleled panoramas of paradise. Overnight in port."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "BORA BORA One mere day in Bora Bora simply doesn't suffice! Whether you choose to explore at your own pace or join us on one of our meticulously crafted optional Shore Excursions, seize the opportunity to create memories that will last a lifetime. Late night departure to Huahine."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "HUAHINE Huahine, once home to Tahitian royalty, is considered the cradle of Polynesian culture. The two islands maintain the largest concentration of ancient marae (temples) in French Polynesia, some of which are believed to date back to around 700 AD. Huahine is a colossal tropical jungle burgeoning with coconut plantations, vanilla orchids, banana groves, breadfruit trees and watermelon fields. Our optional half-day tour takes us around the island to visit the small villages of Maeva, an archaeological site, and a vanilla plantation, or visit a private motu for a picnic and snorkelling experience. Departure after lunch to Papeete. Overnight at sea."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "PAPEETE, TAHITI As the morning sun graces Papeete Port, we find ourselves at the end of our voyage. We invite you to join us for the final breakfast on board at 9AM before disembarkation. Our dedicated Concierge stands ready to assist with any final arrangements, ensuring your journey concludes seamlessly."
+    }
+  ],
+  "map": ""
+}

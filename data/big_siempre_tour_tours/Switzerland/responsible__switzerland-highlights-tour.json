@@ -1,0 +1,65 @@
+{
+  "destination": "Switzerland",
+  "mainPhoto": "",
+  "id": "switzerland-highlights-tour",
+  "tourName": "Switzerland highlights tour",
+  "placesVisited": "Zurich, St. Gallen, Lake Lucerne boat trip, Mount Pilatus, Lauterbrunnen, Bulle, La Gruyere cheese factory, Bulle, Swiss chocolate factory, Bern",
+  "generalInfo": "Between the cloud-scraping mountains, medieval towns and turquoise lakes, you’ll see the very best of Switzerland on this ten-day small group holiday. And not from afar, either. You’ll get the chance to catch a cogwheel train towards some of the highest peaks in Europe and sail across Lake Lucerne.\n<br/>\n<br/>\nThe towns pack in the medieval charm. You’ll browse the library at the Abbey of St Gall, peer up at the frescoed houses of Lucerne and cycle through Bern – possibly via a craft brewery or two. In fact, this being Switzerland, there’s a foodie theme throughout the trip. You’ll see how the Gruyere factories make their namesake cheese and you'll have free time to explore the Emmental valley on foot or bike. You’ll also swing by a chocolatier who’ll show you how Swiss artisans make the best chocolate in the world.\n<br/>\n<br/>\nIt’s a big old landscape to travel, but transport isn’t something you have to worry about. This small group holiday to Switzerland includes the train journeys and lake crossings, and tops things off with an expert guide.",
+  "durationDays": "8",
+  "price": "3305",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Zurich.",
+      "description": "Hoi! Welcome to Switzerland. Your adventure starts with a welcome meeting at 6 pm tonight in Zurich. If you arrive early maybe visit Grossmunster Church, stroll along the promenade of Lake Zurich or treat your sweet tooth with a tour and tasting at the Lindt Home of Chocolate Museum. After your meeting, join your local leader on an orientation walk. Later, maybe get to know your fellow travellers over dinner at a local restaurant."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Bern.",
+      "description": "Get a taste of the world-renowned Swiss rail system as you head to Bern – the capital city, built around a crook in the Aare River. On a walking tour with your leader, you’ll walk past medieval architecture preserved in the Altstadt (Old Town) and learn about the city’s history. Explore the area where Einstein lived and developed his Theory of Relativity at the start of the 20th century and stop to check out Parliament House. Then, visit the Zytglogge (Clock Tower) and examine the gears of the old clock, which dates back to the 15th century, with many original parts still in operation. Watch the perfectly timed figurines, then climb to the top for a panoramic view of Bern. In the evening, why not get some of your crew together to explore the local food and drink scene – from typical Swiss dishes to worldwide cuisine, this is a great place for dining."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Grindelwald.",
+      "description": "This morning, board a train to Grindelwald – a small village in Switzerland’s Bernese Alps known for its glacial gorges, waterfalls and limestone walls. When you arrive, join your local leader on an orientation walk to get your bearings around town. Then, the rest of the day is free for you to explore at your own pace. Tonight, maybe find a local restaurant for dinner – your local leader will have the best recommendations."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Grindelwald.",
+      "description": "Today is a free day. Maybe explore Gletscherschlucht (Glacier Canyon) or ride a cable car to Grindelwald First, where you can embark on the First Cliff Walk – an adrenaline-pumping walkway that clings to the side of the mountain. You might also like to ride the rails through the village of Kleine Scheidegg to board the train to Jungfrauroch (the Top of Europe) – home to the highest railway station in Europe."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Lucerne.",
+      "description": "After breakfast, take the train to Lucerne, stopping at Interlaken along the way. Interlaken is a traditional resort town in the mountainous Bernese Oberland region built on a narrow stretch of valley, between the emerald-colored waters of Lake Thun and Lake Brienz. From here, ride the Luzern-Interlaken Express to Lucerne – this train ride is incredibly scenic, so make sure to make the most of the passing landscapes! When you arrive, set off on an orientation walk with your leader, then the rest of the day is free. Maybe visit the Glacier Garden, wander through the Richard Wagner Museum or see Bourbaki Panorama. Tonight, maybe find a local restaurant for dinner and try some traditional dishes like zuppa di zucca (pumpkin soup) or chugelipastete (meat pie)."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Lucerne.",
+      "description": "Set out on a daytrip to Mount Rigi today. Take the train to Arth-Goldau, where you’ll board a cogwheel train to Rigi Kulm. When you arrive, set off on a short walk to the peak of Mount Rigi. After, go downhill to the local cheese cellar, where you’ll join a guided tour for a cheese tasting. Maybe pack a picnic lunch to enjoy while soaking in the panoramic views, before setting off on another walk to Itznau – a picturesque municipality on the shores of Lake Lucerne, nestled at the foot of the Rigi. Later this afternoon, take a boat back to Lucerne."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Zurich.",
+      "description": "Take the train back to Zurich this morning. When you arrive, join your local leader for an orientation walk, with a very important hot chocolate stop! You then have the rest of the day to explore – maybe wander through the Swiss National Museum, visit the Fraumunster Church or take a cable car to Uetilberg for panoramic views over the surrounding alps and lake. Tonight, maybe join your group for a farewell dinner – a great way to say goodbye to Switzerland."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Zurich.",
+      "description": "With no activities planned for today, you are free to leave any time after breakfast. That doesn’t mean your adventure has to come to an end! If you would like to spend more time in Zurich, please chat to your booking agent ahead of time."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,65 @@
+{
+  "destination": "China",
+  "mainPhoto": "",
+  "id": "china-highlights-tour",
+  "tourName": "China highlights tour",
+  "placesVisited": "Shanghai, Xitang, Xi'an, the Great Wall of China, Beijing",
+  "generalInfo": "Nine days in China will fit in a lifetime of memories and fascinating cultural encounters as this classic China highlights tour goes to prove.<br/><br/>Travelling by overnight sleeper train and high-speed train allows you to experience China highlights on tour from Shanghai to Beijing with the likes of Xi’an and the Great Wall of China providing just a couple of talking points in between.<br/><br/>You’ll do much more than scratch the surface of life in China during your time away with a whole host of culinary encounters and cultural traditions enabling this China highlights tour to truly shine.<br/>",
+  "durationDays": "8",
+  "price": "1355",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Shanghai.",
+      "description": "Ni Hao! Welcome to China. Your adventure begins in Shanghai with a welcome meeting at 4 pm. If you arrive early, there is much to see and do in this bustling city. Blending 21st-century architecture with old-world character, Shanghai pulses with the beat of new China. After your meeting, you’ll head out for a leader-led walking tour on the bund – the perfect spot to see the nighttime skyline light up when the sun descends. Tonight, why not get a taste of Shanghai’s eclectic food scene, grab your group and ask your leader for the best recommendations for dinner."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Wuxi/Shanghai.",
+      "description": "Get ready for your first bullet train experience this morning. A half-hour train ride will take you to Wuxi – once a prominent water town and now a booming city. Follow your leader on a walking tour through the Huishan Ancient Town Scenic Area and explore the cultural relics, historic sites and Xihui scenic area full of gorgeous gardens. Wander through the Huishan historic and cultural streets almost like travelling back in time. Take some epic snaps, learn about the traditional life here and then visit the Jichang Garden – one of the finest examples of traditional Chinese gardens, listed as a protected national heritage site in 1998. Head back to Shanghai in the afternoon. The evening is yours to enjoy at your own pace – why not grab a drink in one of the rooftop bars in Shanghai and look out over the bund."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Xi'an.",
+      "description": "Hop on the bullet train to Xi’an this morning – the capital of Shaanxi Province and the largest city in northwest China. Once the imperial centre and start of the Silk Road, Xi'an is now a vibrant, modern city dotted with many historical sites and a great place to explore. When you arrive, join your leader on a walking tour, passing the iconic Bell and Drum Towers – according to legend, the Bell Tower was built to restrain the pesky dragons that were causing devastating earthquakes. See the Muslim Quarter and wander past the shops, markets, and the Great Mosque. Sample some street snacks from local carts and see why this area is known for its food! For dinner tonight, maybe try some tantalising local specialties such as pao mo (lamb broth with flat bread), hand-pulled noodles and meat skewers."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Xi'an.",
+      "description": "Today, you’ll journey outside Xi’an and visit what is undoubtedly one of the man-made wonders of the world – the Terracotta Warriors. Learn about this incredible archaeological find, discovered after being buried for 2000 years, and take your time getting to know the 1000 warriors (each individually sculpted, with a different costume, height and facial expression). These clay statues depicting soldiers, horses and chariots were commissioned by the emperor Qin Shi Huangdi as part of his mausoleum after he ascended to the throne in 264 BC. Later, return to Xi’an and enjoy a free evening at leisure. Why not head to the Tang Paradise walking street near the Big Wild Goose Pagoda – this is an eclectic part of the city, full of light and sound and perfect for some local nightlife."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Great Wall.",
+      "description": "Today is a big day of travelling, so grab some snacks and a good book for the journey. You’ll transfer to the railway station,?then board the high-speed train to Beijing. Watch the landscape change from farmland and villages to industrialised cities and take the opportunity to get to know your fellow travellers along the way. When you arrive in Beijing, board a private vehicle and drive into the countryside, where you’ll spend the night in a family-run guesthouse right inside the scenic area near the Great Wall of China! Tonight it’s highly recommended that you go for a short hike to the Wall for an unforgettable sunset. You’ve made it to one of the Seven Wonders of the World!"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Beijing.",
+      "description": "Today is an exciting day as you’ll visit a section of the Great Wall of China – an ancient wonder of the world and this country’s iconic site. Spend some time exploring, take plenty of photos and learn the history of this mighty landmark. An incredible piece of engineering, the wall stretches 6000 km west of Beijing. It was initially constructed to protect Chinese empires from invaders from the north. Even though it failed, it's still one of the country's most remarkable achievements and an iconic destination. Hike along the top of the Wall for about 2 hours, along a section less visited by tourists and one of the most original section of the Wall - don't be surprised if you even feel you are the only ones on the Wall. Take in the scenery of the structure snaking through the hills almost endlessly into the distance. After, say goodbye to the epic site and head for Beijing – the capital and last stop of your trip."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Beijing.",
+      "description": "Make your way to the centre of Beijing this morning and explore Tiananmen Square – supposedly the largest downtown square in the world and the symbolic centre of Chinese power. Framed by the Gate of Heavenly Peace, Mao's Mausoleum and the Great Hall of the People, it's a place of pilgrimage for Chinese tourists who consider it to be the heart of their nation. It's from here that you'll enter the enormous Forbidden City, which was built more than 500 years ago and has been off-limits to commoners for almost all that time. You’ll explore the halls and courtyards and witness the grandeur of the Imperial Chinese court during the Ming and Qing dynasties. In the afternoon, enjoy some free time to explore on your own. Maybe check out the Temple of Heaven before getting together with your fellow travellers for a farewell dinner. There's no better way to celebrate the end of your journey than with a meal of Beijing duck (and maybe a drink or two)."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Beijing.",
+      "description": "As there are no activities planned today, your China adventure comes to an end. There's so much to see and do in Beijing, so if you’d like to stay an extra few days, just speak to your booking agent."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,50 @@
+{
+  "destination": "Chile",
+  "mainPhoto": "",
+  "id": "luxury-chile-holiday-14-days",
+  "tourName": "Luxury Chile holiday, 14 days",
+  "placesVisited": "",
+  "generalInfo": "This two-week itinerary reveals an unforgettable journey through some of Chile’s most superlative landscapes. From sparkling lagoons and snow-capped volcanoes to star-studded night skies, ancient forests and glacier-fed lakes, you’ll experience it all whilst staying at South America’s most spectacular hotels and lodges. <br/><br/>Begin in Santiago, immersing yourself in Chile’s culinary scene, before flying to the Atacama Desert, where surreal landscapes amaze at every turn. Continue south to the adventure capital of Pucon, where a plethora of activities like hiking, biking, horse-riding, water rafting, and kayaking are all on offer. Here, meaningful encounters with the Mapuche people, gain insight to their ancestral traditions and daily life. End your journey in Chile’s winelands with a stay at boutique winery, where time is spent exploring the vineyards, attending exclusive tastings, wandering the Andean foothills or simply relaxing in the hotel grounds. <br/><br/>Every detail of this experience has been seamlessly curated, with excursions, transfers and gourmet meals all included (excluding meals in Santiago). This trip can be tailored to your interests, so let us know your preferences.",
+  "durationDays": "14",
+  "price": "9178",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Santiago: Welcome to Chile’s capital Santiago. Upon arrival, settle into your luxury boutique hotel in the artistic Lasterria, a neighbourhood renowned for its bohemian charm. During your stay, let your expert local guide take you on a private culinary journey through Chilean gastronomy. Begin at Santiago’s vibrant seafood market and then continue with a hands-on cooking experience, where you’ll transform your freshly purchased seafood into some of Chile’ s most iconic seafood dishes. This is the perfect introduction to the country’s rich culinary heritage."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Atacama: Fly north and discover the driest desert on Earth: The Atacama Desert. Explore the breath-taking wilderness of the Atacama Desert with a stay at a luxury desert refuge, where every detail is taken care of. Each day choose from a menu of experiences, thoughtfully created to foster a genuine connection with the desert’s otherworldly landscapes. Hike across multicoloured mountain ranges, cycle through gorges, marvel at the high plateau lagoons or trace the footsteps of ancient indigenous civilisations on a cultural tour. Whatever you choose, we promise you the desert adventure of a lifetime."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Pucon: Say goodbye to Atacama and fly south to the serene beauty of Chile’s Lake District. Stay at an award-winning hacienda, framed by the Villarrica Volcano, ancient forest and the Liucura River. Choose from a multitude of daily excursions accompanied by experienced local guides. Whether it be hiking or cycling, white-water rafting, horse riding or fishing, discover the best of Chile’s Lake District. As well as adventure, cultural experiences offer a fascinating insight to the cultural and culinary heritage of the Mapuche people, Chile’s largest indigenous group."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Winelands: Return to Santiago, then transfer to Chile’s wine region for your final nights at a boutique winery. Enjoy vineyard tours, wine tasting, and options for hiking, biking, or horseback riding amid the Andes Mountains."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Santiago: Return to Santiago Airport for your international flight home."
+    }
+  ],
+  "map": ""
+}

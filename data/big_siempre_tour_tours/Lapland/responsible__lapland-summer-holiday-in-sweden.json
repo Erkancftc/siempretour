@@ -1,0 +1,45 @@
+{
+  "destination": "Lapland",
+  "mainPhoto": "",
+  "id": "lapland-summer-holiday-in-sweden",
+  "tourName": "Lapland summer holiday in Sweden",
+  "placesVisited": "",
+  "generalInfo": "Enjoy the very best of Swedish Lapland under the magical midnight sun on this new summer short break. Enjoy a night at -5°C at Sweden's incredible Icehotel 365 where each ice suite is a unique and magical work of art, fully carved from ice and snow. Take a scenic journey on the Arctic Circle Train to stunning Abisko National Park, famous the world over for being a top northern lights viewing destination and famous amongst Swedes for excellent summer hiking. Spend 2 nights exploring the diverse landscapes before heading to Kiruna which ends your trip on a high note with a relaxing and authentic Swedish sauna ritual.",
+  "durationDays": "6",
+  "price": "1275",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly from the UK to Kiruna, Sweden. Land and transfer to the ICEHOTEL 365 for a 2 night stay. The hotel is a real experience: enjoy a drink in the Ice Bar and sleep comfortably on the ice bed which is topped with mattresses, reindeer skins and a thermal sleeping bag."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Wake and enjoy a hot cup of lingonberry juice and why not enjoy the sauna and a shower before breakfast. Enjoy the remainder of the day free to book an optional activity such as fishing, rafting, ziplining, ice sculpting or maybe spend time with the husky puppies at a local kennel. This afternoon you will switch to a warm hotel room. (B)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Transfer to the railway station and take the train journey to Kiruna where you will change to the Arctic Circle train for the journey into Abisko National Park. Check into STF Abisko Tourist Station Hotel for a 2 night stay. Tonight enjoy your 3 course dinner at the hotel. (B/D)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Enjoy the day free to explore the national park and soak up the midnight sun. Choose from numerous hiking trails and enjoy the inclusive Abisko chair lift to enjoy great views and further hiking opportunities. (B)"
+    }
+  ],
+  "map": ""
+}

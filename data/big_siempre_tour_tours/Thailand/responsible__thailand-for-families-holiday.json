@@ -1,0 +1,95 @@
+{
+  "destination": "Thailand",
+  "mainPhoto": "",
+  "id": "thailand-for-families-holiday",
+  "tourName": "Thailand for families holiday",
+  "placesVisited": "",
+  "generalInfo": "Thailand is one of the most family-friendly holiday destinations in Southeast Asia, and this Thailand for Families itinerary covers the best that the south of the country has to offer. Beginning in Bangkok, you’ll get to discover the capital on a treasure hunt through some of its historical and cultural sights, adding an exciting twist to your exploration of the city. No visit would be complete without a boat ride on one of Bangkok’s canals (khlongs). In this itinerary you’ll discover the Thonburi khlongs, a section which offers a glimpse into the capital’s rapid development, where traditional teak houses rub shoulders with modern mansions.<br/><br/>From Bangkok you’ll travel overland to its southern beaches, passing through some of Thailand’s most spectacular scenery along the way. Stop at Petchaburi, which is home to the Wildlife Friends Foundation Thailand (WFFT) who do an excellent job at rescuing wild animals, providing sanctuary for sick or disabled animals and promoting natural resource conservation. You’ll visit the centre, learn about the work they do there and stay overnight in their ecolodge.<br/><br/>An overnight stop will also be made at Kuri Buri, home to a community village involved in the production of sustainable goods, as well one of the best national parks to spot wildlife in the country. You’ll also visit Chumphon and Ranong, where you can do some island hopping without the crowds, visit a community enterprise coffee plantation and kayak through a mangrove forest.<br/> <br/>Perhaps the highlight of this itinerary is the incredibly beautiful Khao Sok National Park and the Elephant Hills program which is based there. You’ll stay in luxury tented accommodation and enjoy a variety of activities on and around the lake area, including a visit to the elephant sanctuary, wildlife spotting, jungle trekking, and canoeing.<br/><br/>The itinerary ends at Khao Lak, a stunning area of white sand beaches and home to three national parks. Here you’ll join a fun cooking class and the rest of your time will be at leisure to relax on the beach or arrange day trips locally.",
+  "durationDays": "14",
+  "price": "3800",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "BANGKOK: On arrival at the airport in Bangkok, you’ll be met by your guide and transferred to your hotel in the city. Enjoy the remainder of the day at leisure."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "BANGKOK: Meet your guide for a fun morning of city discovery. Join other visitors on a treasure hunt where you will split into teams and head to historical sites and neighbourhoods to take part in missions, find clues and meet with friendly locals. In the afternoon you’ll be taken on a boat tour of the Thonburi khlong, an intricate network of canals in a residential part of the city. You’ll board at the Chao Phraya River and pass the iconic Wat Arun before heading into the narrower waterways. Pass by historical neighbourhoods with teak houses and see people relaxing on their porches overlooking the canals. Visit temples rarely visited by tourists and learn about the role they play in their communities. End at an orchid garden and fruit plantation before heading back to your hotel for an evening at leisure."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "PETCHABURI: This morning you’ll transfer south to Petchaburi, which is home to the Wildlife Friends Foundation Thailand (WFFT). Join the foundation’s wildlife program and learn about the work they do rescuing neglected wild animals, providing sanctuary for sick and disabled animals, educating people, and promoting conservation of natural resources. You’ll also get to visit their elephant refuge, where you can get up close to these magnificent creatures but in a way which is non-exploitative and cruelty-free."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "KURI BURI: Head further south this morning to Kuri Buri district, home to a community village where you’ll see and experience some of the sustainable activities which go on there, such as making paper from elephant dung, rubber tapping and silk making. After lunch at the village, you’ll head to Kuri Buri National Park to observe the wildlife living there. The park is home to species such as elephants, guars, deer and monkeys. After your visit, you’ll enjoy dinner at a local restaurant before heading to tonight’s accommodation."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "CHUMPHON: This morning you’ll travel onwards to Chumphon, a coastal town close to a large area of mangrove forests and islands, known as Chumphon Islands National Park. Stroll along the 1km wooden walkway, which passes through the mangroves, and then head to a viewpoint which offers stunning views of the town and natural scenery below. Continue to Hat Sai Ri beach and the shrine of Prince Chumphon, the founder of the modern Thai navy, before finishing the day with some kayaking through the mangrove forests."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "RANONG: Transfer onwards to Ranong province and stop by at Gong Valley, a community enterprise which produces chemical-free coffee using hand-roasting techniques that gives their coffee a distinctive flavour. Observe the coffee making process before heading to your accommodation in town."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "RANONG: Today you’ll spend your time hopping between tropical islands off Ranong’s coast. Enjoy sunbathing on sandy beaches and swimming or snorkelling in the pristine waters surrounding the islands. You’ll also have an opportunity to hike to a viewpoint above a beautiful half-moon shaped beach. Spend the evening back in town where you can head to the Walking Street and browse the goods being sold there."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "KHAO SOK: Journey on to Khao Sok National Park and arrive at Elephant Hills, which runs two luxury tented camps and an elephant sanctuary. Your first activity while here will be a visit to the elephants, where you can watch them being washed, feed them, and watch them play in their natural surroundings. After this, you’ll get to enjoy a canoe safari on the national park’s lake, passing through some of the most incredible scenery in Thailand. This evening’s accommodation will be at the Elephant Camp, where you can watch a movie presentation about Elephant Hills, enjoy dance performances and watch a cooking demonstration."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "KHAO SOK: Today’s activities begin with a trip to a local market, where you’ll get a glimpse into rural life in the area. After this, head back to the lake for a boat trip where you can try to spot more wildlife on the shores. Arrive at the floating Rainforest Camp, your accommodation for this evening, and enjoy lunch here. In the afternoon you’ll trek into the forest to try and spot wildlife and learn more about the rainforest. This evening you can kick back and relax, taking in the wonderful scenery from your floating porch."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "KHAO LAK: The final leg of your journey through Southern Thailand will take you to Khao Lak, a stunning coastal area of white sand beaches which is also home to three national parks. Arrive at your beach resort in the afternoon and enjoy the remainder of the day at leisure."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "KHAO LAK: Today you will be free at leisure to relax on the beach at your resort or arrange a daytrip locally. The nearby coral reefs of the Similan and Surin Islands are well worth exploring."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "KHAO LAK: This morning you’ll join a fun cooking class in the local town. First head to the market, where you can select your ingredients for the meal, and then on to the cookery school where the chef will guide through how to cook a couple of dishes using classic Thai techniques. After all your hard work, sit down to enjoy your dishes for lunch. The afternoon will be at leisure to continue exploring the local area or relax on the beach at your resort."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "KHAO LAK: Enjoy the day at leisure. You can choose to arrange more activities locally with your resort or simply kick back and relax on your final full day in Thailand."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "KHAO LAK: Meet your driver and transfer to Phuket Airport for your onward international flight."
+    }
+  ],
+  "map": ""
+}

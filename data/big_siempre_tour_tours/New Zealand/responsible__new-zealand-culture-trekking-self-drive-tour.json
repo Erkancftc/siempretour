@@ -1,0 +1,70 @@
+{
+  "destination": "New Zealand",
+  "mainPhoto": "",
+  "id": "new-zealand-culture-trekking-self-drive-tour",
+  "tourName": "New Zealand culture & trekking self drive tour",
+  "placesVisited": "",
+  "generalInfo": "Explore a variety of landscapes and natural wonders of the North Island on this hiking adventure short tour. This 9-day self-drive tour of starts and finishes in Auckland. Begin with the idyllic Coromandel Peninsula with its white sandy beaches and lush forests.  You then tackle one of the world’s greatest one day hikes, the Tongariro Alpine Crossing, with an experience guide. Located in the striking volcanic plateau of Tongariro National Park, a world heritage area of outstanding beauty.  You’ll also have time to discover the unique Maori culture in Rotorua and the fascinating limestone caves and glow worms of Waitomo, and enjoy a guided forest wilderness walking tour in the Coromandel.<br/><br/>Highlights:<br/>Tongariro Alpine Crossing with an expert guide <br/>Hot pools of Rotorua, the geothermal region of the north island<br/>Waitomo Glow Worm Caves Tour, over 30-million-years old!<br/>Bay of Plenty region stopping at idyllic sandy beaches in the Coromandel Peninsula<br/>Wilderness Adventure Walking Tour of pristine forests in the Coromandel<br/><br/>For those wanting more a challenging trekking adventure, there’s an option for an extended 4-night hike around Mount Tongariro and Mount Ngauruhoe volcanoes camping in tramping huts around the volcanoes. The Tongariro Northern Circuit winds its way around “Mount Doom” and passes through unique and stunning ‘Mars-like’ moonscapes, including active volcanic craters, brilliant blue lakes, and glacial valleys.",
+  "durationDays": "9",
+  "price": "1475",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Welcome to Auckland! Meet your private driver who will give you an information pack including maps and driving instructions, then take you to your city hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Your rental car is delivered to you today, then travel south-east along the scenic route of the Bay of Plenty before reaching the idyllic Coromandel Peninsula where you will stay for the next 2 nights."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Coromandel Wilderness Adventure Tour with Kiwi Dundee! Explore pristine rainforest with an experienced guide so you can earn about the history and flora and fauna, and enjoy the region to the fullest. This tour is a moderately challenging walk over some uneven surfaces."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Travel along the Bay of Plenty before turning inland towards the lakes of Rotorua, one of the world’s most active volcanic regions famous for its natural hot springs, boiling mud pools and steaming geysers."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Spend the day in Rotorua relaxing in one of the many hot pools. Then enjoy an evening at Mitai Maori Village, to give you an awe-inspiring introduction to the indigenous Maori culture."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Drive from Rotorua to Tongariro National Park passing the immense crater lake, Lake Taupo. We recommend the Huka Jetboat here to see the thundering falls. Stay in National Park, the base for your adventure climb tomorrow."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Today you'll experience one of the greatest one-day walks in the world with an expert guide - The Tongariro Alpine Crossing, an 8 hour climb over Tongariro volcano, overlooked by Mount Ngauruhoe volcano, aka Lord of the Rings “Mount Doom.” (For real intrepid adventurer there’s an option for an extended ‘Northern Circuit’ 4- night hike around the volcano camping in tramping huts)."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Journey north through the King Country to the limestone caves of Waitomo. Explore a 30-million-year-old limestone cave network travelling deep underground to see stalactites and stalagmites and glow worms."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Depart Auckland today, returning your vehicle to the airport before your flight home! Alternatively continue your holiday in New Zealand and see the South Island with one of our many tours..."
+    }
+  ],
+  "map": ""
+}

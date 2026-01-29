@@ -1,0 +1,70 @@
+{
+  "destination": "Kyrgyzstan",
+  "mainPhoto": "",
+  "id": "kyrgyzstan-small-group-holidays",
+  "tourName": "Kyrgyzstan small group holidays",
+  "placesVisited": "",
+  "generalInfo": "Experience three of Kyrgyzstan’s most beautiful alpine lakes: Stay in yurts on the shores of the majestic sea-like Issyk-Kul watching the local eagle hunters; earn a view of Chatyr-Kol after hiking/riding to a high pass deep in the Tian Shan Mountains along the ancient Silk Road; ride horses alongside nomad herders in the tranquillity Son-Kol, situated in the heart of the country surrounded by a gentle crown of mountains and grazing livestock in the summer months. <br/><br/>Highlights include:<br/>Stay in yurts with local nomadic families<br/>Travel to pristine alpine lakes<br/>Day-hike in the Tian Shan Mountains<br/>Ride horses &amp; watch eagle hunting",
+  "durationDays": "9",
+  "price": "1999",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Your adventure starts in Bishkek. We take a tour of the ‘White City’ – so called because many of the government buildings in Soviet times were built from the beautiful locally mined white marble. We will learn about the history of the country with our local tour guide and have dinner in one of the most well-known tea houses in the city with traditional live music and dancing."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Day hike in Ala Archa National Park. A short drive out of town we will stretch our legs with a day-hike (approx 5 hrs steady walking including stop for packed lunch and other short breaks) in Ala Archa National Park. We have a favourite route to a waterfall, taking in in the beautiful alpine air and views of the mountains and rivers. We return to the city for dinner and to relax before heading out on our adventure in the morning."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Drive to Lake Issyk-Kul; visit Skazka Canyon & eagle hunting. We drive a few hours to the southern shore of Issyk-Kul but stop en route to visit a local mosque and Burana Tour. Before reaching our yurt camp near the shores of the glistening lake – so large its turquoise waters often look like the Mediterranean, we are treated to an exciting eagle hunting demonstration. Time and energy permitting, we will also explore the interesting rock formations of Skazka Canyon."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Drive to Tashrabat Caravansari yurt camp. We drive south down alongside the rising snow-capped Tian Shan Mountains to the ancient Caravanserai of Tashrabat which lies on the ancient Silk Road only two days travel from the Chinese border. We will stay in the yurt camp and explore the Caravanserai itself where traders throughout history would have holed up to protect themselves from bandits or bad weather on this lucrative but perilous trade route."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Hike/horse ride up to pass with views of Chatyr-Kol Lake. A mix of riding and walking is the perfect way for us to travel up the winding valley trails up to the top of a high pass (4000m) where (weather permitting) we will have an incredible view of Chatyr-Kol Lake. It is a there & back route and we have all day so there is no rush! We recommend riding the flatter sections to the base of the climb (14km total) and then hiking to the pass (8km total with 950m ascent). This day trip is optional – if you would rather, you can just stay and explore the foothills around the Caravanserai but the views are absolutely worth it."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Drive to Song-Kul Lake yurt camp. We will take the winding road up into the very centre of Kyrgyzstan’s hidden plateau to the majestic Song-Kul Lake; probably the most picturesque lake in the country. It is a popular ground for nomadic shepherds who bring their flocks here in the summer months. We will stay in a beautiful yurt camp on the southern shore with the family who run it, play with the innumerable children, and sample the delicious local cuisine."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Hiking and/or horse-riding around Song-Kul Lake. Today we have a whole day of leisure in these beautiful surroundings. We can hike, horse ride or do nothing! It is an amazing place just to spend time under a never-ending sky viewing incredible sunrises and sunsets, not to mention impeccable views of the Milky Way in clear skies. Spend time with the local people in ours and other yurt camps dotted along the shores. Walks to see petroglyphs (approx 6.5km round trip) an option."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Drive back to Bishkek. We will drive back to the capital for out last group dinner in the city and to celebrate our adventure in this unique and beautiful country."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Fly out from Bishkek."
+    }
+  ],
+  "map": ""
+}

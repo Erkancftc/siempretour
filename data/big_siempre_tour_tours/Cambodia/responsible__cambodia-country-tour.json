@@ -1,0 +1,100 @@
+{
+  "destination": "Cambodia",
+  "mainPhoto": "",
+  "id": "cambodia-country-tour",
+  "tourName": "Cambodia country tour",
+  "placesVisited": "",
+  "generalInfo": "Arriving in to Phnom Penh, you will be met by your guide for transfer to your hotel. You have the majority of your first day to relax after your long-haul flights. This evening you will explore the cities waterfront on a sunset cycle tour. Your first full day is spent understanding Phnom Penh's modern history on a walking tour with your guide, from the Khmer Rouge memorials to striking architecture of the French Colonial legacy. The following morning, slow the pace a little to enjoy a traditional Khmer picnic on the banks of the river outside of the city. You guide will help you choose your food from the local street food stalls.<br/><br/>Travelling northwest via Tonle Sap Lake, your next stop is the peaceful second capital, Battambang, where you will spend your next two days exploring at your own pace. On from Battambang, you arrive in to Siem Reap with time to unwind for a few hours before you head out for a spectacular evening at the impressive local circus! Your first full day in Siem Reap is dedicated to discovering the famously imposing temples of the Khmer empire, before venturing further in to the countryside to visit Ta Prohm, Beng Melea and Banteay Srei. <br/><br/>The adventure truly begins today as you travel in to Kulen National Park in search of uncharted temple ruins and stunning waterfalls. Tonight you will camp in a luxury safari tent, with a view over the scenic plains below. <br/><br/>Travelling up to the North of the country, you will visit Dangrek Mountain range and Preah Vihear temple, set high in the mountains at 500 meters. After an early start, journey down the plains to Preah Khan, the ruins of a huge yet little known temple. Tonight you will sleep in your safari tent again before heading back to the Capital in the morning, stopping along the way to admire Sambor Prei Kuk temple complex. Spend a night in luxury ahead of your flights home.",
+  "durationDays": "15",
+  "price": "8450",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Today you begin your journey by boarding your international outbound flight to Phnom Penh."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Upon arrival in Phnom Penh you will be collected by a representative and taken to your hotel. This evening you will enjoy a sunset cyclo tour along Phnom Penh's waterfront."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "This morning you have a tour of the modern aspects of the city. This includes the Khmer Rouge memorials which give a stark but fascinating insight into Cambodia's recent history. The afternoon is spent exploring the city through its architectural history, including the French Colonial legacy and the New Khmer Architecture of the 50s and 60s."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "This morning you get to enjoy a traditional Khmer pastime - eating picnics! Your guide will take you to a popular picnic spot outside of the city, on the banks of the river and you will enjoy this simple pastime in Khmer style. The guide will help you select food from the local vendors."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "You head out of the capital today, travelling northwest to Battambang, the sleepy second city of Cambodia. You stop en route at Kompong Chhnang, on the banks of the Tonle Sap Lake."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Spend the day exploring the charming town of Battambang."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "You continue on to Siem Reap by road today and on arrival check in to your hotel. You are then free to relax for a few hours before heading out in the evening to witness Cambodia's version of the Cirque Du Soleil. A fantastic local initiative this is not to be missed!"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Today you discover the magnificent temples that stood at the heart of the Khmer Empire and still remain an impressive and awe inspiring testament to the power and ingenuity of the Khmer people."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "A very early start for what will likely be a highlight of your trip. Experience the magical atmosphere of Ta Prohm temple as it emerges from the pre dawn mists! After breakfast you then head out into the countryside to explore the sleeping giant that is Beng Melea, followed by the small and exquisitely carved Banteay Srei. While in the area you can stop in at the excellent Landmine Museum."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "The adventure steps up a level today as you are driven into Kulen National Park, from where independence was declared from the Cham people in the 9th century. Spend the afternoon walking through the jungle and visiting uncharted temple ruins. You camp for the evening in a clearing at the top of the plateau overlooking the park and plains below."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Today you are driven up into the far north of the country, still a Khmer Rouge stronghold in the 90s, and take the incredibly steep road up into the Dangrek Mountain range. You reach Preah Vihear temple, sitting atop a 500 metre high promontory and spend the afternoon exploring. You return down the mountain to a local guest house for the night."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Rise early to make the most of the early morning tranquillity before other tourists arrive and then you will head down to the plains to Preah Khan, a little visited giant of Khmer temples. Camp overnight again in the grounds of the temple."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "You will head back to the capital today, taking in the early Khmer period temple complex at Sambor Prei Kuk en route. Check in to the wonderful Raffles for some well earned R&R at the end of the day."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Day at leisure: we suggest you spend the day further exploring the city or simply relax before your flight home. This evening you will be collected from your hotel and taken to the airport in time for your onward flight."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Arrive home today to complete your journey."
+    }
+  ],
+  "map": ""
+}

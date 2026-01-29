@@ -1,0 +1,75 @@
+{
+  "destination": "Eritrea",
+  "mainPhoto": "",
+  "id": "eritrea-tour",
+  "tourName": "Eritrea tour",
+  "placesVisited": "Asmara, Keren, Massawa, Decamhare, Adikeyih, Qohaito, Senafe",
+  "generalInfo": "Join a small group of fellow adventurers on this 11 day Eritrea tour to discover the country’s varied landscapes, bustling towns and historic sites, from the ancient kingdom of Aksum to the remnants of Turkish and Italian rule. <br/><br/>You’ll start your journey in the capital, Asmara, a dynamic city full of pavement cafes and elegant Art Deco architecture dating to the Italian colonial period. Moving north past highlands and coffee plantations you’ll head to Keren, a solid agricultural town, which hosts a popular weekly livestock and camel market. Next, you’ll drive through the country’s last remaining tropical forest to the coastal city of Massawa, visiting the ancient port of Adulis along the way. In Massawa, there’ll be time to wander the narrow streets, past the many white Turkish, Egyptian and Italian buildings and perhaps sample some of the local seafood.<br/><br/>Moving on you’ll visit Decamhare, a favourite destination for the Italian settlers, before heading to the ancient archaeological site of Quohaito, which, according to legend, was built during the time of the Queen Sheba, around 750 BC. Here you’ll see plenty of fascinating historical relics including buildings from the Axumite period.<br/>",
+  "durationDays": "10",
+  "price": "3550",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival in Asmara - Arrive in Asmara and transfer from the airport to your hotel. Overnight Sunshine Hotel or similar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Asmara - Explore beautiful Asmara on a city tour to see many examples of Art Deco architecture dating from the Italian period, and enjoy the perfect year-round climate by taking a cappuccino at one of the many outdoor cafes. Some of the other key places of interest we will see will be the Catholic Cathedral, the Coptic Orthodox Church, the Grand Mosque, the Recycling Market, the tank cemetery, the local food markets and the National museum. Overnight Sunshine Hotel or similar. (BLD) Please note that depending on arrival times of clients some of the city tour may also be done on Day 1."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Keren (approx. driving times 3 hours which includes stops, and depends on traffic and local conditions) - Today we leave the capital and head north through the highlands past steep terraces of coffee and orange groves to Keren, set on a plateau at 1392m surrounded by dusty ochre mountains. One of the country's most attractive towns, Keren is also the heart of Eritrea's agricultural community. Visits include Keren’s popular markets, including one for livestock and camels, which attracts traders from a wide area. Overnight Sarina Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Keren - Today we will continue with tour of Keren focusing on the historical and architectural areas of the town. We will visit Mariam Da’arit a statue of Mary inside a baobab tree, The British and Italian cemeteries from Second World War and the architectural buildings that shows the creativity and beauty of the Italian era. Overnight Sarina hotel or similar (BLD)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Massawa (approx. driving times 4.5 hours which includes stops, and depends on traffic and local conditions) - We continue from Keren to the Red Sea Coast and the city of Massawa. Overnight Grand Dahlak Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Massawa /Excursion to Adulis and the Gulf of Zula - Visit the ancient port of Adulis- one of the ancient ports once numbering among the greatest ports of the ancient world with links to the Roman, Egyptian and Greek Empires. From there continue to the Gulf of Zula - a deep cleft in Eritrea's coastline which is the birthplace of the Great Rift Valley on the African continent. Return to Massawa at noon. Spend the rest of the day exploring Massawa. Stroll among the many white Turkish, Egyptian and Italian buildings and through the maze of narrow alleyways to soak up the atmosphere and maybe sample some of the mouth-watering seafood available. Overnight Grand Dahlak Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Asmara (approx. driving times 3 hours which includes stops, and depends on traffic and local conditions) - Return to Asmara, with more time to explore the capital upon arrival. Overnight Sunshine Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Decamhare – Senafe - Adikeyih (approx. driving times 4 hours which includes stops, and depends on traffic and local conditions) - Travel to Decamhare, a charming town once called secondo Roma (Second Rome) designed to be the transport hub of the Italian Empire in the Horn of Africa. It was once a favourite settlement of the Italians and contains some good examples of old colonial architecture. The town was built by the Italians, planned to be the industrial capital of Eritrea. It was a favourite settlement of the Italians by all account and was a beautiful town. We will continue further north to a town called Senafe, close to the border and we have a chance to visit the second largest mountain in Eritrea. Then continue to Adikeyih passing by the beautiful sycamore valley and stay overnight there. Overnight Central hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Adikeyih – Qohaito – Asmara (approx. driving times 3 hours which includes stops, and depends on traffic and local conditions) - Quohaito is the archaeological and historical site located about 20km from Adikeyih. It is 2600 meters above sea level and 121Km south of Asmara. As legends say, it was built during the time of Queen Sheba, approximately 750BC. The historical relics include an engraved stele 4-5 meters high and buildings of Axumite period and many cave writing and tombs. We return to Asmara for an overnight stay. Overnight Sunshine hotel or similar (BLD)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Departure from Asmara - Time at leisure to explore further until your transfer to the airport for your onward flight. (B)"
+    }
+  ],
+  "map": ""
+}

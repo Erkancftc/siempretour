@@ -1,0 +1,55 @@
+{
+  "destination": "Jordan",
+  "mainPhoto": "",
+  "id": "jordan-adventure-tour",
+  "tourName": "Jordan adventure tour",
+  "placesVisited": "",
+  "generalInfo": "Wet canyoning, hiking, swimming, and climbing through Wadi Mujib<br/>Enter Petra through the back door<br/>Explore the breathtaking desert of Wadi Rum<br/>Explore vibrant coral reefs and observe an impressive variety of tropical marine life of the Red Sea<br/>Float in the Dead Sea",
+  "durationDays": "6",
+  "price": "995",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival at Airport - Amman: Arrive and make your way to your hotel in Amman. Amman is one of the oldest cities in the world, inhabited since the bronze age. The city is growing into a modern city, but retains its character and history. Depending on your flight arrival time, you may have free time to explore on your own. Overnight in Amman."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Wadi Mujib: Today we start the adventure with the magnificent Wadi Mujib wet adventure hike. Soak in the beautiful views of the Dead Sea on the way, and get ready for a self-guided hike on the Siq (Valley) Trail. Enjoy a couple of hours of hiking, swimming, climbing, and more through the stunning gorge of sandstone cliffs - a natural gem! The course of the gorge will take you to a beautiful waterfall before turning back towards the visitor's center. Upon drying off, we will head to Little Petra to get a preview of the site the next day! The site, also known as Siq al-Barid (the Cold Canyon), is believed to be a ‘suburb’ of Petra, and was probably meant to house traders traveling along the Silk Road. Meals included: Breakfast, Lunch, Dinner Overnight: Bedouin Camp at Little Petra"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Hike from Little Petra to Petra: Today, we will enter the World Wonder and ancient-rose-city of Petra ‘via the Back Door’, avoiding most other tourists. Amidst high sandstone mountains, a Nabataean route leads us out of the valley, and skirts around the final mountain on a natural rock terrace before reaching a hidden plateau high where the ‘the Monastery’ suddenly comes into view. Many that go to Petra say the Monastery is their favorite site in Petra due to its enormous size, lack of other tourists, and better photo opportunities. There also is a Bedouin café for refreshments nearby. Then, more Nabataean steps will lead us down into the main site. We’ll make our way through a colonnaded street, past rock cut tombs, temples, and a Roman style theater, to finally arrive at Petra’s probably most famous building - the Treasury. Take your time to marvel at the façade’s detailed artworks. After a final look, we’ll leave the site through the Siq a narrow, high walled canyon, and then head on to the beautiful desert of Wadi Rum where we'll spend the night. Meals included: Breakfast, Lunch, Dinner Overnight: Bedouin Camp in Wadi Rum Hiking Distance: 14Km Ascent: 496m Descent: 519m"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Wadi Rum - Aqaba - Boat Ride, Snorkeling & lunch - Aqaba. Breakfast will be served at 7:00 AM at the camp. The two-hour Jeep tour will commence at 8:00 AM, offering an exciting opportunity to explore the most scenic and iconic locations in the desert. Following the jeep tour, you will be transferred to Aqaba to embark on a scenic boat ride offering panoramic views of Jordan, Israel, Egypt, and Saudi Arabia. Guests will have the opportunity to swim and snorkel directly from the boat, exploring vibrant coral reefs and observing an impressive variety of tropical marine life. This experience offers a unique glimpse into the captivating underwater world of the Red Sea. Lunch will be served either on board OR shortly after the boat ride, depending on the schedule.. Overnight in Aqaba. Driving distance from Wadi Rum to Aqaba: Approx. around 1 hr."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Dead Sea: Today we'll head to the shores of the Dead Sea at the lowest point on earth. Float in the salty waters, try out the ‘magical’ Dead Sea mud, relax by the pool, take it all in. Afterward, we'll head back to Amman. Meals included: Breakfast Overnight: Dormitory-style Accommodation in Amman. Nomads Hotel (or similar)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Departure: Sadly, all great things must come to an end. For those flying out already, it is generally recommended to leave Amman at least 4 hours prior to your departure. We wish you a safe flight, and hope you will return back home with many wonderful memories of your time in Jordan! Meals included: Breakfast"
+    }
+  ],
+  "map": ""
+}

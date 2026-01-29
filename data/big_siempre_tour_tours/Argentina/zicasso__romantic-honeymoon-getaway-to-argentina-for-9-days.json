@@ -1,0 +1,70 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "romantic-honeymoon-getaway-to-argentina-for-9-days",
+  "tourName": "Romantic Honeymoon Getaway to Argentina for 9 Days",
+  "placesVisited": "Buenos Aires, Puerto Iguazu, El Calafate",
+  "generalInfo": "Escape to beautiful Argentina for a nine-day romantic adventure. Immerse yourself in vibrant Buenos Aires, the \"Paris of South America\", to admire ornate colonial architecture and indulge in the city's colorful arts and music scenes. Then escape to majestic Patagonia to admire the magnificent falls of Garganta del Diablo and the glaciers of El Calafate.",
+  "durationDays": "9",
+  "price": "3,700",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Buenos Aires - Enjoy Dinner and a Tango Show",
+      "description": "Upon arrival in Buenos Aires, you and your partner will be whisked away by private transfer to your luxury hotel in bustling downtown. Stroll along Caminito Street until you arrive at one of the city’s oldest and most vibrant neighborhoods, San Telmo. Here, you'll clap your hands and stomp your feet to the impassioned rhythms of Argentina's traditional tango music. Attend a live dance show paired with an authentic Argentine dinner of asado (barbecue). As your meal concludes, you'll put your dance skills to the test, alongside professional dancers."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Buenos Aires - Immerse Yourself in the Gaucho Lifestyle",
+      "description": "Spend the next day amidst the rolling green plains of Buenos Aires' pampas for the chance to immerse yourself in the lifestyle of the gauchos . Take a tour of a colonial village where you'll be greeted by the intoxicating aromas of Argentine picada and asado . Later, you'll horse ride or go on a sulky ride for spectacular views of the countryside. Then, see for yourself the meticulous techniques of traditional gauchos as they show off their riding skills."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Buenos Aires - Arrive at Puerto Iguazu",
+      "description": "Today, you'll arrive in the stunning border town of Puerto Iguazu. Leave the hustle and bustle of city life behind to explore Argentina's most revered natural wonders. You'll begin at the impressive Iguazu Falls, one of the Seven Wonders of the World and a UNESCO World Heritage site. Your guide will lead you on an epic journey to the falls, where you'll enjoy panoramic views and hear toucans rustle in the leaves nearby. After enjoying views of the rising mist and curtains of water, you can visit Hito Tres Fronters to view the point at which the Argentina, Uruguayan, and Paraguayan borders meet or explore the jungle by bike with a knowledgable guide."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Puerto Iguazu - Discover Argentina’s Iguazu National Park",
+      "description": "Your expedition continues with another full day at the Iguazu National Park. Take your partner by the hand as you explore scenic walking trails, waterfalls, and wildlife. Keep still for an up-close look at native species like the toucan, coati, and several kinds of monkeys. With your guide, you hike to the Garganta del Diablo, the Devil's Throat, for a panoramic view of the icy masterpiece as cool mist erupts in your direction. Traverse lower and upper walkways, and labyrinthine pathways, in search of the region's most unique flora and fauna."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Puerto Iguazu - Explore Brazil’s Iguazu National Park",
+      "description": "Today, you'll appreciate Argentina's natural wonders from a new vantage point. In the early morning, you'll travel to the Brazilian side of the falls. While 80% of the falls are on Argentina’s side, Brazil is known for having the best views. Stroll the various walkways weaving along the falls as cool water splashes against your face as it runs beneath you. Take the boardwalk over Salto Santa María for an even closer glimpse at the Devil's Throat. In the evening, your transport will return you to your hotel."
+    },
+    {
+      "dayNumber": "6",
+      "title": "El Calafate - Transfer from Puerto Iguazu to El Calafate",
+      "description": "Travel from the steamy tropics to cool El Calafate. You may unearth some of Patagonia’s most spectacular natural wonders, glaciers. Spend the day at Perito Moreno Glacier, one of the only ones in the world that's still advancing. Marvel at the majestic ice mass, jagged edges, and crisp white beauty looming in the distance. While in El Calafate, you'll also visit Lago Argentino, home to the Spegazzini Glacier, at the border of Argentina and Chile, and Upsala Glacier, at the mouth of Lake Argentino. For a more romantic exploration of the landscape, you can choose to spend time on a traditional Patagonian ranch where the larger marvels of the Patagonian Steppe come into view."
+    },
+    {
+      "dayNumber": "7",
+      "title": "El Calafate - Attend a May Spirit Trek and Sailing Tour",
+      "description": "Today, set sail for the May Mount and Negro Mount glaciers, both in Mayo Canal at Argentino Lake in the Glaciers National Park. You'll begin your excursion at Bandera Port and later disembark at Toro Bay. Then, begin your walk through the Andean-Patagonian forest, accompanied by your private guide. At the midpoint of your journey, you may reach a 100-year-old cherry tree that has a trunk of more than three meters in diameter, a stream fed by a nearby waterfall, and a lime rock formation of more than 180 meters high and 100 meters wide."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Buenos Aires - Transfer to El Calafate Airport",
+      "description": "Enjoy a leisurely return to Buenos Aires in the morning as your trip begins to wind down. You'll enjoy the daylight hours at your own pace, exploring museums and markets, and strolling along downtown’s most prestigious streets. In the evening, you and your partner will enjoy Argentine tango music and dance, the perfect way to bid the country goodbye. Get lost in the enchanting rhythms as you take to the dance floor with locals, against elegant Spanish colonial facades."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Buenos Aires - Depart for Home",
+      "description": "Sip on a final glass of mate tea in the morning as you look out on the bustling streets of Buenos Aires for one last time. You'll meet your private transport just outside the lobby of your hotel and be whisked away to the city's international airport for your flight home. As you and your partner reminisce about beautiful and diverse Argentina, remember, there’s always more to see, so it might be hasta luego rather than goodbye ."
+    }
+  ],
+  "map": ""
+}

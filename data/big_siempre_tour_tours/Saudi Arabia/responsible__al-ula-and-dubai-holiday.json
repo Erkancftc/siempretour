@@ -1,0 +1,60 @@
+{
+  "destination": "Saudi Arabia",
+  "mainPhoto": "",
+  "id": "al-ula-and-dubai-holiday",
+  "tourName": "Al Ula and Dubai holiday",
+  "placesVisited": "",
+  "generalInfo": "This tour package includes comfortable transportation with a 4x4 vehicle in Al Ula and a private vehicle in Dubai, accommodating 2 to 6 passengers as per group size. Enjoy accommodation as outlined in the itinerary, accompanied by an English-speaking local driver to enhance your experience. Entrance fees to museums and key sites are covered.<br/><br/>Meals include 2 dinners and 1 lunch in Al Ula, plus 4 dinners and 2 lunches in Dubai, along with snacks and refreshments throughout the trip.<br/><br/>Please note that international and domestic flights, personal expenses, gratuities, optional tours or activities, and travel insurance are not included in the package.<br/><br/>Inclusions<br/>•\tTransportation (4x4 in Al Ula, private vehicle in Dubai)<br/>o\tOne vehicle for 2-4 pax<br/>o\tTwo vehicles for 6 pax<br/>•\tAccommodation as per itinerary<br/>•\tLocal driver (English speaking)<br/>•\tMuseum &amp; site entrance fees<br/>•\tMeals:<br/>o\tAl Ula: 2 Dinners, 1 Lunch<br/>o\tDubai: 4 Dinners, 2 Lunches<br/>•\tSnacks &amp; refreshments<br/><br/>Exclusions<br/>•\tInternational &amp; domestic flights<br/>•\tPersonal expenses &amp; gratuities<br/>•\tOptional tours &amp; activities<br/>•\tTravel insurance",
+  "durationDays": "7",
+  "price": "2999",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival in Al Ula • Airport pick-up • Hotel check-in • Sunset at Elephant Rock • Dinner at the hotel (included)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Explore Al Ula’s Rich Heritage • Breakfast at hotel • Visit Al Hegra (UNESCO site) • Lunch at a local restaurant (included) • Visit Dadan & Lihyanite Kingdoms • Return to hotel • Dinner at the hotel (included)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Old Town & Departure to Dubai • Breakfast at hotel • Explore Old Town AlUla & market • Airport drop-off • Flight to Dubai (excluded) • Arrival in Dubai & transfer to hotel • Dinner at the hotel (included)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Dubai Modern City Tour & Marina Dhow Cruise • Breakfast at hotel • Explore Burj Khalifa, Dubai Marina, Palm Jumeirah, Bluewaters Island • Lunch at a local restaurant (included) • Free time for shopping or optional activities • Evening Marina Dhow Cruise with dinner on board (included)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Classic Dubai Tour & Desert Safari • Breakfast at hotel • Visit Dubai Creek, Gold Souk, Spice Souk, Al Fahidi Historical District • Lunch at a local restaurant (included) • Afternoon Desert Safari – Dune bashing, camel rides, live entertainment • BBQ dinner in the desert (included)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Free Day or Optional Tours • Breakfast at hotel • Free day for relaxation, shopping, or optional tours (Abu Dhabi, Theme Parks, etc.) • Dinner at the hotel (included)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Departure • Breakfast at hotel • Airport transfer for departure"
+    }
+  ],
+  "map": ""
+}

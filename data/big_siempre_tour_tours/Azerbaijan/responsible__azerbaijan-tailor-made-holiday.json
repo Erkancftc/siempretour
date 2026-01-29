@@ -1,0 +1,55 @@
+{
+  "destination": "Azerbaijan",
+  "mainPhoto": "",
+  "id": "azerbaijan-tailor-made-holiday",
+  "tourName": "Azerbaijan tailor made holiday",
+  "placesVisited": "",
+  "generalInfo": "Azerbaijan is a tapestry of ancient history, rich culture, and breathtaking natural beauty. From the vibrant pulse of Baku to the enchanting mountain town of Sheki and the dramatic landscapes of Gobustan, Azerbaijan invites you to explore its wonders.",
+  "durationDays": "6",
+  "price": "2495",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival in Azerbaijan - Upon landing at Heydar Aliyev International Airport in Baku and completing the customs and immigration procedures, you will be greeted by our representative and transferred to your hotel in the city centre. Enjoy the remainder of the day at your leisure—either unwind or begin exploring this vibrant city. **Overnight at Hotel City Park or similar**"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Discovering Baku - Start your day with a guided walking tour of Baku, featuring the ancient fortified city of Icheri Sheher, a UNESCO World Heritage Site. Meander through its charming narrow streets, visit historic caravanserais and mosques and explore the Palace of the Shirvan Shahs. Don't miss the Maiden Tower, another UNESCO-listed site, and the grand mansions built by oil magnates during the 1870-1914 oil boom. Conclude your morning with stunning views of Baku Bay from Martyr's Alley. In the afternoon, we'll visit the Heydar Aliyev Centre, an impressive 57,500-square-meter architectural marvel designed by Zaha Hadid. Renowned for its fluid and contemporary design, this iconic building was nominated for prestigious awards in 2013 at both the World Architecture Festival and the Inside Festival. **Overnight at Hotel City Park or similar (B)**"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Shemakha & Sheki - Today, we will depart Baku for a picturesque drive to the historic town of Sheki. Upon arrival, we'll check out the ancient Juma Mosque, which dates back to the 10th century and underwent reconstruction in the 19th century. We'll also visit the mausoleums of Diri Baba and Yeddi Gumbez. As one of the oldest cities in Azerbaijan, Sheki is often referred to as the country's architectural jewel. We'll tour the Palace of Sheki Khans, an exquisite display of national and palace architectural styles built in 1762, and the 18th-19th century Caravanserai, part of which now operates as a hotel. Next, we drive to the village of Kish, renowned for its unique architectural gem—a temple from the era of Caucasian Albania. **Overnight at Sheki Palace Hotel or similar (B)**"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "From Sheki to Gabala and Back to Baku - In the morning, we'll explore the local bazaar in Sheki, where you can find delightful souvenirs. Afterwards, we'll journey to Gabala (around 1.5 hours), stopping at the village of Nij, home to the Udis, a Christian minority. Here, we'll visit the church, museum, and the archaeological site at Gadim Gabala. We'll then make our way back to Baku. **Overnight at Hotel City Park or similar (B)**"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Gobustan & Absheron - Today's journey starts at the Gobustan Historical Reserve, just 65 kilometres from Baku. Gobustan is celebrated for its ancient rock carvings, which offer a fascinating glimpse into human history. Before exploring the site, we'll visit an interactive museum that provides insights into the area's ecological background through engaging multimedia exhibits. Gobustan has been recognised as a UNESCO World Heritage Site since 2007. Weather permitting, we'll then visit the captivating Mud Volcanoes, which have the highest concentration in the world. We'll head to Yanar Dag, the Burning Mountain, a natural gas fire that has been alight for centuries, located 25 kilometres north of Baku. Our final visit will be to Ateshgah, a Zoroastrian fire temple in Surakhani, a vital worship site for Zoroastrians until the 19th century. We'll return to Baku for your last evening in Azerbaijan. **Overnight at Hotel City Park or similar (B)**"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Departure from Baku - At a time that works for you, our representatives will meet you at your hotel and transport you to the International Airport for your departure flight."
+    }
+  ],
+  "map": ""
+}

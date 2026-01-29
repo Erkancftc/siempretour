@@ -1,0 +1,70 @@
+{
+  "destination": "Nepal",
+  "mainPhoto": "",
+  "id": "world-heritage-sites-in-nepal-tour-small-group",
+  "tourName": "World Heritage sites in Nepal tour, small group",
+  "placesVisited": "",
+  "generalInfo": "UNESCO has declared 10 World Heritage Sites are located in Nepal, namely the Kathmandu Valley, Sagarmatha National Park, Chitwan National Park and Lumbini, birthplace of Lord Buddha. Major monument zones in the Kathmandu Valley are Swoyambhunath, Boudhanath, Bhaktapur Durbar Square, Changunarayan, Pashupatinath, Kathmandu Durbar Square and Patan Durbar Square. Some of them as old as 2500 years.",
+  "durationDays": "10",
+  "price": "960",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival Kathmandu: Meet assist at the airport and transfer to the hotel. Overnight at Hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Kathmandu: Early morning transfer to airport for Mountain flight (optional tour) to see the magnificent view of highest mountains on earth including Mt. Everest. After flight, back to hotel and have Breakfast. After breakfast, Full day guided sightseeing tour of Kathmandu Durbar Square, Swayambhunath stupa (Monkey Temple) and Patan city. Overnight at Hotel."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Kathmandu: After breakfast, Full day guided sightseeing tour of Pashupatinath temple, Boudhanath stupa (The largest stupa in Nepal), Bhaktapur city and Changu Narayan. Overnight at Hotel."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Kathmandu - Lumbini (Approx. 6/7 hrs drive) After breakfast drive to Lumbini. Overnight at Hotel."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Lumbini: Sightseeing tour of Lumbini, The birthplace of Lord Buddha. Overnight at Hotel."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Lumbini - Chitwan: After breakfast drive to Chitwan. In the afternoon wildlife activities. Overnight at Hotel."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Chitwan: After breakfast, full day Jungle Activities; Jeep Safari, Tharu Village Walk, Jungle Walk, Canoe ride along the Rapti River, Bird Watching etc. Overnight at Hotel."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Chitwan - Kathmandu After breakfast, Drive back to Kathmandu (5 hours drive). Overnight at Hotel."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Departure: Transfer to the International airport to connect onward flight."
+    }
+  ],
+  "map": ""
+}

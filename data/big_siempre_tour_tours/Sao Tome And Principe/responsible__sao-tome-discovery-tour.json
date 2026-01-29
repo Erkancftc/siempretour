@@ -1,0 +1,65 @@
+{
+  "destination": "Sao Tome And Principe",
+  "mainPhoto": "",
+  "id": "sao-tome-discovery-tour",
+  "tourName": "Sao Tome discovery tour",
+  "placesVisited": "São Tomé Town, Lake Amelia, Porto Alegre, Praia Piscina, São João dos Angolares, Fernão Dias, Boa Entrada, Agostinho Neto, Monte Café plantation",
+  "generalInfo": "This São Tomé discovery tour takes you to a country that few people have heard about. São Tomé and Príncipe - a two-island African nation moored off the coast of Gabon – is a quintessential tropical paradise, made all the more appealing by its rich culture, thick forest, friendly locals and smattering of crumbling colonial buildings. <br/><br/>After time to acclimatise in São Tomé town, you’ll head up into the mountains to Lagoa Amelia to learn more about the country’s coffee production. You’ll walk through secondary rainforest and visit a coffee plantation, from where the crop is exported all over the world. Next, you’ll travel along the coast, visiting old colonial mansions, tiny seafront towns and stunning stretches of near-empty beach. You’ll also explore the interior, touring former plantations estates and learning about the history of this beautiful island.  <br/>",
+  "durationDays": "10",
+  "price": "3895",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival in São Tomé - Arrive in São Tomé and transfer to your hotel. The rest of the day is at leisure for you to relax or start exploring the town on your own. Overnight at Avenida Residencial Hotel, or similar. No meals nor guided arrangements are included today. Note: A compulsory hotel tax of 3 Euros per person per night is levied by all hotels and must be paid in person when checking out."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "São Tomé city tour - Today after a welcome briefing we explore São Tomé town on foot. We visit the Post Office and the Tourist Office to pick up postcards and beautiful stamps, and a map. We also visit Independence Square, the National Museum and the bustling market. Lunch is a light bite at the surprisingly urban C.A.C.A.U art & museum space. This afternoon we visit the Corallo Chocolate Factory for a chocolate presentation and tasting. The afternoon is at your own leisure to relax and continue the exploration on your own. Overnight at Avenida Residencial Hotel, or similar. (B)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "São Tomé – Monte Café Plantation - São Tomé (Approx. driving time today: 1 hour) - This morning we visit the Valúdo coconut factory near Tridade to try the products and meet with the owner. We continue up to the Nova Moka coffee plantation for a guided tour through the yard/orchard and along coffee plantation paths on to Monte Café. We then walk a brief way to Roça Saudade for a relaxing break in a rainforest setting before returning to the hotel. In the late afternoon, transfer to a sand cards workshop with local artist and musician Guilherme Carvalho. The rest of the evening is at leisure. The tour leader can point out local restaurants for you to explore. Overnight at Avenida Residencial Hotel, or similar. (BL)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "São Tomé – Príncipe (Domestic Flight) - After an early breakfast we transfer to the airport for our short flight to Príncipe. On arrival transfer to your accommodation, the Roça Belo Monte. The rest of the day is left at leisure. There will be no driver/guide accompanying you when in Principe. Overnight at Roça Sundy, or similar. (BD)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Príncipe - São Tomé (Domestic Flight) – São João - Transfer to the airport for the short flight back to São Tomé and transfer to São João along the east coast, with the opportunity to stop by the post office, pharmacy/supermarket en route. We have a brief stop at Voice of America and visit the dramatic Boca do Inferno (Hells Mouth) rock formation, reminiscent of the Giant’s Causeway. There is also the chance for a dip in the ocean at mystical 7 Ondas Beach. Continue on to São João where you can take a walk on the plantation before dinner. Overnight at Mionga Hotel, or similar. (BD)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "São João - Ilhéu das Rolas – Mucumbli - After a relaxing breakfast, continue your journey to the southern tip of São Tomé Island and transfer by boat from Ponta Baleia to Rolas Island, straddling the equator. On arrival, take a 1-hour hike via the real equator to the equator mark viewpoint and have a beach lunch at beautiful Praia Café with the opportunity for a dip. This afternoon take a boat trip up the west coast (approx. 2.5 hours) to Neves where we transfer to nearby Mucumbli. You may wish to visit the beach or take a botanical walk around the grounds. Overnight at Roça Monte Fortei, or similar. (BLD)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Mucumbli – Excursion to the Northern Plantations - This morning we visit Diogo Vaz cocoa plantation. This can be done by cycling (approx. 8km) or by a short transfer by car. We take a couple of hours exploring the plantation on easy trails before a simple lunch at the plantation’s cabin restaurant. After lunch we visit the fermentation/drying complex, located on the other side of the road before returning to Mucumbli for a relaxing afternoon. You may wish to visit the beach or take a botanical walk around the grounds. Those who chose to cycle can continue along the scenic coast road towards Sta Catarina, with the opportunity for visiting a new women’s embroidery project. Overnight at Roça Monte Forte, or similar. (BLD) Note: If you would like to visit the cocoa plantation by bicycle, no car or driver will be included. Bikes can be rented from the hotel."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Mucumbli at leisure - São Tomé (Approx. 1 hour drive) - Departure from São Tomé - Spend the morning at leisure. There are a number of activities that can be arranged directly with your hotel. You may also wish to visit an interesting social/school project in Neves (30min walk, each way) – please inform your guide in advance if you wish to take part in this optional activity (to be paid locally). In the afternoon, we leave for the capital with a stop for shopping in town en-route before being transferred to the airport for your departure flight tonight. (B)"
+    }
+  ],
+  "map": ""
+}

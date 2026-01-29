@@ -1,0 +1,95 @@
+{
+  "destination": "China",
+  "mainPhoto": "",
+  "id": "tailor-made-holiday-in-china",
+  "tourName": "Tailor made holiday in China",
+  "placesVisited": "Beijing, Tiananmen Square, Forbidden City, cycle ride through hutongs, cookery class, Summer Palace, Great Wall at Jinshanling, Xian City Walls, Muslim Quarter and Grand Mosque, Terracotta Warriors, Chengdu, Panda Research Centre, Wenshu Monastery, Guilin, cruise to Yangshuo, cycling, day tour of Shanghai, cruise on Huangpu River",
+  "generalInfo": "A perfect two week introduction to a fascinating country, this tailor made holiday in China takes in celebrated sights and iconic locations. The tour begins in Beijing, a city packed with history, where you can visit the beautiful Forbidden City, its imperial architecture a bold contrast to the communist built Tiananmen Square just adjacent. Cycle through the hutongs, the old housing area of the city, too, for a sense of stepping back into time to a traditional China. <br/><br/>No trip to China is complete without seeing the Great Wall, but we steer you to the section at Jinshanling, which is beautifully preserved and yet far less frequently visited by tour groups. In Chengdu, visit the Panda Research Centre where this now endangered bear is being nurtured and then relax in this pleasant city, trying some tasty regional cuisine in one of the many local restaurants.<br/><br/>In Guilin, you’ll see one of China’s most beautiful and magical landscapes, which has inspired poets and painters for centuries. Take a river raft ride, admiring the limestone peaks that rear up from the banks. This China adventure winds up in Shanghai, a thriving modern city, where you can take a cruise on the Huangpu River or enjoy some shopping before flying home.<br/><br/>To transport you between the highlights efficiently and make the most of your time, a high speed train ride and internal flights are included. Spring or autumn is the best time to go in terms of weather, although you can visit China at any time of year. <br/>",
+  "durationDays": "14",
+  "price": "4550",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly overnight to Beijing."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Arrive in Beijing and walk at Tiananmen Square."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Visit the Forbidden City and Beijing’s Hutongs by cycle. Enjoy lunch and a cookery course in a local home. Finish the day at the Summer Palace."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "A full day trip to the Great Wall at Jinshanling."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "A day at leisure before taking the high speed train to Xian."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Visit the City Walls, Muslim Quarter and Grand Mosque."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Visit the Terracotta Warriors before flying to Chengdu."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Visit the Panda Research Base and Wenshu Monastery before enjoying tea in a traditional teahouse."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Fly on to Guilin."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Take a cruise to Yangshuo. Cycling in the countryside this afternoon."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "A day at leisure in Yangshuo."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Fly to Shanghai."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "A full day tour of Shanghai, including a cruise on the Huangpu River."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Return flight home."
+    }
+  ],
+  "map": ""
+}

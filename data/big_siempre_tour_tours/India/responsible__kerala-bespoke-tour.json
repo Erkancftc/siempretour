@@ -1,0 +1,80 @@
+{
+  "destination": "India",
+  "mainPhoto": "",
+  "id": "kerala-bespoke-tour",
+  "tourName": "Kerala bespoke tour",
+  "placesVisited": "",
+  "generalInfo": "Experience the splendid monuments, food, culture, history, palaces, and local traditions during this trip. Enjoy the local delicacies along with the serene beauty of God’s Own Country and feel the nature at its best. <br/><br/>Trip Highlights: <br/><br/>1)\tVisit the beautiful sites of Cochin and learn about the amalgamation of history and modernization. <br/>2)\tVisit the beautiful Tea Estates in Munnar and feel the essence of Tea in the air. <br/>3)\tVisit the Spice Plantations of Thekkady and learn how spices are grown<br/>4)\tRelax on a Traditional private Houseboat and feel the beauty of backwaters. <br/>5)\tTake a stroll on the beautiful beach of Mararikulam and feel at peace.",
+  "durationDays": "11",
+  "price": "1597",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive at Cochin International Airport. Receive a warm welcome by our representative and get transferred to the hotel. On arrival complete the check-in formalities and enjoy the rest of the day at leisure."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "After breakfast, go on a sightseeing tour of the city with your guide. (Cochin Monuments are closed on Friday). • Visit Jewish Synagogue: (Closed on Fri and Sat) • Explore the Fort Kochi area • Visit the St. Francis Church • Witness the Chinese Fishing Nets - Most Photographed Sight in Kochi. • Visit Dutch Palace & Dutch cemetery • Visit the spice and vegetable market. • Visit the Bishop's House Road, • Visit Union Club building • Visit Santa Cruz Basilica. • Visit Ernakulam Shiva Temple • Enjoy special lunch at a local restaurant in Kochi. • enjoy the folk dance form of Kathakali • Experience the ancient art form of Kalarippayattu"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "After breakfast, check out from the hotel and travel to Munnar (130Km, 4-hour drive). On arrival receive a warm welcome and complete the check-in formalities and enjoy the rest of the day at leisure."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "After breakfast, go on a sightseeing tour of the city with your guide. • Visit Mattupetty Dam • Visit Eravikulam National Park • Visit Tea Museum • Visit Kundala Lake • Visit Echo Point"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "After breakfast, visit the Kolukkumalai Tea Estate and enjoy a guided tour of the Tea Factory along with a hot cup of tea made from the freshly plucked tea leaves. The ride to Kolukkumalai is very bumpy but scenic."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "After breakfast, check out from the hotel and travel to Thekkady (100Km, 4-hour drive). On arrival receive a warm welcome and complete the check-in formalities and rest for a while. Later, Go for a guided tour of Spice Plantations, Visit the Kumily Spice Market. We can also arrange a cooking class with local family for those interested in learning local food."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Early morning go on a Jungle hike in Thekkady. Also enjoy boat cruise in the national park. You can spot various species of animals and birds during the hike and boat cruise. Rest of the day at leisure."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "After breakfast, check out from the hotel and travel to Alappuzha (140Km, 4-hour drive). On arrival receive a warm welcome and check in to the luxurious Houseboat. Relax on the deck of Houseboat and enjoy the serene beauty of God’s Own Country."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "After breakfast, check out from the Houseboat and travel to Mararikulam (18Km, 30 minutes’ drive). On arrival receive a hearty welcome and complete the check-in formalities and enjoy the rest of the day at leisure."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "After breakfast, take a stroll at the beautiful beach of Mararikulam and enjoy the day at leisure."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "After breakfast, check out from the hotel and travel to Cochin International Airport (73Km, 2-hour drive) to board the flight for your home town."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,85 @@
+{
+  "destination": "Uganda",
+  "mainPhoto": "",
+  "id": "uganda-safari-activity-adventure",
+  "tourName": "Uganda safari activity adventure",
+  "placesVisited": "",
+  "generalInfo": "This 12-day Safari of Eastern and Northern Uganda takes you on an enriching journey of adventure and discovery.<br/><br/>Immerse yourself in an array of activities that will stimulate your senses, from white-water rafting in the Nile to exploring the majestic waterfalls of Sipi. You will go to Jinja, Sipi, Pian Upe, Kidepo as well as Murchison Falls.<br/><br/>Beyond the breathtaking scenery and magnificent wildlife, you will have a unique opportunity to experience the rich culture of the local people and gain insight into their way of life. This safari is perfect for both small and large groups, with an array of activities to cater to different preferences.<br/><br/>Take a closer look at the detailed itinerary to get a clearer idea of what it would feel like for you. Also, keep in mind that all our trips can be tailored to meet your specific needs.",
+  "durationDays": "12",
+  "price": "4760",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Our driver/guide will be waiting at Entebbe International Airport to pick you up and then transfer you to your accommodation for the night. Accommodation: 2 Friends Beach Hotel Meal Plan: Dinner"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Early in the morning, after your breakfast, you will be driven to Jinja for a white-water rafting experience which can either take a full day or half-day depending on your choice. This is one of the most exciting rafting trips on earth – going up to 31 km and includes a fantastic barbeque lunch and complimentary drinks after the trip. Accommodation: Jinja Nile Resort Meal Plan: Breakfast, Lunch, Dinner"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "After breakfast, you will depart for Sipi Falls, which is located in the Eastern part of Uganda. The journey takes about 4-5 hours and you will have the opportunity to enjoy the scenic views of the countryside. Accommodation: Rafiki Lodge Sipi Meal Plan: Breakfast, Lunch, Dinner"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Today, you will hike to the three different waterfalls that make up Sipi Falls. The hike is moderate and takes about 3-4 hours. Along the way, you will pass through villages and farmland, giving you a chance to interact with the locals. Accommodation: Rafiki Lodge Sipi Meal Plan: Breakfast, Lunch, Dinner"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "After breakfast, you will depart for Pian Upe Game Reserve with packed lunch. You will have the opportunity to enjoy the scenic views of the countryside and game drives in the reserve. Pian Upe is one of the largest and most remote game reserves in Uganda and is home to a wide variety of wildlife including giraffes, buffalos, leopards, and cheetahs. In the evening, you will be driven to Moroto where you will have dinner and an overnight stay. Accommodation: Kara-Tunga, Karamoja Safari Camp Meal Plan: Breakfast, Lunch, Dinner"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "After breakfast, you will depart for Matheniko Game Reserve, which is located in the Karamoja region of Uganda. The journey takes about 5-6 hours and you will have the opportunity to enjoy the scenic views of the countryside. The reserve is home to a wide variety of wildlife including giraffes, zebras, and antelopes. Accommodation: Adere Safari Camp Meal Plan: Breakfast, Lunch, Dinner"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Today, you will go on a game drive in Kidepo Valley National Park. The park is home to a wide variety of wildlife including lions, elephants, buffaloes, zebras, and giraffes. Accommodation: Adere Safari Camp Meal Plan: Breakfast, Lunch, Dinner"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "After breakfast, you will go on a guided nature walk/hike in the Narus Valley, which is known for its scenic views and bird species. In the afternoon, you will visit a local Karamojong community and learn about their culture and way of life. Accommodation: Adere Safari Camp Meal Plan: Breakfast, Lunch, Dinner"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "After breakfast, you will depart for Murchison Falls National Park. The journey takes about 7-8 hours and you will have the opportunity to enjoy the scenic views of the countryside. Murchison Falls National Park is the largest park in Uganda and is known for its stunning waterfalls and diverse wildlife. Accommodation: Pakuba Safari Lodge Meal Plan: Breakfast, Lunch, Dinner"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Early morning, your guide will take you for a wildlife safari game drive on the northern bank of the river Nile. Here, you will spot Elephants, Lions, Cape buffalo, Rothschild’s giraffe, hartebeest, Waterbuck, Oribi, Bushbuck, Bohor reedbuck, hyena, and if you are lucky, the leopard. You will return to your lodge for breakfast, rest, and lunch before heading out for the afternoon boat cruise. The boat cruise takes you upstream on the calm Victoria Nile to the base of the falls stopping just a few meters from the “Devil’s Cauldron”. While on the boat cruise, you will have a chance to marvel at the hippos floating in the water, and crocodiles as well as elephants, waterbuck, Uganda kob, and many other animals over this 19 km stretch of the Nile. For bird-watching enthusiasts, there are many chances of seeing bird species like the Goliath heron, Egyptian goose, Brown pelican, Red-throated bee-eater, various kingfishers, Fish eagles, cormorant, and the rare shoebill stork. After the boat cruise, you will return to your accommodation. Accommodation: Pakuba Safari Lodge Meal Plan: Breakfast, Lunch, Dinner"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "After breakfast, you will hike to the top of Murchison Falls, which is a breathtaking sight. You will then transfer back to Entebbe with a stopover at Ziwa Rhino Sanctuary for Rhino Tracking. You will spend the evening relaxing at your hotel. Accommodation: 2 Friends Beach Resort Meal Plan: Breakfast, Lunch, Dinner"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "After breakfast, you will be transferred to Entebbe International Airport for your departure flight. Accommodation: None Meal Plan: Breakfast"
+    }
+  ],
+  "map": ""
+}

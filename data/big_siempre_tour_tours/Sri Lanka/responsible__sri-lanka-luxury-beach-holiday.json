@@ -1,0 +1,50 @@
+{
+  "destination": "Sri Lanka",
+  "mainPhoto": "",
+  "id": "sri-lanka-luxury-beach-holiday",
+  "tourName": "Sri Lanka luxury beach holiday",
+  "placesVisited": "",
+  "generalInfo": "This two-week itinerary takes you to Sri Lanka's best beach hotels and destinations.<br/>Includes: <br/>- 14 days/13 nights of Accommodation on Bed &amp; Breakfast basis at The Wallawwa (2 Nights | W Bedroom), Last House (4 Nights | Atteriya), Why House (4 Nights | Cabana) &amp; Kumu Beach (3 Nights | Ocean View Bedroom)<br/>- Transport in an air conditioned car with the services of an English Speaking Guide<br/>- Guided Visits and Excursions: <br/>1 Game drive at Yala or Udawalawe National park<br/>Bike ride through the paddy trail<br/>Galle Fort walk with a special host<br/>Ambalangoda mask museum<br/>Lunuganga<br/>- All other Meals (MEAL+DESSERT+WATER ONLY – ALL EXTRAS TO BE PAID TO THE HOTEL/ RESTAURANT DIRECTLY)<br/>- Services: VAT (Value Added Tax) &amp; Tourism Tax<br/>- In-Vehicle: TRAVEL KIT which includes comfortable cushions, a sarong, sanitizers, mosquito repellent, socks (for temples), wet wipes, etc. Our vehicles carry a dongle / WIFI and a folder containing a good map as well as a very detailed Booking Information document<br/>- Complementary SIM card on request",
+  "durationDays": "14",
+  "price": "2662",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive into Colombo International Airport and head straight to The Wallawwa to recuperate amidst startlingly peaceful surroundings. Set in expansive tropical grounds with a big kitchen garden, this former manor house offers family-orientated room options, varied cuisine, discreet service and a decadent spa. Be on Negombo Beach in 30 minutes, play croquet in the garden or take a private guided tour by boat or kayak through the bird-filled Muthurajawela Wetlands. Colombo is 30 minutes’ drive away. Travel time Colombo Airport to The Wallawwa: 20 minutes. Stay 2 nights at The Wallawwa."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "TANGALLE: Travel straight down the expressway, and along the picturesque cove-sprinkled southern coastline to Mawella, seven kilometres west of Tangalle, a beautifully secluded two-kilometre curved beach. Here you’ll stay for four nights at The Last House, a Geoffrey Bawa-designed boutique hotel with just four individually designed guestrooms within earshot of the sea. The vibe here is relaxed and this destination is ideal for unwinding in private, tranquil surroundings. The staff will pamper you and the hotel cook is excellent. If you can draw yourself away from the near-deserted beach (which is great for strolls, jogs, swimming and body boarding), you’ll find Tangalle to be a great base for visiting national parks (Udawalawe is famed for elephants), wildlife reserves and ancient temples (Mulkirigala is a favourite). Travel time Negombo to Tangalle: 4.5 hours. Stay 4 nights at The Last House."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "GALLE: Travel west along the picturesque cove-sprinkled southern coastline to Galle, famed for pretty beaches, a 17th century Dutch fort and a cosmopolitan vibe. Here you’ll stay at Why House, an idyllic country-style boutique hotel with big garden and expansive swimming pool. The hotel isn’t on the beach but is located just inland, a five-minute tuk tuk ride from Dalawella Beach, and many more. There’s an excellent restaurant too. Aside from beachcombing, activities in the local area include guided bicycle rides along scenic rural inland lanes, boat trips (on Koggala Lake), seasonal whale and dolphin watching (from nearby Mirissa), surfing (Kabalana and Weligama are two of the best), strolls around Galle Fort and shopping/eating out. Travel time Tangalle to Galle: 1.5 hours. Stay 4 nights at Why House."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "BALAPITIYA: From Galle, it’s less than an hour’s drive to Balapitiya, a small coastal village on Sri Lanka’s sunset coast. Here you’ll stay at Kumu Beach, above a sandy beach edged by huge boulders set in its own private palm-shaded garden with a 25-metre swimming pool. The hotel was completed in 2017, and offers 10 bedrooms, four of which are very spacious Oceanview Suites with private lounges and superb sea views. This is a lovely place to relax and unwind; the hotel has a contemporary design style, and its kitchen produces fabulous local and fusion cuisine for enjoying on the long timber deck, beside the swimming pool or anywhere in the garden. The region is a centre for Sri Lankan folk culture with mask museums nearby at Ambalangoda and a number of attractions within reach including Lunuganga, the home and garden of the late Geoffrey Bawa, plus Bentota for water sports action. Travel time Galle to Balapitiya: 1 hour. Stay 3 nights at Kumu Beach."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "DEPART SRI LANKA. Travel time Balapitya to Colombo Airport: 2 hours"
+    }
+  ],
+  "map": ""
+}

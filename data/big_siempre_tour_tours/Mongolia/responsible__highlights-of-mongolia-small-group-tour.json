@@ -1,0 +1,80 @@
+{
+  "destination": "Mongolia",
+  "mainPhoto": "",
+  "id": "highlights-of-mongolia-small-group-tour",
+  "tourName": "Highlights of Mongolia, small group tour",
+  "placesVisited": "",
+  "generalInfo": "Mongolia is synonymous with the remote and mysterious, a giant landlocked nation that is home to foreboding deserts, jagged peaks and endless steppe – a visual feast of awe-inspiring landscapes combined with the strong traditions of nomadic life. A great introduction to the country, this comprehensive trip shows you the incredible diversity to be found within its borders. Starting in Ulaan Baatar we visit the impressive Gandan Monastery, testimony to the strong Buddhist traditions that Communism never managed to completely suppress. From here we head south which brings a striking change of scenery as we venture into the Gobi Desert, Asia’s largest. Some of its most striking sights are the ‘flaming cliffs’ of Bayanzag and the canyon of Yolyn Am, a reminder of the sheer variety of desert landscapes, and as well as these we spend time looking for the Gobi’s rare and unique wildlife.<br/><br/>Moving on from the desert, we travel through the central rolling steppe, stopping at the monastery of Erdene Zuu and visiting the remains of Genghis Khan’s old capital at Karakorum. We spend time hiking among the sacred mountains and secluded valleys of Khogno Khan, where ruined monasteries and breathtaking vistas beg to be discovered.<br/><br/>All throughout the trip we take as much time as possible to meet the people of Mongolia, from camel herders in the Gobi to the yak herders of the steppe, to gain as much insight into the country as possible. Mongolia is one of Asia’s hidden gems, a land of endless horizons and some of the most breathtaking scenery you’re ever likely to see. None who visit fail to be impressed.",
+  "durationDays": "16",
+  "price": "5155",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Ulaan Baatar - Arrive in Ulaan Baatar and transfer to the hotel. Depending on when you arrive there may be time to explore the city. Overnight Hotel Nine or similar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Ulaan Baatar - Today we explore the city with visits to the Gandan Monastery, the largest and most important in Mongolia, and the Chinggis Khan Museum, which gives a great insight into Mongol history and the life and conquests of Chinggis Khan. In the evening we enjoy a traditional music and dance performance by the Tumen Ekh Ensemble. Overnight Hotel Nine or similar. (BLD)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Gobi Desert - Heading into the Gobi Desert, we reach Baga Gazriin. The site comprises an area of extensive granite rock formations and dry riverbeds dotted with elm trees, surrounded by steppe habitat. We spend time exploring the area, including the sacred ruined monastery, destroyed during the religious purges of the 1930s. Overnight ger camp. (BLD)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Dalanzadgad - Depart for the provincial capital of Mandalgobi where we stop at the Gobi Oasis Tree planting Project – a family-run conservation project that was established in 1975. We then continue south across the desert plains to the town of Dalanzadgad. Overnight Khan Uul Hotel or similar. (BL)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Gurvansaikhan National Park - Dalanzadgad - In the morning we visit the Gobi Museum of Nature and History before continuing to Yolyn Am, the ‘vulture’s gorge’, where we explore on foot and by vehicle. Yolyn Am is located within the Gurvansaikhan National Park, a haven for the Gobi’s wildlife and home to snow leopard, bear, wolf, ibex and bearded vultures, among other species. Return to Dalanzadgad for the night. Overnight Khan Uul Hotel or similar. (BL)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Khongoryn Els - Drive to Khongoryn Els, an area of huge sand dunes that cover nearly a thousand square kilometres. The dunes are known for the noise that they make when struck by wind – and also called ‘the singing dunes’. We arrive in the afternoon and have some time to explore this majestic landscape, and hopefully meet semi-nomadic camel herding families that live here. Overnight basic but private, family-operated ger camp. (BLD)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Bayanzag - Today we head to the ‘flaming cliffs’ of Bayanzag, so named for their red sandstone. This is one of the richest areas in Mongolia for dinosaur fossils and was made famous by the palaeontologist Roy Chapman. Overnight basic, family-operated ger camp. (BLD)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Ongi - Drive from the central heartlands of Mongolia to the edge of the Gobi Desert, to Ongi. Here we explore the ruined monastery, destroyed during the purges of the 1930s and a poignant reminder of Mongolia’s political past. Overnight basic, family-operated ger camp. (BLD)"
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Khogno khan Nature Reserve - Our destination for today is the Khogno Khan Nature Reserve, where a sacred granite mountain sits within an area of secluded valleys, freshwater springs, open steppe and the Elsen Tasarkhai sand dunes. The small but vital Tarna River provides an essential water source for herders in the region. We explore the hidden interiors of the mountain on a three-four hour hike along a birch-bordered path to the small temple of Erdene Khambiin Khiid and the ruined Ovgon Khiid Monastery. This location offers one of the most beautiful panoramas of the region. Overnight basic, family-operated ger camp. (BLD)"
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Ulaan Baatar - A full day drive to Ulaanbaatar where you will spend your final night in Mongolia. Overnight Hotel Nine or similar. (BL)"
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Ulaan Baatar - Transfer to the airport for departure. (B)"
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,40 @@
+{
+  "destination": "Brazil",
+  "mainPhoto": "",
+  "id": "brazil-active-beach-adventure-holiday",
+  "tourName": "Brazil active beach adventure holiday",
+  "placesVisited": "",
+  "generalInfo": "Brazil is rightly known for it's stunning coastline, and this is the holiday for beach-lovers who want to combine relaxation with adventure. Kayak to pristine bays and mangrove forests. Hike to dramatic lookouts and untouched beaches. Visit waterfalls and clifftops. And of course, relax!",
+  "durationDays": "14",
+  "price": "3500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "PARATY - Start your adventure in the seaside gem of Paraty. Take a walking tour of the cobblestone colonial streets, kayak in the bay to nearby mangrove forests, or take a tour to explore the walking trails and waterfalls of the Atlantic Forest. We can also visit a traditional cachaca distillery, for a taste (literally) of Paraty's cultural heritage."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "ILHA GRANDE - Continue along the Green Coast to the beach paradise of Ilha Grande. Staying at an idyllic beachfront hotel, your time here includes private guided hikes to Lopes Mendes Beach (regarded by many as the most beautiful in Brazil), the dramatic Pico do Papagaio viewpoint, a boat tour to the postcard-worthy Blue Lagoon, and a traditional Polynesian Canoe excursion. There is also plenty of time to relax and simply enjoy the world-class jungle, sand and sea views."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "RIO DE JANEIRO - No trip to the Brazilian coast would be complete without a stay in the world's most beautifully-positioned city. We suggest 4 nights minimum to include Corcovado (for the Statue of Christ The Redeemer) and Sugarloaf Mountain, a hike up through Tijuca Rainforest to an alternative view of the city, an evening experiencing Rio's famous nightlife (with our friendly local guide), and time at leisure to relax on the world-famous beaches of Ipanema and Copacabana."
+    }
+  ],
+  "map": ""
+}

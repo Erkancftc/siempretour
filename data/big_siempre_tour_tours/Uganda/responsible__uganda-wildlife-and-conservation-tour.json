@@ -1,0 +1,70 @@
+{
+  "destination": "Uganda",
+  "mainPhoto": "",
+  "id": "uganda-wildlife-and-conservation-tour",
+  "tourName": "Uganda wildlife and conservation tour",
+  "placesVisited": "",
+  "generalInfo": "Embark on the ultimate wildlife adventure, where every moment blends compelling wildlife encounters and impactful conservation efforts. Begin your journey in Kigali, then traverse Uganda's scenic Kisoro and engage with ground-breaking gorilla conservation at the Dian Fossey Museum. Experience the Golden Monkey Habituation in Mgahinga National Park, explore the diverse wildlife of Lake Mburo National Park on exhilarating game drives and serene boat trips, and immerse yourself in local eco-projects in Kalinzu Forest. From tracking wild chimpanzees and observing elusive otters to the crowning highlight of trekking through the dense Bwindi Impenetrable Forest to sit among the majestic mountain gorillas, this tour offers a chance to deeply connect with Uganda's rich culture and its extraordinary natural beauty.<br/><br/>For a once-in-a-lifetime journey that promises awe-inspiring encounters, deep cultural insights, and the satisfaction of contributing to vital conservation efforts, join the Ultimate Wildlife Tour in Uganda.",
+  "durationDays": "9",
+  "price": "2595",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival in Kigali, Rwanda, with a welcoming dinner and a chance to meet fellow travellers."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Travel to Kisoro with a visit to the Dian Fossey Museum, exploring gorilla conservation history before crossing into Uganda."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Golden Monkey Habituation Experience in Mgahinga National Park. Followed by the Batwa Experience, learning about a pygmy tribe and their customs."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Travel to Lake Mburo National Park. After lunch, enjoy a boat trip on Lake Mburo and, later, a night drive to spot nocturnal wildlife."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Embark on a game drive and watch the reserve come alive in the morning! After lunch, travel to Kalinzu Forest."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Chimpanzee Habituation Experience - spend up to 4 hours with wild chimps and learn about their social structure and conservation!"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Return to Kisoro for leisurely cruise along Lake Mutanda, and enjoy an Otter Habituation Experience, offering a chance to observe and learn about African otters."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Wind your way through the Bwindi Impenetrable Forest as you trek to find mountain gorillas. Sit in the presence of a gorilla family and immerse yourself in their world!"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Departure from Kigali, with options to fly out or stay longer in Rwanda."
+    }
+  ],
+  "map": ""
+}

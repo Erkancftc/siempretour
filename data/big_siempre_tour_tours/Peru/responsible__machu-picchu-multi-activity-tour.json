@@ -1,0 +1,45 @@
+{
+  "destination": "Peru",
+  "mainPhoto": "",
+  "id": "machu-picchu-multi-activity-tour",
+  "tourName": "Machu Picchu multi activity tour",
+  "placesVisited": "",
+  "generalInfo": "Embark on an exhilarating four-day journey through the heart of Peru, where breathtaking landscapes and thrilling activities await. Begin in Cusco and traverse through lush jungles and quaint villages, experiencing the local culture and stunning vistas of the Andes. Culminate your adventure with an unforgettable exploration of Machu Picchu, delving into the mysteries of this ancient Incan city.",
+  "durationDays": "4",
+  "price": "462",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Cusco - Santa Maria Village, Peru: Descent to Jungle: Biking Adventure Early Departure from Cusco 6:30 AM: Begin your journey with a pick-up from your accommodation. Settle in for a scenic 1.5-hour drive to ancient Ollantaytambo, where you can grab breakfast and snacks—a perfect kickstart for your adventure. Ascend to Malaga High Pass Continue your climb for another 90 minutes through winding Andean roads until you reach the breathtaking Malaga High Pass at 4,350 m. Here, gear up and listen in on a crucial safety briefing with your guide—spectacular mountain vistas all around. Exhilarating Bike Descent Hop on your bike for an unforgettable 1.5-hour ride, plunging down from the high pass into vibrant cloud forests and the lush Peruvian jungle. Cool air, dazzling greenery, and thrilling curves make every moment memorable. Cultural Discovery Pause to explore the intriguing Huamanmarca archaeological site. Stroll among ancient ruins and gain a glimpse of Peru’s rich heritage nestled within the verdant landscape. Arrive at Santa Maria Village Around 2:00–2:30 pm, roll into Santa Maria Village (1,400 m), your base for the night. Take the afternoon to unwind and let the jungle ambiance wash over you. Adventure or Relax For extra adrenaline, opt for whitewater rafting on the Urubamba River—tackle thrilling Class III and IV rapids on a 2.5-hour ride. Or, simply relax and soak in your rustic surroundings. Rustic Overnight Stay Spend the night in a cozy, basic guesthouse. Facilities are simple—shared bathrooms and occasional lack of hot water—but your adventurous spirit will be rewarded with authentic village charm and warm local hospitality."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Santa Maria Village - Santa Teresa Village, Peru: Jungle Trekking and Relaxation in Santa Teresa Jungle Trekking Adventure After breakfast, lace up your boots for an invigorating trek through the breathtaking Peruvian jungle mountains. Immerse yourself in vibrant nature as you soak up panoramic vistas, listen to the sounds of exotic birds, and watch for wildlife along the way. You'll also encounter friendly locals and get a genuine feel for life in this remote region. Scenic Lunch Break Pause for a well-earned lunch surrounded by unparalleled scenery. Savor nutritious local fare and recharge your energy amidst towering peaks and green canopies. Journey to Santa Teresa Village Continue your journey, descending to the charming Santa Teresa Village (1,680m). Walk through tropical landscapes, passing coffee and coca plantations, before arriving at your evening’s destination. Rustic Village Stay & Hot Springs Option Settle in at a cozy, rustic guesthouse for the night. Craving deeper relaxation? Choose to visit the soothing nearby hot springs (additional cost), the perfect way to ease hiking muscles before a hearty dinner."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Santa Teresa Village - Aguas Calientes, Peru: Thrills, Trails & Arrival at Machu Picchu Canopy Zip-Line Adventure (Morning Optional, 2 hours) Kick off your day with an adrenaline rush! For an extra fee, experience South America's highest canopy zip-line—soar over lush forest canopies and dramatic valleys for two unforgettable hours. Not a thrill-seeker? Relax and prepare for your trek with a hearty breakfast. Scenic Hike to Hydroelectric Station (Approx. 3 hours) Set out along picturesque trails that weave through verdant Andean landscapes, following the path parallel to the railroad. After around three hours, you’ll reach the Hydroelectric Station, where a well-deserved lunch awaits and you can recharge with your fellow adventurers. Journey to Aguas Calientes (Approx. 3 hours) Refueled and ready, continue your trek along the train tracks for another three hours, surrounded by the dramatic beauty of the Urubamba River valley. Watch the scenery shift as you approach the iconic gateway to Machu Picchu. Relax in Aguas Calientes Arrive in vibrant Aguas Calientes—the lively town at the foot of Machu Picchu. Explore cozy cafes, bustling shops, and soothing hot springs to relax after your active day. Too tired to hike? Choose the optional scenic train ride from Hydroelectric Station for an effortless arrival (at extra cost)."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Aguas Calientes - Machu Picchu - Cusco, Peru: Machu Picchu Marvels and Andean Return Dawn Departure to Magical Machu Picchu 5:30 am Begin your adventure with an early morning bus ride from Aguas Calientes. As the mist rises, ascend towards Machu Picchu—one of the world’s most enchanting ancient cities. Guided Exploration in the Incan Citadel Join a fascinating 2-hour guided tour, where you’ll unravel the mysteries and legends woven into the stones of Machu Picchu. Marvel at breathtaking views and learn about its history, engineering, and sacred significance. Free Time & Optional Huayna Picchu Hike After your tour, enjoy time to roam freely among the ruins or, for the daring, embark on an exhilarating climb up Huayna Picchu Peak (must be booked in advance at extra cost), rewarding you with panoramic Andean vistas. Aguas Calientes: Markets & Memories Return by bus to Aguas Calientes. If time permits, wander local markets bursting with vibrant handicrafts—a perfect spot for last-minute souvenirs or a quick snack. Scenic Journey Back to Cusco Board the train to Ollantaytambo, then transfer by bus through the scenic Sacred Valley. Arrive in Cusco around 8:00 pm—your magical day among the clouds complete. Note: Upon arrival at Cusco’s Plaza San Francisco, please make your way independently to your chosen accommodation."
+    }
+  ],
+  "map": ""
+}

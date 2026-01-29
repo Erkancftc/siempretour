@@ -1,0 +1,70 @@
+{
+  "destination": "Ghana",
+  "mainPhoto": "",
+  "id": "festivals-of-ghana-tour",
+  "tourName": "Festivals of Ghana tour",
+  "placesVisited": "",
+  "generalInfo": "An incredible and unique journey concentrating on three of Ghana’s most colourful festivals. From the capital Accra we head to Winneba to the Aboakyer festival, a vibrant celebration of local traditions held each year. From here we continue to the historic castles of Elmina and Axim, learning about the slave trade that devastated these shores, before moving on to another great opportunity to see a unique aspect of Ghanaian culture. <br/><br/>In Ghana’s second city, the Ashanti capital of Kumasi, we attend the traditional Ashanti royal festival of Awakudae, in West Africa’s ‘kingdom of gold’. Afterwards we drive to Akossombo, home of the Krobo people who are renowned for their skills in making beads. Each year the Krobo hold the amazing Dipo ceremony, a process of initiation for young girls on their journey to womanhood, accompanied by elaborate rituals and distinctive traditional jewellery; we spend two days observing these fascinating customs and learning about the culture of the Krobo. <br/><br/>Discover the colours, festivals and traditions of one of the region’s friendliest countries.",
+  "durationDays": "11",
+  "price": "3699",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Accra - Arrive in Accra and transfer to your hotel. For those arriving early in the day, the rest of the day is free to explore. Overnight Villa Boutique or similar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Accra - Winneba - Explore Accra and visit the old quarter of Jamestown, remnants of the slave trade and the quarter where craftsmen design flamboyant coffins for the deceased – a uniquely Ghanaian experience. In the afternoon, transfer to Winneba. Overnight Blue Diamond Beach Resort or similar. (BLD)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Winneba - Today we experience the Aboakyer festival, held in honour of the tribal gods by the Tuafo and Dentsifo people. Overnight Blue Diamond Beach Resort or similar. (BLD)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Elmina - Axim - Explore the fishing town of Elmina. Elmina is best known for St George’s Castle, the oldest European building in Africa which was once used as holding centre for slaves. In the town itself we explore the old quarter with its unique Posuban shrines, made by the traditional ‘asafo’ societies which were once responsible for local defence. Continue to Axim for the night. Overnight Axim Beach Resort or similar. (BLD)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Nzulezo – Axim - This morning we visit the stilt village of Nzulezo, located in the middle of a large lagoon and only accessible by boat. After exploring the village ad meeting the locals we return to Axim and discover its 16th century castle, built by the Portuguese. Overnight Axim Beach Resort or similar. (BLD)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Kumasi - Continue to Kumasi, Ghana’s second city and home of the old Ashanti Kingdom. Explore the city including the Ashanti Cultural Centre, which gives a great insight into what once was one of the most powerful kingdoms in the region. If possible, we will be able to see a traditional Ashanti funeral, quite a spectacle at which visitors are welcome. Overnight Miklin Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Kumasi - Today is set aside for attending the traditional Ashanti royal festival of Akwasidae, a unique opportunity to see a vibrant and colourful royal ceremony and see the customs and culture of the Ashanti, one of West Africa’s most important ethnic groups. Spend the day mingling with the crowds, watching the various events and seeing how age-old rituals still have meaning today. Overnight Miklin Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Akossombo - Drive east to Akossombo, stopping at the Besease shrine, a well preserved example of traditional Ashanti architecture. We also visit the Bunso Arboretum and head to the lands of the Krobo people, known for their production of traditional glass beads, an important part of their culture. In the afternoon we take a boat trip on the Volta River to nearby fishing villages. Overnight Afrikiko Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Accra - After our final experiences of the Dipo Festival, return to Accra and transfer to the airport for your flight home. (BL)"
+    }
+  ],
+  "map": ""
+}

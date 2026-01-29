@@ -1,0 +1,65 @@
+{
+  "destination": "Maldives",
+  "mainPhoto": "",
+  "id": "maldives-island-hopping-holiday",
+  "tourName": "Maldives island hopping holiday",
+  "placesVisited": "",
+  "generalInfo": "Embark on an unforgettable journey through the Maldives, blending relaxation and adventure across 8 sun-soaked days. Explore Hulhumale's urban paradise and dive into local culture on Rasdhoo, meeting locals and savoring Maldivian cuisine. Immerse yourself in the underwater wonders of vibrant reefs through snorkeling and diving, or paddle the serene lagoons in a kayak.<br/><br/>Discover Ukulhas, a pioneer in sustainable living, and enjoy the pristine beaches of Mathiveri, with chances to spot playful dolphins at sunset. Each island offers unique experiences, from guided tours to leisure days full of water sports and exploration.<br/><br/>What makes this holiday special is the seamless blend of cultural immersion and natural beauty, offering a genuine connection with the enchanting Maldives. Whether you seek relaxation or adventure, this is your chance to create lasting memories in one of the world's most breathtaking destinations.",
+  "durationDays": "8",
+  "price": "1500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "As you step off the plane at Male International Airport, the warm Maldivian breeze welcomes you. A friendly representative guides you to your guesthouse on Hulhumale, an urban paradise where city life meets tropical beauty. After settling in, feel the soft sands between your toes as you stroll along the beach. If time permits, embark on an optional walking tour to Villimale, known for its tranquil charm and serene landscapes."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Early morning, your tour leader will accompany you to Male, where you'll board a local ferry heading to Rasdhoo, nestled in North Ari Atoll. Upon arrival, settle into the island's rhythm and indulge in a leisurely lunch. As the day cools, explore Rasdhoo with your guide, delving into the heart of local life. Visit the Mosque, exchange smiles with playful children, and watch women prepare aromatic evening meals. Don't miss the chance to taste 'hedika,' the delightful array of Maldivian snacks washed down with black tea."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Awake to the promise of underwater exploration guided by your expert companion. Dive into Rasdhoo's house reef, where colorful marine life dances beneath the waves. Your guide ensures a safe and memorable snorkeling experience, pointing out hidden treasures. In the late afternoon, glide across crystal-clear waters on a sunset kayaking tour. Paddle to a nearby sandbank, where the sun dips into the ocean, painting the sky in hues of gold and crimson."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "A public ferry in the late morning carries you to Ukulhas, your next destination. As you arrive, savor a delightful lunch and explore the island with your guide. Uncover the traditions of Maldivian fishing and learn how Ukulhas leads in environmental practices. The island's community is warm and welcoming, eager to share stories and showcase their home. Soak in the beauty of pristine beaches while connecting with the friendly locals."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "The day is yours to sculpt as you wish. Dive into the underwater wonderland with activities like snorkeling, diving, and more. For a tranquil escape, take a picnic to a nearby uninhabited island. The house reef at Ukulhas, easily accessible from the shore, calls for exploration. Adventure seekers can opt for a whale shark excursion to South Ari Atoll, witnessing these majestic creatures in their natural habitat."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Spend your final morning in Ukulhas at leisure, taking in your surroundings. After lunch, board a local ferry to Mathiveri, where new adventures await. Upon arrival, receive a briefing about this charming island's activities. Spend the afternoon wandering the island's paths, indulging in a refreshing drink, or simply relaxing by the gentle waves. As the day winds down, set out on a boat to witness dolphins dancing against the sunset-streaked horizon."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Today promises ultimate relaxation and freedom. Consider visiting Mathiveri Finolhu, an untouched island with powdery white sands and turquoise waters, inviting you to unwind in your swimwear. Bask in the serenity of this secluded paradise, allowing the natural beauty to rejuvenate your spirit."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "With hearts full of memories, enjoy a final breakfast before boarding the public ferry back to Male. Arriving in Male by early afternoon, your journey through the Maldives concludes, leaving you with a newfound appreciation for the captivating allure of these islands."
+    }
+  ],
+  "map": ""
+}

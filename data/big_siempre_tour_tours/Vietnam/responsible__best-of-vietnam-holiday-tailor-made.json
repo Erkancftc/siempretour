@@ -1,0 +1,105 @@
+{
+  "destination": "Vietnam",
+  "mainPhoto": "",
+  "id": "best-of-vietnam-holiday-tailor-made",
+  "tourName": "Best of Vietnam holiday, tailor made",
+  "placesVisited": "",
+  "generalInfo": "Discover the Best of Vietnam on this comprehensive 16-day Vietnam holiday. Start in the north with an exploration of the historic city of Hanoi with its wide French boulevards and winding Old Quarter - enjoy the bustling activity of an evening out in Hanoi on a guided street food tour to sample the best dishes on offer. Travel out of the city and learn about a grass-roots microloans scheme aimed to help rural villagers earn a living. Cruise through the limestone karst formations of UNESCO Heritage Halong Bay and paddle yourself through the Bay to explore the caves and coastline.<br/><br/>Take the overnight train to Hue, the old imperial capital and home to a host of interesting sites including the Imperial Citadel and the Royal Tombs. Travel up and over the Hai Van Pass, with its impressive views of the surrounding bays, and end in the historic merchant town of Hoi An. Once known as Champa City, the town boasts a fascinating history and a variety of architectural influences from Japanese to European due to its once important location on the spice route. Jump onto a bicycle and head to the organic gardens to learn about this community project and stroll the streets of the historic centre with its pretty houses and laidback coffee houses.<br/><br/>Continue south to the sprawling metropolis of Ho Chi Minh City, the country's economic heart. Discover the city that is always on the move (usually by motorbike!) before leaving the hustle behind and delving into the wonders of the remote Mekong Delta. Watch the exchange of goods for dong at the busy floating market and take a traditional xe loi through country lanes to experience the life of the rural Mekong. Board a sampan boat and cruise the remote bywaters and discover the birdlife of the Tra Sa Melaleuca Forest Reserve before returning to the city for a spot of last minute sightseeing or shopping.",
+  "durationDays": "16",
+  "price": "4075",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Depart the UK on an overnight flight to Hanoi."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Land Hanoi and transfer to your hotel. The afternoon is at leisure. Early evening head out with your guide on a street food tour through the winding streets of the Old Quarter. The pavements come alive at night with pop-up restaurants so enjoy the chance to sample the local dishes."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Depart the city and head to the remote Hoa Binh province for a stroll through the pretty landscape. Meet a local villager and learn about how the cost of this day trip goes towards the development of their livelihood. Enjoy a spot of basket making and enjoy a traditional lunch. This afternoon visit the People's Committee to learn about the difficulties facing rural Vietnamese women. (B,L) **Note, this day trip only operates on Sunday."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Drive from Hanoi to Halong Bay and board a traditional junk boat. Cruise out on the waters of the bay and enjoy a buffet lunch while the limestone karst formations glide by. Late afternoon board a local boat and explore a local village or take the kayaks for a self-paddle adventure. Return in time for a sundowner onboard. Enjoy dinner and overnight. (B,L,D)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Rise early for a tai chi lesson if you wish. After breakfast head out to explore Me Cung Cave which has some impressive stalactites. After brunch onboard, return to the city and transfer to the railway station for the overnight sleeper service to Hue. (B,L)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Arrive Hue and transfer to the Villa Hue Hotel for breakfast. This afternoon enjoy a tour of the citadel and the Royal Tombs. End the day with a cruise on the Perfume River. (B)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Drive to Hoi An via the Hai Van Pass which offers fabulous views (when not shrouded in cloud!). Arrive in Hoi An and enjoy a tour of the sights including the Japanese Bridge and the Phuc Kien Assembly Hall. (B)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Take a bicycle and head to the community farming project at Tra Que to learn how the community is working together to maintain the organic gardens. Help out in a plot before enjoying a local lunch followed by a herbal foot bath and massage. (B,L)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Today is at leisure in Hoi An. (B)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Fly to Ho Chi Minh City and enjoy a full day city tour. Visit the War Remnants Museum, the Reunification Palace and stroll down Dong Khoi Street which was featured in the novel 'The Quiet American'. The day ends with a trip through the city's canals where life remains unchanged. (B)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Depart the city and head into the Mekong countryside this morning. Visit a local project which aims to help the poorest members of society through things like micro-loans and agriculture training. Head out on a bicycle to discover some of these community projects. Enjoy dinner and overnight in Long My town. B,L,D)"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Enjoy time to visit more projects if you wish before enjoying lunch. Depart for Can Tho and check into the hotel. Evening at leisure. (B,L)"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Discover the bustling morning market today. Watch the sellers hawking their wares and the locals haggling for the best produce and prices. Continue to Chau Doc and cruise through the Vinh Te canal which marks the border between Vietnam and Cambodia. Overnight Victoria Nui Sam Lodge. (B,L)"
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Take a xe loi (the Mekong's version of a city cyclo) through the lanes to discover rural life. Visit a small community of Cambodians who have made the delta their home and explore the Tra Su Melaleuca Forest reserve which is home to a variety of birdlife. Take a sampan through the mangroves before returning to the lodge. (B,L)"
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Return to Ho Chi Minh City and enjoy the remainder of the day at leisure. (B)"
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Transfer to the airport for the flight back to the UK. (B)"
+    }
+  ],
+  "map": ""
+}

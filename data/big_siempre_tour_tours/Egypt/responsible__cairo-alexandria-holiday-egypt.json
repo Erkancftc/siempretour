@@ -1,0 +1,60 @@
+{
+  "destination": "Egypt",
+  "mainPhoto": "",
+  "id": "cairo-alexandria-holiday-egypt",
+  "tourName": "Cairo & Alexandria holiday, Egypt",
+  "placesVisited": "",
+  "generalInfo": "This journey offers a balanced introduction to Egypt through its two most historic cities, Cairo and Alexandria. Designed by local travel experts who live and work in Egypt, the trip combines world-famous sites with a relaxed pace and time to understand everyday life.<br/><br/>You will explore the great monuments of ancient Egypt, such as the pyramids and Saqqara, while also discovering Cairo’s historic districts, local neighbourhoods and Alexandria’s Mediterranean character. There is time to walk, sit in local cafés and experience daily life alongside guided cultural visits.<br/><br/>Throughout the trip, you are accompanied by experienced local guides who provide context, stories and insights beyond the guidebooks. The itinerary is ideal for travellers who want to experience Egypt’s history and culture in depth, without rushing, and with enough free time to absorb the atmosphere of each place.",
+  "durationDays": "7",
+  "price": "1490",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival at Cairo International Airport, where you will be met and assisted before being transferred to your hotel. The rest of the day is free to relax after your journey."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "After breakfast, meet your Egyptologist guide and visit the Pyramids of Giza, one of the most iconic sites in the world. Continue to the Grand Egyptian Museum, including the impressive Grand Staircase. Return to your hotel for the evening."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "After a delicious breakfast, you explore some of Egypt’s earliest capitals and burial grounds. Visit Memphis, the ancient capital, and Saqqara, home to the Step Pyramid of Djoser. Continue to Dahshur to see the Red Pyramid, an important milestone in pyramid construction. Return to your hotel for the evening."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Get your breakfast, travel by vehicle to Alexandria on the Mediterranean coast (approximately three hours). Visit key sites such as the Catacombs of Kom El Shoqafa and Pompey’s Pillar, followed by lunch during the tour. Check in to your hotel and enjoy a relaxed evening at leisure."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "After breakfast, check out and explore Alexandria’s highlights including the Bibliotheca Alexandrina and the Qaitbay Citadel, built on the site of the ancient Lighthouse of Alexandria. Enjoy lunch during the tour. In the late afternoon, return by vehicle to Cairo for overnight stay."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Breakfast, then visit the Citadel of Salah El-Din and the Mosque of Mohamed Ali. Continue to Old Cairo, visiting historic religious sites, and explore Khan El-Khalili Bazaar to experience local life and crafts. Return to hotel for overnight stay."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Transfer to Cairo Airport for your return flight, carrying with you the spirit of Egypt, its timeless history, stories, and endless beauty."
+    }
+  ],
+  "map": ""
+}

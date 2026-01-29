@@ -1,0 +1,60 @@
+{
+  "destination": "Taiwan",
+  "mainPhoto": "",
+  "id": "taiwan-highlights-tailor-made",
+  "tourName": "Taiwan highlights, tailor made",
+  "placesVisited": "",
+  "generalInfo": "This private tour is to explore Taipei, Yilan, Sun and Moon lake and Alishan in Taiwan, and will offer a delightful trip, blending natural beauty and cultural richness.",
+  "durationDays": "7",
+  "price": "2869",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "During today's tour in Taipei, your guide will meet you at your hotel. Your trip will start by visiting the historical Chiang Kai Shek Memorial Hall, a significant landmark in Taiwan. From there, you will make your way to Dihua Street, known for its traditional atmosphere and preserved buildings. After exploring Dihua Street, you will head to NingXia Night Market, renowned for its local gourmet snacks and street food. At the market, you will have the opportunity to sample various delicious treats while immersing yourself in the vibrant atmosphere. Throughout the day, you can rely on Taipei's efficient public transportation system to easily navigate between these attractions."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Embarking on a day trip from Taipei to Yilan, you'll first visit Yehliu National Geo Park, home to the iconic Queen's Head rock formation. Next, you'll proceed to Jiufen, where you can explore the nostalgic Old Street, visit a vintage theater house, and witness the mesmerizing Golden Waterfall. Throughout the day, you'll enjoy the scenic journey through the Yilan region, with each destination approximately an hour away from the next."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Today on your day trip in Taipei, your first destination will be the breathtaking panoramic Pacific views and rugged cliffs. Later, explore Nanya's unique rocky shore, teeming with tide pools and marine life. Then to wander through Shifen Old Street, a charming town brimming with history. Browse traditional shops, sample local delicacies like taro balls, and lose yourself in the narrow, atmospheric lanes. Immerse yourself in the peaceful Shifen Waterfall. Hike through lush greenery, feel the power of the cascading water, and capture breathtaking photos. Join the magical Shifen Sky Lantern Festival. Write your wishes on a lantern, watch it ascend into the twilight sky, and let your hopes and dreams take flight."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Travel from Taipei to Nantou. Embark on a spiritual journey that culminates in artistic creation. Find serenity at Chung Tai Chan Monastery, a majestic complex nestled in Nantou's mountains, before stepping into the whimsical world of paper making at a local factory. Witness the transformation of humble fibers into intricate sheets, unleashing your own inner artist as you learn this age-old craft. Let this day be a harmonious blend of introspection and creativity, leaving you inspired and renewed."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Sun Moon Lake: Embrace the beauty and activity of Sun Moon Lake! Start with a captivating boat tour across the shimmering waters, soaking in the lake's majestic mountains and serene temples. Next, hop on a bike and cruise along the scenic shoreline, feeling the wind in your hair and reveling in the panoramic views. End your day with a visit to Wenwu Temple, the iconic landmark, and offer your prayers for academic success or simply for a fulfilling journey. Remember to savor local delicacies and capture stunning photos along the way for a complete Sun Moon Lake experience!"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Travel from Nantou to Chiayi. Embark on a journey into the ethereal beauty of Alishan National Scenic Area, a three-hour journey away. Breathe in the invigorating mountain air as you conquer the Sacred Forest Trail, weaving through a mystical canopy of giant cypress trees. Next, board the iconic Alishan Railway, opting for a nostalgic branch line ride that winds through breathtaking landscapes, unveiling hidden waterfalls and panoramic vistas. Prepare to be mesmerized by the magic of Alishan, where nature's splendor and heritage intertwine, leaving you awestruck and refreshed."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Travel from Chiayi to Taipei. Bid farewell to Chiayi and wind your way back to Taipei with a stop in Lukang Township, a haven of historical charm and warm hospitality. Wander through the narrow lanes of Lukang Old Street, soaking in the atmosphere of bygone eras. Admire traditional architecture, savor local delicacies like oyster omelets and pineapple cake, and perhaps pick up unique souvenirs. Conclude your journey at Lukang Longshan Temple, a renowned landmark radiating spiritual grace and cultural significance. Let Lukang's charm captivate you before returning to Taipei with a heart full of warm memories and treasured experiences."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,50 @@
+{
+  "destination": "India",
+  "mainPhoto": "",
+  "id": "northern-india-luxury-tour",
+  "tourName": "Northern India luxury tour",
+  "placesVisited": "",
+  "generalInfo": "Luxury accommodation for 10 nights, including breakfast<br/>All airport and hotel transfers<br/>An air-conditioned car with driver<br/>English-speaking local guides<br/><br/>We love the Oberoi hotel range. They continually exceed ours and our valued clients’ expectations. From April to September, there are some excellent rates for families on offer; hence, the itinerary gets booked up fast. So, call well in advance.<br/><br/>Reassuringly stylish, surprisingly affordable.",
+  "durationDays": "11",
+  "price": "5934",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Delhi -2 nights Step off the plane and into our care with assistance on arrival at Delhi International. One of the most elegant hotels in downtown Delhi, the Oberoi will welcome you in style. Plan your adventures for the days ahead over a breakfast briefing. Explore the vibrant cities of New and Old Delhi. Experience Spend your first night in India pampered by contemporary luxury. Start the day refreshed with a pre-breakfast dip in the heated pool. Show traditional respect as you slip off your shoes when you approach Mahatma Gandhi’s memorial, Raj Ghat. Explore the mysteries of the 17th century Red Fort with its gilded columns and marble pool Bump through the streets of Old Delhi in a romantic rickshaw ride."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Agra -2 nights An early start to the day heralds adventure as you cross town in our care to board the morning train to Agra. Tonight you’ll be sleeping in one of the India’s best resorts, in the beautifully-preserved city of Agra, surrounded by some of the world’s finest structures. Experience Hop on board the Shatabdi Express train to Agra, travel in air-conditioned comfort as you leave the city behind and speed through golden farmland. Relish your private view of the world’s greatest monument to love from the luxury Oberoi Amarvilas. Explore the Agra fort, where Shah Jahan spent years of confinement, see the Taj Mahal through new eyes when you learn of his tragic history. Before sunrise, wake to follow in the footsteps of all who visit this wonder of the world and see the gleaming white marble beauty of the Taj Mahal in the early morning light."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Jaipur 2 nights Relax and enjoy your journey to Jaipur, we’ll take care of everything. En route visit the abandoned city of Fatehpur Sikri. Discover why Jaipur earned its nickname of the ‘Paris of India’ on a half-day tour. Stroll its wide boulevards and photograph the flamboyant pink- painted streets. Stock up on treasures to take home at the vibrant night market. Experience Walk through the haunting perfection of the abandoned palaces and courtly houses of the ‘Ghost City’. Be amazed by the ingenuity of the city’s past inhabitants at Jantar Mantar, the world’s largest stone observatory. Watch in wonder as dusk blushes Jaipur’s terracotta buildings a deeper shade of pink. Take time to explore the splendour of the Oberoi Rajvilas and its 32 acres of gardens, pools and fountains. Cherish a moment alone in the peaceful Rajasthani countryside."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Udaipur -3 nights Head north by comfy air-conditioned car to Udaipur, nicknamed the ‘Venice of the East’. Explore the city’s palaces and landscaped gardens on a half-day tour. Experience life in majestic luxury at the Oberoi Udaivilas. Experience Visit the City Palace, home to the former kingdom of Mewar, with its lavish raised gardens and towering temples. Slip off your shoes and walk through the stunning Jagdish Temple, dedicated to Lord Vishnu. It feels like a fairy tale, but it’s real; journey across Lake Pichola by boat to be greeted with a ceremonial welcome at the Oberoi Udaivilas resort."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Udaipur to Delhi: After a relaxed breakfast fly Udaipur to Delhi and unwind at relaxing The Oberoi Gurgaon hotel, before flying back home."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,50 @@
+{
+  "destination": "Belize",
+  "mainPhoto": "",
+  "id": "belize-active-adventure-tour",
+  "tourName": "Belize active adventure tour",
+  "placesVisited": "",
+  "generalInfo": "The epic adventure takes you far from the usual tourist path with a varied itinerary that explores Belize’s different cultures, tropical rainforests, wild rivers, remote villages and finishes with a journey 38 miles out to sea to a stunningly beautiful and pristine coral atoll. This trip is a perfect match for those looking for an active, adventurous vacation that encompasses the very best that Belize has to offer.",
+  "durationDays": "9",
+  "price": "3250",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "ARRIVE IN BELIZE CITY & TRANSFER TO BOCAWINA RAINFOREST LODGE- Welcome to Belize. Arrive at the Belize International Airport where you will connect for a scenic 20 minute flight to the coastal town of Dangriga. You’ll then be met by an Island Expeditions’ representative and transferred by road to Bocawina Rainforest Lodge in the foothills of the Maya Mountains. After checking into our accommodations we enjoy a ‘Welcome to Belize Dinner’ at the rainforest at the resort’s acclaimed restaurant “The Wild Fig”, with our fellow travellers and our Belizean guide team. This day is your day to arrive before the trip starts, meet your fellow travellers, and acclimatize to your new tropical environment. Transfers from the airport and lodging are included. Overnight in Bocawina Rainforest Lodge"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "SANTA THERESA- We wake up to the sounds of the tropical rainforest, enjoy an early breakfast and then continue to the Wild South of Belize. We travel overland through the countryside to the remote Maya village of Santa Theresa. We enjoy a traditional meal prepared at the home of a local family before continuing another 30 minutes to our put-in on the Moho River. Our guides teach you the fundamentals of handling the inflatable kayaks in moving water before stating our journey down one of Belize’s most beautiful rainforest rivers to our first river camp."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "EXPLORE THE MOHO RIVER- Today we break contact completely with the outside world as we follow the Moho River through canyons and lush rainforest. Each bend reveals the dynamic nature of the river from the calm meandering water that reflects the intense green of the jungle, to stretches of the rapids, pour-overs and spectacular waterfalls. During the trip our Mayan guides assist us with improving our moving water paddle skills, and prove an understanding of the ecology of the rainforest, learning about the habits of the wildlife, and gaining an appreciation for the rick Mayan folklore which adds so much to our experience in the jungle."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "MOHO RIVER- THE BOCAWINA LODGE- In the morning, as we descend out of the Maya Mountains the river changes its nature, widens and begins to meander into the coastal plains. On route back to Bocawina we stop for lunch at the ancient Mayan city of Lubaantun, a beautiful ridgetop site overlooking the Columbia River Valley. Settle into your room and pamper yourself with all the amenities of our boutique lodge. We’ll gather at the bar before enjoying dinner at the Wild Fig restaurant."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "EXPLORING THE BANKS OF THE RIO GRANDE REGION- Even though we’ve changed from a riverside camp to a comfortable lodge, we’re still in the midst of a pristine rainforest. Today we’ll hike to hidden waterfalls with astounding views all the way to the Caribbean Sea, you can choose to rappel down a waterfall and, one of the special attractions of Bocawina Lodge, a thrilling two and a half mile rainforest canopy zipline course on the lodge property."
+    }
+  ],
+  "map": ""
+}

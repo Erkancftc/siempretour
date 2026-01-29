@@ -1,0 +1,60 @@
+{
+  "destination": "Costa Rica",
+  "mainPhoto": "",
+  "id": "enchanting-7-day-costa-rica-family-vacation",
+  "tourName": "Enchanting 7-Day Costa Rica Family Vacation",
+  "placesVisited": "La Paz, Manuel Antonio, Arenal, Monteverde Cloud Forest",
+  "generalInfo": "This luxurious 7-day journey combines three iconic destinations with adventures on volcanos, in the cloud forest, on Pacific beaches, and within wildlife refuges. Green, tranquil, wild, and full of wonder, Costa Rica is an enchanting destination for a family foray with a focus on interactive fun. Hot springs and bucolic lodges provide space to unwind, and private activities provide your family with much of the best of Costa Rica. Get ready to explore La Paz, Manuel Antonio National Park, Arenal, and Monteverde.",
+  "durationDays": "7",
+  "price": "2,100",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "La Paz – Smothered in Cacao",
+      "description": "Your Costa Rican vacation will begin the moment that you land in San Jose, and a nearby cacao plantation will be the perfect place to engage your kids immediately. You will be picked up at the airport by your driver and transferred to La Paz. Along the way, you will stop at an organic farm, where you can wander through the cacao bushes and wonder how such a bizarre plant can create such a delicious delicacy. From the cacao plantation, you will continue your journey to La Paz, which is a small destination that is surrounded by lush valleys. Here, your welcoming dinner will be complemented by traditional song and dance and a platter of local cuisine."
+    },
+    {
+      "dayNumber": "2",
+      "title": "La Paz – Wonders of an Active Volcano",
+      "description": "This morning, you will visit Poas Volcano National Park for a family treasure hunt on one of Central America’s most active volcanos. You do not need to worry because this is a very safe experience. Your local guide will lead you on an educational treasure hunt as you search for geological clues on the volcano, such as fumaroles and sulfur. After your scavenger hunt, lunch will be included at a nearby coffee plantation. Then, after eating, you can explore the organic farm, where you will follow the coffee-making process from bean to cup before sampling some of the finest coffee on the planet. You can all learn how to discern the coffee’s quality during a coffee cupping session."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Manuel Antonio National Park – Pacific Ocean Bliss",
+      "description": "By staying in La Paz, you will have a short transfer to San Jose’s airport, where you will board a direct flight to Manuel Antonio National Park. During your time in the national park, you will be able to feel nature and the wonders of the wild while still enjoying a classic beach break. This afternoon will be at your leisure. Overlooking a golden beach, your hotel will be idyllically situated if you want to relax and not do much. In the late afternoon, your guide will lead you to the Pacific for a private catamaran cruise. Drinks and snacks will be served as you cruise along the national park coastline and enjoy a vibrant, Pacific sunset."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Manuel Antonio National Park – Costa Rican Wildlife",
+      "description": "After a day on the beach, today will provide you with a day in nature, exploring the wildlife-rich trails of the remarkable Manuel Antonio National Park. As your adventure continues, you should look out for sloths as you walk, which are slow and baffling creatures that cling to tree trunks. The national park’s size is ideal for families, and you can walk just three miles and experience a stunning array of birds, mammals, and butterflies. After a morning of wildlife, the afternoon will be yours to spend at your leisure, so you can have the opportunity to spend more time on the Pacific beaches."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Arenal – Ziplining Through the Trees",
+      "description": "After a relatively late start this morning, you will fly to Arenal. In Arenal, volcanos dominate the landscape, and you will touch down among the soaring mountains and forests of Costa Rica’s interior. After a private transfer and lunch at your resort, the afternoon adventure will reveal the wonders of Arenal’s forested slopes. First, you will travel by sky tram, ascending above the treetops to spectacular views of the water and canopy. You will travel up and then zoom back down via some of the world’s most exciting ziplining tracks. After a couple of short lines, you will continue your journey on a mix of high bridges and more ziplines. Your resort will have its own hot springs, and while these are also public, the entry price for non-staying guests keeps them serene and soothing."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Arenal – The Hanging Bridges of Monteverde",
+      "description": "Your family fun will continue on a private adventure to Monteverde Cloud Forest Reserve. With the Arenal volcano peering down on you, you will cross Lake Arenal, which will prove to be a soothing, morning sight before a rugged track leads you into the clouds. Like yesterday, your experience today will be all about a unique way to explore. Narrow bridges connect enormous trees and hang down over the canopy, offering an idyllic view of the forest life. Hanging bridges are very safe and great for kids. They are like a giant adventure playground route in the midst of pure nature. After coming down for lunch, your local guide will show you the forest floor, where you will have the opportunity to witness more of Costa Rica’s rare animals."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Arenal – Intimate Wildlife Encounters",
+      "description": "With a late-afternoon flight out of San Jose, you will have time for some more wide-eyed wonder before your exciting vacation comes to a close. This morning, your children come face to face with different monkeys and sloths. At a wildlife sanctuary the encounters are more guaranteed, so you can see any animal that is on your must-see list. From the sanctuary, you will be transferred to Arenal’s airport for the very short flight to San Jose and your onward connection."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,50 @@
+{
+  "destination": "Tibet",
+  "mainPhoto": "",
+  "id": "tibet-5-day-tour",
+  "tourName": "Tibet 5 day tour",
+  "placesVisited": "",
+  "generalInfo": "Take this 5-day Tibet tour for a pilgrimage to the Potala, a monks’ debate in Sera Monastery, more Lhasa highlights, and a lakeside picnic by Lake Yamdrok.",
+  "durationDays": "5",
+  "price": "1079",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Your private driver and guide will be ready for you when you arrive in Lhasa. Sit back in a comfortable vehicle, leave the hassles to your guide, and enjoy a trouble-free transfer and check-in to your hotel. Meals: No meal Accommodation: 4 or 5 star hotel"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Visit Norbulingka (\"Lhasa's Summer Palace\")in the morning, then visit Drepung Monastery. In the afternoon, you'll watch monks debating over age-old scriptures in a courtyard of Sera Monastery. Enjoy the thangka-like murals painted on big rocks on the \"back hill\"."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Pilgrimage to the Potala Palace in the morning. Enjoy a walking tour to Jokhang Temple in the afternoon. Then walk along Barkhor Street to experience Tibetan daily life in a local market. Learn the history of Tibet at a Qing Dynasty ministerial office site and a wealthy merchant's residence — the Pandatsang Compound. Have a rest and enjoy a cup of Tibetan sweet tea in less-touristy Ani Tsangkhung Nunnery at the end of the day's touring. Note: We suggest visiting the Potala Palace on the third day, just in case that you need some time to get used to the altitude after arriving in Lhasa in readiness to climb about 360 steps."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "You will be driven about 2 hours from Lhasa to Lake Yamdrok. After viewing the lake from the popular platform, you will enjoy a picnic on the bank of the lake if the weather is ok."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "After breakfast, your private guide and driver will take you to the airport for your departure."
+    }
+  ],
+  "map": ""
+}

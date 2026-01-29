@@ -1,0 +1,60 @@
+{
+  "destination": "Ecuador & Galapagos",
+  "mainPhoto": "",
+  "id": "amazon-and-galapagos-holiday-ecuador",
+  "tourName": "Amazon and Galapagos holiday, Ecuador",
+  "placesVisited": "",
+  "generalInfo": "Designed for those seeking ultimate nature and adventure, this two-week itinerary immerses you in Ecuador’s most untamed landscapes home to Indigenous communities and staggering biodiversity. Begin deep in the Ecuadorian Amazon exploring Yasuni National Park, then island-hop through the Galapagos Islands with expert local guides who reveal the archipelago’s history, culture, and extraordinary wildlife. <br/><br/>Throughout your trip, you’ll travel responsibly, travel differently, and stay in eco-lodges that support local communities and conservation efforts.",
+  "durationDays": "13",
+  "price": "5600",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Quito: Upon arrival, transfer to your airport hotel and spend the evening at leisure, settling in and preparing for the adventure ahead."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Ecuadorian Amazon: Rise early for your flight to the jungle town of Coca, where your Amazon adventure begins. Travel by canoe along the winding waterways of Yasuni National Park before arriving at your unique jungle lodge. Over the coming days discover the incredible biodiversity of the Amazon as you explore its jungle trails, climb observation towers, and navigate serene creeks in a traditional dugout canoe. Witness the spectacle of vibrant parrot clay licks and connect with the local culture at the Kichwa Interpretation Centre, managed by the women of the community."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Quito: Return to Quito and settle into your boutique hotel in the heart of the city’s historic centre. With your local guide, explore the old town’s cobblestone streets, whitewashed walls, and elaborately decorated churches before ending with a chocolate workshop where you will learn about the Cacao process from bean to bar. The next day, choose from three private full-day tours: visit the vibrant indigenous markets of Otavalo, explore the iconic Cotopaxi Volcano, or wander the mist-shrouded Bellavista Cloud Forest. Whatever you choose, enjoy a glimpse into the richness of Ecuador’s landscapes and local traditions."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Santa Cruz Island: Fly to the Galapagos Islands where the next seven days promise an immersive island-hopping adventure. Kayak, snorkel, or paddleboard along the turquoise waters of the Itabaca Channel and encounter iconic wildlife, from blue-footed boobies and sea lions to brown pelicans and white-tipped reef sharks. Continue to the highlands of Santa Cruz to observe Giant Tortoises roaming freely in their natural habitat. The following day, head out to sea with a Galapagueno fisherman turned naturalist guide and explore Santa Fe Island. Here, you’ll have the chance to swim with sharks, snorkel among colourful fish, and walk alongside one of the most important sealion colonies in the entire reserve."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Floreana Island: Transfer by shared speed boat to Floreana Island, the first inhabited island of the archipelago and a former pirate’s lair. A stay here, not only brings you close to the islands unique wildlife but also offers the privilege to connect with local residents like Claudio Cruz whose deep knowledge of Floreana’s history, provides a rare insight into daily life on Floreana. During your stay, walk or kayak to Black Beach for snorkelling, visit the sea lion breeding grounds of La Loberia and explore the highlands aboard a local chiva (open airbus) as your local guide shares stories of Floreana’s colourful past and rural present."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Isabela Island: Conclude your Galapagos adventure on Isabela, one of the youngest’s and most volcanically active islands. Visit the local giant tortoise breeding centre, an essential conservation project, and cycle along the islands network trails where you’ll encounter marine iguanas, giant tortoises, and the historic Wall of Tears. Explore the Tintoreras islets in search of sharks, sea lions, turtles, rays, penguins, and blue footed boobies, then snorkel in a sheltered bay often accompanied by playful penguins and sealions. Hike to the crater rim of the gigantic Sierra Negra Volcano for incredible views before continuing to Volcan Chico to explore its otherworldly lava fields, tubes, and fumaroles."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Departure: Say goodbye to the Galapagos and fly back to mainland Ecuador, connecting with your international flight home."
+    }
+  ],
+  "map": ""
+}

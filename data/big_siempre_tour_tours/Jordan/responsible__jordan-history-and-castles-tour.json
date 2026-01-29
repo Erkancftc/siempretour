@@ -1,0 +1,75 @@
+{
+  "destination": "Jordan",
+  "mainPhoto": "",
+  "id": "jordan-history-and-castles-tour",
+  "tourName": "Jordan history and castles tour",
+  "placesVisited": "",
+  "generalInfo": "Feel like a knight during this special Castles of Jordan Tour. You will also visit the highlights of Jordan but its focus is on the awe inspiring castles. From beautiful famous immense castles to smaller lesser known castles hidden in corners of Jordan. Visit castles that most tourists don’t even get to see.  It will feel like stepping into a fairy tale with all those beautiful castles in Arabian land.",
+  "durationDays": "10",
+  "price": "2590",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival Queen Alia Airport — Amman Arrival at Amman Queen Alia International airport, our representative waits you at the airport holding a name sign and he will help you in arranging your visa ( Non- restricted nationalities), and then walk with through the customs. Your driver will wait for you in the arrival hall, holding a name sign he will transfer you to the 4* Hotel in Amman for overnight, including bed and breakfast."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Amman – Qasr Al Abd in Wadi Seer – Jerash – Ajlun Castle – Amman At 07.30 am start your day. First drive to Wadi Seer to visit Qasr Al Abd, also known as the Palace of the Slave and perhaps the most important palace from the Hellenistic era. Drive to Jerash, to visit the world’s best preserved Roman provincial city. Continue to Ajlun Castle with stunning views over the area. Also known as Saladin’s Castle and one of the best preserved examples of Arab/Islamic military architecture in the Middle East. Transfer back to Amman. Time permitting you will visit the Citadel in Amman before transferring back to your hotel for overnight, including breakfast"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Amman – Qasr Al Hallabat – Qasr Hammam As-Sarh – Qasr Al Azraq – Qasr Asaykhim – Azraq Wetland Reserve Today you will be visiting lots of castles. Qasr is the Arabic word for castle. You will head to the East of Jordan to visit the famous Desert Castles. Start with a visit to Qasr Al Hallabat. Continue to Qast Hammam As-Sarh and then drive on to Azraq. At Azraq you will first visit Qasr Al Azraq before stopping for lunch at the Azraq Eco-Lodge. After lunch continue your tour of the Desert Castles by driving on to Qasr Asaykhim for a visit. Transfer back to the Azraq Eco-Lodge for dinner and overnight."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Azraq Wetland Reserve – Qasr Al Uwaynid – Qasr Amra – Qasr Kharanah – Qasr Al Mushatta – Amman Another day full of touring castles! Today you will visit Qasr Al Uwaynid, Qasr Amra, Qasr Kharanah and Qasr Al Mushatta. Lunch boxes are included. Overnight in Amman."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Amman – Madaba – Mt. Nebo – Karak Castle – Dana Nature Reserve Drive to Madaba, where you will visit the St. George Church, with its famous mosaic map. Continue to Mt. Nebo from where Moses viewed the Promised Land. Drive on to Karak Castle, an immense and famous Crusaders Castle. Then transfer to Dana Nature Reserve for dinner and overnight."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Dana Nature Reserve – Shobak Castle – Little Petra – Petra After breakfast you can enjoy the old village of Dana with beautiful views over the reserve. Then leave Dana Nature Reserve to drive to Shobak Castle, located on top of a mountain it is a perfect spot to build a castle. Continue to Little Petra for a visit before transferring to Petra for overnight."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Petra Today you will visit Petra. After visiting the Siq, Treasury, Street of Façades, the Amphitheatre, you still have time to visit the High Place of Sacrifice and/or the Monastery. Overnight at a hotel in Petra."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Petra – Wadi Rum Drive to Wadi Rum for a half day jeep tour including a fresh prepared lunch; of this beautiful desert, famous about the red sand and rock formations. Overnight at authentic campsite including dinner"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Wadi Rum -Dead Sea After breakfast drive to the Dead Sea, lowest point on the earth's surface, for a free afternoon. Float in the salty waters and try out a pampering spa treatment. Overnight at a hotel at the Dead Sea"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Dead Sea – Amman Airport Transfer to Amman Airport for departure. 3 hours in advance of your departure (2 hours for the check in and less than 1 hour driving from Dead Sea to Amman Airport)."
+    }
+  ],
+  "map": ""
+}

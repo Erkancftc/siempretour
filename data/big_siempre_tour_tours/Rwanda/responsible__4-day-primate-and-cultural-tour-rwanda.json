@@ -1,0 +1,45 @@
+{
+  "destination": "Rwanda",
+  "mainPhoto": "",
+  "id": "4-day-primate-and-cultural-tour-rwanda",
+  "tourName": "4 day primate and cultural tour, Rwanda",
+  "placesVisited": "",
+  "generalInfo": "On this safari, you will experience the scenery, nature and wildlife of Rwanda. Drive to the twin lakes in northern Rwanda for an experience taking a canoe on the beautiful lake with views of the Virunga's. <br/><br/>After this experience, leave for volcanoes national park where you will track the mountain gorillas, golden monkeys and a cultural experience at the gorilla guardians village. End the tour exploring Kigali city – visit the genocide memorial, Nyirambo women’s center and craft market.",
+  "durationDays": "4",
+  "price": "4832",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "TO VOLCANOES NATIONAL PARK | CANOEING ON RIVER MUKUNGWA: Have breakfast and after leave for canoeing on river Mukungwa. Enjoy a canoe ride on the river with views of the Virunga volcanoes and neighbouring villages. After the experience, leave for Volcanoes national park. Check into your lodge for an exciting Rwanda gorilla trekking experience tomorrow."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "GORILLA TREKKING & GORILLA GUARDIANS VILLAGE: Start the Rwanda gorilla trek with a briefing from the ranger guides at the park headquarters. After the brief, join a gorilla group with guidance from your tour guide. Depending on location of gorilla family, you might have to drive to the trail head. After one hour with the gorillas, you start your hike out of the park. Your driver guide will pick you up and transfer you to the lodge for down time. After the gorilla trekking experience, leave for a community experience. Learn about the culture and history of Rwanda. Try out your bow and arrow shooting skills or basketry etc."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "HIKE DIAN FOSSEY GRAVE: Your driver guide will transfer you for briefing at the park headquarter about the expectations while you the hike. After the briefing, your driver guide will transfer you to the trail head which is about 30 minutes drive on a bumpy road. Start the trek up to the park boundary where it is separated from the community. There are porters at the this point and you are advised to take one. Taking a porter gives community people opportunities for work. On the park boundary you will meet armed soldiers who will escort you on your hike to the mountain because the mountain is home to Elephants and Buffaloes which can be dangerous."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "GOLDEN MONKEY TREKKING & DEPARTURE Return to the park headquarters for briefing before you can go for your golden monkey trekking experience. After the briefing - leave for the experience in the park. You are allowed one hour after which you exit the park. Return to the lodge for lunch and thereafter depart for Kigali."
+    }
+  ],
+  "map": ""
+}

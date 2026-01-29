@@ -1,0 +1,75 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "argentina-uruguay-brazil-holiday",
+  "tourName": "Argentina, Uruguay & Brazil holiday",
+  "placesVisited": "Argentina: Buenos Aires, Uruguay: Colonia, Estancia stay, Horse riding, Puerto Iguazu, Brazil: Foz do Iguacu, Iguazu Falls from both Brazilian and Argentinian sides, Rio de Janeiro",
+  "generalInfo": "This Argentina, Uruguay and Brazil holiday is a great value introduction to three of South America’s fascinating countries. This 10 day trip skirts the eastern coast of the continent, with time to enjoy two iconic cities – Buenos Aires and Rio de Janeiro – and a fascinating three night stay on a working estancia in the heart of Uruguay. You’ll also see one of South America’s natural wonders, the Iguazu Falls, exploring it from both the Argentinian and the Brazilian sides.<br/><br/>In Beunos Aires, an orientation walk will help you get your bearings, before soaking up the city’s mix of European and Latin influences. From here, it’s time to make like a gaucho on a working estancia in rural Uruguay. You can help out as little or as much as you like here, getting stuck in with daily farm work, working with livestock and riding horses, or simply relaxing and enjoying the very special Uruguayan hospitality. The next treat in store is the chance to explore the spectacular Igauzu Falls from both the Argentinian and Brazilian sides, before finishing this trip in unforgettable, charismatic Rio de Janeiro, where a huge range of optional activities that will help you discover this exciting metropolis.<br/><br/>You’ll travel by plane, local bus, ferry and an overnight bus, with a group of no more than 16 people.<br/>",
+  "durationDays": "10",
+  "price": "2210",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Buenos Aires.",
+      "description": "Bienvenido! Welcome to Buenos Aires. Your trip begins with an orientation walk around Buenos Aires’ Microcentro district at 1 pm – your leader will be waiting in the hotel lobby. Pass by historic buildings along the Avenida de Mayo, including the Casa Rosada (Argentina's government house), explore antique markets in the picturesque San Telmo area and perhaps have a coffee in the famous Cafe Tortoni. Make sure you're back at the hotel for your welcome meeting at 6 pm where you’ll prepare for the rest of your adventure."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Colonia del Sacramento.",
+      "description": "The morning is free to explore Buenos Aires – just ask your leader if you need any recommendations. Later in the day, jump on a ferry to cross the Rio de la Plata (River Plate) to Colonia del Sacramento in Uruguay. When you arrive, enjoy some free time to get acquainted with one of the country’s oldest cities. The World Heritage-listed Barrio Historico (Old Quarter) is a great place to start. Listen to the noisy parakeets in the Plaza Mayor or comb Colonia’s small museums. For great views, climb to the top of the city’s 19th-century lighthouse that’s still in operation today."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Colonia del Sacramento / Estancia Stay.",
+      "description": "Enjoy a free morning in Colonia De Sacramento. You could continue strolling around Barrio Historico or maybe check out the artisan stalls selling Swiss cheese – Colonia was also settled by Swiss immigrants and is home to a unique local Swiss cheese. In the afternoon, you’ll take a private transfer to an estancia near the city of Mercedes where you'll meet your hosts who’ll look after you for the next couple of days."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Estancia Stay.",
+      "description": "Spend a couple of days experiencing life on a Uruguayan estancia. Although you’re welcome to relax and explore your surroundings at your leisure, there are plenty of opportunities to get involved with ranch activities, like making fresh empanadas or joining a game of football or volleyball. The digs aren’t fancy, but the surroundings and hospitality are something special. Eat homecooked meals including a traditional asado (barbecue), enjoy music around the campfire and maybe saddle up for a horse ride in true gaucho style."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Estancia Stay.",
+      "description": "Spend another day taking in the gorgeous views across the estancia. Maybe head out on another horse ride to explore your surroundings or make your way into nearby Mercedes for a river walk and an ice cream."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Overnight Bus - Iguazu Falls.",
+      "description": "After breakfast, bid farewell to your hosts and travel to the Uruguay/Argentinian border. Cross the border to Argentina, then prepare for an overnight bus to Puerto Iguazu – the gateway to Iguazu Falls. There’ll be a chance to grab a light dinner and some snacks before the journey."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Iguazu Falls (Brazilian Side).",
+      "description": "When you arrive at Puerto Iguazu bus station this morning, jump in a minivan across the border into Brazil and head straight to the national park to stretch your legs and see the mighty Iguazu Falls. After some time spent admiring this force of nature, head to your hotel in Foz do Iguacu, where you have free time for the rest of the day."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Iguazu Falls (Argentinian side) .",
+      "description": "Return to Argentina today to see Iguazu Falls from a different angle. Following a series of boardwalks, it’s possible to get so close to the thundering waters that you can almost touch them. At over two km long, Iguazu Falls are made up of over 270 separate cascades, with some reaching up to 80 m in height. For a more exhilarating experience, why not take an optional Zodiac boat ride to the base of the falls? After, head back to your hotel to relax."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Rio de Janeiro.",
+      "description": "Today you’ll take a flight to Rio de Janeiro. Settle into your hotel room, then head out with your leader for an orientation walk. The remainder of the day is free to explore at your own pace. Maybe head to Copacabana or Ipanema Beach or, if the time of year is right, check out a soccer game at the famous Maracana Stadium. You could also take the tramcar up to the artistic hillside neighbourhood of Santa Teresa, or head up Corcovado Mountain for sweeping views over Rio from the foot of the Christ the Redeemer statue."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Rio de Janeiro.",
+      "description": "With no activities planned, your trip comes to an end after breakfast. If you'd like to spend more time in Rio, we'll be happy to book additional accommodation for you (subject to availability)."
+    }
+  ],
+  "map": ""
+}

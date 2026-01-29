@@ -1,0 +1,45 @@
+{
+  "destination": "Greece",
+  "mainPhoto": "",
+  "id": "self-guided-hiking-holiday-saronic-islands-greece",
+  "tourName": "Self guided hiking holiday Saronic Islands, Greece",
+  "placesVisited": "",
+  "generalInfo": "A four day self-guided walking holiday hiking in Aegina, one of the sublime Saronic islands just an hour by ferry from Athens. This carefully-crafted itinerary takes you on two exquisite walks, both accessible from your hotel where you are based for the week. One walk is up to the island’s prettiest of peaks, Mt. Ellanio (532m), with spectacular views across the Saronic Gulf. The other to some of the island’s important cultural sites, such as Agios Nektarios and Agia Marina monasteries, the Byzantine churches of Paleochora and ancient Temple of Aphaia.",
+  "durationDays": "4",
+  "price": "390",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival in Aegina: Transfer from Athens centre or Athens airport to Piraeus port and ferry to Aegina. On Aegina, your luggage will be picked up from the port so you can walk to your accommodation in the town. Accommodation: Hotel Danae or similar;"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Walk from Perdika to Marathonas beach | 10km: Today's walk starts at the picturesque fishing village Perdika, which you can travel to by bus or taxi. From Perdika, head inland via old trails which lead you past chapels, former windmills and old threshing floors. Walk through the village of Sfendouri and trek up through limestone landscapes to be rewarded with superb views of neighbouring Agistri, Moni and Methana islands as well as the Peloponnese peaks. You can make an optional loop to Mt. Ellanio, the highest summit of Aegina at 532m, a perfect picnic spot. After the descent walk to Eleonas, a plain dotted with ancient olive trees. The walk comes to a gorgeous finale at Marathonas beach. Depending on the time, there may be a local bus back to town, otherwise, take a taxi. Walking for the day: 4-5h, 10km, ­climbing 600m descending 600m; Accommodation: Hotel Danae or similar;"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Walk from Agios Nektarios to Agia Marina | 11km: The walk from Agios Nektarios to Agia Marina is one of the most beautiful trails of the Saronic Islands. Start at Agios Nektarios monastery, located in the centre of the island, which you can travel to by bus or taxi. The Monastery was built for Holy Nektarios who died in 1920. Thousands of pilgrims come here every year. After your visit, walk a short distance to the old town of Paleochora, located on top of a hill. In the Middle Ages, this was a busy town and you can still see the remains of 38 Byzantine churches, some remain well preserved but most in ruins. From Paleochora, the walk continues via a ridge with ruined windmills to a scenic viewpoint. Walk back down through ancient olive groves to Mesargos and, from this village, walk on rural roads and dirt tracks to Agia Marina nunnery. Shortly after, Temple of Aphaia comes into sight. After you visit this ancient Greek Temple, walk down a wide track to the seaside resort Agia Marina. From here you return to Aegina town by public bus or taxi. Walking for the day: 4h, 11km, ­climbing 400m descending 550m; Accommodation: Hotel Danae or similar;"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Departure: After breakfast, take a ferry back to Piraeus."
+    }
+  ],
+  "map": ""
+}

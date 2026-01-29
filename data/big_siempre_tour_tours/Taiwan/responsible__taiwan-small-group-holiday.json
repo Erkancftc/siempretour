@@ -1,0 +1,80 @@
+{
+  "destination": "Taiwan",
+  "mainPhoto": "",
+  "id": "taiwan-small-group-holiday",
+  "tourName": "Taiwan small group holiday",
+  "placesVisited": "Taipei, National Palace Museum, Sweet Potato Mama - social enterprise, Dihua Street entrepreneur zone, Chiang Kai-Shek Memorial Hall, Hualien, Taroko National Park, Qingshui Cliff, Danong Dafu Forest Park, Yilan, King Car Distillery, Jiufen, Turtle Island, Sun Moon Lake, Puli, Chung Tai Chan Monastery, Hugosum tea farm, Lukang, Longshan Temple, Wanggong, Taichung",
+  "generalInfo": "Taiwan is rapidly earning a reputation as a major Asian destination, and this small group adventure covers a lot of ground. Packed with fascinating experiences from start to finish, the tour begins in Taiwan’s electrifying and densely populated capital Taipei. Get your bearings with an aromatic visit to the Ningxia night market, or a soak in the hot springs of nearby Yangmingshan National Park.<br/><br/>You’ll visit Sweet Potato Mama, learning how this social enterprise helps women start their own small businesses. You’ll meet the bustling entrepreneurs in the merchant zone, help prepare lunch at an aboriginal village, and stop at a spring onion farm, discovering how one of Taiwan’s favourite foods is grown, and how to prepare them in a pancake for a delicious snack.<br/><br/>On a boat trip out to Turtle Island, depending on the time of year, you might see hundreds of dolphins, or whales. There are many more dramatic landscapes to enjoy, such as the vast Qingshui Cliff in Taroko National Park, Danong Dafu Forest Park with its chattering birdlife, and the iconic Sun Moon Lake where you’ll trek the scenic Ci’en Pagoda trail.<br/><br/>Other highlights include a tour of the island’s only whisky distillery, a chance to have a soothing foot massage at a historic temple, and a chance to roll your own black tea leaves at a farm visit. Oh, and did we mention the food? There are plenty of night markets to wander throughout Taiwan, where you might sample fish balls, molasses cakes, coffin bread and even the famous ‘exploding’ chicken rolls!<br/>",
+  "durationDays": "11",
+  "price": "2655",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Taipei.",
+      "description": "Huan ying! Welcome to Taipei. Your adventure begins in the bustling capital of Taiwan with a welcome meeting at 6 pm. If you arrive early, maybe visit the hot springs at Yangmingshan National Park. After the meeting, head out for an optional dinner to get to know your local leader and fellow travellers."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Taipei.",
+      "description": "After breakfast, explore Taipei with your local leader. Get a sense of the city’s merchant past on Dihua Street – the oldest street in Taipei – and see how young entrepreneurs are revitalising the area. With traditional medicine shops, Fujian-style Qing Dynasty homes and Baroque architecture standing alongside modern cafes and art studios, it represents the many chapters in Taipei’s rich history. Continue to the Chiang Kai-Shek Memorial Hall – an impressive dedication to the former president of the Republic of China. The rest of the day is yours to explore. Maybe head to the Shilin Night Market for dinner tonight to try fried fish meatballs, oyster omelette or the infamous stinky tofu."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Yilan.",
+      "description": "This morning, take a private transfer to Yilan, stopping off at the National Palace Museum which houses the world’s largest collection of Chinese art. Then, visit a spring onion farm where you'll pop on a pair of gum boots and get grubby in the fields! Pick your own produce before learning how to cook one of Taiwan’s most beloved snacks: crispy spring onion pancakes. Arrive at your hotel in Yilan in the late afternoon, where you’ll have free time to relax or explore at your own pace."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Yilan.",
+      "description": "This morning, visit the Indigenous Atayal tribe – Indigenous people make up just 2.5% of the Taiwanese population, and the Atayal people are one of the 16 main groups. This is a rare opportunity to connect with the community and learn about the cultural significance of their tribal costume and face tattoos. Try your hand at making bamboo rice before sitting down with the locals to enjoy a hearty lunch that showcases Indigenous flavours. Then, head into the forest to learn about traditional hunting and trap-setting techniques. Say goodbye to your hospitable hosts and return to Yilan where you'll have a free evening to explore."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Sun Moon Lake.",
+      "description": "Today, you’ll visit a morning market to learn about the fragrant ingredients used in Taiwanese cooking and how to make peanut roll ice cream. Then, head to Sun Moon Lake – one of the island’s most iconic destinations named after the shapes that its outline forms. This alpine lake – the only natural lake in Taiwan – lies in the foothills of the Central Mountain Range and is surrounded by forested peaks and hiking trails. Tonight, you’ll stay in Puli at a guesthouse surrounded by lush gardens. You have a free evening to take a walk, relax or watch the sunset over the peaks."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Sun Moon Lake.",
+      "description": "After breakfast, take a leisurely stroll along the Ci'en Pagoda Trail through the forested foothills around Sun Moon Lake. At the trail's end, you’ll arrive at the 46-m-tall Ci'en Pagoda, where you can climb to the top and take in panoramic views of the surrounding mountains. Then, keep the active energy going on a scenic cycling adventure along the lake’s shores. The evening is yours to spend how you wish."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Chiayi.",
+      "description": "After breakfast, take a private vehicle to Hugosum Tea Farm. Here, you’ll get an insight into the production of Taiwan’s beloved black tea and roll your own leaves, which will be dried and packaged to take a taste of Taiwan home with you. Then, visit the Chung Tai Chan Monastery – the unique combination of Chinese and Western architecture makes it an impressive sight. You’ll meet one of the resident nuns or a guide for a tour to explore the gardens and dive into the monastery's history. Afterwards, head to Chiayi in a private vehicle where you’ll have a free evening."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Alishan/Chiayi.",
+      "description": "This morning, head to Alishan National Scenic Area – along with Sun Moon Lake and Taroko Gorge, Alishan is one of the most dramatic parts of Taiwan. Climb aboard a train for a picturesque ride on the old Forest Railway, passing tropical, subtropical and temperate forests along the way. Then, hit the Sacred Forest Trail for a hike to get closer to the flora and fauna, including the giant Cypress trees that call this park home. Later, return to Chiayi for a free evening."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Taichung.",
+      "description": "Today, head to the flat and fertile land of Changhua County – sometimes known as the ‘breadbasket’ of Taiwan. Visit Longshan Temple, one of the oldest temples in Taiwan, before continuing to the fishing village of Fangyuan where you’ll try your hand at clam picking and see water birds, fiddler crabs and mudskippers. There'll also be an opportunity to sample fresh seafood like crabs and oysters. In the afternoon, travel to Taichung for a free evening."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Taipei.",
+      "description": "Today, you’ll arrive back in Taipei around midday. The afternoon and evening are free to explore at your leisure. Maybe meet back up with your leader and group for an optional dinner or visit the Taipei 101 Observation Deck for a magnificent view of the city lit up at night."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Taipei.",
+      "description": "Your trip comes to an end after breakfast. With no activities planned for the day, you're free to leave the hotel any time after checkout. If you want to extend your stay, just speak to your booking agent."
+    }
+  ],
+  "map": ""
+}

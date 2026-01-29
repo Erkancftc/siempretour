@@ -1,0 +1,95 @@
+{
+  "destination": "South Africa",
+  "mainPhoto": "",
+  "id": "romantic-south-africa-adventure",
+  "tourName": "Romantic South Africa Adventure",
+  "placesVisited": "Johannesburg, Umhlanga, Port Elizabeth, Amakhala Game Reserve, Cape Town",
+  "generalInfo": "Capture the romantic side of South Africa’s most breathtaking landscapes, culturally-rich destinations, and wildlife havens on this 14-day romantic South Africa adventure. Let your mind wander as you sip a sundowner on safari and embrace the melody of vibrant African bartering at Durban’s Victoria Market. Watch with amazement as dolphins frolic in slight waves and penguins waddle on sandy walkways at Boulders Beach.",
+  "durationDays": "14",
+  "price": "14,000",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Johannesburg - City of Gold",
+      "description": "Feel the warmth of the South African people from the moment you arrive. Johannesburg, known as the “City of Gold”, shines a bright light of hospitality as your driver greets you with a smile and drives you along bustling highways and through tree-lined neighborhoods to your boutique hotel. If time permits, you may have time to explore the vibrant Sandton Square, the enormous statue of Nelson Mandela noted as a key focal point, or choose to sink your teeth into traditional meats and vegetables at the Moyo interactive restaurant. With boutique hotels set in lush and tranquil gardens, perhaps pamper yourself with a spa treatment or simply an afternoon tea in your luxury surroundings."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Johannesburg - A Cultural Day Out In Newtown Precinct",
+      "description": "Discover the rich culture of one of South Africa’s influential cities with a visit to the popular and prominent Newtown Precinct. This neighborhood runs from city railway lines to the busy M2 highway, a network of red-brick buildings buzzing with influencers and industry. Step inside the magnificent Museum Africa, a captivating collection of African artifacts and intriguing rock art highlighting silhouettes of wildlife etched in white or red against a dusty gray surface. Stop for a bite at one of the informal sidestreet restaurants and treat yourself to unique flavors with the combination of sticky pap (maize porridge) and spicy stew."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Umhlanga - City Sights to Coastal KwaZulu-Natal",
+      "description": "Pace yourself with a leisurely breakfast before bidding your leafy suburban oasis farewell and flying south to the coastal gem of Umhlanga, recognized by its prominent white-walled and red-roofed lighthouse that stands out against the golden-brown beach sand. Swap walking shoes for sandals and take a stroll along the winding patchwork of stone that makes up the Umhlanga promenade. This evening, let the fresh breeze off the Indian Ocean ease you into the night as you consider indulging in the aromatic masala flavors of a traditional Durban Indian curry."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Umhlanga - A Morning Discovering Durban Delights",
+      "description": "Discover the diversity of Durban as you travel south toward its city center. Durban challenges visitors to embrace their wild side by climbing 550 steps over the skyline-dominating Moses Mabhida Stadium for a bird’s-eye view across suburbs and sea. A city that invites you to sit in a rickshaw and let your guide, clad in traditional Zulu attire, take you along the Golden Mile, the up-and-down motion of the colorful cart rivaling the adjacent white-crested waves of the Indian Ocean. Slow things down a little with a walk through the Victoria Market, the peppery and floral aromas of Indian spices and the allure of vibrant fabrics greeting you at the entrance."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Umhlanga - A Valley of 1000 Hills",
+      "description": "Move away from the blue waves of the Indian Ocean and travel inland towards the contrasting green waves that form the breathtaking Valley of 1000 Hills, cascading mounds that seem never-ending as they roll towards the mighty Umgeni River. Stare over mini-peaks, tree-filled valleys, and the odd red-brick building as you stop to catch your breath. Embrace the warm welcome of the local community at nearby PheZulu Village as you explore the roots of Zulu culture and ancient traditions. Sit in thatch-walled circular huts, the smell of the dust emerging among aromas of corn rising from freshly-made bread known as ujeqe , the local “medicine man” throwing bones to reveal your future."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Port Elizabeth - Fly from KwaZulu Natal to the Eastern Cape",
+      "description": "Enjoy a leisurely breakfast and a gentle check out before your transfer to the airport, where a short flight along the coastline will bring you to the “Friendly City”, Port Elizabeth. Known for its golden beaches, bustling boardwalk, and the Campanile, Port Elizabeth is a city of heritage discovery and a gateway to the Eastern Cape’s safari scene. If you have time, take a walk to the historic Donkin Reserve. The redstone pyramid stands as a strong reminder of the resilience and strength it took to construct one of South Africa’s oldest cities. If you climb to the top of the adjacent lighthouse, views over the colorful gardens and picturesque lily ponds at Happy Valley are your reward."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Amakhala Game Reserve - A Boat Adventure to St Croix Island",
+      "description": "An early start as you board your whale, dolphin, and penguin island cruise. Feel the breeze of the morning air brushing your cheeks as you travel out into the mild waters off the Sunshine Coast, your eyes peeled for majestic whales, their sheer size a feast for the eyes, and magnificent dolphins leaping into the air. Notice the blur of black and white as you approach the busy penguin colony of St Croix Island, the air turning from coastal freshness to that which reflects marine life, the bustling bodies bobbing to and fro as they scuttle for their spot on the beach. Bid the coast farewell this afternoon as you head into the wilderness for your next adventure."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Amakhala Game Reserve - A Day of Safari Adventure",
+      "description": "Your wake-up call will have you up before the sun, the reserve starting to come alive with wildlife patiently awaiting your presence. Embrace the stillness of the dusty open plains as the chill of the fresh morning air swirls around you, your eyes adjusting to the light of day and on the lookout for creatures big and small. Lap up the quiet vibes of your peaceful surroundings, the cackle of a helmeted guineafowl or the crunch of fallen branches beneath an elephant’s foot pricking your ears. After an afternoon rest, you can set out before sunset for the chance to encounter a tower of giraffe slowly crossing in front of you or a pride of tawny-colored lions lazing on the last warm patch of road. Back at your lodge, indulge in a night of pure romance with a private dining experience accompanied by candlelight and the sounds of the African bush."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Cape Town - A Wild Morning and A Cosmopolitan Afternoon",
+      "description": "One last glance across your wild surroundings and it's time to find your city legs as you head south on a short flight to Cape Town. The “Mother City” presents a blend of mountains, ocean, and skylines, with hues of green, brown, and blue merging to create an exceptionally scenic city. The popular V&A Waterfront is a hub of shopping, dining, and entertainment. Visit colorful stalls, watch African dancers perform, or head out on a sunset cruise. Experience Cape Town’s suburban night scene with a mix of intimate and interactive dining experiences, or sip cocktails in a funky beach bar in Camps Bay, mellow tunes playing in the background. See where your mood takes you."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Cape Town - City, Mountain, and Historical Island Adventure",
+      "description": "Cape Town’s most iconic site is the magnificent Table Mountain, a dramatic rocky backdrop overlooking the “Mother City”, home to floral beauty and presenting commanding views from every angle. As you climb the strong, steel cable towards the sky, notice the winding hiking trails that wrap around the mountain, an alternate way of getting up or down. Gaze out over the crisp, blue Atlantic and over the plains of the Cape Flats. In the distance, you can see Robben Island, a significant location where fascinating stories of its most famous resident, Nelson Mandela, are regaled during your visit. The ferry ride back to Cape Town provides the perfect time to reflect on the knowledge and adventure absorbed today."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Cape Town - Discover the Cape Peninsula and Playful Penguins",
+      "description": "Journey along the picturesque Cape Peninsula today, the drive along winding Chapman’s Peak unveiling a more breathtaking view than the one before. Absorb the contrast of giant boulders on one side and the glistening Atlantic Ocean on the other, long beaches of white sand and cottage-style towns and villages adding to the scenery. Stand at Cape Point, the wind gently brushing against your face as you stand tall at the end of the African continent. Listen as the wooden slats beneath your feet click and clack as you walk over the sandy shores of Boulders Beach, noticing the honking and chirping sounds of penguins. Watch as they glide into the shallow waters of the Atlantic and waddle back out with zest."
+    },
+    {
+      "dayNumber": "12",
+      "title": "Cape Town - Savor the Wonderful Cape Winelands",
+      "description": "Head to the picturesque Cape Winelands today, classic vineyards creating a dramatic background against historic and quaint towns and villages. Sip crisp chenin blancs, flavors of honey dancing on your tongue, floral notes rising from your glass. Let the blackcurrant notes and smokey nose of South Africa’s signature variety, pinotage, tantalize your taste buds and awaken your sense of smell. Feel the cool interior of cozy wine cellars and indulge in delicious bites of boerewors (South African sausage), the rich flavor complimenting your glass of deep-hued cab sav, or a charcuterie board bursting with color and flavors."
+    },
+    {
+      "dayNumber": "13",
+      "title": "Cape Town - A Day at Leisure in the Mother City",
+      "description": "Cape Town is teeming with adventure. Take a romantic stroll along the Sea Point promenade, sounds of the sea and smells of marine life heightening the senses, or stop at a bustling cafe in Green Point for a creamy, flat-white coffee. Spend time at the V&A Waterfront, taking in the merriment and sounds of steel drums, rich voices offering a seemingly private concert just for you. Sample the flavors of Cape Malay cuisine, spicy and fruity aromas wafting through the streets of the Bo-Kaap, or watch the sunset over the Atlantic Ocean from Signal Hill as your romantic African adventure comes to a close."
+    },
+    {
+      "dayNumber": "14",
+      "title": "Cape Town - A Farewell to Africa",
+      "description": "If time permits, pay one last visit to key locations such as the V&A Waterfront, wander the alleyways of the Cape Quarter, or sit a while along the active Sea Point waterfront. You may have time for a picnic in the blossoming Kirstenbosch Gardens. Then say goodbye to South Africa as you catch a glimpse of Table Mountain in the rear-view mirror as you transfer to the Cape Town Airport."
+    }
+  ],
+  "map": ""
+}

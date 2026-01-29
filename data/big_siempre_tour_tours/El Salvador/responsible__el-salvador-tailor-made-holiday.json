@@ -1,0 +1,75 @@
+{
+  "destination": "El Salvador",
+  "mainPhoto": "",
+  "id": "el-salvador-tailor-made-holiday",
+  "tourName": "El Salvador tailor made holiday",
+  "placesVisited": "",
+  "generalInfo": "We have explored all areas of this beautiful, small country and devised a trip that takes in the best El Salvador has to offer.<br/><br/>We love nothing better than trekking, visiting wild off the beaten path areas and sitting down for a chat with local people.<br/><br/>Colourful towns steeped in history with baroque churches and surrounded by shade-grown coffee plantations are great bases from which to explore surrounding areas. Trekking volcanoes with awe inspiring views or being led though the mountains of Perquin by ex- guerrilla guides – who now want to show off the flora and fauna – of this now peaceful haven. The crashing waves of the Pacific draw surfers from all over the world while calmer bays and tributaries are perfect for swimming, turtle spotting and calmer water sports!",
+  "durationDays": "11",
+  "price": "2375",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "SAN SALVADOR Arrival to San Salvador International airport(SAL), Central America´s second largest city and the capital of El Salvador. Transfer to your hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "CERRO VERDE - ATACO After Breakfast, we head out to Cerro Verde National Park, a dormant volcano covered by a foliage of dense and bio-diverse cloudforest. During our visit, we explore its crater and admire the spectacular panoramic views of the Izalco Volcano, Llamatepec Volcano, and Lake Coatepeque. In the afternoon, we set out to explore the “Ruta de las Flores” (Flower Route), known for its explosion of blooms that appear every winter. We pass through quaint villages to finally arrive at the colonial gem of Ataco, set between mountains and coffee plantations. Two nights in Ataco."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "ATACO Breakfast. Today we visit a coffee plantation and we will learn about the process of cultivation, harvest, and roasting. Our tour includes a visit to the ancient manor house, were we enjoy a fresh cup of coffee prepared with the ancient method of “Chorreador” (straining fresh brewed coffee to allow delicious aromas to develop). Rest of the day at leisure to explore on your own the cobblestone streets of Ataco and admire the colorful murals that cover the walls of the inhabitant’s colonial houses, a tradition that makes you want to return to this beautiful town. We recommend you visit the craft shops so that you can take a souvenir with you."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "ATACO-TAZUMAL- SANTA ANA Breakfast. We set out towards the archeological site of Tazumal, El Salvador´s most important ceremonial Mayan Center. We then continue to Santa Ana, the second most important city of the country. We will explore its historic center, where we will visit places of interest like the National Theatre, the Main Plaza, and the gothic styled Cathedral. Afterwards, we will set off to explore Joya de Cerén, aptly known as the “Pompeii of the Americas”. It is considered to be the most important archeological discovery in Latin America in recent years and declared World Heritage of Human Kind by UNESCO. After the visit, we continue to Suchitoto. Two nights in Suchitoto."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "SUCHITOTO Breakfast. We will dedicate the morning to visit El Salvador´s most preserved colonial town, important for its indigo trade during the colonial period. Afternoon at leisure for optional activities like taking a walk through the cobblestone streets in between portals and ancient houses or enjoying a pleasant boat ride to watch the sunset by the shores of Lake Suchitlán."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "SUCHITOTO TO GULF DE FONSECA Breakfast. Early in the morning, we set off to the Gulf of Fonseca, 261 kms of Pacific Coast line shared by El Salvador, Honduras and Nicaragua. We begin our crossing by boat at port La Unión, to admire the fisherman villages, islands that seem as though they are floating in the water with spectacular views of the Conchagua Volcano, Amapala Volcano and Cosiguina Volcano. Furthermore, this region is a bird sanctuary and with a little luck, you may get to see dolphins. Afternoon at leisure to enjoy the beach. We then head back to Port La Unión. Overnight La Union."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "GULF DE FONSECA TO PERQUIN Breakfast. After breakfast, we begin our overland journey to Perquin, located in the northern mountainous region of the country, surrounded by humid tropical forests. Upon our arrival, we visit the “Meseo de la Paz” (Peace Museum), founded by veterans of the civil war. In the afternoon, we also include a visit to the village of el Mozote, main scenario to some of the biggest affairs in El Salvador´s recent history at the time of the armed conflict period. Overnight Perquin."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "PERQUIN LENCA- HEADING TO JIQUILISCO BAY Breakfast. After breakfast, transfer to Jiquilisco Bay, the main marine ecosystem of El Salvador and principal region for spawning of hawksbill turtles in all of the country. This natural reserve possesses a system of natural canals, formed by islands and exotic mangrove forests which serve as a refuge to a vast diversity of birds and reptiles. Arrival to the hotel. Rest of day at leisure to enjoy the sun and the hotel´s amenities. Two nights in Jiquilisco Bay."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "JIQUILISCO BAY Breakfast. Day at leisure to enjoy the bay area. Great opportunity to get the chance to have a unique encounter with nature and enjoy some of the optional activities the hotel has to offer, like: a visit to the sanctuary of the monkeys or cocoa plantations, sail through the islands of the bay, engage in a program that releases and preserves marine turtles, enjoy kayak tours through the mangrove swamps or take a bicycle ride through the natural reserve."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "HEAD FROM JIQUILISCO BAY TO SAN SALVADOR AIRPORT .....OR STAY A BIT LONGER!!"
+    }
+  ],
+  "map": ""
+}

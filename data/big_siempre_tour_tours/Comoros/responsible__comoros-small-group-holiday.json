@@ -1,0 +1,65 @@
+{
+  "destination": "Comoros",
+  "mainPhoto": "",
+  "id": "comoros-small-group-holiday",
+  "tourName": "Comoros small group holiday",
+  "placesVisited": "Moroni, Grande Comore Island, Moheli Island, Livingstone’s fruit bats, Anjouan Island",
+  "generalInfo": "This idyllic archipelago is a mystery to most tourists but a totally magical place to visit, with an extraordinary melange of Swahili culture, ancient Arabic heritage, voluptuous volcanic landscapes and perfect beaches.<br/> <br/>The holiday takes you on a tour of three of the four islands. Starting on the main island, Grande Comore, the capital city Moroni translates as \"in the heart of the fire\", because of its location at the foot of volcanic Mount Karthala, an active volcano. It is a city packed with history, where the medina and markets are the perfect place to stroll, the former sultans’ palaces evoke stories and images of glamorous times gone by and the volcanic terrain is made for hiking. <br/><br/>Moving on to Moheli Island, the natural heritage is what strikes us most here, the Mohéli Marine Park a highly protected area created in agreement with the ten villages surrounding the park. Here we can go in search of the highly endangered, enormous and endemic Livingstone’s fruit bats, as well as equally endangered green turtles that come here every year to lay eggs. <br/><br/>Our final stop is Anjouan Island, where the luscious mountain terrain invites hikes to waterfalls, lakes  and valleys that are overshadowed by the magnificent summit of Mount Ntingui which, if you manage to climb to its peak at 1595m gives the most amazing views of all four islands in the archipelago. A wonderful place to take in this collection of tranquil, unique landscapes which are still totally undiscovered in the world of tourism. <br/>",
+  "durationDays": "10",
+  "price": "2649",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Moroni - Arrive into Moroni and transfer to your hotel. The rest of the day is free. Overnight Itsandra Beach Hotel or similar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Anjouan - Fly to the island of Anjouan. In the afternoon we take a walking tour of the old stone town of Mutsamudu and its 18th century citadel, with great views of the city and the Indian Ocean. Overnight Hotel Johanna or similar. (BL)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Anjouan - Spend today exploring the island, heading first to the town of Domoni to visit its historic medina and the 11th century mosque. Domoni is known for its palaces and mansions which date from the 26th century, and its medina is full of beautifully carved wooden doors. Afterwards we start our tour driving around the island, stopping at the picturesque Moya beach for lunch before eventually returning to Mutsamudu. Overnight Hotel Johanna or similar. (BL)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Take a speedboat to Moheli, the least populated island of Comoros and now a biosphere reserve that is home to lemurs, whales, manta rays and turtles. On arrival take a scenic drive to your accommodation, where the rest of the day is free. Overnight Laka Lodge or similar. (BLD)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Moroni - Iconi - Fly back to Moroni. This afternoon we explore the former capital of Iconi, seeing the old sultan’s palace and walking through the historic town, as well as climbing the nearby (and quite small!) volcanic cone, if you wish. We take lunch in a local home to experience Comorian cuisine, and later return to our hotel. Overnight Itsandra Beach Hotel or similar. (BL)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Grande Comore - A full day spent exploring the island of Grande Comore. We visit Lac Sale, a volcanic salt lake, and the Dragon’s Back, as well as the gorgeous Maloudja beach and other sites. Overnight Itsandra Beach Hotel or similar. (BL)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Karthala - Moroni - Drive to the top of Mount Karthala, an active volcano, where we can walk around the crater rim. In the afternoon return to Moroni. Spend the afternoon exploring the capital of the Comoros, an atmospheric place and steeped in Arabic heritage dating back to the 10th century. We visit the colourful market and the atmospheric medina, and explore the narrow streets of the historic quarter. Overnight Itsandra Beach Hotel or similar. (BL)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Moroni - This morning we take a boat to a spot close to Moroni where spinner dolphins gather almost every day. Afterwards, return back to the hotel to freshen up and transfer to the airport for your onward flight. (B)"
+    }
+  ],
+  "map": ""
+}

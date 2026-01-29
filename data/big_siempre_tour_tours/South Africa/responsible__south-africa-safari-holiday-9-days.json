@@ -1,0 +1,55 @@
+{
+  "destination": "South Africa",
+  "mainPhoto": "",
+  "id": "south-africa-safari-holiday-9-days",
+  "tourName": "South Africa safari holiday, 9 days",
+  "placesVisited": "",
+  "generalInfo": "Embark on a luxurious African journey that perfectly combines the vibrant culture of Cape Town, the thrilling wildlife of the South African bush, and the awe-inspiring beauty of Victoria Falls. Your adventure begins in Cape Town, where you will explore the city's iconic landmarks, stunning coastlines, and rich history. Next, retreat to the tranquil Pondoro Game Lodge for exhilarating safaris and the opportunity to spot the Big Five in the heart of the African bush. Finally, conclude your journey with the breathtaking sights and unforgettable experiences at Victoria Falls. This bespoke itinerary offers the ideal balance of adventure, luxury, and relaxation, creating memories to treasure for a lifetime.",
+  "durationDays": "9",
+  "price": "5784",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Cape Town - Welcome to Cape Town and check in at the Clarendon Fresnaye. Your accommodation will be in a Superior Room on a bed and breakfast basis. The room is configured with one double bed, ideal for a comfortable stay. Spend your day exploring the vibrant city, enjoying the stunning views of Table Mountain and the Atlantic Ocean. Relax in your luxurious accommodation before the next day’s adventures."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Transfer to Pondoro Lodge - Check out from Clarendon Fresnaye and transfer to the airport for your journey to Hoedspruit. On arrival, you will be transferred from Hoedspruit Airport to Balule (Ukhozi Reserve Area). Your accommodation will be at Pondoro Game Lodge in a luxury suite, which includes all meals and selected beverages as part of your fully inclusive package. This exclusive lodge offers you a serene escape into nature."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Over the next 4 nights enjoy Pondoro Lodge and all it has to offer from game drives witnessing amazing wildlife encounters. During your stay, you will experience thrilling game drives, with the chance to spot the Big Five and immerse yourself in the beauty of the African bush."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Continue to enjoy your stay at Pondoro Game Lodge. The day will be filled with safari activities, such as morning and evening game drives, bush walks, and relaxing downtime at the lodge. Included in your stay are access to the Balule Reserve, vehicle entry fees, and the rare opportunity to encounter the Black Mamba anti-poaching unit on-site, enhancing your conservation experience. Pondoro has partnered and became a sponsor of the world famous all woman Black mamba anti-poaching team and their affiliate project the Bush Babies Environmental and Awareness Program and we are very excited to announce a Black Mamba Anti- Poaching tour done every Wednesday and Saturday. Guests will be able to meet the Black Mambas, find out why they are so effective and discover the rationale behind this ground breaking initiative. This includes a visit to the Nonwane research facility, a presentation and a lot more. This is a great opportunity for our guests to do their bit to save Africa’s wildlife and more specifically its rhinos. (All funds will go directly to the Black Mamba Anti-poaching unit.)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Transfer to Victoria Falls - Check out from Pondoro Game Lodge and transfer to the airport for your flight to Victoria Falls. Upon arrival at Victoria Falls Airport, you will be transferred to your accommodation at The Palm River Hotel, where you will stay in a Deluxe Room on a bed and breakfast basis. Victoria Falls offers breathtaking views and a variety of activities. You may wish to explore the nearby town, take a sunset cruise on the Zambezi River, or visit the famous waterfall."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "On your final day, you will be transferred from The Palm River Hotel to Victoria Falls Airport for your onward journey. After days of adventure and relaxation, you will leave with unforgettable memories of Cape Town, the South African bush, and the majestic Victoria Falls."
+    }
+  ],
+  "map": ""
+}

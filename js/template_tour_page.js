@@ -25,6 +25,7 @@ function renderDayInfo(dayInfo) {
         </div>
       </div>
     `;
+
     container.appendChild(acc);
   });
 
@@ -47,18 +48,6 @@ function renderTour(tour) {
 
   document.getElementById('durationDays').innerHTML =
     `<i class="fa fa-clock-o pink mr-1"></i>${tour.durationDays ?? ""} gün`;
-
-  document.getElementById('personNumber').innerHTML =
-    `<i class="fa fa-group pink mr-1"></i>Kişi Sayısı : ${tour.personNumber ?? ""}`;
-
-  document.getElementById('dates').innerHTML =
-    `<i class="fa fa-calendar pink mr-1"></i>${tour.dates ?? ""}`;
-
-  document.getElementById('minimumAge').innerHTML =
-    `<i class="fa fa-user pink mr-1"></i>Min. Yaş : ${tour.minimumAge ?? ""}`;
-
-  document.getElementById('meet').innerHTML =
-    `<i class="fa fa-map-signs pink mr-1"></i>Karşılama : ${tour.meet ?? ""}`;
 
   const mapEl = document.getElementById('mappp');
   mapEl.innerHTML = tour.map
@@ -83,52 +72,43 @@ function getQueryParam(name) {
   return new URLSearchParams(window.location.search).get(name);
 }
 
-/* 🔥 AKILLI LOADER */
+/* 🔥 FINAL LOADER */
 async function loadTourFromJson() {
   const id = getQueryParam("id");
   const country = getQueryParam("country");
 
-  if (!id) {
-    console.error("URL'de id yok");
+  if (!id || !country) {
+    console.error("id veya country eksik");
     return;
   }
 
-  // 1️⃣ country varsa → direkt o ülke
-  if (country) {
-    const url = `data/turlar/siempretour_tours/${encodeURIComponent(country)}/tours.json`;
-    const tour = await findTourInFile(url, id);
-    if (tour) return renderTour(tour);
-  }
+  const dataRoot = "./data/big_siempre_tour_tours";
+  const url = `${dataRoot}/${country}/tours.json`;
 
-  // 2️⃣ country yoksa → TÜM ülkelerde ara
-  console.warn("Country yok, tüm ülkeler taranıyor…");
+  console.log("DETAIL FETCH:", url);
 
-  const COUNTRIES = [
-    "Almanya","Avusturya","Birleşik Krallık","Fransa","İtalya",
-    "İspanya","İsviçre","Amerika","Türkiye","Yunanistan"
-  ];
-
-  for (const c of COUNTRIES) {
-    const url = `data/turlar/siempretour_tours/${encodeURIComponent(c)}/tours.json`;
-    const tour = await findTourInFile(url, id);
-    if (tour) {
-      console.log("Tur bulundu:", c);
-      return renderTour(tour);
-    }
-  }
-
-  console.error("Tur hiçbir ülkede bulunamadı:", id);
-}
-
-async function findTourInFile(url, id) {
   try {
     const res = await fetch(url);
-    if (!res.ok) return null;
+    if (!res.ok) {
+      throw new Error("Tours.json yüklenemedi");
+    }
+
     const tours = await res.json();
-    if (!Array.isArray(tours)) return null;
-    return tours.find(t => String(t.id) === String(id)) || null;
-  } catch {
-    return null;
+    if (!Array.isArray(tours)) {
+      throw new Error("Geçersiz JSON");
+    }
+
+    const tour = tours.find(t => String(t.id) === String(id));
+
+    if (!tour) {
+      console.error("Tur bulunamadı:", id);
+      return;
+    }
+
+    renderTour(tour);
+
+  } catch (err) {
+    console.error("Tur yüklenirken hata:", err);
   }
 }
 

@@ -1,0 +1,60 @@
+{
+  "destination": "South Africa",
+  "mainPhoto": "",
+  "id": "south-africa-wineland-tour",
+  "tourName": "South Africa wineland tour",
+  "placesVisited": "",
+  "generalInfo": "This is South Africa’s world-renowned wine region, like you’ve never seen it before.<br/>Experience the premier wine region in South Africa on a full-bodied exploration packed with fun, adventure and, yes, excellent wines. With the expert guidance of a local tour leader, you’ll explore the vineyards and mountains outside Cape Town on foot, e-bike, funicular, kayak and even on the iconic wine tram! Of course, there’s plenty of time to indulge your inner oenophile, stopping in historic wine estates, while our base for the adventure, the Protea Hotel Dorpshuis in Stellenbosch, provides a place to relax and unwind.<br/><br/>Highlights<br/><br/>Join experts to taste local wines and tour magnificent wine estates<br/>Feel the rush of hiking to the top of Lion’s Head peak for beautiful summit views<br/>Ride the iconic wine tram through the world-renowned vineyards of Franschhoek<br/>Enjoy an easy-going e-bike ride through rolling vineyards<br/>Dive deep into Cape Malay culture with a cooking masterclass in Bo-Kaap<br/>Explore the beautiful Cape Peninsula by funicular and kayak (optional)",
+  "durationDays": "7",
+  "price": "2849",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Begin your adventure in Stellenbosch, where more than 150 wine estates sprawl under the watchful gaze of Stellenbosch Mountain. Around 6pm, say?howzit?to your tour leader and fellow travellers, when we gather as a group for the first time to get to know each other and learn more about the adventures ahead. Your tour leader then ensures a big South African welcome over a group dinner at the hotel restaurant. Want to explore Stellenbosch further? Secure pre-tour hotel nights through your sales representative."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "There’s no more immersive way to enjoy the beautiful scenery and stunning vineyards of Stellenbosch than by bike. Making things (almost) effortless, we jump on e-bikes for a guided tour of the region. Over half a day, we cycle past boutique farms and award-winning vineyards, tackling rolling trails as we go. Along the way, we enjoy two wine tastings in our favourite wine estates, sampling premium wines and enjoying a laidback lunch in one of them. The rest of the day has been left free to unwind at the hotel, perhaps with a dip in the pool or another sampling of those local wines."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Join your tour leader for a thrilling day exploring the best of the Cape Peninsula. We start at Boulders Beach, where we spend time gazing over the protected rookery of African penguins. Next, we head to Cape Point Nature Reserve, keeping an eye out for eland and red hartebeest, before taking the Flying Dutchman funicular through dense fynbos to the upper lighthouse for panoramic views over the Cape of Good Hope, the iconic Diaz Beach, coastal cliffs and endless sea. We then enjoy the Chapmans Peak Drive (Chappies to those familiar with it), for one of the most spectacular marine drives in the world. Over 5.5mi (9km) and 114 curves in the road, we can gaze over the rocky coastline and sandy bays below. At the end of the day we have an optional kayaking tour to explore the pristine waters of Hout Bay, with mountains on one side and the vast ocean on the other. Guided by a qualified kayak leader, this optional activity is a great way to enjoy the serenity of life on the surface, stopping at various checkpoints and exploring the harbour."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Dive deep into traditional Cape Malay cuisine today, known for its fruity, mild and full-bodied flavours. And there’s no better place to do this than the Bo-Kaap district of Cape Town, an area characterised by steep cobblestone streets and brightly painted houses. We learn the history of the Cape Malay people from our tour leader as we stroll to a home, before we learn the secrets of Cape Malay cooking from our host, attempting to fold samosas, while also sampling delish dishes. After, we head to Kirstenbosch National Botanical Garden on the slopes of Table Mountain. Here, we wander the trails, seeing some of the 7,000-plus southern African plant species that form a gorgeous natural display."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "We’re off to Franschhoek today, labelled the wine capital of South Africa, to tour the picturesque vineyards on the legendary wine tram. This hop-on, hop-off experience provides an entertaining and leisurely way to explore the Franschhoek Valley. The combination of tram and tram bus transports around a loop, allowing us to jump off at some of the oldest and most-distinguished wine estates in the world, while also discovering the history of the region and wine cultivation."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Strap on your hiking boots to scale Lion’s Head, which is sandwiched between Table Mountain and Signal Hill. The three-hour hike spirals up the mountain, providing us with fantastic views over Cape Town and the Twelve Apostles, a dozen buttresses on Table Mountain. After returning to the bottom, we head back to the hotel for a farewell dinner together, a chance to relive some of our top moments from the trip."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Our trip draws to a close today after breakfast and we begin our return journeys home. Of course, if you’d like to continue your South African adventure, you can speak to your sales representative about extending your stay."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,50 @@
+{
+  "destination": "Sri Lanka",
+  "mainPhoto": "",
+  "id": "sri-lanka-hill-country-tour",
+  "tourName": "Sri Lanka hill country tour",
+  "placesVisited": "",
+  "generalInfo": "A two-week itinerary for those looking to escape into Sri Lanka’s cooler Hill Country. This is ideal for those seeking to escape the heat of the coastal areas and also to get active by walking local trails, soaking in waterfalls and picnics. It also allows for some scenic train rides along the spectacular Main Line.<br/>Includes:<br/>- Accommodation on Bed &amp; Breakfast basis at Kahanda Kanda (4 Nights | Suite)<br/>- Accommodation on All Inclusive basis at Camellia Hills (3 Nights | Lake View), Goatfell (3 Nights | Suite) and Nine Skies (3 Nights | Bedroom)<br/>- All Transport in an air conditioned car with the services of an English Speaking Guide<br/>Guided Visits and Excursions: <br/>- Paddy trails by bikes<br/>- Galle Fort walk<br/>- Visit the Nine Arch bridge<br/>- Ravana Falls<br/>- Dowa Temple<br/>- Little Adam’s peak<br/>- All other Meals (MEAL+DESSERT+WATER ONLY – ALL EXTRAS TO BE PAID TO THE HOTEL/ RESTAURANT DIRECTLY)<br/>- Services: VAT (Value Added Tax) &amp; Tourism Tax<br/>- In-Vehicle: TRAVEL KIT which includes comfortable cushions, a sarong, sanitizers, mosquito repellent, socks (for temples), wet wipes, etc… Our vehicles carry a dongle / WIFI and a folder containing a good map as well a very detailed Booking Information document<br/>- Complementary SIM card on request",
+  "durationDays": "14",
+  "price": "4151",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "CASTLEREAGH RESERVOIR: From the airport, travel straight into the hills to stay at Camellia Hills beside the Castlereagh Reservoir, near Dickoya. This newly built five-bedroom boutique hotel by Teardrop Hotels is a contemporary interpretation of a tea planters home. The five bedrooms are unique, with views of the lake and/or the tea fields and jungle that edge the garden. The feel is very much like a country home with butlers on hand to tend to guests and a superb chef to prepare meals. The climate in the hills is cooler, especially at night, and a roaring evening fire infuses a romantic atmosphere. The hotel has a small swimming pool and activities include walks through the tea estates, scenic picnics, waterfall trails, lake boat tours and visits to a tea factory. Travel time Colombo Airport to Castlereagh Reservoir: 4.5 hours. Stay 3 nights at Camellia Hills."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "KANDAPOLA (NUWARA ELIYA): From Camellia Hills, travel west through the highest regions of the Hill Country (either by road or by rail) to Kandapola, north east of Nuwara Eliya. This is one of Sri Lanka’s most spectacular regions, and the higher elevation means that the climate, especially at night, is a little cooler. Goatfell is a five-bedroom former estate manager’s bungalow located at an elevation of some 2000 metres. The bungalow has been charmingly restored and offers contemporary and luxurious comforts, great food, butler service and gardens with a swimming pool. Tea estates surround the bungalow and wanders to the local tea factory and strolls through the neighboring estates are some of the highlights of a stay here. Nuwara Eliya, a former British colonial hill station, still retains many of its original colonial-era buildings and is worth a trip into town for a look. Travel time Castlereagh Reservoir to Kandapola (Nuwara Eliya): 2 hours. Stay 3 nights at Goatfell."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "DEMODARA (ELLA): From Nanu Oya (the closest railway station to Kandapola), you could take the train to Demodera, which offers one of the most spectacular sections of the Main Line Railway, which runs through the Hill Country. Demodera is close to better-known Ella (15-minutes away), yet is a secluded and much quieter place to stay. Nine Skies is located nearly a kilometre above the station, and the station itself is famous for the 360-degree loop of track that circles around and under the station. Railway enthusiasts will also love walking to (or riding across) the nearby Nine Arch Bridge, after which the bungalow was named. The bungalow has been beautifully refurbished and offers plush contemporary comforts including butler service, excellent food and a garden with swimming pool. Attractions include tea factory visits, tea trails, waterfall swims and hill walks. Travel time Kandapola (Nuwara Eliya) to Demodera (Ella): 2.5 hours. Stay 3 nights at Nine Skies."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "KOGGALA LAKE, NEAR GALLE: Travel south to reach the island’s picturesque southern coastline, and continue on towards Galle, famed for pretty beaches, a 17th century Dutch fort and a cosmopolitan vibe. Here you’ll stay inland from Galle, in the vicinity of Koggala Lake, Sri Lanka’s second largest inland waterway, at Kahanda Kanda, a gorgeous boutique hotel set on its own 12-acre hilltop tea estate. Nearly all of the ten exquisite suites at Kahanda Kanda are freestanding (immensely private Dubu, with its own pool, is fabulous, although there are three suites with pools) and from furnished terraces enjoy views over the tropical gardens, tea fields and distant Koggala Lake. This is a gorgeous place to unwind after your tour of the hills. Dine alfresco, relax poolside, enjoy a spa treatment, take a guided bicycle ride through picture-postcard rice fields, make for the beach or tour the hotel’s own tea estate. Travel time Demodera (Ella) to Koggala Lake: 5 hours. Stay 4 nights at Kahanda Kanda."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "DEPART SRI LANKA: Travel time Koggala Lake to Colombo Airport: 2.5 hours"
+    }
+  ],
+  "map": ""
+}

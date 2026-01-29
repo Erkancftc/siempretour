@@ -1,0 +1,75 @@
+{
+  "destination": "Bolivia",
+  "mainPhoto": "",
+  "id": "adventure-holiday-in-bolivia",
+  "tourName": "Adventure holiday in Bolivia",
+  "placesVisited": "La Paz, Uyuni, four-wheel-drive tour of Salar de Uyuni, Copacabana, Island of the Sun, Island of the Moon, 4 day trek in Cordillera Real mountain range",
+  "generalInfo": "Our adventure holidays in Bolivia start as they mean to go on: on a high, and if you’re looking to take a couple of weeks exploring in and around the highlights of La Paz (11,000ft) in the company of a local guide, right here is where you put your best foot forward.<br/><br/>This is an ideal experience for couples and small groups looking to find out more about the traditions and lifestyles of indigenous Aymara communities as well as travelling by local transport on route to some of Bolivia’s most spectacular salt flats, including Salar de Uyuni.<br/><br/>Swapping bus and train for a 4x4 vehicle is what’s required to undertake the southern altiplano desert leg of this holiday with a series of lagoons, volcanoes, geysers and thermal springs providing the backdrop to an incredible unique and colourful adventure.<br/><br/>From time spent on and around Lake Titicaca to a scenic drive through the Cordillera Real mountain range, the highlights over the course of two weeks come thick and fast with boat rides to the islands of the Sun and Moon allowing for a couple of days rest alongside Inca enlightenment. <br/><br/>Culminating in Condoriri National Park for a four day hike ensures travellers are left in no uncertain terms as to Bolivia’s staggering natural beauty where remote llama herding communities continue to live as they always have under the shadow of snow-capped peaks and wheeling condors.<br/><br/>If you’re looking for more information on our Bolivia itinerary below, or if you’re interested in tailoring a two week tour to match your exact specifications, please don’t hesitate to get in touch.<br/>",
+  "durationDays": "15",
+  "price": "2640",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive La Paz."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "To Uyuni by bus and train."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Four wheel drive tour of Salar de Uyuni, volcanoes, lagoons, final day return to Uyuni and La Paz."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Free day in La Paz."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Bus to Copacabana, boat to Island of the Sun."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Day walk on Island of the Sun."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Visit Island of the Moon, return to La Paz."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Trek, Cordillera Real"
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Return to La Paz."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Tour ends La Paz."
+    }
+  ],
+  "map": ""
+}

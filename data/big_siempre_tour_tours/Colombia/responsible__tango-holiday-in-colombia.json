@@ -1,0 +1,30 @@
+{
+  "destination": "Colombia",
+  "mainPhoto": "",
+  "id": "tango-holiday-in-colombia",
+  "tourName": "Tango holiday in Colombia",
+  "placesVisited": "",
+  "generalInfo": "Bring the passion of tango into your life!<br/><br/>Join us for a 1-4-week immersive tango dance + cultural experience in Medellin, Colombia. You get a personalized dance plan with private instruction, beautiful accommodation in the best part of town, group experiences and a community of local dancers to show you an unforgettable time.<br/><br/>-7 nights beautiful accommodation in the best parts of Medellin with high-speed WIFI. <br/>-Access to local co-working space if you want to get some work done. <br/>-Transport to and from Medellin Airport with delicious mountain water to welcome you. <br/>-Local transport to and from our programming, when it isn’t walkable.<br/>-24-hour support with whatever you need – we got you!",
+  "durationDays": "8",
+  "price": "2350",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "-15 hours private classes with Colombia's best dance instructors -3 hours of group classes with fellow dancers -2 nights of social dancing with dance instructors in Medellin's storied milongas -1 tango musicality class -1 gourmet Colombian style dinner with live tango dance and music performance. -1 visit to #1 Carlos Gardel museum with local tango historian."
+    }
+  ],
+  "map": ""
+}

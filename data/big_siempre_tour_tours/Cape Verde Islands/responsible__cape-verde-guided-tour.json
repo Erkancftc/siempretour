@@ -1,0 +1,75 @@
+{
+  "destination": "Cape Verde Islands",
+  "mainPhoto": "",
+  "id": "cape-verde-guided-tour",
+  "tourName": "Cape Verde guided tour",
+  "placesVisited": "",
+  "generalInfo": "On this short tour we visit three islands of the Cape Verde archipelago, brimming with rich culture, customs and history, and still firmly connected to their African roots. Discovering traditional villages, travelling through rugged mountain scenery and exploring cities on foot we uncover some of the most enchanting parts of this unusual island nation.<br/><br/>Starting in Praia, Santiago, we fly to Sao Vicente and explore the city of Mindelo, rich with the rhythms of Cape Verde and a good place to absorb the country’s unique atmosphere. From here we take the ferry across to neighbouring Santo Antão, dotted with imposing peaks, and with pretty valleys and rural villages to explore. Finally, we return to Santiago, taking time to wander through the capital city, Praia and the historic site of Cidade Velha, dating back to the 15th century and the first days of Portuguese colonisation.<br/><br/> The islands boast lush greenery and breathtaking landscapes, with stunning viewpoints offering great views over the archipelago. Each has a slightly different feel, giving an overview of the different layers and complexities of this most far-flung part of the African continent.",
+  "durationDays": "10",
+  "price": "2849",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Santiago - Arrive in Santiago and transfer to your hotel. The rest of the day is free to relax or explore. Overnight Praiamar Hotel or similar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Sao Vicente - Mindelo - Fly to the island of Sao Vicente. On arrival, we explore the charming city of Mindelo, walking along the Baia de Porto Grande, visiting its fresh fish markets, African markets and other sites. Overnight Foya Branca Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Santo Antão - Head to the port of Sao Vicente and board a ferry to the island of Santo Antão. On arrival we climb Pico da Cruz and walk up to the ranger’s house to be rewarded with views of the surrounding landscapes as well as the nearby islands of Sao Vicente, Santa Luzia and São Nicolau. We then continue to Ponta do Sol, visiting a fishing port and old colonial houses and then drive to Porto Novo along an impressive coastal route. Overnight Santantão Art Resort or similar. (BLD)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Vale de Paul - Today we take the coastal route to Paul, stopping at the lush Vale de Paul on the way. Here we explore the heart of the valley, dotted with simple thatched and stone houses alongside cultivated terraces, and see some of the traditions of rural Cape Verde. After a typical Cape Verdean lunch, return to Porto Novo for the night. Overnight Santantão Art Resort or similar. (BLD)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Sao Vicente - Take a ferry back to Sao Vicente. We spend the day exploring the island, visiting Calhau, the small fishing village of Salamansa, and Monte Verde, which has superb views over Mindelo and neighbouring islands. We continue to Mindelo for the night, with views of Monte Cara on the way. Overnight Foya Branca Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Santiago - Fly to the island of Santiago. The rest of the day is free to relax or explore. Overnight Praiamar Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Praia - Cidade Velha - Start today by exploring Praia, the capital of Cape Verde. Here we visit the historic sites of the Church of Nossa Senhora da Graca, Alexandre Albuquerque Square and more. After lunch, we visit the UNESCO listed site of Cidade Velha, the earliest settlement of the Portuguese dating to the 15th century, where we can see the remains of the original fort, the pillory where slaves were once traded and the Church of Nossa Senhora do Rosario. Overnight Praiamar Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Tarrafal - Today we explore the island of Santiago further, travelling through the mountains with their unusual flora and endemic vegetation. We continue to the small fishing port of Tarrafal, known for its old political prison built by the Portuguese fascist regime in the 1930’s. In the afternoon we return to Praia for the night. Overnight Praiamar Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Praia - In the morning we visit the vibrant market of Sucupira, a great place to see typical Cape Verdean life, and the typical colours and rhythms of the country – still with a distinctly African atmosphere. Return to the hotel in Praia with the afternoon free to explore the city at your leisure. Overnight Praiamar Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Santiago - Transfer to the airport for your flight home. (B)"
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,85 @@
+{
+  "destination": "Ecuador & Galapagos",
+  "mainPhoto": "",
+  "id": "machu-picchu-and-galapagos-holiday",
+  "tourName": "Machu Picchu and Galapagos holiday",
+  "placesVisited": "",
+  "generalInfo": "Machu Picchu and the Galapagos are rightly two of South America's highlights and regularly exceed expectations. This itinerary is designed for those who wish to see both of these highlights but may be restricted to just two weeks travel time.<br/><br/>You'll begin in Cuzco. As the capital of the vast Inca empire and their ‘navel of the world’, Cuzco was a remarkable city, reputedly built in the shape of a puma, full of magnificent stone palaces and temples decorated with gold. Modern-day Cuzco is a proud, beautiful and lively city with a vibrant art scene, excellent museums and fine restaurants.<br/><br/>Next, make your way through the Sacred Valley. This winding and fertile valley between Pisac and Ollantaytambo was at the spiritual and commercial heart of the Inca empire. There are numerous ways to explore this region whether by taking it in on foot or visiting the people who have called this area home for centuries.<br/><br/>At last you will reach the crown jewel of the Inca Empire, Machu Picchu. Aside from a few llamas grazing the grassy terraces, and a viscacha (a rabbit-like rodent) or two snuggling in the empty window holes, the ruins are unadorned and devoid of any living presence (other than humans of course, all the relics found there are displayed in a museum in Cuzco). Arrive there in the early morning, and you’ll see how the morning cloud gradually disperses into wisps, revealing the buildings and terracing layer by layer.<br/><br/>When you're time delving into Peru's past concludes you will switch gears and begin making your way towards the wildlife Eden that is the Galapagos. The Galapagos Islands' reputation as one of the world's most magnificent nature and wildlife experiences is wholly justified. You will explore the archipelago on board a small ship cruise, taking trips out to various islands and being guided by an expert naturalist guide. We can discuss the islands to visit in more detail when we work on your itinerary. Whichever you choose, you won’t be short of flora and fauna, highlights including marine iguanas, the Galapagos tortoise, frigatebirds and maybe even whales and dolphins.",
+  "durationDays": "14",
+  "price": "7425",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "On arrival in Lima you will connect with your flight to Cuzco where you will be met and transferred to your hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Enjoy a guided tour of the highlights of Cuzco and the surrounding Inca ruins."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Full day trip to the Sacred Valley of the Incas. You will visit the impressive ruins at Pisac and Ollantaytambo as well as a vibrant market. Overnight in the Sacred Valley."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Take the train to Machu Picchu, where you will have a guided tour of the ancient Inca citadel."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Free day to explore Machu Picchu at your own pace. In the afternoon return to Cuzco by train."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Transfer to the airport in time for your flight to Quito via Lima. Upon arrival you will be met and taken to your hotel."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Enjoy a guided tour of Quito, a UNESCO World Heritage Site"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Transfer to the airport in time for your flight to the Galapagos Islands. Here you will be met by a representative of your boat who will take you to your awaiting vessels. Afternoon excursions in the Galapagos."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Excursions from the boat with your naturalist guide"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Excursions from the boat with your naturalist guide"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Excursions from the boat with your naturalist guide"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Excursions in the Galapagos Islands followed by disembarkation and flight back to the Ecuadorian mainland."
+    }
+  ],
+  "map": ""
+}

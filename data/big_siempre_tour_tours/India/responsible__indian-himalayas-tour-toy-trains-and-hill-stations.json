@@ -1,0 +1,100 @@
+{
+  "destination": "India",
+  "mainPhoto": "",
+  "id": "indian-himalayas-tour-toy-trains-and-hill-stations",
+  "tourName": "Indian Himalayas tour, toy trains and hill stations",
+  "placesVisited": "",
+  "generalInfo": "This holiday is a mix of train and road travel in northern India. Start off in the agricultural heartland of India to visit the Golden Temple and get a taste for life on a Punjabi farm. From here travel up to the foothills of the Himalayas where you can eat momos and rub shoulders with Tibetan monks in the Dalai Lama’s hometown. After a couple of days relaxing in a nearby traditional village, continue to the former British Raj summer capital of Shimla for a few days, and descend the mountains on the famous toy train.<br/><br/>Remember, this is just a suggested itinerary - your own holiday can be tailored to your preference of budget, duration, locations and experiences.",
+  "durationDays": "15",
+  "price": "2860",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Take to the skies Take the overnight flight from wherever you are to New Delhi."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Welcome to India! We will meet you at the airport and take you to your hotel to settle in and get ready for the upcoming adventure."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Markets & monuments of Delhi We will pick you up from the hotel and take you out to explore the gems of Delhi today. You can ride a cycle rickshaw through the old city, stop in at a traditional perfume shop, wander the bridal bazaar, or haggle for spices in the Khari Baoli market. Later on visit the stunning sandstone tomb of the emperor Humayun, and the medieval tower at the Qutab Minar."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Train to Amritsar Wake up early to board your train to Amritsar – the Shatabdi Express departs Delhi at 07:20 and arrives at Amritsar at 13:45, a classic experience of Indian rail travel. On arrival check in to your hotel and put your feet up. This evening we will drive you out to the Indian border with Pakistan for the enthralling closing ceremony."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Amritsar! Some people who visit the Golden Temple in Amritsar end up staying there all day, soaking in the atmosphere, chatting with Sikh devotees or volunteering in the kitchen. It’s really up to you. It is worth visiting the nearby park of Jallianwala Bagh which is now a sombre monument to the British massacre which took place there. The Partition Museum is also very good. In the evening be sure to return to the Golden Temple for the closing ceremony in which the holy book is put to bed for the night."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Punjabiyat in the Punjabi countryside Leave the city today and drive out 1h30m to Punjabiyat for an experience of surprisingly lively rural life in the agricultural heartland of India. Punjabiyat is on a working farm among acres of mustard and wheat fields, and while staying here you can cycle out in the countryside, ride bullock carts and get your hands dirty on the farm. Or you can just sit back and enjoy the serenity."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Dharamsala - Day 1 From the fertile plains of Punjab it’s a 4-hour scenic drive through changing scenery up to the foothills of the Himalayas. The former British hill station of Dharamsala is now a thriving Tibetan town and the headquarters of the exiled Dalai Lama. Check in to your hotel and explore the town."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Dharamsala - Day 2 Your guide will show you around Dharamsala today. You can visit the main temple where the Dalai Lama resides, or one of the smaller monasteries and nunneries dotted around. If you are interested in Buddhism you can take a philosophy class at the Tibetan Library, or have a consultation at the Astrological Institute."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Travel to Pragpur It’s just a 2-hour drive to step back a few hundred years in the beautifully preserved village of Pragpur, where your accommodation is at the historic Judge’s Court. Spend the afternoon relaxing or let the hotel staff show you around the village."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Explore Pragpur Relax and enjoy old fashioned village life in Pragpur."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Travel to Shimla The drive to Shimla takes about 6 hours, and there is some beautiful mountain scenery to take in along the way. Arrive in the former summer capital of the British Raj, and check in to your old-world hotel."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Shimla – Queen of Hills Today let us show you around Shimla – there’s plenty to see, especially the Viceregal Lodge and the Jakhu temple."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Explore Shimla Spend the day in Shimla at your own leisure for a stroll around town, tea & last-minute shopping."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Toy Train to Chandigarh Leave Shimla on one of the most beautiful train journeys the world - the famous toy train winds its way down the mountains through tunnels and past villages. The journey is about 6 hours and we can cut it short if you prefer. We will meet you at the rail head in Kalka and drop you off at your hotel in the nearby town of Chandigarh."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Chandigarh & Delhi Enjoy a morning tour of Chandigarh and the quirky yet brilliant Rock Garden, before heading to Chandigarh airport to fly to Delhi and connect with your return flight home."
+    }
+  ],
+  "map": ""
+}

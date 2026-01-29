@@ -1,0 +1,60 @@
+{
+  "destination": "Brazil",
+  "mainPhoto": "",
+  "id": "amazon-river-cruise-7-days",
+  "tourName": "Amazon River Cruise, 7 days",
+  "placesVisited": "Manaus, Rio Negro, Rio Jauaperi, Encontra das Aguas, Amazon River, Frequent excursions: nocturnal launch expeditions, caiman spotting, exploring the flooded forest",
+  "generalInfo": "Travel 200 miles upstream on the Rio Negro, the Amazon’s largest tributary. As you voyage deeper and deeper into the jungle you’ll find yourself in the most untouched rainforest of the whole Amazon. <br/><br/>Exploring the Amazon’s tributaries takes you away from the many settlements on the bank of the main river, giving you more chances to spot wildlife. Your home for the seven days is a riverboat with loads of windows over its decks. From the observation deck, you can fully appreciate the magnitude of the forest, whilst motor launches take you on smaller expeditions away from the main vessel.<br/><br/>There are many different kinds of rainforest, and you’ll explore many of them, from terre firme forest, free from flooding, where tall hardwood trees grow, to varzea forest, annually dosed with rich floodwater so its trees grow thick and green. There are orchids and bromeliads, iguanas and tall, elegant fishing birds, and monkeys cavort on the branches.<br/><br/>When night falls, you’ll venture out with torches to listen to the rainforest’s chorus in the darkness. Your torch might pick out red eyes glowing in the night – the eyes of caiman, Amazonian alligator, lurking in the water.<br/>",
+  "durationDays": "7",
+  "price": "3350",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Manaus, Rio Negro. Early this morning all guests board the vessel the Motor Yacht Tucano and depart upstream on the Rio Negro. Through the morning we will cruise through the world’s largest river island system, the Anavilhanas Archipelago. From the observation deck we scan the magnificent tangle of vegetation at the water’s edge. By mid-afternoon the vessel has gone beyond the frontier of settlement and entered a wilderness area. Both shores are covered by dense rainforest. Though we cannot predict what we will see, we have a good chance of observing pink river dolphins and a large collection of exotic birds. Most certainly we will be treated to magnificent forest vistas and the spectacular trees themselves. In the late afternoon we embark in the launches and hunt for wildlife. We may also go for a swim in some of the world’s most clean and refreshing water. (LD) We return to the M/Y Tucano for hors d’oeuvres on the observation deck and a toast to the rainforest sunset. Following dinner we will embark in our launches in search of nocturnal creatures such as the Caiman, the Amazon’s crocodilians. We may also see one of the large night birds such as a Potoo with its bulging eyes and large mouth adapted to swallow the huge Mariposa Moths. (D)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Rio Negro. Early this morning we divide into small groups and explore the rainforest in our launches or kayaks, each group with a naturalist guide. We should hear and perhaps see howler monkeys and we should hear a morning serenade of toucans. After breakfast we go for a walk in the forest where we will get a good start on understanding Amazon ecology. Around midday we return for lunch and the vessel will get underway, perhaps stopping at a place to swim. In the late afternoon we will again explore the forest in our launches and listen to the sunset chorus of birds, frogs and howler monkeys. (BLD)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Rio Negro. This morning there will be an early exploration of the waking forest. We will keep our eyes open for sloths... on most trips we see them often. We return for breakfast followed by either a walk in the forest or an excursion in the launches. M/Y Tucano will travel during the middle of the day and we stop in the afternoon for an excursion. Tonight the vessel may travel a bit more as we marvel at the night sky crowded with stars. (BLD)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Rio Negro. After our two morning excursions The M/Y Tucano will navigate along the heavily forested shore, scouting for wildlife. We may stop for a visit at a settler’s home carved out of the forest. In the early afternoon we will be near an extraordinary river called the Rio Jaueperi. Here we will see a kind of forest known as the varzea. We will scout along the shoreline for some of the extraordinary creatures found only in this unique environment. Weather permitting we will have a night excursion to observe nocturnal creatures. (BLD)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Rio Negro. Today we will voyage to the west side of the Rio Negro and continue to scout in our launches and walk in the forest. We will explore according to the weather and water depth areas rarely visited by anyone else. Tonight the M/Y Tucano goes downstream to arrive by morning near the confluence with the Amazon River. As we glide through the starry darkness this is a good night to sip the national drink of Brasil, the “Caipirinha” and perhaps try a bit of samba on the top deck. (BLD)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Encontra das Aguas. We begin the day with a dawn excursion hunting for wakening wildlife followed by a full Brasilian breakfast. We will then go one last time into the forest. In the mid-afternoon we will begin to journey downstream to arrive late in the day at the “Encontra das Aguas” a stark several mile long line where two of the world’s largest rivers, the Amazon and the Rio Negro join in a turbulent maelstrom. Here the dark water of the Negro runs beside the opaque brown water of the Amazon. At sunset the M/Y Tucano will once again turn her bows upstream on the Rio Negro and journey to our overnight anchorage north of the City of Manaus. As we pass in front of Manaus, we will marvel at the scale of one of the world’s largest and most vibrant port cities, that is over one thousand miles from the sea. Tonight we will have a farewell dinner and prepare for an early departure in the morning. (BLD)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Manaus. Early this morning, after a hearty breakfast, all guests disembark from the M/Y Tucano. (B)"
+    }
+  ],
+  "map": ""
+}

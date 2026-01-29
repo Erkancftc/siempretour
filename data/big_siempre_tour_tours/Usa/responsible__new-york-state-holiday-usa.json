@@ -1,0 +1,95 @@
+{
+  "destination": "Usa",
+  "mainPhoto": "",
+  "id": "new-york-state-holiday-usa",
+  "tourName": "New York State holiday, USA",
+  "placesVisited": "New York City, Delaware National Forest, Finger Lakes region, Niagara Falls, Rochester, Lake Ontario, Lake Placid, Adirondack Mountains, Saratoga Springs, optional activities around Finger Lakes include: walking, canoeing, mountain biking and fishing",
+  "generalInfo": "New York City is one of the most popular cities to visit in the USA, but many visitors pass by the rest of New York State, which has much to explore and discover. <br/><br/>This itinerary begins by taking in the magnificent Niagara Falls before heading inland into New York State. Spend time in the tranquil Finger Lakes region, where you can enjoy a boat trip out on the water. <br/><br/>You can also taste some of the state's finest wines in the Ithaca wine producing region and follow hiking trails through the beautiful Adirondack Mountains, home to beavers, Canadian lynx and ospreys. Your trip finishes up in New York City with plenty of time for you to soak up all the 'Big Apple' has to offer.",
+  "durationDays": "13",
+  "price": "3640",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "London - New York. Fly from London to Buffalo. Today you begin your journey by boarding your international outbound flight to Buffalo. You arrive in Buffalo this morning collect your hire car and head to nearby Niagara Falls where the remainder of the evening is free to explore at your leisure."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Niagara Falls. Spend the day exploring the flower-adorned streets of this historic town. You may wish to take a stroll along the lake-side parklands or visit the Canada`s pretty town of Niagara on the Lake. This afternoon you are booked onto the Maid of the Mist boat tour, which will take you right up to the falls for a spectacular view!"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Niagara Falls - Ithaca. Depart the falls at your leisure today and head south east to New York State`s Finger Lakes region. The afternoon is free to take a boat trip on the lake, hire a bicycle or explore the shops and restaurants along the waters edge."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Ithaca. Enjoy a full day exploring the wonderful Finger Lakes today. We recommend a visit to Buttermilk Falls State Park where you will find more than 10 waterfalls tumbling some 500ft below into clear pools. In the afternoon why not head to Corning, home to the impressive Cornell University as well as the massive Corning Museum of Glass."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Ithaca - Clayton, New York. Leave the Finger Lakes and head to the wonderful 1000 Islands area where you will be based for the next few nights."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Clayton, New York. Enjoy a full day of activity in 1000 Islands. You may wish to take in some excellent kayaking on the St. Lawrence River or perhaps head to Wellesley Island State Park and enjoy some bike riding."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Clayton, New York - North River. Leave the river today and head into the largest wilderness in the US, the Adirondack Park. Head to your lodge in the heart of the park where the afternoon is free to explore the local area."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "North River. Enjoy a full day of walking, cycling, kayaking and exploring some of the best scenery in the US."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "North River - Lake Placid. Continue north today as you head to the site of two winter Olympics, Lake Placid. Upon arrival to your hotel overlooking the impressive scenery of Mirror Lake, spend the afternoon exploring at your leisure."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Lake Placid. Mirror Lake and Lake Placid are at your disposal today as you spend a full day in the area. You can kayak on the waters, swim in the shallow outer parts or just relax on the beach. The nearby mountains are great for gentle hiking and afford spectacular views over the region."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Lake Placid - New York City. It is a simple drive today and your head south to the state capital, Albany. Here you take the train for a scenic rail journey into New York City."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "New York City. You will have all day to explore Manhattan at your leisure today. Visit any of of New York's famous attractions within walking distance of your hotel; the Statue of Liberty, Madison Square Garden, the Rockefeller Center and the Empire State building. In the afternoon you can wonder the windy paths of Central Park for a lovely respite from the 'hustle and bustle' of the city."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "New York City. Today you will meet your guide in the Flatiron district for your walking culinary tour of this lesser known part of the city. The tour focuses on architecture as well as food as you walk through the historic district. This afternoon you may wish to visit Chelsea, where you can visit the famous market or walk the high line, an elevated public garden built on a disused railway track."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "You have most of the day free for one last stroll around The Big Apple before heading to the airport for your onward flight."
+    }
+  ],
+  "map": ""
+}

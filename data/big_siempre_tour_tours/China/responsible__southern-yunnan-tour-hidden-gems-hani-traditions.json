@@ -1,0 +1,65 @@
+{
+  "destination": "China",
+  "mainPhoto": "",
+  "id": "southern-yunnan-tour-hidden-gems-hani-traditions",
+  "tourName": "Southern Yunnan tour, hidden gems & Hani traditions",
+  "placesVisited": "",
+  "generalInfo": "This 8-day expedition dives deep into the \"liquid gold\" of Southern Yunnan. From the sapphire depths of Fuxian Lake to the 1,300-year-old Yuanyang Rice Terraces, you will witness a landscape carved by the harmonious rhythm of the Hani people.<br/><br/>Why choose this holiday?<br/><br/>- Living Landscapes: Experience the Yuanyang Terraces, where Hani farmers use a \"four-dimensional\" ecosystem to cultivate the land without pesticides.<br/><br/>- Ancient Craftsmanship: Get hands-on with Jianshui Purple Pottery, one of China's four famous clays, and learn the art of wood-fired tofu pressing.<br/><br/>- Tea &amp; Rainforests: Journey to the Jingmai Mountain (UNESCO World Heritage candidate) to pick tea leaves with Bulang elders in forests that have stood for centuries.<br/><br/>- Authentic Connection: Avoid the crowds by visiting Manyuan Dai Village, participating in banana-leaf cooking, and understanding the spiritual link between the Dai people and their sacred elephants.",
+  "durationDays": "8",
+  "price": "3099",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "ARRIVAL IN KUNMING. Transfer to Fuxian Lake, witnessing the ancient \"Che-shui\" fishing technique."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "KUNMING TO JIANSHUI. Visit the Chengjiang Fossil Museum (Cambrian era) before exploring the Ming Dynasty streets and purple pottery workshops of Jianshui."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "JIANSHUI TO YUANYANG. Walk the 17-arch Shuanglong Bridge and witness the \"Stairway to Heaven\" sunset at Duoyishu Terraces."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "YUANYANG TO JINGHONG. Catch the sunrise at Tiger’s Mouth before driving through the \"Banana Belt\" into the tropical Xishuangbanna."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "JINGHONG EXPLORATION. Immerse in Manyuan Dai Village for traditional cooking and explore the vibrant Gaozhuang Night Bazaar."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "JINGHONG TO JINGMAI. Walk through the world’s oldest tea forests and sing to tea trees with the Bulang people."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "JINGMAI TO JINGHONG. A pre-dawn hike for a \"sea of clouds\" sunrise, followed by traditional tea picking and a return to Jinghong."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "DEPARTURE FROM JINGHONG. Sample \"forest flavors\" at the local market before your airport transfer."
+    }
+  ],
+  "map": ""
+}

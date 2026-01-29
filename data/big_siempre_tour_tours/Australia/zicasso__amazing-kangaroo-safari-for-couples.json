@@ -1,0 +1,80 @@
+{
+  "destination": "Australia",
+  "mainPhoto": "",
+  "id": "amazing-kangaroo-safari-for-couples",
+  "tourName": "Amazing Kangaroo Safari for Couples",
+  "placesVisited": "Sydney, Adelaide Hills, Coober Pedy, Uluru, Flinders Ranges National Park",
+  "generalInfo": "Escape to the Australian outback on a romantic 11-day Australian kangaroo safari designed perfectly for two. After Sydney indulgence, camp beneath the stars in Uluru before following marsupials across the outback to Flinders Ranges and Adelaide. Handcrafted to give you time and space, this is a beautiful 11-day vacation into wild and wonderful Australia.",
+  "durationDays": "11",
+  "price": "4,500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Sydney - Dining in the Harbor City",
+      "description": "Sydney evokes images of classical romance, such as fine dining 25 floors above the streets and a luxury hotel that embraces the elegance of the Victorian era. During your time in the city, you will indulge in places of decadence and delight at the beach and deep within the urban landscape. These experiences and more will be yours after landing in Sydney this morning. Early check-in will be arranged so that you can relax after the flight. Dinner reservations and transfers will also be included so that you can start your romantic vacation in style."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Sydney - Kangaroos and More",
+      "description": "The best way to tour Sydney is by boat. Today, you will traverse the Parramatta River and glide beneath the Sydney Harbour Bridge. You will also pass the iconic opera house and cruise out of the city to a wildlife sanctuary, where you will spend a day with a conservationist and get very personal with different marsupials. You can also touch rescued koalas and wallabies, discover dingos and wombats, and learn more about eastern grey kangaroos. With a full day here, you can savor a wide range of animal encounters before another amorous night in the city."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Sydney - City Chic and Beachside Bliss",
+      "description": "This day will be left free, and you can customize it to your interests and wishes. Three days in Sydney is perfect for couples. You will have time to get over your jet lag, to explore different neighborhoods and restaurants, and to try different Sydney experiences. You may spend the day at the beach, take a private trip to the Blue Mountains, or wander the Victorian arcades and Darling Harbour. You should consider a show at the Sydney Opera House in the evening, which will offer you the chance to explore the famous sails."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Uluru - Camp Beneath the Stars",
+      "description": "Today, you will fly to Uluru, which is the famous red rock that will be visible from the plane. When you land, your driver will transfer you to your delightful outback camp that will be cut off from the world on the glistening plains. These next two nights will be just the two of you and the desert in a beautiful suite that is open to the wild. Privacy is paramount here, and you will spend an evening dining beneath the stars and listening to passing wildlife."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Uluru - Sunset Horseback Ride to Uluru",
+      "description": "This morning, you can travel by 4WD or quad to Kata Tjuta, which is a dramatic series of sandstone domes that soar above the desert. A sacred place for the local Aboriginal tribe, these domes are a breathtaking indication of nature’s power. There will be plenty of time to rest and relax in the Outback throughout the day before you ride on horseback to Uluru before sunset. The world’s biggest monolith defies description, and you will watch how the sunset scorches its frame before riding back with the moon and stars."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Coober Pedy - Kangaroo Rescue Center",
+      "description": "For the next four days, you will explore the red desert, from Uluru to Adelaide, on roads with more kangaroos than cars. This will be a privately guided tour, and you will reach Coober Pedy today. Here, there is a rescue center for injured kangaroos. Interactions with joeys are sublime here, and you can encounter different kangaroo species on the same plains. Like in Uluru, silence and serenity are a major part of the experience. During your time here, you will cross the Outback and find wild splendor in all directions."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Flinders Ranges National Park - Giant Red Kangaroos",
+      "description": "Another relaxing desert journey will lead you to the Flinders Ranges National Park. After settling into a delightful camp, you will spend the day amid the area’s wildlife, hopefully encountering red kangaroos. These are the biggest and brightest of all Australia’s marsupials, and they are not to be approached. Watching mobs gather and box on the plains is a rare Australian experience and a primary highlight of this safari across the bush. These giants may be complemented by an extravagant array of birds and other marsupial species."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Flinders Ranges National Park - Another Wildlife Day",
+      "description": "Today, you will have the entire day in Flinders Ranges National Park, and local guides can reveal its best-kept secrets. Staying on the scent of red kangaroos, you will follow walking trails to lookout points and open plains. Koalas can often be spotted in the trees alongside parrots. Wild emus run free, and on the ground, you can spot snakes, bearded dragons, skinks, and goannas. The national park is also home to western grey kangaroos, which are smaller and more numerous than their red counterparts. You can expect a full day of encounters and another night beneath the stars of the Outback."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Adelaide - Tranquility on the Ocean",
+      "description": "You will complete your Outback journey today with a guided drive to Adelaide, where you will check into a beachside suite for two charming nights on the southern coast. As with other days on the road, you will probably leave early and make the most of the cooler morning hours before arriving in the early afternoon and having time to explore before sunset. You will be staying outside the city of Adelaide in a suburb that is home to a couple of excellent seafood restaurants and a slow pace of life."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Adelaide - Day Trip to Kangaroo Island",
+      "description": "You will complete your Australian kangaroo safari with a day trip to Kangaroo Island. Here, a peculiar kangaroo subspecies hops and boxes across the plains. They gather in huge mobs, and you can sometimes see hundreds in the same vista. Koalas are also abundant, and you can see more of them here than anywhere else in Australia. You can also expect to see a variety of other marsupials, including mischievous wallabies that regularly approach people. On this private day trip, you can also add some marine encounters, including snorkeling in a bay that is populated by sea lions."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Adelaide - Departure",
+      "description": "After a leisurely morning and a late check-out, you will be transferred to the airport to begin your journey home."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,40 @@
+{
+  "destination": "Botswana",
+  "mainPhoto": "",
+  "id": "botswana-wheelchair-accessible-safari",
+  "tourName": "Botswana wheelchair accessible safari",
+  "placesVisited": "",
+  "generalInfo": "This accessible safari is designed for wheelchair users, offering a seamless and comfortable way to explore Africa’s most breathtaking wildlife destinations. Combining expert-guided game drives, river safaris, and wheelchair-friendly accommodations, this journey ensures an inclusive and enriching experience from start to finish.<br/><br/>Your adventure begins in Maun, the gateway to the Okavango Delta, where you’ll embark on game drives in adapted vehicles to spot lions, leopards, elephants, and other iconic wildlife. Your accommodation is thoughtfully designed for wheelchair users, ensuring both comfort and ease of movement.<br/><br/>Next, explore Chobe National Park, home to some of the largest elephant herds in Africa. Here, you’ll enjoy game drives and a scenic boat safari, offering up-close wildlife encounters from both land and water.<br/><br/>The journey concludes at Victoria Falls, one of the world’s most spectacular natural wonders. With wheelchair-accessible pathways, you can take in the breathtaking views with ease. Optional experiences, including a Zambezi River cruise, add the perfect finishing touch to this unforgettable trip.<br/><br/>If you're looking for an accessible holiday that combines adventure, comfort, and world-class wildlife viewing, this safari is the perfect way to experience the magic of Africa.",
+  "durationDays": "12",
+  "price": "6500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Your journey begins in Maun, Botswana—the gateway to the Okavango Delta. Maun is accessible via international flights from Johannesburg, Addis Ababa, or Windhoek. Upon arrival, a ‘Washington Chair’ is used for disembarkation with assistance from airport staff. After transferring back to your chair, clearing customs, and collecting your luggage, your guide, who will be with you throughout your safari, will be there to welcome you. Our adapted 4×4 safari vehicles feature a hydraulic ramp, allowing you to either transfer to one of our seats or have your chair securely fastened in place. Tonight, you’ll be staying just outside Maun at Thamalakane River Lodge, a scenic retreat set along the banks of the Thamalakane River, offering stunning sunset views over the water. The lodge features adapted rooms with roll-in showers and ramps, though handrails are not available. In the afternoon, you’ll embark on a sunset boat cruise (subject to water levels), keeping watch for kingfishers, herons, storks, hippos, and a variety of other wetland species that inhabit the area. Our experienced guides and staff are always available to assist as needed."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "After breakfast, you will depart and embark on a leisurely game drive towards the Kwhai River, located to the north of the Moremi Game Reserve. For the next three nights, you’ll stay at our exclusive mobile camp, designed to provide both adventure and comfort. The tents are spacious, measuring 4.5m x 3m x 2 to 2.5m, with thick insulation on the ground and a partition separating the bedroom from the private bathroom. Each tent offers a choice of double, single, or family accommodations (with space for 1 or 2 children), and features large windows with mosquito screens to ensure a comfortable stay. Our camp is accessible to wheelchair users, with generous interior space in the tents and bathrooms equipped with padded seat chairs and folding armrests, making transfers from wheelchair to shower or toilet seamless. The camp is fully staffed with chefs, guides, and support personnel, ensuring a hassle-free stay. Hot water is provided for your showers, and fresh drinking water is available at all times. This setup guarantees a memorable safari experience with maximum comfort, surrounded by nature’s beauty."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "You will be driven to Victoria Falls. We provide an adapted vehicle with a lift or ramp for convenient transfers within Victoria Falls Town, Zimbabwe. We also partner with several hotels in the area that offer accessible rooms to ensure a comfortable stay. Known as Africa’s adventure capital, Victoria Falls offers a range of thrilling activities that have been adapted for guests with mobility impairments. We can assist in arranging experiences such as bungee jumping, gorge swings, and helicopter rides. Some activities may require additional support, including lifting assistance, and we will discuss all options with you to ensure a safe and enjoyable experience."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,40 @@
+{
+  "destination": "Ecuador & Galapagos",
+  "mainPhoto": "",
+  "id": "galapagos-luxury-nature-cruise",
+  "tourName": "Galapagos luxury nature cruise",
+  "placesVisited": "",
+  "generalInfo": "Explore the magical Galapagos Islands on a boutique cruise. With a maximum of 20 guests onboard, these small and stylish boats get you closer to the action and away from the crowds.<br/><br/>After time in Quito to explore its cultural gems, embark on a full week cruise to discover giant tortoises, blue-footed boobies, and marine iguanas. Snorkel with sea turtles, hammerhead sharks, and thousands of fish. Explore volcanic islands, white sand beaches, and the deep blue sea.<br/><br/>Get in touch today to see which boat and itinerary suits you best!",
+  "durationDays": "10",
+  "price": "5900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Start your adventure in UNESCO-listed Quito, the charming capital of Ecuador. Enjoy a private walking tour of the Colonial Centre, and try out some optional cultural visits."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Fly to the Galapagos, and set sail for up to a week (flexible) around the incredible archipelago. You will explore a stunning diversity of islands, meeting the famous Giant Tortoises, Land and Marine Iguanas, Blue-Footed Boobies, and many other iconic creatures along the way. On most days you will have a chance to snorkel and swim in the ocean, where you can expect to also find Sea Turtles, Sea Lions, Hammerhead and Reef Sharks, Penguins, Rays, maybe even Whales and Dolphins."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Wave goodbye to the Galapagos, as you return to Quito for a final evening in Ecuador. We can also extend your trip to explore the flora and fauna of the Amazon Rainforest, Avenue of Volcanoes, or the misty Cloud Forest."
+    }
+  ],
+  "map": ""
+}

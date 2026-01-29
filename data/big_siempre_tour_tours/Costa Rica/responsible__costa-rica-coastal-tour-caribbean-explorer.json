@@ -1,0 +1,60 @@
+{
+  "destination": "Costa Rica",
+  "mainPhoto": "",
+  "id": "costa-rica-coastal-tour-caribbean-explorer",
+  "tourName": "Costa Rica coastal tour, Caribbean Explorer",
+  "placesVisited": "",
+  "generalInfo": "This unique itinerary gives you the chance to sample the best that Costa Rica's Caribbean coast has to offer. Starting in the lush river-filled forests and turtle hatching grounds at Tortugero and moving on to the beautiful beaches of Cahuita  for relaxation and a visit to the indigenous Bribri community. Then head back to the Central Valley to the bird-watcher's paradise of El Copal Reserve and finish off with an exciting but gentle rafting trip down the Pejibaye River. This short trip is full of the magic of Costa Rica and you might just find yourself coming back for more!",
+  "durationDays": "8",
+  "price": "1995",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive at the international airport of San José, where you will be met by one of our representatives and taken to your charming hotel. Depending on when you arrive, you may have time to do a walking tour around the centre of town."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "You will picked up nice and early to begin your journey to Tortuguero and the Costa Rican Caribbean (shared transfer). The first half of your journey will be by road before boarding a comfortable boat for the exotic trip down the freshwater canals that take you to Tortuguero National Park. After a refreshing tropical drink and lunch, boat across the river to visit the Sea Turtle Museum, the beach and Tortuguero Village. (B/L/D)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Today starts with a shared boat tour through the canals of Tortuguero at dawn, marvelling at the exotic protected flora and fauna protected in the park. After breakfast, enjoy the nature trails from your lodge, take another boat trip or relax around the pool. During turtle season (July-Sept) you will be able to watch the turtles coming up the beach to lay their eggs. (B/L/D)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "After breakfast, a boat will take you back along the canals to Guápiles. After lunch your adventure continues as you drive south along the Caribbean coast to Cahuita. Enjoy the afternoon in Cahuita National Park where it is easy to see monkeys, sloths, iguanas and tropical birds and take a dip in the warm ocean. (B/L)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Wake up to the sounds of the forest and, together with your driver, set off by road and canoe to the Bribri indigenous territory, in the tropical rainforest of Talamanca. This is an incomparable opportunity to experience the Bribri culture and learn about indigenous medical plants and Bribri cuisine. (B/L)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "These days are free for you to relax on the beach, explore the area or choose one of the optional activities (not included): dolphin watching, snorkel or kayak tour, Caribbean cooking class, surf lessons, Caribbean dance lessons, night hiking or bicycle tour. (B)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Experience a rafting adventure on the Pejibaye river! The trip is approximately 6km long, floating on turquoise water and passing by traditional crops such as coffee, sugar cane and macadamia nuts. The rapids are gentle and suitable for the whole family. Afterwards, you will be driven back to San José to travel home or continue your voyage through Costa Rica. (B)"
+    }
+  ],
+  "map": ""
+}

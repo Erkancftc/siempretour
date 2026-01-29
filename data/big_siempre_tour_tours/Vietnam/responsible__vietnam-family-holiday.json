@@ -1,0 +1,85 @@
+{
+  "destination": "Vietnam",
+  "mainPhoto": "",
+  "id": "vietnam-family-holiday",
+  "tourName": "Vietnam family holiday",
+  "placesVisited": "Hanoi, Cycle rickshaw tour, Museum of Ethnology, Hoan Kiem Lake, Halong Bay, Sleeper train to Hue, Guided tour of Citadel at Hue, Markets of Hoi An, Saigon, Cu Chi Tunnels, Beaches at Mui Ne",
+  "generalInfo": "This two week, Vietnam family holiday takes you on an adventure from top to tail, or vice versa, with an array of stunning scenery, cultural sites and delicious regional dishes to keep your family wide eyed and active all holiday long. As this itinerary is possible from Hanoi to Ho Chi Minh City, or in the opposite direction, you can tailor make your tour to suit your wishes with guided cyclo (bicycle rickshaw) tours around the old districts bound to kick start your holiday as you mean to go on.<br/><br/>If you’re starting in the northern capital of Hanoi then the karst landscapes of Halong Bay are an inevitable next destination with kayaking, swimming and boat tours around limestone caves offering a really exciting and sometimes surreal experience for nature loving families. Northern Vietnam is also renowned for its mountainous jungles where hill tribes live and local villages can be found surrounded by rice terraces and paddy fields. Continue south and the centrally located cities of Hoi An and Hue take you back in time where tailors, tombs and tales of the last emperors add to the enjoyment of days spent exploring nearby stretches of white sandy beaches. A short distance from Ho Chi Minh City is the Mekong Delta which takes you into a watery world of long tail boats, homestays with island communities and bike rides along the industrious riverbanks.<br/><br/>Whichever way you choose to experience Vietnam on this family holiday, a warm welcome from the local people is practically guaranteed as well as a cultural adventure that can be as active, relaxing or as downright exciting as you want it to be.",
+  "durationDays": "15",
+  "price": "3500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "HANOI Upon arrival at the airport you will be met by one of our representatives and taken to your hotel in the heart of Hanoi. The rest of the day is free to either explore or relax and recover from your flight. Hanoi is a lovely city which will completely entrance most children; wander through the parks in the early morning or at sunset and you will see people doing Tai Chi and ballroom dancing (less bashful kids can join in!). There are wide boulevards with imposing colonial buildings which you can admire from the comfort of a tiny noodle shop, gleaming office buildings, trendy boutiques and exquisite restaurants. There are also endless narrow streets full of children playing games and old men playing chess that just beg to be explored."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "HANOI Today you will have a full day tour of the city. The highlight might be the afternoon cyclo (cycle rickshaw) tour through the chaotic streets of the Old Quarter or the delicious local lunch of noodle soup, but it is also fascinating to see Ho Chi Minh lying in state in his mausoleum. Other sites include the Museum of Ethnology and the beautiful Ngoc Son Temple which is situated on a tiny island in the centre of Hoan Kiem Lake."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "HANOI This morning you will head off the beaten track in Hanoi, heading to a suburb on the banks of the Red River that escaped much of the bombing during the war and which is home to many old houses and temples. You will take a gentle bike ride through back streets, stopping to visit a charming small temple, and getting an insight into a very different side of the city. You will finish at a traditional courtyard house where you will join the host family for lunch, helping to make spring rolls."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "HANOI – PU LUONG NATURE RESERVE Today you will leave Hanoi to head west into the remote Pu Luong Nature Reserve. The drive takes around 4.5 hours and as the journey progresses you head deeper into the hills and the views are absolutely stunning. Here the sides of the mountains are carved into steep rice terraces and small traditional villages dot the landscape. You will stay in a new lodge which is situated in a magnificent location with beautiful views. This afternoon you will visit a local family who live in the village at the base of the valley."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "PU LUONG NATURE RESERVE This morning you take a walk through the local area, passing through friendly villages and enjoying the views. This can be tailored to your fitness levels but could take 4-5 hours depending on how long you want to hike. In the afternoon you will head to the river that runs through the base of the valley and will take a canoe ride past the traditional water wheels. These are still used to get water into a network of bamboo irrigation canals that lead to the fields dotted around the hills. If you would prefer to ride bikes instead of take a canoe ride, this is also possible."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "PU LUONG – NINH BINH After breakfast you will drive to Ninh Binh, a beautiful area to the south of Hanoi, and home to one of its earliest capitals, Hoa Lu. The drive takes around 2.5-3 hours. When you arrive you will visit the remains at Hoa Lu. Although there is not a huge amount to see you can visit the temple that has been built on the site on the ancient palace and wander through the nearby village. Later take a boat ride in Trang An. Here the rivers have carved a route through ancient limestone cliffs and your boat will follow the course of the river through caves up to 300m long. The tunnels are very narrow and low in areas, and the precision with which the boat ‘rower’ navigates the route is remarkable – you will need to duck frequently as you pass under low stalactites."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "NINH BINH – HALONG BAY This morning you will drive approximately 3½ hours to Halong Bay where you will board a traditional junk (sailing boat) for an overnight cruise. Halong Bay is spectacularly beautiful, with thousands of towering pillars of sea and wind-carved limestone karsts soaring out of the water. This afternoon the junk will stop at one of the small islands in the bay to give you the chance to try your hand at kayaking."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "HALONG BAY A full day to continue with your exploration of the bay. You will stop at a small beach where you can swim, kayak or relax and will also continue cruising through the spectacular scenery. Later you will take dinner in a cave before spending a second night on board the boat."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "HALONG BAY - HANOI Continue sailing and take a row boat to Vong Vieng fishing village where you can have a look around. Later return to Hanoi for the overnight train south."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "HOI AN – SAIGON A morning cookery class in which you will try your hand at preparing some of the delicious dishes that you will have been tasting during your holiday!"
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "SAIGON After breakfast you will be taken on a tour of this lively and exciting city. You will visit a beautiful old Chinese temple heady with the smell of incense from its hundreds of incense coils, a buzzing local market, the War Remnants museum (which is both fascinating and horrifying) and a number of other sights. This afternoon you will have an excursion to the Cu Chi tunnels, just west of Saigon. These tunnels were used as a means of underground communication during the war against the French and then later against the Americans."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "SAIGON Time to say goodbye to Vietnam and head home."
+    }
+  ],
+  "map": ""
+}

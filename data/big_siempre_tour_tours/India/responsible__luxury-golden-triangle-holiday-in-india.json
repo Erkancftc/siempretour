@@ -1,0 +1,65 @@
+{
+  "destination": "India",
+  "mainPhoto": "",
+  "id": "luxury-golden-triangle-holiday-in-india",
+  "tourName": "Luxury Golden Triangle holiday in India",
+  "placesVisited": "Delhi, Agra, Fatehpur Sikri, Jaipur",
+  "generalInfo": "The Golden triangle staying at the very best hotels in India!<br/><br/>This luxury Golden Triangle holiday allows you to explore some of India’s greatest cities and ancient sites in style and comfort. You’ll have an air-conditioned car with a driver for the duration of your trip. <br/><br/>Highlights of your holiday will include a Five Senses tour and visiting Delhi’s 17th century Red Fort with its gilded columns and marble pool; exploring the centuries-old city of Agra and visiting the majestic Taj Mahal at sunrise; and strolling the boulevards and pink-hued streets of Jaipur, discovering palaces, courtly homes and the authentic dynamic night market.",
+  "durationDays": "8",
+  "price": "3885",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Step off the plane and into our care with an assisted transfer at Delhi International Airport, from the bustle of the streets to the calm of your hotel. Relax and take your time to arrive fully. Hotel example: The Imperial"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Delhi - Over a relaxed breakfast briefing, plan your adventures for the week ahead, then plunge straight in with a unique Five Senses tour of Delhi. Hotel example: The Imperial"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Agra - After a relaxed breakfast, your chauffeur will be ready to drive you to the beautifully-preserved city of Agra, once the capital of the Mughal empire. Later in the evening visit the Agra Fort and Mehtab Bagh to see the Taj Mahal from the other side of the river during sun set. A unique experience. Hotel example: The Oberoi Amar Vilas"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Agra - Slip through the centuries surrounded by some of the world’s finest structures. Sleep with a smile on your lips, you’ll be waking before sunrise to see one of the Seven Wonders of the World - gaze upon the Taj Mahal's ethereal beauty, where love stories are etched in time. Later come back to the hotel for a leisurely breakfast. Later in the evening your guide will take you for a colonial tour of Agra to see the footprints of British Raj. Hotel example: The Oberoi Amar Vilas"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Jaipur - Relax and enjoy your journey to Jaipur, en route, visit the abandoned city of Fatehpur Sikri. Further down the road visit the 8th century stepwell. On arrival Jaipur check in to your hotel and enjoy luxury of your hotel. Hotel example: The Oberoi Raj Vilas"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Jaipur - Enjoy a sightseeing tour of Jaipur. Discover why Jaipur earned its nickname of the ‘Paris of India’ on a half-day tour. Stroll its wide boulevards and photograph its flamboyant pink-painted streets. Stock up on treasures to take home at the vibrant night market. Be amazed by the ingenuity of the city’s past inhabitants at Jantar Mantar, the world’s largest stone observatory. Watch in wonder as dusk blushes Jaipur’s terracotta buildings a deeper shade of pink. Hotel example: The Oberoi Raj Vilas"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Delhi - After breakfast, drive back to Delhi (approx. 05 Hrs). Upon arrival check in at the Hotel and take your time to savour the luxury of your Oberoi hotel before going home. Hotel example: The Oberoi Gurgaon"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "In the morning after breakfast, you will be assisted & transferred in your private car to Delhi International airport to connect with your flight."
+    }
+  ],
+  "map": ""
+}

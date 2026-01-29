@@ -1,0 +1,65 @@
+{
+  "destination": "Jordan",
+  "mainPhoto": "",
+  "id": "highlights-of-jordan-holiday",
+  "tourName": "Highlights of Jordan holiday",
+  "placesVisited": "Amman, Jerash, Madaba, Mt. Nebo, Kerak, Petra, optional horse riding, Wadi Rum, optional camel ride, Aqaba, Dead Sea",
+  "generalInfo": "On this eight day highlights of Jordan tour you’ll take in the country’s top sights. After touring the historical highlights of Amman, you’ll head for Jerash, one of the world's best preserved Roman provincial cities. Then it’s on to Petra, one of the Seven Wonders of the World, where you’ll have a full day to explore its many treasures.<br/><br/>The next day is spent in Wadi Rum, where you’ll take a jeep tour through the desert and have the opportunity to ride a camel, should you choose. You’ll be camping out in the desert and can either spend the night in a tent, or sleep on a mattress outside underneath the silence of a starry sky. Aqaba is the next destination, with its stunning beaches, fantastic snorkelling and crusaders castle. <br/><br/>After touring all of Jordan’s highlights, you get to spend a well deserved day at the Dead Sea. Here you may float in the salty waters or try out a pampering spa treatment. Being at the lowest point on earth is a unique experience; you can't swim in the water no matter how hard you try! <br/>",
+  "durationDays": "8",
+  "price": "1440",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Queen Alia Airport – Amman Arrival at Amman Queen Alia International airport, our airport representative will be waiting for you with a name sign; he will help you to arrange for you the free visa and will walk with you through the customs. Your driver will wait for you in the arrival hall, also holding a name sign he will transfer you to the 3* Hotel in Amman for overnight, including bed and breakfast"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Amman – Jerash – Amman Your English Speaking guide will be waiting for you in the lobby of your hotel. Start your first morning in Jordan with a city tour. Visit the Citadel in Amman, with beautiful views over the city. Continue to the Roman Theatre, located in the heart of Amman for a visit. Drive on to Jerash, to visit the world’s best preserved Roman provincial city.. After your visit of Jerash transfer back to Amman for overnight, including bed and breakfast"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Amman – Madaba – Mt. Nebo – Karak – Little Petra – Petra Today there is a long day ahead of you as you will be travelling to the South to Petra. At 07.30 am, after breakfast your tour today starts with visiting the St. George Church in Madaba with its famous mosaic map. Drive to Mt. Nebo, from where Moses viewed the Promised Land. Follow the King's Highway until Karak. In Karak visit the immense Crusaders Castle. Time permitting you will also visit Little Petra today otherwise transfer directly to Petra for overnight at 3* Hotel, including bed and breakfast. Optional activities for today: Petra by Night (each Monday, Wednesday and Thursday evening), Petra Kitchen cooking course, Local Turkish Bath."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Petra Full day to explore Petra, one of the seven world wonders. Entry by Siq and visit the Treasury, Street of Facades, Theater, Colonnaded Street etc. after lunch inside Petra you will still have time to visit the Monastery and/or the High Place of Sacrifice today. It is a lot of climbing but definitely worth the views! Overnight 3* Hotel, including bed and breakfast. Optional activities for today: Petra by Night (each Monday, Wednesday and Thursday evening), Petra Kitchen cooking course, Local Turkish Bath, 1.5/2.5 hrs horse ride around the mountains of Petra"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Petra – Wadi Rum After breakfast drive to Wadi Rum Visitors Centre. Before starting with the jeep tour you could decide to enjoy a half hour camel ride from Wadi Rum Village to Lawrence’s Spring. After start with a half day jeep tour including a freshly prepared barbeque lunch. A jeep tour is the best way to discover lots of sites in Wadi Rum. The jeep will stop at each site giving you time to walk/scramble around and maybe even climb up on some of the beautiful natural formed bridges in Wadi Rum. Dinner and overnight at a campsite in Wadi Rum. Sleep inside your tent or move your mattress outside and sleep under the millions of stars tonight!"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Wadi Rum – Aqaba After breakfast you will drive to Aqaba for a free day and overnight. Relax at the beach, discover the town of Aqaba or book a snorkeling cruise including lunch!. Overnight at 3* Hotel in the city center in Aqaba, including bed and breakfast"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Aqaba – Dead Sea – Amman Check out of your hotel and drive via the Wadi Araba desert to the Dead Sea, lowest point on the earth’s surface. Enjoy day entry and lunch at the 4* Hotel. Float in the salty waters and try out the famous healing mud. Late afternoon transfer to Amman 3* hotel for overnight, including bed and breakfast"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Amman – Queen Alia Airport Transfer to the airport for departure. You would need to leave the hotel 3 hours in advance (2 hours for the check in and less than 1 hour driving from Amman to Amman Queen Alia Airport)."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,60 @@
+{
+  "destination": "Japan",
+  "mainPhoto": "",
+  "id": "idyllic-japan-tour-for-seniors-in-one-week",
+  "tourName": "Idyllic Japan Tour for Seniors in One Week",
+  "placesVisited": "Tokyo, Lake Kawaguchi, Fuji, Kyoto, Osaka, Wakayama, Hakone",
+  "generalInfo": "During this 7-day tour of Japan, witness incredible views of Mt. Fuji, ascend through the thousand gates of Fushimi Inari-Taisha, and immerse yourself in the healing waters of your private onsen . Designed for active seniors, this Japan trip is a must for anyone who wants to travel to this fascinating country. Japan is a country that fuses the ancient with the modern, and you can experience it all by booking today.",
+  "durationDays": "7",
+  "price": "4,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Tokyo – Ancient Temple of Tokyo",
+      "description": "When your flight lands at Narita Airport, a private driver will greet and transfer you to your accommodation in the heart of the city. Once you have enjoyed some time settling in, your guide will escort you to Sensoji, which is the oldest temple in Tokyo. The wondrous world of ancient crafts and the smells of street food will entice you to investigate the temple more. Tonight, you will dine at a gourmet restaurant. Once your meal is finished, your guide will lead you to the waterways that cross the city before your accommodation for the evening."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Lake Kawaguchi – Mt. Fuji",
+      "description": "Of the five lakes near the base of Mt. Fuji, Lake Kawaguchi is known for its spectacular views of the famous mountain. When your train pulls into the station, you will meet your driver at the platform, and they will transport you to your accommodation. When you are ready, you will sail around the lake and experience the stunning views of Mount Fuji in the background. As you drift around the lake under the bright blue sky, you will experience the peaceful side of Japan. When you are back on land, your guide will lead you to the Kachi Kachi Ropeway, where you can ascend Mt. Tenjo."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Fuji – Visit Oshino Hakkai",
+      "description": "After breakfast this morning, your driver will transfer you to Fujisan. When you reach your accommodation, your guide will provide you with some time to relax before leading you to Mt. Fuji’s fifth station. Once you reach the fifth station, you will enter through red gates and stand in awe of the Shinto shrines that were built into the mountainside. The UNESCO World Heritage Site of Oshino Hakkai is a spring that was born from the underground water of Mt. Fuji. This area is a revered place of worship, and many people come here to experience its healing water. As you immerse yourself in the springs, you will feel the tranquility of the country seep into your soul."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Hakone – Immerse in an Onsen",
+      "description": "The famous resort town of Hakone is home to the healing waters of onsens and a spectacular view of Mt. Fuji. You will transfer to Hakone in the morning, and your driver will greet and transfer you to your accommodation. When you are ready, your guide will lead you to Owakudani, which is a crater that was created during an explosive eruption of Mt. Hakone about 3,000 years ago. When you arrive, you will board the Hakone Ropeway and head to the top of the mountain. Back in town, your guide will direct you to a private onsen where you can submerge yourself in the healing water of Hakone."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Kyoto – Traditional Tea Ceremony",
+      "description": "Kyoto was once the capital of the country but is now known as the cultural heart of Japan due to its pristinely cared for castles, shrines, and teahouses. After taking the bullet to Kyoto, your driver will greet you on the platform and escort you to your accommodation. When you are ready, you will transfer to Fushimi Inari-Taisha Shrine. Shinto was originally the religion of Japan, and the torii gates that line the path mark your entrance to a sacred land. The tea ceremony is a highly regarded event that stems from Zen Buddhism, and you will have the unique opportunity to partake in this revered custom."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Wakayama – Significant Religious Figures",
+      "description": "The Edo period in Japan was considered to be the golden era of peace, and Wakayama played an important role during that time. When your bullet train arrives at the station, you will meet your driver on the platform and transfer to your accommodation. After you have had some time to relax, your guide will lead you to Wakayama Castle. Your guide will then lead you to Mt. Koya, which is the epicenter of Shingon Buddhism. As you ascend the mountain, you will have the chance to visit the Garan Temple, where you will revere the significant religious figures. This evening, you can dine at a gourmet restaurant."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Osaka – Departure",
+      "description": "Osaka is known as the nation’s kitchen because it is home to a variety of cuisines. You will transfer to Osaka by train. Your driver will greet you at the station and transfer you to Osaka Castle, which was built in the 16th century. You can have the morning to explore the castle before lunch. After lunch, you will transfer to the airport for your flight home."
+    }
+  ],
+  "map": ""
+}

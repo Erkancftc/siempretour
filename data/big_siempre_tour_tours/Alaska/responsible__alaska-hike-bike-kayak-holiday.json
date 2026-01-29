@@ -1,0 +1,60 @@
+{
+  "destination": "Alaska",
+  "mainPhoto": "",
+  "id": "alaska-hike-bike-kayak-holiday",
+  "tourName": "Alaska Hike, Bike & Kayak holiday",
+  "placesVisited": "Cycle the Tony Knowles Coastal Trail from Anchorage, Scenic drive along Parks Highway to Denali National Park, Hike the Triple Lakes Trail in Denali, Sea kayaking in Resurrection Bay, Hike to Exit Glacier in Kenai Fjords National Park",
+  "generalInfo": "Alaska is home to some of the largest and most dramatic wilderness areas on the planet. Pristine landscapes such as the forests, tundra, and mountains of Denali National Park where bears and caribou roam, and Kenai Fjords National Park, where whales swim among staggeringly huge glaciers.<br/><br/>Join a small group (maximum participants 11) and a local tour leader for an Alaska kayaking holiday that also gets you out and about on foot, and on bikes. You will need to be reasonably fit, and comfortable riding a bike on paved, flat paths, but the distances are all very achievable and the pace relaxed throughout. After all – you want plenty of time to take in the views, you’re in Alaska!<br/><br/>Meeting your group and tour leader in the state capital, Anchorage, you’ll enjoy a superb bike ride along the Tony Knowles Coastal Trail, around 32km, as it follows the Cook Inlet through marshland and wooded hills. <br/><br/>The following day you’ll arrive in Denali National Park, which must surely rank among one of the most spectacular hiking destinations in North America. Routes will be chosen depending on weather and the group’s preference, but you’re likely to tackle the famous Triple Lakes Trail, which at 14km one-way is the longest in the park, and an absolute stunner, scenery-wise. If you don’t fancy the walk, you’re perfectly free to take the Tundra Wilderness Bus Tour instead.<br/><br/>From Denali you’ll head south to picturesque Seward, gateway to Kenai Fjords National Park. A change of scenery, and a change of transport, as you slip into kayaks for a paddle around Resurrection Bay. These calm waters are home to a variety of marine wildlife including otters, porpoises, and seals, and it’s not unknown to have a salmon leap over your kayak. <br/><br/>Before returning to Anchorage and bidding farewell to the group, there’s time for one final hike, to the Exit Glacier. When you’re up close you can actually hear the ice creaking and groaning as it prepares to calve an iceberg. Awesome experiences like this really bring home the fragility of these wilderness areas. Low on impact as you’re getting around on foot, bike, and kayak, your tour also helps to protect Denali and Kenai Fjords through paying national park entrance fees that go towards maintenance and conservation. And for good measure your tour leader will ensure groups always stick to marked trails, so as not to accidentally damage any habitats. <br/>",
+  "durationDays": "7",
+  "price": "3740",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Anchorage Cycling.",
+      "description": "Welcome to Alaska! Your adventure begins in Anchorage – the gateway to some of Alaska’s finest parks and cycling trails. You’ll have a welcome meeting at 12 pm today with your trip leader to meet your fellow travellers. After, enjoy a warm-up ride along the paved Tony Knowles Coastal Trail as it hugs the shore of Cook Inlet from downtown Anchorage through coastal marshes and over forested hills, with great views of Mount Susitna along the way. After, you’re free to freshen up and head out to the vibrant downtown, where you might like to enjoy dinner at one of the restaurants."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Denali National Park.",
+      "description": "After an early breakfast, sit back and enjoy the drive along the Parks Highway to Denali National Park – 6 million acres of the Alaskan wilderness. Keep an eye out for caribou, birds, wolves and other wildlife along the way. Stop in Talkeetna to stretch your legs and sit down for lunch with your group. When you arrive at the park – home to the tallest peak in North America – you’ll go to the visitor centre for a safety overview, then out into the wilderness for your first hike. The routes here will vary depending on the weather and the preference of your group."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Denali National Park Hiking.",
+      "description": "Today's hike starts by winding through the spruce forest as you walk the spectacular Triple Lakes Trail – the longest trail in Denali National Park and home to some great views of Riley Creek. With the towering mountains in the distance, you’ll trek along creeks, forest and rolling hills before the first of the three Triple Lakes comes into view. From here, you’ll either continue (if time permits) or return to the trailhead back to the hotel for a free evening. For those who want to see more of the park, you can choose to forego today's hike and pay for the full-day Tundra Wilderness Bus Tour, which includes the Toklat River’s incredible scenery and some of the park’s best wildlife spotting opportunities."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Matanuska Glacier Trek.",
+      "description": "Embark on a scenic drive along the Glenn Highway towards the town of Palmer this morning – a trip that’s packed with gorgeous mountain vistas and plenty of time for photo ops. You’ll eventually reach the famed Matanuska Glacier – Alaska's largest road-access glacier. It’s a jaw-dropping 27 miles long and 4 miles wide and has some of the most accessible walking areas of any glacier in the state! Don your ice cleats and helmet (included) and begin exploring the glacier on foot with the help of an Alaskan guide and glacier expert. Marvel at the ice that formed thousands of years ago, high in the Chugach Mountains. Amazingly, every day is unique at Matanuska, due to the dynamic nature of the glacier."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Seward.",
+      "description": "Today, enjoy a slow start to the morning and then take a leisurely drive to Seward – one of Alaska's oldest and most picturesque towns. Along the way, you’ll stop at some scenic viewpoints along Turnagain Arm, named for British explorer James Cook, who was forced to ‘turn again’ when the waterway didn’t hold the fabled Northwest Passage on his 1778 voyage. Explore this scenic area, then continue to Seward. This vibrant town is the gateway to Kenai Fjords National Park and has galleries, boutique shops and a bustling harbour."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Seward Sea Kayaking.",
+      "description": "Enjoy a change of scenery as you venture out onto Resurrection Bay on full-day sea kayaking and rainforest hiking adventure. Learn about life in Seward as you travel to the shoreline. After a quick briefing, hit the tandem kayak and paddle around the calm waters of the bay with your partner, soaking up the mountain vistas as you keep an eye out for sea otters, seals, porpoises, bald eagles and leaping salmon. From mid-July to early September, you‘ll paddle directly past the outlet of Tonsina Creek to view a salmon spawning stream! Then, explore Tonsina Point with its ghost forest, tall waterfall and gorgeously green scenery. Stop for a picnic lunch with your group in the forest, then take walk on the beach – today is full of photo ops!"
+    },
+    {
+      "dayNumber": 7,
+      "title": "Exit Glacier / Anchorage.",
+      "description": "Before you leave Seward today, there will be time for a classic Alaskan walk to view Exit Glacier in Kenai Fjords National Park where you’ll be able to listen to the sound of the glacier! It’s then time to drive back to Anchorage, where your adventure comes to an end. If you’d like to extend your stay, just speak to your booking agent ahead of time."
+    }
+  ],
+  "map": ""
+}

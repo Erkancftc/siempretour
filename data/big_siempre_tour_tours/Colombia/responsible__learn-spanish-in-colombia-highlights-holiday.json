@@ -1,0 +1,70 @@
+{
+  "destination": "Colombia",
+  "mainPhoto": "",
+  "id": "learn-spanish-in-colombia-highlights-holiday",
+  "tourName": "Learn Spanish in Colombia & highlights holiday",
+  "placesVisited": "",
+  "generalInfo": "Discover the highlights of Colombia during a thrilling week-long tour. Start your adventure in Bogotá, exploring the historic La Candelaria neighborhood and the fascinating Gold Museum. Next, the city of Medellín, where you can admire its innovative urban transformation, Finally, head to the coastal gem of Cartagena, with its well-preserved architecture and vibrant street life.",
+  "durationDays": "13",
+  "price": "2660",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "ARRIVAL IN BOGOTA Our dedicated driver will be ready to escort you to your chosen accommodation"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "CITY TOUR IN BOGOTA DOWNTOWN This day, our guide will take you to the most famous places in Bogota downtown. A walking tour through the main square, Gold Museum, Monserrate hill, etc will be part of this first day in one of the most beautiful cities in South America"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "FLIGHT TO MEDELLIN Today, you will have some free hours to explore the area by your own. According to the flight departure time, our driver will meet you at the accommodation and will take you to the airport."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "FULL DAY TOUR MEDELLIN You will enjoy a city tour in Medellin, to know some cultural attractions such as the Botero square where you can take pictures of his famous sculptures; also you reach the Nutibara park, to know more about the Paisas culture. To finish, a visit to the famous Comuna 13 and its sttunning graffitis, will take place in the afternoon."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "FLIGHT TO CARTAGENA Private transfer from the hotel in Medellin, to the airport. Flight to Cartagena. Once you arrive to this enchanted city the private transfer will drive you to the hotel. After the check-in, you will have free time to enjoy the coffee shops and restaurants of the area."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "WALKING TOUR IN CARTAGENA Cartagena de Indias is without a doubt one of the most beautiful cities in America. In this City Tour where you will discover its historic downtown, walled by the fortifications built-in the colonial time, still preserves its original architecture and nowadays the walled city is shown in an endless number of colors that fill it with life and Caribbean charm."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "FREE DAY: Today you will have free time to discover new sites on your own."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "SPANISH CLASSES & CULTURE: Embark on a linguistic voyage in the heart of Cartagena. Nestled amidst the charm of this coastal gem, this classes offer an immersive experience like no other. Learn the language of passion and culture in an environment pulsating with history and vibrant street life. The expert instructors guide you through personalized lessons tailored to your proficiency level, ensuring rapid progress and a deep understanding of the Spanish language. Whether you're a beginner or looking to refine your skills, We invite you to dive into the rhythm of Cartagena while mastering Español."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "INTERNATIONAL DEPARTURE This day, a private transportation will take you to the airport to catch your internacional flight back home. End of services"
+    }
+  ],
+  "map": ""
+}

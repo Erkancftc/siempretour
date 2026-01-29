@@ -1,0 +1,90 @@
+{
+  "destination": "Philippines",
+  "mainPhoto": "",
+  "id": "philippines-small-group-tour-13-days",
+  "tourName": "Philippines small group tour, 13 days",
+  "placesVisited": "",
+  "generalInfo": "Our Philippines adventure focuses on Luzon, the largest island of the archipelago. Discover contrasting landscapes, including incredible 2,000-year-old rice terraces, cobbled Spanish colonial towns, and white-sand beaches. Along the way, climb an active stratovolcano and explore the megacity that is Manila.<br/> <br/> Banaue rice terraces - Explore the UNESCO-listed, 2,000-year-old rice terraces built by the Ifugao people.<br/> Sagada - See the mysterious burial caves and ancient hanging coffins in Sagada and learn about the local traditions.<br/> Vigan - Discover a slice of Spain in the Philippines and take a kalesa (horse-drawn carriage) through Vigan's colonial streets.<br/>",
+  "durationDays": "13",
+  "price": "2915",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Join tour in Manila",
+      "description": ": Our tour starts today in Manilla, the bustling capital of the Philippines. Once known as the 'Pearl of the Orient', Manila was occupied by the Spanish in the 16th century as part of their growing empire. It went on to witness Chinese insurrections, a British occupation, a war against the Spanish and the Americans, and some of the bitterest fighting of World War II. Today, it's one of the most populated cities in the world. For those arriving on time, our tour leader plans to meet you in the hotel reception at 6pm for a welcome meeting, followed by dinner on the roof of a hotel in Intramuros for those who wish to join. There are no other activities planned today, so you're free to arrive in Manila at any time. If you'd like an airport transfer today, you'll need to arrive into Ninoy Aquino International Airport (MNL), which is a one-hour drive from our hotel. If you miss the welcome meeting, our tour leader will catch you up as soon as possible - you can meet them in the hotel lobby on the morning of day 2. If your flight arrives earlier in the day, you might like to visit the National Museum of the Philippines Complex, which houses the Fine Arts Museum, Natural History Museum and Anthropology Museum. It's less than a 20-minute walk from the hotel, and admission is free."
+    },
+    {
+      "dayNumber": 2,
+      "title": "In Manila: explore the old town; free afternoon",
+      "description": ": This morning, we'll head out to explore the city on foot. We'll start at Rizal Park and the historic walled city of Intramuros, where we'll find San Agustin, the oldest church in the Philippines and a UNESCO World Heritage site. We'll hop on one of Manilla's colourful jeepneys (a popular mode of public transport in the Philippines) to Binondo, one of the first Chinatowns in the world. Here, we'll explore the network of alleys and side streets that lead us to Binondo Church, Santa Cruz Church and the old commercial district of Escolta where we'll see art deco structures, such as the Perez-Semanillo building, that survived World War II. This afternoon is free for you to explore more at your own pace. You can either meet our bus to return to the hotel or stay in Chinatown for lunch. There will be an optional bamboo bike tour of Intramuros for those interested, too."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Fly to Laoag; visit the unique UNESCO Paoay Church",
+      "description": ": After breakfast this morning, we'll take a short flight to Laoag. On arrival, we'll have a late lunch in a local restaurant serving authentic llocano dishes. This afternoon, we'll make an excursion to the Malacañang of the North, the erstwhile residence of the former dictator Ferdinand Marcos, now turned into a museum overlooking Paoay Lake. We'll also visit the Baroque 18th century UNESCO Paoay Church, otherwise known as the Church of Saint Augustine - famous for its unusual architecture and bell tower built with coral stones. The church's architectural style is the perfect blend of Asian temple and Western church. After our visit, we'll take a walk across the La Paz dunes of Luzon, with the option to sandboard across the sprawling dunes (time permitting)."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Explore Kabigan Falls, afternoon by the coast",
+      "description": ": After an early breakfast, we'll drive northeast along the coast to a small village from where we'll start our short and gentle walk to reach Kabigan Falls. A local villager will lead us through the flora and fauna of the forest following trails passing through rice paddies. After our walk, we'll have the opportunity for a refreshing dip in the waters - remember to bring your swimming costume. We'll then head to the coastal town of Pagudpud for lunch followed by more swimming or relaxing by the beach. After a very relaxed afternoon, we'll drive back to the hotel. En route, we'll make a stop at Kapurpurawan to admire its rock formation moulded over time by powerful winds and the ocean's tides. There'll also be a chance to stop by Cape Bojeador Lighthouse in Burgos, the highest lighthouse in elevation from the Spanish colonial era."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Drive to the colonial city of Vigan; free afternoon",
+      "description": ": This morning, we'll drive south to the charming town of Vigan. One of the few Hispanic towns left in the Philippines. Vigan's historic heart was inscribed on the UNESCO World Heritage list in 1999. The best-preserved example of a Spanish colonial town in Asia, it's home to cobbled streets, colonial villas and the imposing grandeur of a 16th-century cathedral. This afternoon is free for you to relax or head out and get a feel of the city ahead of our full day's sightseeing tomorrow."
+    },
+    {
+      "dayNumber": 6,
+      "title": "In Vigan; full day sightseeing by horse drawn carriage and on foot",
+      "description": ": This morning, we'll discover Vigan by kalesa (horse-drawn carriage). Our tour will take in all of the highlights, including the well-preserved Vigan houses that are truly reflective of their roots - built from wood, stone, shells (kapis), and terra cotta. We'll also visit the National Museum Ilocos Regional Museum Complex particularly the Padre Burgos Museum and the Old Carcel Museum. Later, we'll take a short drive to a pottery shop known locally as Burnayan, where we'll learn about the ancient tradition of pottery making, dating back to pre-colonial times. Here we can also browse shops that showcase hand-woven fabrics and antiques. We'll return to the city and head to the famous Calle Crisologo where we'll sample famous Ilocano delicacies such as the longaniza (sausage), empanada (Mexican taco/meat pie) and bagnet (deep-fried crispy pork crackling)."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Drive to Sagada; discover burial caves and hanging coffins",
+      "description": ": After an early breakfast, we'll drive to Sagada, arriving in the early afternoon. We'll visit nearby Echo Valley to see the mysterious hanging coffins and Lumiang cave, a burial cave. The indigenous population have been burying their dead in coffins perched high on cliff faces for over 2,000 years. No one knows exactly why this practice started but it's believed to both keep the preserved bodies safe from wild animals and take them one step closer to heaven."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Head to Bontoc and walk to Favarey's traditional village",
+      "description": ": We'll leave Sagada behind us this morning and drive to the municipality of Bontoc. From here, we'll start our two-hour walk along lesser-known Maligcong rice terraces (on mostly flat terrain). We'll then climb the steps to reach Favarey village where the \\ dead live with the living'. Here, village folk are buried in their backyard, a contrast to the hanging coffins and the burial caves we visited in Sagada. We'll take the chance to meet locals - interestingly most of the elderly have their bodies covered in traditional, intricate tattoos. On our hike back, we'll stop at a typical rice storage hut and visit the local school which is attended by most of the village children."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Drive to Banaue; visit Bontoc Museum en route",
+      "description": ": Our first stop today is Bontoc, a bustling market town and the former capital of the Cordillera region. We'll visit the town's small museum that features several exhibits about the region's indigenous communities. After our visit, we'll drive on to Banaue, the gateway of the Cordillera's remote villages. Carved into the mountains of Ifugao province, the centuries-old rice terraces that occupy these high, fertile landscapes are considered by Filipinos to be the Eighth Wonder of the World. The Banaue rice terraces are recognised as a national cultural treasure along with the rice terraces that are found in Mayoyao, Batad, Bangaan, Kiangan and Hungduan. It's believed that if these ancient terraces were laid end to end, they would reach halfway around the planet. This afternoon, we'll take a local jeepney and drive out towards Hapao village. As we drive through the mountains, we can soak in the spectacular views of the Cordilleras passing through a series of deep gorges and canyons to the Hapao rice terraces. Here, we're rewarded with the spectacular scenery of terraced rice fields cut through by the clear waters of the Hapao River. Our total walking time here will be around two hours."
+    },
+    {
+      "dayNumber": 10,
+      "title": "In Banaue; walk through Batad and Bangaan rice terraces.",
+      "description": ": This morning, we'll once again hop in a local jeepney and head to Bangaan, a village surrounded by rice terraces. We'll meet Ifugao, the indigenous people of the province and examine the unique characteristics of a bale - a traditional house with an architecture that fits the needs of the family. Afterwards, we'll drive to Sadel, the starting point of our two-hour trek to Batad. The trail takes us along rice terraces and viewpoints overlooking the terraces. From here, the view is almost completely panoramic and some describe it as looking down onto an ancient amphitheatre."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Drive to Mabalacat; free late afternoon in rural setting",
+      "description": ": We have an early start this morning as we set off on our full-day drive to Mabalacat, our base for climbing Mount Pinatubo tomorrow morning. Located in the mountains that separate the central plains from the west coast of Luzon Island, Mount Pinatubo volcano was the scene of the second largest terrestrial eruption of the 20th century when, on June 15, 1991, it erupted with an intensity that was ten times that of the Mount St Helens volcano, a decade earlier. On arrival in Mabalacat, we'll have the opportunity to rest in tranquil rural surroundings."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Climb Mount Pinatubo; drive to Manila",
+      "description": ": This morning, we'll leave early for the drive to Santa Juliana station, where we'll take 4x4 jeepneys to the foot of the trailhead, from where we'll trek to the volcano's crater - a relatively easy walk of around two hours each way. From March to May, there might be erosion of the path due to rainfall which will make the jeepney drive longer and the trek shorter. Please note, there are several stream crossings in ankle-deep water on this trek, so please be prepared for your footwear to get wet. Our total walking time is approximately four hours. After a lunch break, we'll return to Manila by road for our final night and a farewell dinner."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Tour ends in Manila",
+      "description": ": The trip ends after breakfast at our hotel in Manila. There are no activities planned today, so you're free to depart from Manila at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from Ninoy Aquino International Airport (MNL), which is a 30-minute drive from our hotel."
+    }
+  ],
+  "map": ""
+}

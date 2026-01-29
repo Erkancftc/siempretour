@@ -1,0 +1,65 @@
+{
+  "destination": "Belize",
+  "mainPhoto": "",
+  "id": "one-week-belize-vacation-culture-wildlife-in-paradise",
+  "tourName": "One-Week Belize Vacation: Culture & Wildlife in Paradise",
+  "placesVisited": "Cayo, Ambergris Caye",
+  "generalInfo": "Central American jungles meet the Caribbean Sea on this luxurious week in Belize. Venture off the beaten path and blend coastal paradise with spectacular Maya relics. There will be action, adventure, mysterious old civilizations, wildlife-rich experiences, and the atmosphere of a Caribbean beach escape.",
+  "durationDays": "8",
+  "price": "4,600",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Cayo – Impressions of Western Belize",
+      "description": "You will land in Belize City and travel to a landscape of thick rainforest and small villages. Your lodge will be located just outside San Ignacio, which is a luxurious base to spend a few days exploring the rainforest. Like everywhere else in Belize, Cayo is low-key and laid-back. You will probably hear the distant hoot of the howler monkeys each afternoon with a resonant echo that can consume the valley on some days. You will arrive in San Ignacio for a leisurely lunch on the balcony before the first afternoon is left to your leisure."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Cayo – Actun Tunichil Muknal Cave Tour",
+      "description": "Today, you will visit Actun Tunichil Muknal. The surrounding landscape was home to a mysterious ancient Maya civilization that flourished around 1,500 years ago. Evidence of their rituals is dotted throughout these caves. Traveling through the caves can be a living history lesson. Getting to the caves will be part of your adventure. This sacrificial site is firmly hidden away from the world. You will hike through the jungle for 45 minutes and swim across three rivers before arriving at the cave complex. In parts, you must clamber over giant boulders, squeeze through tight spaces in the rock, and wade or swim deeper into the cave."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Cayo – Coffee and Maya History",
+      "description": "Today, you will hop across the border to Guatemala, and you will not even have to leave the rainforest. Your destination for the day will be the ruins of Tikal. Coffee plantations cover the hills, and you will stop for a quick tour to trace liquid’s journey from bean to cup. Soon the ruins of Tikal will emerge with pyramid structures that surge from the forest floor. As you descend and walk through the rainforest, it will seem like the city has disappeared. Suddenly, another temple will appear, standing in a redolent state of ruin. This is a Lost City within a nature reserve. You will spend the whole afternoon exploring with your local guide."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Cayo – Ruins in the Jungle",
+      "description": "Today will be flexible, and you will have a private guide to customize your adventure. Cayo has its own Maya ruins, but Xunantunich is the most impressive. You can venture here on an afternoon trip. Sunrise and sunset are the best times to visit because you can ascend the main temple and admire the colors as they change across the rainforest. Another option for the day will be to go cave-tubing. You can also zipline through the jungle, canoe downriver through a rainforest cave, or spend some time hiking to waterfalls in Mountain Pine Ridge."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Ambergris Caye – White-Sand Charm",
+      "description": "Landing on Ambergris Caye will provide you with a unique memory . Your boutique lodge will have its own piece of the coastline, and your balcony will look out over the water. Now will be the time to take off your shoes and leave your watch on the bedside table. In many ways, this is the archetypal Caribbean getaway. Several days will provide lazy hours underneath the sun. You can opt to take a kayak out to a coral reef or spend the afternoon in San Pedro, which is an energetic town of beach bars and colorfully-painted houses. You will touch down in the morning and have the rest of the day at your leisure."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Ambergris Caye – Scenic Flight and Island Escape",
+      "description": "The Great Blue Hole is Belize’s most iconic sight. As the name suggests, this Caribbean sinkhole is as great as it is blue. One way to explore is to dive into the abyss, but this is only for experienced scuba divers. A more accessible and more beautiful experience can come in the form of a scenic flight. On a one-hour flight, you can enjoy an uninterrupted view over both the Great Blue Hole and Belize Barrier Reef. Your pilot will also loop around so that everyone in the small plane gets the full panoramic view. This flight is best taken in the morning because it leaves an entire afternoon to relax on the beach."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Ambergris Caye – Catamaran Tour",
+      "description": "This morning, you will sail away on a catamaran. Cruising away from Ambergris Caye, you will head past the uninhabited islets and coral gardens for a new perspective of the landscape. In the marine reserve, you can jump from the boat for a guided snorkel with the nurse and the reef sharks. It is a very safe experience, and you will be accompanied by your guide the entire time. Flotation devices will also be available. Your catamaran tour will continue to a deserted islet. Here, palm trees will provide shade while you rest through the midday heat. You will have a second snorkeling stop on the way back to Ambergris Caye before a final evening on the sea."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Ambergris Caye – Departure",
+      "description": "Today, you will fly back to Belize City and transfer to the international airport, where you will connect your homebound flight."
+    }
+  ],
+  "map": ""
+}

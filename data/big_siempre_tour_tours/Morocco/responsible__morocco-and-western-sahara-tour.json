@@ -1,0 +1,65 @@
+{
+  "destination": "Morocco",
+  "mainPhoto": "",
+  "id": "morocco-and-western-sahara-tour",
+  "tourName": "Morocco and western Sahara tour",
+  "placesVisited": "Marrakech, High Atlas, Ouarzazate, Draa Valley, Sahara - Erg Chegaga dunes, Guelmime, Naila lagoon, Tarfaya, Laayoune, Dakhla, Reguibat nomads and desert camping",
+  "generalInfo": "Discover the wild and untamed lands of southern Morocco and the Western Sahara, where nomadic traditions, picturesque kasbahs and the raw beauty of the desert combine. We start in the coastal town of Agadir and from here begin our journey south, heading first to the former Spanish enclave of Sidi Ifni and the magical landscapes of the Draa Valley, encountering huge dunes and semi-nomadic people living in the desert.<br/><br/>Travelling south through endless horizons and stopping at small desert settlements along the way, the romance of the Sahara is ever closer. Our journey takes us to the remote town of Smara, once a centre of resistance against colonial occupation and fading gracefully into the sands.<br/><br/>We explore the disputed territory of the Western Sahara, a land of Saharawi nomads, rolling dunes and camel trains, exploring a land that has almost been forgotten, where traditions are strong and the scenery awe-inspiring. Stopping at wells and to meet local people, we spend a few days exploring here before rejoining the coastal road south and heading to Dakhla, the last outpost before West Africa. Morocco is familiar to many, but the deep south is a world apart that has changed little in centuries – join us for a journey into the unknown.",
+  "durationDays": "12",
+  "price": "3249",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Agadir - Arrive in Agadir and transfer to the hotel. Overnight tourist class hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Sidi Ifni - This morning visit the local souk, one of the largest in Morocco, before heading south to the quirky town of Sidi Ifni, along the Atlantic coast. On arrival explore the town with its Hispano-Moorish architecture. Overnight Hotel Safa or similar. (BLD)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Guelmime – Ksar Tafnidilt - Continue to Guelmime, the last major town of Morocco proper and a former trading centre for the Saharan camel caravans. From here we head off on rough tracks along the beach, sandwiched between the dunes. Explore the remote region surrounding the Draa estuary, with tiny settlements and abandoned military posts. Overnights at Ksar Tafnidilt, a traditional style kasbah close to Tan Tan. (BLD)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Naila Lagoon - Travel south, our route taking us between the desert and the Atlantic Ocean, passing small caves inhabited by fishermen as well as the impressive Naila lagoon, an inland sea separated from the ocean by rows of dunes. We take a local fishing boat out on the water. Overnight Sahara Beach Hotel. (BLD)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Smara - Drive to the remote desert town of Smara, once an important stop on the Saharan caravan trade between Morocco and Mauritania. Visit the old sheikh’s palace and Spanish quarter, and in the evening we join the local Saharawi people as guests at a traditional feast. Overnight Hotel Sahariano or similar. (BLD)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Western Sahara From here we meet our local Saharawi guide and embark on an expedition into this largely unknown area. We venture into an untamed landscape of dunes and desert, stopping at wells to meet the Reguibat nomads and their herds of camels that eke a living from this unforgiving habitat. We camp for three nights under the stars, then on Day 10 reach Dakhla and stay overnight in a tourist class hotel. (BLD)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Dakhla - Spend the day exploring Dakhla and surrounds, with its superb beaches and opportunities to fish in the Atlantic. Overnight in Buena Vista Hotel or similar. (BL)"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Dakhla - Transfer to the airport for departure. (B)"
+    }
+  ],
+  "map": ""
+}

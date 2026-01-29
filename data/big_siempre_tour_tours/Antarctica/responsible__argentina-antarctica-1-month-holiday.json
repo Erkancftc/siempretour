@@ -1,0 +1,85 @@
+{
+  "destination": "Antarctica",
+  "mainPhoto": "",
+  "id": "argentina-antarctica-1-month-holiday",
+  "tourName": "Argentina & Antarctica 1 month holiday",
+  "placesVisited": "",
+  "generalInfo": "Experience Argentina and Antarctica over one extraordinary month, designed to minimise transit and maximise time on the ground. This off-the-beaten journey prioritises small-scale, sustainably minded accommodations and a slow-travel ethos. Allowing you to immerse yourself in local culture, wilderness, and some of the world’s most spellbinding scenery.<br/><br/>Begin in Buenos Aires, Argentina’s vibrant capital and explore its distinctive neighbourhoods, indulge in irresistible cuisine, and learn the art of tango in the city where it was born. Fly to Ushuaia, the world’s southernmost city, and explore Tierra del Fuego’s rugged mountains, windswept glaciers, and ancient forest. Next, embark on your small expedition vessel for the voyage of a lifetime. <br/><br/>Sail south through the Falkland Islands and South Georgia, remote wildlife havens home to vast colonies of penguins, seals, and sea birds. Take in staggering scenery and visit the grave of Sir Ernest Shackleton before reaching the Antarctic Peninsula. Explore its pristine bays and iceberg-rich channels by zodiac, and visit working scientific bases and historic landing sites along the way. Travelling across the Drake Passage both ways may take longer, but it’s the most sustainable and meaningful way to experience the White Continent.<br/><br/>Return to the mainland and journey into the Pampas, where Argentina’s gaucho traditions live on. Unwind in its rural pastures, soak up its warm hospitality and reflect on your Antarctica experience. This trip can be tailored to your interests, so let us know your preferences and we can make it your own.",
+  "durationDays": "4",
+  "price": "21341",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Buenos Aires: Welcome to Argentina’s capital Buenos Aires. Transfer to your boutique hotel in historic San Telmo, renowned for its cobbled streets and bustling market. Let your local guide, show you the city’s cultural highlights on a private walking tour and explore its diverse and characterful barrios. Once the sun goes down, head to a traditional milonga for a tango lesson and learn about its cultural significance."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Ushuaia: Journey by air to the most southerly city in the world. In the coming days, explore Ushuaia with a local guide and enjoy a range of day trips which include hiking in the Tierra del Fuego National Park, canoeing down a river and through lagoons and visiting a lovely family-owned ranch where you can explore farming traditions and the local way of life. On your final night, join your fellow explorers for a briefing ready for your embarkation the following day. If time allows, make sure to visit the Maritime Museum to understand the human history of the region."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Embarkation: After a leisurely morning, board your small expedition vessel and set sail for Antarctica. Settle into your cabin, meet your expedition team, and enjoy a Captain’s Welcome Dinner as you begin your journey south."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Southern Ocean: Head into the open seas of the Southern Ocean. Watch out for seabirds such as albatrosses and petrels as they glide alongside the ship. Between wildlife sightings, join your Polar experts for fascinating lectures on the seas, ice, and wildlife of this extraordinary region."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "West Falklands (Malvinas): Make your first landing in the remote and rugged West Falkland Island. Explore its pristine landscapes, stunning coastline and visit Albatross and penguin colonies. Look for Rockhopper, King and Magellanic penguin rookeries."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Stanley, East Falkland (Malvinas): Arrive in Stanley, the largest settlement in the archipelago and capital of the Falklands. Visit the Falkland Islands Museum to learn about the maritime exploration, natural history, and the 1982 Falklands War. Wander the white sands of Gypsy Cove, home to breeding Magellanic penguins, as well as other birdlife such as oyster catchers, two-banded plovers and black-crowned night-herons."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Southern Ocean: Sail across the Antarctic Convergence and officially enter Antarctic waters. Keep watch for seabirds, whales and the first majestic icebergs as you approach South Georgia."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "South Georgia: Spend the coming days exploring the dramatic fjords, rugged mountains, and glacier-carved bays of South Georgia. Home to an abundance of wildlife and history. Visit beaches, alive with hundreds of King penguins, as well as fur seals and elephant seals that crowd the shores. Visit the historic Grytviken whaling station and the resting place of legendary explorer Sir Ernest Shackleton."
+    },
+    {
+      "dayNumber": 18,
+      "title": "",
+      "description": "Scotia Sea: Continue to the Antarctic Peninsula and sail the open seas. Your expert polar team will continue to share their knowledge about the history, wildlife life and geology of the areas explored. Participate in the ongoing projects run by the onboard Citizen Science program and play a meaningful role in recording and better understanding the Antarctic ecosystems and impact of climate change."
+    },
+    {
+      "dayNumber": 20,
+      "title": "",
+      "description": "Antarctic Peninsula: Continue south to the heart of the Antarctic Peninsula. Daily zodiac landings and shore excursions offer close encounters with gentoo, chinstrap, and Adélie penguins, as well as opportunities to see seals, whales, and an incredible variety of seabirds in their natural habitat. Navigate through narrow straits, explore picturesque bays and experience the profound silence of one of the most untouched places on Earth. Every landing is unique, shaped by weather, ice, and wildlife activity, ensuring no two voyages are ever the same. During your voyage, choose from a range of adventure options and even (possibly) camp under polar skies."
+    },
+    {
+      "dayNumber": 24,
+      "title": "",
+      "description": "Drake Passage: Say goodbye to Antarctica and begin your journey back to Ushuaia, crossing the Drake Passage. Enjoy a last meal with your fellow comrades and reflect on the unforgettable moments shared and the privilege of having set foot on the White Continent."
+    },
+    {
+      "dayNumber": 27,
+      "title": "",
+      "description": "Pampas: Disembark in Ushuaia and transfer to the airport for your return flight to Buenos Aires. Transfer to the serene Pampas countryside where over the next two nights you will unwind and experience the best of authentic gaucho life at a traditional estancia."
+    }
+  ],
+  "map": ""
+}

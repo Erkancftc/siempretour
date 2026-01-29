@@ -1,0 +1,90 @@
+{
+  "destination": "Panama",
+  "mainPhoto": "",
+  "id": "panama-tour-beaches-and-wildlife",
+  "tourName": "Panama tour, beaches and wildlife",
+  "placesVisited": "",
+  "generalInfo": "Discover the mesmerizing fusion of vibrant city life and tranquil coastal paradises in Panama. Journey through historical sites, breathtaking beaches, and rich biodiversity, while uncovering the diverse cultural tapestry of this captivating nation. From Panama City's urban allure to Bocas del Toro's eco-escapades, every day offers a unique adventure amidst stunning landscapes and vibrant culture.",
+  "durationDays": "13",
+  "price": "3949",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Welcome to Panama: Welcome to Panama Welcome to the vibrant heart of Panama City as you settle into the bustling urban landscape. Transfer effortlessly from Tocumen Airport to your comfortable accommodations, letting the city’s charm welcome you."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Panama City: Embark on a City Sightseeing bus tour with the Hop-On Hop-Off Bus in Panama City. This double-decker bus provides one of the best ways to get oriented in a new destination, offering 360-degree views of Panama City from the open deck. Stay onboard for the full cycle and enjoy the informative audio tour, or hop off at any of the stops to explore independently. During the tour, visit the Miraflores Locks and admire the impressive Panama Canal, explore the Biomuseum on the Amador Causeway, and learn about cultural diversity at Mi Pueblito."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Panama City - Pedasi - Playa Venao: Pedasí, a corner where ancestral legacy intertwines with vibrant traditions and the warmth of its people. A destination with golden beaches extending to the nearby Isla Iguana, join us in exploring Pedasí, where culture and coastal beauty come together."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Playa Venao - Isla Iguana - Playa Venao: Be ready early at the mourning to take your breakfast at the hotel 8:00 am Departure to Playa El Arenal, Pedasí Join us for a day tour of snorkelling at Isla Iguana, a Wildlife Refuge where you can enjoy its natural beauty with crystal-clear waters. Snorkel to witness the magnificent variety of fish surrounded by coral reefs, and relax on the island's white sandy beaches. Throughout the relaxing day on the island, enjoy snacks and refreshments on the beach."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Playa Venao to Santa Catalina: Enjoy breakfast at the hotel before embarking on a scenic shuttle journey at 8:00 am towards the charming coastal town of Santa Catalina. Arrive by 1:00 pm, then unwind with a leisurely afternoon and evening at your own pace. Your accommodation for the night will be at the lovely Nativo Santa Catalina."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Santa Catalina - Coiba National Park – Santa Catalina: Early in the morning, we will embark on a one-and-a-half-hour journey by speedboat to Coiba National Park. Renowned for its extensive and rich islands, along with the surrounding marine waters, it stands as one of Panama's most remarkable natural gems. Declared a UNESCO World Heritage Site in 2005, Coiba's grandeur and significance lie in its protection of marine, island, and coastal ecosystems. Every corner of Coiba is full of surprises and infinite richness. Within the park, you can snorkel around islands like Granito de Oro and Ranchería, also known as Coibita. During this wonderful experience, you'll witness a variety of colourful fish schools, whitetip reef sharks, nurse sharks, and sea turtles."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Santa Catalina – Boquete: Ease into a slow-paced day, where lush landscapes guide you from Santa Catalina to Boquete, a mountain sanctuary renowned for its splendid natural environments."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Boquete - Coffee Tour Mountains with a Coffee Aroma: Departure from Plaza Los Establos at the entrance of Boquete Framed by a delightful aroma, this tour is perfect for coffee lovers who enjoy connecting with nature in a tranquil and pleasant setting. During this experience, you'll learn more about the culture surrounding coffee, gaining insight into its entire process, from production and harvesting to processing and roasting, all the way to packaging. The tour becomes even more special as you savour a delicious cup of coffee produced on the farm."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Boquete - Bocas del Toro: Bocas Calypso Home to a UNESCO World Heritage Site and Panama's first marine park, Bocas del Toro is considered one of the country's premier ecotourism destinations. Known as the 'Galapagos of the Caribbean', Bocas del Toro is one of the most biologically diverse places on the planet. Its famous Isla Colón is surrounded by crystal-clear waters and rich marine biodiversity. During our stay, we can choose to visit various natural attractions such as Dolphin Bay, Coral Cay, Red Frog Island, Starfish Beach, and the stunning Zapatilla Cays."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Bocas del Toro - Coral Cay, Red Frog Island, Dolphin Bay: Wake up early to take breakfast at 07:00, after that be ready at 09:00 to Discover Red Frog Island’s splendour and Solarte’s underwater beauty. Dip into vibrant marine life and soak up sun-soaked vistas amidst the backdrop of hospitable local culture, arriving to Red Frog Island is one of the most marvelous natural islands in Bocas del Toro. We will head to Bastimentos Island, where we will cross to reach Red Frog Island on the other side. After two and a half hours, we'll set sail for Hospital Point on Solarte Island, a small beach ideal for snorkeling."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Bocas del Toro – Stunning Zapatilla Cays: Enjoy a Breakfast at 07:00 in your hotel and be ready at 9 to d eparture . Day Tour Snorkelling Zapatilla Cay – Coral Cay – Bay of Dolphins Set sail for the Boca torito Lagoon, surrounded by small mangroves forming a raft-like ecosystem home to families of bottlenose dolphins. After admiring the dolphins, we head to Coral Cay to explore impressive coral formations and rich marine life, and enjoy a delicious lunch in local restaurants. We then proceed to the Zapatilla Cays, where pristine white sand beaches, exotic tropical vegetation, and crystal-clear waters await. Make sure you reserve your lunch at Coral Cay after dolphin watching."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Bocas del Toro - Panama City: The return will depend on the type of transfer requested, whether by plane or public transport to Pnama City,"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Departure Day: As your Panama adventure draws to a close, our representative will ensure a seamless transfer from your accommodation to the airport, leaving you with cherished memories of your time in this vibrant city. T"
+    }
+  ],
+  "map": ""
+}

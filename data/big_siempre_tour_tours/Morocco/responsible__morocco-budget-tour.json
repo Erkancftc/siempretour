@@ -1,0 +1,65 @@
+{
+  "destination": "Morocco",
+  "mainPhoto": "",
+  "id": "morocco-budget-tour",
+  "tourName": "Morocco budget tour",
+  "placesVisited": "",
+  "generalInfo": "This 8-day Morocco tour covers a combination of majestic cities and towns in Morocco offering you adventure and culture on a budget. Start your journey in Casablanca then get lost in the labyrinths of medieval Fes before experiencing a night in an authentic camp in the Sahara desert. Take a camel trek over the vast dunes, walk in Todra Gorge, explore Kasbahs, then delve in to the mysterious souks in Marrakech. This Moroccan adventure tour has everything and on a budget too!<br/><br/>Highlights:<br/>Casablanca - Hassan II Mosque, the largest Mosque in Morocco<br/>Volubilis - UNESCO-listed Roman ruins<br/>Fes - Ancient bustling city with dye-pits &amp; tanneries<br/>Sahara Desert - Authentic Berber Camp in the Erg Chebbi dunes with camel trek<br/>Todra Gorge - Morocco’s “Grand Canyon”<br/>Ait Benhaddou - UNESCO listed ancient Kasbah city.<br/>Marrakech - Djemaa-el-Fna square, UNESCO-listed medina<br/><br/>Optional Activities:<br/>Hammam spa in Marrakech (prices from 150 DH)<br/>Hot Air Balloon ride over the High Atlas Mountains (2000 DH)<br/>Dinner and an Evening’s Entertainment in Fes (300 DH)<br/>Cooking class in Ait Benhaddou (300 DH)<br/>Visit to Film Studio in Ouarzazate (80 DH)<br/>Merzouga land cruiser desert excursion (700 DH)<br/>Bahia Palace entrance (100 DH)<br/>El Badi Palace (80 DH)<br/>Hassan II Mosque (140 DH)<br/>(DH = MOROCCAN DIRHAM)",
+  "durationDays": "8",
+  "price": "699",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Welcome to Morocco! Following your transfer from the airport you will have a chance to relax at our joining hotel, before the pre-departure meeting at 18.00hrs, where you will meet your fellow travellers. If you want to spend more time in Casablanca, we are happy to arrange pre-accommodation for you. Overnight Casablanca (no meals included). *NB: Hassan Mosque tour is not available in the afternoons during Ramadan."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "We head straight to stunning Hassan II Mosque for an optional visit followed by some free time at La Corniche. It is now time to head to Meknes for a community village lunch. We move on to the Roman settlement of Volubilis for a guided tour; it is the largest ancient site in Morocco and is a UNESCO listed site dating back to AD 40. Afterwards, we continue to Fes, the oldest and largest medieval city in the world. Enjoy a free evening in one of the many restaurants or enjoy a refreshing mint tea. Overnight – Fes (Breakfast & Lunch included)."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Today, we take the guided tour of Fes. Its medina, home to 400,000 inhabitants, with only donkeys and bikes as a means of transportation, is a heady mix of aromas, sights, and sounds. There are plenty of mosques and palaces to visit but be aware that only Muslims can enter Mosques in Morocco. After exploring the dye-pits, tanneries, pharmacy, pottery and restaurants, we return to our hotel to freshen up for tonight, where we have the chance of an optional traditional meal in the city with live Moroccan entertainment including traditional music, belly dancing and magicians. Or have a free evening and eat at a restaurant of your choice. Overnight Fes (Breakfast included)."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Excitement is in the air as we head towards the mighty Saharan Dunes. En-route we stop off for an optional lunch and in the summer, we may even have time for a relaxing swim. It is then time to head towards the great desert dunes of Erg Chebbi in Merzouga where we transfer to our camels and trek into the vast Sahara Desert in time for sunset. We then return to our authentic Berber Camp on the edge of the desert to spend the night enjoying local food, music, and an amazing night out under the Saharan stars. Overnight Berber camp (Breakfast & Dinner included)."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "After sunrise and breakfast, opt to explore the dunes further or book a desert excursion before we move on to Todra Gorge. This 1000ft gorge is hemmed in on all sides by vertical limestone cliffs and is also called Morocco’s Grand Canyon. The afternoon can be spent exploring the Gorge, walking through the Palmerie and watching the locals cooling off in the river. The charm of Todra lies in its changing colours as the sun slowly moves from east to west. Overnight Todra Gorge (Breakfast included)."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "We must bid a fond farewell to Todra this morning en-route to Ait Benhaddou via Ouarzazate. We will stop to buy lunch along the way and have a chance for an optional tour of the Film studios in Ouarzazate, famous for films such as Gladiators, The Last Temptation of Christ, and the Living Daylights. On a hill along the Ouarzazate River we find Ait Benhaddou, a UNESCO World Heritage site, which boasts great examples of Kasbahs, some of which remain inhabited. This afternoon we have a guided tour of the famous Kasbah and village. Opt to participate in a tagine cooking class. Overnight Ait Benhaddou (Breakfast included)."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "We traverse the High Atlas today enjoying stunning views of Tizi n Tichka pass at an altitude of 2260 metres en-route to Marrakech. Its great pride and landmark is the Koutoubia Tower, sister to the Tower of Hassan in Rabat and the Giralda Tower in Seville. No visit to the city is complete without a visit to the city’s UNESCO-listed medina & Djemaa-el-Fna, an extraordinary gathering and marketplace. After lunch, we will take a guided city walk of the Medina and include Bahia Palace (optional cost), souks and the square. The rest of the afternoon you have free time to relax by the pool or do a little shopping for souvenirs. Overnight Marrakech (Breakfast included)."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Your adventure tour ends after breakfast. If time allows, you could book a morning hot air balloon ride. (Breakfast included)."
+    }
+  ],
+  "map": ""
+}

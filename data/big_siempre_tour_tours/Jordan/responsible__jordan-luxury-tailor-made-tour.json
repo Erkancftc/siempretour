@@ -1,0 +1,75 @@
+{
+  "destination": "Jordan",
+  "mainPhoto": "",
+  "id": "jordan-luxury-tailor-made-tour",
+  "tourName": "Jordan luxury tailor made tour",
+  "placesVisited": "",
+  "generalInfo": "If you like to spoil yourself on holiday then this is the tour for you.<br/><br/>With 5 star hotels, top level rooms and luxury transfers this is the way to holiday in Jordan in style.<br/><br/>This tour takes you to all the highlights in Jordan including Jerash, Karak Castle, Petra, Wadi Rum and the Dead Sea.<br/><br/>Enjoy the incredible experience of spending the night camping in Wadi Rum, inside beautiful tents that include beds.<br/>",
+  "durationDays": "10",
+  "price": "3780",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "AQIA – Amman Arrival at Amman Queen Alia International airport, our airport representative will be waiting for you with a name sign; he will help you to arrange for you the visa and will walk with you through the customs. Your driver will wait for you in the arrival hall, also holding a name sign, he will transfer you to the 5* luxury hotel Rotana in Boulevard in the new downtown - Abdali n the middle of the business district of Amman for overnight, including bed and breakfast, based on Classic Room"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Amman – Jerash –Amman Your English Speaking guide will be waiting for you in the lobby of your hotel. Start your first morning in Jordan with a city tour. Visit the Citadel in Amman, with beautiful views over the city. Continue to the Roman Theatre, located in the heart of Amman for a visit. Drive on to Jerash, to visit the world’s best preserved Roman provincial city.. After your visit of Jerash transfer back to Rotana Hotel in Amman for overnight, including dinner and breakfast, based on Classic room"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Amman – Madaba – M.Nebo – Dead Sea Today you will be travelling after breakfast with visiting the St. George Church in Madaba with its famous mosaic map. Transfer to Mt. Nebo, from where Moses viewed the Promised Land. Then follow the way with your guide to the Dead Sea, lowest point on the earth’s surface to the 5* Luxury Kempinski Hotel Ishtar Dead Sea, including dinner and breakfast, based on Superior Room"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Dead Sea Free day living luxury in the Kempinski Hotel Ishtar where are gardens that dotted with lagoons, waterfalls and nine amazing swimming pools, you can enjoy the breathtaking views of the Dead Sea. Plunge into the ever-popular lazy river pool or find tranquility at the infinity pool and Akkad pool bar. Relax and refresh yourself at the sunken pool. And treat your senses while you are staying at Kempinski Ishtar and restore your body with a rejuvenating massage at The Ishtar Spa ( many options of treatment spa that you can choice when you are staying there) Overnight at the 5* Luxury Kempinski Hotel Ishtar Dead Sea, including dinner and breakfast, based on Superior Room"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Dead Sea – Kerak – Dana ( view) – Petra After Breakfast Transfer from the Dead following the King's Highway until Karak. In Karak visit the immense Crusaders Castle. Then transfer to Dana for sight seen then transfer via little Petra after a short visit if time permits to Petra to the 5* Movenpick Petra Resort located about 100 meters away from the Petra Gate. Overnight at the 5* Petra Movenpick Resort, Including dinner and breakfast, based on Classic Room"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Petra Full day to explore Petra, one of the seven world wonders. Entry by Siq and visit the Treasury, Street of Facades, Theater, Colonnaded Street etc. You will have lunch as booked for you at the Basin Restaurant of the 5* Crown Plaza Hotel in the site of Petra. After lunch you will still have time to visit the Monastery and/or the High Place of Sacrifice today. It is a lot of climbing but definitely worth the views! Then walk back to your hotel in Petra Overnight at the 5* Movenpick Petra Resort, including dinner and breakfast, based on Classic Room"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Petra – Wadi Rum After breakfast drive to Wadi Rum Visitors Centre. Before starting with the jeep tour you could decide to enjoy a half hour camel ride from Wadi Rum Village to Lawrence’s Spring. After start with a half day jeep tour including a freshly prepared barbeque lunch. A jeep tour is the best way to discover lots of sites in Wadi Rum. The jeep will stop at each site giving you time to walk/scramble around and maybe even climb up on some of the beautiful natural formed bridges in Wadi Rum. Dinner and overnight at the Memories Aicha Luxury Camp in Wadi Rum based on bubble tent including dinner and breakfast"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Wadi Rum – Aqaba After breakfast you will drive to Aqaba for a free day and overnight. To the Kempinski Hotel Aqaba is gracefully situated on the white sandy beach of the Red Sea, with an array of dining options, leisure activities, top-tier pampering facilities and picturesque surroundings. Plus a beautiful Luxury Spa & Wellness Centre with variety of treatments to pamper the body and relax the mind. The Aqaba Kempinski offers a range of water sports such as jet-skiing, banana boat riding, parasailing, and scuba diving. Alternatively, poolside loungers provide sunbathing possibilities in the shade of bamboo trees. Overnight at the 5* Kimpenski Aqaba Hotel, including dinner and breakfast, based on Deluxe Room"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Aqaba Free day to spend in the red sea and the options are mentioned at day 9. Overnight at the 5* Kempinski Aqaba Hotel, including dinner and breakfast, based on Deluxe Room"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Departure Transfer to the airport for departure. You would need to leave the hotel 6 hours in advance (2 hours for the check in and less than 4 hour driving from Aqaba to Amman Queen Alia Airport)."
+    }
+  ],
+  "map": ""
+}

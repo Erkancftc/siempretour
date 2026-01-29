@@ -1,0 +1,45 @@
+{
+  "destination": "Ecuador & Galapagos",
+  "mainPhoto": "",
+  "id": "galapagos-cruise-island-hopping-holiday",
+  "tourName": "Galapagos cruise & island hopping holiday",
+  "placesVisited": "",
+  "generalInfo": "Immerse yourself in heart of the Galapagos Islands by combining a luxury cruise with an island-hopping adventure. Over ten action-packed days, hike volcanoes, snorkel secluded bays, cycle forested trails and kayak clear waters, all while discovering wildlife found nowhere else on earth.<br/><br/>Begin in San Cristobal Island and embark on a four-night cruise sailing the Central Islands, an itinerary well known for offering the greatest diversity of wildlife and landscapes in the least amount of time. See giant tortoises, blue-footed boobies, marine iguanas, flamingos, sea lions and much more. After disembarkation, slow down and spend time on both Santa Cruz Island and Isabela Island exploring the islands diverse wildlife and landscapes, and see a side of the Galapagos that most visitors will never see.  This is the best of the Galapagos and truly a trip of a lifetime.<br/><br/>NOTE: Dependent on your cruise date, the cruise itinerary may alter which islands are visited.",
+  "durationDays": "10",
+  "price": "6500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Galapagos Central Islands: Arrive in the remote archipelago of the Galapagos Islands and embark on a small luxury yacht which will be your home for the night four nights. Navigate the central islands: a compact route offering great diversity, volcanic landscapes and white-sand beaches. Walk alongside one of the largest land iguana populations on South Plaza Island home to colourful landscapes and dramatic coastline. Spot young white-tip and black-tip sharks, as well as turtles and rays in the shallow waters at Black Turtle Cove. Walk among sealion colonies on the maroon sandy beach of Rabida Island and witness some of the archipelagos rarest bird species including nine varieties of finches, large-billed flycatchers, Galapagos hawks and brown pelicans. Capture the iconic Galapagos postcard picture on Bartholomew Island and snorkel the islands coastline often frequented by the Galapagos penguin. End your cruising itinerary exploring the lava fields of Santiago Island and watching for bright flamingos, pintail ducks and land iguanas on Santa Cruz Island."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Santa Cruz Island: Disembark your Galapagos cruise and transfer straight to the highlands where you will witness giant tortoises up close in their natural habitat before spending time at the legendary Charles Darwin Research Station. The following day explore the islands pristine landscapes on foot, kayak and snorkel. Swim in the volcanic crack of Las Grietas, wander the white-sand beaches of Tortuga Bay and kayak around the bay of Playa Mansa encountering a wide variety of Galapagos wildlife."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Isabela Island: Conclude your Galapagos adventure on Isabela, one of the youngest’s and most volcanically active islands. Over the next three days, visit the local giant tortoise breeding centre, an essential conservation project. Explore the Tintoreras islets home to sharks, marine iguanas and blue footed boobies and snorkel in the sheltered bay often frequented by playful penguins, turtles, and sealions. Hike Sierra Negra Volcano, known to have the world’s second largest crater and discover the rugged lava landscapes of Volcan Chico. Spend a day discovering the islands by bike and kayak. Cycle the network of trails, where you’ll encounter marine iguanas, giant tortoises, and the historic Wall of Tears and kayak to Island Bay, paddling alongside turtles, rays, penguins, sealions and blue-footed boobies."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Departure Day: Say goodbye to the Galapagos and fly back to mainland Ecuador, connecting with your international flight home."
+    }
+  ],
+  "map": ""
+}

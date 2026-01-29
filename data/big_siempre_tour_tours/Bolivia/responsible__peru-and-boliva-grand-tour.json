@@ -1,0 +1,80 @@
+{
+  "destination": "Bolivia",
+  "mainPhoto": "",
+  "id": "peru-and-boliva-grand-tour",
+  "tourName": "Peru and Boliva grand tour",
+  "placesVisited": "",
+  "generalInfo": "Our adventurous Peru and Bolivia Tour features what many consider the highlights of each country. Begin in  charming Cusco. Experience several days full of history, culture, and (of course) Machu Picchu!  Delve into the history, culture, adventure and breathtaking scenery as you travel from Peru to Bolivia via the Peruvian Altiplano.  The adventure continues with stops at serene Lake Titicaca, astounding Salar de Uyuni (Uyuni Salt flats), and more as you enjoy your magnificent journey. <br/><br/>As with all our carefully-designed tours, Ayni brings inspiring local touches to the most famous spots by prioritizing people and culture, working with local communities, and featuring immersive &amp; innovative activities. <br/><br/>Our itinerary can be completely personalized to match your interests, schedule, and travel preferences. Please contact us for custom itineraries, quotes and questions.  We look forward to hearing from you!",
+  "durationDays": "12",
+  "price": "3889",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Cusco Locals Tour: Arrive in historic Cusco, former center of the Inca Empire. Spend the afternoon wandering cobblestone streets, local markets, and learning about Cusco’s incredible history!"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Sacred Valley Tour: Traverse the beautiful Sacred Valley, stopping at interesting Inca ruins, an artisan market, and cascading salt ponds. Enjoy a traditional lunch with a local family and gain insight into local culture. In the afternoon, visit an exceptional community-based tourism project and learn about traditional farming of crops such as quinoa, potatoes, and medicinal plants."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Machu Picchu Tour: Explore Machu Picchu! Visit famous highlights, plus lesser-known (but equally) fabulous spots. After an in-depth tour of the ruins, climb Huayna Picchu, hike to Inti Punku, or visit the Inca Bridge."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Altiplano Travel: Set out across the starkly beautiful Peruvian Altiplano, with stops at a breathtaking colonial church, a visit with alpacas, seldom visited but fascinating catacombs, and more."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Lake Titicaca Tour: Travel by boat over stunningly blue Lake Titicaca to experience indigenous cultures in secluded areas of the famed islands. Today includes stops at: a remote area of the Uros reed islands, UNESCO World Heritage site Taquile, and the Capachica Peninsula."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Cross into beautiful Bolivia and tour Copacabana. Hike across Isla del Sol (Sun Island) with your private guide, then continue to fascinating La Paz."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Bolivia Tour: Get to know Bolivia’s one-of-a-kind capital on a walking adventure that includes descending dynamic El Alto, handicraft shopping in La Paz’s intricate marketplaces, and taking in beautiful murals in the city center."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Uyuni Tour: Jet off to awe-inspiring Uyuni. Travel across the shimmering white salt flats to cactus-covered Incahuasi Island."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Uyuni Tour: Spend the day exploring Eduardo Avaroa Reserve, home to endless blue skies, brilliantly-colored lakes, volcanoes, lunar landscapes, roaming vicuñas, flamingoes and more!"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Uyuni Tour: Begin the day bathing in gorgeous thermal pools. After a relaxing morning, bid farewell to Uyuni and head back to La Paz."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "La Paz-Home: International flight home, or on to your next destination!"
+    }
+  ],
+  "map": ""
+}

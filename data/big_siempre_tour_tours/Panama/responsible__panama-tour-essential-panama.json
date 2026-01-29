@@ -1,0 +1,75 @@
+{
+  "destination": "Panama",
+  "mainPhoto": "",
+  "id": "panama-tour-essential-panama",
+  "tourName": "Panama tour, Essential Panama",
+  "placesVisited": "",
+  "generalInfo": "Discover Panama's treasures on a journey of contrasts: from Panama City's modernity to the historic canal, lush rainforests, highland beauty in Boquete, and Caribbean bliss in Bocas del Toro.<br/><br/>Exploring Panama's classic destinations promises an exhilarating journey through a country rich in history, culture, and natural wonders. Begin in Panama City, a vibrant metropolis where modern skyscrapers blend seamlessly with the historic Casco Viejo district. Stroll along cobblestone streets lined with colonial architecture, visit well-preserved cathedrals, and indulge in local cuisine at charming cafes.<br/><br/>A visit to the iconic Panama Canal is a must. Witnessing massive cargo ships traverse this engineering marvel at the Miraflores Locks Visitor Center is truly awe-inspiring, offering insight into its global significance.<br/><br/>For nature enthusiasts, the highland town of Boquete beckons with cloud forests and coffee plantations. Hike through lush trails, partake in thrilling zip line adventures, and savour Panama's renowned coffee.<br/><br/>For beach lovers, Bocas del Toro, especially Isla Colón, is a Caribbean paradise. Dive into crystal-clear waters, explore vibrant coral reefs, and bask on pristine beaches.<br/><br/>From the cosmopolitan allure of Panama City to the engineering marvel of the Panama Canal, the natural wonders of Boquete, and the idyllic shores of Isla Colón in Bocas del Toro, Panama's classic destinations offer a diverse and exciting adventure for every traveller.",
+  "durationDays": "10",
+  "price": "2595",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "On arrival in Panama City, you will be greeted at the airport and transported to the American Trade Hotel in the charming Casco Viejo area of the city."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Take an unforgettable journey with our Panama Canal experience, a tour that immerses you in the fascinating workings of this engineering marvel. As you set sail towards the entrance of the canal, take in the breathtaking panoramic views of Panama City, the iconic Bridge of the Americas, and the spectacular gulf adorned with numerous vessels eagerly awaiting their turn to traverse the canal."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Embark on a captivating adventure with a transfer to Soberanía National Park, a vital part of the Panama Canal watershed. Immerse yourself in the lush rainforests and diverse ecosystems of the park, where opportunities abound to encounter a wide array of wildlife, from vibrant tropical birds to playful monkeys and exotic plants."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Begin your day with breakfast at the hotel before transferring to the airport for the short domestic flight to David. On arrival transfer to Boquete in the Panama Highlands and the charming Finca Lerida. In the afternoon delve into the intricacies of coffee production. Led by an expert guide, this experience offers a comprehensive understanding of Boquete's coffee culture and agriculture."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Reach the summit of Volcan Baru, Panama's highest peak on an adventurous 4x4 tour. The journey takes around 2.5 to 3-hour drive navigating rugged terrain as you ascend the volcano's slopes, winding through lush rainforests."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "After a wonderful adventure in the Chiriquí Highlands, it's beach time! Enjoy a delightful drive through lush highlands, culminating at the Caribbean coast where you'll embark on a boat to Isla Colon. This vibrant island, the archipelago's largest, hosts the provincial capital of Bocas del Toro, a charming town adorned with early 20th-century wooden houses."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Savour a leisurely day in Bocas del Toro, where you have the freedom to tailor your experience to your desires. Embrace the opportunity to engage in optional adventures, such as snorkelling, dolphin watching, and invigorating walks."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Explore the enchanting Bocas del Toro Archipelago, revealing its diverse and vibrant beauty of hidden beaches nestled within lush island vegetation. Encounter mangrove clusters and witness the flashy marine life that populates the area. Marvel at the allure of white-sand atolls surrounded by barrier reefs, creating a submarine paradise perfect for snorkelling and diving."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Transfer to Bocas del Toro airport for your flight back to Panama City. Upon arrival you will be transferred to the American Trade hotel for your last night in Panama City."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Enjoy your final Panamanian breakfast at the hotel and spend your morning doing some last-minute souvenir shopping. In the afternoon, you will be transferred to the international airport for your flight back home."
+    }
+  ],
+  "map": ""
+}

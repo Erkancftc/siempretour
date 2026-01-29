@@ -1,0 +1,60 @@
+{
+  "destination": "Morocco",
+  "mainPhoto": "",
+  "id": "immersive-one-week-morocco-seniors-tour",
+  "tourName": "Immersive One-Week Morocco Seniors Tour",
+  "placesVisited": "Chefchaouen, Meknes, Fes, Rabat, Casablanca, Marrakech",
+  "generalInfo": "This luxurious week in Morocco is a slow-paced journey into a distant era and an exotic immersion into a country’s imperial cities and traditions. Handcrafted for senior travelers, this one-week route will lead you to the major city highlights, including sensual souks, 9th-century sandstone architecture, caravanserai , and artistic palaces and gardens. Specialist guides will lead the way as you bask in Morocco’s heritage and some of the world’s most exquisite and unchanged cities.",
+  "durationDays": "7",
+  "price": "2,600",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Chefchaouen – Enchantment in a Blue Mountain Town",
+      "description": "Flying into Tangier allows for flexibility at the beginning of your one-week Morocco tour. There is not too much left of the famous port city, but it is a convenient gateway to Chefchaouen, which is the most charming place to spend a night anywhere in Morocco. Chefchaouen is small, and you can walk around the medina in less than 30 minutes, so it will be a comforting first stop after your flight. You can sit back on the main square, Place Outa el Hammam, and watch the world go by as a call rings evocatively from mosque minarets."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Fes – Imperial City Immersion",
+      "description": "Volubilis sprawls across a luscious valley close to Fes. This UNESCO World Heritage Site has a very different history to Morocco’s imperial cities and is an excellent starting point for the country’s overall narrative. After a private walking tour, you will continue on the road to Meknes, which is the country’s most artistic city. Here, you can really take your time to explore the beauty of the city’s vernacular architecture, notably the 1,000 year-old mosques and souks that can be found within the medina. There is no more manageable old city for senior travelers than Meknes, and you can spend most of the afternoon exploring its treasures before continuing to nearby Fes for a night deep inside the medina."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Fes – Laid-Back Discovery",
+      "description": "Fes is the world’s largest walled city. Here, location is key for an enjoyable stay, and you will be staying inside the old medina within the vibrant heart of the city’s traditional center. From here, you can walk in any direction and find yourself deep within a maze of souks, tanneries, round stone wells, and millennia-old architecture. You will be within the world’s largest urban car-free area, so you should note that you will need to walk in Fes. When you feel the energy, it will be easy to stroll through the medina’s hidden sites. Visitors with guides are not hassled, plus your local guide will have all the stories and knowledge of the city to accompany you along the way."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Casablanca – Morocco’s Capital City",
+      "description": "Before leaving Fes, you may want to explore more local specialties, such as the souk’s ceramics and tile-work sections, which is where the city’s geometric mosaics originate. Afterward, you will explore Rabat, which is a charming and underrated capital city, where Roman ruins fuse with Islamic heritage. Entering through the grand Kasbah of the Udayas, you will step into a bucolic scene of blue-washed streets and luscious gardens. Like Meknes, Rabat is small enough to get around in only an hour. Therefore, with three to four hours, you can take your time, stop for mint tea, and listen to stories that make up the essence of the city. You will then have a short drive to Casablanca, where you will spend the night in a contemporary area of Morocco."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Marrakech – Traditional Marrakech Storytelling",
+      "description": "Standing almost 700 feet above the waves, the Hassan II Mosque minaret is comfortably the country’s tallest building. Non-Muslims are permitted to visit, and you will explore it with a guided tour before traveling by private transfer to the fourth of your imperial cities, Marrakech. While Fes has Arab history, Marrakech is a Berber city, so its appearance and atmosphere demonstrate many contrasts to what you will have experienced thus far. A local guide will lead you on a tour of Berber heritage. Another tradition that you will experience is the art of storytelling. A storyteller will begin your experience with an exciting chapter that may go on long into the evening."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Marrakech – The Old Red City",
+      "description": "With a full day in Marrakech, you can fully immerse yourself in the architecture and souks. You can inhale the aroma of the spice market, wander the lanes of slipper sellers, hear the tap-tap-tap from blacksmiths, and follow your nose to bakeries to sample the city’s famous dried dates. A local guide will accompany you in the souks, and it is wise to allow a full morning to appreciate them. During the afternoon, you can choose which way to turn. This evening, you may want to dine in a traditional rooftop restaurant, which will be a final slice of imperial tradition to culminate your one week in Morocco."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Marrakech – Departure",
+      "description": "After seven days of private tours and immersive Moroccan impressions, sadly, you must leave today. You will not leave before a final morning of browsing the souks once more or marveling at the Koutoubia Mosque. Late check-out will be arranged, and you will be transferred to the airport during the early afternoon."
+    }
+  ],
+  "map": ""
+}

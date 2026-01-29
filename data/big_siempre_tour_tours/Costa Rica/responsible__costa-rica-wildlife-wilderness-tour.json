@@ -1,0 +1,65 @@
+{
+  "destination": "Costa Rica",
+  "mainPhoto": "",
+  "id": "costa-rica-wildlife-wilderness-tour",
+  "tourName": "Costa Rica wildlife & wilderness tour",
+  "placesVisited": "",
+  "generalInfo": "Visit the hidden gems of Costa Rica as we seek out unique wildlife and authentic experiences. Witness the iconic Arenal Volcano, observe elusive sloths, and stay at an exclusive lodge on the pacific coast of this biodiverse eco-paradise.<br/><br/>Explore Costa Rica’s biodiverse areas on foot, by boat, and while snorkeling. Relax by the pool of a luxurious lodge without road access. Look for colorful birds such as toucans and macaws, four species of monkeys, sloths, and more on the Osa Peninsula, one of the most biodiverse places on the planet. Visit Corcovado National Park and stay at the venerable Corcovado Wilderness Lodge. You’ll learn the meaning of Pura Vida from encountering inspiring Ticos throughout the tour who'll be sharing from their experiences about conservation and sustainability.",
+  "durationDays": "8",
+  "price": "8495",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Upon arrival in San José, exit the airport with your luggage. Look for a driver holding a sign with your name on it and the Gondwana Ecotours logo. Following a short walk to the van, load up for a 30-minute transfer to Finca Rosa Blanca, beautifully situated away from the hustle and bustle of the capital. We rendezvous for a meet & greet with the guides and your fellow travelers in the late afternoon, followed by a welcome dinner at the lodge. Dinner included."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "We depart for the Arenal National Park area after breakfast via van/minibus. Enjoy a small family-owned farm tour, right at the river's edge, and then an interactive lunch experience. We help prepare and eat a delicious Casado cooked on a wood stove, and also make our own tortillas. An emphasis is placed on using traditional cooking methods and fresh and organic products harvested from the farm’s greenhouse and fields. After, we stop at La Fortuna, a quaint local town with several shops, restaurants, and a church surrounded by vibrant forestry. Next, we arrive at Arenal Observatory Lodge with plenty of time to get a good night’s rest. You likely came to Costa Rica to experience its rainforest, volcanoes, and nature, and the Arenal Observatory Lodge & Spa gives you unparalleled access to this extraordinary ecosystem. There are 870 acres to explore, including 270 acres of natural primary rainforest with rivers and waterfalls. This is the only hotel located within the Arenal Volcano National Park. Breakfast, lunch and dinner included."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "If you wake up early, get up and enjoy local coffee on the large deck outside the lodge restaurant, while observing birds feeding and monkeys swinging from tree to tree against the backdrop of the volcano. Arenal National Park is a birding hotspot and the views from the lodge are stunning. After, enjoy a short, relatively easy walk to a small waterfall (approx. 30 minutes each way). The surrounding forest is lush with ferns and palms and if you’re in the mood, you can even take a dip. Then, we’ll take a short drive to the 1968 lava fields. We hike with a guide for a few miles through different landscapes to an incredible viewpoint close to the volcano. Here you’ll find yourself traversing ancient lava flows turned into stone while taking in views of the Arenal Lake and the landscape that surrounds it. In the evening, we enjoy a guided night tour at the lodge, searching for red-eyed tree frogs and other nocturnal creatures. Breakfast, lunch and dinner included."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Following an early breakfast, we’ll drive to the San José airport where we board an internal flight to Drake Bay on the Osa Peninsula. Situated on the Pacific Coast, the Osa Peninsula is “the most biologically intense place on Earth”, according to National Geographic. Nearly all of Costa Rica’s mammal species make the Osa their home, as well as a large number of birds, reptiles and insects. The pristine rainforests, secluded beaches and raw natural beauty of the Osa Peninsula make this untouched region among the most captivating in Costa Rica. After arriving in Drake Bay, we board a boat for a short ride to Corcovado Wilderness Lodge where we will have time to settle in and have lunch. Enjoy free time in the late afternoon—relax or take in the sights and sounds—before a delicious dinner at the restaurant, overlooking the ocean. Breakfast, lunch and dinner included."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Today you discover Corcovado National Park, considered the “crown jewel” of Costa Rica’s extensive National Parks system. Spanning 47,000 hectares, it is home to some of the world’s rarest wildlife including jaguars, peccaries, tapirs, 450 bird species + nearly 700 plant and tree species. This full-day tour includes lunch and explorations with a naturalist guide. You’ll explore on foot, pausing frequently to search for wildlife, and learn about the various conservation initiatives and research that takes place within the park. Enroute we pass by impressive cliffs, caves, and rocky islands home to marine birds and frequented by pods of dolphins. By the end of today’s immersive excursion, you’ll leave with a deeper appreciation for the park’s beauty and ecological significance. Breakfast, lunch and dinner included."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "After breakfast and another cup of that famous Costa Rican coffee, we head out via van/minibus to start our adventure. Today, we head to the marine wonderland of Caño Island. During a private boating tour, we coast through glittering waters and search for wildlife like whales and dolphins. You’ll also have the opportunity to snorkel near coral reefs teeming with vibrant fish and, if you’re lucky, you may spot a sea turtle! The afternoon is the perfect combination of exploration and relaxation that embraces Costa Rica’s lifestyle of ‘Pura Vida’! Breakfast, lunch, and dinner included."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Today we depart from the Osa Peninsula onboard a domestic flight back to San José. Upon landing, we’ll take a private van/minibus to Finca Rosa Blanca Hotel, stopping for lunch along the way. In the afternoon, enjoy an organic coffee plantation tour right at the lodge. From origin to harvest, we follow Café Rosa Blanca on its earthy journey from red coffee cherry to roasted brew. We visit the “Beneficio,” or processing area, where the pulp is first removed from coffee cherries before the beans are ready to ferment and dry. Once dry, the beans are sorted, roasted, and finished in the Roasting and Packing House. You can purchase coffee to take home with you for gifts—or to remind you of the beautiful Costa Rica mornings on this adventure. During the evening, reminisce and toast to our adventures during our farewell dinner. Breakfast, lunch and dinner included."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Enjoy one last breakfast surrounded by the beauty of Costa Rican paradise. We’ll say our final goodbyes after bringing you to the international airport, where you’ll head home with memories of a lifetime. Breakfast included."
+    }
+  ],
+  "map": ""
+}

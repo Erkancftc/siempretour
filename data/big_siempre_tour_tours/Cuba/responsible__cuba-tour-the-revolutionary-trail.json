@@ -1,0 +1,75 @@
+{
+  "destination": "Cuba",
+  "mainPhoto": "",
+  "id": "cuba-tour-the-revolutionary-trail",
+  "tourName": "Cuba tour, The Revolutionary Trail",
+  "placesVisited": "Havana, Walking tour of Old Havana, Museum of the Revolution, Santa Clara, Che Museum, Camaguey, Bayamo, Turquino National Park, hike to La Comandancia de la Plata, Santo Domingo, Santiago de Cuba, Fidels final resting place, El Morro castle",
+  "generalInfo": "Follow in the footsteps of Fidel and Che on this fascinating 10 day holiday, travelling along Cuba’s Revolutionary Trail. It was over 50 years ago that Fidel Castro and his followers drove into Havana and pronounced the revolution successful, declaring that a new era in the history of Cuba was about to begin. This trip travels the length of this beautiful island to give a thorough insight into the history of the Cuban Revolution. <br/><br/>The adventure starts in the historic city of Santiago de Cuba, the ‘cradle of the revolution’ where Castro and his supporters gained huge popular backing and plotted to overthrow the Batista regime.  The trip then travels up into the Sierra Maestra mountains via Bayamo to visit La Comandancia, the secret base where Castro planned and commanded revolutionary activities, before taking in Camaguey, Playa Giron (Bay of Pigs) and Santa Clara, visiting the most interesting historical sites along the way. From here, we head for the capital city of Havana where our journey ends.<br/><br/>In the Sierra Maestra mountains there is some easy hiking, and throughout this holiday there are visits to historical and culturally important sites around the island, with lots of opportunity to meet local communities. You will also have the chance to hear fabulous live Cuban music on accompanied nights out. <br/><br/>This is a tailor made trip for two or more people, available all year round. The itinerary can be altered to suit personal requirements and is an over 50s friendly tour. Transport is by national bus service with some private transfers where required. Accommodation is in homestays or hotels. You will be met in each location by a specialist local guide, making this a wonderful chance to find out about the Cuban Revolution in detail, experiencing the magic of Cuba and its people at grass roots level. We can also arrange for you to be accompanied by a specialist local tour guide from start to finish if you prefer.<br/>",
+  "durationDays": "10",
+  "price": "2750",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive Santiago de Cuba. Depending on time of arrival, you could have a short orientation walk of the city centre with a local guide. Homestay accommodation in Santiago de Cuba including breakfast and dinner x 3 nights. Dinner at homestay and evening free."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Breakfast at accommodation. Morning guided city tour of Santiago including visit to the Santa Ifigenia cemetery where Fidel Castro is buried and the Jose Marti mausoleum can be found; San Juan Hill and other historic sites in the city, and the Alameda seafront promenade. Visit to a local community project/dance company rehearsal. Free time for lunch (not included) and then continue to La Granjita farmhouse, where Fidel and his men stayed the night before the fateful assault on Moncada Barracks. Return to your homestay and rest of day free. Dinner at homestay. Free evening to listen to live music at a local venue."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "After breakfast, private transfer to the historic city of Bayamo. Short walking tour and visit to Carlos Manuel Cespedes museum, the first plantation owner in Cuba to release his slaves. Lunch (included) and continue to Santo Domingo at the gateway to the Turquino national park. Check into Hotel Villa Santo Domingo including dinner & breakfast x 2 nights. Dinner and rest of day free."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "After early breakfast, depart with guide and private transport from your hotel by jeep to reach the trail head. Full day hiking to La Comandancia (3km each way) with a specialist park guide. Picnic lunch provided. Visit the former secret HQ of Fidel and his men in the heart of the Sierra Maestra mountains and return by the same trail to be picked up for transfer back to your hotel. Dinner and rest of day free."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Private transfer from Santo Domingo to Playa Las Coloradas where Fidel and his men arrived after exile in Mexico. Arrive Camaguey late afternoon. Check-in to homestay accommodation including breakfast x 1 night. Rest of evening free."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "After breakfast, private transfer from Camaguey to Santa Clara to arrive late afternoon. Check into guesthouse accommodation, including breakfast x 1 night. Rest of day free."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Visit the Tren Blindado and the Che Guevara museum this morning with an English speaking guide, and free time for lunch (not included). Private transfer after lunch to Playa Giron for a visit to the Bay of Pigs museum and then continue along the coastal road to Playa Larga. Check into local homestay including dinner and breakfast x 1 night. Rest of evening free."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Private transfer from Playa Larga to Havana via the community called Australia where there is a small museum dedicated to the Cuban defence of the Bay of Pigs. On arrival into Havana, check into homestay accommodation, breakfast included, x 2 nights"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Half day guided visit on foot of Old Havana with local guide, exploring the 4 main city squares. Lunch in local restaurant and afternoon guided visit to the Museum of the Revolution. Final night dinner at local restaurant."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Breakfast and check out of accommodation. Private transfer to Havana airport."
+    }
+  ],
+  "map": ""
+}

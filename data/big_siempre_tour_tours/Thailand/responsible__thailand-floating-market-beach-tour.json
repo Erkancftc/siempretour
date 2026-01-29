@@ -1,0 +1,45 @@
+{
+  "destination": "Thailand",
+  "mainPhoto": "",
+  "id": "thailand-floating-market-beach-tour",
+  "tourName": "Thailand floating market & beach tour",
+  "placesVisited": "Bangkok, Amphawa riverside market, pomelo orchards of Bang Phlap, Samut Songkram, Mae Klong river cruise, floating market at Ta Kha village, sugar palm cultivation in Ban Thamrong, visit local homes, Kaeng Krachan dam and reservoir, Phetchaburi, Maruekatayawan Palace in Hua Hin, Sirinath Rajini Center for Mangrove Forest Studies",
+  "generalInfo": "This Thailand cultural tour gives an authentic taste of Thai life and food, as we travel through the heart of the country before heading to the coast. You’ll find out how Thai foods and ingredients are grown and produced, from sugar palm to pomellos, and will have the opportunity to tuck into wonderful, authentic dishes that aren’t served in Thai restaurants back home. You will also meet local producers and growers to learn more about their agricultural methods. <br/><br/>Begin by enjoying two days of exploration in the canals, villages and spend two days exploring the canals and villages, farms and orchards west of Bangkok. Then head to the coast at Hua Hin, a resort little visited by tourists, for fishing and relaxing. This is a fully tailor made tour, so stop offs can be extended or dropped as you choose.<br/>",
+  "durationDays": "4",
+  "price": "890",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Leave Bangkok on a morning train towards Samut Songkram, stopping at the “Umbrella Market”, a coconut plantation and Amphawa riverside market. Learn how villagers produce traditional coconut sugar, which is a key ingredient in Thai cooking. You will see the whole process, from climbing the tree to stirring coconut juice over a wood fire and taste some fresh authentic desserts. After lunch continue to Bang Phlap, famous for its organic pomelo orchards as well as the community’s profit sharing system, which funds their children’s education. It is a popular place to learn about organic agriculture, turning waste fruits or plants into charcoal and traditional methods of food preservation. Round off the day by hopping in a local boat down the Mae Klong river, cruising past tropical fruit orchids and rare ancient-style Thai houses. (L/D)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "After breakfast, depart to Ta Kha village to board a small sampan (paddling boat) and explore Thai canal life and a traditional floating market. Then travel the ‘salt road’, passing vistas of salt farming, local food stalls, dried fish and the strange multi-storey homes of swifts used to make bird's nest soup. After lunch you'll visit Ban Thamrong, famous for thousands of sugar palm trees that are harvested for fresh sugar juice, palm sugar, toddy palm cake, palm seed in syrup, palm-leaf hats, palm-wood containers and many other uses. You can visit some local houses to learn about the daily work of sugar palm cultivation, learn about the vocational training in traditional skills run by the community and even have a go at palm-leaf weaving. Finish the day with a delicious dinner and relaxation at your hotel, set amongst tropical forest on the banks of the Phetchaburi River. (B/L/D)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "After breakfast, we'll drive you to Kaeng Krachan dam and reservoir. There are some wonderful nature walks around the area where you can experience the beautiful Thai countryside up close and plant a tree to offset the carbon footprint of your holiday. Lunch is served at a local restaurant on the banks of the reservoir. In the afternoon, go on to Hua Hin and the stunning Maruekatayawan Palace, a wooden palace on the beachfront built by the King in 1923. Hua Hin is a popular seaside spot for Thai people but few international tourists come here. The rest of the day is yours to enjoy the town and beach. Dinner is at your resort, with an option to visit the night market in Hua Hin. (B/L/D)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "The morning is at your leisure, before you have lunch at a local restaurant. Then depart for Bangkok to continue your adventure around the rest of this incredible country. On the way back you also have the chance to visit the Sirinath Rajini Center for Mangrove Forest Studies, dedicated to helping rehabilitate mangrove ecosystems. The centre was designed for learning and conserving these endangered trees, as well as providing a nursery for marine aquaculture and educating people how to live in harmony with the forest. (B/L)"
+    }
+  ],
+  "map": ""
+}

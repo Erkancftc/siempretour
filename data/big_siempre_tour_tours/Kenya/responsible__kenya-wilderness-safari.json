@@ -1,0 +1,75 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "kenya-wilderness-safari",
+  "tourName": "Kenya wilderness safari",
+  "placesVisited": "Maasai guides, Mara Naboisho Conservancy, Masai Mara National Park, Game drives in Masai Mara Game Reserve, Walking and nocturnal safaris, Leopard Hill, Massages, yoga sessions and horse riding options, Potential animal sightings include: lions, leopards, elephants, giraffes, zebras and wildebeest",
+  "generalInfo": "A unique and life-enriching opportunity to compare and contrast three of Kenya’s most celebrated conservation areas. Discover a remarkable diversity of landscapes, peoples and wildlife as you explore the land where safari began, and learn how modern-day conservationists are collaborating with communities to conserve and preserve the most precious aspects of what makes Kenya such a cultural and wildlife viewing hotspot. Experience conservation success stories firsthand, and see how you can play a role in an enduring legacy of pioneering ecotourism. From the rugged, rocky mountains and valleys of Samburu, to the mysterious Kenyan high country around Lewa Downs and the endless savannah and winding rivers of the Mara, each of these locations will enthral and enchant you. Very few people only visit Kenya once, and on this safari, you’ll see just why that is.",
+  "durationDays": "10",
+  "price": "10740",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive at Jomo Kenyatta International Airport, where a vehicle will transfer you to Wilson Airport for your flight to Samburu. Depart Nairobi in the morning*, arriving at Samburu an hour later, where your guide will meet you and transfer you to the camp, or take you on an introductory game drive in the Kalama Conservancy. Afternoon game drive exploring more of the 200,000 acres of pristine wilderness that make up the Kalama Conservancy. Pause for sundowners at a breathtakingly scenic spot."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Early morning game drives into the iconic Samburu National Reserve in search of the ‘Samburu Special Five’: reticulated giraffe, Grévy’s zebra, beisa oryx, Somali ostrich and gerenuk, all rare endemic species that you may well not have seen before. The Samburu National Reserve is also renowned for its large herds of elephants and landmark doum palms. Enjoy a picnic lunch on the banks of the life-giving Ewaso Nyiro River before heading back to the camp to relax during the hottest part of the day. Spend a leisurely afternoon at the camp, unwinding in comfort or exploring the unique ambiance of this eco-friendly retreat. As evening falls, stargaze from the star beds, surrounded by the tranquil sounds of the wild."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Continue to explore the wonders of Samburu with a morning guided walking safari. Let your guide reveal some of the smaller animals and plants that also contribute to the Samburu ecosystem, and marvel at the ancient Samburu rock art in hidden caves. Opt for an evening game drive in the exclusive Kalama Conservancy, ending with a bush dinner under the stars in a secret dry riverbed location. The traditional Samburu dancing around the fire under the vast African night skies make this a truly magical experience, never to be forgotten."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Vehicle transfer departing Samburu after breakfast, arriving at Sirikoi approximately two hours later (depending on sightings along the way). Spend the afternoon relaxing poolside, overlooking the wetland teeming with wildlife. Then head out on an evening game drive with a refreshing sundowner."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Morning game drive exploring Lewa in search of iconic wildlife, being certain to watch out for the incredible birdlife to be found around the Lewa wetlands. A visit to arguably Africa’s most successful rhino sanctuary, where you can walk amongst the hand- reared rhino orphans and learn more about this essential conservation project. Take a stroll along the intriguing Ngare Ndare Forest Canopy Walkway and visit the Blue Glacial pools, both of which can be found in the Mount Kenya ecosystem - one of the last remaining high-altitude equatorial cedar forests in the world."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Choose how to spend your last full day on Lewa, whether another memorable game drive, a guided bush walk, spa treatments or simply and relaxing at the lodge."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Depart Lewa on a morning* flight, arriving in the Masai Mara just 90 minutes later. Embark immediately on a game drive with a picnic lunch to enjoy under an iconic lone acacia tree or by the river next to a pod of hippos. Alternatively, head to Saruni Mara or Saruni Wild for some rest and relaxation before an exclusive game drive later in the afternoon. Discover the remarkable Mara North Conservancy – over 30,000 acres of plentiful, protected land bordering the legendary Masai Mara National Reserve. Enjoy this very different, less well-known yet prolific corner of the Mara."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Set out on an early morning game drive to look for the big cats and other predators of the Mara, returning to the camp or lodge for lunch and treatments at the Maasai Wellbeing Space. Make the most of the golden afternoon light on a game drive that will allow you to capture unforgettable safari images, followed by dinner at the lodge, plus an optional night drive to look for shy nocturnal creatures.."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Accompany your Maasai guide on a walk through the valleys and plains surrounding Saruni Mara, accompanied by a vehicle, or a take game drive to the top of Kilileoni, the highest point in the entire Serengeti-Masai Mara ecosystem. In the afternoon, discover more of Mara North and its neighbouring conservancies and experience first-hand what makes the Mara one of the most exciting wilderness destinations in the world. Weather permitting, experience a starlit bush dinner, with Maasai warriors singing and dancing around the fire to the accompaniment of the sounds of the African night."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Breakfast in lodge, before a last opportunity to visit the rhino sanctuary on the way to the airstrip for your 11:00 return flight to Nairobi from the Mara. In Nairobi, you have the option to have dinner at either Talisman or Carnivore before we transfer* you to Jomo Kenyatta International Airport,. Bookings will be dependent on your flight times, with dinner for your own account."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,55 @@
+{
+  "destination": "Usa",
+  "mainPhoto": "",
+  "id": "new-york-to-boston-small-group-tour",
+  "tourName": "New York to Boston, small group tour",
+  "placesVisited": "",
+  "generalInfo": "Our East Coast America group tour takes in some of the nation's most iconic cities as well as stepping off the beaten track into coastal splendour.<br/><br/>Discover the majesty of these East Coast cities- from the fascinating history of Boston, to the spell-binding skyline of N.Y.C, to the imposing grandeur of Washington D.C. <br/><br/>We’ll show you the unmissable sights that make these places famous but also offer experiences to really understand how these places tick - there’s a whole lot more than just the star-studded attractions. Plus- we’ll venture out of the cities with stops on the coast, countryside and even the ocean.<br/>",
+  "durationDays": "6",
+  "price": "1675",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Boston: Welcome to the USA and the start of your East Coast adventure! Spend the morning exploring Boston at your leisure, then meet your Adventure Leader and group in the afternoon at the entrance of HI Boston hostel. Here, you'll get to know your fellow travelers and receive a trip briefing, where you’ll learn about the exciting journey ahead and safety tips for your time in the U.S. Your first adventure kicks off with a walk along Boston’s historic 2.5-mile Freedom Trail, which connects 16 nationally significant landmarks. Along the way, you’ll see sights like Park Street Church, Boston Common (the oldest public park in the U.S.), Faneuil Hall, and the North End, Boston's famous 'Little Italy.' Don't miss the chance to grab a world-renowned cannoli at Mike’s Pastry! Next, we’ll hop on the T (Boston’s subway) to visit Fenway Park, home of the Red Sox. If the team is playing at home, your tour of the park will be swapped for tickets to a live game (this happens about 50% of the time)! The evening is free for you to explore. Stay in the Fenway area for a fun night of vintage bowling or head to a nearby bar for live stand-up comedy. The night is yours!"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "New York: Today, we’re heading to the Big Apple! We’ll start early and catch a bus to New York City. After arriving, we’ll head to the HI New York Hostel to check in before kicking off your first adventure in the city—a thrilling speedboat ride on “The Beast.” We’ll zoom across New York Harbor, offering unforgettable views of the iconic Statue of Liberty. After returning to dry land, it’s time to indulge at Chelsea Market, a famous food hall with everything from seafood and tacos to artisanal baked goods. You’ll be spoiled for choice! As evening approaches, we’ll head to the Rockefeller Center. The Top of the Rock observatory, located on the 70th floor, provides breathtaking 360-degree views of New York City. Afterwards, enjoy the rest of the night at Times Square, where you can shop, sightsee, or just take in the dazzling lights."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "New York: Start the day with a leisurely walk through Central Park, taking in famous landmarks like Bethesda Fountain and Belvedere Castle. Then, visit the renowned MET (Metropolitan Museum of Art) for a guided tour of its extraordinary exhibits, ranging from ancient artifacts to modern masterpieces. Next, embark on the No Sleep ‘Til Brooklyn tour, where you’ll discover the beauty of Brooklyn Heights, DUMBO, and Brooklyn Bridge Park. After a scenic lunch at Timeout Market, walk across the historic Brooklyn Bridge and learn about its fascinating history. Later, explore the trendy Williamsburg neighborhood, known for its street art, vintage shops, and outdoor bars. The evening is yours to enjoy, whether you choose to catch a Broadway show, visit the 9/11 Memorial, or attend one of New York’s many free events. Make the most of your last night in the city!"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Philadelphia: Transfer to Philadelphia by train in the morning. If you’re craving something sweet, grab a cupcake to-go from Magnolia Bakery before departing. After arriving at the Apple Hostel, indulge in an authentic Philly Cheesesteak—a meal you won’t forget! Take some time to relax at the hostel or head out for a quick visit to see Liberty Bell and the Declaration of Independence. As evening falls, get ready to snap iconic photos on the steps of the Philadelphia Museum of Art (made famous by the Rocky movies), then enjoy a night out in the trendy Fishtown district."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Washington DC: Rise and shine! Today, we travel to Washington DC by train. Arriving just in time for lunch, we’ll check into U-Street Hostel before setting off on a Washington Revelations walking tour, covering the city’s most famous landmarks, including the United States Capitol, the National Museum of African American History and Culture, the Washington Monument, The White House, and several historic memorials. For dinner, we’re heading to Ben’s Chili Bowl, a DC staple famously recommended by President Obama. Afterward, celebrate your last night on the East Coast with drinks in Adams Morgan or hit the lively U Street for an unforgettable night out."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Washington DC: Today marks the end of your East Coast America Adventure, so it’s time to say goodbye to all your new friends. If you’re not quite done with the USA East Coast you may want to stay an extra night in Washington D.C. Let us know and our team will able to assist you with an additional night’s accommodation."
+    }
+  ],
+  "map": ""
+}

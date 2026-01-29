@@ -1,0 +1,70 @@
+{
+  "destination": "South Korea",
+  "mainPhoto": "",
+  "id": "south-korea-small-group-holiday",
+  "tourName": "South Korea small group holiday",
+  "placesVisited": "",
+  "generalInfo": "A destination of natural wonder, culinary delights and cityscapes, South Korea is a rewarding trip for any traveller. On this nine-day exploration, you’ll discover Korea’s Demilitarised Zone, tuck into a feast at an all-you-can-eat Korean BBQ restaurant, hike through the amazing scenery of Seoraksan Mountain, wander through the colourful Gamcheong Culture Village, spend a night in a traditional Hanok house and discover the charisma of Busan, from seaside Haedong Temple to the stories of Haeyno divers.",
+  "durationDays": "9",
+  "price": "3125",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Seoul.",
+      "description": "Annyeong! Welcome to South Korea. Your adventure begins in Seoul – the capital city of high-tech gadgetry, soaring skyscrapers and delicious eats. If you arrive early, explore this metropolis at your own pace and discover how ancient traditions come together with the modern in one of Asia's great cities. You’ll have a welcome meeting at 4 pm this afternoon. After, your leader will take you to visit the renowned Gwangjang Market for a street food dinner tour. Here, you’ll find some of Korea’s streeside favourites like mayak gimbap (rice rolls), mandu (North Korean dumplings), bindaetteok (mung bean pancake) and kimchi. Later, follow your leader to the top of Naksan to see Seoul’s skyline at night."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Seoul.",
+      "description": "Embrace an early morning for a tour of the Demilitarised Zone (DMZ). From the South Korean side of the Zone, you’ll learn how this peninsula has been divided since the devastating Korean War. You’ll visit the Third Tunnel of Aggression, the Unification Bridge, Imjingak Park and the Dora Observatory. In the afternoon, explore Gyeongbukgung Palace – the main royal palace of the Joseon dynasty – and the traditional Bukchon Hanok Village. Your tour will finish in the late afternoon in Bukchon, where you might like to stay as there's plenty to explore. Or, maybe visit Namsan Mountain or Yongsan's War Museum."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Sokcho.",
+      "description": "In the morning, take a local express bus to the east coast city of Sokcho. When you arrive, head to the Sokcho Central Market for an insight into how the locals go about their daily lives and maybe try a few local snacks. After, you’ll have some free time before heading to Abai – a small island village in Sokcho that, for generations, has been a haven for refugees fleeing the war from North Korea. Getting here is half the fun – you’ll have to work together to pull a rope on a small barge to get to the other side. Visit a North Korean refugee’s family and listen to their story of how history reshaped their life. Then, take part in a cooking demonstration and learn how to make giant Korean dumplings. Have dinner together, maybe trying things like home-cooked japchae (stir fried glass noodles), kimbap (Korea’s version of sushi rolls) and rice beer. The payment the family receives for this dinner will be contributed to the Abai Village Preservation Society."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Sokcho.",
+      "description": "Head to Seoraksan – Korea’s most well-known mountain and the third highest in the peninsula – and go for a hike to see the views of this UNESCO World Heritage Site. The afternoon and evening is yours to explore Sokcho. Maybe visit Yeoung Geum Jung Pagoda, which is on the coast overlooking the sea. Or hire a bike and ride around the scenic Yeongrang Lake. Maybe try Korean hotpot for dinner or visit Sokcho Expo Tower. Otherwise, you could take a walk along Sokcho Harbor or opt for a relaxing soak at the Cheoksan Hot Springs."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Andong.",
+      "description": "Hit the road this morning for Andong Hahoe Folk Village. This settlement is easy to walk around, so you’ll join your leader on a stroll through the traditional houses (including the one that hosted Queen Elizabeth II in 1999). Visit the remnants of a traditional school to see how students studied in the past, then walk to Buyongdae Hill for a bird’s eye view of the village, dotted with traditional Hanok houses. Being a traditional Korean outpost, there may also be masked dancers performing in town. To learn more about this ritual, why not visit the nearby mask museum. Later, head to your accommodation for the night – staying in an authentic Hanok (traditional Korean house) is a unique experience and the perfect opportunity to gain more insight into local life."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Busan.",
+      "description": "After saying goodbye to your host family, make your way to Busan – South Korea’s second-largest city is home to mountains, beaches, hot springs and deliciously fresh seafood. When you arrive, you’ll have the opportunity to talk to a Haenyeo diver. Haenyeo (sea women) dive into the sea to collect clams, sea urchins and oysters and are famous for being able to hold their breath for a very long time. A dwindling industry, this has been a main source of income for the divers (predominantly female) to support their families through changing times. Visit the local Haenyeo community centre and meet with an ex-diver to hear about her experience, the changes Busan has gone through and her life now. Then visit Haedong Temple – the famous Buddhist temple by the sea. Explore this rare gem, backdropped by the ocean, before going to Gamcheong Culture Village for an overview of the city. There are a few different spots to watch the sunset, so maybe grab a few of your group members and head to one of the many scenic viewpoints."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Busan.",
+      "description": "This morning, head to the seaside town of Ikidae and take a coastal walk (and optional plogging). Then, visit to a local ‘Smart Farm’ – this incubation site is where startups are growing crops in recycled shipping containers, as well as turning them into shops and cafes. The rest of the day is yours. Tonight, maybe take an optional night cruise and see Busan from the water as the sun goes down. You can also visit Haeundae Night Market or see the buskers on the boardwalk."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Seoul.",
+      "description": "This morning, jump on the KTX Bullet Train and head back to Seoul. When you arrive, the rest of afternoon is yours to explore. Perhaps venture out and explore the National Museum, Leeum Art Museum or check out the huge range of shopping in Seoul’s Dongdaemun. This evening, join your travel pals for the final group dinner at an all-you-can-eat barbecue feast – you can't leave Korea without experiencing this iconic dish!"
+    },
+    {
+      "dayNumber": 9,
+      "title": "Seoul.",
+      "description": "Your adventure comes to an end after breakfast today. With no activities planned, you’re free to leave at any time. If you’d like to spend more time in Seoul, just speak to your booking agent."
+    }
+  ],
+  "map": ""
+}

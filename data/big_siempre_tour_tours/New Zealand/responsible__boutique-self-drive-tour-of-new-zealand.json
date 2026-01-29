@@ -1,0 +1,160 @@
+{
+  "destination": "New Zealand",
+  "mainPhoto": "",
+  "id": "boutique-self-drive-tour-of-new-zealand",
+  "tourName": "Boutique self drive tour of New Zealand",
+  "placesVisited": "",
+  "generalInfo": "This comprehensive 27-day itinerary explores the North and South Island’s iconic destinations with plenty of two-night stays to ensure you really experience New Zealand. From the vibrant city of Auckland to the tropical Bay of Islands, you’ll also visit the cultural mecca of Rotorua and Wellington City before crossing the Cook Strait to Marlborough at the top of the South Island. Kaikoura and its famous wildlife can be explored before continuing south towards the Southern Alps and Mt Cook National Park. Stay in the adventure capital Queenstown and see the West Coast Glaciers before returning to Christchurch via the world famous TranzAlpine train. You’ll also spend time in more out of the way locations such as Hawke's Bay and Abel Tasman National Park. Experience the diverse geography between the north and south, spectacular landscapes and the rich wildlife that inhabits our land and seas. This tour has something for everyone.",
+  "durationDays": "27",
+  "price": "6325",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Welcome to Auckland! You will be met on arrival and taken to your city hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "A full day free to explore Auckland City, head up the Sky Tower with the best views over the city, or climb to the top of Mt Eden volcano. End your day with a Harbour Dinner Cruise."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Explore Waiheke Island at your leisure today with a Hop On Hop Off Bus Tour. The buses stop at some of the island's iconic spots including Oneroa Village, Onetangi Beach, and several vineyards."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Collect your rental car, then drive north to the tropical Bay of Islands."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Embark on a Hole in the Rock Cruise along the Rakaumangamanga Peninsula to Cape Brett, where a historic lighthouse keeps watch over and Piercy Island."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Free day to explore and drive round the Bay of Islands, made up of over 140 subtropical atolls."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Drive from Paihia to Waitakere Estate via Waipoua Forest today."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Time to head south today to Rotorua. Along the way stop at the town of Matamata made famous in the Lord of the Rings trilogy and enjoy a tour of the set."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Explore Rotorua today, with natural hot springs, boiling mud pools and steaming geysers. Visit Te Puia for a living Maori cultural experience, followed by Te Pa Tu evening cultural experience at Tamaki Maori Village."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Dive to Lake Taupo and enjoy a thrilling Jet Boat Ride up to the base of the foaming Huka Falls."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Drive to Napier today, the beachside city with a seaport on the eastern coast and the seat of the Hawke's Bay region."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Explore Napier and the Hawke's Bay, we recommend going on a wine tour of this famous region of vineyards."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Time to drive to the very south of the North Island to the vibrant capital city of Wellington."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Free day in Wellington, often referred to as ‘mini-Melbourne’, the city has a cosmopolitan feel and melting pot of art, culture, food and fashion."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Depart the North Island today on the Interislander Ferry from Wellington via the stunning landscape of the Cook Strait, described as 'one of the most beautiful ferry rides in the world'. Drive to Nelson to overnight."
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Free day in Nelson and time to explore close by Abel Tasman National Park, with white sandy beaches and crystal clear waters. Popular for kayaking and various watersports."
+    },
+    {
+      "dayNumber": 17,
+      "title": "",
+      "description": "Drive to Blenheim, the town at the heart of the New Zealand's largest wine producing region, Marlborough."
+    },
+    {
+      "dayNumber": 18,
+      "title": "",
+      "description": "Free day to enjoy sampling the local produce on many of the vineyard tours available."
+    },
+    {
+      "dayNumber": 19,
+      "title": "",
+      "description": "Drive an hour south to Kaikoura on the east coast today, the best place for whale watching. With the rest of the day free."
+    },
+    {
+      "dayNumber": 20,
+      "title": "",
+      "description": "Morning free morning, we recommend a whale or dolphin watching tour before heading to Christchurch to overnight."
+    },
+    {
+      "dayNumber": 21,
+      "title": "",
+      "description": "Drive to the stunning Aoraki Mount Cook National Park today and spend the afternoon exploring one of the many walking tracks."
+    },
+    {
+      "dayNumber": 22,
+      "title": "",
+      "description": "Experience an unforgettable glacier tour today. Experience 500-year-old icebergs up-close on the Mt Cook terminal lake from the safety of a specially designed boat."
+    },
+    {
+      "dayNumber": 23,
+      "title": "",
+      "description": "Head to the adventure capital of New Zealand, Queenstown today."
+    },
+    {
+      "dayNumber": 24,
+      "title": "",
+      "description": "Free day in Queenstown to explore and enjoy activities."
+    },
+    {
+      "dayNumber": 25,
+      "title": "",
+      "description": "Drive to Franz Josef Glacier stop en route at the beautiful Lake Wanaka with its azure blue water."
+    },
+    {
+      "dayNumber": 26,
+      "title": "",
+      "description": "Drop your rental car at the Greymouth Train Station and take the TranzAlpine Scenic Train Greymouth to Christchurch."
+    },
+    {
+      "dayNumber": 27,
+      "title": "",
+      "description": "Say farewell from New Zealand. Have a private transfer accommodation to Christchurch Airport."
+    }
+  ],
+  "map": ""
+}

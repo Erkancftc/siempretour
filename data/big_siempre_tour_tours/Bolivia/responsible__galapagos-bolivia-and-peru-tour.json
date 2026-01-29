@@ -1,0 +1,145 @@
+{
+  "destination": "Bolivia",
+  "mainPhoto": "",
+  "id": "galapagos-bolivia-and-peru-tour",
+  "tourName": "Galapagos, Bolivia and Peru tour",
+  "placesVisited": "Quito, Galapagos Islands, Lima, Amazon Jungle, Cuzco, Sacred Valley, Inca Trail or Quarry Trail, Machu Picchu, Lake Titicaca homestay",
+  "generalInfo": "Spend just over three weeks exploring the best of Peru, Ecuador and Bolivia via boat, bus, plane and train. Meet the unique wildlife of the Galapagos as you hike, cycle and bus around the islands, snorkeling with sea lions and meeting giant tortoises! Back on the mainland, get to know historic, beautiful Lima, before taking an internal flight to the depths of the Amazon jungle. Staying in a lodge for two nights, you’ll trek the forest with guides to spot giant otters, caiman and rainbow-coloured macaws. Another flight whisks you to Cuzco, the true heart of Peru, and from there get set to hike the tough but rewarding Inca Trail to ancient and extraordinary Machu Picchu, an abandoned Inca citadel in the clouds. Friendly locals and cities full of colour, energy and passion come as standard, and a night in a family homestay by Lake Titicaca will help you understand Peruvian life at first hand.",
+  "durationDays": "24",
+  "price": "6408",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Quito.",
+      "description": "Bienvenidos! Welcome to Ecuador. Sitting at an altitude of 2,850 metres, with stunning views of Volcan Pichincha, Quito is one of the most attractive cities in South America. You may even wish to arrive a day or two early and explore further beyond the city, visiting Otavalo, Cotopaxi or the Cloud Forest. Your adventure begins in Quito with a welcome meeting at 2 pm. Afterward, you'll join your local leader on a tour of the historic centre. Catch the metro to the Parque de la Alameda and visit sites such as the Basilica of the Sacred Heart of Jesus – a famous neo-Gothic church known for its facade representing Galapagos tortoises, Andean condors and Amazon alligators. You'll also visit La Compania de Jesus, considered by many to be the most beautiful church in the Americas. The tour will finish at San Francisco Square, then you'll have free time to relax or head out for dinner in Quito's Old Town – your leader will have plenty of recommendations!"
+    },
+    {
+      "dayNumber": 2,
+      "title": "Isla San Cristobal, Galapagos.",
+      "description": "Catch an early morning transfer to Quito airport for your flight to San Cristobal Island in the Galapagos. The flight includes a stop in Guayaquil to pick up additional passengers (you will not need to disembark the plane). After joining up with your fellow travellers and your local naturalist guide on San Cristobal, head to La Loberia where you'll put on snorkelling gear for the first time and go for a swim among sea lions and maybe even some sea turtles! Return to town for a free evening tonight and maybe head out with the group for some fresh seafood."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Isla San Cristobal.",
+      "description": "Take a 45-minute boat ride to Leon Dormido (Kicker Rock) this morning. On the way, you might be able to spot nesting frigates and blue-footed boobies. You might even get the chance to swim among the sea lions again. At Leon Dormido, you can snorkel and look for sea turtles, manta rays and the harmless Galapagos shark. Eat lunch on the boat, then head to the Interpretation Center. Learn about the history of the 'Enchanted Islands' and the conservation projects that seek to preserve them. Continue on your walk to Frigatebird Hill (Cerro Tijeretas) – for stunning views of the bay. Then, return to town in the late afternoon for a free evening."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Isla Floreana / Isla Isabela.",
+      "description": "Take an early morning boat ride to Isla Floreana and look for dolphins and whales along the way. Snorkel in the clear blue waters and then break for lunch. After, venture to a black-sand beach belonging to the Witmers – descendants of some of the first settlers on the Galapagos. The town here – Puerto Velasco Ibarra – has about 150 residents and an intriguing history involving deaths, disappearances and murders. Head to a local restaurant for a traditional lunch. Continue to Isla Isabela later in the day, where you’ll settle in for the night.Later in the afternoon, wave goodbye to Floreana and continue to Isla Isabela, where you’ll spend the night."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Isla Isabela.",
+      "description": "This morning, you’ll hop on a small Zodiac boat and cruise to Las Tintoreras (Shark Alley), looking out for blue-footed boobies and the famous Galapagos penguin. Take a short walk on this isolated islet and popular iguana nesting site, then snorkel in a calm inlet with colourful fish and winding underground lava tubes. This area is also frequented by green sea turtles that like to rest on the calm, sandy bottom. Return to Isla Isabela and visit the Arnaldo Tupiza Tortoise Breeding Center, where you'll observe giant tortoises in all stages of development. After learning about the thousand turtles that are preparing for life here, you’ll head to a brackish lagoon to observe flamingos. Later today, take a kayak around the island and spend your evening resting in the sand and soaking in your first Isabela sunset – arguably the most beautiful of all the islands!"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Isla Isabela.",
+      "description": "Start your last day on Isla Isabela by heading towards the Sierra Negra Volcano – one of the Galapagos’ most active volcanoes and the world's second-largest crater! Weather permitting, you’ll take a challenging hike of around 17 km up the rocky mountain. After, make your way back to town for some free time to curl up with a book, soak your tired muscles or venture down to the water for a relaxing swim before dinner."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Isla Isabela / Isla Santa Cruz.",
+      "description": "Jump aboard a private speedboat this morning and head to Isla Santa Cruz. When you arrive, leave your bags at the hotel and head to the Santa Cruz Highlands. Your first stop is a local farm, where giant tortoises roam the grounds freely. Here, you’ll meet with an expert chef for a cooking class to make the famed encebollado – a local tuna soup that’s widely considered one of the best in the world! This hearty dish uses slow-cooked albacore tuna and a savoury broth made of onions, cilantro and spices. The dish is traditionally served with yuca (a starchy root vegetable) and garnished with lime and green onions. Enjoy the soups of your labour for lunch, then wander the grounds with the slow-paced residents. After lunch, you’ll visit an organic sugar cane farm run by a local family for a tour of their trapiche (a sugar cane mill used in artisanal sugar production). See how the family harvests and processes sugar cane and cacao and how they work with the local community."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Isla Santa Cruz.",
+      "description": "Take a morning walk in Tortuga Bay after breakfast. Along the way, keep an eye out for eagle rays, sea turtles and blue-footed boobies. Later, you’ll head to the local fish market for a dose of local life on the way to The Galapagos Conservancy, who help protect the Galapagos' unique biodiversity. Learn how our Foundation supports the Galapagos Conservancy Women in Sustainable Entrepreneurship (WISE) program, which provides critical capital for sustainability initiatives and builds the entrepreneurial capacity of Galapagos women. After, head to the Charles Darwin Research Station – an international non-profit organisation that’s dedicated to the scientific research and conservation of the archipelago’s environment and biodiversity."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Quito.",
+      "description": "Say goodbye to these enchanting islands and your Galapagos leader before taking a flight back to Quito, making a stop in Guayaquil on the way. You'll arrive in Quito later in the afternoon, where a representative will take you from the airport to your hotel. Enjoy a free evening in Quito."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Lima.",
+      "description": "Say hasta luego to Quito and take an included flight to Lima, one of the most beautiful cities in South America. With Indigenous cultures dating back millennia, this country is a fascinating land of Amazonian rainforests, diverse wildlife and soaring mountains. You will be picked up from the airport and transferred straight to your hotel. In the evening you’ll meet your new leader and group members - perhaps get acquainted over some Pisco cocktails."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Amazon Jungle.",
+      "description": "Rise and shine early today for your journey into the wilds of the Peruvian Amazon. Take an early transfer to Lima airport, then fly to Puerto Maldonado. Here, you’ll pack a small duffle bag with essentials for the next two days. Board a motorised canoe and cruise deep into the jungle. The journey to your eco-lodge in the Madre de Dios region will take a couple of hours, so you’ll stop for lunch along the way. Settle into your thatched-roof lodge before a short orientation walk of your surroundings. Spend the evening taking in the sights and smells of the jungle and enjoy an I’m-so-far-from-home moment."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Amazon Jungle.",
+      "description": "Get ready for an unforgettable day exploring the depths of the jungle! Set out on a half-day trek guided by local experts on the area's flora and fauna. Learn from your guides about the medicinal and practical uses for some of the plants that grow here, which Indigenous people have been studying and using for thousands of years. On your walk, keep an eye out for rainbow macaws and butterflies, and listen for the barking call of the peccaries and chattering of monkeys that call the jungle home. This part of the Amazon is also known to house capybaras, giant otters and jabirus, so keep your eyes peeled for these exotic creatures.?Return to the lodge for lunch and some free time to relax. Once the sun goes down, venture out on a night walk in search of some of the jungle's nocturnal inhabitants (caimans, jaguars and anacondas)."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Cusco.",
+      "description": "Leave behind the natural wonders of the Amazon for the man-made wonders of Cusco. Return to Puerto Maldonado to collect your luggage, then take a short flight. If Lima is Peru's head, then Cusco is definitely the heart. Once you've spent some time acclimatising to the altitude of 3450 m, head out on an orientation walk with your leader. See the ancient and contemporary architecture styles, including the Plaza de Armas (Main Square), the San Pedro Market, the 12 Angled Stone, Regocijo Square and San Blas Square. This tour will also pass by the most significant temple in the ancient Inca empire?–?Qoricancha. Despite being covered with a Baroque facade in the 17th century by the Spanish, the original Inca masonry has been uncovered in some areas. In the evening, visit Casa for your trek briefing, then you’re free to explore at your own pace or find the perfect dinner spot with your group and try some local Peruvian favourites."
+    },
+    {
+      "dayNumber": 14,
+      "title": "Ollantaytambo.",
+      "description": "Hop on a private bus this morning and travel through the lush terraces of the Sacred Valley to Ollantaytambo – one of the few places where the Inca defeated the Spanish. On the way, stop at a village to enjoy lunch and conversation in a community that still practices many Inca traditions. Visit the AMA Restaurant in Urubamba – this cafe provides employment opportunities and job training for single mothers throughout the Sacred Valley. Enjoy a snack and learn how this inclusive enterprise focuses on economic growth, gender equality and the support of vulnerable communities. Continue your journey to Ollantaytambo, tonight, maybe you’d like to sit down for a dinner of quinoa and alpaca stew at one of the local restaurants."
+    },
+    {
+      "dayNumber": 15,
+      "title": "Inca Trail.",
+      "description": "Depending on the travel arrangements you made before the trip, during the next four days you’ll be either hiking the Inca Trail (Route 1), hiking the Quarry Trail (Route 2) or staying in Cusco for two days before taking the train to Aguas Calientes (Route 3). All routes visit Machu Picchu.? While away from Cusco, the bulk of your luggage will be stored at your hotel. If you’re hiking the Inca Trail or the Quarry Trail, the evening before you leave, you'll receive a small duffle bag to carry your clothes in for the next four days (5 kg maximum). Your team of porters will carry these bags for you, together with the food and equipment for the trail. You won't have access to these items until the end of each day, as the porters will always be ahead of the group. If you’re travelling to Aguas Calientes by train, you'll be able to leave most of your luggage at the hotel in Cusco and travel with only a small bag for the overnight stay in Aguas Calientes.? Route 1 Inca Trail? Today, travel by minivan to the 82 km marker and meet your crew of local porters, your cook and your guide. Your first day will include uphill trekking to the campsite, which sits at 3100 m above sea level. On the way, you’ll see the Inca sites of Ollantaytambo, Huillca Raccay and Llactapata, as well as incredible views of snow-capped Veronica Peak. In the evening, unwind at the campsite with a nourishing meal prepared by your cook.? Route 2 Quarry Trail? Make an early start today and drive to Choquequilla, a small ceremonial place where Incas worshipped the moon. From here, you’ll head to the small community near Qory Song’o (Golden Heart) hill, where you’ll climb to the top for the incredible views of the Soqma Perolniyoc, Pachar and Huarocondo valleys. There are also several sacred tombs in the area, protected by the locals, which you can explore with your leader and even see some of the original structure crafted from wood and leather. These remains have never been seen by travellers before, so you can be a part of this exclusive experience. Carry on to the Perolniyoc Cascade lookout, where you can stop for some snacks and photos. Arrive at the campsite, 3700 m above sea level, around lunchtime. After, set off to explore the Q'orimarca archaeological site, which once served as a checkpoint to the Incas.? Route 3 Cusco:? After spending the night in Ollantaytambo, take a short drive to the town of Pisac. Pisac is well known for its market. Here you’ll have the opportunity to shop for souvenirs and perhaps try some local empanadas. Arrive back at Cusco in the afternoon, where your leader can take you to San Pedro Market, where you have the option to buy some local favourites for a picnic tomorrow or enjoy having some free time. Perhaps head out for dinner– your leader will have plenty of local recommendations."
+    },
+    {
+      "dayNumber": 16,
+      "title": "Inca Trail.",
+      "description": "Route 1 Inca Trail This is the most challenging day of the trek, as you ascend a 5-hour long steep path to reach the highest point of the trail. Colloquially known as 'Dead Woman's Pass', Warmiwanusca sits at a height of 4200 m above sea level, providing amazing views of the valley below. The group will then descend to the campsite in the Pacaymayo Valley at 3650 m. Route 2 Quarry Trail This is the most challenging and rewarding day of the hike. A 3-hour walk takes you to the top of the first pass of Puccaqasa, about 4370 m high. After enjoying the picturesque views of the valley, it’s a short walk before stopping for lunch. After, make the 2-hour hike to Kuychicassa, the highest pass of the trek at 4450 m. From here, descend to the sacred site that the Incas called Intipunku. This is a sun gate, where the sun will stream through at particular times of the year and there are views of the Nevado Veronica mountain year-round. The Incas built several sun gates, the most notable overlooking Machu Picchu. Head to the campsite, only a stone’s throw away and at 3600 m.? Route 3 Cusco Today, take a taxi to Tambomachay, an archaeological site just outside of Cusco. From here you’ll take a 3 to 4 hours walk back to Cusco. On the way, stop to admire some of the archaeological sites, including Puka Pukara, Quenqo and Saksaywaman. Arrive back in Cusco in the early afternoon and enjoy some free time. Maybe visit the Merida, Mendivil and Olave art galleries and workshops before finding a great spot to sit down and enjoy some dinner."
+    },
+    {
+      "dayNumber": 17,
+      "title": "Inca Trail.",
+      "description": "Route 1 Inca Trail Start the day with a climb through the Pacaymayo Valley to Runkuracay Pass at 3980 m. Enjoy views of the snow-capped mountain of Cordillera Vilcabamba before descending for around 2 to 3 hours to the ruins of Sayacmarca. Continue over the trail’s third pass to the ruins of Phuyupatamarca at 3850 m, also known as the 'Town Above the Clouds'. Start the 2-hour descent down the Inca steps to the final night's campsite by the Winay Wayna archaeological site.? Route 2 Quarry Trail Today’s hike will all be downhill. The first stop is the incomplete Kachiqata quarry, where the Incas were intercepted by the Spanish. Explore the cobbled streets of Ollantaytambo when you finish your trek. This is where you’ll meet with the travellers in your group who didn't hike, before taking the short train journey to Aguas Calientes.Spend the night in a hotel before tomorrow’s visit to Machu Picchu. Route 3 Train to Aguas Calientes After a 1.5-hour drive to Ollantaytambo. This is where you’ll meet up with the travellers in your group who hiked the Quarry Trail. You’ll catch a 1.5-hour train through the winding Urubamba Valley to Aguas Calientes. The city is nestled in the cloud forest at the foot of Machu Picchu. Spend the night in a hotel before tomorrow’s visit to Machu Picchu."
+    },
+    {
+      "dayNumber": 18,
+      "title": "Inca Trail.",
+      "description": "Route 1 Inca Trail This is the final and most spectacular leg of the trek to Machu Picchu – one of the famed Wonders of the World. The day starts before dawn, with breakfast at 4 am. Say farewell to the porters as they descend to the train station and begin hiking. Once the final checkpoint opens at 5 am, you’ll begin the final 2.5-hour trek to Intipunku (the Sun Gate). Weather permitting, you’ll enjoy unforgettable views over the ‘Lost City of the Incas’ as you enter Machu Picchu through the Sun Gate.? ? Route 2 and 3 Machu Picchu to Cusco? Take an early bus up to Machu Picchu at 6:00 am. The city was built around 1440 AD as a country retreat for the Incan nobility, but there’s evidence that the land had been a sacred Incan site for much longer. Take a guided tour around the ruins of temples, palaces and living quarters. This is a day to remember!?? ? For all travellers, after taking advantage of the seemingly endless photo opportunities, it's time to catch the bus to Aguas Calientes, where you’ll stop for lunch together. From here, take a scenic train ride to Ollantaytambo, then drive back to Cusco, arriving in the evening.?"
+    },
+    {
+      "dayNumber": 19,
+      "title": "Cusco.",
+      "description": "Enjoy free time to relax, shop and explore more of Cusco's many sights. Maybe rest your weary legs at a cafe on Plaza de Armas or head to the San Pedro Market where you can find vegetables, meats, local cheeses, chocolates, herbal medicines and many local handicrafts. It’s a great place to pick up souvenirs or ingredients for a picnic. The market is also where many locals (and daring travellers) go to eat ‘mystery soups.’ Some may be just chicken – however, the most popular among the locals usually contain frogs or offal. For those looking for something active, why not try mountain biking in the hills that surround Cusco?"
+    },
+    {
+      "dayNumber": 20,
+      "title": "Puno.",
+      "description": "This morning after breakfast, travel through the dramatic scenery of the high altiplano to Puno – located on the shores of serene Lake Titicaca. At an altitude of 3800 m, Lake Titicaca is the world's highest navigable lake. Today includes a bit of a long drive in a local bus, but it’s worth the first glimpse of immense Lake Titicaca, whose?seemingly endless waters stretch into the horizon. Puno is a melting pot of Indigenous Aymara and Quechuan culture and traditional Andean customs, and it wears its traditions on its sleeve. If you're lucky, your trip will coincide with one of the many cultural festivals here. Ask your leader where you can get the best grilled trout tonight – a true local specialty perfect for dinner.? ?"
+    },
+    {
+      "dayNumber": 21,
+      "title": "Llachon community.",
+      "description": "This morning, you’ll take a tour of the immense lake by motorboat, stopping at the floating Uros Islands that look like they could come from a Pixar or Studio Ghibli movie. Built by the Uros people to protect themselves from encroaching Inca forces hundreds of years ago, the islands are constructed from many layers of totora reeds that grow in the shallows of the lake. Get a closer look at contemporary life on the shores of the lake with a homestay in a local community.?Help your host family with their daily activities, try out a few words in the Quechua language and maybe even join a local soccer game to make some friends on the makeshift pitch. Tonight, sit down and swap stories with your hosts, who will cook you a feast full of traditional Peruvian favourites."
+    },
+    {
+      "dayNumber": 22,
+      "title": "Puno.",
+      "description": "This morning after breakfast, board another motorboat and cruise to Taquile Island – known for the intricate, hand-knitted textiles the locals produce.?Here, knitting is strictly a male domain and women do the spinning. It's a great place to pick up some high-quality, locally knitted goods, with the added bonus of supporting the local community. Then, take an hour uphill trek to the main area of the island, where you can shop for handicrafts. After, descend about 500 steps to the boat. Return to Puno, where you might like to gather your group and find a local watering hole to enjoy a drink or two – try a chilcano or indulge in another pisco sour."
+    },
+    {
+      "dayNumber": 23,
+      "title": "La Paz.",
+      "description": "This morning, head to the bustling highland city of La Paz in Bolivia. At the border, say goodbye to your Peruvian leader and welcome your new Bolivian leader. After border formalities at the Peruvian migration office and document checks as you cross the border, you’ll discover the colonial architecture of La Paz. Browse the markets on a walking tour, taking in the?vibrant expressions of culture. Over the last decade, grassroots activism and a shifting political landscape have created space for various Indigenous cultures to live openly. After the walking tour, why not head to the?Witches' Market in search of folkloric remedies, potions and totems? It's a great place to pick up a last-minute souvenir!"
+    },
+    {
+      "dayNumber": 24,
+      "title": "La Paz.",
+      "description": "With no activities planned for today, you’re free to leave after breakfast. If you’d like to stay in Bolivia for longer, just speak to your booking agent."
+    }
+  ],
+  "map": ""
+}

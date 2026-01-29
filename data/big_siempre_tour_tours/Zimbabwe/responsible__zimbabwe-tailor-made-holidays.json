@@ -1,0 +1,65 @@
+{
+  "destination": "Zimbabwe",
+  "mainPhoto": "",
+  "id": "zimbabwe-tailor-made-holidays",
+  "tourName": "Zimbabwe tailor made holidays",
+  "placesVisited": "",
+  "generalInfo": "This classic Zimbabwe itinerary, with a luxurious twist, explores some of the country's finest lodges nestled within its game-rich and scenically stunning National Parks.<br/><br/>Designed to highlight the essence of Zimbabwe, this journey offers incredible wildlife encounters set against some of the most dramatic landscapes on Earth, complemented by safaris led by some of Africa's best guides. Starting in Victoria Falls, you’ll fly to the open plains of Hwange National Park, renowned as one of the best places in the world to see elephants, along with rarer species like roan and sable. From Hwange, your adventure continues by air to the expansive and awe-inspiring Lake Kariba, where you’ll stay at the breathtaking Bumi Hills Safari Lodge. The final leg of your journey takes you to the iconic Mana Pools National Park, famous for its diverse wildlife and stunning views of the Zambezi River, the lifeblood of the region.",
+  "durationDays": "11",
+  "price": "7376",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Zimbabwe awaits Fly to Victoria Falls, via Johannesburg."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Hwange Arriving in Victoria Falls around lunchtime, you’ll be transferred by light aircraft to Hwange National Park, where you’ll enjoy a game drive en route to your lodge, Somalisa Camp. You’ll arrive in time for afternoon tea and have a moment to settle in before embarking on an afternoon game drive—an excellent way to get acquainted with the park and its stunning wildlife."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Explore Hwange Your time in Hwange promises to be truly unforgettable, with a range of activities available from Somalisa Camp, including game drives, guided walks, birding safaris, and visits to local villages. Throughout your stay, you’ll have the opportunity to spot a variety of wildlife, including lions, elephants, buffalo, cheetahs, and wild dogs. You may also encounter the majestic roan and sable antelope, two of Hwange’s most iconic and sought-after sights."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "To Lake Kariba After a final morning safari and brunch in Hwange, you’ll be transferred back to the airstrip for your flight to Lake Kariba. The approach is truly spectacular, with the vast expanse of the lake gradually coming into view as you get closer. Arriving at Bumi Hills Safari Lodge in the late afternoon is ideal, allowing you to unwind on the lodge’s deck while watching the sun set over the shimmering waters of the lake."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Kariba With a wealth of activities available, you’ll have no shortage of things to do during your stay at Bumi Hills. Lake-based activities are a highlight of the daily program, with options including boat safaris, fishing trips, and sunset cruises. Additionally, game drives in the nearby Matusadona National Park provide another fantastic way to explore the area and make the most of your time at the lodge."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Along the river The flight schedule allows you to enjoy most of the day at Bumi Hills, where you can savor lunch on the deck before being transferred to the airstrip for a breathtaking flight along the Zambezi escarpment to Mana Pools National Park. Upon arrival, you'll be driven to the beautifully appointed Zambezi Expeditions Camp, a serene location overlooking the Zambezi River—an ideal setting to conclude your Zimbabwe adventure."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Big game and beautiful backdrops Mornings at Zambezi Expeditions begin with a delicious breakfast by the campfire before setting out to explore with your guide. As one of Africa’s top walking safari destinations, be sure to experience at least one walk. Game drives and canoe safaris along the mighty Zambezi are also available. For those interested, you can try your hand at fishing for Tiger Fish from the riverbanks – a perfect way to spend a relaxing afternoon. Return to the boat for evening sundowner drinks and dinner."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Homeward Bound This morning, you'll depart from Mana Pools and be flown back to Harare for your onward flights."
+    }
+  ],
+  "map": ""
+}

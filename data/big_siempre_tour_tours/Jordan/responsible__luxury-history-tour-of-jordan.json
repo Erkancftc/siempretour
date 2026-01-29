@@ -1,0 +1,80 @@
+{
+  "destination": "Jordan",
+  "mainPhoto": "",
+  "id": "luxury-history-tour-of-jordan",
+  "tourName": "Luxury history tour of Jordan",
+  "placesVisited": "",
+  "generalInfo": "A chance to experience the 'real' history of Jordan... Follow in the footsteps of one of the most iconic travel expeditions. It’s been over 100 years since the real-life T.E. ‘Lawrence of Arabia’ was sent to Jordan, playing an instrumental part in the Great Arab Revolt during World War I. <br/>Today, much of the beguiling landscapes remain untouched, so you can follow every daring raid, every battle and lose yourself in the “God-like” landscapes that captivated and inspired Lawrence’s famed writings.<br/><br/>Female guide available upon request.",
+  "durationDays": "12",
+  "price": "4356",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Land in Amman where you will be met and taken to your hotel in the city to overnight."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Today, visit the Amman Railway Museum, then on to Azraq Castle and then to Umm al-Jimaal Ancient Town. Tale lunch at a local restaurant before returning to your hotel in Amman for the evening."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Visits to Al-Qatrana Ottoman Fort and Hijaz Railway station, then to the ste of the Battle of Tafila. Enjoy lunch at local restaurant before heading south to Petra. Stop along the way to see Shobak Crusader Castle. Dinner & Overnight at your Petra hotel."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "A full day to visit Petra. You'll have a local guide for 2hrs to share knowlege of the Ancient City and Necropolis. Have lunch at a local restaurant and the evening free to explore Petra town."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Today, visit the site of the Battle of Abu al-Lissan. Continue to Kithara Fort. Lunch will be at a local restaurant. Then head to the coast to Aqaba, stopping at Aqaba Castle before checking in to your hotel. for dinner and an evening free."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Depart Aqaba and start your expedition into Wadi Rum in the footsteps on Lawrence of Arabia with lunch inlcuded. Take a 2hr Jeep Ride, visiting Mudawwara Redoubts. Arrive at your desert camp for stargazing and dinner."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Take off-road vehicles to explore three Ottoman counterinsurgency sites, a fortified station, a hilltop redoubt, and a regional command-and-control centre. Lunch is included and back to your camp to refresh and enjoy dinner under the starts."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "You will be taken to see the Seven Pillars of Wisdom. Visit Tooth Hill Camp then Tell Shahm Fort and Siddons Ridge. Lunch is included today and dinner back at the camp."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Leave the desert today for the Dead Dea. Stop at Kerak Crusader Castle, Machaerus Fortified Palace and Zealot Stronghold with lunch at a local restaurant. Arrive at you Dead Sea spa hotel for dinner."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Time to relax with two free days at the Dead Sea with dinner included."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Check out and meet your driver for your transfer to Amman Airport for your departure flight home."
+    }
+  ],
+  "map": ""
+}

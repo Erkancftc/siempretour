@@ -1,0 +1,95 @@
+{
+  "destination": "Kyrgyzstan",
+  "mainPhoto": "",
+  "id": "kyrgyzstan-tour-mountains-lakes-and-nomads",
+  "tourName": "Kyrgyzstan tour, mountains, lakes and nomads",
+  "placesVisited": "",
+  "generalInfo": "Kyrgyzstan has to be one of the most striking countries in Asia, with a landscape of towering snow capped peaks, azure blue lakes and alpine forests, populated by iconic wildlife such as bear and snow leopard. Elsewhere nomads move between summer and winter pastures with their vast herds, following a way of life that has remained largely unchanged for generations – Kyrgyzstan is one of the last bastions of nomadic culture in an increasingly modernised world. This two week Kyrgyzstan holiday encompasses the very best the country has to offer, from its scenery to its traditional cultures and its ancient Silk Road monuments. Staring in Bishkek we travel through the Suusamyr Valley to the Toktogul Reservoir and the Sary Chelek Reserve, where we mingle with local villagers and hike in the surrounding mountains, hoping to spot bears along the way. Kyrgyzstan has excellent community based tourism programmes and we stay as guests of local families in homestay accommodation – one of the best ways to gain an understanding of traditional culture and customs.<br/><br/>Moving on we explore the monuments of Uzgen and Osh – an ancient city dating back more than three thousand years with a wealth of history to explore. From here, our journey takes us across the centre of Kyrgyzstan, crossing the Kaldarma Pass and with incredible views along the way as we travel to the lake of Song Kul. This is a great place to meet local nomads and learn about their lives, and we have a full day to explore the area. South from Song Kul lies the 15th century caravanserai of Tash Rabat, once an important stop for traders on the old Silk Road, and we stop here before moving on to Issyk Kul. We travel around the southern and northern shores of this great lake, stopping to explore picturesque canyons, meet traditional eagle hunters and see the ancient petroglyphs at Cholpon Ata – this is perhaps the jewel in Kyrgyzstan’s crown and we have plenty of time to explore the region. Finally, before heading back to Bishkek we visit the Burana Tower, all that remains of a once powerful civilisation.<br/><br/>Kyrgyzstan is a truly enchanting country and its breathtaking landscapes and traditional nomadic cultures are an intoxicating combination.",
+  "durationDays": "16",
+  "price": "2899",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Bishkek - Arrive in Bishkek and transfer to the hotel. After some time to freshen up, begin exploring the city visiting some of its main sights including Ala Too Square and the monument to Lenin. Overnight B Hotel or similar. (D)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Chichkan Canyon – Toktogul - Head out of the city on a picturesque drive over the Tuu Ashuu Pass and through the Suusamyr Valley, with a picnic lunch en route. Our journey ends at the town of Toktogul, where we stay on the shores of the lake and have opportunities to explore the surrounding area. Overnight local guesthouse. (BLD)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Uzgen – Osh - Drive first to Uzgen, a small town which was once one of the capitals of the Karakhanid state and the centre of a vast empire in Central Asia from the 10th to 12th centuries. Visit its interesting mausoleums and minarets before continuing to Osh. Overnight Sunrise Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Osh - Kazarman- We spend the morning exploring Osh with visits to Solomon’s Throne, one of the main shrines of the Islamic world in Central Asia, and follow the trail of pilgrims to the top of the hill. We also explore the lively bazaar, where traders from around the region meet. Later we drive across the Kaldarma Pass, which separates the northern and southern regions of Kyrgyzstan, with stunning – and different – views from both sides. We have plenty of opportunities to stop for photos before arriving in the village of Kazarman, where we spend the night. Overnight family guesthouse. (BD)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Song Kul - Drive to Song Kul lake, one of the most picturesque parts of Kyrgyzstan and home to seasonal families of nomads. On the way we have plenty of opportunities to stop and take in the magnificent landscapes. Overnight simple yurt accommodation (multi-share). (BLD)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Song Kul - A full day to explore this beautiful area by foot and vehicle. We take excursions around the lake shore and meet local nomads with their herds of livestock, learning about life in this remote corner of Asia. Overnight simple yurt accommodation (multi-share). (BLD)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Naryn - Tash Rabat - Drive to the town of Naryn where we will visit the Blue Mosque and Regional Museum. Continue to Tash Rabat, a 15th century caravanserai that was once an important stop for traders on the Silk Road. Overnight yurt camp. (BD)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Bokonbaevo - Drive to Bokonbaevo, on the southern shores of Lake Issyk Kul and set amidst glorious scenery. This afternoon we meet a traditional Kazakh eagle hunter and learn about this ancient art from one of the few remaining practitioners. Overnight guesthouse. (BLD)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Djety Oguz - Karakol - Continue driving along the shores of Issyk Kul to its eastern edge. En route we stop at the Skazka Canyon, which we explore on foot. We also stop at Djety Oguz with its distinctive red sandstone cliffs. Upon arrival into Karakol, we visit its Dungan Mosque and Russian Orthodox church, built from wood. Overnight Matsunoki Hotel or similar. (BL)"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Jyrgalan – Karakol - We make our way to the Jyrgalan valley with a full day walk to reach Kok Bel waterfall. The waterfall feeds into the Kok Bel river which is a vital water source for various herds in and around the Jyrgalan valley. Return to Karakol in the evening. Overnight Matsunoki Hotel or similar. (BL)"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Tepke – Karkara Valley - Today we reach Karkara, a beautiful area at the border with Kazakhstan. We spend time exploring the area walking the nearby hills and canyons. We stop at a local horse farm in Tepke village to learn about the family who built the farm. Overnight yurt camp with private facilities. (BLD)"
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Cholpon Ata - In the morning we start making our way to Cholpon Ata town on Lake Issyk Kul. We visit the rock carvings which date back to around 1500BC with images of hunters and their prey. Our accommodation tonight is on the shores of the lake. Overnight Karven Resort or similar. (B)"
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Bishkek - Return to Bishkek, stopping at the Burana Tower en route. This is all that remains of the capital of the Karakhanid dynasty, and dates back to the 10th century. We stop en route for lunch with a local family. Overnight B Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Bishkek - Transfer to the airport for departure. (B)"
+    }
+  ],
+  "map": ""
+}

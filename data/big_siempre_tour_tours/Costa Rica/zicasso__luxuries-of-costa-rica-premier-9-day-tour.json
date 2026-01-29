@@ -1,0 +1,70 @@
+{
+  "destination": "Costa Rica",
+  "mainPhoto": "",
+  "id": "luxuries-of-costa-rica-premier-9-day-tour",
+  "tourName": "Luxuries of Costa Rica: Premier 9-Day Tour",
+  "placesVisited": "San Jose, Tortuguero National Park, Tenorio Volcano National Park, Monteverde, Manuel Antonio National Park",
+  "generalInfo": "Handcrafted with unique experiences and luxurious lodges, this 9-day tour celebrates much of the best that the country has to offer. Epic landscapes and a beautiful sense of tranquility fuse to make Costa Rica an idyllic destination during any month of the year. Explore remote cloud forests, soar in a helicopter above volcanos, witness sea turtle hatchlings, and experience pure solitude on two different coastlines. From cultural impressions to pure nature, this is the ultimate Costa Rica tour.",
+  "durationDays": "9",
+  "price": "7,400",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "San Jose – Intimate Cultural Impressions",
+      "description": "Costa Rica is a tropical destination that has something for everyone. After being greeted at the airport and transferred to your luxurious accommodation in the heart of the city, you will soon be immersed in San Jose’s delicate charms. As architecture and atmosphere set the scene, you will be immersed in San Jose’s culture. A local guide will lead you on a walking tour of the city past the key monuments and down the main streets before concluding in a place of storytellers and entertainers. While sipping on drinks, you can listen to tales of the country’s past before an evening of dance and dining at a small restaurant."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Tortuguero National Park – Nesting Sea Turtles",
+      "description": "After a short domestic flight, you will land next to Caribbean waters and have some free time to rest on the beach. Your lodge will be perched on the water, and your local guide can lead you to remote beaches that are only accessible by boat. Sea turtles nest on the golden sand for eight months of the year, and four different species come to lay their eggs on the different beaches. It is only after dark that you can see the hatchlings on a private and intimate tour led by a local conservationist. You should note that you can customize the day further with snorkeling and scuba diving excursions."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Tortuguero National Park – Beautiful Wildlife Cruise",
+      "description": "While marine life and tropical scenes dominate the coast, most of Tortuguero’s wildlife is inland. Deep inside the forest, you can find snakes, lizards, and sloths that hang down from the branches. Tortuguero’s monkeys are heard more than they are seen, and their boisterous calls echo around a tightly packed network of waterways and dense bush. After your boat cruise, you can indulge in a nature walk. You will not see quite as much when walking because wildlife can hear you coming. The afternoon will be at your leisure, so you can return to the beaches or take another rainforest walk before a second wildlife cruise in the late afternoon."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Tenorio Volcano National Park – An Iconic Volcano",
+      "description": "Today, you will touch down in La Fortuna before being whisked off on a full-day tour of Arenal, which is Costa Rica’s most famous volcano. Walking trails will reveal hidden waterfalls and gushing springs, and heading deeper into the forest will reveal the volcano’s cone as it peers down imperiously. To customize this experience further, you can also indulge in some mountain biking in the park. Traveling by helicopter will allow you to peer into the crater and to admire how green landscapes extend along the slopes. Rather than staying in the touristic La Fortuna, the helicopter will transfer you to Tenorio Volcano and a national park that has only just opened to visitors."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Tenorio Volcano National Park – An Eco-Adventure",
+      "description": "While Arenal is Costa Rica’s most famous volcano and destination, Tenorio remains off the radar because it used to be inaccessible. That has changed with the construction of a new road, but authorities continue to limit the number of daily visitors, so the authenticity of the wilderness is preserved. Today will be fully customizable to your interests, and the highlight, regardless of what you do, will be a feeling of exclusivity and tranquility in this incredible national park. There is a zipline that you can try, plus the chance to explore on a nocturnal walk, which is a time when the wildlife is usually more active."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Monteverde – Evening Nature Walk",
+      "description": "Today will be all about the journey, and you will travel by river, road, and lake to Monteverde. First, in a white-water raft, you will negotiate rapids and glide down the Rio Celeste, finding a place of absolute solitude until you hear monkeys that call from the trees. As cliffs towers above, you may think the Celeste never ends, but it casually opens back to civilization, which is where you will continue by road. After crossing a lake, you will ascend into the clouds in Monteverde. Above the clouds, you will find a delightful lodge with suites that are practically in the forest canopy. To experience more intimate encounters with the local wildlife, you will venture out on a nighttime walk, traveling along trails in search of Costa Rica’s nocturnal creatures."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Monteverde – Hiking and Ziplining",
+      "description": "By staying in Monteverde, you can be in Santa Elena Cloud Forest not long after your first flight. You will be among the first in the reserve, so you can zip through the canopy and ascend above the trees before the day-trippers arrive from La Fortuna. After zipping through the canopy and wandering across the hanging bridges, you will be returned to the lodge by mid-morning. Midday is too hot to be exploring anyway, so you can take your time over lunch before going back to the forest in the mid-afternoon. A local guide will lead you to wildlife research stations that are far from the main trails to continue your adoration of Costa Rica’s animals."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Manuel Antonio National Park – Scenic Helicopter Tour",
+      "description": "After a few days of intimate encounters, from howler monkeys to quetzals, today’s exclusive experience will be all about scale. Soaring above Costa Rica on a private helicopter tour, you will discover a spectacular landscape of volcanoes, forests, and beaches. The route will lead you around the country’s interior before flying toward the Pacific Coast for a lunchtime picnic at a remote beach. The afternoon’s flight will be entirely coastal. You will experience a fusion of blue water and green landscapes before touching down near Manuel Antonio National Park."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Manuel Antonio National Park – Departure",
+      "description": "Tiny Manuel Antonio National Park is full of biodiversity, including different monkey and sloth species. You can enjoy the park on the self-guided walking trails before having some time to relax on the beach. In the late afternoon, you will be transferred to the airport for your outbound flight, and a representative will assist you in San Jose for your change of aircraft."
+    }
+  ],
+  "map": ""
+}

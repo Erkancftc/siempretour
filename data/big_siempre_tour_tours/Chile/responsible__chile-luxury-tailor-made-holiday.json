@@ -1,0 +1,65 @@
+{
+  "destination": "Chile",
+  "mainPhoto": "",
+  "id": "chile-luxury-tailor-made-holiday",
+  "tourName": "Chile luxury tailor made holiday",
+  "placesVisited": "",
+  "generalInfo": "Take in Chile's dramatic landscapes and discover it's fascinating cultures on this leisurely paced yet epic private three-week adventure.<br/><br/>Starting in the vibrant cities of Santiago and Valparaiso, travel over 1500km by road with your private driver as far as fascinating Chiloe Island, via the charming winelands and lush Lake District. Following a fully immersive extended stay amongst the mind-blowing landscapes of the Atacama Desert, finish the trip with a spot of relaxation at our favourite boutique vineyard.<br/><br/>All of our trips can be tailormade from scratch, so take this as an example of what is possible and \"Enquire Now\" so we can create your very own dream adventure.",
+  "durationDays": "22",
+  "price": "6000",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "SANTIAGO: Welcome to Chile! Your time in the capital includes a gastronomic tour of the city's market district, and an exploration of it's emblematic Barrios (neighbourhoods) to enjoy the street art and vibrant modern culture that keeps Santiago buzzing."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "VINEYARDS & VALPARAISO - Depart Santiago for a visit to a renowned winery in the charming Casablanca Valley, before continuing to the vibrant coastal city of Valparaiso. Here you will be taken on a fun-filled \"live like a local\" city tour by foot and public transport, to see the city from the eyes of it's residents."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "COLCHAGUA VALLEY - After being driven down to Santa Cruz in the wine-growing heartland of the country, the following day you will enjoy a private full day wine-tasting tour at two leading vineyards (lunch included of course!)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "PUCON - Starting with a long drive south into the Lake District (8 hours, or you may choose to fly), the next day we are invited to spend time at a working indigenous farm to learn about the Mapuche culture, try their fresh local cuisine, and hike or try horseback riding. We also have time to marvel at the famous snow-capped volcano, and relax amongst the local scenery."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "HUILO HUILO - This beautiful nature reserve is one of Chile's hidden secrets, and we'll spend two wonderful days here. Hiking paths lead from the hotel through temperate rainforest to the Huilo Huilo waterfalls, whilst we can also enjoy horse-riding, canopy tours, kayaking, and dawn or sunset jeep rides to the Choshuenco volcano."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "PUERTO VARAS & CHILOE - Continuing our journey south, we reach Puerto Varas on the shores of Lake Llanquihue, from where we will visit the many waterfalls, forests, rivers, and volcanoes of the area. Whilst here we will also explore fascinating Chiloe Island on a full day cultural tour, including a chance to enjoy a traditional \"curanto\" meal."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "ATACAMA - One of Latin America's most stunning landscapes, we think the Atacama deserves anything from 5-10 nights, such is the variety of breathtaking sights and experiences on offer. From the steaming El Tatio Geysers at dawn to sunsets over Moon Valley, via blinding salt flats, coloured lagoons, hot springs, even flamingos and llama farms. Hike, bike, or take a hot air balloon. This is a very special place indeed."
+    },
+    {
+      "dayNumber": 21,
+      "title": "",
+      "description": "CASABLANCA - Return to Santiago and either fly home, or extend your time with a relaxing couple of days at a charming vineyard less than 2 hours drive away from the airport... the perfect way to end your Chilean odyssey."
+    }
+  ],
+  "map": ""
+}

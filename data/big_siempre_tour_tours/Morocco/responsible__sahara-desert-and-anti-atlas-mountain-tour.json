@@ -1,0 +1,65 @@
+{
+  "destination": "Morocco",
+  "mainPhoto": "",
+  "id": "sahara-desert-and-anti-atlas-mountain-tour",
+  "tourName": "Sahara Desert and Anti Atlas mountain tour",
+  "placesVisited": "",
+  "generalInfo": "This wonderful and unique tour will allow you to discover Anti-Atlas and Sahara Desert of Morocco including, Kasbahs, Draa Valley, Erg Chegag Dunes, Agadir and Essaouira.",
+  "durationDays": "8",
+  "price": "1200",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Our professional driver will welcome you to Morocco and pick you up from the airport of Marrakech. He will wait for you in the exit of the airport with a sign with your name. He will transfer you to your Hotel / Riad in Marrakech. Overnight in the Hotel / Riad."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Our driver will pick you up after breakfast in your Riad / Hotel in Marrakech and start the trip. You will have various stops in the high Atlas Mountains to see Berber villages and amazing landscapes. Ait Ben Hadou village is well known for its remarkable Kasbah, used in many world prominent films, like Game of Thrones and Lawrence of Arabia. After the visit of the Kasbah Ait Ben Hadou you will continue to Ouarzazate where you will spend the night. Overnight in the Hotel / Riad in Ouarzazate."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "In the morning after breakfast you'll travel to the Sahara Desert and Erg Chegaga. Today you will pass by the Anti-Atlas Mountains and the Draa Valley and its thousands of palm trees. From Tinfou you will start to see the dunes of Sahara Tiguida. Once you arrive at Mhamid El Ghezlan you will climb into your JEEP 4X4, waiting to take you on an amazing adventure along the Big Dunes of Sahara Erg Chegaga Dunes. Overnight in a Berber Camp in Erg Lihoudi under the stars. You will spend this astonishing night a in Berber Camp with a traditional Moroccan dinner while enjoying Berber Gnawa Music."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Wake up early in the morning to climb sand dunes for an experience of a lifetime in the magical desert atmosphere to watch the sunrise over the Sahara desert. Then back to the camp to have a Berber Breakfast. Afterwards you will continue on your journey to Taroudant where you will spend the night. If you arrive early in Taroudant there is an option to have local guide and visit the Medina of Taroudant. On the way you will enjoy local lunch before you arrive in Taroudant. Overnight in the Hotel / Riad in Taroudant."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "There is only 70 KM between Taroudant and Agadir which allows you to have a wonderful day with less hours in the car. Once you arrive Agadir you will visit Agadir Ouflla, and optionally, the Market Souk Al Hadd. Then head to the beach to relax and have free time by the seaside. In and around Agadir it’s time to take in the beautiful vast ocean. A popular sea resort, especially for windsurfers, the town gets 340 days of sunshine a year! Explore the pretty village and markets, and relax along the southern Atlantic coastline of Morocco."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Another day by the seaside and ocean. From Agadir to Essaouira you will take the coastal route. You will pass by many Berber villages, passing banana plantations en route. Once you get Essaouira you can enjoy vast beaches, delicious Moroccan seafood and water sports. Essaouira is one of Morocco’s best beach destinations."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Have a delicious breakfast, and then depart from Essaouira around 9AM to head back to Marrakech. There is an oppotunity to stop at an argan forest to see the tree-climbing goats eating the argan trees and visit the Women's Cooperative of Argan Oil, if you fancy. Once you get to Marrakech you'll have enough time to visit the authentic city of Marrakech and visit historical sites like the Koutoubia Mosque, Saadien Tombs, Bahia Palace, the Main Square: Jemaa el-Fnaa, Majorelle Gardens, and more!"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Departure to Marrakech airport following your flight departure time."
+    }
+  ],
+  "map": ""
+}

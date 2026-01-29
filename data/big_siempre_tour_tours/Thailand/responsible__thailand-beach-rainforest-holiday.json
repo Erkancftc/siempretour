@@ -1,0 +1,75 @@
+{
+  "destination": "Thailand",
+  "mainPhoto": "",
+  "id": "thailand-beach-rainforest-holiday",
+  "tourName": "Thailand beach & rainforest holiday",
+  "placesVisited": "Bangkok, Phuket, Khao Sok National Park, Elephant Hills Camp, Cheow Larn Lake, Khao Lak, Optional snorkelling trips to the Similan and Surin islands",
+  "generalInfo": "This itinerary uncovers some of the more unusual and unseen parts of Thailand, getting you away from the established tourist trail. The trip makes the most of Thailand's diversity with time in the buzzing city of Bangkok, a national park and on one of the country's quieter beaches at a charming boutique hotel.<br/><br/>Exploring with experienced guides, you can discover some of Thailand's hidden spots with a city safari through Bangkok and trekking through the dramatic jungle and hills of Khao Sok National Park. Finish your trip by relaxing on the unspoilt beaches of Khao Lak where you can snorkel at the nearby Similan Islands, enjoy fresh and delicious seafood, or simply relax by the sea.",
+  "durationDays": "11",
+  "price": "3125",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly from your home airport to Bangkok. Overnight on the aircraft."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Meet your guide at Bangkok Airport before being driven by private transfer to your boutique hotel which provides a peaceful oasis within the city."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Have a private guided tour of Bangkok today visiting the capital's key attractions: the Grand Palace, Wat Po, and Jim Thompson's house. Get used to Bangkok's different forms of public transport - the Skytrain, public taxi boa and of course the famous Thai tuk tuk."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "An early start today for your private transfer to the airport to catch your internal flight to Phuket, a journey of around one and a half hours. Upon arrival at Phuket Airport you'll be met by staff from Elephant Hills to take you and other guests to the Khao Sok National Park. The Elephant Hills Camp is a fantastic rainforest and elephants experience. The welfare of the elephants is at the heart of this camp and it has received numerous awards for this. This is one of the few places where you can see elephants without chains, enjoying their natural habitat. Upon arrival at the camp, meet the elephants and learn more about these magnificent creatures. After a traditional Thai lunch, take a jungle canoe paddling past stunning limestone karsts with an experienced guide in a small group."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Today after you've had breakfast you will transfer to a local mangrove forest to cruise through the water on a traditional Burmese junk boat. You will also have the chance to canoe through the waterways. After lunch return to the main camp where you may enjoy a cooking demonstration or dance performance."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "After breakfast you will head inland by road and then by boat for your scenic journey to the relatively untouched and stunning Cheow Larn Lake. This is a great place to be amongst nature with more than 100 islands and limestone mountains rising up from the shore. Bring your swimming costume if you would like to swim in the lake's warm waters. Lunch will be served at a floating raft house on the lake where you can relax and take in the stunning scenery before returning to your camp in the afternoon."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "This morning you will have the option to join your guide and fellow guests on a walk through the jungle listening to the chorus of the many primates, reptiles and birds that inhabit the national park. After lunch, take a small group transfer to your beach accommodation where you can spend the remainder of your holiday relaxing by the sea."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Today is free to relax and enjoy your surroundings. In addition to the beach there is plenty to do on Khao Lak and your time can be as busy or as relaxed as you like. The nearby Similan Islands are one of the world's top dive sites and there are great snorkelling trips out to the Surin Islands which can be arranged from your hotel."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Day at leisure. You may like to consider a day trip to Pung Chang cave with its fascinating rock formations which is accessed via a bamboo raft or head out on a long-tail boat to visit the famous James Bond Island! These trips can be booked locally, or your specialist can pre-arrange a trip for you."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Your driver is on hand to collect you from the hotel for your private one and a half hour transfer to Phuket Airport in time for your onward flights home."
+    }
+  ],
+  "map": ""
+}

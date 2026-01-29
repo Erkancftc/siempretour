@@ -1,0 +1,90 @@
+{
+  "destination": "Tibet",
+  "mainPhoto": "",
+  "id": "tibet-cultural-tours",
+  "tourName": "Tibet cultural tours",
+  "placesVisited": "Kathmandu, Lhasa, Potala Palace, Bhakhor Bazaar, Ganden Monastery, Gyantse, Flight over Himalayas, Xigatse & Shalu Monastery, Xigar - Shakya Monastery, Rongbuk - Everest base camp, Milrepa Cave",
+  "generalInfo": "This fascinating two week cultural tour of Tibet takes travellers to many of the region’s most important monasteries that stand at high altitude overlooked by some of the tallest mountain peaks on the planet, including the indomitable form of Mount Everest.<br/><br/>A visit to Everest Base Camp by road provides further insight into the legendary tales that swirl around the mountain like Himalayan clouds with initial acclimatisation in Lhasa allowing travellers to get used to the altitude above 3650m.<br/><br/>Chances to meet pilgrims and monks making their way over mountain trails en-route to Buddhist monasteries and the seasonal palaces of the Dalai Lama conjure visions of life in Tibet untouched by the modern world with your final destination, Kathmandu, further adding to cultural enlightenment.<br/><br/>This two week small group tour is a must for anyone looking to become immersed within the mountains, culture and religion of Tibet on an easy going experience that’s also great value for money.<br/>",
+  "durationDays": "14",
+  "price": "1775",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival at Kathmandu airport and transfer to hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Explore Kathmandu."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Early morning fly from Kathmandu to Lhasa, Upon arrival Gongar airport, transfer to Lxa city 3650m. Check into hotel."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Explore historical Lhasa city including Potala Palace and Norbulinka Palace- former residence of the Dalai Lama, Drepung Monastery, Jokhang Temple, Bhakhor Bazaar."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Day Excursion to Ganden Monastery."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Drive to Gyantse 3990m. Visit Kubum Stupa and Chode Monastery."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Drive to Xigatse 3860m. Visit Shalu Monastery and Tashilhunpo Monastery- the seat of Panchen Lama."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Drive to Xigar 4350m. Visit Shakya Monastery."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Drive to Rongbuk. Views for Mt Everest. Overnight at Rombuk Monastry."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Drive to Zhangmu. En route explore Milrepa Cave."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Drive to Kathmandu. Check into hotel."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Free at Kathmandu."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Departure to airport."
+    }
+  ],
+  "map": ""
+}

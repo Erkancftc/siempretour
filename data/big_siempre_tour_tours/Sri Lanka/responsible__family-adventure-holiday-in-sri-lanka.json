@@ -1,0 +1,50 @@
+{
+  "destination": "Sri Lanka",
+  "mainPhoto": "",
+  "id": "family-adventure-holiday-in-sri-lanka",
+  "tourName": "Family adventure holiday in Sri Lanka",
+  "placesVisited": "",
+  "generalInfo": "It is an action-packed itinerary, perfect for families with a sense of adventure! An exciting mix of off-the-beaten-track with more than a touch of luxury! This trip is ideal for those who enjoy getting out and exploring that bit further and would like to experience something of the ‘real’ Sri Lanka (with some lovely places to stay).<br/><br/>Highlights Include: <br/><br/>Spot leopards, elephants and sloth bears on peaceful safaris in serene (and less visited) Wilpattu National Park. <br/><br/>Embark on a thrilling hike through the lush forests and waterfalls in the Knuckles Mountains. <br/><br/>Experience rural Sri Lanka with a guided farm tour and meet local farming families in the heart of Sri Lanka<br/><br/>Take a gloriously scenic train journey through the hills of Sri Lanka, passing breathtaking views. <br/><br/>Catch a wave in Sri Lanka’s Ahangama and Weligama surf hotspots, perfect for all skill levels.",
+  "durationDays": "16",
+  "price": "3800",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Depart the UK"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Notarys House: Upon arrival at Colombo Airport, meet your private chauffeur-guide and transfer to your gorgeous boutique hotel for a two-night stay. Ease into your holiday with a splash in the pool, a stroll through the beautiful grounds, or unwind and savour the warm hospitality."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Amba & The Hills: Head south to Badulla station to board the train for an unforgettable ride to Ella through Sri Lanka’s stunning hill country. Upon arrival, your driver will take you to AMBA Tea Estate, a unique social enterprise in the hills. Stay in a family suite and enjoy various activities, including a tea-making workshop, guided treks to hidden waterfalls, and Sri Lankan cooking classes using fresh, organic ingredients grown on-site. During your stay, explore a scenic section of the Pekoe Trail with a knowledgeable guide. You’ll pass the iconic Nine Arch Bridge, surrounded by lush green tea plantations, and meet local tea pluckers and farmers who will share stories and insights into their craft."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Tekanda Lodge & The Coast: On your journey from Ella to Tekanda Lodge, stop at the Elephant Transit Camp in Uda Walawe. Here, young elephants are cared for and rehabilitated before returning to the wild. Continue to Tekanda Lodge. You have 4 days to swim in the pool, join a yoga class, or take a short tuk-tuk ride to the vibrant beachside communities of Ahangama and Weligama. These coastal towns are perfect for embracing Sri Lanka’s surf culture, with surf schools catering to all skill levels. For non-surfers, explore local cafes, boutiques, or seasonal whale-watching excursions from Mirissa or Weligama. Dive into Sri Lankan history with a guided tour of Galle Fort, or join a hands-on cooking class for a flavorful memory to take home."
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Fly home: Say goodbye to Sri Lanka as you return to the UK"
+    }
+  ],
+  "map": ""
+}

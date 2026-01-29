@@ -1,0 +1,75 @@
+{
+  "destination": "Jordan",
+  "mainPhoto": "",
+  "id": "jordan-small-group-escorted-tour",
+  "tourName": "Jordan small group escorted tour",
+  "placesVisited": "",
+  "generalInfo": "From Amman's citadel enjoy sweeping views across the capital of Jordan, -  a cosmopolitan city with deep roots in biblical history. See the Dead Sea Scrolls in the Jordan Museum, stroll past the Roman theatre , explore the Greco-Roman ruins of Jerash and get an all-natural skin treatment at the Dead Sea.<br/>Follow the King’s Highway south, travelling along one of the oldest roads in the world to visit Mount Nebo and Madaba then the  ancient red-rose city of Petra.  Spend a night in the Wahiba Desert, under the stars.<br/>End with  2 nights in the Feynam Reserve -spectacular mountains and Wadis along the face of the Great Rift Valley with a a melting pot of species.",
+  "durationDays": "10",
+  "price": "2175",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival Amman airport, where you will be met prior to immigration for assistance with a free visa then transfer to your hotel- Dinner box & Overnight at Amman Hotel"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "City tour of Amman - Dinner at Local Restaurant . Overnight at Amman Hotel"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Amman - Dead Sea -swim in the Dead Sea’s salty waters and one of the lowest points on earth- Pella - Umm Qais – Amman – Dinner & Overnight at Amman Hotel"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Amman - Jerash - Ajloun – Amman – Dinner & Overnight at Amman hotel"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Amman - Madaba -mosaic city . Ascend Mount Nebo for panoramic views over Judah and Jericho.- Kerak – Petra – Dinner & Overnight at Petra Hotel"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Full day tour of the spectacular sandstone city of Petra - built in the 3rd century BC by the Nabataeans, who carved palaces, temples, tombs, Dinner & Overnight at Petra Hotel"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Petra - Wadi Rum (Jeep Tour for 02 Hours) –experience the extraordinary desert scenery of Wadi Rum, a rugged moonscape of huge sandstone mountains Dinner & Overnight at Camp"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Wadi Rum – Transfer to Feynan – Dinner & Overnight at Eco-lodge"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Free day in Feynan – Dinner & Overnight at Eco-lodge ( many hikes on offer - ask for details and cost)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Feynan – Transfer to Amman Airport for departure"
+    }
+  ],
+  "map": ""
+}

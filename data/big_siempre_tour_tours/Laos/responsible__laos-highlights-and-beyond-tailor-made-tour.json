@@ -1,0 +1,60 @@
+{
+  "destination": "Laos",
+  "mainPhoto": "",
+  "id": "laos-highlights-and-beyond-tailor-made-tour",
+  "tourName": "Laos highlights and beyond tailor made tour",
+  "placesVisited": "",
+  "generalInfo": "Ideal for those who want to get beyond the well-known sites and under the surface of the country without spending too much time on the road. Travel is mainly by boat and train, taking in the remarkable scenery as you go.<br/><br/>Begin in Luang Prabang, exploring the mysterious sleepy city with your guide. From here there is an incredible boat journey up to the much less visited north of the country. From there you will travel by road to Vientiane, with its French colonial influences before going on down to Pakse and the beautiful 4000 Islands region.",
+  "durationDays": "15",
+  "price": "3500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Depart the UK for your flight to Luang Prabang."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "During your stay in Luang Prabang, you'll spend time with your guide getting a feel for the magical town itself; the effect of Luang Prabang's ornate Buddhist temples and Indochinese architecture set against a jungle backdrop is spellbinding. A highlight will no doubt be the early morning visit to Kuang Sii Waterfalls where a special permit will allow you to enjoy a gourmet breakfast before the crowds arrive. There will be free time to absorb the scenery, explore the sleepy backstreets of this UNESCO town, take in the picturesque night markets and perhaps join in with the popular local street sport petanque!"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Begin your boat adventure up the Nam Ou, enjoying the lush green forests and breathtaking scenery. Along the way, you'll stop to visit villages and the mysterious caves of Pak Ou. Reach your destination in the late afternoon. This beautiful area is great to explore by bike or kayak. The hotel has bikes available, so you could choose to head out with your guide to the picturesque local limestone caves. Another option is the 100 Waterfalls Trek and boat trip, which takes 3 hours uphill but rewards you with one of the most impressive views in Laos. However, there is no pressure to do much if you prefer to relax; this is a lovely spot to sit back with a book and make the most of laid-back Laos."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "This morning, travel north to your next hotel in the Oudomxay province. Your location is in a protected forest reserve alongside a river in a beautiful, rural part of Laos. Staying here offers the opportunity to experience day-to-day village life without feeling that you are just one of many tourists passing through. For adventurous types there is great trekking and other adventure activities in the jungle-clad hills and, for those who prefer to take it a bit easier, there are some lovely easy walks that could wind up with a picnic at a waterfall."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Board the train for the journey from Oudmxay to Vientiane. Until 2021 this would have been an epic drive taking a couple of days but the train has reduced the trip to just a couple of hours. During your time in Vientiane, you'll experience the sleepy capital from an insider's perspective. You'll explore vibrant Chinatown, discover ex-residences of colonial rulers and follow the Mekong River downstream to the historical temple of Wat Inpaeng. Head to the top of Patuxai monument (a replica of the Arc de Triomphe) at dusk for a panoramic view of the city and then take an evening tour of the food stalls where you can taste a traditional barbecue and experience typical Lao-style dinner culture."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "You will be transferred to the airport early this morning, for express check-in, onto your flight to Pakse. Upon arrival in Pakse, you will be driven a short distance to the boat pier, where you will board a traditional private boat for a 2-hour cruise to Champassak. On arrival in Champassak, there is a chance to visit Wat Phou, an ancient Khmer religious complex dating back to the 5th Century. This dramatically sited temple is one of the highlights of any trip to Laos. After stopping to visit Wat Phou, the boat will take you across to Don Daeng Island, in time for lunch.You'lll have the rest of the day to relax or explore this peaceful island. Your accommodation for the next three nights is at La Folie Lodge, where you can either stay in one of their delightful rooms or a beautiful private villa overlooking the Mekong River. Your time here is free to relax. If you'd like to explore in more depth you could hire a bike and cycle around the nearby little villages or take a trip over to Don Khone Island. On the island of Don Khone, you can trace the route of an old abandoned railway admiring some of the old French Colonial buildings and the spectacular Khone Phapheng Falls, one of the largest and most powerful waterfalls in Southeast Asia."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Depart Laos for your journey back to the UK."
+    }
+  ],
+  "map": ""
+}

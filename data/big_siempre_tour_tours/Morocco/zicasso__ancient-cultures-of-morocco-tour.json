@@ -1,0 +1,60 @@
+{
+  "destination": "Morocco",
+  "mainPhoto": "",
+  "id": "ancient-cultures-of-morocco-tour",
+  "tourName": "Ancient Cultures of Morocco Tour",
+  "placesVisited": "Marrakech, Fes, Ouarzazate, Merzouga",
+  "generalInfo": "Handcrafted with Morocco’s most intimate cultural experiences, this one-week tour will lead you from Berber villages to Gnawa backroads and artisanal cities to glasses of mint tea in ancient medinas. Morocco is a melting pot of fascinating cultures, where traditions ring true, and heritage is part of daily life. This is a journey that is defined by the people you meet and the traditions you can experience, from Marrakech to the Sahara Desert.",
+  "durationDays": "7",
+  "price": "2,600",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Marrakech – Berber Storytelling",
+      "description": "Today, you will land in Marrakech and be greeted at the airport by a local guide. It is a short transfer to your centrally located hotel, where you will have time to rest and refresh before gathering your first impressions of the mazy streets. Rather than visit set attractions, today’s Marrakech walk will focus on absorbing the atmosphere. So, you can wander the lively labyrinthine streets and use all your senses to admire what is happening before an evening of sunset colors and Berber traditions on the main square."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Marrakech – Highlights of an Imperial City",
+      "description": "With a full day in Marrakech, you can explore the city’s history and tradition. Starting your private tour on the city’s outskirts, you will explore palaces and tombs, which are classic examples of Berber and Arab influences. After lunch, you will travel into the medina, where you will be immersed in the souks, which are sensual places of strange sounds and wonderful aromas. You can spend hours here, wandering a marketplace that is far more enchanting than any modern supermarket. Marrakech’s souks are a great example of how you can experience culture in Morocco."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Ouarzazate – Exploring Berber Villages",
+      "description": "This morning, you will visit with small Berber communities, and your guide will be from one of them. Therefore, you will have an intimate invitation into the local life. This part of Morocco deserves time, and everything runs to a slow rhythm, so you should not expect to rush. Just enjoy the experience without thinking about time. After enjoying lunch in a Berber village, you will continue to the Sahara. Ait Benhaddou is the oldest and best-preserved of all the mud-brick kasbahs and now enjoys UNESCO World Heritage status. You will eventually make your way to Ouarzazate, which is your overnight destination. Ouarzazate is a gateway to the Sahara and a great place for basking in the Berber culture."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Merzouga – Intimate Experiences",
+      "description": "This morning, you will travel the Road of the Thousand Kasbahs. The desert scenery is dominated by fairytale-like castles that rise red from the dust. Throughout the afternoon, you will visit small caravanserai and hopefully share mint tea with people about to cross the desert. These encounters are almost as fascinating as an evening with the Gnawa, which is a group of people who came across the Sahara from Sudan. This evening, you will be in the Sahara, immersed in a community of people that keeps ancient cultural traditions alive."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Fes – The Sahara At Sunrise",
+      "description": "With the sun barely peeking over the horizon, you will travel by camel to the sand dunes, crossing the virgin sand to places of great solitude and silence. By mid-morning, you will be out of the dunes and on a flight to Fes, which is the world’s largest walled city. Fes is enormous, and culture spills from every corner of its city center. Tanners continue their ancient ways, locals meet for glasses of mint tea at small medina cafes, and mosques and madrassas create a sense of peace on the city streets. You do not need to plan anything specific here because a local guide will show around so that you can experience some of the very best aspects of Arab culture."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Fes – Artisanal Culture in Meknes",
+      "description": "While Fes is the grandest of the imperial cities, Meknes is mostly forgotten. Meknes is Morocco’s artisanal city, and local artisans do not pay any tax. So, everything you will see is a work of art. In Meknes, you will have the opportunity to meet with artisans and understand how art is so integral to culture. If you think of beautiful Moroccan design, there is a good chance it has its origins in this imperial city. It is this artistic element of culture you will explore today. Returning to Fes with your guide, you can stop at Volubilis, which is a fabulous set of Roman. Back in Fes, it will be all about the atmosphere as you sip on mint tea."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Fes – Departure",
+      "description": "This morning will be left free so that you can get out among the souks to find souvenirs with your guide. Late check out will be arranged so that you can refresh after lunch before a private airport transfer."
+    }
+  ],
+  "map": ""
+}

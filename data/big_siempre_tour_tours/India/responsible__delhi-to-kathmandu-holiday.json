@@ -1,0 +1,110 @@
+{
+  "destination": "India",
+  "mainPhoto": "",
+  "id": "delhi-to-kathmandu-holiday",
+  "tourName": "Delhi to Kathmandu holiday",
+  "placesVisited": "",
+  "generalInfo": "Journey through North India to Nepal, witnessing sacred sites and cultural highlights. From the majestic beauty of the Taj Mahal to the pink glow of Jaipur, the tranquil waters of the Ganges and the holy majesty of Varanasi, this full-on tour takes in North India's icons. Destined for Nepal, we explore the temples, bazaars, and nature of the Himalayan beauty, too. <br/> <br/> Indian icons - Watch the sun rise over the marble dome of the Taj Mahal and witness the pink beauty of Jaipur. <br/> Sail down the Ganges - Drift down the Ganges, camping on its banks, before entering Varanasi on its sacred waters.<br/> Explore Nepal - Uncover majestic Nepal, searching for the one-horned rhino and uncovering the Royal Palace.<br/> 2026 - We have made some changes, please refer to the updated itinerary for 2026<br/>",
+  "durationDays": "17",
+  "price": "2355",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Join tour in Delhi - city tour of New Delhi",
+      "description": ": Our tour starts in New Delhi, India's bustling capital, where old meets new and you can catch glimpses of a bygone era at every turn. For those arriving in time, our tour leader will meet you in the hotel reception at 1.30pm for a welcome meeting followed by an afternoon city tour. We'll visit Qutab Minar, the tallest stone tower in India and Humayun's Tomb dating from the Mughal Dynasty. We also drive past the imposing India Gate (war memorial arch), the Parliament buildings and the Rashtrapati Bhawan, the President's residence. If you'd like an airport transfer today, you'll need to arrive into New Delhi's Indira Gandhi International Airport (DEL), which is around a 40-minute drive from the hotel. If you'd like to join the city tour, you need to arrive at the hotel by 1.30pm. If you're booking your own flights, we recommend giving yourself at least one hour to clear the airport and 45 minutes to transfer to the hotel. The latest your flight should arrive is 12pm. If you miss the welcome meeting, the tour leader will catch you up as soon as possible."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Explore Old Delhi's spice market and take train to Jaipur",
+      "description": ": Compared to New Delhi, the Old City is much closer to the image conjured up by Rudyard Kipling. This morning, a local guide will show us around Old Delhi by metro and on foot, culminating with a jamboree of deafening barter at Chandni Chowk Bazaar. You will also get the chance to visit the Sheesh Ganj Sahib, a historic Sikh place of worship near to the Chandni Chowk Bazaar. Later in the afternoon, we'll transfer to New Delhi station for the train journey to Jaipur, arriving in the evening. Sometimes called the 'Pink City', Jaipur was first painted terracotta pink by Maharajah Sawai Ram Singh to celebrate the visit of Prince Albert in 1853."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Visit Jaipur's Amber Fort and City Palace Museum",
+      "description": ": This morning, we'll visit the once mighty Rajput capital of Amber (traditionally known as Amber Fort) and its fortress. Lying at the mouth of a rocky mountain gorge, overlooking Maotha Lake, the fort is a stunning creation of white marble and red sandstone that combines Hindu and Muslim ornamentation, including the mirrored halls of the Sheesh Mahal. It was from these towering walls that the Kachchawahas ruled over their kingdom for seven centuries, until its importance was eclipsed by nearby Jaipur. We'll also take in the unique Hawa Mahal, the famous Palace of the Winds, whose extraordinary façade of red and pink sandstone towers five stories above the city streets. Built at the end of the 18th century, its 935 windows were designed to allow the women of the harem to gaze out on the city scene below without themselves being seen, the openings also create a refreshing breeze (hawa), which kept the palace cool in the hot summer months. We'll spend some time exploring the lavish and well-preserved City Palace. Here, we'll find a fine collection of textiles, costumes, and armoury. Later this afternoon, we'll visit the extraordinary Jantar Mantar - a star-gazing observatory built by Jai Singh, the great Maharajah-astronomer."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Jeep safari in Ranthambore National Park",
+      "description": ": Leaving Jaipur, we'll take the train to Sawai Modhopur, the gateway to Ranthambore National Park. One of the best of India's 'Project Tiger' conservation projects, Ranthambore was once the private reserve of the Maharajahs of Jaipur and covers nearly 400 square kilometres of lush jungle, turquoise lakes and ancient temples that provide a haven for crocodiles, leopards, tigers and 300 species of birds. During the dry season from September to May, when water is scarce, the animals stay close to the lakes and rivers, giving us the ideal opportunity to spot these elusive animals. We'll take a game drive into the park this afternoon."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Morning safari at Ranthambore and continue to Agra",
+      "description": ": This morning we have an early start as we try our luck again at spotting the elusive Royal Bengal Tiger. We'll then return to the hotel for breakfast before we catch our train to Agra. Arriving in Agra, we'll take an hour transfer to our hotel. Tomorrow we're up bright and early to explore what is considered one of the most beautiful buildings in the world."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Visit the Taj Mahal and afternoon at leisure",
+      "description": ": This morning, we'll have an early start to see the sun rise over the marble dome of the Taj Mahal. Built by the emperor Shah Jahan to honour the memory of his beloved wife Mumtaz, the building took 22 years to complete and was once described by Rudyard Kipling as 'the embodiment of all things pure'. Built from marble and decorated with the most exquisite inlay work, the Taj Mahal required the labour of 20,000 men and is estimated to have cost something in the region of 3 million rupees (around $70 million today). Once we've witnessed the majesty of the Taj Mahal, we'll journey on to Delhi. This afternoon, we'll visit the Agra Fort. Built by Akbar the Great, the fort stands in an imposing position on a bend in the Yamuna River with views of the Taj Mahal further along its banks. The rest of the afternoon is free. You might want to revisit the Taj Mahal at sunset, or head to the Itimad-ud-Daulah (Baby Taj)."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Morning train to Allahabad. Sail to Varanasi",
+      "description": ": We are up bright and early this morning as we head to the train station in time for our train to Allahabad. After arriving late morning, we'll journey by road for approximately three to four hours to the sacred River Ganges. Once we reach the water, we'll start our boat trip downstream. The next two days will give a unique glimpse at rural life in India and a welcome chance to relax and unwind. We'll float peacefully through the Gangetic plain to Varanasi, passing villages and ornate temples, fields of wheat and rice paddies, and stunning sunsets. The traditional wooden boats take up to four passengers plus two crew, who have all grown up living and working on or around the river. We'll make regular comfort breaks by the side of the river and there will be a 'support boat' which doubles as the kitchen following closely behind, with a chef on board preparing your lunch and dinner. You can also buy drinks onboard. For our overnight stop, we'll camp on a sandbank in the middle of the Ganges in two-man tents. The location we use varies according to local conditions, but wherever we stop you'll be able to relax over dinner and stargaze before bed. Our wild camping is a simple but unique experience - facilities are basic and toilets are set up in a single pop-up tent."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Arrive in Varanasi",
+      "description": ": Today we'll continue our journey down river to the holy city of Varanasi where we'll disembark at Asi Ghat and transfer to our hotel. Varanasi (Benares) has been the centre of Hinduism since the dawn of history, its age is contemporary with Babylon and Thebes. Often known as 'Kashi' (City of Light) by Hindus it attracts over a million pilgrims each year - many of whom come to spend their last years here in the holy city. This evening, you can return to the ghats to witness the evening aarti ceremony when the Ganga is venerated with a display of light and sound."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Explore Varanasi and Sarnath",
+      "description": ": This morning we'll take an early morning boat trip along the Ganges to see the Hindu devout bathing in its sacred waters. We'll then pay a visit to nearby Sarnath. Having gained enlightenment at Bodh Gaya Buddha came to Sarnath to preach his first sermon. The city was at its peak in the 5th century, when it was a respected centre of religious activity, learning and art. Muslim invaders destroyed much of the city and today remains of several monasteries and stupas can be seen. The afternoon is free to explore Varanasi's labyrinth of streets, bazaars and temples at your own pace. In the evening, there might be the option to take in a classical musical performance."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Journey to Lumbini",
+      "description": ": We have a long yet interesting journey today (around 8 hours), as we head north across the Gangetic Plains villages to the Nepalese border at Sonauli. First, we'll take a train from Varanasi to the town of Gorphpur. This is the furthest we can travel by train, so we'll switch to a bus and drive the remaining distance to Sonauli. We'll walk through customs and immigration into Nepal and meet our Nepalese bus which will transfer us to Lumbini to spend the night."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Explore Buddha's birthplace",
+      "description": ": We'll start our day with a rickshaw sightseeing tour of Lumbini accompanied by a local guide. We'll have the opportunity to visit the birthplace of the Buddha, the Peace Lamp. and the Monastery of Peace pagoda. From here, we'll drive (approximately seven hours) through the Terai, the narrow-forested lowland strip that stretches the full width of the southern border of Nepal. We'll stop in Butwal en route so we can pick up some lunch and then aim to arrive at Chitwan in the late afternoon. The oldest and best known of the national parks in Nepal, Chitwan consists of swamp, tall elephant grass and dense forest, and is a natural habitat for tiger, the rare one-horned Indian rhino, leopard, and sloth bear to name but a few. Once we arrive at the park, we'll take a short afternoon village walk close to the park to orient ourselves."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Search for wild rhino in Chitwan National Park",
+      "description": ": Once a private hunting ground, Chitwan is now a National Park, with thick tree cover and tall elephant grass sheltering a wealth of animals, most famously the one-horned rhino. Today we'll be kept busy with plenty of activities available, including jeep safaris to search out the rhino, bird watching, jungle walks and canoe trips along the Rapti River. The river trip will be dependent on the water level. Floating silently down the Rapti River allows us to spot many varieties of water birds and other wildlife. On a nature walk in the company of trained native naturalists, you can walk along trails in the less densely forested parts of the park. An early morning bird-watching walk near the river will reveal many of the 450 bird species that can be found in the park, especially kingfisher. A trained naturalist will help us get the most out of these excursions."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Morning birdwatching and drive to Pokhara",
+      "description": ": After a final early morning walk through the park, we'll leave for Pokhara. The drive will take around eight hours depending on the traffic, and we'll take a packed lunch to have along the way. We pass through the bustling town of Naryanghat Bazaar, then head north beside the River Trisuli to the 'wild west' town of Mugling at the confluence of the Marsyandi and Trisuli rivers, before reaching our final destination for today. Pokhara is a relaxed town situated on the banks of Lake Phewa Tal and set beneath the Annapurna Range. The afternoon is left free to wander through the town, to pick up some souvenirs at the many Tibetan handicraft stalls or just relax by the lakeside after the journey."
+    },
+    {
+      "dayNumber": 14,
+      "title": "Walk to the Peace Pagoda",
+      "description": ": After breakfast this morning we'll stretch our legs walking up through small villages to the Japanese Peace Pagoda. This lookout point offers views across to the Annapurna Range and back down to the town of Pokhara. After enjoying the views, we'll walk back following a different path and stop to visit the Tibetan Tashiling Monastery. The afternoon is free to relax in Pokhara, where it's possible to take short walks around the lake. There's also the option to visit the Mountain Museum, an interesting museum dedicated to the history of Himalayan Mountaineering."
+    },
+    {
+      "dayNumber": 15,
+      "title": "Drive to Kathmandu",
+      "description": ": This morning, we'll drive to Kathmandu (approximately ten hours away). We'll retrace our route back to Mugling, then continue heading east. Once we reach Naubise the road starts to climb and reaches a pass on the Kathmandu valley rim via a series of breathtaking zigzags before descending to the city. We might have the chance to take an optional trip to the Manakamana temple near Kurintar, time permitting."
+    },
+    {
+      "dayNumber": 16,
+      "title": "Walking tour in Kathmandu",
+      "description": ": This morning, we'll have a walking tour of this historic city, visiting the bazaar and temples of old Kathmandu, accompanied by a local Nepali guide. Much of the day-to-day life of Kathmandu takes place in the local bazaar: a fascinating mixture of people selling spices; potters spinning their wheels; rickshaw wallahs honking their horns and the ever-present sacred cow wandering amongst it all. We'll end up in Durbar Square at the heart of the city. In the afternoon we'll plan to visit the temple of Pashupatinath on the banks of the Bagmati River, the holiest Hindu shrine in Nepal, and also to visit Bodnath, the largest stupa in the country and a destination for Buddhist pilgrims from all over Nepal."
+    },
+    {
+      "dayNumber": 17,
+      "title": "Trip ends Kathmandu",
+      "description": ": Our tour ends at our hotel in Kathmandu."
+    }
+  ],
+  "map": ""
+}

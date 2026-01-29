@@ -1,0 +1,100 @@
+{
+  "destination": "Japan",
+  "mainPhoto": "",
+  "id": "hokkaido-holiday-in-japan",
+  "tourName": "Hokkaido holiday in Japan",
+  "placesVisited": "Tokyo, Kushiro, Akan National Park, Kussharo and Mashuko lakes, Shiretoko Peninsula, Sounkyo, Asahidake, Biei, Sapporo",
+  "generalInfo": "The high mountains, crystal lakes and wide open spaces of Hokkaido Island set it far apart from the hustle and bustle of southern Japan. During this trip keep an eye out for Kokkaido red foxes, as well as bears in Shiretoko and possible dolphin sightings on a Shiretoko cape cruise.<br/><br/>This is Japan’s last wilderness region, boasting the nation’s greatest concentration of national parks, re-known for its Volcanoes and geo thermal springs and brimming with a wonderful abundance of flora and fauna. A particular highlight for many is watching the Red-Crested Crane mating rituals in Kushiro. <br/><br/>As Tokyo swelters through long summer days Hokkaido savours warm, temperate weather ideal for hiking in the high peaks of Daisetsu-zan or relaxing by the crystal-clear waters of the island’s many caldera lakes. In winter arctic air from Siberia is drawn across Hokkaido, ensuring the plentiful snowfall that makes this area a popular winter sports destination and providing the raw materials for the fantastic annual Sapporo Snow Festival.<br/><br/>Western Hokkaido is readily accessed by public transport, but for those wishing to explore in more depth Hokkaido’s wide, empty roads make driving a delight. Self-drive itineraries of all lengths can be arranged to suit your interests and schedules.",
+  "durationDays": "15",
+  "price": "8050",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Today you will begin your journey by boarding your international outbound flight to Tokyo."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "After passing through customs and luggage collection, you're met by an airport guide who will give you your trip documents and direct you to the shared shuttle service which takes you to your hotel. After checking in, spend the rest of the day at leisure, resting and relaxing after your flight. If you do feel like starting exploring, you may wish to walk around the Imperial Gardens."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Tokyo. Have a day to acclimatise and sightsee in Tokyo before your rural adventure begins. A nice way to see less of the bright lights of the capital around the Imperial Palace gardens in the heart of the capital or around the Edo-period area of Asakusa to see the impressive Sensoji temple."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Kushiro. This morning transfer to the airport for the domestic flight to Kushiro where a rental car will be waiting for you. From Kushiro drive through the wetlands, stopping in at the Crane centre for a chance to see the Red Crested Crane mating rituals if the season is right, to the Akan National Park."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Akan National Park. Explore the lake today- take a boat trip or simply stroll around the shore. You have the use of your hire car to explore further afield too. Keep an eye out for Hokkaido foxes and other wildlife as you go."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Utoro/Shiretoko. Head to the far eastern Shiretoko Peninsula today, stopping in at Lakes Kussharo and Mashuko as you go. If you are short on time Mashuko is the more accessible and beautiful of the two."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Shiretoko. Explore Shiretoko's rugged, wild coastline today by boat - looking out for bears and other wildlife along the way. There are plenty of walking possibilities around the town centre, or there is a cruise which gives you the chance to see dolphins."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Sounkyo. Drive back into the heart of Hokkaido, via Abashiri - there is an interesting indigenous peoples' or Ainu museum here - to Sounkyo."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Asahidake. Explore the gorge in the morning and then drive to Asahidake, another mountainous and scenic town."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Asahidake. Explore the mountain today, there are several short walks or some longer hikes in the area"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Biei/Furano. Drive south to Biei, a pretty town with rolling hills and abundant flowers in the spring and summer. Return to your hotel in the evening"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Sapporo. Drive to the capital city of Hokkaido today, Sapporo. The city is very cosmopolitan and has some interesting architecture and a lovely atmosphere"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Sapporo. Explore the city today. We recommend a visit to the Historical Village of Hokkaido, which features replicas and original buildings dating back to the 1800s."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Tokyo. Drive to the airport for your flight back to Tokyo and your final afternoon at leisure in Japan. Enjoy your final day last-minute sightseeing or shopping."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Tokyo departure. Take the airport shuttle bus directly from the hotel to the airport for your flight home. Your return flight will arrive the same day."
+    }
+  ],
+  "map": ""
+}

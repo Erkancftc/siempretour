@@ -1,0 +1,65 @@
+{
+  "destination": "Peru",
+  "mainPhoto": "",
+  "id": "romantic-8-day-getaway-to-peru",
+  "tourName": "Romantic 8-Day Getaway to Peru",
+  "placesVisited": "Lima, Cusco, Aguas Calientes, Sacred Valley, Machu Picchu",
+  "generalInfo": "Set off on the excursion of a lifetime during this luxurious, 8-day adventure. Peru is a country that boasts some of the most diverse experiences in the world. Lemon-lime aromas of Peru's ceviche waft from the rugged shoreline, waves crash against the sandy shores, and locals stroll along the grassy cliffside. Indulge in the delicious cuisine of Peru, venture to Machu Picchu, ride horseback through the Sacred Valley, and uncover the allure of Lima.",
+  "durationDays": "8",
+  "price": "2,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Lima - Sunset Dinner in Miraflores",
+      "description": "When your plane descends in Peru's capital city, you will catch glimpses of the shimmering shoreline from your window. Once you have made your way through customs, you will be greeted by your private transport, which will escort you to your luxurious accommodation in Lima's high-end neighborhood of Miraflores. After arriving at your hotel, you and your partner will enjoy a relaxed afternoon and evening of leisurely exploration. At sunset, you can choose from a variety of dining options with impeccable panoramic lookout points."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Lima - Highlights of the City",
+      "description": "On your first full day in Lima, your guide will lead you around the city highlights. You will begin your tour beneath the shady palm trees of Plaza de Armas in the historic district. You will even be provided with an opportunity to view the catacombs of the Basilica and Convent of San Francisco of Lima, which is buried beneath the street. After your tour concludes, you will transfer to the Miraflores Lighthouse. In the evening, you and your guide will venture to the eccentric Barranco District, where you will indulge in a moonlit dinner along the Puente de los Suspiros as local bands serenade you with their sweet ballads."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Cusco - Bartering at Local Markets",
+      "description": "Today, you will travel to the idyllic city of Cusco, the jumping-off point to the UNESCO World Heritage Site of Machu Picchu. In the morning, you will board a short flight from Lima to Cusco's regional airport. Soon, you will arrive in the white stucco neighborhood of San Blas. As you settle into your luxurious accommodation, your friendly hotel staff will offer you a steeping cup of mate de coca tea. In the evening, you and your partner can wander down the enchanting boulevards to scenic overlooks or miradors as you enjoy some self-guided exploration. As the sun goes down, you and your partner will return to the city center to indulge in a locally-sourced meal while you listen to the lively beats of acoustic bands."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Cusco - Saqsaywaman and Tambomachay",
+      "description": "Today, you will venture beyond the confines of Cusco's city limits to explore breathtaking remnants of Incan innovation and design. About half an hour into your tour, you will come to the site of Saqsaywaman. As you traverse along the grassy hillside, you will learn about the Inca's efforts to protect the city of Cusco, primarily the Sun temple of Qorikancha. Your next expedition will lead you to the site of Tambomachay. Here, you can marvel at the glistening streams of water that sparkle in the sun. In the evening, you will return to Cusco for a relaxing evening in the downtown plazas. If you are feeling adventurous, you can even sample the regional delicacy of cuy, or guinea pig."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Sacred Valley - Culture Class and Horseback Riding",
+      "description": "Today, you will glide through the breathtaking Sacred Valley. Your first stop will be in the charming neighborhood of Chinchero. You will be led on a short tour of the village that will teach you about the community's history in the Sacred Valley. Then, you and your partner will sit in on an authentic yarn dyeing class that will teach you about weaving and dyeing practices. In the afternoon, you and your partner will mount beautiful horses from a nearby resort town to explore the surrounding villages and farmlands. You will also make brief stops at the ancient Incan sites of Moray and Maras."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Aguas Calientes - UNESCO Ruins of Machu Picchu",
+      "description": "In the morning, you and your partner will board a luxury train that is destined for the town of Aguas Calientes. In less than three hours, you will pull into the station at your final destination of Aguas Calientes. As you step off the train, you will be met by your private transportation services who will escort you to your luxury accommodation. Soon, your expert guide will meet you in front of your hotel for a day of exploration at the internationally acclaimed ruins. Once you have reached the summit of Machu Picchu, you can discover key features of this ancient Incan citadel, including the Temple of Three Windows, the Main Plaza, and the Quarry Group."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Aguas Calientes - Machu Picchu and Huayna Picchu",
+      "description": "Today, your guide will lead you to additional gems at Machu Picchu, including the House of the Guards, the Royal Tombs, and the group of Three Doors. You will also dig deeper into the history and spiritual practices of the Incas. Later, you will have the unique opportunity to climb Huayna Picchu, which is the famous peak that is often photographed behind the ruins of Machu Picchu. In the evening, you will descend to the city of Aguas Calientes, where you can relax during a brief respite at your hotel. Then, you will experience the beauty of the town's namesake when you venture to the hot springs that are tucked into a secluded area."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Lima - Departure",
+      "description": "You and your partner will awake to sweet sounds as you prepare for your return trip to Cusco. After a light breakfast, you will once again board a luxury train that will take you through the valley. When you arrive in Cusco a few hours later, you will be met by your local guide and escorted to the Cusco airport. From here, you will board a regional flight back to Lima before connecting to your international flight home."
+    }
+  ],
+  "map": ""
+}

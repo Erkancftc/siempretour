@@ -1,0 +1,60 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "kenya-13-day-safari",
+  "tourName": "Kenya 13 day safari",
+  "placesVisited": "",
+  "generalInfo": "If you are keen to experience a range of habitats and make the most of your wildlife sightings, then this safari is perfect for you. It takes you through three of Kenya's most iconic regions - Amboseli, Loisaba, and the Masai Mara - each offering its own unique landscapes and wildlife, from large elephant herds roaming beneath Mount Kilimanjaro to Rhino in the Loisaba conservancy and the big cats of the Mara plains.<br/><br/>Alongside unforgettable game viewing, you will have the chance to connect with local communities and conservation efforts, and community projects. All three camps employ a significant portion of their staff from neighbouring communities, offering them real opportunities for career progression. Loisaba tented camps also offer school partnerships through the Loisaba Community Conservation Foundation (LCCF) and the Elewana Land &amp; Life Foundation.  <br/><br/>These experiences offer a deeper understanding of how responsible tourism supports people, wildlife, and the environment. <br/><br/>Embark on a journey of exploration and discovery on this Kenyan safari.",
+  "durationDays": "13",
+  "price": "8618",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Upon your arrival at Jomo Kenyatta International Airport, a representative will be waiting to greet you along with your driver-guide. You'll be transferred to Wilson Airport, ensuring you make it in time for your scheduled flight to Amboseli Airstrip. Upon landing at Amboseli Airstrip, your dedicated safari guide from Elewana Tortilis Camp Amboseli will warmly welcome you and accompany you to the camp, with an exciting game drive en route to kick off your adventure. After a delicious lunch at the camp, embark on an afternoon game drive, immersing yourself in the breathtaking landscapes and wildlife of Amboseli National Park."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "During your three full days in Amboseli, your safari guide will provide a comprehensive briefing on the itinerary, ensuring you're well-prepared for the adventure ahead. Within the private Kitirua Conservancy, you'll have the opportunity to go on off-road game drives and indulge in an exclusive safari experience that promises great game viewing opportunities. Immerse yourself in the beauty of the conservancy through day and evening game drives, as well as guided bush walks, allowing you to explore the landscapes and encounter the magnificent wildlife that call Amboseli home."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Have breakfast at camp with the majestic Mount Kilimanjaro providing the backdrop before your transfer to Amboseli Airstrip, to catch your scheduled flight to Wilson Airport for your onward journey to Loisaba Airstrip. Upon landing at Loisaba, your safari guide from Elewana Loisaba Tented Camp will be there to greet you. You'll then head on a game drive en route to camp, enjoying the beauty of the landscape and wildlife along the way."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Your safari guide will provide a comprehensive briefing on the itinerary for game drives and activities during your three-day stay. Discovering the landscapes and wildlife of Loisaba Conservancy is an incredible experience. Your options include day and evening game drives, guided bush walks, and lots more. Your final night you will spend at Loisaba Star Beds - an incredible, unique, sleep-out experience under the stars."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Have breakfast at camp before departing for Loisaba Airstrip, arriving in time for your scheduled flight to Mara North Airstrip. Upon touchdown at Mara North Airstrip, your safari guide from Elewana Elephant Pepper Camp will be awaiting your arrival. You'll then embark on a game drive en route to Elewana Elephant Pepper Camp, looking out for the wildlife of the Masai Mara along the way."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Your safari guide will provide you with a detailed itinerary for game drives and activities during your two full days on Mara North Conservancy. Take part in the exclusive safari experience offered by Mara North Conservancy, where you'll have the opportunity to explore the rich diversity of wildlife through game drives and guided bush walks."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Time to head home Enjoy breakfast in camp, then head out for a final game drive en route to Mara North Airstrip to get your scheduled flight to Wilson Airport. When you arrive at Wilson Airport, you will be greeted by a driver-guide and transferred in time for your flight home to Jomo Kenyatta International Airport."
+    }
+  ],
+  "map": ""
+}

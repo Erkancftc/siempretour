@@ -1,0 +1,75 @@
+{
+  "destination": "Ethiopia",
+  "mainPhoto": "",
+  "id": "north-ethiopia-holiday",
+  "tourName": "North Ethiopia holiday",
+  "placesVisited": "",
+  "generalInfo": "Discover the enchanting beauty of Ethiopia, a land where nature, history, religion, and culture harmoniously come together to create a truly memorable experience. <br/><br/>We understand that no journey to Ethiopia feels complete without embracing its breathtaking landscapes. Our adventure will take us to the stunning Simien Mountain National Park. This UNESCO World Heritage site offers picturesque mountain views and a chance to connect with incredible wildlife, including the Walia Ibex and the Gelada baboons. <br/><br/>As we progress on this remarkable journey, we'll visit the historical treasures of Gondar and Lalibela, where the extraordinary architecture and rich history invite us to witness the stories of the past firsthand. This experience is not just about sightseeing; it's about feeling the spirit of Ethiopia and all it has to share with those who arrive with open hearts.<br/><br/>As we continue our exploration, we'll have the opportunity to engage with the warm and welcoming Ethiopian people. Their hospitality is renowned, and you'll find that every interaction brings a sense of connection and warmth that makes the journey feel even more meaningful. We'll visit local markets where vibrant colours and lively sounds come together to create an atmosphere full of life, offering a glimpse into the daily routines and traditions of the communities.<br/><br/>Additionally, we will delve deeper into Ethiopia's rich religious heritage by visiting ancient churches and monasteries carved from rock, especially those in Lalibela. These iconic structures are architectural marvels and spiritual havens, reflecting centuries of devotion and prayer. You'll be touched by the sense of peace that envelops these sacred spaces, and you may even witness local rituals that showcase the deep faith of the Ethiopian people.<br/><br/>Throughout this journey, we encourage you to take a moment to reflect on the beauty that surrounds you, both in nature and in your interactions with the locals. Each experience will help to weave a tapestry of memories and insights that will stay with you long after your visit. Ethiopia invites you to see its wonders and feel its essence, making this journey not just a holiday but a transformative experience that resonates in your heart.",
+  "durationDays": "10",
+  "price": "4795",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Addis Ababa - Upon your early morning arrival in Addis, our representative will meet you at the airport and take you to your hotel. Explore Addis. Overnight at Golden Tulip Hotel or similar"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Gondar and the Simien Mountains. Enjoy a 3-4 hours hike to Sankaber, passing close to the escarpment edge. Nearing Sankaber, you will have beautiful views on both sides of the escarpment ridge and you will likely see the endemic Gelada baboons. Overnight at Simien Lodge or similar"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Simien Mountains National Park - We explore along the foothills through a valley crossed by wild streams. The road descends from the plateau passing through spectacular scenery, and now is the time to keep a look out for the Walia ibex and even the elusive Ethiopian wolf. Overnight at Simien Lodge or similar"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Gondar - there are a dozen castles built by various emperors over the course of 236 years and the city seems more European than African in origin. In the afternoon, we visit Fasilades Palace, probably the most impressive of all the castles found in the area and the oldest one. We then continue to the Church of Debre Berhan Selassie (Light of the Trinity). The interior is decorated with beautiful frescos, cherubs and paintings. Debre Berhan Selassie is rumored to once have been the proposed ?nal resting-place of the Ark of the Covenant. Overnight stay at Gondar Hills Resort or similar"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Lalibela and the Rock-hewn churches. The Rock-Hewn Ethiopian orthodox Christian churches of Lalibela, are one of the wonders of the world. It’s a collection of churches, some connected by fascinating internal channels, with hermit holes where people lived and died. The connecting walls are full of religious symbols. Overnight stay at Mezena Lodge or similar"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Yemrehanna Kristos Church Today, you leave Lalibela and head for another ancient rock-hewn church known as Yimrhane Kristos. The drive to Yemrehanna will also give you the opportunity to view the rural countryside and villages of the Ethiopian highlands. Yemrehanna Kristos is one of Ethiopia’s best-preserved late-Aksumite buildings, where few people reward themselves with a visit and a reward it is. Overnight stay at Mezena Lodge or similar"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Langano - There is time to chill out and relax by the lake. Swimming and kayaking on the lake are some of the possible activities that you can partake in. Overnight stay at Hara Langano Eco Lodge or similar"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Bale Mountain National Park - Here we spend two days exploring. For birders there are varied habitats for such sought-after species as Abyssinian Owl, Cape (Mackinder’s) Eagle-Owl (the most massive of three subspecies), African Wood Owl, Wattled Ibis, Chestnut-naped Francolin, Moorland Francolin, Wattled Crane, Red-billed Chough, White-backed Black Tit, Abyssinian Catbird, African Emerald Cuckoo, Abyssinian Crimsonwing, and, with luck, Golden Eagle, as well as a long list of other birds. Interesting mammals here are mountain nyala, klipspringer, Menelik’s bushbuck, Bohor reedbuck, and others. Overnight stay at Bale mountains Lodge or similar"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Sanetti Plateau and Harenna Forest - drive to the Sanetti Plateau (altitude of 4000 meters) with Afro-alpine Moorland and beautiful wild alpine scenery. Our tour continues to the south of the park where lies a 1200m (3700 ft) escarpment, below which is one of the largest and most extensive forests remaining in Ethiopia, the Harenna Forest. Overnight stay at Bale Mountains Lodge or similar"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Addis Ababa Drive back to Addis Ababa via Lake Koka and Lake Ziway. There is a chance to go shopping in Addis Ababa. Then you will go to the Yod Abyssinia Traditional restaurant for a farewell dinner party. From the restaurant, you will go to the airport and the tour ends."
+    }
+  ],
+  "map": ""
+}

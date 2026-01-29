@@ -1,0 +1,80 @@
+{
+  "destination": "Vietnam",
+  "mainPhoto": "",
+  "id": "colourful-vietnam-11-day-tour",
+  "tourName": "Colourful Vietnam 11 day tour",
+  "placesVisited": "",
+  "generalInfo": "Discover the vibrant essence of Vietnam in just one incredible day. The Colorful Vietnam Adventure Tour offers a compact yet immersive journey through the country’s cultural treasures, natural beauty, and iconic landmarks—from the energy of Ho Chi Minh City to the tranquil scenery of Ninh Binh and the breathtaking waters of Halong Bay.<br/><br/>Perfect for time-conscious travelers or those seeking a preview of Vietnam’s highlights, this curated experience captures the diversity of the country’s landscapes and traditions—all in a single, unforgettable day.<br/><br/>Begin in Ho Chi Minh City, where colonial charm and modern buzz collide. Visit historic sites, browse the bustling Ben Thanh Market, and reflect on Vietnam’s past at the War Remnants Museum.<br/><br/>Then, cruise through the Mekong Delta, navigating floating villages and lush fruit orchards while learning about life along this fertile river system.<br/><br/>Fly north to Hue for a glimpse of imperial grandeur at the ancient Citadel, then stroll the atmospheric lanes of Hoi An, where lantern-lit streets and local cuisine await.<br/><br/>In Hanoi, explore the lively Old Quarter, visit the Temple of Literature, and experience the calm of Hoan Kiem Lake, steeped in legend and charm.<br/><br/>Next, venture into the countryside of Ninh Binh, where limestone cliffs rise above rice fields. Ride a sampan boat through the caves of Tam Coc, and soak in the serene rural landscape.<br/><br/>Conclude your day with a tranquil Halong Bay cruise, gliding past towering karsts and hidden grottoes. As the sun dips below the horizon, enjoy fresh seafood and the peaceful beauty of Vietnam’s most iconic seascape.",
+  "durationDays": "11",
+  "price": "1960",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Ho Chi Minh - Cu Chi Tunnels & Explore the City"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Mekong Delta Excursion"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Ho Chi Minh - Arrival Hue – Hue Tour"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Hue – Hai Van Pass – Bana Hills – Hoi An"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "My Son Sanctuary - Hoi An Tour"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Da Nang - Fly to Hanoi - Join Cooking Class"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Ninh Binh Day Tour"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Hanoi City Excursion"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Hanoi - Halong Bay - Overnight On Board"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Halong Bay - Hanoi"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Hanoi Departure"
+    }
+  ],
+  "map": ""
+}

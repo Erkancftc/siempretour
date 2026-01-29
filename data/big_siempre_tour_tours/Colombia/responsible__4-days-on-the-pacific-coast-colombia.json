@@ -1,0 +1,45 @@
+{
+  "destination": "Colombia",
+  "mainPhoto": "",
+  "id": "4-days-on-the-pacific-coast-colombia",
+  "tourName": "4 days on the Pacific Coast, Colombia",
+  "placesVisited": "",
+  "generalInfo": "Indulge in a nature lover's dream as you embark on an unforgettable adventure package on the Pacific coast. Get up close and personal with magnificent humpback whales during thrilling whale-watching tours, where you can witness these majestic creatures in their natural habitat. Hike through lush jungles to mesmerizing waterfalls, where you can take a refreshing swim in the crystal-clear pools.<br/><br/>Your home for the duration of the trip is a serene eco-lodge, nestled in a picturesque location just a short stroll from the water's edge. Enjoy delicious meals made with fresh local ingredients, and learn about traditional processes such as panela making and Viche production, which are unique to the region. Take part in a fun cooking class and master the art of creating mouthwatering meals using the freshest ingredients.<br/><br/>For those seeking adventure, there are plenty of opportunities for snorkeling, diving, surfing, fishing, and paddleboarding. Rent equipment from nearby dive or surf centers and explore the stunning waters of the Pacific coast at your leisure.",
+  "durationDays": "4",
+  "price": "2252",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arriving at Nuquí, you'll be picked up from the airport and taken to the marina for a boat ride to your home for the next 3 nights. Located just a short stroll from the water's edge, this idyllic eco-lodge is a perfect escape from city life. you'll enjoy a delicious fresh lunch. Following that, you'll head out for a thrilling whale watching tour to catch a glimpse of the humpback whales that visit the area between May and November (best months are July to October). Upon returning to the eco-lodge, you can relax and soak in the beautiful surroundings. During your stay, you'll have the freedom to enjoy various activities such as a short hike to the Cascada del Amor (The waterfall of Love) for a refreshing swim, a visit to the Thermal Hot Springs (entrance fee not included), Ruta del Viche hike, Terco River hike, cooking class, and renting snorkeling, diving, surfing, fishing, or paddleboard equipment from a nearby center."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "You'll wake to the wonderful relaxing sounds of the ocean and the native birds singing at the start of another beautiful Pacific Coast day! After breakfast, you'll be off in search of some of those amazingly wonderful humpback whales and their baby that will be swimming nearby. You'll be enjoying 2-3 hours out on the ocean before heading back to the eco-lodge for some me-time followed by another fresh lunch. Following lunch, you'll be walking along the beach for approximately an hour until you come to some wonderful thermal hot springs ($15,000 peso entrance fee not included). Once here you'll soak in the pools and relax in this amazing dream-like setting. You'll then venture back to the eco-lodge in time for a beautiful sunset and another wonderful dinner."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Wake up to the soothing sounds of waves and birdsong. After breakfast, hike to a beautiful waterfall along the Terco River, enjoying a refreshing swim. Return to the eco-lodge for lunch. In the afternoon, take a tour of a local trapiche (Panela factory) to learn about the process of making this traditional Colombian sweetener. Then, join a cooking class at the eco-lodge, using fresh ingredients to create delicious meals. End the day with a candlelit dinner by the ocean, savoring the gentle breeze and falling asleep to the sound of crashing waves."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "You'll be waking once again to the soothing sounds of the waves and the singing birds searching for their morning meal. You'll have time for a quick swim or a short hike, and another wonderful breakfast before taking a boat back to Nuquí and on to the airport for your flight back to Medellín."
+    }
+  ],
+  "map": ""
+}

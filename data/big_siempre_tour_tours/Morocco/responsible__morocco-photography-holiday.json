@@ -1,0 +1,65 @@
+{
+  "destination": "Morocco",
+  "mainPhoto": "",
+  "id": "morocco-photography-holiday",
+  "tourName": "Morocco photography holiday",
+  "placesVisited": "",
+  "generalInfo": "Join us on a photo-safari of Southern Morocco with adventurous travel photographer Toby Savage. Whether you’re master of your DSLR or lover of your compact camera, you are sure to return home with some great memories to add to your portfolio. <br/><br/>Highlights include:<br/>- excellent tuition from experienced professional photographer<br/>- explore Marrakech’s ancient medina<br/>- travel by 4x4 over the stunning Atlas mountains<br/>- visit the UNESCO World Heritage Kasbah of Ait Benhaddou<br/>- cross the Sahara desert in style and stay in a nomad tent<br/>- discover the delightful seaside town of Essouaria<br/><br/>Tuition:<br/>This Moroccan adventure will be led by experienced photographer Toby Savage. We will have the opportunity to see and photograph some of Morocco’s spectacular scenery and discover the hidden Morocco. Under Toby’s guidance we will refine our photographic skills by learning about the elements of a good photograph and practising our camera techniques on a wide range of subjects including landscape, portraits, architecture and street photography. Peer feedback sessions will take place most evenings, and all participants will receive a one-to-one tutorial during the week with Toby on any aspect of their work.<br/><br/>Accommodation:<br/>We will stay in a variety of comfortable riads and hotels, with one night under canvas in a bivouac of nomad tents.",
+  "durationDays": "7",
+  "price": "1495",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Participants will be transferred to our riad in Marrakech. The week will commence with an introductory session and dinner."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "We will discover Marrakech’s famous medina in the morning. The afternoon will be at leisure to explore the city. In the evening we will discuss and compare our best shots."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Heading off in 4x4s across the Atlas mountains, we will stop at the spectacular Kasbah of Ait Benhaddou, made famous in many Hollywood films before continuing on to Ourazazate, staying overnight in the oasis at Fint."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "After breakfast we set off on the ancient caravan road between the river and the mountains, past villages and gardens along the oases. We stop for lunch at M’hamid, the gateway to the desert, and afterwards take a camel ride to the dunes of Erg Lihoudi. We venture further into the Sahara desert for sunset at the beautiful Erg Chagaga dunes accessible only by four wheel drive. We spend the night in a bivouac of nomad tents under the spectacular milky way."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "After breakfast we continue our safari across the Sahara over the stony desert and the now dried-up Lake Iriqui. From the edge of the desert at Foum Zguid, we travel north to Taznakht, famous for its Berber gelims and carpets, where we stop for lunch. After crossing the Tizi-n-Ikhsane and Tizi-n-Tighatine passes, we reach Taliouine, the heart of the saffron growing region. Our journey takes us on to Taroudant, where we stay overnight in a riad."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "We wake up to the sounds and smells of Taroudant, known as “the little Marrakesh”, celebrated for its ramparts and medina. From here we travel along the argane groves of the Souss river valley to Agadir, then up the coast along the Paradise Valley. Traversing through the mountains, we reach our night’s destination, the vibrant town of Essaouira with its medina, many shops and fish restaurants."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "After exloring Essaouira in the morning, we travel through a forest of argane trees to return to our hotel in Marrakech. We pass many Berber villages on the way. On our last evening we will have the opportunity to relive and discuss our experiences over dinner."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Transfer to the airport for our departure."
+    }
+  ],
+  "map": ""
+}

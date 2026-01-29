@@ -1,0 +1,75 @@
+{
+  "destination": "Mexico",
+  "mainPhoto": "",
+  "id": "yucatan-adventure-tour-mexico",
+  "tourName": "Yucatan adventure tour, Mexico",
+  "placesVisited": "",
+  "generalInfo": "Enjoy a fantastic trip through the World Heritage Sites of the Yucatan Peninsula. This trip has a perfect combination of the core nature and cultural activities, that sum up what Yucatan Peninsula is all about! Explore the amazing Sian Ka’an, Calakmul and Rio Lagartos Biosphere Reserves as well as the second largest coral reef of the world, the amazing Mayan jungle, the unique wetlands and the wide biodiversity that these ecosystems have to offer. Truly understand the history of the Mayans by visiting impressive archaeological sites such as Coba and Chichen Itza and visit the colonial cities of Valladolid and Merida!",
+  "durationDays": "10",
+  "price": "2995",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival at Cancun airport. Transfer to your hotel. Overnight in Cancun—Hotel Rey del Caribe or similar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Depart towards the second largest coral reef in the world to swim with sea turtles and other great coral reef fishes. Follow then by visiting the great Tulum archeological site. Overnight in Tulum—Hotel Los Lirios or similar."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Visit the amazing Sian Kaan biosphere reserve ( World heritage site ) to learn about the great biodiversity Yucatan has. Hike in the jungle, float in the wetlands. Overnight in Tulum—Hotel Los Lirios or similar."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Depart towards Coba archeological site. Visit the site. Follow by a visit to Maya community in the heart of the Maya jungle. Finally arrive to Valladolid colonial town. Overnight—Hotel Meson del Marques or similar."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Depart towards Rio Lagartos Biosphere reserve ( another world heritage site ) and take a boat trip to see flamingos and other great birds and wildlife. Overnight in Valladolid—Hotel Meson del Marques or similar"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Early visit of Chichen itza archeological site (one of the New 7 Wonders of the world). Followed by a visit to a cenote to cool down and learn about the great underground rivers of the Yucatan. Overnight in Izamal—Hotel Itzamaltun or similar."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Enjoy a city tour of Izamal colonial city learning about its people, shops, handcraft projects, etc. Also enjoy the amazing Church of Izamal ( biggest church atrium in the world ). Overnight in Merida—Hotel Del Gobernador or similar."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Enjoy a city tour of Merida colonial town with the amazing culture it has to offer ( Cathedral, murals, architecture, people, food ) Overnight in Merida—Hotel Del Gobernador or similar."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Depart to enjoy Uxmal archeological site. Followed by a visit to the amazing Loltun caverns. Finally drive back to Cancun. Overnight in Cancun—Hotel Marriot courtyard."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Departure. Transfer to Cancun airport for your flight back home."
+    }
+  ],
+  "map": ""
+}

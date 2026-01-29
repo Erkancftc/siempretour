@@ -1,0 +1,80 @@
+{
+  "destination": "Sri Lanka",
+  "mainPhoto": "",
+  "id": "sri-lanka-highlights-tour",
+  "tourName": "Sri Lanka highlights tour",
+  "placesVisited": "Colombo, stay at community based project Tamarind Gardens, Nuwara Eliya, tea plantation visit, Yala National Park, Tissamaharama, Galle, Mirissa, whale watching",
+  "generalInfo": "This 11 day tour takes you to some of Sri Lanka’s best known sights, as well as staying 2 nights at a community based project with ‘Sustainability’ at its core. Experience the “cooler” Hill Country and tea plantations. See some of Sri Lanka’s most famous wildlife at Yala National Park, including Elephant and the elusive Leopard, as well as whale watching in Galle! This is a great introduction to Sri Lanka for those that haven’t been or to explore something a little more “under the skin” of the country for returning visitors.",
+  "durationDays": "11",
+  "price": "2200",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Depart London Heathrow on Sri Lanka Airlines for your overnight flight to Colombo."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "On arrival at the Bandaranaike International Airport you will be met by your travel representative and be transferred to Tamarind Gardens, Digana where you will “Live like a Local”. (Airport to Digana: approximately 04 Hours / 130 km) Overnight Stay at Tamarind Gardens, Digana–Standard Room (Twin Room) on Full Board Basis"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Today you will learn about the intricacies of typical Sri Lankan village lifestyles and culture whilst making a meaningful contribution to the community that you visit. Tamarind Gardens is a community based project with ‘Sustainability’ at its core. Its existence and all the activities which surround the property have been designed in order to bring economic benefit to a community which struggles daily with a very harsh environment. After a brief tour of the estate take a guided walk (which will last approximately one hour) to explore the village to meet interesting local people and learn about their way of life. Overnight Stay at Tamarind Gardens, Digana–Standard Room (Twin Room) on Full Board Basis"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "This morning you will head off to the quiet town of Nuwara Eliya. Spend the rest of the day at leisure enjoying the simplicity and beauty of life in the hill country away from the sophistication of city life."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "This morning you will visit a Tea Plantation and also a Tea Factory. Thereafter you can spend your day at leisure enjoying the beautiful surrounding of the Hill Country or the following optional excursions or activities can be booked"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Today you will leave to Yala. Check in at hotel."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "This morning you will enjoy a game drive at the Yala National Park. Spend your afternoon at leisure or take another optional game drive."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "This morning you will leave to Tissamaharama. Upon arrival you will enjoy a boat ride and bird watching in the lake of Tissamaharama."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Today you will leave Yala and head to Galle."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Today you will leave your hotel early morning with packed breakfast and proceed to the Mirissa Harbour for a Whale Watching* excursion. (Best Season is between November to Mid-April). Return to Galle and spend the rest of the day at leisure."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Today you will proceed to the airport to board your departure flight."
+    }
+  ],
+  "map": ""
+}

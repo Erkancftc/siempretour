@@ -1,0 +1,85 @@
+{
+  "destination": "Peru",
+  "mainPhoto": "",
+  "id": "peru-country-tour",
+  "tourName": "Peru country tour",
+  "placesVisited": "",
+  "generalInfo": "A comprehensive trip through Peru that takes begins in the depths of the Amazon rainforest and ends high in the Andes on the shores of Lake Titicaca. In between you will explore Inca ruins, visit bustling markets, and walk through gorgeous Peruvian landscapes as you follow the footsteps of the Inca from Cuzco to Machu Picchu. <br/><br/>Peru’s southern jungles promises swathes of barely disturbed lowland rainforest with a smattering of oxbow lakes whose banks sometimes bristle with birdlife, caimans, and capybara. Also within its locale is a particularly pristine, protected area of forest called the Reserva Nacional Tambopata-Candamo (commonly known as the Tambopata Reserve). Here, you can visit colpas (claylicks) — inconspicuous-looking mud slicks containing rich minerals and salts that attract macaws and other small parrots.<br/><br/>You will then depart the Amazon for Cuzco. As the capital of the vast Inca empire and their ‘navel of the world’, Cuzco was a remarkable city, reputedly built in the shape of a puma, full of magnificent stone palaces and temples decorated with gold. Modern-day Cuzco is a proud, beautiful and lively city with a vibrant art scene, excellent museums and fine restaurants.<br/><br/>Next, make your way through the Sacred Valley. This winding and fertile valley between Pisac and Ollantaytambo was at the spiritual and commercial heart of the Inca empire. There are numerous ways to explore this region whether by taking it in on foot or visiting the people who have called this area home for centuries.<br/><br/>At last you will reach the crown jewel of the Inca Empire, Machu Picchu. Aside from a few llamas grazing the grassy terraces, and a viscacha (a rabbit-like rodent) or two snuggling in the empty window holes, the ruins are unadorned and devoid of any living presence (other than humans of course, all the relics found there are displayed in a museum in Cuzco). Arrive there in the early morning, and you’ll see how the morning cloud gradually disperses into wisps, revealing the buildings and terracing layer by layer.<br/><br/>After time spent exploring this ancient wonder you will traverse the sparse yet beautiful altiplano to reach Lake Titicaca. Sail to the floating Uros Islands which feel springy underfoot as they are made from the tortora reed that grows on the lake. Further out, on Taquile Island and Amantani Island, take a walk past terraces of lima beans, maize and potatoes tended by shyly smiling locals, and learn about the origins of their unusual traditional dress and farming methods from the islanders themselves. For a more unusual but intimate experience we can also arrange homestays with the local families here.",
+  "durationDays": "13",
+  "price": "5195",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Today you will begin your journey by boarding your international outbound flight to Lima. Upon arrival in Lima today you will be met by a guide and driven to your hotel in the fashionable Miraflores district."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "On arriving in Lima, catch a connecting flight to Puerto Maldonado, the gateway to the Southern Amazon. The flight lasts around an hour and a half. You're met at the airport by a representative from your lodge and board a motorised canoe with a small group of other guests. It takes roughly half an hour by river to reach your lodge. Rest and relax on arrival at the lodge, or you may start the lodge's programme of activities that evening."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Over the next few days explore the rainforest with your lodge guides. The exact order of activities and trips may vary. Today, for example, you might walk one of the trails around the lodge, identifying vegetation such as bread fruit trees and rubber trees. After lunch and some downtime, at dusk you could take a canoe trip on the river, looking for nocturnal wildlife."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "This morning you may canoe on the nearby oxbow Sandoval Lake, learning about its formation, vegetation and wildlife, which includes blue and yellow macaws, and red howler monkeys. In the afternoon, walk on canopy walkway and learn about its conservation work. In the evening, head out on a night walk to spot wildlife emerging at dusk."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Travel back to Puerto Maldonado's airport by shared transfer and fly to Cuzco. On arrival, you're met and transferred to your hotel in the historic former capital of the Inca Empire. We suggest spending the rest of the day relaxing, perhaps taking short walks and getting used to the altitude."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "This morning you're picked up from your hotel by your driver and guide for a private half-day tour of Cuzco and several nearby Inca sites. Visit a former Temple of the Sun, and head out of the city to explore ruins such as Tambo Machay, an Inca fountain, and Quenqo Temple, a huge carved monolith. You have the afternoon free - this could be spent ambling around the colonial backstreets and markets."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Travel by road out of Cuzco with your private guide and driver and enter the Sacred Valley of the Incas. Here, enjoy a private guided tour of key sights such as the Pisac market and terraces, and the fortress town of Ollantaytambo which offers impressive views out across a mountainous valley. Stay the night in a hotel in the Sacred Valley."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Take the train to Machu Picchu, accompanied by your guide. This journey follows the rushing Urubamba River and it's a good way to see Peruvian and Andes scenery. You arrive at the site in the afternoon and take a private tour of the ruins with your guide. They show you the site's highlights, such as the Intihuatana Stone, known as the 'hitching post of the sun'. At the end of your visit you'll stay the night in Aguas Calientes."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "This morning you have the opportunity to explore Machu Picchu again at your own leisure. We recommend arriving early to explore the ruins in the morning, when the light falling over the stones can give the site a real aura of mystery. You might like to walk the short trail to the nearby Inca Bridge. This afternoon, take the train from Aguas Calientes back to Cuzco, where you're met and taken to your hotel by private transfer."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Today you will travel across the stunning countryside to Puno on the shore of Lake Titicaca. It is a long but beautiful journey."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Spend the final full day of the trip visiting the Uros islands and the Llachon community who live there."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Travel by private transfer to Puno's airport in time for your flight to Lima, which takes just over one and a half hours. Then connect with your international flight home."
+    }
+  ],
+  "map": ""
+}

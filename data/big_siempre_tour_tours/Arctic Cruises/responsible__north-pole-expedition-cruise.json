@@ -1,0 +1,65 @@
+{
+  "destination": "Arctic Cruises",
+  "mainPhoto": "",
+  "id": "north-pole-expedition-cruise",
+  "tourName": "North Pole expedition cruise",
+  "placesVisited": "",
+  "generalInfo": "Heading for 90 degrees North! Set off from Spitsbergen to sail to the edges of the Earth and reach the North Pole, the Holy Grail of adventurers in search of “the end of the world”. Aboard Le Commandant Charcot, a technological cocoon designed for exploration, you will encounter a wild and silent world that evolves according to the ice and the plays of light of the Northern Lights. During your crossing, you will probably be lucky enough to observe spectacular fauna - polar bears, seals or whales - before, perhaps, walking on the ground of this territory frozen by the cold, the northernmost point of our planet.",
+  "durationDays": "13",
+  "price": "30119",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Longyearbyen, Spitsbergen Longyearbyen is the capital of the Norwegian Svalbard archipelago, located on Svalbard’s main island, and is the northernmost territorial capital on the planet. With winter temperatures dropping to below 40°C, the landscapes of this mining town are simply breathtaking. The glaciers, the mountains stretching as far as the eye can see and the untouched nature, make you feel like you’re in completely unexplored territory."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "At sea along Spitsbergen The largest island in the Svalbard archipelago, its name meaning “pointed mountains” in German, Spitsbergen is the last piece of land before the Arctic ice floe. Aboard your ship, you will sail along the extremely spectacular coastline of this icy land. Between millennial glaciers and rugged mountains, you will discover a jagged coastline, hollowed-out by fjords. A unique setting, the refuge of a particularly rich avifauna, offering you the possibility of taking fabulous photographs from the deck of your ship."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Navigating through the sea ice Enjoy the absolutely unique experience of sailing to the heart of the ice floe, this vast expanse of virgin, immaculate ice. The landscapes are constantly changing, shifting from a smooth, flat wilderness to a chaos of ice, then to channels of open water. Your ship will sail along these naturally open channels and through the areas where the frozen layer is thinnest, offering you the chance to experience magic maritime moments in the midst of drifting sea ice. It will also often be an opportunity to see a particular kind of fauna, totally dependent on the ice floe."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Geographic North Pole Defined by a 90° North latitude, the Geographic North Pole lies on the Earth’s rotational axis, at the intersection of all meridians. Plunged into darkness for six months of the year, then lit by the sun for the following six months, this mythical site, permanently covered in ice and remote from any land, has fascinated generations of explorers. So far, only a very few people have ever reached it: an exploit which is now accessible to you aboard Le Commandant Charcot."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Navigating through the sea ice Enjoy the absolutely unique experience of sailing to the heart of the ice floe, this vast expanse of virgin, immaculate ice. The landscapes are constantly changing, shifting from a smooth, flat wilderness to a chaos of ice, then to channels of open water. Your ship will sail along these naturally open channels and through the areas where the frozen layer is thinnest, offering you the chance to experience magic maritime moments in the midst of drifting sea ice. It will also often be an opportunity to see a particular kind of fauna, totally dependent on the ice floe."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Ny-Alesund, Spitsbergen During your cruise, discover Ny-Ålesund, a former mining town that has been transformed into a scientific base. Founded in 1916, this small town was the departure point for many Arctic expeditions, including those of the famous explorer Roald Amundsen. Don't miss a visit to the museum and its famous post office, considered to be the most northerly in the world!"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "North-West region of Spitsbergen A kingdom of contrasts and natural marvels dotted with islands and peninsulas, northwest Spitsbergen fascinates with its preserved beauty. On these pristine lands, infinity unveils itself, treating the eyes to beauty sculpted by nature and enhanced by the changing light. The fjords bathed by icy waters, the jagged mountains and the imposing glaciers stand majestically before you, like monumental sculptures. In these lands, where souls are filled with deep serenity, only the murmur of broken ice, bearing mysteries and legends, disturbs the calmness. Aboard our Zodiacs and in the company of naturalist-guides, get as close as possible to this unique fauna and discover this centre for scientific expedition departures. In the distance, majestic whales glide silently through the glacial waters, whereas seals, walrus and Arctic foxes add a playful touch of life. As Svalbard reindeer wander the vast expanses, Arctic terns liven up the polar sky with their gracious flight and polar bears, which you may be lucky enough to see, patrol magnificently along the icy shores."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Longyearbyen is the capital of the Norwegian Svalbard archipelago, located on Svalbard’s main island, and is the northernmost territorial capital on the planet. With winter temperatures dropping to below 40°C, the landscapes of this mining town are simply breathtaking. The glaciers, the mountains stretching as far as the eye can see and the untouched nature, make you feel like you’re in completely unexplored territory."
+    }
+  ],
+  "map": ""
+}

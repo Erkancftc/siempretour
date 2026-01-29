@@ -1,0 +1,65 @@
+{
+  "destination": "Bosnia Herzegovina",
+  "mainPhoto": "",
+  "id": "bosnia-herzegovina-multi-activity-holiday",
+  "tourName": "Bosnia & Herzegovina multi activity holiday",
+  "placesVisited": "",
+  "generalInfo": "Bosnia &amp; Herzegovina, at the heart of the Balkans, offers Europe's most diverse adventure playground. Our multi-activity tour is designed to cater to a wide range of ages and abilities, with exciting activities such as canoeing, white-water rafting, hiking, Via Ferrata, pottery classes, and river-wading. Additionally, you can choose to explore the fascinating cities of Sarajevo and Mostar, guided by some of the most knowledgeable guides in the country.<br/><br/>Throughout your stay, you will be accommodated in unique local locations and experience genuine hospitality in a country that will enchant, thrill, and surprise you. We believe Bosnia &amp; Herzegovina to be Europe's best-undiscovered adventure holiday destination, and we invite you to join us for an unforgettable holiday!",
+  "durationDays": "8",
+  "price": "1295",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival and Transfer to Sarajevo. Arrival at Sarajevo airport, with an optional walking tour of Sarajevo if your flight gets in the morning! Overnight and dinner at Sarajevo. Car time: 30 minutes."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "White-Water Rafting on the Neretva River. The Neretva river canyon is approximately 20km long and offers breathtaking and amazingly preserved nature, with astonishing slopes, canyons, clean and fresh drinkable water, great beaches, fish, birds, and even more. With rapids ranging from level 2 to level 4, it’s an adrenaline rush that excites all ages. Diving from some of the cliffs, and jumping solo into some impressive rapids only adds to the experience! BBQ lunch provided. Overnight and dinner in Sarajevo. Rafting time: 2 hours. Car time: 45 mins each way."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Visoko Pottery Workshop. This day will take you to a Neolithic area of Visoko and a charming small village where only 6 families live nowadays. You will meet one of the best pottery artists in the country, enter his home, meet his beautiful family, share food, learn about their life and work and, finally, with a little help from the expert, make your very own pottery souvenir to bring home! Meeting a local community while putting yourself out there as an artist and discovering a deep connection between your mind, your body and the clay, is a unique experience offered by no other operator. Overnight and dinner in Sarajevo. Car time: 45 mins each way."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Skakavac Waterfall Hike. Time to visit one of the most spectacular Balkan waterfalls. Located only 12 km from the capital of Sarajevo, Skakavac Waterfall (Grasshopper Falls) is the largest unceasingly flowing waterfall in Bosnia and Herzegovina and an absolute “must” for all outdoor lovers visiting Sarajevo. The waterfall is 98 metres high plunging down a slippery limestone cliff and descending into a series of stunning smaller waterfalls, drops and pools. The trail is popular among hikers and mountain bikers but also those wanting a gentle walk and enjoying perfectly untouched nature. Overnight and dinner in Sarajevo. Hiking distance: 10km. Car time: 20 minutes each way."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Rest Day/Transfer to Mostar. A more relaxing day! Upon arriving at your accommodation in Blagaj you can chill by the banks of the Buna river or explore nearby Mostar on foot – a unique experience which will guide you through the entrance to a whole new world of contrasts. Overnight and dinner in Blagaj. Car time: 2 hours."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Via Ferrata and Canoeing the Trebižat River. Two activities in one day? You bet! The Blagaj ferrata “Vulin Potok” is located 200m above the source of the river Buna, and is home to the medieval fortress of Herceg Stjepan Kosaca, which dates from the XV century. An experienced professional guide will give you all the necessary climbing instructions – with a trail length of some 6km, a height difference of 370m, and physical difficulty: of 2/10 and a technical difficulty: of 4/10 this ferrata is adapted for all ages and the total duration of the adventure is about 3 hours. After a brief lunch, we then head to the river Trebižat, one of the most beautiful rivers in Herzegovina. The winding course of turquoise water and easy rapids is suitable for absolutely everyone! The length of the trail is about 8km and takes about 3 hours to complete. Overnight and dinner in Blagaj. Car time: 1 hour each way."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Istup Waterfall/River Hiking/Hiking to Trnovacko Lake. Imagine canyoning without the ropes and you’ll get the idea behind river hiking! Splashing, swimming, jumping and bouldering our way along a refreshing natural river is one of those experiences that offers something for everyone, young or old! It’s worth bearing in mind that at the height of summer, the water levels can run low – in this case we would switch activities to a hike to the beautiful Trnovacko lake. Sutjeska National Park is the best-untouched nature can offer and Trnovacko lake is nested underneath the mountain of Maglic, which is Bosnia’s highest mountain peak, bordering Bosnia and Montenegro. Trnovacko lake is actually located in Montenegro, but is only accessible as a hiking trail from the Bosnian side! Once at the lake, you will be given free time to explore the lake, while your guides will take time to prepare lunch. During the hot summer months, the lake is perfect for swimming too. Overnight and dinner in Blagaj. Total hiking time: 5 hours. Car time: 1 hour each way for Istup, 2 hours each way for Trnovacko Lake."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Return to Sarajevo Airport. Other destinations would incur an extra transfer charge."
+    }
+  ],
+  "map": ""
+}

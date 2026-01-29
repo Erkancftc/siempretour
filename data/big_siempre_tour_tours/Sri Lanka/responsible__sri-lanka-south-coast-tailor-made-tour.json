@@ -1,0 +1,55 @@
+{
+  "destination": "Sri Lanka",
+  "mainPhoto": "",
+  "id": "sri-lanka-south-coast-tailor-made-tour",
+  "tourName": "Sri Lanka South Coast tailor made tour",
+  "placesVisited": "",
+  "generalInfo": "This holiday minimises travel compared to typical Sri Lanka tours, blending wildlife and adventure between two coastal stays in distinct areas of the south coast—each showcasing a different side of the island’s charm. You’ll explore with a private chauffeur-guide, balancing immersive cultural experiences with plenty of beach relaxation — an easygoing way to discover Sri Lanka’s diversity. Designed to feature both popular highlights and hidden gems, the itinerary is carefully structured to ensure a smooth and enjoyable journey without travel fatigue. Your adventure begins and concludes along the stunning southern coastline.<br/><br/>Highlights of this holiday:<br/><br/>Encounter elusive leopards and sloth bears on a private safari in Yala National Park.<br/><br/>Experience Sri Lanka’s trendiest dining spots, from stylish eateries in Ahangama to Hiriketiya’s buzzing restaurant scene.<br/><br/>Immerse yourself in local culture on a scenic walk along the Pekoe Trail, meeting tea pluckers along the way.<br/><br/>Witness the incredible elephant feeding program at Udawalawe’s conservation sanctuary.<br/><br/>Unwind on the peaceful shores of Tangalle.",
+  "durationDays": "14",
+  "price": "3745",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Depart the UK: Fly from London Heathrow to Colombo, Sri Lanka, and get ready for an unforgettable holiday packed with unique experiences."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Southern Hills - Tekanda Lodge: Upon arrival, head straight to Sri Lanka’s southern coast for a tranquil stay at Tekanda Lodge, a secluded inland retreat nestled among lush tea and cinnamon estates. Whether you prefer unwinding by the pool, practising yoga, or simply soaking up the peaceful surroundings, this is the perfect place to relax. A short tuk-tuk ride takes you to the lively beachside hubs of Ahangama and Weligama, where boutique cafés and stylish shops add to the coastal charm. If visiting during the right season, embark on a whale-watching excursion from Mirissa or Weligama—one of the world’s premier locations for spotting Blue Whales. There’s also time to explore the historic Dutch Galle Fort."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Amba Tea Estate & the Pekoe Trail: Leave Tekanda and journey into Sri Lanka’s breathtaking hill country, stopping en route at Udawalawe Elephant Sanctuary to witness the morning feeding of orphaned elephants—an initiative focused on conservation. Continue to AMBA Tea Estate near Ella, a unique social enterprise property. Take part in a hands-on tea-making workshop, discovering the process from cultivation to production. You can also join guided hikes to hidden waterfalls or participate in a traditional Sri Lankan cooking experience using fresh organic produce from the estate. Nearby, the Pekoe Trail provides stunning scenery and insight into Sri Lanka’s colonial history. Following historic tea plantation routes, you’ll walk a picturesque stretch with a specialist guide, admiring the famed 9-Arch Bridge and the endless rolling tea fields. Along the way, meet local tea pluckers and farmers who are happy to share their craft."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Yala National Park - Block 5 : Travel to Kataragama and settle into an intimate 4-bedroom retreat near Yala National Park’s quieter Block 5. This section of Yala National Park provides a more secluded safari experience than its busier southern counterparts. It’s a fantastic spot for tracking leopards, sloth bears, crocodiles, and birdlife. Your private game drives ensure flexibility, with expert guides customizing the experience to your pace and interests. Staying at the Warden’s House near the park entrance allows for optimal wildlife viewing while offering downtime in serene surroundings. Nearby, the sacred Kataragama Temple is a cultural highlight, welcoming devotees from Buddhist, Hindu, and Muslim faiths and offering a fascinating glimpse into Sri Lanka’s spiritual heritage."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Relax in Tangalle: Return to the coast for a leisurely stay in peaceful Rekawa, near Tangalle. Bask in the tranquillity of the shoreline and embrace the laid-back atmosphere at Buckingham Place, an ideal setting to unwind after your adventure."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Fly home: Your chauffeur will transfer you to Bandaranaike Airport for your flight back to London, marking the end of an incredible Sri Lankan journey."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,60 @@
+{
+  "destination": "India",
+  "mainPhoto": "",
+  "id": "diwali-festival-holiday-in-india",
+  "tourName": "Diwali festival holiday in India",
+  "placesVisited": "",
+  "generalInfo": "This special small group holiday offers fascinating insights into life in the foothills together with the opportunity to join in with traditional celebrations. Experience the bright colours, music and dancing as the festivals of Diwali is celebrated in the Binsar Wildlife Sanctuary. Stay in charming mountain villages, enjoy some wonderful walks and experience the traditional, joyous festival celebrations. Perfect for single travellers or couples who wish to travel in company.",
+  "durationDays": "10",
+  "price": "1239",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Meet and welcome at 12pm at Delhi guesthouse. The afternoon is yours to meet the group or explore the city at your leisure. Night in Delhi hotel"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "An early morning train takes you to Kathgodam, from where you have a road transfer (4 hrs) to Khali Estate for dinner and overnight stay in twin room garden bungalow."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "From Khali enjoy a trip to the nearby town of Almora to explore the markets, alive with colour for the festival. Spend a second night at Khali."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Meet your guide who accompanies you for the rest of your stay. From Khali head through the pine-forest to experience the individual character and warm hospitality of the Binsar villages. You stay in four of the five villages and in one of them for two nights, and enjoy some wonderful walking with splendid views. You stay in simple twin rooms in the village guesthouses with breakfast, picnic lunch and dinner. You walk between villages in the company of your local guide with your luggage carried by village porters. Get to know the communities and experience the traditional festival celebrations."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Walk back to Khali Estate for another night stay."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "A road transfer (4 hrs) takes you to Kathgodam to catch the day train to Delhi. Overnight Delhi guesthouse."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Transfer to Delhi airport for flight home"
+    }
+  ],
+  "map": ""
+}

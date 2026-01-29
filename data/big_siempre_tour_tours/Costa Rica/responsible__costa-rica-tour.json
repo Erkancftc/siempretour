@@ -1,0 +1,100 @@
+{
+  "destination": "Costa Rica",
+  "mainPhoto": "",
+  "id": "costa-rica-tour",
+  "tourName": "Costa Rica tour",
+  "placesVisited": "San Jose, Tortuguero National Park, Santa Rosa de Pocosol, La Fortuna/Arenal Volcano, Monteverde cloud forest, Quepos, Manuel Antonio National Park",
+  "generalInfo": "If you’re longing to tour Costa Rica, then this two-week holiday offers the opportunity to do just that, with a round trip from San Jose featuring visits to both coasts and some of the country’s top national parks.<br/><br/>Aside from Tortuguero, Arenal Volcano and Manuel Antonio, this Costa Rica tour also includes trips to Monteverde cloud forest as well as chances to spend time with local people in a homestay at Santa Rosa de Pocosol and get stuck into cooking some local recipes for dinner.<br/><br/>From natural thermal springs and waterfalls to volcanoes and white-sand beaches, this is your opportunity to tour Costa Rica’s best bits.",
+  "durationDays": "15",
+  "price": "1970",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "San Jose.",
+      "description": "Hola! Welcome to Costa Rica. Your adventure starts in San Jose – with over a third of the country's population living within its parameters, San Jose is packed with both people and culture. You’ll have a welcome meeting at 6 pm tonight to meet your local leader and fellow travellers. If you arrive early, why not visit the National Museum. This canary-yellow building houses everything from exhibits on pre-Colombian history to a garden filled with native butterflies. Early bird history buffs might be interested in the Pre-Columbian Gold Museum or the Jade Museum – both of which display a wealth of indigenous artefacts."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Tortuguero National Park.",
+      "description": "Leave the hotel this morning and descend to the Caribbean lowlands on a private transport that ends at the port of La Pavona. This rustic port is your entry point to Tortuguero National Park. When you arrive, hop aboard a small boat and take a ride into the depths of the Costa Rican wilderness. Arrive in the middle of this biodiverse area, where freshwater lagoons rest under the canopy of rainforest bordering the ocean. Many animals call this place home, including jaguars and turtles, so listen out for the sounds of the local wildlife as you fall asleep in your lodge tonight."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Tortuguero National Park.",
+      "description": "Today, you're free to explore the park at your own pace. If you're woken by the chattering of the forests birds, why not haul yourself out of bed for a sunrise canoe trip? It’s a magical way to see the maze-like canals of the park, and you can look out for otters and manatees in the morning light. Tortuguero National Park was established in 1970 and is now home to 13 of Costa Rica’s 16 endangered mammals. Among them are manatees, ocelots and jaguars, as well as over 300 bird species. This is also the nesting ground of the green turtle, which comes ashore to lay its eggs on the sandy beaches, and the critically endangered hawksbill turtle, loggerheads and giant leatherbacks. During the day, you might want to return to the park’s walking trails or relax in your lodge. Many species are particularly active at night, so if you wish, you can head out in the evening on a turtle watching tour, with part of the cost supporting a program aimed to patrol the beach for poachers."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Santa Rosa de Pocosol Homestay.",
+      "description": "Bid farewell to the evergreen rainforest this morning and make the journey to Santa Rosa de Pocosol. Today, you’ll have a memorable homestay experience, but as the family you'll be staying with doesn’t speak much English, your leader will conduct an informal Spanish lesson on the drive. This afternoon, you’ll have the option to take a soap-making workshop or a guided hike to a nearby waterfall. In the evening, head back to your homestay for a cooking lesson – some of the dishes you make will be part of tonight’s dinner!"
+    },
+    {
+      "dayNumber": 5,
+      "title": "Tenorio Volcano National Park Area - Rio Celeste Area.",
+      "description": "After having breakfast with your host family, continue your journey to the Rio Celeste region, which is part of the Guatuso town. This northern part of the country is characterized by rural community-based tourism. Before reaching this next paradise of birds and tranquil surroundings, make a stop to visit an indigenous Maleku community. Here, you'll meet the locals and share a traditional Maleku meal with them. Listen to stories about their history, culture, and the challenges the community faces in modern Costa Rica. With only 650 people left, the Maleku Indigenous community is the smallest in Costa Rica. Both the community and the country share a common goal of reforestation, working together to regenerate forests and plant fruit trees, which help encourage animals to return to their natural habitats."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Rio Celeste.",
+      "description": "Today is as clear as the Costa Rica air, and with plenty of optional activities available, you won’t be short of things to do! How about a guided tubing excursion at Rio Celeste? The light-blue waters of the river are generally off-limits to travellers, but you’ll have the opportunity to float along the water in an inflatable doughnut and spend the day lazing along the river. Those who prefer a nature tour on foot might like to take a 3-hour hike along the Rio Celeste through the jungle, with a guide who will help you spot howler monkeys, crocodiles, and an abundance of tropical birds."
+    },
+    {
+      "dayNumber": 7,
+      "title": "La Fortuna.",
+      "description": "Beneath the watchful eye of the immense Arenal Volcano lies La Fortuna – a sleepy town with an abundance of hot springs and natural pools to enjoy. This is your destination today and when you arrive, you’re free to choose your own activities. Perhaps grab some fresh fruit in town, hop in a taxi to the entrance and then hike to La Fortuna waterfall for a swim beneath the cascading waters that spill out of the towering jungle. In the evening, why not grab a classic local dinner with your travel buddies? Chifrijo (fried pork, salsa, beans and tortilla chips) is a great dish to try."
+    },
+    {
+      "dayNumber": 8,
+      "title": "La Fortuna.",
+      "description": "Enjoy a free day to explore La Fortuna as you wish. The region offers a range of sights such as stunning lush forest, rare plants, animal watching and water-based sports on the lake. The volcano’s inner workings also mean that the area has plenty of thermal springs where hot, lava-heated water gushes to the surface. These springs, often surrounded by foliage, make the ideal place to relax. Active types could try stand-up paddleboarding on Lake Arenal with the incredible backdrop of the volcano and rolling green hills. Animal lovers will have a good chance of spotting sloths, monkeys, crocodiles and basilisk lizards skipping across the water on a boat tour of Cano Negro Reserve. Have a chat with your leader about the options available."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Lake Arenal – Monteverde.",
+      "description": "A morning of travel by bus and boat leads to incredible Monteverde. Settled by North American Quakers in 1951, this area was initially used as an environmentally conscious agricultural community and is now a biological preserve. The forest has near-constant cloud cover, providing consistent rainfall, which also gives the area an enchanted feel. After checking in to your hotel, join your leader on a nature walk through the Monteverde Cloud Forest Reserve, looking out for hummingbirds, quetzals, monkeys and even lazy sloths among the mist."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Monteverde.",
+      "description": "Make the most of your free time in lush Monteverde. Maybe see a different perspective on the forest by walking through the canopy on suspension bridges, or perhaps watch butterflies at play in the Butterfly Garden. More than 2000 species of plants, 320 bird species and 100 different types of mammals call Monteverde home, and no matter what you choose to do, you should keep an eye out for the quetzal – one of the most elusive birds in the world. This evening, journey into the jungle for a wildlife excursion focused on the nocturnal animals. Meet with our Foundation partner, The Monteverde Conservation League, to explore the Children's Eternal Rain Forest – a private reserve founded in 1986 through fundraising efforts by children worldwide. Join up with a naturalist guide who’ll lead you through the forest and educate you on everything from the sounds to the species while also helping you spot the various frogs, insects and night birds among the trees."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Manuel Antonio.",
+      "description": "Wedged between the beautiful Pacific coast and the national park, Manuel Antonio is a laidback town. Make your way there this morning, stopping along the way to join a local family in their home to prepare a traditional lunch and sip on local Costa Rican coffee. You'll have the chance to jump in and help, learning traditional techniques as the meal comes together! After lunch arrive at your accommodation and enjoy some downtime. Perhaps head to Espadilla Beach to watch the sunset over the Pacific Ocean."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Manuel Antonio.",
+      "description": "Today, feel the soft crunch of foliage underfoot while you hike the trails of the national park on a leader-led nature hike. Keep one eye on the scenic views and the other looking out for the abundant wildlife. Monkeys, armadillos, sloths and hundreds of birds all live here. Later, spend some time on the beaches surrounding the national park, and maybe hire a surfboard to catch some waves at Playa El Ray. If you want to spot wildlife and keep active at the same time, consider paddling through the mangrove forest on a guided kayak tour. It’s not unusual for curious monkeys to climb right onto the boat to say hello, and you’ll likely see snakes, crocodiles and plenty of birdlife too. Just remember your insect repellent! In the evening, maybe take a sunset sail off the coast – watching the blue sky turn orange is a spectacular sight."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Manuel Antonio.",
+      "description": "Today is free for you to do as you please. If you wish, you could return to Manuel Antonio National Park and continue your search for the solemn, white faces of the capuchin monkeys who live in the trees. Alternatively, why not kick-off your shoes and feel the sands of Manuel Antonio Beach between your toes? It’s easy to spend a whole day on this calm coastline. The towering green trees that line the coast provide solace from the sun, so this is a great place to sit by with a book (and maybe a guaro sour)."
+    },
+    {
+      "dayNumber": 14,
+      "title": "San Jose.",
+      "description": "Bid farewell to the coast and return to San Jose via public bus this morning. When you arrive, you’ll be free to relax or wander the city at your own pace. In the evening, you might like to head for dinner with your fellow travellers and group leader and toast to a trip well travelled."
+    },
+    {
+      "dayNumber": 15,
+      "title": "San Jose.",
+      "description": "With no further activities planned, your trip comes to an end today and you’re free to leave at any time after checking out. If you’d like to extend you stay, just speak to your booking agent ahead of time."
+    }
+  ],
+  "map": ""
+}

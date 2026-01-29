@@ -1,0 +1,65 @@
+{
+  "destination": "Morocco",
+  "mainPhoto": "",
+  "id": "morocco-family-holiday",
+  "tourName": "Morocco family holiday",
+  "placesVisited": "Guided tour of Marrakech, Aroumd village, Zaouit Ifergane, bread cooking demonstration, Essaouira, camel ride across the desert",
+  "generalInfo": "Close to the UK, just a 2hr flight, but a world away in terms of adventure, Morocco offers families a holiday that’s out of the ordinary and packed full of excitingly authentic experiences to keep kids and adults completely and utterly enthralled.<br/><br/>Morocco’s cities provide a portal into the past with spice markets, ancient city walls, street performers, snake charmers and musicians making guided tours of Marrakech all the more memorable. <br/><br/>A short journey south reveals rural settings and Berber villages amongst the Mizane Valley, in the High Atlas, where your family will discover the delights of bread making and traditional handicrafts before enjoying down time around the pool at accommodation in Zaouit Ifergane.<br/><br/>Camel rides, beaches and swashbuckling tales of pirates past await in Essaouira where colourful fishing boats conjure a charming setting for seafood suppers on the harbour prior to undertaking the 3hr journey east for one last magical night in Marrakech.<br/>",
+  "durationDays": "8",
+  "price": "665",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Marrakech.",
+      "description": "Salaam Aleikum! Welcome to Morocco. Your adventure begins in Marrakech – a feast for the senses and a world of spice markets, Amazigh music, carpets, acrobats and perfumed gardens. You can arrive at any time today before your welcome meeting at 5 pm. If you have an arrival transfer booked, please look for a representative when you arrive at the airport. Your hotel is located just outside the city walls around the old medina, about a 30-minute walk to the main square, Djemaa el-Fna – the largest public square in the world. It's also near a lot of local shops and restaurants, so there’s plenty to do if you arrive early. After your meeting, why not head out to dinner with the group and get to know each other."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Aroumd.",
+      "description": "Today's adventure begins with a drive over the High Atlas Mountains to the village of Imlil – the largest village in the Mizane Valley. You’ll store your main luggage here, before continuing on foot to the traditional mountain village of Aroumd with your daypack. If you don't feel comfortable with the walk, your leader can arrange a mule for you to ride instead (the kids will surely love the mule ride!). Perched on a rocky outcrop, the remote village of Aroumd offers views across the High Atlas Mountains and a unique opportunity to experience traditional Amazigh culture. Spend tonight in a family-run mountain home (gite) in Aroumd. Surrounded by the smell of woodstoves and bread, you’ll meet the host family and enjoy some traditional food together."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Taroudant .",
+      "description": "This morning, you'll have a bread cooking demonstration for breakfast and maybe an early morning walk around the village of Imlil. Transfer to Taroudant, passing through some Amazigh villages and across the High Altas Mountains via the Tizi n Tast, which gives you a great view of the largest plain of Sous. Arriving at your accommodation in the late afternoon, maybe take the kids for a swim in the pool and have a relaxing evening."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Taroudant .",
+      "description": "Today after breakfast, take a fun donkey ride through the picturesque oasis of Tiout. This is not your average city tour – by exploring the gorgeous oasis on the back of a donkey, you’ll be immersed in the local way of life and travel as the locals do. The oasis is full of palm trees and streams of running water, giving an exotic atmosphere full of sights, smells and sounds. By hiring these donkeys and their guides, you'll be directly supporting the local community and ensuring that the animals are well taken care of, providing ample food and shelter. After your tour, join a local woman in her home for a traditional homemade lunch. Not only will this experience leave you feeling full and happy, but it also supports the local community by providing income for the women in the village who prepare the meal with love and care."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Sidi Kaouki - Essaouira.",
+      "description": "After breakfast this morning, you'll travel up the coast to Sidi Kaouki. Mount a camel and take in the view as the waves crash along the shoreline, taking in the awesome scenery as you plod along. This may well be one of the highlights of your trip! Enjoy a picnic lunch on the beach, then board the bus again and head to Essaouira. This delightful artists' town is a former Portuguese trading colony and was once home to sizeable British and Jewish populations. The town faces a group of rocky islands called the Mogador and is surrounded by an expanse of sandy beaches and dunes. It's still a busy fishing port, and its pretty harbour is filled with tiny colourful fishing boats which go out early every morning."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Essaouira .",
+      "description": "Today is free for you to explore Essaouira. Everything in the small centre is within walking distance, and the beach is perfect for a long walk. Why not wander the harbour and its adjacent fish markets where you can witness the daily auction – a freshly-cooked plate of the day's catch is highly recommended. Maybe take the kids to browse some of the many shops and art galleries where unique local pieces are on display. The town is becoming renowned for its burled Thuya wood, delicately formed, inlaid and polished with oils. The scent from the oils fills the air and makes walking through the streets a delight for the senses!"
+    },
+    {
+      "dayNumber": 7,
+      "title": "Marrakech.",
+      "description": "Leaving Essaouira behind, journey inland to Marrakech. Enjoy an afternoon walking tour of the city centre, taking in the main sights on your way to the sprawling Djemaa el-Fna main square and souq. As is usual in a souq, individual trades and crafts are concentrated in one street or area, so the shoemakers are all next to each other, as are the jewellers, potters and weavers. This is the best place in Morocco to sharpen your bargaining skills, and you are almost certain to be tempted by some of the extraordinary variety of merchandise on display – perhaps a pair of traditional Moroccan slippers or some spices. The market almost has the atmosphere of a medieval fair. Fortune tellers and jugglers are among those who vie to entertain you. In the evening, wonderful smells waft by as food stalls cook up their local delicacies."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Marrakech.",
+      "description": "Your trip comes to an end this morning. There are no activities planned for the final day and you are free to depart the accommodation at any time. If you’d like to extend your stay in Marrakech, just get in touch with your booking agent ahead of time."
+    }
+  ],
+  "map": ""
+}

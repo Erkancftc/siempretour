@@ -1,0 +1,70 @@
+{
+  "destination": "Vietnam",
+  "mainPhoto": "",
+  "id": "vietnam-family-holiday-with-teenagers",
+  "tourName": "Vietnam family holiday with teenagers",
+  "placesVisited": "Hanoi, Mai Chau, Ninh Binh, Two nights in Halong Bay, Hoi An, Included activities include: cycling, kayaking and guided walking tours",
+  "generalInfo": "Take your teens into Vietnam on this nine day tour that focuses on cultural immersion and keeping active outdoors (four days of cycling) in and around Hanoi, Halong Bay and Hoi An. From bikes and boats to hiking and kayaking this family holiday is all about immersing older kids in the weird and wonderful world of Vietnam via a range of exciting and eye opening experiences. <br/><br/>Northern Vietnam is an absolute pleasure for families with rural regions, such as Mai Chau and Ninh Binh, often overlooked by fast-moving backpackers. Keeping teens on the go, as well as allowing down time moments to make new friends, is part and parcel of this tour with loads of opportunities to learn, laugh and live in lifestyles very far removed from their own. <br/><br/>A couple of nights spent afloat on Halong Bay will also show teenagers that there’s much more to life than tech before a flight to Hoi An takes you further back in time as well as placing your family temptingly close to the beach.<br/><br/>From cycling through paddy fields and the streets of Hanoi to kayaking and living on board a junk boat in Halong Bay, this family holiday in Vietnam covers all bases to allow teens, and parents, to keep active as they travel as well as having fun with newfound friends. <br/>",
+  "durationDays": "9",
+  "price": "940",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Hanoi.",
+      "description": "Xin chao! Welcome to Vietnam. Your adventure begins in Hanoi – the capital city, famous for its Old Quarter and 36 shopping streets – with a welcome meeting at 5 pm tonight at your hotel. If you arrive early, maybe stroll the tree-lined boulevards, hang out by Hoan Kiem Lake, see the ancient temples grab a Bahn mi with the family. This city is full of rich culture, fun shopping opportunities and delicious local cafes, so there’s plenty to keep you occupied."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Hanoi .",
+      "description": "This morning, you and the family will head out to explore Hanoi. Jump on the bus and visit the Museum of Ethnology and the Temple of Literature. Soak up some of the local history, then head to KOTO for lunch – KOTO stands for 'Know One, Teach One' and the restaurant is an organisation supported by our Foundation, training disadvantaged young people in the hospitality industry. After lunch, swap the four wheels for two and head out on a cycling tour around the West Lake. Tonight, you’re free to grab the kids and head out for a chilled dinner – maybe grab a bowl of pho from one of the streetside cafes?"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Mai Chau .",
+      "description": "After a hearty breakfast, jump on your private bus for the journey to Luong Son – a region in the country's northwest, this city is the starting point for your cycling adventure through Vietnam's picturesque countryside. After Hanoi's hustle and bustle, this area's fresh country air and relative lack of traffic will be a treat for the senses. You’ll ride to Mai Chau – home to a variety of minority groups with their own unique cultures and languages. Visit a social enterprise that’s centred around preserving and celebrating the traditional crafts of the Thai minority groups who settled in northwest Vietnam. Then, join some local women to learn about their crafts and how to make an embroidery pattern or dye cloth. Spend the rest of the day swimming in the pool and relaxing in your retreat-style accommodation."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Ninh Binh .",
+      "description": "Today is dedicated to exploring the villages and scenic countryside of provincial Vietnam. The journey from Mai Chau to Ninh Binh is easy and leisurely paced. You'll have plenty of opportunities to hop off your bike and take photos of the surrounding valleys, sugarcane farms and rice paddies that compose the landscape. The final stop is the town of Ninh Binh – this scenic province is famous for its limestone karst landscapes, lush rice paddies and gently flowing waterways."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Halong Bay .",
+      "description": "Now your family has seen some of the beautiful Northern Vietnam by bike, it's now time to see it by sea! You’ll drive to the UNESCO World Heritage site of Ha Long Bay – natural harbour of more than 2000 limestone islands rising from the emerald waters of Bac Bo Gulf. Home to countless beaches, caves and grottoes within its 1500 sq km, this spot is perfect for nature lovers. When you arrive, you'll set out on a kayak expedition. Your leader will take you through a safety demonstration, then lead you out onto the open waters. Tonight, you'll be dining and sleeping on board a traditional Vietnamese junk boat. Watch the sunset on deck and get to know your fellow travellers as the moon comes out."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Halong Bay – Overnight Train.",
+      "description": "Take a moment to soak in the scenery of Ha Long Bay (sunrise, anyone?) before disembarking the boat this morning. Make the drive back to Hanoi, where you’ll have use of day rooms to freshen up. You may like to head out and grab some dinner with the group, then it’s time to go to the train station to board an overnight train to Da Nang. A fun, local experience in Vietnam, the train is the perfect spot to get to know your fellow travellers a little better over a game of cards."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Hoi An .",
+      "description": "Arrive in Danang early this morning and take a short transfer to Hoi An – a UNESCO World Heritage site, Hoi An is known as Faifo to early Western traders and was one of South-East Asia's major international ports during the 17th, 18th and 19th centuries. Today, parts of Hoi An look as they did more than a century ago and it retains the feel of centuries past. Hoi An is also one of the best places in Vietnam to shop for souvenirs, especially if you’re looking for clothing, paintings or ceramics. For those interested in getting some clothes tailored, this is definitely the place to snare a bargain."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Hoi An .",
+      "description": "Spend the day exploring Hoi An, beginning with a guided orientation walk led by your leader then it's back on two wheels for a wider exploration of the town and its surroundings. The cycling route includes a visit to Tra Que Village, where you'll see local farmers tending their famous organic herb and vegetable gardens. You may even ride past rice paddies and shrimp ponds to Cua Dai beach. Tonight, why not wander down to the riverside and enjoy a final feast with the group to celebrate an amazing adventure."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Hoi An.",
+      "description": "Your trip ends today after breakfast. Either take a transfer to Danang airport for your onward flight or stick around a while longer getting to know this charming city better. If you’d like to extend your stay and explore the riverside restaurants and Old Town, just get in touch with your booking agent ahead of time."
+    }
+  ],
+  "map": ""
+}

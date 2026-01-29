@@ -1,0 +1,105 @@
+{
+  "destination": "Thailand",
+  "mainPhoto": "",
+  "id": "thailand-cultural-tour",
+  "tourName": "Thailand cultural tour",
+  "placesVisited": "",
+  "generalInfo": "This fast-paced 16 day trip takes you on an immersive and adventurous cultural journey through Thailand. Throughout your trip you will learn of the cultural differences to be found from the center of Thailand to the rural North or laid-back south - all with a focus on community based projects and low-emission experiences. <br/><br/>In Bangkok after discovering the famous highlights of this exciting city, you will slow the pace to explore the historical Klongs - or canals- by kayak, witnessing a quieter, more traditional, side of Bangkok where the locals go about their daily lives away from the tourist center of the city. <br/><br/>Spend the night rushing past lush countryside as you travel by sleeper train up to Chiang Mai - fondly known as the cultural heart of Thailand. Here you will explore forgotten cities and tea plantations, taking in the sights by traditional long-tail boat and rickshaw, as well as a blessing from the monks at the  impressive Doi Suthep. <br/><br/>Travel over to Chiang Rai at a leisurely pace, stopping at local markets for fresh fruit and snacks and enjoying the famous Northern countryside. In Chiang Rai a once-in-a-lifetime experience awaits as you visit a small ethical elephant sanctuary, dedicated to rewilding rescued logging elephants. Your day here will be as low impact for the elephants as possible, focusing mostly on observation and education, with the chance to feed them a treat by hand at the end of your visit. <br/><br/>Following this, you will travel in to the remote countryside outside of the city, to a community based initiative stay at Lanjia Lodge. Here you will learn of the traditions and daily life of the Hmong and Lahu people, as well as having the chance to plant trees with the Herbal Plant Nursery Project. The rest of your time here is spent trekking through the stunning scenery, visiting waterfalls and even the chance to meet a local shaman or watch a traditional  performance. <br/><br/>Your last few days are spent among the iconic limestone karsts of Khao Sok National Park with your private guide. Sleep in floating accommodation on Cheow Larn lake, visit the local communities and organic farms and explore impressive cave systems before flying home from Phuket or Krabi.",
+  "durationDays": "16",
+  "price": "5695",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Today you begin your journey by boarding your international outbound flight to Bangkok."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Upon arrival into Bangkok you will be transferred to your hotel, where you have the evening at leisure."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Have a private guided tour of Bangkok today visiting the capital's key attractions: the Grand Palace, Wat Po (home to the reclining Buddha) and Jim Thompson's house. Get used to Bangkok's different forms of public transport; the Skytrain which winds its way through the skyscrapers and shopping malls, the public taxi boat, a long-tail boat and of course the ubiquitous Thai tuk. This is a fun excursion which gives you a fantastic insight into the capital, without contributing to Bangkok's already heavy traffic."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "A trip along the Chao Praya river is a must for any visitor to Bangkok. A great way to do it without adding to the noise pollution of the many long-tail boats, is to kayak along a quieter section of the channel. As well as reducing emissions, it has the added benefit of allowing you to see a different side of Bangkok as river life is key to those in the city. Later this afternoon, transfer to Bangkok's train station in time for your overnight sleeper train to Chiang Mai in the north of the country."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "On arrival into Chiang Mai, your private guide will meet you from the train and transfer you to your hotel, where you have a few hours to relax and freshen up. Later this afternoon, head out of the city and up to Wat Pratat Doi Suthep, where you can experience a monk blessing and enjoy stunning views over the surrounding countryside."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Explore the highlights of Chiang Mai today using a mixture of local public transport. Take a long-tail boat down the Ping river, enjoy a rickshaw ride through the city, and cycle around the old forgotten city of Wiang Kum Kam."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Today you will have chance to discover the tea and coffee plantations of northern Thailand, with a visit to Mae Kampong, just outside of Chiang Mai. Enjoy a delicious local lunch and a traditional Thai massage before returning to the city late this afternoon."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Your guide will meet you after breakfast, and you will make the drive from Chiang Mai to Chiang Rai. This takes between 4-5 hours with stops along the way, including a chance to taste the delicious pineapple along the road. Arrive into Chiang Rai this afternoon, and relax at your hotel, perhaps heading into town for dinner."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Elephant Valley is a fantastic sanctuary in Chiang Rai, and today you will have chance to visit. Enjoy your time with the elephants, learning about the amazing work that the sanctuary does in terms of elephant care and conservation of the species, as well as exploring the surrounding countryside by bike."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "From Chiang Rai head to the delightful community-based initiative of Lanjia Lodge to spend time with the Hmong and Lahu people, learning about their culture and traditions. There is also chance to plant trees at the Herbal Plant Nursery Project — an initiative set up to improve the quality of life of local people by teaching them how to grow vegetables and about the importance of the ecosystem in their village. This evening you will have dinner at the lodge and watch traditional Hmong performances. All your meals are included at the lodge."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Spend the day exploring the local villages around the lodge today. You have chance to trek to a local waterfall, visit the house of a local shaman and to enjoy the stunning scenery around the lodge with your private guide."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "After breakfast, bid farewell to your hosts and transfer back to Chiang Rai in time for your flight down to Phuket. Transfer around two hours along the coast to Khao Lak, where you have the evening at leisure."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Transfer around an hour to the Khao Sok National Park today with your private guide, and head to the village of Khao Pang. Enjoy a tour around the village's organic farm and a delicious local lunch, before moving onto the next village. Enjoy a fantastic canoeing trip through the mangroves before transferring to your hotel for the evening, where dinner is included."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "After breakfast, head towards Ratchaprapa Dam on the edge of the Cheow Larn lake. Enjoy a boat ride through the striking limestone karsts, before arriving at your floating camp — home for the night. All your meals are included here."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Have an early breakfast this morning at your accommodation to start your day’s activity before the majority of other visitors arrive on the lake. Embark on a long-tail boat with your guide, spotting wildlife as you head towards the Coral Cave. Explore the cave, before returning to the mainland, where your transfer will be waiting for your onwards journey."
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Arrive home today to complete your journey."
+    }
+  ],
+  "map": ""
+}

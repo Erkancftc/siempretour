@@ -1,0 +1,90 @@
+{
+  "destination": "Costa Rica",
+  "mainPhoto": "",
+  "id": "costa-rica-small-group-adventure-holiday",
+  "tourName": "Costa Rica small group adventure holiday",
+  "placesVisited": "",
+  "generalInfo": "Despite its small size, Costa Rica is one of the most biologically diverse countries in the world. Spend this holiday exploring a land of volcanoes, wildlife, rainforests and beaches. This adventure brings you a balance of guided excursions and free time, with a special emphasis on seeing wildlife. Optional activities include zipping through the sky on a canopy tour, scuba diving, and much more besides.<br/><br/>This is a small group adventure with a max group size of 16, average 10.",
+  "durationDays": "16",
+  "price": "1529",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "San José: Arrive at any time. Amid the hustle and bustle of this busy capital, San José has beautiful parks, museums and an ornate National Theatre. Start your exploration of the city in the central plaza, a great place to people-watch. A mime artist, juggler or marimba band may be performing. Artisan booths are common, creating a regular arts and crafts fair atmosphere. Sample the excellent craft beers that are currently taking the country by storm. Welcome meeting at 6.00pm. Overnight at Dunn Inn Hotel or similar"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "San Jose to Quepos: Today we head to the small town of Quepos on the Pacific coast. A short distance away, Manuel Antonio National Park offers beautiful white-sand beaches and warm turquoise water, ideal for swimming, fishing, kayaking, boogie boarding, sailing or surfing. Accommodation at Villa Romantica or similar Optional Activities: Manuel Antonio National Park Visit - One of Costa Ricas nicest beaches, you will see sloths, monkeys, iguanas, and possibly armadillos. Climb to the lookout to capture views of the pristine Pacific Ocean and the area’s off-shore islands. Kayaking - Choose to kayak the calm waters of the mangroves or paddle the waves of the Pacific. Whale and dolphin watching (seasonal) - Enjoy a half day catamaran trip looking for whales and dolphins that are often spotted in these beautiful bays, and have a chance to do some deep water snorkelling before heading back on to the boat for a tasty BBQ lunch."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Monteverde: Spend a couple of days exploring the town and a cloud forest reserve, truly a bird lover's paradise. Optional activities include the Sky Walk, a series of suspension bridges through the jungle canopy, a butterfly garden and a thrilling canopy zip line, with line longest zip line in Latin America, over one and a half kilometres in length. Pull on your poncho and boots, it’s time to head into the cloud-covered forest, past over-sized ferns and exotic orchids. Harness your inner Tarzan and Jane as you imagine swinging from the giant vines. Trudge along 12km of trails, watch for wildlife, and trek to the top of the observation tower. Be sure to stop and listen too, hear the haunting call of the bellbird and perhaps catch sight of the brilliant green and red resplendent quetzal. Accommodation at El Atardecer Hotel or similar."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Monteverde to La Fortuna: Travel from Monteverde to La Fortuna, known for activities like rafting, waterfall rappelling and relaxing in local hot springs. La Fortuna, the town near the foot of Arenal Volcano is an excellent base for adventure. Hike the area’s nature trails, swim in chilly La Fortuna waterfall or go canyoneering (rappelling) and catch a bird’s eye view of the forest greenery. Accommodation at Hotel Las Colinas or similar"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "La Fortuna: Enjoy two free days in La Fortuna to enjoy optional activities, Also the area is a birders’ paradise, with over 600 species as permanent residents Venado Caves Exploration - Duck your head and enter an undergroundworld formed some 15 million years ago. La Fortuna Waterfall Swim - The water cascades 65m (200 ft) down theside of the dormant Cerro Chato. Sit on the rocks, get sprayed, watch foriridescent blue morpho butterflies and then plunge into the cool waters. Canyoneering - Hold on tight and get ready to rappel downthe face of rushing waterfalls Baldi Hot Springs Soak - Relax in the shadow of the Arenal Volcanoimmersed in one of the naturally heated pools at Baldi Hot Springs Hotel andSpa. Whitewater Rafting - Pull on your bathing suit and water shoes,don a helmet and prepare to get wet and wild. Guided by expert leaders, paddlethrough Class II-IV rapids as you raft past spectacular scenery."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "La Fortuna & La Virgen: Today we will head towards Saraquipi Rainforest and on route, stop andvisit a local coffee cooperative in the small village of San Miguel de Sarapiquí.Here we will tour the grounds of the cooperative to see shade-grown coffeeplants, learn about everything from harvesting, to husking, drying, androasting the beans before enjoying the best part – a fresh cup! Enjoy a typicallunch of plantains, beans, and freshly caught tilapia fish. Then take a tractor-drawn cart excellent for navigating the jungle along rugged uphill terrain on the way to our special jungle oasis. Accommodation in Magsasay Lodge or similar where there may be shared sleeping and bathroom facilities."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "La Virgen: Enjoy a day in the beautiful Sarapiquí Valley. Optional activities include swimming in the river, night walks, an empanada-making lesson or lounging in a hammock."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "La Virgen & Tortuguero: After breakfast we will head to Tortuguero; the journey is half the adventure - by tractor, van and then boat. Your beautiful jungle lodge can only be accessed by boat so hop on board, kick back, and prepare to witness a parade of tropical birds, reptiles, and mammals as we motor through the black water canals of the Tortuguero. Accommodation at Baula Lodge or similar"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Tortuguero: Enjoy free time to explore Tortuguero. kayak through the canals and view the wildlife, wake up early and head to the beach to watch turtle eggs hatch (seasonal). Grab a paddle and prepare to witness tropical birds, reptiles, and mammals as you kayak through Tortuguero National Park. At night visit the nesting grounds of the green and leatherback turtles (seasonal)"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Tortuguero to Puerto Viejo de Talamanca: After breakfast, head to Puerto Viejo de Talamanca, with spectacular scenery en route. Scan the trees for toucans; watch the shores for caimans, otters, iguanas and frogs, and look up to see monkeys and sloths. The village of Puerto Viejo is surrounded by picturesque white and black sand beaches, Check out the beaches of Cocles and Punta Uva, at Gandoca Manzanillo National Wildlife Refuge close by look for capuchin and howler monkeys, sloths and raccoons. Grab a mask and snorkel and head out to explore the marine life off the coast. Accommodation at Escape Caribeno or similar."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Puerto Viejo de Talamanca: With free time here, head out and explore and do some of the optional activities that you didn’t get a chance to do yesterday and don’t forget to try some fantastic Afro-Caribbean cuisine, a local favourite being rice and beans cooked in coconut milk, with Caribbean chicken."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Puerto Viejo de Talamanca to San Jose: Enjoy free time in the morning before heading back to San Jose with overnight accommodation at Dunn Inn Hotel or similar"
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Depart anytime for your flight home"
+    }
+  ],
+  "map": ""
+}

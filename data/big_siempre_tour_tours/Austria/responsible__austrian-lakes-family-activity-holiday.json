@@ -1,0 +1,65 @@
+{
+  "destination": "Austria",
+  "mainPhoto": "",
+  "id": "austrian-lakes-family-activity-holiday",
+  "tourName": "Austrian lakes family activity holiday",
+  "placesVisited": "",
+  "generalInfo": "<br/>   Combine glorious Alpine panoramas with a wide range of activities, and you have the perfect ingredients for a fun-filled family holiday. You stay in the picturesque Austrian village of Strobl, on the eastern shore of Lake Wolfgang, and one of the prettiest spots in the region. During your time here we provide a wide selection of fully researched self-guided walking and cycling routes, typically with a level 1 activity rating. To ensure total flexibility, we give you a complimentary Headwater bike for your exclusive use throughout your stay. There's also excellent local bus, ferry and cable car services (payable locally) linking the local lakes and villages.   A full range of watersports can be booked and paid for locally, with tuition available for beginners. Alternatively, perhaps take a trip on one of the many hop on, hop off lake cruisers and soak up the views from the water. There's also a natural wide beach for sunbathing. Take time to visit Mozart's magical city of Salzburg: stroll through the Mirabell Gardens, lunch in an atmospheric cobbled square, then take the funicular to Hohensalzburg Fortress for the most amazing city views.  You will spend 7 nights at the family-run and recently renovated 4 star Hotel Bergrose Hideaway, set back from the river, and less than five minutes' cycle from the lake. Half Board is available at a supplement (Weds-Sun) at the Hideaway Kitchen where a 4 course menu is served using fine ingredients from regional producers. Alternatively an a la carte and sushi restaurant are available (Weds-Sun). Hotel Bergrose is suitable for families with children over 12 only.<br/>",
+  "durationDays": "8",
+  "price": "1639",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Day 1: Arrive in Strobl.",
+      "description": "Arrive at your hotel in Strobl. A typical itinerary is shown below, but you're free to pick and choose your activities each day."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Day 2: Cycle Bad Ischl to Strobl.",
+      "description": "Take the bus to Bad Ischl for your briefing and to collect your bike. Take time to explore the spa town - visit Franz Josef's Kaiservilla and the imperial hot spa that houses salt baths, steam room, hammam and Alhambra baths. Return to Strobl along the banks of the River Ischl, passing tiny shrines hidden below the Leonsberg and Bleckwand."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Day 3: Cycle to St Gilgen.",
+      "description": "Keeping close to Lake Wolfgang's southern shore, a level cycling track through a tiny nature reserve brings you into lovely St Gilgen where the busy waterfront is filled with restaurants, cafes and attractive frescoed houses. Visit Mozart's museum (his mother was born here), or take the cable car up Zwolferhorn for stunning 360-degree views. Alternatively, try your hand at water skiing on Lake Wolfgang followed by a cooling swim from the hotel's bathing jetty."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Day 4: Cycle/Walk to St Wolfgang Cycle or Walk.",
+      "description": "Today head first by the river then along the north shore of the lake to St Wolfgang. Renowned for its beautiful 15th century church, this famously pretty village boasts a maze of cobbled streets lined with attractive frescoed houses, shops and cafe terraces affording superb lake views. Culture and music are very much part of St Wolfgang's fine tradition, so be sure to explore the boutique craft and chocolate shops! After lunch, hop on the antique cog railway as it chugs up to the summit of Schafberg (1782m) for unrivalled Alpine views."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Day 5: Free day exploring Salzburg.",
+      "description": "Why not give yourself a break from cycling today and take the local bus (80 mins) to Mozart's fairytale city of Salzburg? Described as a Baroque jewel, and recognised by UNESCO, its idyllic setting, surrounded by the Alps and bisected by the gentle Salzach river, cannot be bettered by any other city in Europe. Take time to explore its historic heart and you'll find a wealth of Baroque palaces, Renaissance gardens, elegant Viennese cafes and the oldest open-air theatre in Europe."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Day 6: Cycle to Lake Nussensee.",
+      "description": "Today's cycling route takes you along quiet country lanes and through rural farming hamlets bordered by low Alpine meadows - look out for the neat woodpiles to be used for heating over the winter months. Lunch at the popular Zur Wacht restaurant then ascend up to beautiful Lake Nussensee, a hidden gem completely off the tourist trail; look out for rare orchids scattered around its shady shores. There's lots of time to swim and relax before completing a circular loop back to Strobl."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Day 7: Cycle or walk to Lake Schwarzen Cycle or Walk.",
+      "description": "You have a choice of walking or cycling routes today across the valley and up through the forest towards Lake Schwarzen, perfectly positioned beneath the shadows of the Vormauerstein, Hoheneck and Breitenberg peaks. Have lunch in one of the restaurants basking in sunshine beneath the snow-capped mountains, then it's a delightful valley descent back to Strobl."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Day 8: Leave Strobl.",
+      "description": ""
+    }
+  ],
+  "map": ""
+}

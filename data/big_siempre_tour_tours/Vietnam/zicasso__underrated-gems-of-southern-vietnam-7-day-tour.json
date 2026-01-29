@@ -1,0 +1,60 @@
+{
+  "destination": "Vietnam",
+  "mainPhoto": "",
+  "id": "underrated-gems-of-southern-vietnam-7-day-tour",
+  "tourName": "Underrated Gems of Southern Vietnam 7-Day Tour",
+  "placesVisited": "Ho Chi Minh City (Saigon), Vung Tau, Can Tho, Con Dao Islands",
+  "generalInfo": "Steer clear of the often overcrowded hotspots of Vietnam with this 7-day off-the-beaten-path tour of Vietnam. Cruise across staggering landscapes that feature emerald forests, immerse yourself in the authentic culture, and partake in exciting and often overshadowed experiences. From the intricacies of Vietnam’s coveted cuisine to the heritage that shrouds iconic ornate pagodas, there is much to experience on this off-the-beaten-path adventure.",
+  "durationDays": "7",
+  "price": "2,100",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Ho Chi Minh City – Farm-to-Table Dinner",
+      "description": "Ho Chi Minh City is a dynamic destination that is home to a distinctive culture and a fascinating blend of Southeast Asian customs. Upon your arrival, a chauffeur will be waiting for you at the airport to transfer you to your 5-star accommodation. You will have a few moments to unwind in your room before having a few hours to spend at your leisure. There are secret spots and unique activities that will entertain you thoroughly without having to navigate the over-crowded and common locations. For dinner, you will transfer to an agricultural village and delight in a farm-to-table dinner."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Vung Tau – Crescent Bay Beachfront",
+      "description": "After breakfast this morning, you will transfer from Ho Chi Minh City to Vung Tau. Upon your arrival, you will settle in to your new accommodation before transferring to the destination’s less-crowded shores. The city’s crescent bays stretch for miles, making them the perfect place to enjoy a long stroll and the shade of olive green palms. Beyond the brilliance of digging your toes into a brochure-worthy beach, there will be an array of water sports to enthuse you. The city is regarded as one of the paramount seafood destinations in Vietnam, and you will explore this scene with a tour of the city’s seafood markets. Afterward, you will have the evening to spend at your leisure."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Vung Tau – Thuong Dai Chua Kito Vua",
+      "description": "After breakfast, you will transfer to Vung Tau’s Little Mountain. The mountain offers a trail that winds up the slope under a dense forest. You will partake in this hike to the top, which will award you with a view of a 32-meter tall statue of Jesus. Your tour will continue to the white statue of Buddha, Shakyamuni Buddha. There is a peaceful ambiance that blankets the spiritual landmark. You can bask in the atmosphere of this hallowed destination before returning to Vung Tau for the remainder of the day."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Can Tho – The Banks of the Mekong Delta",
+      "description": "After breakfast, you will transfer to Can Tho, which is a dreamy destination in the heart of the Mekong Delta. When you arrive, you can enjoy some time at your preferred pace. After settling in to the comforts of your accommodation, you can spend the day invigorating your minds and bodies with an authentic Vietnamese massage or mud bath. You will then indulge in a cruise across the Mekong River on a traditional sampan boat. Your spa therapy will completely rejuvenate your spirit, and your journey along the river will be educationally entertaining."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Can Tho – Immersive Cruise to Floating Sites",
+      "description": "Today will mark your total discovery of all that Can Tho has to offer, from floating markets and agricultural farms to venerated museums that highlight the country’s tumultuous past. After breakfast, your guide will lead you on an expedition to the area’s noteworthy landmarks. You will board a wooden riverboat and voyage to a nearby floating market before cruising past boats that are overloaded with fresh fruit and vegetables. You will then transfer to museums across Can Tho. Lastly, you will have a variety of places to dine before returning to your accommodation for the evening."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Con Dao Islands – The Heritage of Con Dao",
+      "description": "Today, you will fly to the Con Dao Islands, which offer an idyllic retreat off the buzzing mainland of Vietnam. Upon your arrival, you can spend the morning and afternoon under the sun on a seemingly endless seascape. The temples and landmarks across the island are shrouded in history. In the afternoon, you will be absorbed by the remarkable heritage of Con Dao during a tour of the UNESCO World Heritage Sites of Con Dao Prison Site, the Lady Phi Ten Temple, and Vo Thi Sau Grave Memorial. Afterward, you will have a snorkel tour that leads you to vivid coral reefs."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Con Dao Islands – Departure",
+      "description": "After breakfast, a private driver will transfer you to the airport for your flight home."
+    }
+  ],
+  "map": ""
+}

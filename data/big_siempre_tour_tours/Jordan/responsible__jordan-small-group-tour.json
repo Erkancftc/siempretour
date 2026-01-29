@@ -1,0 +1,65 @@
+{
+  "destination": "Jordan",
+  "mainPhoto": "",
+  "id": "jordan-small-group-tour",
+  "tourName": "Jordan small group tour",
+  "placesVisited": "",
+  "generalInfo": "Journey through Jordan on an 8-day Premium adventure and discover a land of desert treasures and altruistic people. From the soaring facades of Petra to the lowest lows of the Dead Sea, the sunrise colours of Wadi Rum and the ancient ruins of Jerash, Jordan’s landscapes impress at every turn. But beneath its striking exterior is its people – full of heart and deep-rooted tradition. Learn the secrets of Jordanian cuisine with a mother and her daughters, immerse yourself in Bedouin culture during dinner at their camp and travel with a local leader who will illuminate the magic of their country.",
+  "durationDays": "8",
+  "price": "2622",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Amman.",
+      "description": "Ahlan wa sahlan! Welcome to Jordan. You’ll be met by a representative at the airport and transferred to your hotel. Your adventure begins with a welcome meeting at your hotel with your group and local leader at 6 pm. If you arrive early, maybe visit a local cafe and pick up a coffee and ara’yes (pita filled with spiced meats). Maybe head to the Old Town’s Roman Amphitheatre or the Jordan National Gallery of Fine Arts. After your meeting, head to a local restaurant for a welcome dinner with your group and local leader. Sharing food is a huge part of Jordanian culture, and eating out is always a social affair. Tonight, your leader will introduce you to some of the country’s most beloved dishes, like mansaf (lamb and rice with yoghurt sauce) and kunafa (a dessert made with filo pastry and cheese)."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Amman.",
+      "description": "This morning, leave Amman for a short drive north to Jerash where you’ll find some of the world’s best Greco-Roman ruins. Featuring an 11 m arched gateway built for a visit from the Roman Emperor Hadrian in AD 129, Jerash is home to a collection of theatres, baths, public buildings and colonnaded streets. Your leader will share the history of the ruins and help you imagine what life once looked like in this Roman city. Grand columns encircle the Oval Plaza – the city’s centrepiece and a great place to linger after exploring Jerash's monuments. After, return to Amman and head to a cooking school for a look behind the scenes of Jordanian cuisine. During this hands-on activity, you will learn how to make some classic dishes like maqlubeh, mutabbal and baba ghanouj before sitting down as a group to enjoy the fruits of your labour."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Dead Sea.",
+      "description": "Today, you’ll make the journey from Amman to the Dead Sea. Named for the lack of life in its waters, this lake is so intensely salty that the water density makes swimming very difficult, but bobbing on the water's surface is a fun experience. On the way, stop off at Mount Nebo and hear the story of how Moses is said to have seen the ‘promised land’ before he died from what is believed to be this very spot. At St Georges Church, see a Byzantine mosaic depicting a map of the Holy Land. When you arrive, enjoy some time to float in the waters of the Dead Sea, relax on your hotel’s beachfront or take a dip in the infinity pool."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Petra.",
+      "description": "Depart the Dead Sea and drive to the ancient Crusader castle at Shobak – your leader will explain how this fortress was originally built to protect the eastern flank of the Latin Kingdom and its trade routes to the sea before it fell to Saladin in 1189. Enjoy the scenery and stop off at the viewpoint overlooking the Dana Nature Reserve before arriving in the late afternoon to your Petra accommodation. Petra dates back to the 6th century BC and is considered the crown jewel of Jordan, featuring an impressive series of tombs and dwellings carved directly into the rock. When you arrive, you’ll have some free time to start uncovering the secrets of Petra at your own pace. The iconic view of the Treasury's glorious facade, glimpsed from a narrow cleft known as the Siq, is perhaps the single-most striking sight of the entire region."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Petra.",
+      "description": "Today, you’ll explore Petra on a guided walking tour. Walk through the Siq that leads through the rock and is at some points only a few metres wide, with walls soaring up to 180 m on either side. You’ll also have time to climb to the Monastery if you wish, providing a magnificent view of the entire site. Dinner this evening is a special one – you’ll visit the home of a local Bedouin family for a homemade dinner and the chance to learn more about life in Petra. Tonight, maybe take the chance to witness Petra's transformation at nightfall – seeing the Treasury Plaza lit up by candlelight while Bedouin music plays is a truly memorable experience."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Wadi Rum.",
+      "description": "This morning, drive to Wadi Rum – a protected area of desert that impresses with sandstone mountains, canyons and arches. Enjoy some lunch in the small village of Rum, then jump into a local jeep and journey into Wadi Rum with your Bedouin hosts. Visit several of the area’s distinctive rock formations and appreciate the silent desert landscapes, home to hardy Bedouin communities that live in scattered camps. Gain a deeper understanding of their way of life as you join them for a zarb (underground oven) dinner at one of their camps, set deep in the desert. Tonight’s Feature Stay accommodation is a camp that offers a base among remote and wild surroundings. Spacious tents are fitted out with comforts like king-sized beds, air conditioning and ensuite bathrooms. Fall asleep in your tent after witnessing a magnificent canopy of stars – tomorrow, you’ll wake up to a sunrise over the red-hued landscape."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Amman.",
+      "description": "After waking up in the sweeping surrounds of your Bedouin camp this morning, take a walk around the area before scaling one of the large dunes for panoramic views of your surroundings. After, return to Amman for the evening. Tonight, you might like to join your group for a final dinner to round off your adventure – speak to your leader to find out which restaurants in the city are popular with the locals."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Amman.",
+      "description": "Your trip will come to an end today after breakfast. If you have arranged a private airport transfer, you will be advised of the pick-up time. If you would like to spend more time in Amman, just get in touch with your booking agent ahead of time to organise additional accommodation."
+    }
+  ],
+  "map": ""
+}

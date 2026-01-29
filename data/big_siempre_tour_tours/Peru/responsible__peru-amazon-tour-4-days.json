@@ -1,0 +1,45 @@
+{
+  "destination": "Peru",
+  "mainPhoto": "",
+  "id": "peru-amazon-tour-4-days",
+  "tourName": "Peru Amazon tour, 4 days",
+  "placesVisited": "Puerto Maldonado, Jungle lodge in the Madre de Dios area, Amazon trek, Cocococha Lake, Jungle night walk, Amazon canoe ride, Giant otters, macaws, caiman, tapir, Brazil nut farm",
+  "generalInfo": "Immerse yourself in the exotic beauty of the Amazon in Peru on a four-day jungle adventure. A motorized canoe takes you into the heart of the rainforest, where you’ll stay in an atmospheric nature lodge lit by candles and kerosene lamps. Wake to the twitter and buzz of exotic birds then enjoy a jungle trek accompanied by a guide who can teach you about the area’s rich flora and fauna and the healing properties of native plants. A river cruise heads to the oxbow lake where giant otters live and takes in the clay cliffs and banks where hundreds of macaw come to feed on the salt found here – a mysterious daily ritual that’s riotously colourful and noisy. This is a short but very sweet introduction into the friendly people and intriguing creatures of the Amazon.",
+  "durationDays": "4",
+  "price": "450",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Puerto Maldonado/Amazon Lodge.",
+      "description": "Bienvenidos! Welcome to Peru. Please ensure you arrive in Puerto Maldonado no later than 1 pm. A lodge representative will welcome you at the airport. You will then head to the Amazon lodge's office in town (a maximum of 15 minutes by van) to pack the necessary gear for the next few days. Here you can leave most of your luggage in safe storage and continue travelling with a small pack with just the necessary items for your next two nights in the jungle. Then you'll take a motorised canoe upriver (approximately 30 minutes) to your jungle lodge in the Madre de Dios area. Once you arrive, there will be time to unpack and unwind."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Amazon Lodge.",
+      "description": "Start your day with a boat ride (approximately 30 minutes) followed by a short walk (between 25 and 45 minutes). You’ll arrive at an oxbow lake in the middle of the rainforest – the habitat of a family of giant otters. Along the way you’ll see a variety of jungle fauna – perhaps hoatzins, monkeys, macaws, black caimans, flying parrots, and, if you are lucky, a family of endangered giant river otters (pteronoura brasilienses). In the late morning you will head to the parrot clay lick where birds come here to feed on the salt in the clay. The macaws begin by ceremoniously circling the cliff area. Usually the feeding frenzy lasts 20 to 25 minutes. The salt from the clay is thought to detoxify the birds’ fruit diet. After lunch back at the lodge, you’ll head back out to the jungle to take a short walk and learn about the medicinal properties and practical uses of the plants. Return to the lodge once again to freshen up, then enjoy some dinner. After dinner there will be an optional night walk through the jungle."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Amazon Lodge.",
+      "description": "Visit a mammal feeding area in the morning. The mammals are known to feed at any time of the day or night, and they’re more timid than birds, with less regular routine. As a result, mammals are more difficult to see. This feeding area is visited by white-lipped peccaries, collar peccaries, deer, agouti, squirrels and tapir – see how many of these you can spot. For lunch you will head back to the lodge. In the afternoon, it’s time to visita local family farm that has developed traditional and sustainable agriculture. Here you will identify plant species that are typical of the region. Enjoy a final dinner back at the lodge tonight."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Puerto Maldonado.",
+      "description": "Depart the lodge this morning after an early breakfast. You will be taken from the port to the airport, at which point your trip comes to an end. Departure flights for today should be booked for after 11:30 am."
+    }
+  ],
+  "map": ""
+}

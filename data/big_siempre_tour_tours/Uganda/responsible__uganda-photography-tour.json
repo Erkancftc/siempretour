@@ -1,0 +1,75 @@
+{
+  "destination": "Uganda",
+  "mainPhoto": "",
+  "id": "uganda-photography-tour",
+  "tourName": "Uganda photography tour",
+  "placesVisited": "",
+  "generalInfo": "Join us for an unforgettable photography journey through Uganda, an adventure brimming with stunning landscapes, diverse wildlife, and rich cultural history. This carefully curated itinerary takes you deep into Uganda's national parks and reserves, offering fantastic chances to photograph some of Africa's most iconic animals in their natural environments.<br/><br/>From the roaring Murchison Falls to the mist-shrouded forests of Bwindi, we will track endangered mountain gorillas, look for the elusive shoebill, and capture shots of tree-climbing lions relaxing in the branches of Ishasha. Expect breathtaking sunrises over the savannahs, golden light streaming through thick jungles, and intimate encounters with various big game, primates, and birds. Whether you're an experienced photographer or simply have a love for wildlife and nature, this tour is crafted to immerse you in the unspoiled beauty of Uganda's wilderness, guaranteeing you leave with a collection of stunning photos and cherished memories.",
+  "durationDays": "12",
+  "price": "10500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "We arrive at Entebbe International Airport and transfer to our hotel. In the afternoon, we visit the Entebbe Botanical Gardens, a great spot to photograph monkeys, birds, and lush flora. Alternatively, we can see the Mabamba Swamps to search for the shoebill. In the evening, we have a welcome dinner at a local restaurant."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Following breakfast, we drive through the suburbs of Kampala to reach Ziwa Rhino Sanctuary, arriving just in time for lunch. In the afternoon, we embark on a safari walk to capture photographs of rhinos in their natural habitat. We enjoy dinner and spend the night at Ziwa Rhino Lodge."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "As dawn breaks, we set off in canoes to seek out the shoebill stork. Following this adventure, we head back to our lodge for breakfast before embarking on a drive to Murchison Falls National Park. We make a stop to hike to the falls' summit for scenic views of the Nile. Once we check into our lodge, we venture out for an afternoon game drive, on the lookout for giraffes, lions, elephants, and other wildlife."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "We begin the day with an early morning game drive, aiming to encounter wildlife like leopards, hartebeests, and oribis. We'll also stop by a hippo pool. Murchison Falls hosts an array of bird species, including bee-eaters and hornbills. In the afternoon, a private boat cruise takes us to the foot of the falls, where we can photograph both the waterfall and the wildlife along the riverbanks. As the day wraps up, we embark on another game drive."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Today, we embark on a picturesque drive to Kibale Forest, renowned for its chimpanzee conservation initiatives. During our journey, we will pass by Lake Albert and quaint villages, pausing for photos whenever possible. We'll arrive at our lodge in the late afternoon."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Following breakfast, we embark on chimpanzee tracking in Kibale Forest, spending the morning observing and photographing these fascinating primates. The trails in the forest are flat and easily navigable. After lunch, we head to Queen Elizabeth National Park, arriving just in time for a sunset photography session."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "We begin our day at Queen Elizabeth National Park with an early morning game drive. This park is inhabited by elephants, lions that climb trees, and a variety of bird species. We might stop by the saline lakes for photographs of flamingos. Later in the afternoon, we enjoy a private boat cruise along the Kazinga Channel, where we can capture images of buffalo, elephants, hippos, and birds."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "We journey to Bwindi Impenetrable National Park, with a pause in Ishasha to seek out tree-climbing lions. After capturing photos of these extraordinary animals, we proceed to Bwindi, stopping at a local primary school to engage with teachers and students and discover more about daily life in Uganda."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "After breakfast, we board a domestic flight back to Entebbe. When we arrive, we can choose to visit the Uganda Wildlife Conservation Education Centre. In the evening, we savor a farewell dinner at a local restaurant."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Following breakfast, we head to Entebbe International Airport for our departing flights, concluding our photography tour in Uganda."
+    }
+  ],
+  "map": ""
+}

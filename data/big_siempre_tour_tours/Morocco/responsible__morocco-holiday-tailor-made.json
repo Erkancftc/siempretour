@@ -1,0 +1,65 @@
+{
+  "destination": "Morocco",
+  "mainPhoto": "",
+  "id": "morocco-holiday-tailor-made",
+  "tourName": "Morocco holiday, tailor made",
+  "placesVisited": "Marrakech, High Atlas Mountains, Mountain treks, Stay in riad, Stay in mountain Kasbah, Hammam, Guided tours",
+  "generalInfo": "This is a great, shorter break and a fantastic introduction to Morocco. Marrakesh is one of the most fascinating cities in Africa and for a four hour flight, you will not be able to find yourself anywhere more exotic. <br/><br/>The old ochre walls still encircle the medina, a warren of side streets and souqs. At the heart of the medina lies the Koutoubia Mosque, with its iconic minaret, and the Djema El Fna square, an open space where jugglers, mime artists, actors, story- and fortune-tellers, amateur boxers, acrobats and musicians all compete for attention in a kaleidoscope of colours, sounds and smells. Marrakesh also boasts several wonderful gardens to relax in, not least the Jardin Majorelle, filled with exotic blooms and now owned by Yves St Laurent.<br/><br/>Marrakesh is a surprisingly short distance from the High Atlas, and after just half-an-hour you begin to climb into the hills before coming to Imlil, the trekking centre of the High Atlas. Just beyond here you abandon the car for the last 100-or-so metres up to the restored tribal castle that is the Kasbah Du Toubkal.<br/><br/>Beyond the Kasbah, the valley winds up towards the foot of Jebel Toubkal, the highest mountain in North Africa, at 4,167 metres. From the Kasbah you can organise walks out into the hills, varying in difficulty and length, and offering the chance to enjoy the remarkable scenery as well as meet some of the Berber villagers from the area.<br/><br/>Late spring – around March to May, and early autumn – around September is the best time of year to travel. The summer can get very hot in Marrakesh, whilst the winter in the High Atlas is cold – although with a bit of snow lying around, the mountains are at their most beautiful in the winter.",
+  "durationDays": "8",
+  "price": "2195",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly from London to Marrakesh, transfer to your riad."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Full-day tour of Marrakesh."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "At leisure."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Transfer to the Kasbah Du Toubkal in the High Atlas."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Activities from the Kasbah."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Meet with the local community at a Berber village and join in experiences that are part of their daily life."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Transferred back to Marrakesh for a final night."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Transfer to the airport for a flight back to London."
+    }
+  ],
+  "map": ""
+}

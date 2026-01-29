@@ -1,0 +1,80 @@
+{
+  "destination": "Namibia",
+  "mainPhoto": "",
+  "id": "namibia-on-a-budget",
+  "tourName": "Namibia on a budget",
+  "placesVisited": "",
+  "generalInfo": "Namibia is a unique destination with so much to offer. It is a safe and relaxing holiday with loads to see and do. This 11-day tour is based on good accommodations, and offers you the best of Namibia on an affordable budget.<br/><br/>One of the safest countries in Africa, Namibia is the ideal family vacation – the beauty of the Namib desert combined with the endless dunes of Sossusvlei and Deadvlei and the history and charm of Swakopmund, makes it the ideal getaway. Etosha is one of the premier places to see the Big Five, and the tribal charm of the local Ovahimba people is a must-see. You can spend the morning onboard a catamaran, where the inquisitive seals jump onto the boat to eat the fish from your hands, and if you are lucky you can spot dolphins and whales from the boat. After your trip in the morning you can spend the afternoon at Sandwich harbour, where your knowledgeable guide will introduce you to the desert Oryx and some of the other animals that live in this remote harbour. Or you could spend the afternoon on a quad bike or a camel travelling through the endless sand dunes. <br/><br/>The best time to visit Namibia would be from June – October, however Namibia is a year-round destination and even in the wet season they typically get an afternoon thunderstorm and then the rain will stop. It is very rare to have a full day of rain. <br/><br/>We offer a complete tailor made service allowing you to decide when to travel, where you stay and what to do. We can also organise land only arrangements.",
+  "durationDays": "11",
+  "price": "1675",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Windhoek. You will be met by an experienced guide who will hand over your travel documentation and assist you with your rental vehicle. Depart for the city to overnight at a guesthouse on a bed and breakfast basis."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Depart early for the Kalahari. You will often see game along the side of the road. Overnight at a Kalahari lodge on a dinner, bed and breakfast basis."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Make your way through Solitaire (where you will find the best apple cake in Namibia!) onwards to Sossusvlei. Spend two nights at a desert lodge on a dinner, bed and breakfast basis."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Leave your lodge before the sun comes up and travel to the gates of Sesriem. If you enter the park as the sun rises over the dunes it is a magnificent sight! Spend the day exploring Sossusvlei, Deadvlei and the Sesriem Canyon."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Depart for Swakopmund. This historical town has a unique charm and this reflects in the Colonial-style homes and shops. We highly recommend you stop at one of the local bakeries and buy yourself some of the lovely German patisseries. Enjoy two nights at a hotel in Swakopmund on a bed and breakfast basis."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Today is free for you to enjoy activities. We highly recommend you spend the day on a catamaran cruise and the afternoon at Sandwich harbour. The Jetty restaurant has excellent food."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "This morning you depart for Damaraland. Damaraland is home to the Organ Pipes, the Petrified forest and the Twyfelfontein heritage site, which was made by die Khoisan people, and they have inhabited the area for almost 6000 years. Overnight at a lodge on a dinner, bed and breakfast basis"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Make your way today to the stunning Etosha National park. You can do a game drive in your own vehicle or join one of the guided game drives with the lodge. Overnight at Etosha safari camp, on a dinner, bed and breakfast basis"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Spend the day game viewing in Etosha. Overnight at Etosha safari camp, on a dinner, bed and breakfast basis"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Depart for the Waterberg region. This amazing plateau is stunning to look at and located close to the Cheetah Conservation Fund. You can enter the CCF for the day and have a look at the amazing work they do rehabilitating the cheetah."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Depart for the airport today. We recommend you stop at the Ohahandja woodcarvers on your way back and get a lovely souvenir!"
+    }
+  ],
+  "map": ""
+}

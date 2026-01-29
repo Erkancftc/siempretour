@@ -1,0 +1,45 @@
+{
+  "destination": "Uganda",
+  "mainPhoto": "",
+  "id": "short-gorilla-fly-in-safari-uganda",
+  "tourName": "Short gorilla fly in safari, Uganda",
+  "placesVisited": "",
+  "generalInfo": "This safari is for people who come to Uganda with limited time to trek gorillas. For most, they have probably done wildlife safari in Kenya, Tanzania and South Africa adding Uganda for gorilla safari. <br/><br/>On this Uganda gorilla trekking safari, you will get in the deep forest of Bwindi using flights to and from the forest using the more upmarket lodges. You will also trek through the forest for waterfalls sighting and a visit to the community.",
+  "durationDays": "4",
+  "price": "4478",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "ARRIVAL IN ENTEBBE - UGANDA. Our representative will pick you up at the airport and transfer you to the hotel in Entebbe for check in and overnight."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "FLIGHT TRANSFER TO BWINDI FOREST. After an early breakfast, transfer to the home of mountain gorillas – Bwindi Impenetrable National Park. Bwindi impenetrable National Park is also home to bird species, butterflies, primates and mammals. Take a morning or midmorning flight to Bwindi Forest. Arrive in time for lunch at the lodge. In the afternoon, visit the Ride for a woman project in Buhoma. You can also visit the Bwindi hospital if this is of interest to you."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "BWINDI FOREST | GORILLA TREKKING. The driver guide will transfer you to briefing point to join everyone else. You will receive briefing from the ranger guide and later be allocated a gorilla family and a ranger guide to lead you on your hike. Depending on the gorilla family allocated to you, start the hike from the briefing area or you might need to drive to the trail head. You have up to one hour in the presence of the gorillas once you locate them after which you will be asked to start the journey back. Consider hiring a porter to help with carrying your extra luggage."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "TRANSFER TO ENTEBBE | DEPARTURE. You will be transferred to the airstrip after an early breakfast. Depending on time of your flight, you will wait at the airport for your flight out of Entebbe international airport or get a day room for rest."
+    }
+  ],
+  "map": ""
+}

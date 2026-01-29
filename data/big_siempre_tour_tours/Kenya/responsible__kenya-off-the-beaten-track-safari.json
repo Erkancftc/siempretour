@@ -1,0 +1,70 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "kenya-off-the-beaten-track-safari",
+  "tourName": "Kenya off the beaten track safari",
+  "placesVisited": "",
+  "generalInfo": "Discover a whole different side to one of the world's most beloved safari destinations by getting off the beaten path, participating in fly-camping and walking safaris, led by local guides in remote areas of intense natural beauty.<br/><br/>This unique itinerary takes you deep into the wilderness of Kenya's best wildlife-watching destinations: Laikipia, Samburu and the Masai Mara. You'll encounter safari favourites such as Africa's Big Five and big cats on the prowl, but you'll also be treated to exclusive experiences such as rhino tracking on foot with a local Samburu guide, as part of the Sera Conservancy's pioneering community-led conservation efforts.<br/><br/>A trip to Reteti Elephant Sanctuary offers a glimpse into why conservation is so important, as young orphaned elephants are looked after and reintroduced to the wild. On the cultural side, a visit to Fifty Wells offers a window into the lives of Kenya's local pastoralists, as they take their livestock to the natural springs to drink the water.<br/><br/>Explore Kenya's forgotten wild side on foot, led by camels and those who know the land best - the Maasai, the Samburu and the Turkana. Participate in game drives for a true safari experience, encountering big game in the wild. Then, relax at your safari accommodation with sundowners and stories around the campfire. This is the real Kenya.",
+  "durationDays": "11",
+  "price": "9206",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Kenya - Arriving into Nairobi, you'll be met by a representative and transferred to the domestic airport, where you’ll board a light aircraft flight to Nanyuki. Your light aircraft flight is an experience in itself and you will have amazing views as you fly up towards the Laikipia Plateau. After landing, they'll be met by your guide and driven to your accommodation. You can expect to see elephant, giraffe, buffalo, hippo, Grevy’s zebra, warthog, hyenas, lions, bat-eared foxes and lots of antelope species. Laikipia also has excellent leopard sightings, striped hyena and some of the best wild dog sightings in Africa."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Explore Laikipia - Over the next two full days you’ll embark on an adventurous walking safari, fully supported by camels and led by experienced Maasai, Samburu, and Turkana walking guides. Laikipia is one of the only places in Kenya where you can go on a walking safari; travelling by camel rather than vehicle, you’ll access areas that vehicles cannot reach. You’ll be walking through breathtaking landscapes, tracking animals on foot and climbing hills and rocks for phenomenal views, before reaching your next camp. In the afternoon, you can relax at the camp, enjoy a swim in a nearby river or have a siesta, before going for an evening walk and sundowners. Your evening meal is cooked over the coals and you’ll eat under the stars."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Transfer to Samburu - Today, you’ll say goodbye to your camp before heading north. You’ll notice the landscape change around you as you enter Samburuland, the driest region of the country. For the next two nights you’ll stay at your accommodation in the heart of the Kalama Community Wildlife Conservancy. Leopard are often seen in the rocky outcrops surrounding the lodges and the Ewaso Nyiro river is home to Africa's most approachable elephants."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Explore Samburu - Enjoy a full day of exploring this stunning region. You can enjoy exciting morning, afternoon and night game drives and walking safaris with professional Samburu guides. Samburu National Reserve has a good number of lions, leopards, elephant, monkeys and impalas, as well as many wildlife species endemic to northern Kenya."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Rhino Tracking Experience - This morning you will be driven to the wild, undiscovered northern frontier of Kenya in the Sera Community Conservancy."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Reteti Elephant Sanctuary - Continue game drives and black rhino tracking in the sanctuary, plus you can visit Reteti Elephant Orphanage, which provides protection for orphaned and abandoned elephant calves, with an aim to release them back into the wild. We also recommend a visit to Fifty Wells, \"Kisima Hamsini,\" a series of 50 springs where local pastoralists take their livestock to water, digging up water from the wells to fill up holders and troughs."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Transfer to Masai Mara - This morning you'll be driven to the airstrip, where you’ll take a light aircraft flight to the Masai Mara. Upon arrival at the Masai Mara you will be met by a representative and driven to your luxury safari lodge or camp, where you will stay for the next three nights. This afternoon, you’ll head out on your first game drive on the plains of the Masai Mara."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Explore the Masai Mara - Over the next two days, you’ll enjoy morning and afternoon game drives in the Masai Mara National Reserve. This iconic reserve offers amazing wildlife viewing opportunities and it’s highly likely that you’ll see zebra, impala, gazelle, wildebeest, buffalo, rhino and elephant, plus lions, cheetahs and leopards. Your lodge or camp may also offer the opportunity for a night game drive, where you’ll see nocturnal animals such as aardvarks and honey badgers. As well as game drives, there are a range of other activities that you can participate in during your time in the Masai Mara, including cultural visits to Maasai villages and markets, guided bush walks and black rhino tracking experiences."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Depart from Kenya - After breakfast, you’ll check out of your accommodation and you’ll be driven back to the airstrip for your light aircraft flight to Nairobi. You may wish to visit the endangered Rothschild giraffes at the Giraffe Centre in Lang'ata, or you can visit the Karen Blixen Museum. Alternatively, you may wish to consider fostering an elephant via the Sheldrick Wildlife Trust. Your driver will transfer you to Nairobi International Airport in the evening in time to catch your flight home."
+    }
+  ],
+  "map": ""
+}

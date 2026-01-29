@@ -1,0 +1,110 @@
+{
+  "destination": "Vietnam",
+  "mainPhoto": "",
+  "id": "adventurous-vietnam-holiday",
+  "tourName": "Adventurous Vietnam holiday",
+  "placesVisited": "",
+  "generalInfo": "Arriving in to Hanoi, you will be met by your guide and transferred to your city hotel. You have the rest of your day at leisure to unwind after your long-haul flights. Your first full day in Vietnam is spent exploring Hanoi with your guide, discovering the old quarter by cyclo and strolling through the charming French colonial district. You have the majority of your next day at leisure ahead of your sleeper train journey to Sapa in the Tokinese Alps, where you have two days trekking through the breath-taking scenery, visiting local minority villages. <br/><br/>Enjoy one of the most scenic road journeys in Southeast Asia as you travel down to Mu Cang Chai today, with plenty of opportunties for photo stops. This evening you will check in to a homestay in Nghia Lo. Travel back to Hanoi for your domestic flight to Dong Hoi, where you wil lbe met for transfer onward to Phong Nha-Ke Bang National Park. <br/><br/>The adventure truly begins today as you venture in to the worlds third largest cave, located a six hour trek in to the park, through dense jungle, rivers and tribal villages. Tonight is sure to be one of the most memorable of your trip as you camp inside the cave system. Continue your discovery of the caves this morning before trekking back to the road and returning to your hotel on the coast where you can freshen up and relax. <br/><br/>Continuing on to the ancient capital of Hue, you have a day at leisure today to recover after your cave trekking. Your next day is spent discovering the Perfumed River and Citadel of Hue, among other highlights, with your guide.  Travel on to Hoi An, you will stop off en route at Bach Ma National Park for some gorgeous trekking to break up your journey. In Hoi An, take your time exploring, perhaps visiting the beach or the famous local tailors. From Hoi An you will travel south to Saigon with a chance to visit the Cu Chi Tunnels and see the city ahead of your flights home.",
+  "durationDays": "17",
+  "price": "5785",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Today you begin your journey by boarding your international outbound flight to Hanoi."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "On arrival in Hanoi you will be met and transferred to your city hotel."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Discover Hanoi with your guide, taking a cyclo tour around the maze that is the old quarter area and strolling through the charming French colonial district."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Day at leisure before you take the overnight train to Sapa in the Tokinese Alps and spend two full days exploring the area's mountain walks and villages."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Today you arrive in the town of Lao Cai, located just two kilometres from the border with China, where you will be met and transferred to the pretty mountain town of Sapa."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Today you embark on a trek through the minority villages within the area. En route you are treated to some stunning scenery."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Today you depart Sapa and drive south along one of the most scenic stretches of road in Asia to Mu Cang Chai. There will be ample opportunity to stop off en route before arriving at your simple homestay in Nghia Lo."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "This morning you depart Nghia Lo and journey on to Hanoi and the airport for your flight south to Dong Hoi. On arrival you will be met and transferred to the edge of the Phong Nha-Ke Bang National Park and your accommodation."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Today you start the six hour trek to Hang En, also known as Swallow Cave. The journey takes you through rural villages, rivers, and jungle to the end point and Hang En, the world's third largest known cave. Afternoon exploring the cave network you stay overnight in a tent."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "This morning you will visit the Exit Cave before breakfast, then continue to explore the caves. You depart camp in the morning on the trek back to the main road. This afternoon you return to the coast for your accommodation where you can freshen up."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Leaving Dong Hoi you continue south with your driver to the old capital of Hue, arriving early afternoon. Rest of the day at your own leisure."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Full day exploring Hue, with time on the Perfumed River and visiting the Citadel."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Today you travel on to Hoi An, stopping en route at Bach Ma National Park to enjoy some great trekking."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Full day at leisure in Hoi An."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Second day in Hoi An, either heading to the beach or visiting some of the great tailors in town."
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Travel south to Saigon, with the chance to visit the Cu Chi Tunnels before you have the remainder of the day to see the city."
+    },
+    {
+      "dayNumber": 17,
+      "title": "",
+      "description": "Final day at leisure before your flight home. Your return flight will arrive the same day."
+    }
+  ],
+  "map": ""
+}

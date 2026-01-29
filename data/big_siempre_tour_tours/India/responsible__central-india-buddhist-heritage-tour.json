@@ -1,0 +1,60 @@
+{
+  "destination": "India",
+  "mainPhoto": "",
+  "id": "central-india-buddhist-heritage-tour",
+  "tourName": "Central India Buddhist heritage tour",
+  "placesVisited": "Mumbai, Maharashtra, Aurangabad, Orchha, Madhya Pradesh, Khajuraho, Taj Mahal, Agra, Delhi",
+  "generalInfo": "Namaste and welcome to India. Come and join us for a 12 day cultural tour where you’ll be invited to spend time in three of our most characterful states: Maharashtra, Madhya Pradesh and the National Capital Region of Delhi.<br/><br/>Throughout this tailor made tour we will endeavour to concentrate on Central India’s Buddhist heritage from where so many of our major sights and lesser-known locations remain tied.<br/><br/>Not only will we unearth the tales and temples of Buddhism but we will also discover the numerous other examples of religious and spiritual heritage in Central India. <br/><br/>Maharashtrian, Portuguese, Parsi, Muslim, Bundeli and Sikh influence can be found in everything from our favourite foods and amazing architecture to our traditional handicrafts and stories, with dancing and music just as important to us as time spent enjoying family life.<br/><br/>Starting in Mumbai (formerly Bombay) you’ll set off to Delhi via Aurangabad, Orchha and Agra's Taj Mahal, and undertake overland rail adventures or speedy domestic flights, from where city streets, country scenes and cultural misconceptions unravel before your very eyes.<br/>",
+  "durationDays": "17",
+  "price": "2499",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Begin your India adventure in Mumbai, famously known as the City of Dreams and the financial heart of the country. Stay in charming South Mumbai, where colonial architecture meets vibrant street life. Customise your experience with unique tours — join a fascinating Bollywood trail, explore the rich culinary traditions of the Dawoodi Bohra or Parsi communities through local food tastings, or step back in time at the ancient Kanheri Caves, hidden within Sanjay Gandhi National Park. You can also take a scenic boat ride to the Elephanta Caves, a UNESCO World Heritage Site dedicated to Lord Shiva. Whether you love history, food, or film, Mumbai offers the perfect start to your journey through India."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Continue your journey to Chhatrapati Sambhaji Nagar (formerly Aurangabad), the gateway to the breathtaking Ajanta and Ellora Caves, both UNESCO World Heritage Sites since 1983. These ancient rock-cut marvels, some dating back to the 2nd century BCE, beautifully depict stories from Buddhism, Hinduism, and Jainism through intricate sculptures and murals carved directly into the cave walls. Stay with warm, local hosts who offer authentic cultural experiences as you explore these timeless wonders at your own pace. Don’t miss the chance to visit Bibi-Ka-Maqbara, often called the \"Mini Taj Mahal\" for its striking resemblance to Agra’s iconic monument. This region is a must-visit for history lovers, cultural explorers, and anyone seeking India’s ancient artistic heritage."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Journey to Central India, home to some of the country’s most pristine tiger reserves. Spend the next few days exploring the incredible Satpura National Park, where you can embark on thrilling tiger safaris through untouched forests and scenic landscapes. Unlike the crowded parks, Satpura offers a more intimate and off-the-beaten-path wildlife experience. Discover not just tigers, but also leopards, sloth bears, and a rich variety of birds. Engage with local communities actively involved in wildlife and environmental conservation, and gain insight into how they protect and coexist with the region’s extraordinary biodiversity. Perfect for nature lovers, photographers, and responsible travellers seeking authentic Indian wildlife experiences."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Onward to Kanha Tiger Reserve, one of the best wildlife destinations in India. Located in the heart of Madhya Pradesh, Kanha is the perfect place to experience an unforgettable tiger safari in India. You’ll have the chance to see Bengal tigers, leopards, sloth bears, and the rare barasingha deer in their natural habitat. Experience how the local communities and businesses play their role in wildlife and environmental conservation."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Transfer to Delhi, the capital city of India, for an overnight stay. You may choose to extend your stay here for city tours or simply move onward to Varanasi."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Spend the next few days in Varanasi, the oldest continuously inhabited city in the world. Sitting along the sacred River Ganges, Varanasi offers a truly unforgettable experience with its vibrant ghats, sunrise boat rides, and ancient temples. It’s a place where life and rituals flow together in a colourful, chaotic harmony. Visit Sarnath, where Buddha gave his first sermon. If you are focused on Buddhism or history in general, this tour will give you an insight into stupas, monasteries, and a fabulous museum of ancient relics."
+    },
+    {
+      "dayNumber": 17,
+      "title": "",
+      "description": "Departure for onward journey."
+    }
+  ],
+  "map": ""
+}

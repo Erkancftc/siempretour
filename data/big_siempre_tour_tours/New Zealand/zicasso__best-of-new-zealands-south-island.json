@@ -1,0 +1,90 @@
+{
+  "destination": "New Zealand",
+  "mainPhoto": "",
+  "id": "best-of-new-zealands-south-island",
+  "tourName": "Best of New Zealand's South Island",
+  "placesVisited": "Christchurch, Mt. Cook, Dunedin, Otago Peninsula, Te Anau, Milford Sound, Queenstown, Franz Josef Glacier",
+  "generalInfo": "This tour of New Zealand’s South Island introduces you to the natural splendor that this country has to offer. Drive from the largest cities, through the countryside, over soaring mountain ranges, and by awe-inspiring glaciers. Your days of driving will be interspersed with cruises over alpine lakes and adrenaline-inducing activities. Experience the charm that New Zealand provides its visitors.",
+  "durationDays": "13",
+  "price": "11,400",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Christchurch - Arrival and City Tour",
+      "description": "Your two-week tour of New Zealand’s South Island will begin as you touch down in Christchurch. Your private transfer will be waiting for you as you pass through customs and will take you directly to your luxurious accommodation. You will then have the opportunity to explore this lush city that is experiencing a transformation after a devastating earthquake in 2011. We recommend taking the hop-on/hop-off bus to view its major attractions or riding the tram to the Botanical Gardens and Transitional Cathedral."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Christchurch - Free Day of Exploration",
+      "description": "As you likely spent yesterday in Christchurch’s city center, today, you will venture outside the city. New Zealand is famous for its adrenaline-pumping activities. Only an hour from the city, you can participate in activities that include skiing, mountain biking, and bungee jumping. For those who would like a more relaxing day, there are ample opportunities for wine tasting, whale watching, golfing, or going on a safari. You can spend the day however you please, but we recommend finding time to ride the gondola to marvel at the view atop an extinct volcano."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Mt. Cook Village - View Glaciers by Car and Boat",
+      "description": "Today, you will say goodbye to Christchurch as you drive through Canterbury and the MacKenzie Country to reach Aoraki Mt. Cook, New Zealand’s tallest mountain. During this drive, you will pass Geraldine, Fairlie, and Tekapo before arriving in Mt. Cook Village, which is nestled next to the stunning glacier-fed lake. After checking in to your accommodation and freshening up, you will hop on your boat and travel to the base of New Zealand’s largest glacier, the Tasman, for a unique viewing opportunity."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Dunedin - Trade Glaciers for New Zealand’s 2nd Largest City",
+      "description": "Mt. Cook will slowly recede in the background as you depart Mt. Cook National Park for Dunedin. Today will be another lengthy drive, but you will have ample opportunity to hop out of your car for a variety of different activities. You can stop in Twizel to see a location where Lord of the Rings was filmed or pop into a local cafe in Omarama for a sheep-shearing demonstration. Whatever you choose to do, you will continue your journey in Moeraki, where you can admire the Moeraki Boulders before arriving in Dunedin."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Dunedin - Wildlife and Castle on Otago Peninsula",
+      "description": "This morning, you will head to the Otago Peninsula for a chance to see some of New Zealand’s finest wildlife, including albatross, fur seals, sea lions, penguins, and dolphins. Then, your guide will give you a tour of Larnach Castle, New Zealand’s only castle. Upon your return to Dunedin, you will have the afternoon to do as you see fit for your final night in this city. Options include wandering the city center, exploring the cafes of The Octagon, taking a self-guided street art tour, or renting a mountain bike to traverse the many trails in the area."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Te Anau - Glowworm Caves",
+      "description": "Today, you will hop back in your car and transfer to your final destination of Te Anau, which is the gateway to Fiordland National Park and Milford Sound. Again, you will have plenty of marvelous stops throughout your journey. You will travel through farming scenery, detour to Kaka Point for stunning cliffs, and stop by Manapouri before arriving at Te Anau. After checking in, you will cruise across the lake to Luminosa, where your guide will lead you through the underground tunnels to marvel at the whirlpools, unique rock formations, and underground waterfalls."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Milford Sound - Milford Sound Cruise",
+      "description": "You will again be on a lengthy drive as you make your way to Milford Sound today. Although another long day in the car may sound daunting, this route features some of the most beautiful scenery New Zealand has to offer, including soaring mountains, clear lakes, and glacier-formed meadows. After checking in to your luxurious accommodation, you will cruise into the spectacular Milford Sound, gazing at the picturesque nature while keeping your eyes peeled for wildlife. You can enjoy a relaxed picnic lunch before returning to the village of Milford."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Queenstown - BBQ Dinner in the Country",
+      "description": "Your drive today will be shorter than previous days as you make your way to New Zealand’s capital. Your trip will feature the countryside before reaching the Remarkables Mountains, where the route will open to scenic lake views. After checking in to your hotel, you will hop on a quick cruise to a local farm. After touring the area, an expert chef will prepare a New Zealand barbecue dinner. You will then be treated to a demonstration of life in the country before a refreshing cruise home with the lights of Queenstown shining in the distance."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Queenstown - Free Day in New Zealand’s Adventure Capital",
+      "description": "Today will be yours to spend in and around Queenstown as you see fit. Due to its location on the shores of Lake Wakatipu beneath the vistas of the Remarkables Mountain Range, there are plenty of adrenaline-pumping activities that you can spend the day doing. Some of these activities include skydiving, canyon swinging, bungee jumping, or heli-skiing. For those who prefer a more relaxing adventure, there is plenty to see just by walking the city and lakeside. You can also ride a gondola for glorious views or join a Lord of the Rings tour for fanatics."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Franz Josef Glacier - New Zealand’s Highest Road",
+      "description": "After an action-packed day yesterday, you will have a long car ride today to rest your bodies on the way to Franz Josef Glacier. You will start your route by crossing the Crown Range, which is home to New Zealand’s highest road. As you wind your way through peaks and valleys, you will pass the alpine town of Wanaka before reaching Makarora. You can have a brief stop to stretch your legs and wander for a dip in the Blue Pools, a glacier-fed swimming hole. You will then continue your expedition through the rainforest back to more beautiful glaciers."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Franz Josef Glacier - Marvel at Franz Josef Glacier",
+      "description": "Today, you will have the opportunity to take in this wonderful glacier with whichever method suits you best. You can wander to the base of the glacier on your own, but you will need to book a tour if you want to get very close. You can join a tour that provides you with crampons to trek on the glacier. For a more expansive view, you can book a helicopter, which will land directly on the glacier. There is no wrong way to view this masterpiece, and you will ultimately be delighted with whichever method you choose."
+    },
+    {
+      "dayNumber": "12",
+      "title": "Christchurch - Tranz Alpine Train to Christchurch",
+      "description": "This morning, you will slowly meander toward Greymouth, making sure to take a quick break at Hokitika, the gold mining region of New Zealand. Here, you will drop off your rental car and board the Tranz Alpine Scenic Train bound for Christchurch. This ride is consistently considered one of the world’s greatest train journeys, so all you have to do is sit back and bask in the view as you coast through Arthur’s Pass National Park. Upon returning to Christchurch, your private transfer will whisk you away to your luxurious accommodation, and you will have the rest of the day at your leisure."
+    },
+    {
+      "dayNumber": "13",
+      "title": "Christchurch - Final Day in New Zealand",
+      "description": "Your final day in New Zealand will leave you reminiscing about all the natural wonders this country has to offer. Although you were able to see a plethora of stunning landscapes, there is still plenty of New Zealand for you to uncover. You will surely be planning your return trip as your private transfer takes you to Christchurch’s international airport for your flight home."
+    }
+  ],
+  "map": ""
+}

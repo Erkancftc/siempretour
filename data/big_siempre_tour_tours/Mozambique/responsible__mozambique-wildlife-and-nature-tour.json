@@ -1,0 +1,80 @@
+{
+  "destination": "Mozambique",
+  "mainPhoto": "",
+  "id": "mozambique-wildlife-and-nature-tour",
+  "tourName": "Mozambique wildlife and nature tour",
+  "placesVisited": "",
+  "generalInfo": "With a startingly beautiful tropical coastline, dotted with small islands that are surrounded by offshore reefs, Mozambique is most well-known for its abundant and varied marine life, and is also home to plentiful populations of birds.<br/><br/>At the start of the trip, we head to the salt lake of Inhampavala, the shores of which are home to various species of birds, followed by the coastal resort of Tofo. In Tofo we head offshore in the hope of spotting some of the incredible marine life that frequents these waters, namely the Humpback whale, and we also get to grips with the local culture, joining a cooking demonstration in a nearby village and wandering the leafy avenues of Inhambane, a city lined with attractive colonial buildings and with a distinct Mediterranean character.<br/><br/>Whilst many nearby east and southern African countries draw people from across the world for terrestrial safaris, the main draw in Mozambique has to be the country’s underwater world, teeming with marine life, including ten species of cetacean, sea turtles, and the endangered dugong, which exists in one of its last strongholds in the Bazaruto Archipelago. We spend time exploring the largest island of the archipelago and snorkelling off its sublime shores, looking out for the extraordinary creatures that inhabit these waters.<br/><br/>Although not typically considered a safari destination, due to population depletion during the civil war, Mozambique is also now home to a few protected national parks where it is possible to spot large wild game, such as elephant, with few other visitors around. We spend a couple of days looking out for herds of elephant in Maputo National Elephant Reserve at the end of the trip, staying at a resort nestled between forest and coast, with time to reflect on our journey in a truly idyllic part of the continent, where the laid-back life on land is balanced by the energy bubbling beneath the waves ...",
+  "durationDays": "11",
+  "price": "5199",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Maputo - Arrive into Maputo and transfer to the hotel. Depending on time of arrival we may visit the Feima market. Overnight Acacia Inn Guesthouse or similar. (D)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Chidenguele - In the morning we depart for the small town of Chidenguele, located on the shores of Lake Inhampavala. On arrival explore the town to learn a bit more about the local customs and culture. Overnight Naara Eco Lodge or similar. (BLD)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Chidenguele - Praia do Tofo - We take a boat trip on Inhampavala Lake this morning, an isolated saltwater lagoon, surrounded by densely forested dunes and reed-fringed shores. The lake is home to various bird species, including herons, cormorants, flamingos and kingfishers. In the afternoon we drive to Tofo Beach, a protected natural bay known for its white sand, turquoise lagoon and coconut trees.Overnight Kumba Lodge or similar. (BL)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Praia do Tofo - After breakfast we take a boat trip in hope of spotting marine species such as Humpback whales, whale sharks, rays and dolphins. Later we visit a local market and pottery shop. Overnight Kumba Lodge or similar. (BL)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Praia do Tofo - We head out this morning in a small speedboat to explore Inhambane Bay. The shallow waters of the estuary are perfect for snorkelling to search for seahorses and other small marine creatures. When we reach Pansy Island, we disembark and take a stroll along the sandbank at low tide. In the afternoon we visit a local village to see how they prepare ‘matapa’, a typical dish made with ground cassava leaves. Overnight Kumba Lodge or similar. (BL)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Inhambane - Inhassoro - Around 30km from Praia do Tofo, we visit the city of Inhambane with its colourful historical and cultural centre. We explore the city on foot, discovering a large number of colonial buildings and visiting the local market. Later we continue to the small fishing port of Inhassoro. Overnight Dugongo Lodge or similar. (BLD)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Bazaruto National Park - Inhassoro – Today we head to the island of Bazaruto, the largest of the archipelago, featuring numerous lakes and swampy terrain, and characterised by immense dunes that rise from its southern shore. We explore the island with time for some snorkelling – the area is home to dugong and five species of sea turtle. Return to Inhassoro for the night. Overnight Dugongo Lodge or similar. (BLD)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Vilanculos - Maputo - Transfer to Vilanculos and catch a flight back to Maputo. Overnight Acacia Inn Guesthouse or similar. (B)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Maputo - Ponta Membene - A very early start as we depart for the Maputo National Elephant Reserve, where we have a morning and afternoon safari. Overnight Ponta Membene or similar. (BD)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Ponta Membene – Maputo - Another early start as we head out on a morning safari. Return to Maputo where we spend our final night. Overnight Acacia Inn Guesthouse or similar. (BD)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Maputo - Transfer to the airport for our flight home. (B)"
+    }
+  ],
+  "map": ""
+}

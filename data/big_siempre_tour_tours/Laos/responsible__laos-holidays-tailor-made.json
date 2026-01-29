@@ -1,0 +1,85 @@
+{
+  "destination": "Laos",
+  "mainPhoto": "",
+  "id": "laos-holidays-tailor-made",
+  "tourName": "Laos holidays, tailor made",
+  "placesVisited": "Bangkok, Chiang Rai, Golden Triangle, Luang Nam Tha, Nam Ha National Park, Nam Kor River, Muang La, Nong Khiaw, Luang Prabang, Kuang Si waterfalls, Pac Ou caves",
+  "generalInfo": "This 12 day tailor made holiday takes you from the golden temples of Bangkok to Chiang Rai, within the Golden Triangle, from where you’ll continue your travels into Laos en-route to a community run guesthouse, overlooking the Mekong River, in the forested realm of Nam Ha National Park.<br/><br/>From your lodgings you’ll be invited to explore the surrounding area on foot, by bike or paddling on a kayak as you find out more about the local Hmong and Lahu communities making the most of the natural world in the far reaches of northern Laos. <br/><br/>Your next mode of transport is a traditional long tail boat that takes you along the Nam Ou River through dramatic limestone valleys to offer a unique perspective of life in Laos away from the more typical tourist trail along the Mekong.<br/><br/>This final leg allows you to witness the lesser-visited areas of Laos that align the river banks with smiling, waving children, surprised to see visitors, making for a more authentic experience to reflect upon as you head towards your final destination Luang Prabang, the country’s cultural capital.<br/>",
+  "durationDays": "12",
+  "price": "3875",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Bangkok. Fly from London to Bangkok"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Fly from Bangkok to Chiang Rai. Transfer to the eco-friendly, community run Lanjia Lodge, situated along the Thai, Laos border."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Golden Triangle. Day to explore the Golden Triangle."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Laos border. Transfer to the Laos border and continue your journey by road to Luang Nam Tha and the Boat Landing Guesthouse."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Nam Ha National Park. Day exploring the Nam Ha National Park."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Muang La Resort. Continue south through rural countryside to the beautiful Muang La Resort. The Resort has channelled some of the natural hot springs from the Nam Kor river and offers a traditional Lao experience in an idyllic setting."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Local villagers. Spend the day visiting some local villages and taking in the beautiful scenery of this remote location."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "From Muang La, catch a traditional longtail boat to the peaceful and incredibly scenic area of Nong Khiaw."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Luang Prabang. Transfer by road to your hotel in Luang Prabang."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "A guided tour of the cultural delights of Luang Prabang."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Venture outside of Luang Prabang today, visiting the curious Pac Ou caves and the Kuang Si Waterfalls, which are perfect for a refreshing swim."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Depart. Transfer to the airport for your flight back to the Bangkok and onto the UK."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,55 @@
+{
+  "destination": "Alaska",
+  "mainPhoto": "",
+  "id": "alaska-s-islands-cruise-whales-glaciers",
+  "tourName": "Alaska's Islands cruise, whales & glaciers",
+  "placesVisited": "Sitka, Hoonah Sound, Eastern Baranof Island, Tenakee Inlet, Icy Strait, Port Frederick, Taku Inlet, Taku Glacier, Tracy Arm, Frederick Sound, Juneau, Whale watching, Hovercraft flight, Sea kayaking",
+  "generalInfo": "There are small ship cruises and then there are really, really small ship cruises. There are just ten berths on board this perky-looking motor boat, which cruises Alaska’s popular Inside Passage for eight thrilling days. Your trip features barbecuing local king crab on the beach, hovercraft flights and – if your boat isn’t quite small enough already – decamping to sea kayaks to paddle around icebergs.  <br/><br/>Your adventure starts in the city of Sitka and ends in Juneau, Alaska’s state capital. On the way you’ll wrap around Admiralty Island, visiting the inlets and straits that thread inland, like Tracy Arm Fjord, with its glacier, and Stephens Passage, where there’s a chance to see whales. <br/><br/>Modelled on a fishing vessel, your boat is designed to be as stable as possible and is owned by members of the Kaagwaantaan Clan. From the outer deck of this little boat you’ll brilliantly positioned for wildlife viewing. In these waters, sea otters, sea lions, harbour seals and even orcas can be seen coming to the surface. But in Frederick Sound, it’s all about humpbacks. If you’re lucky, you’ll see one breach the water – and you’ll definitely see the splash afterwards.",
+  "durationDays": "6",
+  "price": "3769",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Sitka. Explore beautiful Sitka, considered by many to be one of the most picturesque communities in The Last Frontier. During your exploration of the town our expedition team will highlight the community’s history–from its inspiring Tlingit roots to the Russian presence that began in 1799. Beautiful totem poles adorn public areas and the Sitka National Historical Park, while the famous St. Michael’s cathedral stands in the center of the downtown district. You’ll be charmed by the island-studded waterfront, rugged mountain peaks of Baranof Island, and abundant bald eagles and marine life. (Guests can also choose to book optional excursions, such as fishing and private wildlife excursions in the days before embarkation)."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Chatham Strait & Lynn Canal. Voyage through Chatham Strait and Lynn Canal en route to the northern end of the Inside Passage. These areas are well known for some of the best wildlife viewing in the region. The waters are home to humpback whales, orcas, Steller sea lions, and Dall’s porpoises, while brown and black bears, wolves, moose, and Sitka black-tailed deer roam the shorelines. This is a day of True Alaska discovery and adventure that may include kayaking, a remote beach landing via our expedition skiffs, or other activities determined by the captain and expedition team—all Alaska experts."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Skagway. Stroll the boardwalks of the rollicking Klondike gold rush town of Skagway while enjoying its unique history. In the late 19th century, thousands of crazed gold seekers poured into the community en route to the Klondike. Wooden buildings, streets, and docks were constructed in mere months. Skagway was rambunctious, lawless, and tormented by a notorious con man named Soapy Smith. Today, historic businesses, frontier homes, and museums bring the spirit of the gold rush to life. Aboard the White Pass and Yukon Route railroad, you’ll enjoy a journey retracing the steps of gold-seekers into Canada. Built in 1898, the railroad climbs nearly 3,000 feet in 20 miles and offers stunning wilderness views. This excursion crosses the border into Canada, so passports are required."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Wilderness Bay & Orca Point Lodge. Venture into one of the many intimate coves or inlets of the Chilkat Peninsula or Admiralty Island, such as Alaskan Dream Cruises’ exclusive property at William Henry Bay. Enjoy kayak and skiff exploration in the heart of Alaska’s wilderness. End the day’s adventure with a relaxing evening at Orca Point Lodge, our own exclusive day-lodge on Colt Island. Enjoy the beautiful grounds, beach, and marine life touch-tank. Dine on Alaska salmon, Alaska crab, or prime rib from the warmth of the lodge, or nestled next to a beachside bonfire."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Glacier Bay. This remarkable national park fjord extends 65-miles, contains eight tidewater glaciers, and provides pristine habitat for a wide-array of wildlife, including both brown and black bears, wolves, mountain goats, Steller sea lions, and humpback whales. The highlight for many is the Margerie Glacier, which is known for its dramatic calving displays. A Glacier Bay National Park Service Ranger narrates the day’s program and an Alaska Native Huna Tlingit interpretive naturalist joins us to reveal traditional cultural ties to this ancient treasure."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Juneau. Disembark in Alaska’s capital city of Juneau. Transfer to your hotel or the airport is complimentary. Choose to extend your adventure with custom offerings such as a journey into Tracy Arm aboard a high-speed expedition vessel, a glacier helicopter landing and trek, and saltwater fishing for salmon or halibut."
+    }
+  ],
+  "map": ""
+}

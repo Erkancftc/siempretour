@@ -1,0 +1,100 @@
+{
+  "destination": "New Zealand",
+  "mainPhoto": "",
+  "id": "new-zealand-north-island-self-drive-tour",
+  "tourName": "New Zealand North Island self drive tour",
+  "placesVisited": "",
+  "generalInfo": "For those wanting plenty of time to explore, and maximum flexibility, this 23 day self-drive tour takes you to all the points of interest of New Zealand’s North Island.<br/><br/>Visit the highlights of North Island at your own pace on this self-drive itinerary between Auckland and Wellington. The tour takes in the pristine Bay of Islands, the wine-producing regions of Hawke’s Bay and Wairarapa, the capital city of Wellington and the volcanic region of Rotorua, while also offering opportunities to discover the island’s indigenous culture and history. The tour can also be adjusted to combine the South Island.<br/><br/>Some of the highlights include: <br/>- Discovering the subtropical Bay of Islands &amp; learn about Maori culture<br/>- Walking along stunning beaches and coastline of the Coromandel Peninsula<br/>- A Full day to experience the geothermal activity of Rotorua<br/>- Visiting the art deco town of Napier and sampling award-winning wines in the regions of Hawke's Bay &amp; Wairarapa<br/>- A full day to explore the sights of Wellington, New Zealand's capital city",
+  "durationDays": "23",
+  "price": "3245",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Auckland and settle in at your hotel. Take a tour in the afternoon or simply explore the vibrant city yourself."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Today is left free. With lots to do in the city and surrounding area, we can organise a tour to suit you, whether it be cultural, visiting galleries and museums, or scenic with coast and rainforest walks, or adventurous, with Sky Tower or Antarctic Underwater World."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Enjoy a morning small group tour of Auckland, giving an insight into the Maori history, before collecting your hire car and driving north to the Bay of Islands."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "This morning you have entrance to the Waitangi Treaty Grounds to explore the park and learn about Maori heritage. The afternoon brings an exciting luxury catamaran cruise around the islands with a stop to enjoy a walk, or unwind on the white sandy beach."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Journey to New Zealand's northern-most point 'Te Rerenga Wairua' today, taking you off the beaten track and on to roads less travelled, revealing more of our favourite places and hidden gems."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Drive to your next accommodation nestled on a ridge overlooking the wilderness of the ancient Waipoua Forest. In the afternoon enter the forest on a Twilight Encounter tour and experience the affinity that early Maori had with the forest. Learn of the rich bird life and other fauna that inhabits the forest as the day turns into the night."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Head to Cambridge in New Zealand’s rural heartland. Here you can indulge in a great selection of restaurants, chic cafes, boutique shopping and designer outlets, with art trails and galleries around the town centre."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Drive south past Auckland to the beautiful Coromandel peninsula. The following couple of day are at leisure to explore this stunning coastline and scenic beaches."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Journey to the base of Mount Maunganui, where white sand surf beach stretches as far as the eye can see. Catch a wave or cruise the many cafes."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Drive to the volcanic town of Rotorua. Due to its location on the Pacific 'Rim of Fire', Rotorua has lively geothermal activity and is surrounded by bubbling mud pools, geysers and mineral lakes. The place has retained a strong Maori cultural heritage and provides visitors with the opportunity to discover the Maori culture, myths and legends of the region."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "An hour's drive south from Rotorua, is the town of Taupo on the northern shore of New Zealand's largest lake. Lake Taupo is renowned for its fishing, here you can enjoy cruising or simply relaxing in this incredibly beautiful spot."
+    },
+    {
+      "dayNumber": 17,
+      "title": "",
+      "description": "Take a scenic drive east to the wine-growing region of Hawke’s Bay and stay 2 nights. We recommend pre-booking a tour of the nearby vineyards or a visit to the gannet colony at Cape Kidnappers."
+    },
+    {
+      "dayNumber": 19,
+      "title": "",
+      "description": "Continue south along the Classic New Zealand Wine Trail to the Wairarapa wine region via Mt Bruce Wildlife Centre. Spend the next day exploring the nearby vineyards surrounding the town."
+    },
+    {
+      "dayNumber": 21,
+      "title": "",
+      "description": "Drive to New Zealand’s capital city, Wellington, for your final few days in New Zealand. We recommended excursions include a walking tour and a visit to New Zealand’s national museum, Te Papa."
+    },
+    {
+      "dayNumber": 23,
+      "title": "",
+      "description": "Return your car hire at the airport and fly home. Alternatively continue your holiday in New Zealand and see the South Island with one of our many tours..."
+    }
+  ],
+  "map": ""
+}

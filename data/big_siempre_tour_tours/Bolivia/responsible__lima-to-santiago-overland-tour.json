@@ -1,0 +1,120 @@
+{
+  "destination": "Bolivia",
+  "mainPhoto": "",
+  "id": "lima-to-santiago-overland-tour",
+  "tourName": "Lima to Santiago overland tour",
+  "placesVisited": "",
+  "generalInfo": "Discover the epic natural landscapes and cultural heritage of South America as you travel from the Pacific coast and into the Inca heartland through Peru, Bolivia and Chile.<br/><br/>The Sacred Valley and Machu Picchu, the Uyuni Salt Flats, Atacama Desert and Lake Titicaca await intrepid travellers on this incredible 21 day overland holiday which takes you to off the beaten track without missing the world famous sights to be found along the way.<br/><br/>This is a small group adventure with a max group size of 16, average 10.",
+  "durationDays": "21",
+  "price": "3699",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Lima. Arrive at any time."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Lima/Cusco. Take a flight to Cusco where you have the rest of the day free for exploring the city. Choose to pre-book an optional Cusco Cooking Class or a city tour."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Cusco. Spend a full day enjoying optional activities in the area."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Cusco/Ollantaytambo. Start the day with a full-day guided tour of the Sacred Valley. Stop at the tour operator-supported women's weaving co-op before visiting a local pottery making community. Break for lunch at the tour operator-supported Parwa Community Restaurant in Huchuy Qosco. After lunch, opt to head out on a hike to the Ollantaytambo storehouses and look out over the ruins."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Ollantaytambo/Aguas Calientes. Catch the scenic train to Aguas Calientes. Opt to visit the local hot springs or shop in the local market. Those who have pre-booked and purchased the '1-day Inca Trail' hike will disembark the train at km 104 and trek to the Sun Gate for the first glimpse of Machu Picchu before re-joining the group at Aguas Calientes for the night."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Aguas Calientes/Cusco. Enjoy a guided tour of Machu Picchu. Opt to visit the Inca Bridge before returning to Cusco in the evening."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Cusco. Use a free day to explore more of Cusco or relax."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Cusco/Puno. Travel day by bus from Cusco to Puno. Spend some time on arrival wandering the small city."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Puno. Enjoy a guided tour of Lake Titicaca including a visit to Uros and Taquile islands."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Puno/La Paz. Travel by bus and cross the border into Bolivia, arriving in the capital, La Paz."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "La Paz. Enjoy a free day in La Paz. Opt to visit the Witches' Market, the city's museums or the Valley of the Moon."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "La Paz/Sucre. Fly to Sucre and explore this beautiful colonial city."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Sucre. Free time to explore the city, the former capital of Bolivia. For more active options opt to go hiking in the surrounding area or mountain biking."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Sucre/Potosí. Travel by bus to Potosí and get a view of the mountain Cerro Rico looming over the city."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Potosí/Uyuni. Travel through the Bolivian landscape to the town of Uyuni, the jumping off point for the three day 4x4 excursion to the Salar de Uyuni."
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Uyuni/Salt Flats and Desert Crossing/San Pedro de Atacama. Enjoy a three-day 4x4 safari to the Salar de Uyuni and surrounding desert altiplano with spectacular scenery including volcanoes, salt lakes and geysers.. lodge in a traditional agricultural village in the heart of a desert oasis and spot wild llamas, alpacas and even flamingos deep within the desert."
+    },
+    {
+      "dayNumber": 19,
+      "title": "",
+      "description": "San Pedro de Atacama. Enjoy an Included excursion to the Valley of the Moon. In San Pedro, opt to go sandboarding or mountain biking."
+    },
+    {
+      "dayNumber": 20,
+      "title": "",
+      "description": "San Pedro de Atacama/Santiago. Drive to Calama and fly to the vibrant capital city of Santiago."
+    },
+    {
+      "dayNumber": 21,
+      "title": "",
+      "description": "Santiago. Depart at any time."
+    }
+  ],
+  "map": ""
+}

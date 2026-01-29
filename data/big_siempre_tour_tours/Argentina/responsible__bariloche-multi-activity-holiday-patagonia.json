@@ -1,0 +1,45 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "bariloche-multi-activity-holiday-patagonia",
+  "tourName": "Bariloche multi activity holiday, Patagonia",
+  "placesVisited": "",
+  "generalInfo": "This 4-day tour will allow you to discover one of the most famous cities in Patagonia but in a responsible way. You will explore the classic “Circuito Chico” while visiting the locals. You will admire the incredible panoramic views of the main lakes and mountains in the surroundings. You will enjoy the lakes in a kayak, and a bike ride in a unique setting.",
+  "durationDays": "4",
+  "price": "1440",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Welcome to the Lake region in Patagonia, and one of the most famous cities in the region: San Carlos de Bariloche. ­ Upon arrival, a driver will wait for you to take you to your accommodation. ­ You will begin the discovery of the Circuito Chico. This active excursion goes along the classic circuit of San Carlos de Bariloche. While visiting stunning viewpoints of the area, such as Campanario Hill and Llao-Llao Hotel, the guide will explain how this little mountain village has get to be one of the most attractive tourist towns in Patagonia. We ´ll enjoy the beauty of Moreno and Nahuel Huapi lakes, as well as the Lopez and Capilla mountains. Continued, we ´ll go for a nature-oriented walk through the Llao-llao Nature Park to discover to discover an impressive forest of Arrayanes trees. The tour finished with a visit to a local microbrewery for lunch, with Beer Tasting."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Moreno Lake is located at Llao-Llao Natural Reserve. Kayaking on this amazing Patagonian lake is a breathtaking experience. We ´ll paddle surrounded by beautiful forests and magnificent views of Lopez and Capilla Mountains and near the well-known Llao-Llao Hotel. If we get lucky on a blue-sky day, we can also see Tronador Mountain. NOTE: in case of strong winds, snow, or rain, this hike can be changed to another alternative hike. Time of the year: September to May Included: Snacks and drinks Kayaking time: 1.30 hours Adventure Activity Level: MODERATE"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "You will bike in the Valle Encantado. This excursion leaves the forested mountains to discover the Patagonian steppe beauty. In the morning we ´ll drive for 35 km up to the suspension bridge that crosses Limay River to Villa Llanquín (a small rural town). We ´ll get the bikes and start our 23km/14ml ride along the road that borders Limay River, reaching the unique Estancia Valle Encantado. After lunch and a relaxing time, we ´ll cross the river back to the main road, this time by boat, to get on our vehicle and return to the hotel. 2 options for lunch must be booked in advance. Duration: Full Day. Time of the year: September to May. Included: Box lunch or Asado. Bicycle and helmet. Biking ride time 3 - 4 hours. Distance: 23 km / 14 ml. Type of path: gravel road. Adventure Activity Level: MODERATELY - STRENUOUS"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Depending on the time of your flight, you can have a chance to take a walk in the Civic Centre and shop for some chocolates in the chocolate shops like Rapanui, Franton, and Mamuschka. ­ End of our services"
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,120 @@
+{
+  "destination": "New Zealand",
+  "mainPhoto": "",
+  "id": "new-zealand-highlights-tour",
+  "tourName": "New Zealand highlights tour",
+  "placesVisited": "",
+  "generalInfo": "Explore the sandy beaches of the Coromandel coastline; dip your toes in the azure waters of Abel Tasman National Park; and journey deep into Fiordland National Park to cruise on the iconic Milford Sound – one of our all-time ‘must do’ experiences on a trip to New Zealand.",
+  "durationDays": "19",
+  "price": "6875",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Auckland Haere mai – welcome! We meet you on arrival at the airport and take you to your hotel. For the rest of the day you can relax and enjoy exploring the ‘City of Sails’. M Social Hotel, Auckland"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Auckland to Bay of Islands (B) Travel north and marvel at an ancient kauri forest from an elevated walkway. After taking in the picturesque Whangarei Falls we continue to the Bay of Islands, where we are welcomed to the Waitangi Treaty Grounds. Here we learn the fascinating story of the birthplace of the nation. We arrive in historic Russell by ferry. Duke of Marlborough Hotel, Russell – 2 nights"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Bay of Islands (B) Today you have the choice of two excursions: a) Discover the Far North of New Zealand Travel by special coach along 90 Mile Beach to Cape Reinga, the very tip of New Zealand. This full day tour includes a visit to the ancient Puketi Kauri forest and lunch. b) Enjoy a Hole in the Rock cruise At the famous Hole in the Rock the skipper skilfully navigates into Grand Cathedral Cave (conditions permitting). Return to Russell for a guided tour of this historic town."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Bay of Islands to Auckland (B) We travel back to Auckland and enjoy a sightseeing tour before visiting Auckland Museum for a guided tour and introduction to some of the treasures of the Pacific peoples. M Social Hotel, Auckland"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Auckland to Coromandel Peninsula (B) This morning we take to the water for a cruise past volcanic islands to the Coromandel Peninsula. A 120m climb on a narrow-gauge railway line provides panoramic views. Rejoining our vehicle we head east to Mercury Bay. Oceans Resort, Whitianga – 2 nights"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Coromandel Peninsula (B) A day exploring the white cliffs, golden beaches, turquoise waters and green forests of the Coromandel, including Hot Water Beach, Cathedral Cove and Cooks Beach. At the end of the day you can choose to catch the short ferry ride back to Whitianga and walk to your accommodation – OR - travel back with your driver."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Coromandel Peninsula – Rotorua (B) We journey inland to Rotorua; the epicentre not only of New Zealand’s geothermal activity but of Maori heritage. A guided tour of Te Puia includes many active geothermal mud pools, vents and geysers and also the centre for indigenous arts and crafts and a Kiwi conservation project. Prince’s Gate Hotel, Rotorua – 2 nights"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Day 8 Rotorua (B,D) Today you have the choice of two excursions: a) Visit the Waimangu Volcanic Valley Site of the eruption of Mt. Tarawera in 1886. Explore this ever-changing landscape on foot and by boat. b) Experience the real Middle Earth Visit the Hobbiton Movie Set for a guided tour of The Shire that featured in Peter Jackson’s films, The Lord of the Rings trilogy and The Hobbit film series. This evening we all experience an amazing Maori welcome, a cultural performance, and a traditional Hangi feast."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Rotorua to Napier (B,D) We drive across the central North Island, past the vast Lake Taupo, to Hawke’s Bay on the east coast. In Napier our local guide brings history and architecture alive with entertaining stories on a walking tour of the seaside city. Tonight’s treat is dinner at New Zealand’s oldest winery, Mission Estate. Scenic Hotel Te Pania, Napier"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Napier to Wellington (B) Travel through vineyards and orchards to New Zealand’s capital city, Wellington. From the Kelburn lookout take the Wellington Cable Car down into the central city before visiting Te Papa; New Zealand’s innovative and interactive museum. James Cook Hotel Grand Chancellor, Wellington"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Wellington to Nelson (B) Today we cross the Cook Strait to the South Island on one of the most beautiful ferry journeys in the world. We travel the short distance to Blenheim in the heart of the Marlborough wine country and enjoy wine tasting at a premier winery. From Marlborough we cross to sunny Nelson your base for the next two nights. Heritage Rutherford Hotel, Nelson – 2 nights"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Abel Tasman National Park (B) Paradise found! Abel Tasman National Park is a mosaic of golden coves and turquoise lagoons sheltered by forested ranges to the south. With few roads in this pristine wilderness, most journeys are made by boat. This morning from Kaiteriteri, your tour includes a choice of one activity from these three options: a) 3-4 hour Scenic Cruise (no walking) A morning cruise reveals the golden sands and turquoise waters of Abel Tasman National Park. Enjoy time at leisure in Kaiteriteri and return to Nelson on the late afternoon transfer. b) Walking Option 1: Astrolabe Beaches and Bays (7km, 2.5 hour walk) After the scenic cruise, disembark at Apple Tree Bay for a self-guided walk to fabulous Anchorage Beach. Late afternoon shuttle transfer back to Nelson. c) Walking Option 2: Forest and Swing-Bridge (10.5km, 4 hour walk) After the scenic cruise, disembark at Medlands Beach for a self-guided walk that includes the scenic highlights of the South Head lookout, the famous Falls River swing-bridge and Cleopatra’s Pool. Late afternoon transfer back to Nelson."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Nelson to Punakaiki (B) We travel through the Nelson Lakes National Park pausing at the quaint village of St. Arnaud before taking the old gold miners’ road through Buller River Gorge and emerging from the forest at Punakaiki. Here we can enjoy the famous ‘Pancake Rocks’ - these stratified limestone stacks are an extraordinary monument of nature. Punakaiki Resort, Punakaiki"
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Punakaiki to Fox Glacier (B) Following the Great Coast Road through Hokitika and Franz Josef we arrive at the small village of Fox. This is a great base from which to access the West Coast Glaciers and one of the best options, weather permitting, is a scenic helicopter ride (extra cost). Distinction Hotel Fox Glacier"
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Fox Glacier to Wanaka (B) Driving via mirror-like Lake Matheson we turn towards the Southern Alps heading over the Haast Pass into Mt. Aspiring National Park. The popular and pretty resort town of Wanaka is our base for the next two nights. Edgewater Resort, Wanaka – 2 nights"
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Wanaka (B) ) This morning you have the choice of two excursions: a) Take a lake cruise to a conservation island Join a local eco-guide to discover rare native birds, island walks and stunning landscape views. b) Experience a scenic 4WD adventure Explore remote High Country farmland. This afternoon is at your leisure to relax or enjoy your own choice of activities."
+    },
+    {
+      "dayNumber": 17,
+      "title": "",
+      "description": "Wanaka to Te Anau (B) Our first stop today is the much photographed Cardrona Pub, we then visit historic Arrowtown – a delightful gold rush village nestled below the beautiful peaks that surround the sparkling Arrow River. We continue our journey along the shores of spectacular Lake Wakatipu through glacial formed valleys to Lake Te Anau, gateway to Fiordland National Park. Distinction Hotel Luxmore, Te Anau"
+    },
+    {
+      "dayNumber": 18,
+      "title": "",
+      "description": "Te Anau to Milford Sound to Queenstown (B,L) Today’s drive is spectacular, winding through lofty mountains and deep valleys carved out by Ice Age glaciers. At Milford Sound we board a comfortable vessel for a cruise past Mitre Peak to the Tasman Sea. Keep an eye peeled for seals and dolphins which are often seen in the waters of the fiord. The return trip by road to Queenstown is equally scenic. Scenic Suites Queenstown"
+    },
+    {
+      "dayNumber": 19,
+      "title": "",
+      "description": "Depart Queenstown (B) Haere ra – farewell from New Zealand. You are transferred to Queenstown Airport for your return home taking with you fond memories of your time in New Zealand. Alternatively, should you wish to extend your stay in New Zealand, we can assist you with additional travel arrangements."
+    }
+  ],
+  "map": ""
+}

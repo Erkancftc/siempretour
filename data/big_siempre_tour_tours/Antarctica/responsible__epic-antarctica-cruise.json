@@ -1,0 +1,85 @@
+{
+  "destination": "Antarctica",
+  "mainPhoto": "",
+  "id": "epic-antarctica-cruise",
+  "tourName": "Epic Antarctica cruise",
+  "placesVisited": "",
+  "generalInfo": "All the highlights of the Falklands, South Georgia and the Antarctic peninsula as well as crossing the Antarctic Circle.<br/><br/>Antarctica is an incredible destination with the power to transform those who are fortunate enough to experience it.  Our Epic Antarctica voyage is so named for a reason: it includes every one of the major Antarctic highlights. From the Falkland Islands (Islas Malvinas) to South Georgia to the Antarctic Peninsula, you will experience countless unforgettable moments on this adventure-packed, 23-day voyage.<br/><br/>Start with the Falklands, reminiscent of both sandy Cape Cod and the English moors, home to albatross, dolphins, and five species of penguins. From there, venture to South Georgia, where you’ll encounter the home of 300,000 breeding King penguins, 50 million seabirds and 5 million seals. Then, explore the stunning Antarctic Peninsula, and, finally, cross the Antarctic Circle—an enduring milestone for any world traveller.<br/><br/>Antarctica has been inspiring explorers for centuries—now it’s your turn. Be among the first guests on our pioneering new vessel, Ultramarine. This purpose-built vessel is designed to extend the boundaries of Polar exploration and offer an unmatched Antarctic experience, including a flightseeing tour you’ll never forget and a range of adventure options more extensive than any other ship in its class. We’re excited to host you on your unforgettable adventure!<br/><br/>Highlights:<br/>Explore the quaint British town of Stanley in the Falkland Islands (Islas Malvinas)<br/>See the incredible wildlife— more than 30 species of breeding birds, including four species of penguin—of South Georgia, often called the Galapagos of the Poles<br/>Follow in the wake of Sir Ernest Shackleton’s perilous voyage to South Georgia and visit his gravesite<br/>Cross the Antarctic Circle and celebrate with a toast<br/>Enjoy helicopter flightseeing from Ultramarine for a unique perspective of the Antarctic Peninsula<br/>Travel on a small expedition vessel<br/>Accompanied by extremely qualified Expedition Staff<br/><br/>Key information:<br/>21 nights on the ship, 1 night hotel in Buenos Aires<br/>Expedition cruising in comfortable conditions<br/>Countries visited: Antarctic Peninsula, South Georgia, Falkland Islands, Antarctica<br/><br/>What's included:<br/>All meals while on the ship<br/>Beer and wine at dinner<br/>All accommodation<br/>All transport and listed activities<br/>Tour leader throughout and qualified Expedition Staff<br/>We can include flights from the UK.  Please contact us for a quote.<br/><br/>What's not included:<br/>Travel insurance<br/>Single accommodation (available on request)<br/>Visas and vaccinations<br/>Mandatory Charter Flights Buenos Aires to Ushuaia Return - from £850 (or equivalent in booking currency) paid on booking",
+  "durationDays": "23",
+  "price": "31245",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Start Buenos Aires, Argentina; overnight in hotel"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Fly to Ushuaia and embark"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "At Sea"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Falkland Islands (Islas Malvinas)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "At Sea"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "South Georgia"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "At Sea"
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "South Shetland Islands and Antarctic Peninsula"
+    },
+    {
+      "dayNumber": 17,
+      "title": "",
+      "description": "The Antarctic Circle"
+    },
+    {
+      "dayNumber": 19,
+      "title": "",
+      "description": "Northbound Along the Peninsula"
+    },
+    {
+      "dayNumber": 21,
+      "title": "",
+      "description": "Crossing the Drake Passage"
+    },
+    {
+      "dayNumber": 23,
+      "title": "",
+      "description": "Disembark in Ushuaia and fly to Buenos Aires"
+    }
+  ],
+  "map": ""
+}

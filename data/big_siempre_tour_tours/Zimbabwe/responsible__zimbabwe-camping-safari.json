@@ -1,0 +1,60 @@
+{
+  "destination": "Zimbabwe",
+  "mainPhoto": "",
+  "id": "zimbabwe-camping-safari",
+  "tourName": "Zimbabwe camping safari",
+  "placesVisited": "",
+  "generalInfo": "This ten-day safari captures the very best of Zimbabwe, taking you from the game-rich plains of Hwange to the vast waters of Lake Kariba and the wild floodplains of Mana Pools. It’s a journey through three contrasting landscapes, each with its own character, rhythm and charm – and together they tell the story of one of Africa’s most remarkable safari destinations.<br/><br/>Your adventure begins in Hwange National Park, where elephants gather in their thousands and lions roam across open savannah. Days here are filled with classic safari moments, from dawn game drives to evenings spent watching wildlife at the waterhole from the comfort of camp. From Hwange, you’ll fly north to Lake Kariba, a landscape of endless horizons, fiery sunsets and peaceful boat cruises where hippos snort in the shallows and fish eagles call overhead.<br/><br/>The journey ends in Mana Pools, a UNESCO World Heritage Site renowned for its walking safaris, Zambezi views and concentration of big game. Staying in a trio of authentic, characterful camps – The Hide, Changa Safari Camp and John’s Camp – you’ll enjoy warm hospitality, outstanding guiding and an atmosphere that feels both relaxed and deeply connected to nature. This is a safari that celebrates the true spirit of Zimbabwe: wild, welcoming and wonderfully unspoiled.",
+  "durationDays": "10",
+  "price": "5625",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly from Victoria Falls to Hwange. Transfer to The Hide, your base for the next three nights. Settle into your tent overlooking a busy waterhole and enjoy an afternoon game drive or relax on the deck as elephants come to drink."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Spend your days exploring Hwange by vehicle or on foot with expert guides. Expect herds of elephant, buffalo and an array of predators. Sundowners and hide photography sessions are a highlight. Evenings are spent sharing stories around the fire."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Fly to Lake Kariba and transfer to Changa Safari Camp. Relax by the pool or enjoy an afternoon boat cruise. The camp’s lake views and teak-crafted interiors create a perfect retreat after your flight."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Rise early for game drives, walking safaris or fishing for tigerfish. Later, cruise through the beautiful Sanyati Gorge and watch the sunset over the water. Birdlife is prolific and the scenery outstanding."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "After breakfast, fly to Mana Pools. Transfer to John’s Camp on the Zambezi floodplain and settle in for three nights in one of Africa’s most scenic parks."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Enjoy walking safaris, game drives and riverbank sundowners. The area teems with elephants, hippos and wild dogs. Evenings end around the campfire under the stars."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Fly from Mana Pools to Harare or Victoria Falls for your onward journey."
+    }
+  ],
+  "map": ""
+}

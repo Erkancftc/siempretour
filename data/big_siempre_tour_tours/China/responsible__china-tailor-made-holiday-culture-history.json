@@ -1,0 +1,85 @@
+{
+  "destination": "China",
+  "mainPhoto": "",
+  "id": "china-tailor-made-holiday-culture-history",
+  "tourName": "China tailor made holiday, culture & history",
+  "placesVisited": "",
+  "generalInfo": "From Beijing to Xi'an, Yangtze to Shanghai, visit the most famous attractions in China. Including the Great Wall, the Forbidden city, Terracotta Army ,and a 5- star service on the world-class cruise, offer you a dream-like China tour.",
+  "durationDays": "12",
+  "price": "3100",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Beijing, your guide will meet you at Beijing airport and transfer to your hotel. Meals: None Hotel: Novotel Peace"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Beijing. Visit Tian'anmen Square and Forbidden City, See the landmark of Beijing , the Temple of Heaven after a Peking roast duck lunch. Meals: Breakfast,Lunch. Hotel: Novotel Peace"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Beijing. Explore the Summer Palace in the morning. Head for Gubei Water Town at the foot of the Simatai Great Wall after lunch. Ascend to the Wall by cable car at night. Enjoy the stunning night views of the Great Wall. Meals: Breakfast, Lunch. Hotel: Beijing Wtown Hotspring Resort"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Beijing to Xi'an .Drive from Simatai to Jinshanling in the morning. The Jinshanling section is regarded as the most magnificent section of the Great Wall and it's less crowded. Take a cable car up to the wall. Transfer back to Beijing city and catch a bullet train to Xi'an in the late afternoon. Meals:Breakfast,Chinese Lunch. Hotel: Somerset Xindicheng Xi'an"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Xi'an. Today you will visit the City Wall, Terracotta Warriors and Horses. Learn how to make miniature versions from a local family at their traditional cave dwelling. Meals:Breakfast, Lunch. Hotel: Somerset Xindicheng Xi'an"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Xi'an to Chongqing .Take a morning flight to Chongqing. Visit the Three Gorges Museum to learn interesting facts about the three gorges and the greatest dam project before boarding the cruise in the evening. Meals:Breakfast,Lunch."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Yangtze Cruise.Enjoy tai chi morning exercise if you would like to (available every day). Take a shore excursion to Fengdu Ghost City in the morning. Enjoy the cultural activities on the ship in the afternoon and a night show — War Fires of the Three Kingdoms (optional) after dinner. Meals: Breakfast, Lunch,Dinner"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Yangtze Cruise. Visit the White Emperor City to see 10-yuan banknote scenery, calligraphy inscriptions dating back centuries, and a famous fortress.Cruise through the spectacular Qutang Gorge and the magnificent Wu Gorge at noon. Enjoy a shore excursion to Shennv Stream in the afternoon. Meals: Breakfast, Lunch, Dinner"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Yichang. When the cruise arrives in Yichang, you will visit the Three Gorges Dam, the largest water containment project ever undertaken. In the afternoon, a flight will take you to Shanghai. Meals: Breakfast"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Shanghai. After have breakfast at your hotel. Visit the Yu Garden, the Bund and the Shanghai Tower. Meals: Breakfast,Lunch. Hotel: Sunrise On The Bund"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Depart Shanghai. Your guide and driver will transfer you to the airport on time . Wish you have a pleasant journey home! Meals:Breakfast, Lunch Hotel: Sunrise On The Bund"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Depart Shanghai. Your guide and driver will escort you to the airport in plenty of time. Your guide will help you check-in and see you off at the correct security gate."
+    }
+  ],
+  "map": ""
+}

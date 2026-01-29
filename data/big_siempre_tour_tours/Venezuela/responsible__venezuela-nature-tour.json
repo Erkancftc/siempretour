@@ -1,0 +1,60 @@
+{
+  "destination": "Venezuela",
+  "mainPhoto": "",
+  "id": "venezuela-nature-tour",
+  "tourName": "Venezuela nature tour",
+  "placesVisited": "",
+  "generalInfo": "Home to South America’s most incredible landscapes, Venezuela is one of the most biologically diverse nations on the planet.<br/><br/>Starting in the capital of Caracas, we travel from here to Canaima National Park. Nestled between the rainforest of the Amazon basin and the watershed of the Orinoco River, the park is home to famous table top mountains and the world’s highest waterfall, Angel Falls. We spend three full days in this area, exploring its impressive landscapes and canoeing along the Carrao River. We then head north to Merida where we drive through the cloud forest into Jaji to wander its colourful streets.<br/><br/>From here we explore the Paramo region of the higher Andes visiting local villages and hiking to Laguna Negra. We then visit the biological station of Mifafi – the team here are working to protect the endangered Frontino bear.  We also drive over the Pico El Aguila pass, situated at 4100 metres is the highest mountain pass in the Venezuelan Andes.<br/><br/>Heading south to Hato El Cedral, a working cattle ranch, we spend two days looking for wildlife. Known as the Serengeti of South America, The Llanos is a true paradise for naturalists and birdwatchers.<br/><br/>Finally, we end up back in Caracas where we discover the historic centre and its colonial history. We explore the key sites including the birthplace of Simon Bolivar, the former Royal prison and Panteon Nacional.<br/><br/>The optional extension to Los Roques will take us to an archipelago consisting of 50 islands, only one of which is inhabited. A paradise for divers and snorkellers – the surrounding waters are home to manta rays, sleeping sharks and multi coloured sponges.<br/><br/>From lush coastal valleys and white sand beaches to Jurassic era ‘table top’ mountains and glacial lagoons, this trip is an insight into the country’s incredible diversity. Most will have heard of Angel Falls, but there is a whole world to discover in Venezuela.",
+  "durationDays": "11",
+  "price": "5799",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Caracas - Arrive into Caracas and transfer to the hotel. Overnight Eurobuilding Express Maiquetia or similar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Canaima National Park - Transfer to the airport in the morning for our flight to Canaima. In the afternoon we board dugout canoes at Canaima beach, crossing a lagoon with impressive views of its seven waterfalls. Heading onto dry land we take a walk across the savannah to Sapo waterfall, where we walk behind falls before heading to the top for wonderful views of the surrounding landscape. Overnight Ucaima Camp or similar. (BLD)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Angel Falls - We board our motorised dugout canoes early in the morning, travelling up the Carrao river before crossing the Mayupa lagoon and Arautaima rapids. We then join the Churun river, winding our way through the spectacular Devil’s Canyon to Angel Falls, the highest waterfall on earth. Leaving our canoes behind we take a walk through virgin rainforest to get closer to the falls, taking a swim in the lagoon at its base. Overnight Ucaima Camp II or similar. (BLD)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Merida - Spend a full day exploring this city nestled in the Andes. We visit the colourful market where artisans display the best of local handicrafts including pottery and weavings, and regional delicacies such as smoked cheese and ‘ducles abrillantados’, crystallized guava chunks wrapped in leaves. We also visit the cathedral and government palace on Plaza Bolivar. In the afternoon we drive into the lower Andes surrounding Merida and through the cloudforest to the small village of Jaji. We wander its colonial streets and make a stop at an old coffee planation with its small museum. Return to Merida for the night. Overnight Posada Suiza or similar. (B)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Paramo - Today we explore the Paramo region of the higher Andes. We visit the villages of Tabay, Mucuruba and Mucuchies and take a short hike (approx. 2h) to Laguna Negra, a beautiful glacial lagoon with dark waters that reflect the surrounding landscape. We also visit the biological station of Mifafi - the team here are working to protect the endangered Frontino bear and to reintroduce the condor to the Venezuelan Andes, and drive over the Pico El Aguila pass, situated at 4100 metres above sea level, the highest mountain pass in the Venezuelan Andes, with spectacular views. (BL)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Caracas - Transfer to Barinas and fly back to Caracas. On arrival we discover the historic centre of Caracas and its colonial roots, with visits to the birthplace of Simon Bolivar, the former Royal Prison, Plaza Bolivar and the Panteon Nacional, among other sites. Overnight Eurobuilding Express Maiquetia or similar. (B)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Caracas - Transfer to the airport for your flight home."
+    }
+  ],
+  "map": ""
+}

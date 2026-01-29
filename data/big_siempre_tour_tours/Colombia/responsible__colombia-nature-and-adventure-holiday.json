@@ -1,0 +1,80 @@
+{
+  "destination": "Colombia",
+  "mainPhoto": "",
+  "id": "colombia-nature-and-adventure-holiday",
+  "tourName": "Colombia nature and adventure holiday",
+  "placesVisited": "",
+  "generalInfo": "Travel to Colombia where there is a land of incredible beauty, excitement, and charm waiting to be discovered. The fourth-largest country in South America, located on the North-Western corner and bordered by the Caribbean Sea and the Pacific Ocean, Colombia is rich in diversity from its people, cultures, and landscapes. From the vibrant and cosmopolitan cities of Bogotá and Medellin; the wonder and beauty of colonial Cartagena on the coast of the Caribbean, a UNESCO World Heritage site; to the hotbed of Colombian salsa in Cali.<br/><br/>The country has five main natural regions each with its unique characteristics; palm-fringed beaches lapping up the warm Caribbean Sea; fertile green highlands of the Andes region where the famous smooth aromatic coffee is harvested in the rolling foothills of the mountains; the west with the rugged yet tranquil coastline of the Pacific Ocean; and the South-East’s vast rivers of the lush and tropical Amazon rainforest.<br/><br/>With all this to offer and the assurance that Colombia is safer than ever and blissfully un-crowded, this captivating country and its friendly and proud people is a perfect destination for discerning travelers who yearn to discover one of South America’s best-kept secrets.",
+  "durationDays": "19",
+  "price": "4480",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive Bogota and transfer to hotel with English speaking guide."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Bogota Locals Tour with Monserrate Hill & Local Market. Visiti the charming Paloquemao’s Market, La Candelaria and Monserrate Hill. The tour ends with a visit to Botero’s Museum"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Transfer to La Macarena and Caño Cristales. Caño Cristales is also known by the name of the \"River of the five colors\" (yellow, blue, green, red and black), because in its transparent and pure waters you can see aquatic plants, the sand and the beautiful rock formations. Enjoy a wildlife boat tour in the afternoon"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Cano Cristales: prepare yourselves for the encounter with the rapids, waterfalls and pools decorated with colored algae that make Caño Cristales the most beautiful river in the world. Your days will be full of wildlife exhibition on land and river."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Departure to Medellin. Upon arrival at José María Córdova International Airport, you will be greeted by our guide and transferred to your selected hotel"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Full Day Tour of Medellin: Botero Plaza and Comuna 13. This tour will leave you full of memories and even more questions about the friendly inhabitants of this fascinating city."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Guatapé & Peñol Tour. The village of Guatapé is famous for its church and its beautiful, colourful paintings that decorate the houses of the village. On this day trip we will take you on a scenic drive through the Eastern Highlands of Antioquia. You can climb the Peñol Boulder, enjoy a delicious typical Colombian lunch on the waterfront of the Guatapé reservoir, explore the lake on a boat ride and take time to stroll and relax."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Armenia and the Cocora Valley. With a combination of beautiful natural landscapes, abundance of fauna and flora and a spring climate, this is without a doubt one of the most beautiful destinations in Colombia and the best place to enjoy a good cup of coffee. You'll also find the tallest palm trees in the world here in the Cocora Valley."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Caribbean Coast: With its breathtaking colonial architecture, horse-drawn carriages and narrow cobbled streets, the city of Cartagena de Indias is one of the most exciting destinations in Colombia. This Caribbean colonial jewel was the first Spanish colony on the South American mainland"
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Santa Marta: Enjoy hiking and wildlife watching around Tayrona National Park and the specacular Northern coast"
+    },
+    {
+      "dayNumber": 19,
+      "title": "",
+      "description": "Departure from Santa Marta"
+    }
+  ],
+  "map": ""
+}

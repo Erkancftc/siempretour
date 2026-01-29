@@ -1,0 +1,80 @@
+{
+  "destination": "Tanzania",
+  "mainPhoto": "",
+  "id": "tanzania-luxury-safari",
+  "tourName": "Tanzania luxury safari",
+  "placesVisited": "Tarangire National Park, Bush walks, Game drives, Ngorongoro Crater, Serengeti National Park, The Big Five, Optional: visit to Kuria tribe village, extension to Zanzibar",
+  "generalInfo": "Tanzania, a land of wide-open savannahs, incredible wildlife, idyllic palm fringed islands and of course, Africa’s largest mountain, the majestic Kilimanjaro, invites you to discover the wild, romantic Africa of your dreams.   This is the ‘cradle of mankind’ where you can see the oldest remains of Homo Hablis at Olduvai Gorge. <br/><br/>A million wildebeest, each driven by the same ancient rhythm, pound the plains of the Serengeti into Kenya’s Masai Mara performing their annual pilgrimage. Triggered by the first rains, wildebeest, zebra and gazelle undertake the long trek to find pastures new and to calve. This epic migration is best seen in the south of the Serengeti between December and April and, in the north and western corridor, from June to October. <br/><br/>Equally synonymous with Tanzania is the Ngorongoro Crater, the world's largest inactive, intact, and unfilled volcanic caldera. The crater, which formed when a large volcano exploded and collapsed on itself two to three million years ago, is 610 metres (2,000 feet) deep and its floor covers 260 square kilometres (100 square miles). This UNESCO World Heritage site is dotted with watering holes that shelter some 30,000 animals. A game drive in this natural amphitheatre allows a rare intimacy with the wildlife that roam this paradise. <br/><br/>When to go: From June to February is the best time to visit as it is dry and pleasantly warm. Rainy season is generally in April and May.<br/><br/>Beach extension: We can extend this holiday to include beach time in Zanzibar - please ask us for more details.",
+  "durationDays": "12",
+  "price": "8120",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Departure: Depart your country of origin - flights can be included if required."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Arrival: On arrival at Kilimanjaro airport you will be met and transferred to your chosen hotel/lodge in Arusha. At leisure."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Tarangire National Park: Short flight to Tarangire, on arrival you are met a transferred to your lodge. Following lunch, relax and familiarise yourself with your surroundings before heading out into the bush for an afternoon game drive. Tarangire is Tanzania's third largest national park and sanctuary for an unusually large elephant population. Majestic baobab trees are an interesting feature of the park, dwarfing the animals that feed beneath them. (B,L,D)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Tarangire National Park: Early morning bush walk offering the opportunity to focus on the smaller details and ecosystem of the bush whilst at the same time, achieving the thrill of stalking larger game on foot. After lunch, relax before your afternoon game drive through the swamps in search of big game. (B,L,D)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Tarangire - Ngorongoro: After breakfast fly to Manyara where you will be met and transferred to your camp while enjoying a short game ride en-route. This afternoon, visit explore the surrounding Ngorongoro volcanic landscape. (B,L,D)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Ngorongoro Crater: After an early start, descend into the Ngorongoro Crater, a UNESCO World Heritage Site and witness a true wildlife spectacle in this unique sanctuary. Enjoy a picnic lunch before returning to our lodge to relax. (B,L,D)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Ngorongoro - Serengeti: Short flight to the world famous Serengeti, home to the great migration where over a million wildebeest, zebra and gazelles migrate across the vast plains of the Masai Mara. On arrival you will be met and transferred to your lodge with a short game drive en-route. Following lunch, relax before your afternoon game drive in search of lion and leopards. (B,L,D)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Serengeti National Park: A number of options to choose from, perhaps depart camp early with a picnic breakfast, returning in time for lunch or take breakfast at the lodge and depart after with a picnic lunch returning later in the day. Even without the migration the Serengeti’s wildlife is unparalleled. Lion are a practical certainty for the photographer, cheetah pace the plains, leopard lounge in sausage trees and spotted hyena and golden jackal can be seen trotting through the grass. In the acacia woodland, Kirk’s Dik-Dik, Oribi and Roan hide, whilst herds of elephant feed on the fringes. (B,L,D)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Northern Serengeti: Short flight to the Northern Serengeti where you are met and transferred to our camp with a short game drive en-route. After lunch, relax on your private terrace or by the pool before your afternoon game drive and the chance to see big cats, rhino and a variety of other wildlife found in the area. (B,L,D)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Serengeti National Park: You have a number of options to spend your time in the Serengeti. There are daily game excursions to witness the myriad of wildlife that call this wilderness home. You may also experience the Serengeti on foot with experienced guides leading thrilling walking tours. Or perhaps relax at the lodge getting reacquainted with a good book, sunning yourself by the pool or indulge in a spa treatment. Perhaps visit the nearby village of Meruga to learn about the Kuria tribe, their culture, traditions and way of life. (B,L,D)"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Departure: Transfer back to the airport today for your departure flight. (B)"
+    }
+  ],
+  "map": ""
+}

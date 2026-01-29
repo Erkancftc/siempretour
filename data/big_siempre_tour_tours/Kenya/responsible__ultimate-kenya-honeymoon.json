@@ -1,0 +1,70 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "ultimate-kenya-honeymoon",
+  "tourName": "Ultimate Kenya honeymoon",
+  "placesVisited": "",
+  "generalInfo": "An unforgettable Honeymoon Safari and Luxury Beach stay, taking you into the heart of Africa’s most spectacular wildlife areas and pristine safari destinations with some of the best game viewing areas of the Masai Mara, Lake Nakuru and the Great Rift Valley. Ending with pampering and style in Mombasa staying amongst exquisite tropical coastline fringed with breath-taking white sand beaches and gorgeous coral gardens for snorkelling and diving.<br/><br/>Included:<br/>Full Board accommodation while on safari<br/>B&amp;B accommodation in Nairobi &amp; Diani<br/>Airport transfers as per the itinerary <br/>4x4 Safari Land Cruiser safari vehicle driven by a professional English-speaking driver guide while  at Sunbird <br/>Shared game drives in Mara <br/>Park fees in Mara and Nakuru <br/>Boat ride in Naivasha <br/>Excursions  as indicated <br/>Transfers between Loldia/Mara/Wilson/Diani/Wilson<br/>All government taxes",
+  "durationDays": "11",
+  "price": "4054",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Upon arrival at Nairobi Airport, you will be met and transferred to your hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Today enjoy incredible excursions to The Sheldrick Wildlife Trust where infant and orphaned elephants are rehabilitated back into the wild. Also visit to the Giraffe Centre set up for the endangered Rothschild Giraffe which was losing its habitat, and to the Karen Blixen Museum to learn about the author made famous by the Oscar winning movie ‘Out of Africa’."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Take your transfer to Naivasha to your lodge on Lake Elmenteita in Kenya’s Great Rift Valley, named as a World Heritage attracting many visiting flamingos and a huge amount of birdlife. Enjoy a boat ride to Cresent Island transfer to your hotel in time for lunch. Stay for 2 nights with Dinner, Bed, Breakfast, Lunch and Activities all included."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Enjoy a day trip to Lake Nakuru and enjoy a game drive. The national park is inhabited by over 50 mammal species including hippo, black and white rhino, Rothschild giraffe, buffalo and eland and known as a bird watcher’s paradise with its large flocks of Lesser Flamingo and 450 bird species."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "After breakfast leave the camp for your transfer, arriving for lunch at your next camp on the banks of the Talek River overlooks the mottled plains of the Maasai Mara. Enjoy an afternoon game drive. Two nights with Dinner, Bed, Breakfast and Lunch included."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Two days in the iconic the Masai Mara National Reserve with morning and afternoon game drives. Large prides of lions, herds of elephants, as well as giraffes, gazelles and eland can also be spotted in the reserve. Aside from horse riding safaris and traditional vehicle safaris, hot-air ballooning over the Mara plains has become almost essential."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "This morning depart for your onward journey to Diani and to your luxury beach resort for the ultimate Honeymoon 3 nights stay. Indulge in exquisite forest spa retreat, a fine dining experience and cocktails and wine cellar houses and relax in the day in the deep freshwater swimming pool or picture postcard perfect sandy beach. Bed & breakfast basis."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Two free days at your beach hotel. Gorgeous palm trees, powder white sand, warm azure waters and exquisite coral reefs are the ideal environments for water-based activities including snorkelling, scuba diving, and boat safaris. Facilities on offer include a diving school (PADI), a watersports centre, a boutique gift shop, a gym and a yoga platform."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Day 11: Depart today! Your transfer will collect you for your flight to JKIA Airport and onward departure flight home."
+    }
+  ],
+  "map": ""
+}

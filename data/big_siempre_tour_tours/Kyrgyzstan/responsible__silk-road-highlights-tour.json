@@ -1,0 +1,35 @@
+{
+  "destination": "Kyrgyzstan",
+  "mainPhoto": "",
+  "id": "silk-road-highlights-tour",
+  "tourName": "Silk Road highlights tour",
+  "placesVisited": "",
+  "generalInfo": "Follow one of the world's most well renowned overland routes; the Silk Road, and the Pamir Highway. This expedition will take you through some of the oldest cities in the world, discover the ancient trading routes through the 'Stan's' including a stop in the oldest bazaar in Central Asia - Osh, and the futuristic capital, Ashgabat, which holds the Guinness world record for the most-white marble on Earth. During our route we will also drive the spectacular Pamir Highway, one of the highest road border crossings in the world. We will also have time to hike in the Fann Mountains and visit the tallest waterfall in Tajikistan before crossing into Uzbekistan to explore Samarkand, Bukhara and Khiva. The trip then finishes by visiting the gas crater in the desert in Turkmenistan before arriving in Ashgabat",
+  "durationDays": "31",
+  "price": "2495",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Bishkek Kyrgyzstan's leafy, relaxed capital is a largely Soviet-built city, softened somewhat by its many boulevards and tree lined streets. We have a free day here today to explore and enjoy the cafés and restaurants dotted around the city; there is no shortage of bars and nightclubs, and for those so inclined there are also a few cinemas and shopping districts. Bishkek is also home to a number of museums, including the Kyrgyz State Historical Museum and Zoological Museum, which have exhibits that explain more about Kyrgyzstan political and natural history, and there are a number of parks and other public areas worth visiting to watch local life pass you by, the main one being Ala-Too Square, which once was dominated by a large statue of Lenin (this has now been moved to a smaller square in the city). If we need Iran visas for our onward journey, then we may also pick these up from the embassy here."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Dushanbe Dushanbe is Tajikistan’s largest city, and aptly its name means “Money” in Tajik language. It is a big showy city, in stark contrast to the East. You’ll pass a lovely day strolling through parks, admiring the fountains and the wide boulevards punctuated with grand buildings. Visit “Flag Pole Park” or the bazaar, or make the most of being in a city with restaurants specialising in various different cuisines."
+    }
+  ],
+  "map": ""
+}

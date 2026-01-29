@@ -1,0 +1,65 @@
+{
+  "destination": "Mauritius",
+  "mainPhoto": "",
+  "id": "mauritius-adventure-holiday",
+  "tourName": "Mauritius adventure holiday",
+  "placesVisited": "",
+  "generalInfo": "Embark on a journey through the stunning landscapes of Mauritius, where adventure and exploration led by locals await at every turn. From rewarding hikes to ocean experiences, this itinerary is designed to inspire adventure-minded travelers seeking exhilarating experiences in this tropical paradise.",
+  "durationDays": "8",
+  "price": "4220",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive at Seapoint Boutique Hotel and check-in to your accommodation for the trip. Immerse yourself in the laid-back atmosphere, unwind on the pristine sandy shores, and let the soothing sounds of the waves wash over you. Begin your adventure with a relaxing day, soaking up the sun and preparing for the exciting days ahead"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Dive into an adrenaline-pumping canyoning adventure in Tamarin Falls. Navigate through rugged canyons, rappel down cascading waterfalls, and plunge into refreshing pools. Challenge yourself both mentally and physically as you explore this natural playground. Let the excitement of the canyoning experience leave you with memories that will last a lifetime."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Challenge yourself to conquer the iconic peak of Le Morne Brabant, a UNESCO World Heritage Site. Ascend to the top trekking through rugged terrain and lush vegetation. Marvel at panoramic vistas and the breathtaking beauty that surrounds you. After the hike, take the afternoon to relax and rejuvenate, embracing the sense of accomplishment from conquering this majestic mountain."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Embark on a guided discovery tour of Chamarel, exploring its vibrant landscapes on electric bikes. Wind your way through picturesque pineapple plantations, visit a rum distillery, and be mesmerized by the unique Colored Earth phenomenon before heading to the Chamarel Waterfall viewpoint, an enchanting natural wonder. For those seeking an extra adrenaline rush, opt for the thrilling Tibetan bridge and zipline adventure."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Embark on an epic hike to the summit of Le Pouce, an iconic peak that offers breathtaking panoramic views. Conquer challenging trails, traverse diverse terrain, and soak in the beauty of Mauritius from a lofty vantage point. This invigorating hike will reward you with awe-inspiring vistas that make every step worthwhile."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Embark on a thrilling sea kayaking adventure to Amber Island. Paddle through sparkling azure waters, exploring the coastline along the way. Encounter marine life and soak in the serenity of the coastal paradise that surrounds you. Let the driving rhythm of your paddle strokes guide you to the enchanting shores of Amber Island."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Embark on a captivating hike through the untamed wilderness of Black River Gorges National Park. Traverse dense forests, encounter diverse flora and fauna, and marvel at cascading waterfalls. Explore trails that lead to panoramic viewpoints, immersing yourself in the raw beauty of this protected nature reserve. Unleash your adventurous spirit as you uncover the secrets of this untouched paradise."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Set sail on a morning dolphin-watching excursion, witnessing these graceful creatures in their natural habitat. Be captivated by their playful antics and create memories that will stay with you forever. Spend the afternoon relaxing on the beach, reflecting on the incredible adventures you've experienced throughout your trip. As the sun sets, bid farewell to Mauritius."
+    }
+  ],
+  "map": ""
+}

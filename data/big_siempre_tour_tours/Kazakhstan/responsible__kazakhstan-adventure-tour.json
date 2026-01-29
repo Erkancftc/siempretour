@@ -1,0 +1,80 @@
+{
+  "destination": "Kazakhstan",
+  "mainPhoto": "",
+  "id": "kazakhstan-adventure-tour",
+  "tourName": "Kazakhstan adventure tour",
+  "placesVisited": "",
+  "generalInfo": "See the contrast of the futuristic and the ancient on this 11-day journey from Astana to Bishkek. You’ll see the Central Asian landscape change from the vast expanse of flat countryside to winding mountain roads. Visit the Silk Road ruins of Otrar, stand in awe of the grand Yasaui Mausoleum, explore Astana’s monuments (that might remind you of Star Trek) and wander the cultural capital of Almaty. Hike the incredible Kolsai Lakes to see sunken forests, deep canyons and valleys and take a scenic boat ride on the alpine waters of Issky-kul Lake, bringing it home in charming Bishkek.",
+  "durationDays": "11",
+  "price": "2385",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Astana.",
+      "description": "Salemetsiz be! Welcome to Kazakhstan. Your adventure begins in Astana with a welcome meeting at 6 pm at your hotel. Astana was purpose-built to become the capital city of Kazakhstan in 1997 and is home to meticulously planned city streets and architecture. The modern metropolis was designed by leading Japanese architect Kisho Kurokawa, who won first prize in a competition against other world-renowned architects. Now, it’s one of the youngest cities in Central Asia. If you arrive early, maybe stroll along the Astana waterfront or go shopping in the world’s largest tent at the Khan Shatyr Entertainment Centre. Tonight, join your leader and group for dinner in town for your first authentic Kazakh food experience."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Astana.",
+      "description": "This morning, join your leader for a city tour around some of the most impressive designs of the new city. Visit Bayterek tower, then stroll down Nur Boulevard to Khan Shatyr – another city landmark in the shape of a giant transparent tent. Visit Nur-Astana Mosque – with its capacity of 5000 worshippers inside and an additional 2000 outside, it’s one of the largest mosques in Central Asia. Then, you'll stop at the Palace of Peace & Reconciliation – a pyramid-shaped conference hall considered Astana's symbolic centre. This afternoon, why not find some horse meat dishes or plov (a popular rice dish with chunks of lamb, onions and carrots) for lunch. After, you’ll met back up with your group and visit a renowned local jeweller and his workshop to learn about his craft."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Turkistan.",
+      "description": "This morning, take a flight to the historic centre of Kazakhstan, Turkistan – home to more relics and cultural sites than any other place in the country. When you arrive, visit the new Caravan Serai – a complex recently built to model ancient Silk Road trade centres, giving visitors a taste of what life was once like here. With your free time in the late afternoon, you can see the Yasawi Mausoleum, illuminated with vivid colours and patterned exteriors."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Turkistan/ Overnight Train.",
+      "description": "Head out on a city tour this morning, starting with a visit to Khoja Ahmed Yasawi Mausoleum – Kazakhstan’s most iconic building. Built by Tamerlane, it’s said that three visits here are equal to one visit to Mecca. As it’s a religious site, it’s recommended that women wear a headscarf when entering. On the grounds, you'll find a rose garden, monuments, an archaeological museum and a mosque. Leaving the mausoleum, jump in your private transport to Shymkent, stopping at the ancient settlement of Otrar on the way. First excavated in 1969, its history dates back to the first century AD, with remnants of palaces, mosques and bathhouses that can still be seen today. This is also where Genghis Khan's army is said to have fought when the Mongols first invaded Central Asia. Board your overnight train in the evening."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Almaty.",
+      "description": "Pulling into Alamaty this morning, hop off the train and head out to find some breakfast. Today, you’ll be going on a daytrip to Lake Issyk and Turgen Gorge. Stop at the Issyk Museum – an archaeological reserve dedicated to Kazakh history and Scythian culture (an ancient nomadic people who were particularly skilled in horseback warfare). Continue to Ile-Alatau National Park, where peaceful Lake Issyk sits in the foothills of the surrounding mountains. Relax and refresh on the lakeshore of this stunning spot before carrying on to Turgen Gorge, where a short hike will bring you to a waterfall. On the way back to Almaty, stop by a winery, where you’ll meet with a local craft winemaker and sample some raw wine, craft cheese and tuck into a hearty lunch."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Almaty.",
+      "description": "Today, you’ll take a city tour of Almaty with a local guide. This former capital of Kazakhstan now has a completely different vibrancy to Astana, with its wide tree-lined streets, numerous parks and the view of the snow-capped mountains. Visit Central Square and the colourful Zenkoff Cathedral in Panfilov Park, dedicated to the 28 guardsmen who died defending Moscow against German tanks in WWII. Check out the fascinating Museum of Kazakh Musical Instruments, which features a great collection of ancient relics. Finally, visit Zelenyi Bazaar and experience the vibrant market scene before returning to the hotel to rest and recharge."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Kolsay Lakes National Park.",
+      "description": "This morning, drive to Saty Village, stopping at the spectacular Charyn Canyon along the way. The richly coloured canyon carves a path through the surrounding landscape, with vivid tones of oranges and browns shifting and changing as the sun travels across the sky. Enjoy some time here to marvel at the natural wonder and grab some photos before continuing to Saty Village, where you’ll check into your homestay and experience a taste of local life in the Tien Shan Mountain Range."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Kolsay Lakes/Border Crossing/Karakol.",
+      "description": "This morning, visit Kolsay Lakes, also known as ‘the blue necklace’ for the clear blue waters framed by the mountains. If there’s time, you’ll take a hike to the lesser-known Kaindy Lake – a turquoise lake with a ‘submerged forest’ protruding from the water. Amazingly, the lake was created by an earthquake in 1911 which caused a limestone landslide, creating a natural dam in the forest. As time went on, the dam filled with water and the trees were covered, leaving just their trunks standing in the centre. Enjoy a picnic lunch, then head over the border to Kyrgyzstan, where you’ll continue your journey to Karakol."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Karakol.",
+      "description": "This morning you’ll head out on a city tour of Karakol – once a small Russian military post, then a bustling soviet state, this town is bursting with history. Visit the Dungan Mosque – built in 1910, this colourful mosque was created without the use of a single nail. Instead, the structure was built using special cutting and groove techniques. You’ll also explore the Holy Trinity Orthodox Cathedral and a local market. Then, head out of the city to see the Jety Oguz, also known as Seven Bull Valley, where your leader will take you on a forest hike to a waterfall with panoramic views. Return to Karakol for another restful night."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Bishkek.",
+      "description": "Today you’ll have a full day's drive to Bishkek, which sits along the northern shore of Issyk Kul – the second largest alpine lake in the world after Lake Titicaca in South America. The views of the landscape are not to be missed, especially your first glimpse of Issyk Kul, surrounded by snow-capped mountains. Along the way, you'll stop at Cholpan Ata to visit a petroglyph's site. Then, take a short boat ride out onto the huge alpine lake to really soak up the beauty of these shimmering waters. In Bishkek, you have a free night, where you might want to head to a final dinner with your group and toast to an amazing adventure."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Bishkek.",
+      "description": "With no further activities planned, your adventure comes to an end after breakfast today. You can check out of your hotel any time before noon."
+    }
+  ],
+  "map": ""
+}

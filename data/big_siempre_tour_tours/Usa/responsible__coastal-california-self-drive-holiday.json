@@ -1,0 +1,80 @@
+{
+  "destination": "Usa",
+  "mainPhoto": "",
+  "id": "coastal-california-self-drive-holiday",
+  "tourName": "Coastal California self drive holiday",
+  "placesVisited": "",
+  "generalInfo": "Over the years, countless films, photographs and guide books have attempted to capture the size, beauty and diversity of California. But nothing lives up to the reality of driving along the state’s winding coastline, gazing out over Yosemite Valley from Glacier Point, cycling across the Golden Gate Bridge or spotting your favourite celebrity’s star on the Hollywood Walk of Fame.<br/><br/>From the towering redwoods and fruitful vineyards of the north to the golden beaches and relaxed surfer lifestyle of the south, our specialists will help you plan your trip to California so you can uncover the state’s many sides. We visit the region regularly – particularly behind the wheel of a car – and will plan your ideal trip to California around your personal tastes and interests.",
+  "durationDays": "11",
+  "price": "4250",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Today you begin your journey by boarding your international outbound flight to San Francisco. On arrival in San Francisco make your own way to your downtown hotel. The remainder of the day is free to relax after your flight. You could begin to explore the city, perhaps taking a stroll in Golden Gate Park or exploring the brightly decorated streets of Chinatown."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Today you are booked on a tour of the legendary Alcatraz prison. The ferry to Alcatraz Island leaves from Fisherman's Wharf. After you arrive you will walk around the prison with your own personal headsets (with voice overs from real ex-inmates) that tell you all about the history."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Another day to enjoy The City by the Bay. I would recommend cycling from Fisherman's Wharf across the Golden Gate Bridge today. Cycle across the bridge to the beautiful small town of Sausalito, have lunch there and catch the ferry across the bay back to Fisherman's Wharf."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Make your own way to your nearest car hire depot, where your car will be ready to collect. All insurances, road maps and a sat-nav are included. Your first drive of the trip is a simple two hour journey out of the city suburbs along the Pacific Coast Highway, through the undulating Santa Cruz Mountains and along the coastal highway to Monterey. The remainder of the day is free to explore the town at leisure; we can particularly recommend the scenic coastal drive around 17 Mile Drive, which passes through the pretty town of Carmel with its gated mansions and boutique shops."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Today you'll make your own way to the marina where you'll embark on an exciting three hour small group whale watching expedition. The area becomes a feeding ground for blue whales, Risso’s dolphins, humpback whales, northern right whale dolphins and orcas. The rest of the day is yours to explore Monterey - you could visit the aquarium, which has a big focus on marine conservation and features interactive exhibits about the area's marine life, or you could browse the shops, galleries and restaurants of historic Cannery Row."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Departing Monterey, drive around three hours south along the beautiful Pacific Coast Highway, past small villages and along cliff edges to Pismo Beach. Spend the afternoon at leisure strolling the beach area or relaxing by the pool."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Complete your journey with a three hour drive south to Los Angeles. En route, visit the beautiful Spanish mission town of Santa Barbara and sample wines at one of the vineyards that dot the area. Continue to Los Angeles, where you'll drop your car off at the depot, before making your own way to your hotel. The rest of the day is free for you to start exploring the city - you could pay a visit to the Griffith Observatory in the Hollywood Hills for views over the city and its famous Hollywood sign."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Today you can explore Hollywood, Beverly Hills and Santa Monica. Enjoy exploring the star's names on the Walk of Fame, do some shopping on Rodeo Drive or relax on the beautiful Santa Monica beach."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Tickets to go to Warner Brother Studios are included for today! Enjoy seeing where the magic of Hollywood is created at the world's busiest movie studio!"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "There's time this morning for some last-minute shopping and sightseeing before making your own way to the airport in time for your onward flight."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Arrive home today to complete your journey."
+    }
+  ],
+  "map": ""
+}

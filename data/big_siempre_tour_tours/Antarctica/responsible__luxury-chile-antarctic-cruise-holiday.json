@@ -1,0 +1,60 @@
+{
+  "destination": "Antarctica",
+  "mainPhoto": "",
+  "id": "luxury-chile-antarctic-cruise-holiday",
+  "tourName": "Luxury Chile & Antarctic cruise holiday",
+  "placesVisited": "",
+  "generalInfo": "Journey to the ends of the Earth on this two-and-a-half-week itinerary which combines Chile’s most breath taking landscapes with the pristine wilderness of Antarctica. Stay in hand-picked luxury accommodations and travel in style with minimal environmental impact.<br/><br/>Begin in Santiago, immersing yourself in Chile’s culinary scene before flying south to Patagonia. Spend three nights in majestic Torres del Paine National Park, surrounded by glaciers, jagged peaks, and diverse wildlife. Skip the long sea passage and fly to King George Island where you will embark on your boutique expedition vessel, designed for intimate polar exploration. Over six unforgettable days explore the Antarctic Peninsula and South Shetland Islands. Glide past towering icebergs, watch penguins dart through icy water, spot sea lions lounging on floes, and witness the awe-inspiring sight of a breaching whale. <br/><br/>Return to Chile to unwind in the country’s winelands. Stay at a boutique winery, where time is spent exploring the vineyards, attending exclusive tastings, wandering the Andean foothills or simply relaxing in the hotel grounds. <br/><br/>Every detail of this experience has been seamlessly curated, with excursions, transfers and gourmet meals all included (excluding meals in Santiago). This trip can be tailored to your interests, so let us know your preferences.",
+  "durationDays": "16",
+  "price": "23041",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Santiago: Welcome to Chile’s capital Santiago. Upon arrival, settle into your luxury boutique hotel in the artistic Lasterria, a neighbourhood renowned for its bohemian charm. During your stay, let your expert local guide take you on a private culinary journey through Chilean gastronomy. Begin at Santiago’s vibrant seafood market and then continue with a hands-on cooking experience, where you’ll transform your freshly purchased seafood into some of Chile’ s most iconic seafood dishes. This is the perfect introduction to the country’s rich culinary heritage."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Torres del Paine: Fly south and discover the majestic wilderness of Torres del Paine National Park. Perfectly blended into the surrounding landscape, your luxury eco-lodge is the ideal base to explore all four regions of the park. Choose from a variety of included guided excursions and discover untouched landscapes on two feet, bike, horseback, or take to the water on a thrilling boat navigation. See snow-capped granite peaks and spot native wildlife such as guanacos, foxes, condors and even the elusive puma."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Punta Arenas: Get ready for an experience of a lifetime and transfer to your hotel in Punta Arenas, where you will be welcomed by your expedition crew and fully briefed ready to embark on your Antarctic adventure the following day."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "King George Island: A two-hour flight takes you from Punta Arenas to King George Island, in the South Shetland Islands, where your luxury expedition ship awaits."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Antarctic Peninsula: Over the coming days cruise between the South Shetland Islands and the western coast of the Antarctic Peninsula. Each day disembark by zodiac and explore the landscape with your expert polar guides. Get up close to the unique wildlife and admire the superlative landscapes home to this White Continent."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "King George Island: Return to King George Island and say goodbye to Antarctica before boarding the flight back to Punta Arenas. Upon arrival transfer to your hotel for the night."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Winelands: Return to Santiago and transfer to Chile’s wine region for your final nights at a boutique winery. Enjoy vineyard tours, wine tasting, and options for hiking, biking, or horseback riding amid the Andes Mountains."
+    }
+  ],
+  "map": ""
+}

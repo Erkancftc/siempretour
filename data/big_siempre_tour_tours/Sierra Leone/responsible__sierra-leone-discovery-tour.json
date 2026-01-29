@@ -1,0 +1,70 @@
+{
+  "destination": "Sierra Leone",
+  "mainPhoto": "",
+  "id": "sierra-leone-discovery-tour",
+  "tourName": "Sierra Leone discovery tour",
+  "placesVisited": "",
+  "generalInfo": "Sierra Leone is a hidden gem on the western coast of Africa! Nestled between Guinea to the north and Liberia to the south, this captivating country offers a unique and enriching travel experience like no other. With its stunning natural landscapes, vibrant culture, and warm hospitality, Sierra Leone is a destination that will leave you spellbound.<br/><br/>Begin your journey in the bustling capital city of Freetown, where a blend of history and modernity awaits you. Explore the historic Cotton Tree, a symbol of freedom, and visit the National Museum to delve into the rich cultural heritage of the country. Take a stroll along the stunning Lumley Beach, or immerse yourself in the vibrant markets, where you can find everything from traditional crafts to mouth-watering local delicacies.<br/><br/>Beyond the city, Sierra Leone offers an unforgettable adventure, breathtaking natural beauty, cultural immersion, and a chance to connect with a resilient and welcoming nation. Whether you are a nature lover, history enthusiast, or simply seeking an off-the-beaten-path experience, Sierra Leone will exceed your expectations at every turn.",
+  "durationDays": "9",
+  "price": "2595",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival into Freetown. Transfer across to your lodge and have the rest of the day at leisure."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "This morning is dedicated to the most prominent historical sites such as the Railway Museum, St. Georges Cathedral, National Museum, Peace Monument, the Maroon Church, the Cotton Tree, The Gateway to the Old King's Yard and Fort Thornton (where the Presidential State House now stands). The afternoon will be spent at the infamous Tacugama Chimpanzee Sanctuary to witness first hand the wonderful conservation work done by Bala and his team."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Today you will visit Bunce Island via private speedboat, viewing the city from the coast as you go by. Bunce Island was the largest British slave castle on the Rice Coast of West Africa, founded around 1670."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Today is set aside to climb Gbawuria Hill for fantastic views across Kabala Town and the Wara Wara Mountains (5.5km, approx. 1 hr 30 mins total walking time, low-medium difficulty)."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Set out this morning for a guided tour of Robgbonko Village Retreat. Rogbonko Mathaka (meaning \"The Place in The Forest\"), has no electricity, running water, telephones, and little contact from the outside world. You will meet the villagers, enjoy their food and witness their culture by sharing in their daily lives."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "This morning, head to Kent Village on the peninsula to catch a boat to Banana Island, for a chance to explore this scenic paradise. Three islands make up the Banana Islands: Dublin and Ricketts are linked by a stone causeway, and the third Mes-Meheux is uninhabited. There will be various optional activities available for everyone, including hiking, snorkeling, scuba diving, fishing and or a scenic boat trip around the island."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Spend the full day exploring the Banana Islands, you can take the two hour hike to Ricketts, go fishing with local fishermen or go snorkeling. Alternatively, you could always just chill on the beach."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Today you head to one of the most beautiful beaches Sierra Leone has to offer. Tokeh beach has a backdrop of lush, green mountains and an old wooden pier that runs into the sea to make this place a visual spectacle"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Today you set off back to Freetown. On arrival you can enjoy some last-minute shopping at one of Freetown’s craft markets for gifts and souvenirs before we transfer you to the airport in time for your trip home"
+    }
+  ],
+  "map": ""
+}

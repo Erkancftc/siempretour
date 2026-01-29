@@ -1,0 +1,65 @@
+{
+  "destination": "Cameroon",
+  "mainPhoto": "",
+  "id": "cameroon-and-gabon-holiday",
+  "tourName": "Cameroon and Gabon holiday",
+  "placesVisited": "Douala, Pongo Songo chimpanzee sanctuary, Yaounde, Bitam, Lambarene, Fang people, Babongo pygmies, Ndende, Punu people, Omboué, Loango National Park, Port Gentil, Libreville",
+  "generalInfo": "The jungles of Central Africa have forever been a mysterious land, difficult to penetrate and home to bewildering array of flora and fauna that will have nature enthusiasts salivating. This unique tour takes you on an incredible journey where nature rules supreme and the presence of man often seems insignificant, surrounded by thick rainforest alive with the calls of birds and monkeys. We start in Yaounde, then head south to a village of the Fang people where we are privileged to witness an authentic Bwiti ceremony, a spiritual ritual based around used of the psychoactive iboga root and one of the region’s most fascinating sights. <br/><br/>From here we venture into the forest to spend time with the Badgeli pygmies, camping within their community and learning about the numerous ways in which they have mastered the jungle, and also visit the chimpanzee sanctuary of Pongo Songo, where we have unparalleled opportunities to get close to these fascinating primates. But the best is saved until the end – two full days in Loango National Park, where we explore in the company of expert guides and look for gorillas, forest buffalo, elephants and with a bit of luck, hippos surfing in the sea. This trip offers the chance to see Africa at its wildest, where nature rules supreme and the jungle is king. This is not an easy journey, with some long drives, bad roads, limited infrastructure and the often infuriating bureaucracy of Central Africa to deal with along the way. But who said real adventure was ever easy? Join us to discover lost worlds, ancient traditions and the magic of the rainforest.",
+  "durationDays": "13",
+  "price": "8499",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Yaounde - Arrive in Yaounde and transfer to your hotel. Overnight Merina Hotel or similar."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Pygmy village - Drive south to meet the Badgeli pygmies, some of the most traditional people in Cameroon. We spend time in the forest taking part in traditional activities with the Badgeli, learning how they hunt and gather food, and seeing their vibrant culture and music. Overnight camping. (BLD)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Pongo Songo – Edea - Travel to the Douala Edea Reserve and from here take a boat to visit the Pongo Songo chimpanzee sanctuary, with fantastic opportunities to get close to these primates. From here continue to the town of Edea for the night. Overnight local guesthouse. (BLD)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Douala - Libreville - Transfer to Douala, Cameroon’s economic capital. We explore the city and then after lunch fly to Libreville for the next stage of our adventure. Overnight Hotel Tropicana or similar. (BL)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Port Gentil – Loango National Park - Fly to Port Gentil and from here travel to Loango National Park, crossing the Iguela lagoon and then continuing to the Louri lagoon where you can sometimes see wildlife such as elephants and buffalo on the beach. Overnight Loango Lodge. (BLD)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Loango National Park - Two days exploring Loango National Park. This is one of the richest ecosystems in Central Africa and harbours a huge diversity of species, including forest elephant, hippo, gorillas and chimpanzees. Accompanied by local guides we venture into the forests and along the beach each day in search of the iconic wildlife that lives here, and we will also track habituated lowland gorillas while here. Overnight Loango Lodge or similar. (BLD)"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Libreville - Travel by 4wd to Port Gentil, Gabon’s economic capital. Upon arrival in Port Gentil, fly to Libreville. Overnight Hotel Tropicana or similar. (B)"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Libreville - Today is spent exploring the city, visiting its markets and seeing some of the remaining examples of early colonial architecture. This evening we transfer to the airport for departure. (B)"
+    }
+  ],
+  "map": ""
+}

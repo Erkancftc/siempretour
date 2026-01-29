@@ -1,0 +1,105 @@
+{
+  "destination": "Australia",
+  "mainPhoto": "",
+  "id": "western-australia-self-drive-holiday",
+  "tourName": "Western Australia self drive holiday",
+  "placesVisited": "",
+  "generalInfo": "This 16-day tailor made itinerary starts in Perth, known for its white sand beaches, curated street art &amp; scenic parks.  With places such as Fremantle only 30 minutes away, it’s an environmentally friendly city that overflows with charm. <br/><br/>Just a short distance off the coast of Perth City, you will discover secluded coves, picturesque scenery and dazzling marine life. Enjoy a day exploring the beautiful Rottnest Island, a protected nature reserve and home of the world-famous Quokka.<br/><br/>Head to Nambung National Park and spend the day exploring. As well as the Pinnacles Desert, you will uncover some of its beautiful beaches at Kangaroo Point and Hangover Bay. You may also like to enjoy a trail along the boardwalk at Lake Thetis. The vegetation creates a memorable spectacle for all that visit. <br/>Next you’ll make your way to Kalbarri National Park, one of Western Australia’s most popular places for colourful wildflowers. Head over to Hawkes Head Lookout for some popular views of the sandstone cliffs. <br/><br/>Enjoy exploring the World Heritage listed Ningaloo Reef, swarming with turtles, tropical fish, manta rays and humpback whales. This is one of the only places on earth that these creatures congregate in such large numbers. <br/>Finish your trip with a relaxing evening watching the sun set on Cottesloe Beach, whilst enjoying a glass of wine, refreshing beer or a relaxed dinner and reflect on what will have been a trip of a lifetime. This is a trip that will leave  you with memories that you won’t forget.",
+  "durationDays": "16",
+  "price": "4750",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Today you begin your journey by boarding your international outbound flight to Perth."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "On-board your international outbound flight to Perth."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "On arrival in Perth you will be transferred by private vehicle to your downtown accommodation. The remainder of the day is free to relax. Why not shake off the jetlag with a walk around the new Elizabeth Quay district to explore the harbourfront, before heading to the state buildings for dinner."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "You have the day at leisure today. You may like to hop on the train or ferry to Fremantle and spend your day wandering around the markets and historic centre."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Today you have a full day exploring Rottnest Island by foot, boat and bicycle. Spend some time relaxing on the stunning white sand beaches of this nature reserve just off the coast of Perth, and keep an eye out for the island's most famous inhabitant, the Quokka."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Collect your hire car and drive north to Nambung National Park to spend the day exploring the remarkable Pinnacles Desert. Please note that your hire-car is subject to a one-way drop off fee which will need to be paid locally."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Continue to Kalbarri National Park and take one of the walking trails past canyons and dramatic rock formations."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Spend the day exploring Kalbarri National Park. Walk to Nature's Window for a stunning view over the gorge below."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Today you journey northwards through Kalbarri National Park, and then along the coastal highway to Monkey Mia."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Today you will have the chance to explore the rusty red soils, white sand beaches and stunning turquoise seas of the lesser known Francois Peron National Park. Your aboriginal guide will be sure to teach you stories of the dreamtime, how to find bush tucker and how to use traditional bush medicine."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Head from Monkey Mia to Coral Bay today. We recommend breaking up the drive by stopping at Carnarvon for a stop to learn about the wool making industry of the area or visit the nearby stromatolites at Hamelin Pool."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Arrive into Exmouth today, home of the Ningaloo Reef Marine Park. Spend the day today relaxing on the beach ready to explore the waters tomorrow."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Today you will take a boat out onto the World Heritage listed Ningaloo Reef, with the chance to snorkel on the pristine reef off the Muiron Islands."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Drive to nearby Learmonth this morning and fly from there to Perth. Travel out to Cottesloe Beach to watch the sun set over the Indian Ocean and reflect on your trip."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "You will be collected from your city accommodation in time for your onward flight."
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Arrive home today to complete your journey."
+    }
+  ],
+  "map": ""
+}

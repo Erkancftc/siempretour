@@ -1,0 +1,60 @@
+{
+  "destination": "Vietnam",
+  "mainPhoto": "",
+  "id": "thick-of-the-jungle-one-week-couples-tour-to-vietnam",
+  "tourName": "Thick of the Jungle: One-Week Couples Tour to Vietnam",
+  "placesVisited": "Hanoi, Ba Vi, Phong Nha, Phu Quoc",
+  "generalInfo": "Immerse yourself in Vietnam’s breathtaking scenes and retreat to illustrious landscapes during this 7-day Vietnam tour for couples. Trek up Ba Vi’s fabled mountain range, visit secluded ethnic villages, traverse dark cave systems, and bask on the ivory shorelines of Phu Quoc island. Designed specifically with couples in mind, this 7-day Vietnam tour offers you a little bit of everything and can be further customized to your interests.",
+  "durationDays": "7",
+  "price": "2,100",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Hanoi – First Taste of Vietnam",
+      "description": "When you land at Noi Bai International Airport in Hanoi, your private driver will greet and transfer you to your accommodation in the heart of the city. Upon your arrival at your accommodation, you will have some time to settle in and relax after your long flight. The remainder of the evening will be at your leisure, so you can venture to a nearby market, indulge in your first Vietnamese meal, or stroll through the town to acclimate yourself to your new surroundings."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Ba Vi – Trek Ba Vi Mountain",
+      "description": "After breakfast this morning, you will retreat to the forested hilltops of the countryside. The Ba Vi mountain range consists of three staggering peaks and is away in the national park. Your private transfer will escort you to your woodland retreat in Ba Vi after a hearty breakfast. After setting your bags in your room, your guide will lead you on an adventure. Today, you will climb to the Den Thuong or Bac Ho Temples, which rest on the crest of the mountain range. You will have time to explore each site before returning to Ba Vi for the evening."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Ba Vi – Experience Village Traditions",
+      "description": "After breakfast this morning, you will venture into the junglescape. A knowledgeable guide will lead the way to the Thien Son Waterfall. You will spend your morning among the seclusion and splendor of the waterfall. You and your partner will feel one with nature as you inhale fresh, crisp air and exhale any worries you may have brought along on holiday with you. Afterward, you can return to your accommodation or spend the remainder of the afternoon at the waterfall. Regardless, the afternoon will be yours to customize."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Phong Nha – Phong Nha-Ke Bang National Park",
+      "description": "Today, you will leave Ba Vi and fly to Dong Hoi in the morning. Upon your arrival, you will be greeted by a guide and transferred to Phong Nha. With seclusion and relaxation being the core values of your accommodation in Phong Nha, you will spend each evening feeling isolated from the rest of the world. You can have some time to experience the offerings of your accommodation before venturing into the woodlands for an exploration of Phong Nha-Ke Bang National Park, which is also a UNESCO World Heritage Site. Once your natural exploits conclude, you will have the rest of the evening at your leisure."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Phong Nha – Vietnam’s Underground World",
+      "description": "Today, you two will venture further into Phong Nha-Ke Bang National Park to explore some of Vietnam’s cave systems. After a filling breakfast, your guide will lead on a trek across prominent trails. Soon, you will arrive at the small entrance of Nuoc Nut Cave and suit up with helmets and headlamps. After your cave exploration, you will transfer to a nearby village situated near the Chay River, which is a fascinating dark cave complex that you can access with a two-person kayak. After your caving expeditions, you will return to Phong Nha, where you will have the rest of the evening at your leisure."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Phu Quoc – Phu Quoc’s Dreamy Coastline",
+      "description": "After breakfast this morning, you will fly to the tropical destination of Phu Quoc. Its coastline is lined with soft sand shorelines. Upon your arrival, you will transfer to your accommodation and have some time to relax. When you are ready, you can head down to the uncrowded beach for an afternoon of tranquility and sun-kissed shores. You can indulge in a walk to appreciate the environment around you, snorkel in the sea, and bask in the seclusion. This final full day will be yours to customize."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Phu Quoc – Departure",
+      "description": "After breakfast this morning, your guide will escort you to the airport so that you can connect with your outbound flight."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,75 @@
+{
+  "destination": "Australia",
+  "mainPhoto": "",
+  "id": "amazing-australia-kangaroo-safari-for-families",
+  "tourName": "Amazing Australia Kangaroo Safari for Families",
+  "placesVisited": "Melbourne, Kangaroo Island, Sydney",
+  "generalInfo": "Blending city sites with beach time and wildlife enchantment, this 10-day Australia kangaroo safari has been expertly handcrafted for families. Spend three days in Melbourne with koalas and Aboriginal art, three days on a Kangaroo Island wilderness safari, and four days of discovering the best of urban and natural Sydney. Expect sublime family experiences with authentic Australia.",
+  "durationDays": "10",
+  "price": "4,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Melbourne – Along the Coast",
+      "description": "You will touch down in Melbourne, and your private driver will greet you at the airport and transfer you to your beachside hotel in the south of the city. Here, there is space for your children to play and for you to escape from the bustle of inner-city life. Today will be at your leisure, and you may need a free day to overcome any jet lag and travel fatigue. Melbourne is a long way from home, so rest up and relax before your Australia kangaroo safari begins tomorrow."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Melbourne – Wild Koalas and Kangaroos",
+      "description": "From the south of Melbourne, it takes about 20 minutes to be in the wild amid kangaroos and koalas. Local wildlife trackers explore the nature reserve before you and then radio in different koala locations. This can be a lot of fun for kids because they must use GPS to find their way to the marsupials. Sometimes, koalas are low in the tree, so you can look straight into their sleepy eyes. After koalas, you will explore the open plains and track kangaroo mobs. Hopefully, you will encounter them hopping, boxing, and grazing."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Melbourne – Aboriginal Art Experience",
+      "description": "This morning, you will travel into the city to enjoy a short tour of the city’s iconic highlights. Old Victorian arcades stand proud, and there is a lively atmosphere to the cafe-laden streets. You will explore by tram with a local guide before spending the afternoon with an Aboriginal artist. All ages can participate in creating their own painting of dots and lines, making this a cultural and accessible family experience. You can narrate your kangaroo story from yesterday before heading back to the seaside for another quiet night in southern Melbourne."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Kangaroo Island – Wildlife and Wilderness",
+      "description": "After flying from Melbourne to Kangaroo Island, you will check in to a sublime island lodge that is perched halfway between the ocean and hopping marsupials. Australia’s famous animals roam freely on this island, and you can often see kangaroos and wallabies directly from your lodge. There will be no specific activity for today. You can enjoy the beach, savor the sight of wild kangaroos, and appreciate the space and silence out here. Kangaroo Island is a real escape that provides you with all the space you need as a family. With so much wildlife, there is rarely a dull moment."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Kangaroo Island – Wildlife Safari on Land",
+      "description": "Over half of Kangaroo Island is a protected area, and there is so much to discover. Today’s safari will lead you to secret places in search of rare and elusive species. Tammar wallabies gather in their hundreds, and echidnas provide unique experiences. You can see geckos and skinks along with possums and a real dragon. Kangaroo Island has its own kangaroo species, and their chocolate-colored skin makes for lovely photos, especially when your children are also in the frame. All meals will be included during your three-day safari here."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Kangaroo Island – Beautiful Marine Safari",
+      "description": "These three days on the island will be completely customizable, so your exact program can be adapted after you arrive and meet your private guide. The general program will be to allow for a day for wildlife on land, and a day to discover marine life. Whales and dolphins are regular visitors to these shores, and a small-boat tour will hopefully mean that you get very close to them. There are some beautiful swimming and snorkeling spots around the island, and you can focus on safely encountering Australian sea lions."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Sydney – Climbing Sydney Harbour Bridge",
+      "description": "To reach Sydney, you will need to travel via Adelaide, which means that today will be the longest bit of travel during your trip. After landing at the airport, you will transfer to Sydney Harbour Bridge, where a very special experience will get you and your kids really excited. The bridge climb takes three hours, and you will walk slowly up the steel frame until you reach the perfect city view. This climb is possible for anyone over the age of seven and at least 47 inches tall. This will be a thrilling way to start your Sydney city experience."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Sydney – Encounters with Australia’s Marsupials",
+      "description": "New South Wales has different wildlife rules compared to Victoria and South Australia. Here, you can actually touch the wildlife, which is something your children may have been waiting for since day one. A local conservationist will guide you around a wildlife sanctuary for rehabilitated animals, so you can all get up-close koalas, wallabies, kangaroos, and some of the country’s other endemic species. This will be a day for great photos and learning about wildlife behavior. Afterward, you will enjoy a Parramatta River cruise back to the city."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Sydney – In the Blue Mountains",
+      "description": "Today’s privately guided tour will lead you into the Blue Mountains, which is a UNESCO World Heritage Site. Here, mobs of kangaroos gather on wild plains. The kangaroos box, hop, and jump off into the distance. You can expect plenty of action and some fabulous viewpoints before returning to your beachside hotel for a relaxing afternoon on the coast. After all the activities, this final afternoon will be left free so that you can build sandcastles and enjoy a final bit of downtime before your trip home."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Sydney – Departure",
+      "description": "Most international flights depart Sydney in the afternoon and evening, so you will have some free time this morning to enjoy the beach before your departure. Late check out will be arranged, and you will transfer privately to the airport."
+    }
+  ],
+  "map": ""
+}

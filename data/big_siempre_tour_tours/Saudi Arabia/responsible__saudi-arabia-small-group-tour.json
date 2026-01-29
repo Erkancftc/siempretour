@@ -1,0 +1,95 @@
+{
+  "destination": "Saudi Arabia",
+  "mainPhoto": "",
+  "id": "saudi-arabia-small-group-tour",
+  "tourName": "Saudi Arabia small group tour",
+  "placesVisited": "Riyadh, Diriyah, The Edge of the World, Ushaiqer, Buraydah, Jubbah, Hail, AlUla, Madain Saleh (Hegra), Wadi Qaraqir, Bajdah Desert, Abha, Jeddah",
+  "generalInfo": "If you’re from outside the Arab world, you might have an ill-informed impression of Saudi Arabia. The country has only very recently started opening up to tourism. You’ll come away from this small group Saudi Arabia holiday with a rare and comprehensive overview of the country, one that reaches back into its history, and spans from its cities all the way to the forested mountains of the south. <br/><br/>This tour starts in the capital, Riyadh, before heading across the desert, via the dramatic ‘Edge of the World’ escarpment. It continues to the settlements of Ushaiqer, Buraydah and AlUla, before heading south to the mountains, and finishing at the beautiful Red Sea coast at Jeddah.<br/><br/>Fans of landscapes will love the sprawling deserts, which include Bajdah Desert, with its rock formations jutting out of the sand, and the natural wonder of Wadi Qaraqir, a long canyon with an oasis. In the south, you’ll be surprised at Saudi Arabia’s Asir Mountains, where the altitude means there’s rain and greenery. <br/><br/>This trip gives you opportunities to get to know the real country, whether that’s taking part in a stroll along the corniche at Jeddah like a local, or interacting with people in rural areas, or at lively souks. In Abha you’ll visit a typical Saudi home, and your local guide will accompany you at all times, bridging the gap between you and the places you visit.<br/>",
+  "durationDays": "15",
+  "price": "5999",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Riyadh - Arrive in Riyadh and transfer to the hotel. Depending on when you arrive there may be time to explore the city. Overnight Warwick Hotel or similar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Riyadh - Spend today exploring Riyadh. We visit the Murraba Palace, built by King Abdul Aziz in the traditional style as a home for his family, as well as the historic Masmak fortress, one of the oldest buildings in the city. As well as this we will visit the Dira souq, specialising in copper and brass as well as old Bedouin jewellery, and the National Museum. Overnight Warwick Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Diriyah – The Edge of the World - Spend the morning visiting the walled town of Diriyyah, the birthplace of the Saudi state and now in a process of restoration. In the afternoon we drive to the ‘Edge of the World’, a dramatic escarpment with spectacular views over the endless desert horizons. Return to Riyadh after watching the sun set. Overnight Warwick Hotel or similar. (B) Please note: Diriyah is currently under restoration although is schedule to re-open shortly. If however it remains closed, we will view it from the outside."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Ushaiger - Buraydah - Drive to the well preserved mud brick village of Ushaiger, with its approximately 400 houses and 25 mosques lining a maze of paths amidst the palm trees and orchards. From here continue to Buraydah and explore its lively souq and date market, as well as the camel market, reputedly the largest in the world. Overnight Tramontane Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Jubbah - Hail - This morning we drive to see the collection of ancient rock art at Jubbah, a huge open air art gallery with carvings that date back to 5500BC. Continue to Hail, the gateway to the desert and once a major meeting point for traders and pilgrims. Throughout the city are a number of forts and palaces, often now used as museums or libraries, dating back to the time of Ottoman rule. We explore city, including the Al Qishlah fort, among other sites. We will also visit the ancient petroglyphs at Jubbah. Overnight Tramontane or similar. (B)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Al Ula - Drive to Al Ula, with its well preserved historic buildings. This is the gateway to Madain Saleh but is well worth exploring on its own. Upon arrival we explore the old town. Overnight Sahary Resort or similar. (B)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Al Ula - Today we explore some of the many sites in and around Al Ula, including the ‘lion tomb’, Ikmah Mountain with its ancient inscriptions, and the ‘elephant rock’. Overnight Sahary Resort or similar. (B)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Madain Saleh - Tabuk - Head to the site of Madain Saleh – perhaps the highlight of this trip. We spend time exploring its numerous tombs and chambers hewn into the rocks, a remnant of the Nabataean civilisation which once ruled this part of Arabia. We also head a little further afield to visit 17th century Ottoman fort at Al Moadham, and we’ll also visit the historic Hejaz railway station. Continue from here to Tabuk. Overnight Ewa Express Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Wadi Qaraqir – Tabuk - Drive to Wadi Qaraqir, one of Saudi Arabia’s natural wonders. This is a 15km canyon running through the Jebel Qaraqir, a palm dotted oasis with crystal clear waters, which we explore on foot and by vehicle. We then return to Tabuk for the night. Overnight Ewa Express Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Bajdah Desert - Today we take jeeps into the Bajdah Desert, also known as Jebel Hisma. This is an area of stunning desert scenery not dissimilar from the better known Wadi Rum in Jordan, and we spend the day exploring its canyons, wadis and rocky outcrops, before returning to Tabuk. Overnight Ewa Express Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Abha - Fly to Abha, in the Asir Mountains. At an altitude of 2200m, the climate here is quite different to the rest of the country, and frequent rainfall makes the surrounding lands fertile, and good for agriculture. The architecture here is quite distinct, and on the outskirts of the city we can see centuries old mud and stone houses with striking white decorations. Explore the city including the market and the Al Shada Palace. Overnight Aber Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Abha – Jeddah - Continue exploring the area around Abha, visiting some of its traditional villages for an insight into a more rural side of the country, with good opportunities to meet local people. Fly to Jeddah in the afternoon. Overnight Warwick Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Jeddah - Spend today exploring Jeddah. This morning visit some of the old Ottoman houses, constructed from coral and wood, for a sense of the history of this Red Sea city, built on the wealth of ancient trade routes. We also visit local museums which are home to ethnological and archaeological artefacts, and have time to stroll along the cornice with the locals. Overnight Warwick Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Jeddah - Transfer to the airport for departure. (B)"
+    }
+  ],
+  "map": ""
+}

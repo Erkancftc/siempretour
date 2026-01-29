@@ -1,0 +1,95 @@
+{
+  "destination": "Tanzania",
+  "mainPhoto": "",
+  "id": "spectacular-two-week-safari-and-beach-romantic-escape",
+  "tourName": "Spectacular Two-Week Safari and Beach Romantic Escape",
+  "placesVisited": "Arusha, Lake Manyara National Park, Lake Natron, Serengeti National Park, Seronera, Ngorongoro Conservation Area, Tarangire National Park, Zanzibar, Kiwengwa",
+  "generalInfo": "Tanzania is a captivating country boasting remarkable wildlife reserves and sensational sun-kissed shorelines where some of Africa’s iconic animal sightings and magnificent marine encounters can be enjoyed during this tailored 14-day tour from Arusha to Zanzibar. Discover the untouched wilderness spreading across Lake Manyara and the Serengeti as well as spectacular seaside scenes encompassing Zanzibar on this ultimate Tanzania safari and beach experience.",
+  "durationDays": "14",
+  "price": "10,300",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Arusha - First Encounters of Untouched Tanzania",
+      "description": "There is no better place to welcome you to Tanzania than the country’s northern safari capital, Arusha. The sprawling city unfolds from the foothills of Mount Meru and stands between the country’s stunning wildlife reserves, including Lake Manyara National Park, Tarangire National Park, the Ngorongoro Conservation Area, and more. After landing and checking through immigration, you will transfer to a game lodge tucked beneath the lofty peaks of Mount Meru and boasting views of the snowy summit of Kilimanjaro. You will quickly settle into your scenic environment as you enjoy your first safari in the sweeping wilderness surrounding the city."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Lake Manyara National Park - Connect with the Tanzanian Wilderness",
+      "description": "Arusha is a gateway to the spectacular safari spots across Tanzania, with Lake Manyara National Park one of the most popular next stops in the country’s untouched northern wilderness. Your transfer will take you along scenic roads weaving through the rolling hills to observation decks sharing panoramas of the bushveld until you reach your bush lodge set on the edge of the Great Rift Valley. After lunch, you will join an expert ranger and descend into the valley in a 4x4 vehicle over the rocky roads and rugged paths connecting guests with Lake Manyara’s wildlands."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Lake Natron - Colourful Creatures and Striking Volcanic Landscapes",
+      "description": "You will join your ranger this morning and transfer to the mineral-rich landscapes of Lake Natron. As you swoop over the hills and gaze over the lake, you will catch a glimpse of its striking red waters. The surrounding plains and vegetative hills supply indigenous creatures with a nourishing source of food, while the steaming high sodium carbonate waters are a danger to animals wandering too close. This unique environment is a breeding ground for the endangered lesser flamingo, and you may witness a stunning strip of pink across the landscape as thousands gather in nearby waters."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Lake Natron - Ol Doinyo Lengai Trek with Maasai Locals",
+      "description": "The Ol Doinyo Lengai Mountain, an active volcano, lies south of Lake Natron and is largely responsible for the volcanic activity bubbling beneath the surface of this slice of northern Tanzania. Today, you will take part in a famous trek up the mountain with local Maasai guides who possess a deep understanding of and connection to the mountain and surrounding wilderness. Your guides will point out places of interest, help you navigate the rough terrain, and track wandering wildlife before you return to their village for a bite of traditional Maasai cuisine."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Serengeti National Park - One-of-a-Kind Serengeti Safari",
+      "description": "The Serengeti National Park is one of Tanzania’s purest wildlife reserves, boasting a combination of parched yellow plains where predators find refuge from the sun under shady acacia trees and flourishing green bushveld home to varieties of colorful birdlife and indigenous creatures. After a transfer to the region’s northern reaches, you will arrive at a lodge hemmed into volcanic, rocky outcrops that shares views of the pleasant emerald pastures. From here, you will relish an afternoon game drive where you may witness the migration of wildebeest across the dry savannas or encounter Africa’s Big Five."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Seronera - Quintessential Safaris across Central Serengeti",
+      "description": "Set on the Great Migration route of the Serengeti, Seronera offers adventure enthusiasts a safari experience unlike any other that you will enjoy from a camp raised above the bushveld. After you arrive, you will join your ranger for a game drive in the park’s lush landscapes and meander along tarred roads to dirt-surfaced detours that will lead you off the beaten path. You may encounter massive elephants who wallow in cool river waters, big cats who peruse the plains with their kin following closely at their side, and eagles gliding with the wind as they scan the Serengeti savannas."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Seronera - The Serengeti’s Great Migration",
+      "description": "If you have yet to witness the Great Migration, you may do so in the rugged lands encompassing Seronera. During this spectacular event, millions of wildebeest and other herbivores cross the dry plains in search of food while predators form strategies to take out any animals straying from the herd. You will be mesmerized by the natural spectacle should you be fortunate enough to see it all unfold. However, Seronera boasts many other magnificent animal sightings should you miss the migration during your safaris."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Ngorongoro Conservation Area - Welcome to the Grand Landscape of Ngorongoro",
+      "description": "Northern Tanzania’s Ngorongoro Conservation Area boasts the country’s greenest highlands and looming volcanic craters. The nutrient-rich environments are teeming with wildlife, from pink flamingos that gather in nearby lakes to hippos that rest in the water, lions that lie amongst the shrubbery, and giraffes that pluck the thorny acacias. An afternoon safari drive from your Ngorongoro lodge will share these animal sightings as well as visions of the illustrious landscape encompassed by the protected area. Returning to your resort later today, you may bask in the beautiful sunset as you lounge around the pool sipping cocktails."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Ngorongoro Conservation Area - Peaceful Scenes in the Ngorongoro Crater",
+      "description": "After breakfast, you will descend into the Ngorongoro Crater to uncover the wildlife mysteries that sweep the conservation area. During game drives and bush walks across the caldera, you will watch the wildlife wander by and relish sightings of communions of hippos, wildebeest, flamingos, and zebras luxuriating around glistening lakes. A peaceful ambiance floods the crater as predators are rarely successful hunting in the open fields under the clear day sky. You may, however, be lucky enough to watch a kill in action during night safaris when the lions and leopards spring to life."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Tarangire National Park - Explore Tanzania’s Unspoiled Tarangire",
+      "description": "The Tarangire National Park will welcome you to its awe-inspiring reserve as you enter the gates and transfer to your lodge overlooking flowing rivers, lush landscapes speckled with mighty baobabs, and shrub-covered bushveld reaching towards the horizon. Shortly after arriving, you will join an experienced ranger for a guided tour of the park that will showcase the unending allure of Tanzania’s Tarangire. You may snap up photography of zebra partners intertwining their necks in a loving embrace, buffaloes rolling in the muddy waters, and leopards lounging in the shady trees as you venture to every corner of the park."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Zanzibar - Sensational Sunsets over Unguja Island",
+      "description": "Today, you will tuck into breakfast and drive to Arusha, where you will board a domestic flight bound for the sun-washed shores of Tanzania’s beloved archipelago, Zanzibar. Arriving in Zanzibar, you will be treated to views of rugged overgrown islands and their postcard-perfect white-sand beaches. A short transfer will lead you to a dreamy resort on Unguja island overlooking the ocean in the quaint, quiet town of Kiwengwa. From candlelit dinners with your toes in the sand to poolside evenings with cocktails in hand, you will luxuriate in your peaceful resort as the sunset sweeps Zanzibar’s skies."
+    },
+    {
+      "dayNumber": "12",
+      "title": "Zanzibar - Unparalleled Seaside Activities in Unguja",
+      "description": "Today, you will have plenty of time to explore the seaside and partake in water-based activities in the crystal clear sea of Unguja. How you choose to bask in Zanzibar’s unbridled beauty is entirely up to you, with sunset dhow cruises on traditional wooden boats allowing you to slowly soak up the island splendors and unending views as well as complimentary windsurfing providing thrill-seeking spirits with a day of action-packed oceanic adventure. Your resort will also boast a gorgeous spa center where you may replenish your energy during a holistic therapy against a backdrop of the sparkling sea."
+    },
+    {
+      "dayNumber": "13",
+      "title": "Zanzibar - Magnificent Marine Finds Offshore",
+      "description": "You may wake up early to meet the sun as it rises over Zanzibar’s coastline. Shortly after first light, you may join a knowledgeable captain aboard their trawler and set out to sea to try your luck at big game fishing some distance from shore. You will hope to catch an array of indigenous fish, some of which you may have to release, and others locals will happily prepare for you on grills when you return to land. You may also relish scuba diving or snorkeling over the dazzling coral reefs lining the seafloor that teem with colorful marine life."
+    },
+    {
+      "dayNumber": "14",
+      "title": "Zanzibar - Sun-Kissed Sunrise Spectacles",
+      "description": "Wander outside this morning with a cup of coffee or tea, and you will catch the sunrise over Zanzibar flooding Unguja island and setting the village of Kiwengwa ablaze. The sunlight will dance on the sea and silhouette the towering palm trees swaying in the wind on your landscaped lawn. You will enjoy breakfast to these breathtaking views before you pack your bags and meet your private transfer in the resort lobby. You will transfer to Zanzibar Airport thereafter and say your farewells to Tanzania’s sun-kissed coastlines."
+    }
+  ],
+  "map": ""
+}

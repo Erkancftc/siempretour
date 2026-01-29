@@ -1,0 +1,75 @@
+{
+  "destination": "Burma",
+  "mainPhoto": "",
+  "id": "bagan-hot-air-balloons-and-yangan-tour-in-myanmar",
+  "tourName": "Bagan hot air balloons and Yangan tour in Myanmar",
+  "placesVisited": "",
+  "generalInfo": "Immerse yourself in the history and splendour of Bagan on this 10-day journey in Myanmar. Enjoy a morning sunrise hot air balloon flight over the stupas and pagodas. Back at ground level, explore Bagan by e-bike, join the goat herders on their morning walk around the temples, and picnic in our secret, secluded spots.  <br/><br/>This tour starts with Yangon. We will take you on a walking tour of downtown Yangon, while trying local snacks and enjoying a traditional teashop breakfast. We will also go cycling and take lunch at an organic local farm. <br/><br/>This tour offers an intimate experience of Myanmar featuring exclusive and unique experiences such as goat herding, Bagan picnics and walking tours through hidden parts of Yangon.",
+  "durationDays": "10",
+  "price": "3499",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Be greeted at Yangon International Airport and transfer to your hotel in the heart of the city."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Visit Shwedagon Pagoda at dawn and then continue to explore Yangon by public transport and by foot. Peep into hidden heritage buildings and try local food. Spend the afternoon with local artisans creating crafts."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Cycle around hidden parts of northern Yangon, before ending at an urban organic farm for lunch. Afternoon at leisure."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "This morning fly to the ancient city of Bagan, where crumbling temples dot the landscape. You will check in at the hotel for refreshment upon arrival, then explore hidden stupas and pagodas by e-bike."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "On your first morning in Bagan, experience a unique goat herding tour with locals. Visit the goat herding village early this morning and meet the family that look after the goats. Join the goat herds on their morning walk with the goats around the temples. Picnic breakfast on the way. Return to your hotel to refresh and then continue exploring the temples. Afternoon at leisure and then end the day with a serene sunset boat ride on the Ayeyarwady River with drinks and snacks."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Rise early for a hot air balloon ride over Bagan’s temples. Afterwards, visit the local lacquerware making followed by a picnic lunch at our secret secluded spot on the banks of the river. You will be left at leisure for the rest of the day."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Visit black-pea paste making workshop in a nearby village and join them for lunch. You will be left at leisure for the rest of the day. Alternatively, join a cooking class in the morning, starting with grocery shopping at the local market. Enjoy your own creation for lunch."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Today you will be left at leisure."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Transfer to Bagan Airport for your flight to Yangon."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Transfer to Yangon International Airport for your departure flight."
+    }
+  ],
+  "map": ""
+}

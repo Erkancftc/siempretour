@@ -1,0 +1,80 @@
+{
+  "destination": "Morocco",
+  "mainPhoto": "",
+  "id": "northern-morocco-11-day-tour",
+  "tourName": "Northern Morocco 11 day tour",
+  "placesVisited": "",
+  "generalInfo": "Getting away from the crowds, this comprehensive tour of northern Morocco takes in imperial cities, picturesque mountains, windswept beaches, Roman ruins and charming towns with a touch of Spanish influence.<br/><br/>Haggle in the souqs of Fez and explore the Roman ruins at Volubilis, Tetouan and Lixus. Cross the Rif Mountains to the charming blue and white town of Chefchaouen, a great base for walks in the surrounding countryside. The faded grandeur and unique character of Tangier gets you back in the fast lane, before the huge contrast of sleepy Asilah, a stunning white washed medina overlooking the Atlantic.<br/><br/>Late spring - around March to May and early Autumn - around September is the best time of year to travel. The summer can get very hot in the cities, whilst the winter months are cold.",
+  "durationDays": "11",
+  "price": "3900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly to Casablanca and transfer to your hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Enjoy a guided tour of Hassan II Mosque before travelling to Fez."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Full day tour of Fez, along with visiting some of the craftsmen in their workshops."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Join a local family for a cooking class today, before transferring to Chefchaouen via the Rif Mountains."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Explore the town or hike in the Akchour National Park."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Transfer to Tangier via Tetouan."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Day to explore Tangier."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Travel to the Spanish influenced coastal town Asilah."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Continue to the capital, Rabat."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Explore the city highlights."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Transfer to the airport for your onward flight."
+    }
+  ],
+  "map": ""
+}

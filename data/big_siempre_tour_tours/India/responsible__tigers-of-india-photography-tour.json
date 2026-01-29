@@ -1,0 +1,55 @@
+{
+  "destination": "India",
+  "mainPhoto": "",
+  "id": "tigers-of-india-photography-tour",
+  "tourName": "Tigers of India photography tour",
+  "placesVisited": "",
+  "generalInfo": "Home to some of the world’s most diverse and vibrant ecosystems, India offers some of the best tiger viewing in the world. Embark on an 11-day wildlife photography journey through India’s Bandhavgarh and Kanha National Parks designed specifically for photographers seeking exceptional opportunities to capture the beauty and majesty of tigers in the wild, alongside other incredible wildlife species in their natural habitats.<br/><br/>With the guidance of professional wildlife photographer Karolina Norée, you’ll receive personalized photography tuition, tailored to your individual level of expertise. Whether you’re an amateur photographer keen to learn the basics or a seasoned professional looking to refine your skills, this tour offers an opportunity to elevate your photography in one of the most exciting environments on earth.<br/><br/>Along with the focus on photography, you’ll also gain a deeper understanding of wildlife conservation in these vital ecosystems, with the chance to learn from Karolina’s experience in both photography and conservation efforts. This tour offers more than just an opportunity to build a unique photo portfolio—it’s a chance to immerse yourself in some of the most exciting wildlife environments on earth, all while learning from an expert in the field and contributing to the ongoing efforts to protect and preserve these incredible habitats.",
+  "durationDays": "11",
+  "price": "5995",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Welcome to India! Upon arrival in Delhi, you’ll be greeted and transferred to your airport hotel for a restful overnight stay. Take this time to relax, enjoy a hearty breakfast, and prepare for the exciting adventure that lies ahead."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Fly to Jabalpur in the early morning. From there, a scenic drive will take you to Kanha National Park, known for its dense sal forests and thriving tiger population. Check in at your lodge and head out for an evening drive to spot some wildlife."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Experience morning and evening safari drives in Kanha. This national park is famous for its Bengal tigers, Barasingha deer, and a rich variety of birdlife. Enjoy breakfast in the wild and evenings filled with sharing stories and savouring delicious local cuisine."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "After an early morning safari in Kanha, embark on a scenic four-hour drive to Bandhavgarh National Park. Arriving in time for an afternoon safari, you’ll have the chance to explore the diverse landscapes and wildlife of Bandhavgarh."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Spend your next 4 days on morning and evening jeep safaris in Bandhavgarh Reserve. Capture stunning images of tigers, leopards, and numerous bird species. In the evenings, relax at the lodge, where you can share your experiences with fellow photographers over dinner."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Enjoy a final morning drive in Bandhavgarh before traveling to Jabalpur or Nagpur international airport for your evening flight home, carrying with you memories and photographs of India’s magnificent wildlife and landscapes."
+    }
+  ],
+  "map": ""
+}

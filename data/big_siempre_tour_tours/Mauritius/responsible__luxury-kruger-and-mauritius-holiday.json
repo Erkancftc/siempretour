@@ -1,0 +1,50 @@
+{
+  "destination": "Mauritius",
+  "mainPhoto": "",
+  "id": "luxury-kruger-and-mauritius-holiday",
+  "tourName": "Luxury Kruger and Mauritius Holiday",
+  "placesVisited": "Makalali Conservancy, Safaris in Greater Kruger, bush picnics and wildlife viewing flights, luxury lodges, Le Morne Brabant, Black River Gorges National Park, Port Louis",
+  "generalInfo": "This luxury holiday to South Africa’s Kruger and Mauritius is a two-week journey blending exhilarating safaris with island relaxation.<br/><br/>The first week immerses you in some of South Africa’s premier safari landscapes: Greater Kruger. You’ll explore conservancies dedicated to long-term conservation, accompanied by a tracker and guide. With their expert knowledge, you’ll have the best chance to encounter an impressive lineup, from lions, leopards, elephants, giraffes, and zebras to the often-overlooked hyenas, wild dogs, and buffalo.<br/><br/>Prepare for early morning and evening game drives – with the option of microlight flights if you’d like a bird’s-eye view of the sweeping terrain – to spot as much of South Africa’s wildlife as possible.<br/><br/>The second week is all about Mauritius, an Indian Ocean gem just under a five-hour flight from South Africa. Catch up on any sleep missed during thrilling lion sightings by unwinding at your luxury beach hotel. Alternatively, keep the adventure going by trekking through Black River Gorges National Park or exploring the mosques, temples, and churches of Port Louis.<br/><br/>Prefer a bit longer in South Africa and a shorter stay in Mauritius? Or perhaps a few days in Cape Town? This holiday to South Africa and Mauritius is tailor-made, so it can be customised to fit your preferences.",
+  "durationDays": "12",
+  "price": "7378",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Johannesburg & Transfer to Kruger - Upon arrival Johannesburg, a representative will escort you to the domestic terminal where you’ll board a flight into the Greater Kruger region and be transferred to your accommodation."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Safari in Greater Kruger - For the next few nights, you'll be exploring the Greater Kruger region through morning and afternoon safaris. Head out on an early morning game drive with an expert guide and you’ll have a picnic breakfast in the bush, before returning to your camp. In the afternoon, you’ll have another game drive in this incredible reserve, where you’ll have a chance to spot elephant, lion, leopard, buffalo, white and black rhino, hippo, cheetah, crocodile, hyena, wild dog, zebra, giraffe, and several species of buck."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Fly to Mauritius - After breakfast, you’ll be transferred to the airport, where you’ll board a domestic flight to Johannesburg and then an international flight to the island of Mauritius. Upon arrival at Sir Seewoosagur Ramgoolam International Airport, you’ll be met by a hotel representative and transferred to your luxury beach accommodation, where you stay for six nights on a bed and breakfast basis."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Explore Mauritius - With its endless palm-fringed beaches, crystal clear waters and dramatic sunsets, Mauritius is the ultimate tropical paradise. For the next five nights, you will have the time to snorkel on the colourful coral reefs, go horse riding along stretches of pristine beach, trek in lush jungles, discover spectacular waterfalls, explore Black River Gorges National Park, visit Port Louis and see the churches, mosques, and Chinese and Indian temples from the citadel, or stroll up Signal Mountain to see the city at sunset."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Depart Mauritius - Following your delicious breakfast, you'll be transferred to the airport in Mauritius, where you can board your international flight back home."
+    }
+  ],
+  "map": ""
+}

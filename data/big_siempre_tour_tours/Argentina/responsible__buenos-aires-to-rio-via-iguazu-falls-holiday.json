@@ -1,0 +1,60 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "buenos-aires-to-rio-via-iguazu-falls-holiday",
+  "tourName": "Buenos Aires to Rio via Iguazu Falls holiday",
+  "placesVisited": "Buenos Aires, Iguazu Falls, Rio de Janeiro, guided walking tours",
+  "generalInfo": "Feel the rhythms of Argentina and Brazil on this seven-day adventure journeying from Buenos Aires to Rio de Janeiro, taking in the spectacular Iguazu Falls along the way. From tango to samba, Spanish to Portuguese, Malbec wine to caipirinhas, these two countries are sure to have you gripped.<br/><br/>Buenos Aires offers an eclectic mix of European, Cosmopolitan and Latin flavours, as well as a booming cultural and nightlife scene. Explore the neighbourhoods of this lively, confident city on a tour with a local guide and there’s the option to watch a football match or Tango show, too. Then look for rainbows in the mist of the mighty Iguazu Falls from both the Brazilian and Argentinian sides, and visit a local indigenous community. End your journey in Rio, gazing over the city, mountains and bay of Rio de Janeiro from the foot of the famous Christ the Redeemer statue. Here, favelas may sit alongside mansions, but in the heaving metropolis of Rio, everyone’s invited to the party. Immerse yourself in Brazilian culture, dance and music. As the sun goes down, take the cable car up to Sugarloaf Mountain to watch the sunset before getting sweaty with the locals in the samba clubs.<br/><br/>",
+  "durationDays": "7",
+  "price": "2715",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Buenos Aires.",
+      "description": "Bienvenido! Welcome to Buenos Aires, the ultimate cosmopolitan city, with Latin passion, European elegance, and its own distinctive style. Your adventure begins with an important welcome meeting at 6 pm. Your leader will leave a note at the hotel reception telling you where this important meeting will take place. Argentinians enjoy dining late so there will be plenty of time after the welcome meeting to take up any of your leader’s restaurant suggestions for those wishing to sample Argentina’s world-renowned steak."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Buenos Aires.",
+      "description": "Today explore Buenos Aires on a half-day tour with an expert local guide. Starting in Plaza de Mayo, explore the city’s most famous sights with highlights including San Telmo, one of the oldest neighbourhoods in Buenos Aires, and La Boca where you’ll visit iconic Caminito Street, which gives the neighbourhood its distinctive spirit. After lunch, your tour continues towards Retiro and Recoleta, where you’ll learn about the families who sought to build a small-scale Paris in the heart of Buenos Aires and see the ornate mausoleums at one of the world’s most famous cemeteries. This evening is free to enjoy your way."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Foz do Iguazu.",
+      "description": "Fly to Puerto Iguazu in the northeast corner of Argentina where mighty Iguazu Falls straddles the border of Argentina and Brazil. Iguazu Falls are higher than Niagara Falls, wider than Victoria Falls, and a truly epic sight. Take a trip across the border to Brazil to admire panoramic views of multiple thundering waterfalls. You may like to take an optional helicopter flight over the top of the falls for a more panoramic view. Tonight, spend the night in Foz do Iguazu (Brazil), resting up before a big day exploring the Argentinian side of the falls tomorrow."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Iguazu Falls.",
+      "description": "A visit to the Argentinian side of Iguazu today allows you to get up close to the waterfalls via a series of boardwalks. According to Guarani legend, Iguazu Falls was created when the serpent god M’Boy, enraged by the betrayal of a chieftain’s daughter who was promised to him, split the river in half. For a more exhilarating experience, take an optional Zodiac boat ride to the base of the falls. This afternoon, join your leader for a visit to a Guarani community where you’ll meet some of the region’s few remaining indigenous people. Learn about the Guarani way of life and how they have preserved their traditions on the edge of one of the world’s most popular attractions. Return to your hotel on the Brazilian side of the falls."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Rio de Janeiro.",
+      "description": "Take an early morning flight from Foz do Iguacu to Rio. The locals say that 'if God made the world in six days, he devoted the seventh to Rio'. The day is yours to do what you like. For relaxation and people watching, head to the beaches of Copacabana or Ipanema. If the time of year is right, check out a football game or a Carnival rehearsal. As evening approaches, perhaps take the cable car up to Sugarloaf Mountain to watch the sunset before getting sweaty with the locals in the samba clubs of bohemian Lapa."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Rio de Janeiro.",
+      "description": "It's an early start this morning as we embark on a guided tour of Rio, starting at Corcovado Mountain for sweeping views over Rio from the base of the Christ the Redeemer statue before the crowds arrive. Discover the eclectic architecture, restaurants, and art galleries of the artistic neighbourhood of Santa Teresa. Then continue to the colourful Selaron Steps to see artist Jorge Selaron’s gift to the Brazilian people, a staircase with 215 steps that’s decorated with thousands of tiles collected from over 60 countries around the world. The afternoon is free for you to spend as you wish, before rejoining your group for a farewell dinner. A fun local restaurant, specialising in smoky grilled seafood and meat with fresh, zesty salads, is the ideal place to celebrate your time together."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Rio de Janeiro.",
+      "description": "With no activities planned for today, you are free to depart at any time. That doesn’t mean your adventure has to come to an end. If you would like to continue soaking up the sun in Rio, we’ll be happy to book additional accommodation (subject to availability)."
+    }
+  ],
+  "map": ""
+}

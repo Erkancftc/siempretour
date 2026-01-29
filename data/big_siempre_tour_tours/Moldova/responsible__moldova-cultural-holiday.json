@@ -1,0 +1,60 @@
+{
+  "destination": "Moldova",
+  "mainPhoto": "",
+  "id": "moldova-cultural-holiday",
+  "tourName": "Moldova cultural holiday",
+  "placesVisited": "",
+  "generalInfo": "Tucked between Romania and Ukraine, Moldova is one of Europe’s last true hidden gems - a land often overlooked, yet rich with history, layered cultures, and quiet, unspoiled charm. This journey invites you to step off the tourist trail and into a country shaped by centuries of shifting empires, enduring traditions, and surprising beauty. From the tree-lined boulevards of Chisinau to the echoing wine cellars of Cricova, the forgotten Soviet echoes of Transdniestr to the ancient cave monasteries at Orheiul Vechi, each day peels back another layer of this enigmatic country, offering a rare glimpse into a Europe that time almost forgot.<br/><br/>The tour begins in the relaxed capital, Chisinau, with time to explore its parks, monuments, and Soviet-era grandeur before heading out to the peaceful Capriana Monastery and the tradition-rich village of Clisova Noua. You’ll then cross into Transdniestr - a breakaway republic frozen in time - where the capital, Tiraspol, and the historic fortress town of Tighina offer a rare glimpse into a living Soviet past. The journey continues with visits to Orheiul Vechi, a striking monastery carved into a cliffside, and Cricova’s sprawling underground wine city, where Moldova’s finest vintages await. Further north lies Soroca, with its imposing medieval fortress and vibrant Roma community, followed by a visit to the unique autonomous region of Gagauzia - where Turkic roots blend with Orthodox tradition-, before returning to Chisinau for a final night.<br/><br/>More than just a sightseeing tour, this journey is an immersion into a land where cultures meet, identities intertwine, and history is never far beneath the surface. Whether tasting wine in centuries-old cellars, exploring villages little changed by time, or uncovering Moldova’s forgotten corners, this is a rare opportunity to discover a Europe few have seen - and one you won’t soon forget.",
+  "durationDays": "7",
+  "price": "1285",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Chisinau - Arrive in Chisinau and transfer to your hotel. The rest of the day is free. Overnight Bristol Hotel or similar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Chisinau – Capriana – Clisova Noua - Spend the morning exploring Chisinau, one of Europe’s greenest cities. We visit some of its key monuments including the St Teodora church, the Arch of Triumph and its collection of striking 19th century buildings. We then head to the 15th century Capriana Monastery, and the village of Clisova Noua with its small museum on Moldovan customs and traditions. Return to Chisinau for the night. Overnight Bristol Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Transdniestr - Cross the border into the breakaway republic of Transdniestr, one of Europe’s oddest entities and something of a throwback to the days of the Soviets. We explore the ‘capital’ Tiraspol with its stark monuments and also visit the town of Tighina, once an important trading centre and with an impressive 16th century fortress to explore. Return to Chisinau for the evening. Overnight Bristol Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Orheiul Vechi – Cricova - Visit the monastery complex of Orheiul Vechi, one of Moldova’s most important historic sites and dating back to the 13th century. We then head to the vast wine cellars of Cricova, around 80 metres underground and consisting of tunnels that stretch for more than 120 kilometres. Explore this unusual site with opportunities for wine tasting at the end. Overnight at Bristol Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Soroca - Head to Soroca, once a Genoese trading post and home to a rather impressive fort, which we explore. We also visit a community of gypsies, where we will be able to learn about their unique traditions and customs, before heading back to Chisinau. Overnight Bristol Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Comrat - Drive to Comrat, the ‘capital’ of the semi-autonomous region of Gagauzia. The Gagauzians are of Turkic ethnicity but follow the Eastern Orthodox church, with a distinct culture and traditions. We visit a traditional (restored) Gagauzian house as well as the small ethnological museum in the village of Besalma, before returning to Chisinau for our final night in Moldova. Overnight Bristol Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Chisinau - Transfer to the airport for departure. (B)"
+    }
+  ],
+  "map": ""
+}

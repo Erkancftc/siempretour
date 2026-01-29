@@ -1,0 +1,135 @@
+{
+  "destination": "New Zealand",
+  "mainPhoto": "",
+  "id": "nature-tour-in-new-zealand",
+  "tourName": "Nature tour in New Zealand",
+  "placesVisited": "Bay of Islands, Tiritiri Matangi Island Reserve, 'Kiwi Dundee' on the Coromandel Peninsula, Maori culture in Rotorua, Wellington, Karori Wildlife Sanctuary, Kaikoura, Antarctic Centre in Christchurch, Southern Alps, Penguins on the Otago Peninsula, Stewart Island, Ruggedy Range Wilderness Experience, Milford Sound, Lord of the Rings landscapes around Queenstown",
+  "generalInfo": "New Zealand is blessed with an abundance of birdlife and a pristine natural environment and this itinerary includes some of the best natural wonders that New Zealand has to offer. You will journey through the heart of New Zealand visiting areas that showcase the diversity of the natural environment and its inhabitants. <br/><br/>This itinerary includes a visit to the island reserve of Tiritiri Matangi, renowned for its abundance of native birdlife, and two nights on Stewart Island, 85% of which is a national park and one of the places where you are likely to see the rare Kiwi. You will get the opportunity to take a boat out in to the waters around Kaikoura on the lookout for sperm whales and dolphins and spend some time on the Otago peninsula, best known for its protected colonies of royal albatross and the rare yellow-eyed penguin. <br/><br/>You will also get the chance to spend some time in the company of some of New Zealand's most knowledgable and enthusiastic nature guides like Kiwi Dundee on the Coromandel Peninsula. You will learn more about how the environment and culture go hand in hand in this country through visiting Te Puia Maori cultural experience in Rotorua.  <br/><br/>Throughout your journey you will experience fantastic scenery, much of which is preserved in New Zealand's 14 National Parks, with everything from gorgeous beaches and untouched native forest to spectacular geothermal activity and dramatic mountain peaks. <br/><br/>Best time to go: In order to include all the activities and excursions outlined in this itinerary, it would be advisable to avoid the winter months, namely June, July and August. The ideal time to visit New Zealand in terms of the weather is from late spring and through the summer, any time from November until the end of April, with February being the busiest month for international tourists.",
+  "durationDays": "21",
+  "price": "9655",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in the Bay of Islands. Pick up an economy car from the airport and make you way to your accommodation. Stay at the beautiful Arcadia Lodge, a small locally owner B&B that used recycled Kauri Tree wood to refurbish the property."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Join a half day sailing boat trip to try to spot dolphins and marine life in bay."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Today drive south just shy of Auckland, where you will spend the next two nights."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Take the ferry to Tiritiri Matangi, an Island reserve, and be guided through the bush whilst looking for an array of native birds."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Drive to the Coromandel Peninsula, via Miranda and the Firth of Thames - a fantastic place to spot both endemic and visiting birds."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Spend the day on a Kiwi Dundee eco-tour exploring the coastline and forest of the peninsula."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Drive south to Tongariro National Park where you will spend two nights in the Nightsky Cottage, a completely luxury eco-retreat."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Today is at leisure to hike around the National Park and enjoy the three volcanic mountains that make up Tongariro National Park."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Visit the Karori Wildlife sanctuary, a safe-haven for endangered native birds and other wildlife and/or take the historic cable car up to the botanical gardens"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Board the Interislander ferry to Picton and stay at the historic Portage Resort in the Marlborough Sounds."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Spend the day hiking or biking around the Queen Charlotte Track."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Return to Picton, and drive to Kaikoura. In the afternoon enjoy a superb whale watching trip before hiking to your glass cabin that is completely immersed in nature."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Enjoy the day hiking around the Kaikoura Mountains and enjoy being in nature."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Drive up to Arthur’s Pass in the Southern Alps. Stay at Wilderness Lodge, which was set up to show that ecotourism can contribute to the economy and also protect the environment through nature conservation programmes."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Spend the day walking in this pristine region, either guided or unguided. The lodge owners have spent years working with the Department of Conservation to identify rare and endangered plants and birds, which have been reintroduced on to the land around the lodge. Return to Christchurch in the evening."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Drive to Dunedin, stopping at the interesting Moeraki Boulders on the way. Stay at the historic Fletcher Lodge."
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Explore the stunning Otago Peninsula, where you can visit protected colonies of yellow-eyed and blue penguins, sea lions and fur seals, and the world’s only mainland albatross colony."
+    },
+    {
+      "dayNumber": 17,
+      "title": "",
+      "description": "Drive to Invercargill and board a light aircraft to Stewart Island. You will be met by your local host and taken to your accommodation at the Stewart Island Lodge, set in native bush with abundant birdlife."
+    },
+    {
+      "dayNumber": 18,
+      "title": "",
+      "description": "Spend the day exploring the primeval forests around Stewart Island. In the afternoon take a guided walk through the forest to spot the illusive and flightless kiwi bird."
+    },
+    {
+      "dayNumber": 19,
+      "title": "",
+      "description": "Return to the mainland and drive to Te Anau. Stay at Te Anau Lodge, a former convent with a wealth of history and character."
+    },
+    {
+      "dayNumber": 20,
+      "title": "",
+      "description": "Take a day trip to the glacial formed Milford Sound for a nature cruise, with highly knowledgeable on-board naturalists and geologists. You will also visit the fascinating underwater observatory, which due to the unique underwater environment of the Sound allows you to view precious corals, sea stars and fish which are usually only seen by divers."
+    },
+    {
+      "dayNumber": 21,
+      "title": "",
+      "description": "Drive to magnificent Queenstown, where you will end your trip. Explore some true ‘Lord of the Rings’ country, visit historic gold-mining townships, or simply sit back and take in the stunning lake views before catching your onward flight home."
+    }
+  ],
+  "map": ""
+}

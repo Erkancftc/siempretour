@@ -1,0 +1,65 @@
+{
+  "destination": "Ecuador & Galapagos",
+  "mainPhoto": "",
+  "id": "galapagos-islands-swimming-holiday",
+  "tourName": "Galapagos Islands swimming holiday",
+  "placesVisited": "",
+  "generalInfo": "Embark on the adventure of a lifetime with this Galapagos Islands swimming tour. This unique journey offers an unparalleled opportunity to explore one of the most biodiverse and pristine ecosystems on the planet. <br/><br/>Swim through crystal-clear waters, surrounded by vibrant marine life, and experience the thrill of swimming with sea lions, turtles, and an array of tropical fish. <br/><br/>Whether you're an experienced swimmer or a beginner, our expert guides will ensure a safe and memorable experience. Sail into the heart of the Galapagos and discover the beauty of its underwater world like never before. <br/><br/>Join us for an extraordinary aquatic adventure!",
+  "durationDays": "8",
+  "price": "5489",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Tonight you will stay at the Sheraton Quito meeting at 6pm for a welcome drink and dinner."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Morning | We will take a flight to San Cristobel in the Galapagos Afternoon | La Loberia swim with large Galapagos sea lions."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Morning | Coastal swim at Punta Suarez, Española Island Afternoon | North coastline swim, with the possibility of spotting blue sharks, zayapas & sea turtles."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Morning | Transfer to the liveaboard and set sail Afternoon | Lobos Island Channel Swim"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Morning | Pitch Point Witch Hill Swim Afternoon | Kickers Rock Circumnavigation"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Morning | Gardner Bay Swim Afternoon | Suarez Point Coastal Swim"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Morning | Floreana Bay to Bay Swim Afternoon | Cormorant Point Swim/Snorkel"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Sunrise dip before heading back to land to catch your flight back to Quito"
+    }
+  ],
+  "map": ""
+}

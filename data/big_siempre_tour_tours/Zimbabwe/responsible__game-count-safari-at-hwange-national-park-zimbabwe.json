@@ -1,0 +1,45 @@
+{
+  "destination": "Zimbabwe",
+  "mainPhoto": "",
+  "id": "game-count-safari-at-hwange-national-park-zimbabwe",
+  "tourName": "Game count safari at Hwange National Park, Zimbabwe",
+  "placesVisited": "",
+  "generalInfo": "Unlike a typical safari, which lasts just a few hours, the Game Count Safari immerses guests in Hwange’s wilderness for a full 24-hour period. Stationed at a designated waterhole, participants track a diverse array of species, from vast herds of elephants and elusive predators to rarely seen nocturnal animals.<br/><br/>Morning to afternoon offers the chance to witness antelope, giraffes, and warthogs as they arrive for their first drink of the day. As the sun begins to set, predators start to stir, and the landscape transforms with the calls of night birds and the distant roar of lions. Through the night, guided by the moon and the quiet sounds of the bush, the nocturnal world comes to life. By dawn, the park awakens again with the sounds of the wild, marking the conclusion of an unforgettable conservation experience.<br/><br/>This unique adventure is available exclusively for guests staying at selected safari camps.<br/><br/>The Game Count happens over 24 hours, but is part of a 3 night stay at a lodge which includes game drives on the other days.",
+  "durationDays": "7",
+  "price": "2800",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Transfer to Hwange National Park for 3 nights on safari. Hwange National Park is Zimbabwe's largest game reserve. Vast stretches of wilderness, extend from horizon to horizon and form part of the ancient migration route towards Northern Botswana's Chobe and the Linyanti. This diverse landscape of mopane and teak forests, semi-desert scrubland and granite hills is inhabited by a wide variety of mammals and birds. Although a year round destination, Hwange is particularly appealing during the winter months (April to October) when large concentrations of animals flock to artificially pumped waterholes as the seasonal pans dry out. The park's network of waterholes sustains life when natural resources are unavailable. Massive herds of elephant make their presence felt during the dry period. Buffalo, zebra, sable and roan antelope, as well as lion, leopard, cheetah and wild dog can are also to be seen. Stay in an intimate camp with a feeling of remoteness and seclusion. Rooms boast views of a productive waterhole which draws local wildlife. Elles are often drawn to the pool right at the front of the lodge for a drink on a hot day: it’s an incredible privilege to be so close to these magnificent giants. During the day, game drives will have you tracking lion prides, buffalo herds, and learning about the work of the local wild dog conservation centre – a visit to the centre is an absolute must to hear the story of how dogs are being brought back from near-extinction in this area. Guests can also visit local village and conservation projects which are funded by the Lodge’s Trust. This is a very special place: prepare to be immersed in the wilderness and friendliness of the local people."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Your designated Game Count Day. At 12 PM, you’ll be taken to your assigned waterhole, where you’ll spend 24 hours monitoring and recording wildlife movements. As night falls, the full moon illuminates the landscape, revealing the hidden world of Hwange’s nocturnal creatures. You’ll work in shifts, keeping a meticulous record of every animal that visits, while soaking in the unforgettable experience of Africa’s wilderness at its most raw and authentic."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Spend the day relaxing at the Camp Waterhole, or take a morning and afternoon game drive, returning to camp for sundowners and dinner."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Transfer to Victoria Falls Airport for onward travel arrangements. You could fly down to Cape Town for time in the Mother City, or travel on to Botswana for a very special safari or 2-3 night boat safari."
+    }
+  ],
+  "map": ""
+}

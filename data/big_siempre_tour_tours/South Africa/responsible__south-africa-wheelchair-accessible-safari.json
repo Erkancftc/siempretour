@@ -1,0 +1,55 @@
+{
+  "destination": "South Africa",
+  "mainPhoto": "",
+  "id": "south-africa-wheelchair-accessible-safari",
+  "tourName": "South Africa wheelchair accessible safari",
+  "placesVisited": "",
+  "generalInfo": "This accessible itinerary takes you through some of Africa’s most well-known destinations, designed for wheelchair users. Travel from Cape Town to Kruger National Park, ending at Victoria Falls, with accommodations and activities chosen for comfort and ease of access.<br/><br/>Explore Cape Town<br/>Begin your journey in Cape Town, staying in accommodation with roll-in showers and other accessibility features. Take a cable car ride up Table Mountain, which has ramps and lifts for easy access to scenic views. Visit Cape Point using an accessible funicular and see the penguins at Boulders Beach via a boardwalk. Other options include exploring Kirstenbosch Botanical Gardens on wheelchair-friendly pathways or visiting selected vineyards in the Cape Winelands.<br/><br/>Safari in Kruger National Park<br/>Next, fly to Hoedspruit and stay at Ximuwu Lodge, designed for wheelchair accessibility. Go on game drives in adapted vehicles with ramps and swivel seats, allowing you to see a variety of wildlife. The lodge offers accessible facilities, including roll-in showers and spacious interiors, ensuring a comfortable stay.<br/><br/>Visit Victoria Falls<br/>End your trip at Victoria Falls, where wheelchair-accessible pathways provide views of the falls. Optional activities include a scenic helicopter flight or a Zambezi River sunset cruise, with operators offering support for wheelchair users.<br/><br/>This itinerary provides a way to experience Cape Town, Kruger, and Victoria Falls with accessible travel in mind, ensuring ease of movement throughout the journey.",
+  "durationDays": "12",
+  "price": "6200",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "You’ll arrive into Cape Town International and be met and transferred to our adapted vehicle, with a ramp at the back of the vehicle for access. You’ll be driven in to the city to a hotel that we work closely with which has several accessible rooms. The rooms include roll-in showers, hand-rails and can be set up as twin or double. Every trip we plan in Cape Town is tailored to your dreams but here are some suggestions for adapted experiences to enjoy this beautiful city."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "One of Cape Town’s highlights is Table Mountain, with the rocky expanse dominating all images of the city. We highly recommend ascending the mountain using the cable car, which has accessible access including elevators, ramps and parking bays. We will provide you with a map created for wheelchair users to navigate your way around the top of the mountain to get the best views out over the bay and beyond. There are also two accessible restaurants at the top of the mountain. We can organise for this trip to be guided or accompanied or just book the tickets and transfers."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "This morning you’ll be met by our guide and board our adapted vehicle, with an accessible ramp at the rear. We’ll drive along the scenic Chapman’s peak, winding our way along the coastal roads with the wild Atlantic Ocean by our side. There is a funicular with accessible access to take you down to the Point. We then journey to Boulders Beach colony of African penguins. The penguins can be viewed from a large accessible decking area. We’ll stop in Simon’s town for some lunch, if we’re there at the right time (July-November) it’s sometimes possible to spot Southern Right whales from the shore!"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Today you could visit Kirstenbosch Botanical Gardens, on the slopes of Table Mountain National Park and generally regarded as one of the most beautiful gardens in the world. We will provide you with a map created for wheelchair users highlighting routes that are designated as accessible. Another option for today is take a guided tour of the winelands, visiting wine farms selected for their wines, hosted tasting and of course accessible access. The winelands are a short distance from the city in our vehicle and during our tour we’ll make a few stops at different wineries for tastings and lunch."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "This morning you’ll be collected by your driver for your flight up to Hoedspruit, a key gateway to the private game reserves bordering Kruger National Park. The property we are suggesting is Ximuwu Lodge, one of the only safari lodges fully designed for wheelchair users. You’ll be collected using their wheelchair-accessible airport shuttle bus, equipped with ramps and swivel seats for easy boarding. Arriving at the lodge you’ll instantly notice that this lodge doesn’t just cater for wheelchair users, it exists to ensure they have an incredible experience. The extensive suites have indoor and outdoor hobless showers, handrails, height-adjustable beds and many more adaptions to cater to your needs."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Today you will fly up to Victoria Falls. We can either drive you down to Nelspruit for a direct flight to Victoria Falls or you can connect at Johannesburg, we can discuss these options when we create your trip. On arrival at Victoria Falls you will exit the plane using an aisle (Washington) chair. We have an adapted vehicle for transfer in the town with a lift/ramp. We work with a number of hotels in Victoria Falls Town, Zimbabwe which have adapted rooms to make them accessible. Victoria Falls is known as the adventure capital of Africa and there are quite a few activities which have been adapted for guests with mobile impairments."
+    }
+  ],
+  "map": ""
+}

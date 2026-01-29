@@ -1,0 +1,85 @@
+{
+  "destination": "Costa Rica",
+  "mainPhoto": "",
+  "id": "costa-rica-caribbean-coast-holiday",
+  "tourName": "Costa Rica Caribbean coast holiday",
+  "placesVisited": "",
+  "generalInfo": "Costa Rica’s Caribbean coastline is far less explored than its western counterpart, the Pacific. If you’re planning a visit between March and November, this itinerary offers the perfect blend of adventure and relaxation. Journey through lush rainforest, navigate meandering river networks, and end your trip soaking up the blissful beaches of the Caribbean.<br/><br/>Your adventure begins in San José, where two nights allow you to unwind and acclimatise. Explore the highlands’ coffee plantations, marvel at the renowned Poás Volcano, and wander the enchanting La Paz Waterfall Gardens.<br/><br/>From here, a light aircraft takes you to Tortuguero National Park, known as the Land of the Turtles. Accessible only by air and boat, this extraordinary expanse of protected wilderness is a haven for river, jungle, and marine life. A hotspot for nesting turtles, it hosts hatchlings from four species each year. Explore the forests to spot some of Costa Rica’s iconic wildlife before following the winding waterways south.<br/><br/>Next, embark on a rafting adventure to Pacuare Lodge, a secluded, family-owned retreat nestled deep in the rainforest. Accessible only by tackling Class I-IV rapids in a six-seater inflatable raft, this bamboo haven is truly unique. Evenings are spent by candlelight, surrounded by the serene sounds of the rainforest and breathtaking views of unspoilt nature.<br/><br/>After days of thrilling exploration, continue south for a well-earned dose of beachside relaxation on the bohemian Caribbean Coast. Puerto Viejo exudes a laid-back charm and offers fantastic wildlife encounters. Take a day trip to Cahuita National Park for snorkelling among vibrant coral reefs, rent a bike to explore scenic coastal paths, and savour delicious fresh cuisine under the rejuvenating sunshine.",
+  "durationDays": "14",
+  "price": "6950",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Today you'll touch down in Costa Rica and be met by a travel representative at the arrivals gate and driven to your hotel in the highlands for a couple of nights."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "This morning you'll be driven to the central valley just beyond San Jose. You'll begin your adventure at Poas Volcano. Almost a mile across, this is the largest active crater in the world, and today you'll witness the great geothermal forces that formed Costa Rica's undulating landscape. Following a visit to Doka Coffee Estate, our guide will take you to La Paz Waterfall Gardens to experience your first taste of the cloud and rainforest."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "This morning you'll be guided through check-in and fly over the forest and valley for just 30 minutes. Upon arrival at Tortuguero Airport, you will make your way to your new accommodation."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Tortuguero gets its name from its famous inhabitants - the endangered green sea turtles. At 51,870 protected acres, this is one of the largest areas of tropical rainforest in Central America. It is one of the most important nesting sites for these beautiful creatures, and March to October is the best time for this."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Awake to the serene sounds of nature, with a view of the river just beyond your doorstep, and get ready for another day of adventure and discovery. Along the pristine inland waterways and canals, you’ll often spot three species of monkeys – spider, howler, and white-faced capuchin – as well as three-toed sloths and river otters. The area is also home to caimans, iguanas, river turtles, basilisk lizards, and poison dart frogs, all accompanied by the melodic calls of over 320 vibrant bird species."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "No roads lead to Pacuare Lodge, it is only accessible by rafting down the river. Today's adventure awaits, and you'll be taken on a wild ride to your next destination. Board a boat from Tortuguero and cruise down the river south, to arrive at La Pavona. After a short drive, meet our team from the lodge. On the way, you'll drive through Costa Rica's old capital city, Cartago, where farmlands and green spaces act as a blanket on the slopes of Irazu and Turrialba Volcanoes."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Today, explore the rainforest from the leafy treetops. After a 15-minute hike into Pacuare's private reserve, you'll reach the first platform. Whilst hiking take in the spectacular views around you."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "The Pacuare River Valley is home to the ancestors of the Cabecar indigenous people, who have lived in the middle of the rainforest for 3,000 thousand years. Following breakfast, set off on a hike through the forest. With your local guide, you'll be introduced to the flora and fauna that indigenous people have long relied on. Visiting the Cabecar Rancho is an immersive cultural experience."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Take some well-deserved R&R today, relax at your accommodation whilst being surrounded by nature."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Today you'll bid farewell and head south down the river towards the Caribbean Coastline. Upon arrival at Playa Cocles, you'll be greeted by the team at your hotel. Your next lodge will be your base for the next four nights; relax on the coast and swim in the ocean."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "The next few days are yours to unwind and relax. Pay a visit to Cahuita National Park, which is best known for its protected coral reefs close to the shore. During the dry season, there's excellent snorkelling."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Today we'll transfer you back to San Jose for your international flight departure home."
+    }
+  ],
+  "map": ""
+}

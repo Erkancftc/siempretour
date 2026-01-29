@@ -1,0 +1,70 @@
+{
+  "destination": "Uganda",
+  "mainPhoto": "",
+  "id": "uganda-safari-tailor-made",
+  "tourName": "Uganda safari, tailor made",
+  "placesVisited": "",
+  "generalInfo": "This exceptional itinerary presents an opportunity to experience Uganda’s most captivating highlights without enduring long, tiresome drives. Begin your journey with an overnight stay in Entebbe, where you can relax and prepare for the adventures ahead. The next day, a short flight will take you to Queen Elizabeth National Park, famed for its diverse wildlife and striking landscapes. Here, you’ll embark on thrilling game drives, spotting elephants, buffalos, and an array of birdlife, as well as enjoy scenic boat safaris along the Kazinga Channel, where hippos, crocodiles, and numerous water birds await.<br/><br/>From there, a scenic drive brings you to the Ishasha sector, renowned for its rare and iconic tree-climbing lions – a true photographic delight. Next, venture to the lush Bwindi Impenetrable National Park, one of the last remaining strongholds of the endangered mountain gorilla. Prepare for an unforgettable experience as you trek through dense forests, guided by expert rangers, to encounter these magnificent creatures up close, an experience that leaves an indelible mark on the heart.<br/><br/>To round off your adventure, you’ll fly to Murchison Falls National Park, Uganda’s largest and oldest conservation area, for a unique safari experience. Here, marvel at the dramatic waterfall, where the mighty Nile River forces its way through a narrow gorge, creating a stunning display of power and beauty. You’ll enjoy game drives and a river safari, offering a chance to spot species such as giraffes, lions, and perhaps the elusive shoebill stork. Finally, return to Entebbe for your international departure, carrying with you memories of Uganda's extraordinary landscapes and wildlife encounters.",
+  "durationDays": "9",
+  "price": "7899",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Entebbe - Upon arrival in Entebbe, you'll be collected by your guide and transferred to your hotel. Depending on your arrival time, you may be able to explore Entebbe and the surrounding areas in Kampala this afternoon. You can chose to have dinner at the hotel or we can recommend good spots for food and drink around town."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Fly to Queen Elizabeth National Park - After breakfast, you’ll fly from Entebbe to Queen Elizabeth National Park at the base of the Rwenzori Mountain range, adjacent to Lake Edward and Lake George. This spectacular national park is full of game and it is known for its large elephant population."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Safari in Queen Elizabeth National Park - Today, you’ll have a full day to explore Queen Elizabeth National Park. You’ll have morning and afternoon game drives, plus you can also enjoy a boat cruise on the Kazinga Channel, a guided nature walk in the Maramagambo Forest or you can take an early morning hot air balloon flight over the savannah."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Transfer to Ishasha - After breakfast, you’ll embark on a drive to Kyambura Gorge in the far eastern corner of Queen Elizabeth National Park. Kyambura Gorge is often referred to as the “Valley of Apes” and during your guided walk you can expect to see chimpanzees, red-tailed monkeys, vervet monkeys, olive baboons, and black and white colobus monkeys. You’ll then drive on to Ishasha, where you can look out for the famous tree climbing lions. The lodge where you’ll stay tonight is surrounded by wildlife and has stunning views of the lush forest."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Transfer to Bwindi - Today, you'll drive for three hours into the Virunga Mountains. You will be staying in Bwindi National Park, the only park in Africa that is home to both gorillas and chimpanzees. There are also a further 110 species of mammal and 360 species of birds."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Gorilla Trekking in Bwindi - After an early breakfast, you’ll drive to Bwindi Impenetrable National Park HQ, where you’ll begin your gorilla trek. You will be allocated to one of nine habituated groups, then your experienced guide and park ranger will lead you deep into the forest in search of your allocated family. Your trek could last from a few minutes to a full day, depending on the exact location of the specific gorilla family you’re tracking. When you meet the gorillas, you’ll have the chance to spend up to one magical hour quietly observing them. The gorillas are likely to be just a few metres away from you and will continue to go about their daily lives - feeding and interacting with each other, under the watchful gaze of the silverback. In the late afternoon, you’ll be transferred back to your accommodation where you can spend the evening reflecting on your incredible encounter with the wild mountain gorillas of Uganda."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Fly to Murchison Falls National Park - This morning, you'll enjoy breakfast at the lodge before flying from the nearby Kihihi airstrip to Murchison Falls in northwest Uganda, via a short stopover in Entebbe. This afternoon you will have an opportunity to explore the mighty Murchison Falls either on a boat trip or on foot."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Safari in Murchison Falls National Park - This morning, you can enjoy a game drive on the plains of Murchison Falls National Park, where you’ll have a chance to spot giraffe, spotted hyena, lion, leopard, spotted hyena, buffalo, kob and hartebeest. We also recommend that you take a boat tour on the river towards the base of the waterfalls where it meets the Nile. On the banks of the river, you’ll see hippo, Nile crocodile, elephant and if you’re lucky, the elusive leopard. There is prolific birdlife within the area too, including the extraordinary looking shoebill stork."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Depart Entebbe - Today, you'll have the last morning to enjoy the beauty of Uganda, as your Uganda flying safari experience comes to an end. Following your breakfast at the lodge and a morning safari, you will fly back to Entebbe in time for your connecting international flight home."
+    }
+  ],
+  "map": ""
+}

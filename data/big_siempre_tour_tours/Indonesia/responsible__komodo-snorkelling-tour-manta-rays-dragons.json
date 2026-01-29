@@ -1,0 +1,70 @@
+{
+  "destination": "Indonesia",
+  "mainPhoto": "",
+  "id": "komodo-snorkelling-tour-manta-rays-dragons",
+  "tourName": "Komodo snorkelling tour, manta rays & dragons",
+  "placesVisited": "",
+  "generalInfo": "Komodo national park in Flores, Indonesia, is a well protected marine park with some of the largest populations of manta rays anywhere in the world. We'll spend five days aboard our beautiful boat exploring this area with daily snorkelling opportunities where you'll have close encounters with manta rays, turtles and so much other marine life. The snorkelling is gentle and suitably for complete beginners. Visits to both Komodo and Rinca island are included where you'll see Komodo dragons and a wealth of bird life. Then we'll spend 3 days back on the mainland exploring some very special places in Flores. This includes staying at the enchanting village of Wae Rebo which is nestled in the rainforest at a height of 1200 metres. Then we'll head to Ruteng and visit two very lovely caves ,one of which is where Homo Floresiensis - also known as the Hobbit - was only discovered in 2003 and challenged our view  of human evolution. Finally we'll photograph the impressive spider web rice fields before returning to Labuan Bajo.",
+  "durationDays": "10",
+  "price": "2400",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive Labuan Bajo. Evening dinner together where we’ll start to get excited about what lies ahead. Stay hotel Labuan Bajo"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Board our boat and start sailing out of Labuan Bajo into the Komodo National Marine Park. Afternoon snorkelling in a sheltered bay with lovely coral."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Early morning snorkelling with manta rays near Mawan island. Afternoon snorkelling in another area."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Snorkelling at Manta point and afternoon sail to Gili Lawaut. Early evening walk up to a great spot for sunset."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Moor at Komodo island where we'll meet the Komodo dragons for the first time. Afternoon snorkelling."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "More snorkelling with manta rays and turtles before setting sail for a mangrove island for sunset. Here over 300,000 fruit bats take to the air after sunset."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Drive to where we'll start our walk to Wae Rebo village. About a 2.5 walk to reach this beautiful village nestled in the rainforest at 1200 metres."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Walk back down from Wae Rebo village and drive to Ruteng. Stay in a beautiful hotel in Ruteng."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Morning visit to the incredible cave of Liang Galang. This is a sacred place for the local people and we'll have a ceremony with them before exploring the cave. Later we'll head to another cave called Liang Bua which is where Homo floresiensis also known as the \"Hobbit\" was only discovered in 2003. Return to Labuan Bajo and overnight there before departure the following day."
+    }
+  ],
+  "map": ""
+}

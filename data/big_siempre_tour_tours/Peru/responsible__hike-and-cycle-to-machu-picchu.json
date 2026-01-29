@@ -1,0 +1,45 @@
+{
+  "destination": "Peru",
+  "mainPhoto": "",
+  "id": "hike-and-cycle-to-machu-picchu",
+  "tourName": "Hike and cycle to Machu Picchu",
+  "placesVisited": "",
+  "generalInfo": "Discover an exhilarating adventure in the heart of Peru with an unforgettable biking expedition to Machu Picchu. Pedal through lush jungle landscapes, traverse scenic mountain trails, and marvel at breathtaking ancient ruins on this thrilling journey. Perfect for adrenaline seekers and nature lovers, this tour offers a unique blend of adventure and cultural exploration. Unveil the hidden treasures of the Andes while enjoying guided bike rides and immersive local experiences—an ultimate getaway for your bucket list.",
+  "durationDays": "4",
+  "price": "669",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Cusco - Santa Maria, Peru: Andes to Jungle: Epic Bike Descent Early Morning Departure from Cusco (6:30am) Begin your adventure bright and early, as you’re picked up right from your accommodation. Settle in for a scenic drive out of Cusco as dawn breaks over the Andes. Breakfast in Ollantaytambo After 1.5 hours on winding mountain roads, pause in the charming town of Ollantaytambo. Grab a quick breakfast, explore, and gather some last-minute snacks for the journey ahead. Ascend to the Majestic Malaga High Pass (4,350m) Continue your ascent for another 1.5 hours until you reach the breathtaking Malaga High Pass. Here, at one of the highest and most dramatic points of your trip, your guide will arm you with bikes, gear, and a comprehensive safety briefing. Exhilarating Mountain Biking Descent (Approx. 2.5 hours) Feel the adrenaline as you drop from the chilly heights into the warm, humid jungle below. Witness the transition from Andes to Amazon—cycle past the mysterious Huamanmarca Archaeological ruins, coast through lush fruit plantations, and splash across crystalline rivers. Arrival in Santa Maria Village (2:00–2:30pm, 1,400m) Roll into the vibrant, tropical hamlet of Santa Maria. The afternoon is yours—unwind, wander the lively streets, or opt into an optional whitewater rafting adventure for an extra rush! Overnight in a Rustic Guesthouse End your action-packed day soaking up local flavors and camaraderie, spending the night in a simple, authentic guesthouse for a true taste of village life."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Santa Maria-Santa Teresa Village, Peru: Rainforest Trails & Mountain Village Arrival Jungle Breakfast Fuel up with a hearty breakfast before lacing up your boots for an unforgettable trek ahead. Trek Through Mountain Rainforest Set off into the lush mountains, immersing yourself in pristine jungle scenery. Enjoy panoramic views, spot colorful birds, and experience the vibrant flora that this region is famous for. Scenic Lunch Stop Pause at a picturesque spot midway through the hike. Relish a delicious lunch in the open air, surrounded by breathtaking landscapes and the tranquil sounds of nature. Journey to Santa Teresa Continue along winding trails, crossing paths with welcoming local villagers and savoring the fresh mountain air. Marvel at the changing scenery as you approach your destination. Arrival and Rustic Rest Arrive in the peaceful Santa Teresa Village (1,680 meters). Settle in to your cozy, rustic guesthouse and enjoy a filling homemade dinner, capping off your day of adventure."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Santa Teresa Village-Aguas Calientes, Peru: Hiking Rail Trails to Machu Picchu Town Trekking Along the Tracks After breakfast, set out on an easy, picturesque 3-hour walk from Santa Teresa to the Hydroelectric Station. Listen to the distant rumble of the river and enjoy jungle views as you follow the rails, soaking in Peru’s rugged beauty. Lunch at Hydroelectric Station Recharge with a hearty lunch surrounded by fellow trekkers and the sound of rushing water nearby—the perfect fuel for the next leg of your journey. Onward to Aguas Calientes Continue your adventure, trekking another 3 hours along the tracks toward Aguas Calientes. Feel free to take it slow or, if you’re weary, opt for the quick train ride from the Hydroelectric Station straight to town. Arrival & Aguas Calientes Exploration Arrive in the lively gateway village of Aguas Calientes. Celebrate your accomplishment in local cafes—play a board game, unwind with friends, or browse souvenir shops. With WiFi and relaxing spaces, it’s a perfect place to recharge. Overnight in Comfort Tonight, check into a hotel for a luxurious hot shower and a restful night’s sleep—you’ve earned it!"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Aguas Calientes - Machu Picchu - Cusco, Peru: Dawn at Machu Picchu, Homeward Bound Early Morning Ascent Rise before dawn and board one of the first buses to Machu Picchu. The scenic 25-minute ride brings you to the ancient citadel as morning mist lifts, revealing a breathtaking view of the Lost City in the soft dawn light. Guided Tour of Machu Picchu Join your guide for a captivating two-hour walking tour through Machu Picchu. Marvel as fascinating stories and history bring this UNESCO World Heritage Site to life amid the stunning mountain backdrop. Independent Exploration & Optional Hike After the tour, the mysterious ruins beckon—wander at your own pace or, if you're adventurous, tackle the strenuous Huayna Picchu Peak hike (extra cost, advance booking required) for astonishing bird’s-eye views. Return & Local Experience Take the bus back down to Aguas Calientes. If time permits, dive into the vibrant local market near the train station, browsing handcrafted souvenirs until it’s time to board your train. Journey Back to Cusco Relax and reminisce as you travel by train to Ollantaytambo, then catch a bus back to historic Cusco. Arrive at Plaza San Francisco around 8:00 pm, where your day’s unforgettable adventure concludes."
+    }
+  ],
+  "map": ""
+}

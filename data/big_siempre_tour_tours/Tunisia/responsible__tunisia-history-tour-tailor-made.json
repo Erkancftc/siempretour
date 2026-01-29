@@ -1,0 +1,65 @@
+{
+  "destination": "Tunisia",
+  "mainPhoto": "",
+  "id": "tunisia-history-tour-tailor-made",
+  "tourName": "Tunisia history tour, tailor made",
+  "placesVisited": "",
+  "generalInfo": "This trip will immerse you in Tunisia’s ancient civilizations, from Carthaginian to Roman, Byzantine, Arab, Ottoman, Spaniard and French… It will also have you discover the natural beauty of Tunisian landscapes from mountain to sea to desert, You will :<br/><br/>• Experience the various civilizations that traversed Tunisia over centuries<br/>• Seek an off the beaten path accelerated experience but expect luxury and comfort at the same time<br/>• Discover the Natural landscapes of Tunisia that take you from the green seaside to the sand desert in less then 3 hours",
+  "durationDays": "8",
+  "price": "3150",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Personalized welcome at Tunis Carthage Airport. Transfer and check in your hotel in the seaside suburbs of Tunis. The remainder of the afternoon is free for rest and relaxation from your flight. Meet your Tour Director tonight. Dinner and overnight"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Medina of Tunis/Carthage/Sidi Bou Said (B, L, D) : Visit the Medina of Tunis, the largest in North Africa (larger than Fez or Cairo), where we will stroll through the various souks and main monuments including palaces being restored and traditional homes which illustrate the way of life and customs of the nineteenth century Tunis. Lunch at a boutique restaurant serving genuine Tunisian seafood specialties (La Victoire El Kram or Cafe Vert La Goulette- stemming from the Jewish heritage of Tunisia). Afternoon visit to the UNESCO World Heritage Site City of Carthage, the oldest Phoenician settlement on the coast of North Africa, and its glorious monuments: the Anthonin thermes, the Tophet at Salambo, the Amphiteatre, the Punic ports and the Acropolium. Continue to the WWII American cemetery of Carthage (General Patton’s Kasserine Pass battle). In the afternoon, continue to Sidi Bou Said, a 17th century village with immaculate white and blue houses that has managed to preserve its charm and peacefulness. Stroll through Sidi Bou’s narrow streets bordered by whitewashed houses with blue shutters and doors. Check out the various art galleries, try a bambalouni, light and crispy Tunisian style doughnut with some mint tea in one of the cafes of Sidi Bou Said and enjoy the superb view of the gulf of Tunis from one of Sidi Bou’s traditional café. In the evening, dinner at a seaside restaurant serving fresh Mediterranean specialties"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Testour/Dougga/Tunis (B, L, D) : Depart from Tunis. Visit the Andalusian village of Testour, known for its handmade silk jellabas. Continue to the ancient city of Dougga, one of the best-preserved roman cities in Africa. Listed in 1997 in the UNESCO World Heritage List, the town of Dougga, built on an elevated site overlooking a fertile plain, was the capital of Punic and Roman states. Return to Tunis. Dinner at your hotel ."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Kairouan/el Djem/Sfax (B, L, D) : Depart to Kairouan, the holy city of Tunisia with its impressive Islamic monuments some dating to 670AD. Visit the ninth century great mosque of Oqba ibn Nafi, an important reference point in Islam and Islamic architecture Lunch at a small genuine restaurant le Bonheur. Continue to el Djem’s spectacular amphitheater that dates from 238 A.D, and is the second largest in the World only to Rome’s. Visit the newly opened small museum and the excavations extending behind the amphitheater where beautiful mosaics have been found."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Sfax/Matmata/Djerba (B, L, D) : Visit the Medina of Sfax, the most genuine Medina in Tunisia. The Kasbah is behind a ribat of which only the mosque is left. It hosts an excellent small architectural museum. We will also visit the Regional Museum for Popular Arts & Traditions established in Dar Jallouli, a typical 16th-century bourgeois house. Depart to the Berber village of Matmata and its famous troglodytes, homes built underground to protect the Berbers from summer heat. One of these fabulous Berber villages with its pitted lunar landscapes was the set of the Spielberg’s movie Raiders of the Lost Arc and Lucas “Star Wars”. Continue to the Island of Djerba, land of the Lotus-eaters in Homer’s Odyssey. Check in and dinner at your hotel."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Tataouine/Berber Ksours (B, D): Visit the ksours at the Berber villages with their unique houses carved in the steep sides of the surrounding mountains. Visit the Ghorfas buildings in the Ksours originally used by the Berbers as warehouses, then as lodgings. Lunch at leisure. Visit the area around Chenini and Douiret that is filled with Berber ksars, or fortified villages, and is one of the most exciting places to explore in Tunisia. Dinner at your hotel in Djerba"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Island of Djerba (B, D) : Visit the Ghriba synagogue, built in the 6th century BC (fall of Jerusalem to the Babylonians), one of the holiest Jewish places that hosts annual pilgrimage of Jews from all over the world and holds one of the most ancient Torah’s in the world. Lunch at leisure (recommended Haroun Djerba). Continue to Houmt Souk, the island’s capital, for a chance to experience local markets, crafts and foods, the museum of arts and popular traditions in Sidi Zitouni and the village of Guellala for its potteries. Farewell Dinner"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Fly to Tunis and Europe/US (B) : Transfer to the airport of Djerba. Fly to Tunis early morning (45mn flight). Connect directly to a flight to Europe and the US"
+    }
+  ],
+  "map": ""
+}

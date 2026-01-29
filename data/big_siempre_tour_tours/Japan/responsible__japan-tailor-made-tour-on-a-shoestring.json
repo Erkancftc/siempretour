@@ -1,0 +1,65 @@
+{
+  "destination": "Japan",
+  "mainPhoto": "",
+  "id": "japan-tailor-made-tour-on-a-shoestring",
+  "tourName": "Japan tailor made tour on a shoestring",
+  "placesVisited": "Tokyo, Hakone National Park, Hot spring baths, Night in traditional ryokan or inn, Kyoto, Bullet train journey",
+  "generalInfo": "Japan has long been thought of as one of the world’s most expensive holiday destinations, but this needn’t be the case with our 7 night Price Cruncher package. This exciting self-guided trip takes you to Japan’s must-see cities Tokyo and Kyoto, as well as Hakone National Park in the shadow of Mount Fuji.<br/><br/>It’s a joy to travel in Japan on a shoestring; everywhere is clean and spotless, trains are always on time and there’s no such thing as a rip-off ‘tourist price’. Just because you’re on a budget doesn’t mean you have to sacrifice quality; in Tokyo and Kyoto you’ll stay in well located business hotels, and in Hakone your accommodation is a traditional Japanese ryokan (guest house) complete with hot spring baths. A light breakfast is included every morning. We've even thrown in a tea ceremony experience in Kyoto - an traditional Japanese art form that is a thing of beauty.<br/><br/>All transport between destinations is included and one of your journeys will be on the world famous Shinkansen bullet train, an essential Japan travel experience! Also included are local transport passes in Tokyo (the Manaca card) and a Hakone Freepass which covers the local buses, mountains railways, cable cars and even a pirate boat which take you through spectacular scenery and great Fuji-san views.<br/><br/>All of our customer receive a detailed Info-Pack. This includes all the essential information you will need to make your transfers and get to your hotels, as well as all manner of useful sightseeing and cultural tips to help you along your way e.g. where to spot a geisha, how to visit an early morning sumo stable and the best cheap, local food to eat.  You will also have the security of our Japan office - on hand at any time should you experience any sort of difficulty during your holiday.<br/><br/>Please note: In order to keep travel costs down, this trip is designed to start in Tokyo (either at Tokyo Narita or Tokyo Haneda Airports) and finish in Kyoto with a departure from Osaka Kansai Airport. For this you will need an \"open-jaw\" flight ticket into Tokyo and out of Osaka Kansai. Alternatively if you would prefer to fly home from Tokyo we can tailor the itinerary to take you back to the capital.",
+  "durationDays": "8",
+  "price": "1330",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "TOKYO (no meals) | Arrive Tokyo Narita Airport and use the included Manaca Intercity transport card to take a train into Tokyo. Your accommodation is a business hotel in the historic Asakusa district near Senso-ji Temple."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "TOKYO (breakfast) | A free day of sightseeing in Tokyo. You Info-Pack will have lots of ideas and advice such as taking in the views from the top of the Skytree, wandering around Hamarikyu Garden or browsing the crazy fashion shops in Harajuku."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "TOKYO (breakfast) | Another free day in Tokyo. Be sure to check out the nightlife in the neon-lit Shinjuku and Shibuya districts."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "HAKONE (breakfast) | Take a highway bus to Hakone National Park (2 hours). Explore the national park with the included Hakone Freepass which is valid on the mountain railways, cable cars, local buses and a pirate ship which criss-cross this beautiful region which offers stunning views of Mount Fuji. Tonight’s accommodation is a traditional Japanese ryokan with an outdoor hot spring bath."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "KYOTO (breakfast) | Take the world famous Shinkansen bullet train to Kyoto (2 hours). Here you will stay in a business hotel in Kyoto’s downtown area among charming local restaurants and craft shops."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "KYOTO (breakfast) | There is so much to see in the imperial capital from the Golden Temple to Kiyomizu-dera, the bamboo groves of Arashiyama and the tunnels of red torii gates lining the mountain at Fushimi Inari. In the evening head to Gion and you might just spot a geisha scuttling between tea houses."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "KYOTO (breakfast) | A free day to further explore Kyoto or pay on the day for a day trip to Nara, home of the big Buddha statue, the original samurai castle of Himeji, or infamous Hiroshima for a moving visit to the Peace Park."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "DEPART (breakfast) | Shared shuttle bus transfer to Osaka Kansai Airport (2 hours)."
+    }
+  ],
+  "map": ""
+}

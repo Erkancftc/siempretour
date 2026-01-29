@@ -1,0 +1,65 @@
+{
+  "destination": "Peru",
+  "mainPhoto": "",
+  "id": "guided-tour-of-peru-for-senior-travelers",
+  "tourName": "Guided Tour of Peru for Senior Travelers",
+  "placesVisited": "Lima, Rainbow Mountain, Arequipa, Puno, Lake Titicaca, Cusco",
+  "generalInfo": "During this 8-day journey, live like a local as you stroll through markets, sample culinary delights, and admire Lima’s eclectic arts scene. Fall in love with captivating stories of the Inca and pre-Inca civilizations, and marvel at Lima’s bustling streets that are full of the citrus aromas of Peru's world-famous ceviche . The cobbled streets of postcolonial Arequipa offer glimpses into Spanish influence while Lake Titicaca and Rainbow Mountain provide stunning and natural beauty.",
+  "durationDays": "8",
+  "price": "2,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Lima - International Arrival",
+      "description": "As you touch down along the glistening shorelines of the Pacific Ocean in Peru’s capital of Lima, you will catch your first glimpse of the beautiful country. You will make your way through customs, where you will be met by your diver and transferred to your luxurious accommodation in the neighborhood of Miraflores. This afternoon, you will have the opportunity for self-guided exploration in the city's center. When you are ready, you can venture into charming bookstores and coffee shops before meandering down the cobbled streets of Lima's downtown during an introductory tour. Near the end of your tour, you can wander through Parque del Amor and around the area's scenic lighthouse before choosing from a gamut of dining options along the water."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Lima - Ceviche Sampler Event",
+      "description": "After breakfast, you will set out for the streets of Lima to explore the city. When you are ready, you will meet your private guide for a customized tour of Lima's downtown area in addition to a visit to the acclaimed Larco Museum. Although your guide will offer you a detailed itinerary of the day's events, you can also opt for additional stops that pique your interest. For your first stop, you will make your way to the central square of the city. You will also step inside the Archbishop's Palace of Lima, where you can capture in front of the Municipal Palace of Lima. In the evening, you will make your way to a high-end bar with ocean views, where you will partake in an epic ceviche sampling event."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Rainbow Mountain - Breathtaking Views",
+      "description": "Today, you will indulge in an adventure beyond the confines of city life to explore Peru's world-famous Rainbow Mountain. In the early morning hours, you will board a regional flight from Lima to Cusco. Once you arrive in Cusco, you will be met by your private ground transportation before gearing up for a day of exploration. Upon your arrival, you will participate in a light hike, during which your guide will lead you to several key vantage points. If you prefer to experience this excursion on horseback, the option is also available. Later in the day, you will arrive in the city of Cusco for an exciting afternoon of shopping at open-aired markets. Finally, you will visit an Inca Sun Temple before indulging in a three-course meal in the neighborhood of San Blas."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Arequipa - Venture to San Camilo Market",
+      "description": "Today, you will set out for Arequipa. Arequipa is the second most populated metropolis in all of Peru and home to many of the country's most beloved gems. You will begin your customized tour of Arequipa in the Old Town alongside your expert guide, and you will marvel at the detailed facade of the Church of the Jesuits before stepping inside the baroque halls of the Basilica Cathedral of Arequipa. After touring both churches, you will enjoy some self-exploration at the San Camilo Market. Here, vendors may chat excitedly with you in front of their displays of fresh fruit and vegetables, and as you meander through dozens of stands, you will smell the sweet aroma of freshly squeezed fruit juice."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Puno - Fresh Lake Trout Dinner",
+      "description": "Today, you will visit the city of Puno, which is best known for its proximity to Lake Titicaca. You will spend the first part of your day in Puno's downtown, where you can visit city highlights, such as the Justice Palace and the Cathedral of Puno. Later in the day, you will travel to the countryside, where you can admire the illustrious scenery and learn about the process of wool production. You will also become versed in local culture when you attend a live show, where you will see dancers perform the Devil Punena dance. This customary dance is most often displayed for special occasions like the Festival of Candelaria. When you return to the city in the evening, you will dine at one of the finest restaurants in Puno, where you indulge in the lake's fresh trout."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Lake Titicaca - Scenic Boat Ride",
+      "description": "This morning, you will meet your guide in front of your hotel and set out on a cruise on Lake Titicaca. Your tour will consist of both a cruise and hike that will allow you to explore the fascinating terrain of the region. Soon, you will arrive at Taquile Island, where you will disembark for your scenic hike. After your hike, you will venture to the Uros Islands, where you will learn about the Uros culture. As you meet Uros community members, you will learn about their reed-weaving practice, which must be constantly maintained because the bottom layers of the island masses disintegrate into the lake below."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Lima - Tour the Barranco District",
+      "description": "Today, you will return to Lima for your final full day in Peru, where you can enjoy some self-guided exploration of the city's Barranco District, which is otherwise known as Lima's art scene. As you begin to walk around, you will surely be mesmerized by the stunning displays of ingenuity and design. You can also indulge in a stroll through Kennedy Park, which is adorned with a lavish display of flowers and flooded with local artists and vendors. Afterward, you can indulge in a light tea or coffee before making your way back to Lima. As the sun begins to set, you will return to the prestigious neighborhood of Miraflores for an enchanting final dinner in the city."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Lima - Departure",
+      "description": "As your adventures in Peru begin to wind down, you will be able to indulge in some last-minute shopping and exploration. You will also have the opportunity for a leisurely bike ride along the coastline, where you can snap a few photos. Shortly, you will return to your hotel, where you will be transported to Lima's International Airport for your international flight home."
+    }
+  ],
+  "map": ""
+}

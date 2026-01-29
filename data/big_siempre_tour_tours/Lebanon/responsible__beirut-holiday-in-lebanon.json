@@ -1,0 +1,45 @@
+{
+  "destination": "Lebanon",
+  "mainPhoto": "",
+  "id": "beirut-holiday-in-lebanon",
+  "tourName": "Beirut holiday in Lebanon",
+  "placesVisited": "",
+  "generalInfo": "This four-day Beirut City break is perfect for travellers looking to explore Lebanon's capital city. You'll visit some of Lebanon's most popular attractions, such as the Jeita Grotto, Harissa by cable car as well as the city of Byblos. You'll have time to browse around the city yourself or in your free time, you can choose to try one of two optional activities, which will visit the Barouk Cedar Nature Reserve, Deir El Qamar, the Beiteddine Palace, Baalbek, the Ksara Caves and Anjar.",
+  "durationDays": "4",
+  "price": "469",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Beirut, transfer to hotel You will be met at the airport by your guide, who will accompany you to your hotel in the city and help you settle in. You have the day free to explore the city at your leisure or you can get some rest if you've had a long flight. | OVERNIGHT"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Beirut, Jeita Grotto, Byblos, Harissa by cable car Your Beirut tour officially starts today. We start things off with a visit to the Jeita Grotto limestone caves, which stretches for over 9 kilometres. The Jeita Grotto caves is home to the world's largest and beautiful collections of stalactites and stalagmites. After spending time marvelling at the Jeita Grotto, we make our way to Byblos, is one of the 20 oldest cities in the world. Byblos has been continuously inhabited ever since it was established in 5,000 B.C. Next, we head to Harissa, a mountainous village which hosts one of Lebanon's most important Pilgrimage sites - The Shrine of Our Lady of Lebanon. We'll explore the village via cable car, taking in the breath-taking views of the city and its bay. Later today, we'll enjoy a tour of the capital city, indulging in its beautiful architecture, tall modern buildings and we will also explore down-town Beirut, visiting the Corniche, the Pigeon Grotto and the Beirut Souks. | OVERNIGHT"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Free day. Optional tours available You have the entire day at your disposal to explore Beirut on your own today or you can try these optional tours below"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Free time, transfer to airport You have free time to explore Beirut on your own today. You will be collected at your hotel and transferred to the airport to board your flight home. | OVERNIGHT"
+    }
+  ],
+  "map": ""
+}

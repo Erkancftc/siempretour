@@ -1,0 +1,105 @@
+{
+  "destination": "India",
+  "mainPhoto": "",
+  "id": "punjab-himachal-pradesh-uttarakhand-rail-tour",
+  "tourName": "Punjab, Himachal Pradesh & Uttarakhand rail tour",
+  "placesVisited": "",
+  "generalInfo": "This tour gets you into the regions north of Delhi.  A combination of cities, mountains and spiritual havens - it includes 3 train journeys.<br/><br/>Firstly explore Delhi for a few days before boarding a train to the fascinating city of Amritsar, be in awe at the spectacular Golden Temple and blown away by the inclusivity of the communal kitchen.<br/><br/>Next stop is just outside of Dharamshala, in area called Palampur.  Stay 3 nights at the wonderful Lodge at Wah - enjoy the tea region and visit Dharamshala.<br/><br/>A homestay then awaits in the hill station of Shimla - explore the region with it's toy train.<br/><br/>Haridwar and Rishikesh, both located in Uttarakhand, are well known for their spiritual significance, yoga, temples, walking and the evening Aartis.<br/><br/>Jump back on a train to Delhi for your flight home.",
+  "durationDays": "16",
+  "price": "3790",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Departure to Delhi, direct with Virgin from Heathrow."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Arrival in Delhi and transfer to Haveli Hauz Khas, your home for 2 nights. Afternoon visit Dilli-Haat. An open air craft bazaar, home to handicrafts and artisanal works from all states of India. It is an open-air craft bazaar. Followed by a walk through the INA market visiting: The Indian National Airways Market (known as INA Market), known as the food bazaar of Delhi. Fresh seafood, meat, spices, vegetables and fruits - if you don't get it anywhere else, you get it at this market. Enjoy the evening buying vegetables and spices for a cooking-demo, followed by dinner with a local Indian family."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Full day Delhi sightseeing tour: Morning: You will be taken to Old Delhi via Metro to enjoy \"MASTER JI KE HAVELI\" Old Delhi Tour with meal. A heritage & bazaar walk, some street food tasting, cycle/battery rickshaw rides, spice market visit (Khari Baoli), temple/Fatehpuri Mosque Visit. After this, you will visit Bangla Sahaib Gurudwara [Sikh Temple], witness community kitchen. The community kitchen cooks and doles out 800 kilograms of dahl and vegetable curry, chapatis made out of 1,700 kilograms of atta and 400 kilograms of rice daily. Over 35,000 people are fed each day, and the number goes up to 100,000 during festivals Afternoon: New Delhi Tour including Humayun Tomb, Qutab Minar and a drive through the administrative buildings [President House, Parliament, India Gate]."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Train Delhi – Amritsar [12029 Express / 07:20-13:30 / AC Executive Class - Doesn’t operate on a Thursday]. Evening enjoy Palki-Ceremony. Overnight. Ranjit's Svaasa."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Morning city tour of Amritsar visiting Jallianwala-Bagh; Partition Museum (closed om Monday and Govt holidays); Local Market & Golden Temple. Late afternoon excursion to Wagha border. Overnight: Ranjit's Svaasa."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Drive Amritsar – Dharamsala [230 Kms / 6.5 Hrs]. Afternoon walk through the tea-estate and visit the tea factory, followed by tea-tasting. Overnight: The Lodge at Wah."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Full-day excursion to Dharamsala visiting St. John's Church; Mcleodganj; Talnoo; Dal-Lake; Norbulinga Institude (closed on Sunday & Second Saturday of Month, 2 Oct and All Tibetan Holidays) & local market. Overnight: The Lodge at Wah."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Enjoy a short joy-ride on the toy-train; followed by a session of pottery at the Andretta Pottery. Afternoon at leisure. Overnight: The Lodge at Wah."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Drive to Shimla [210 Kms / 6 hrs] Overnight: Sunnymead Estate"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Full day tour of Shimla visiting Viceregal Lodge; Ridge Road; The Mall; Sankat Mochan Temple; Rail Museum and toy train experience. Overnight: Sunnymead Estate"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Day at leisure. Overnight: Sunnymead Estate"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Drive Shimla – Ambala rail station [145 Kms / 4 Hrs] and then train to Haridwar [12054 Express / 11:04-13:50 / AC Chair Car - Doesn’t operate on Thursday]. Afternoon at leisure. Evening Ganga Aarti. Overnight: Ganga Lahari"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Morning drive to Rishikesh - sightseeing of temples in Rishikesh. Afternoon at leisure. Overnight: Neemrana's Glasshouse on the Ganges"
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Day at leisure. Soft trekking possible (at extra charge). Overnight: Neemrana's Glasshouse on the Ganges"
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Day at leisure. Afternoon transfer to Haridwar station. [2 hrs]. Train Haridwar – New Delhi [12018 Express / 18:04-22:50 / AC Executive Class - Operates Daily]. Transfer to hotel. Overnight: Haveli Hauz Khas."
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "Fly home from Delhi to Heathrow direct with Virgin."
+    }
+  ],
+  "map": ""
+}

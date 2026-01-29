@@ -1,0 +1,75 @@
+{
+  "destination": "Congo",
+  "mainPhoto": "",
+  "id": "democratic-republic-of-congo-tour",
+  "tourName": "Democratic Republic of Congo tour",
+  "placesVisited": "",
+  "generalInfo": "Ever since Stanley emerged from the jungle on his epic trek across the continent, the Congo has held a place in western imaginations as Africa’s ‘dark heart’, a land of thick rainforest, surging rivers and isolated hostile tribes. The undisputed giant of Africa, the Democratic Republic of Congo is undoubtedly one of the most challenging countries to travel through, yet those that make the step will be rewarded with some of the most incredible experiences the continent can offer. We combine the DRC with its tiny neighbours Rwanda and Burundi, for a comprehensive trip through the region.<br/><br/>Starting in the Rwandan capital Kigali, we head first to the little visited Akagera National Park, home to the Big Five and a Rwanda success story, where we look for lion, elephant and other species. Heading west from here, we drive to the forests of Nyungwe, one of the premier spots in Africa for primates, where we explore its canopy walkway and track wild chimpanzees.<br/><br/>We then cross the border into the Congo, where in the forests of Kahuzi-Biega we trek to meet a family of rare eastern lowland gorillas, the largest of all the ape species. We spend time with pygmy communities on the idyllic island of Idjwi, and meet local fishermen on Lake Kivu.<br/><br/>Our final country is Burundi, where we explore the lively capital, see traditional Burundian drummers, and discover the lush wetlands of Rusizi National Park.<br/><br/>This two week trip shows you the best of this region’s natural world, as well as giving ample opportunity to meet and interact with local people, gaining insights into their often challenging lives. This area is all too often portrayed as Africa’s ‘heart of darkness’ – we show you another side to this much misunderstood part of Africa.",
+  "durationDays": "14",
+  "price": "5899",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Kigali - Arrive in Kigali and transfer to the hotel. The rest of the day is free to relax or explore. Overnight Chez Lando Hotel or similar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Kigali – Kibuye - Spend this morning exploring Kigali. We visit the Genocide Memorial, a harrowing reminder of the troubles Rwanda has faced and then explore the vibrant Nyamirambo district, where we can meet local people and learn about their everyday lives – a good opportunity to see beneath the surface of Kigali. Continue on to Kibuye and enjoy an evening cruise along Lake Kivu for the chance to meet the traditional fisherman that work here at night. Overnight Inn on the Lake or similar. (BLD)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Nyungwe - Continue to Nyungwe, an area of primary rainforest rich in primate species. In the afternoon we walk into the forest to look for colobus, one of the most striking primates in this region, with groups up to 50 strong residing here. Overnight Nyungwe Top View or similar. (BLD)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Nyungwe - Cyangugu - Return to the forest, this time to track chimpanzees. After lunch we explore the rainforest further on its canopy walkway for a different view of this incredible region. From here drive to Cyangugu for the night. Overnight Emeraude Kivu Resort or similar. (BLD)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Kahuzi-Biega National Park - Cross the border into the Democratic Republic of Congo. After border formalities, we venture into Kahuzi Biega National Park, one of the last strongholds for the endangered eastern lowland gorilla. Trek through the rainforest to observe one of the families in their natural habitat. Overnight Orchids Safari Club or similar. (BLD)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Bukavu - In the morning we hike on Mount Bugulumiza for great views of the surrounding countryside (3 hour easy walk, but optional). After lunch visit the Lwiro rehabilitation centre for primates, home to around 80 chimpanzees and about 100 other primates, to learn about their valuable work caring for animals that have been orphaned by hunting and the bush meat trade. Overnight Orchids Safari Club or similar. (BLD)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Bujumbura - Cross the border into Rwanda and then drive to the border with Burundi, continuing to Bujumbura. Depending on arrival time we can explore the city and learn about the history of Burundi before and after independence. Overnight La Palmeraie or similar. (BLD)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Gitega - Head to Gitega, where we visit the National Museum and also witness an impressive music performance by traditional Burundian drummers. Overnight Tropitel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Rutana – Rutovu – Bujumbura - Drive to Rutana to see the Karera Falls, a series of impressive waterfalls, before continuing to Rutovu and the source of the Nile. Return to Bujumbura for the night. Overnight La Palmeraie or similar. (BLD)"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Rusizi National Park - Bujumbura - In the morning we visit Rusizi National Park, home to hippos, antelopes, monkeys and numerous species of colourful birds. This afternoon we visit the local market before transferring to the airport for your departure flight. (BL)"
+    }
+  ],
+  "map": ""
+}

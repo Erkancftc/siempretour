@@ -1,0 +1,40 @@
+{
+  "destination": "Arctic Cruises",
+  "mainPhoto": "",
+  "id": "luxury-spitsbergen-small-ship-cruise",
+  "tourName": "Luxury Spitsbergen small ship cruise",
+  "placesVisited": "",
+  "generalInfo": "Set sail to explore Spitsbergen on a luxury cruise, an enchanting round-trip journey from Longyearbyen, the northernmost town in the world, located on Spitsbergen island. This expedition takes you through the stunning scenery of the Svalbard archipelago, including secluded islands like Nordaustlandet and Edgeøya, before returning to Longyearbyen. Along the way, you'll have the opportunity to explore fascinating sites such as The North Pole Expeditions Museum in Longyearbyen, which documents early polar explorations. Discover about the Svalbard Global Seed Vault, an essential facility safeguarding seeds from around the world.  As you traverse the Arctic waters, watch for captivating wildlife such as polar bears, ringed seals, and walruses. Your luxury cruise offers a range of activities designed to engage and enrich your experience.<br/><br/>Trip highlights include:<br/><br/>- Take a stroll through the high street of Longyearbyen, the world’s most northerly town, and follow in the footsteps of polar explorers<br/><br/>- Search for polar bears, walruses, whales and arctic foxes in their natural habitat<br/><br/>- Learn more about this isolated polar region from our on board team of experts",
+  "durationDays": "8",
+  "price": "5980",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Pre Cruise & Longyearbyen Pre-cruise hotel stay."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Svalbard The world's most northerly town, Longyearbyen, on Spitsbergen, Svalbard's largest island, also claims the most northerly high street and pub. It's home to The North Pole Expeditions Museum chronicling early pole-reaching efforts by air. Nearby, Svalbard Global Seed Vault preserves duplicate seeds from gene banks worldwide. Arctic waters around are populated by whales, including bowheads and narwhals, while walruses are regularly seen hauling out."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "The world's most northerly town, Longyearbyen, on Spitsbergen, Svalbard's largest island, also claims the most northerly high street and pub. It's home to The North Pole Expeditions Museum chronicling early pole-reaching efforts by air. Nearby, Svalbard Global Seed Vault preserves duplicate seeds from gene banks worldwide. Arctic waters around are populated by whales, including bowheads and narwhals, while walruses are regularly seen hauling out."
+    }
+  ],
+  "map": ""
+}

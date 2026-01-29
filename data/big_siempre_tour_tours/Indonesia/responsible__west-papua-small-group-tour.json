@@ -1,0 +1,75 @@
+{
+  "destination": "Indonesia",
+  "mainPhoto": "",
+  "id": "west-papua-small-group-tour",
+  "tourName": "West Papua small group tour",
+  "placesVisited": "",
+  "generalInfo": "A thrilling adventure to one of the world’s last wild frontiers. The island of New Guinea is one of the richest places on our planet in terms of traditional cultures, and a treasure trove of tribal diversity, and for many groups first contact with the western world was made within living memory. This unique trip explores the western half of the island, visiting distinct cultures in an effort to understand a vanishing way of life.<br/><br/>We start in Jakarta and from here take an overnight flight to the paradise island of Biak, with its beautiful landscapes and remnants of the Second World War. After our ‘easy’ introduction to Papua, we continue on to Jayapura on the mainland, taking a boat trip on Lake Sentani, seeing the old Dutch settlement and exploring local markets.<br/><br/>The highlight of this trip comes next as we fly on to Wamena. In the Baliem Valley live the Dani, a highland people who were first ‘discovered’ in the 1930s by the outside world. With a culture centred around ancestor worship and the veneration of spirits, we’ll be lucky enough to meet a 250-year-old mummified warrior, see their traditional war dances and explore simple mountain villages that have barely changed in centuries – if not millennia.<br/><br/>Travelling in Papua is far from easy, with limited infrastructure and a comfort level that can sometimes be lacking, but it offers rewards that other destinations just don’t. Although the island is modernising, it is still in many ways a window to our own past, to a world that has disappeared from most of the globe. Papua is an adventure like no other….",
+  "durationDays": "13",
+  "price": "6199",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Jakarta - Arrive in Jakarta and transfer to your hotel. Overnight Hotel Mercure Batavia or similar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Jakarta - Biak - This morning we explore Indonesia’s lively capital, visiting the historic quarter of Kota Tua, the old port of Sunda Kelapa and other sites. Later transfer to the airport for an overnight flight to Biak. (B)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Biak - Arrive in Biak and transfer to your hotel. The rest of the day is free to rest after your flight, but you can explore Biak if you wish, with its fishing harbour and old colonial houses. Overnight Asana Hotel Biak or similar."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Biak - Spend two days exploring the island of Biak. Biak was the site of several battles between the US and Japanese forces in World War Two and there are numerous reminders of this time, from caves that served as hiding places for Japanese troops to old military hardware. We also visit see traditional woodcarving, and explore some of Biak’s impressive landscapes including the picturesque lake of Negeri Dongeng, a waterfall and Biak’s idyllic beaches. Overnight Asana Hotel Biak or similar. (BL)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Jayapura - Leave Biak behind and fly to Jayapura. We visit the museum in Abepura with its fine collection of art from all over Papua, as well as local markets and the old Dutch settlement. Overnight Swiss Belhotel Jayapura or similar. (BL)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Lake Sentani - Head to Lake Sentani, taking a boat to visit Asei Island to see the traditional lifestyles of the local fishermen here. After lunch visit a local market and then continue to the hills of Bukit Tungku Wiri, where we take a short walk for striking views of nearby lakes and mountains. Overnight Swiss Belhotel Jayapura or similar. (BL)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Wamena - The next stage of our journey starts today as we fly to the highland town of Wamena, the gateway to the Baliem Valley. In the afternoon we explore the town including its markets and a coffee plantation, as well as some nearby villages. Overnight Baliem Valley Resort or similar. (BD)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Baliem Valley - We spend three days exploring the tribes and villages of the Baliem Valley, a treasure house of traditional culture. In the villages of Suroba and Dugun in the Naoua Hills we first meet the Dani people, and in Jiwika we ‘meet’ a 250 year old mummy – once a renowned warrior his body was mummified as a mark of respect. We see the traditional rituals and war dances of the Dani, as well as a typical pig feast, and trek through the area to see some of the more remote villages, returning each night to a comfortable hotel in Wamena. Overnight Baliem Valley Resort or similar. (BLD)"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Jayapura - Jakarta - Return by air to Jayapura and then connect to the flight to Jakarta, where the rest of the day is free. Overnight Mercure Batavia Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Jakarta - Transfer to the airport for your flight home. (B)"
+    }
+  ],
+  "map": ""
+}

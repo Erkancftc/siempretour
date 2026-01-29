@@ -1,0 +1,65 @@
+{
+  "destination": "Uganda",
+  "mainPhoto": "",
+  "id": "8-day-wildlife-tour-of-uganda",
+  "tourName": "8 day wildlife tour of Uganda",
+  "placesVisited": "",
+  "generalInfo": "This 8 day Uganda safari will allow you time with Gorillas, Chimpanzees and experience eon game drive in the savannah parks. Enjoy a village walk as you interact and learn from the people that have co-existed with wildlife for years. The safari is in our custom made safari vehicles good for game drives. You will have a boat safari where you will watch animals as they come to the water.",
+  "durationDays": "8",
+  "price": "5461",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival for your Uganda Safari. Our friendly guide will welcome you to Uganda at Entebbe international airport and transfer you to your hotel in Entebbe. Enjoy the fresh breeze from Lake Victoria – 2nd largest lake in the world as you wait to start your journey tomorrow. Depending on time of arrival - you will have an evening sunset cruise on Lake Victoria."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "You will start the journey to Kibale forest in western Uganda. This forest is home to 13 species of primates. The journey just like most highways in Uganda will take you through villages and several vegetable markets. You have an option of taking a flight to Kasese airstrip. If you travel by road, have a stopover at the Entanda village experience for a Buganda cultural experience."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Chimpanzee tracking in their natural habitat and a community experience. Chimpanzees live in several areas in Uganda but Kibale forest is the best place to see them. After breakfast, the driver guide will transfer you to the briefing area where you will be allocated different groups each with a ranger guide. Your ranger guide will lead you into the forest to start on your chimp trekking. The trek can take anything from a few minutes to about 2 hours before you locate the chimpanzee. You are allowed to stay one hour in the their presence after which you return to your lodge. In the afternoon you will take a walk in the Bigodi community for a coffee experience with a local farmer, traditional banana beer making experience, traditional healer experience and basketry. You will be able to learn about the village and the people that live in it and your visit will contribute to direct incomes of the people. You can purchase some of the products on sale while on this tour."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Transfer to Queen Elizabeth National Park. Today morning after breakfast, start the journey to Queen Elizabeth national park. The journey takes you through the beautiful crater lake region overlooking the mountains of the Moon. Have an afternoon game drive in the crater drive track in Queen Elizabeth national park. You have an opportunity to visit a community near the twin lakes in Rubirizi."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Game drive and Boat Safari on Kazinga Channel. Use the morning for a lion tracking experience after which you continue on a game drive exploring this beautiful park with its diverse habitats. Look out for several big and small game found in the park like Elephants, Waterbucks, Kobs, Buffaloes, monitor lizards etc. In the afternoon, take a boat cruise on Kazinga channel. It is a perfect way to spend an afternoon enjoying the breeze on the water channel connecting Lake Edward to Lake George. Look out for the rich birdlife, crocodiles, Hippos, Elephants coming to drink etc. Have a night game drive to search for the nocturnal animals."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Transfer to Bwindi Impenetrable National Park. Transfer to Bwindi impenetrable national park driving through several villages and scenery towards your lodge. Depending on the sector you are visiting - enjoy the drive and arrive in time for lunch. There is an opportunity for a short community walk in the village or a visit to a project working with the community."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Uganda Gorilla Trekking Experience. Walk / drive to the briefing point depending on the sector you will visit. It is at the briefing place where you will be allocated a gorilla group and park ranger guide to take you on your gorilla expedition. Your ranger guide will lead you to a gorilla trek into the forest. Sometimes you are allocated a group that requires you to drive a distance before the trail head. Once you locate the gorilla group, you are allowed to spend one hour with them before you start your descent back to the starting point."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Transfer to Entebbe International airport for Departure Flight. After an early breakfast transfer to Entebbe Airport by flight from Kihihi/Kisoro near Bwindi forest. We hope you had an amazing time and we look forward to hosting you again."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,70 @@
+{
+  "destination": "Costa Rica",
+  "mainPhoto": "",
+  "id": "premium-costa-rica-small-group-tour",
+  "tourName": "Premium Costa Rica small group tour",
+  "placesVisited": "",
+  "generalInfo": "Embark on thrilling adventure through Costa Rica’s rainforests, volcanoes and beaches, where wildlife waits around every corner. This nine-day Premium journey will see you uncover the local secrets of San Jose, explore the wild wetlands of Cano Negro, witness the biodiversity of Monteverde and search for sloths in Manuel Antonio. A local leader will take you beneath Costa Rica’s lush surface and show you the country at its very best. Costa Rica’s natural wonders have etched it a place on the map, but you’ll soon discover its cherished traditions and welcoming people are every bit as endearing.",
+  "durationDays": "9",
+  "price": "3395",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "San Jose.",
+      "description": "Bienvenidos! Welcome to Costa Rica. Your adventure begins in San Jose, where you’ll be met at the airport by a local representative and transferred to your hotel. Here, you’ll meet your local leader and small group for a welcome meeting at 6 pm. If you arrive early, Costa Rican coffee is some of the best in the world, so maybe set out to sample some of the local brew. After your meeting, head out with your leader and fellow travellers to dine like a local in the heart of San Jose. Your leader will share the history of the area and its famous residents as you taste local specialties."
+    },
+    {
+      "dayNumber": 2,
+      "title": "La Fortuna.",
+      "description": "Depart San Jose and drive to La Fortuna, known for its mellow atmosphere, bubbling hot springs and the mighty Arenal volcano. When you arrive, visit the Arenal Vida Campesina – a project focused on promoting sustainable agricultural practices while preserving customs and traditions passed down from generation to generation. Tour the property, learn about the process of sugarcane milling then sit down for a farm-fresh lunch. After lunch, visit the Arenal 1968 trails for a gentle walk to the Las Coladas lava field. Along the way, your leader will share the history of the volcano as you look out for howler monkeys, deer and parrots. In the afternoon, check into your hotel which has views of the Arenal Volcano and rooms with a terrace surrounded by tropical gardens filled with birds and butterflies. Spend some time poolside, listening to the songs of birds, then join your group for dinner at a local restaurant."
+    },
+    {
+      "dayNumber": 3,
+      "title": "La Fortuna.",
+      "description": "Today will be spent exploring the diverse wildlife of the Cano Negro Wetlands with a naturalist guide. Start with a drive through fields of yucca, plantain and papaya before boarding a comfortable raft to explore the Frio River. Travelling this way allows you get up close and personal with this region’s wildlife without having to undertake a strenuous hike. If you’re lucky, you might spot monkeys, iguanas, caimans, bats and common basilisks, also known as Jesus Christ lizards for their ability to walk on water. Your expert guide will be on hand to tell you where to look and share information on the intriguing creatures you discover today. Have lunch at a local restaurant before returning to La Fortuna for a free evening. Maybe visit one of the town’s hot springs for a swim beneath the stars."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Monteverde.",
+      "description": "After breakfast, depart La Fortuna and begin the journey to Monteverde. Drive around Lake Arenal and watch dramatic views of the Arenal volcano unfold in front of you. Your leader will be on hand to point out interesting wildlife along the way. Arrive in Monteverde in the early afternoon. Known for its spectacular cloud forests and rich biodiversity, Monteverde is heaven for nature lovers. This afternoon take tour of the Monteverde Cloud Forest Reserve, host to more than 100 different species of mammals and 400 species of birds. Your leader will share information on the fascinating biodiversity of the region and lend their expert eye to spotting wonderful wildlife. Look out for the resplendent quetzal and listen for the sounds of howler monkeys and the unmistakeable call of the three-wattled bellbird. With nearly 500 unique species of orchids, the reserve holds the world’s highest diversity of the flower."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Monteverde.",
+      "description": "After a relaxing morning the day is yours to enjoy however you wish. You may like to explore the town, or view the cloud forest from overhead on a zipline. Speak to your leader about arranging any optional activities that you’d like. Gather again in the evening for a rainforest night walk with our Foundation partner, The Monteverde Conservation League, to explore the Children's Eternal Rain Forest. This private reserve was founded in 1986 through fundraising efforts by children worldwide and is home to an incredible diversity of flora and fauna. Join up with a naturalist guide who’ll lead you through the forest and educate you on everything from the sounds to the species while also helping you spot the various frogs, insects and night birds among the trees."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Manuel Antonio.",
+      "description": "After breakfast, depart for Manuel Antonio – home to a wildlife-rich national park and a string of the country’s best beaches. When you arrive, check into your Feature Stay – a beautiful resort situated above the ocean and Manuel Antonio National Park. After a dip in one of the resort pools or a walk along the beach, you might like to join your group for dinner at one of the hotel restaurants."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Manuel Antonio.",
+      "description": "This morning you’ll set off into Manuel Antonio National Park with an expert naturalist guide by your side. Look out for two and three toed sloths, white faced monkeys, anteaters and iguanas. The park offers criss-crossing walking trails and a beach – just keep an eye out for the raccoons! The afternoon is free. Manuel Antonio has plenty for those seeking an adrenaline rush – speak to your leader about arranging ziplining, snorkelling or kayaking. On the other end of the spectrum, there are few better places to sit back, crack open a coconut and watch the waves lap the shore. Be sure to look up, as sloths and monkeys are known to frequent the trees that line the beach."
+    },
+    {
+      "dayNumber": 8,
+      "title": "San Jose.",
+      "description": "Depart Manuel Antonio to head back to San Jose. When you arrive, have some lunch, then go on a city tour with your leader of downtown San Jose. Explore the mixture of historic and contemporary with stops at the local museums, government buildings, theatres, parks and markets. Visit the central market for a traditional Costa Rican cajeta (ice cream), an essential part of family lunch or dinner. There are lots of varieties to choose from, from coconut, peanut and macadamia and tapa de dulce (a form of cooked sugar cane). Tonight, you’ll have a farewell dinner with your group so raise a glass and cheers to an excellent adventure!"
+    },
+    {
+      "dayNumber": 9,
+      "title": "San Jose.",
+      "description": "Your adventure comes to an end after breakfast this morning. If you would like to stay in San Jose, just speak to your booking agent to arrange additional accommodation ahead of time."
+    }
+  ],
+  "map": ""
+}

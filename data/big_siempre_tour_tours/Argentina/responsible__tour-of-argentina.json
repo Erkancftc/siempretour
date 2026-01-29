@@ -1,0 +1,85 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "tour-of-argentina",
+  "tourName": "Tour of Argentina",
+  "placesVisited": "Chile: Santiago, Valparaiso, Argentina: Mendoza, Andes Mountains, Wine growing region, Salta & the Inca mummies, Canyons of Cafayate, Humahuaca Gorge, Iguazú Falls, Buenos Aires, Food tour of San Telmo",
+  "generalInfo": "This 12-day, small group tour of Argentina includes two days in Chile as you start your trip in the Chilean capital of Santiago. This 500 year old colonial city sits on a wide plain with a magnificent Andean backdrop. You will spend a night here, with plenty of time to enjoy a guided tour of this fine city. Next up is coastal Valparaiso, Chile’s second city, and worth the day trip before hitting the more remote spots of northern Argentina.<br/><br/>We then take one of four internal flights on this trip into Mendoza in Argentina, located in an extraordinary setting where desert meets the Andes. It is home to equally extraordinary vineyards and visits to wineries are very much on the cards here. More Andean treats await after our next flight north to Salta, a town with more incredible vistas and vineyards, as well as a fascinating indigenous history. <br/><br/>Every day brings new landscapes and colours on this trip, from the red canyons around Cafayate to the dramatic Iguazú Falls on the Brazilian border. If Iguazú is the natural heritage finale of this trip, the cultural heritage one is in Buenos Aires, considered to be one of Latin America’s most cosmopolitan cities. You’ll have plenty of time to enjoy a guided tour of the capital, eat fine food in the San Telmo district and, of course, try out some tango. <br/>",
+  "durationDays": "12",
+  "price": "3791",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Guided tour of the city.",
+      "description": "Those passengers arriving on an international flight will be met at the airport by the tour leader or a local representative. In the afternoon your guided city tour takes you to all the major sites of this fascinating city concentrating on Santiago’s bustling historic centre, which in recent years has taken on a new lease of life. Awakening from years of neglect, the traditional residential neighbourhood of Lastarria is a delight to explore, replete with shops, arty cafés and characterful hotels. Nearby, leafy Parque Forestal was inaugurated in the early twentieth century to celebrate the first 100 years of the republic. It is just a few blocks from the beating heart of old Santiago, the Plaza de Armas, the capital’s main square which is graced by elegant Chilean wine palms with their characteristic bottle-shaped trunks. Grouped around the plaza are Santiago’s Cathedral, the main post office, the National Historic Museum and the Municipalidad de Santiago (city hall). From here, if time, visit San Cristóbal Hill by riding the cable car to the top. On clear days there are spectacular panoramic views across the city towards the Andes."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Day trip to the historical city of Valparaiso and wine tasting.",
+      "description": "Today there is a visit to Chile’s second city, Valparaíso. This lively seaport is built on a series of hills which form a backdrop to the wide bay, with views over the seaside resort of Viña del Mar. You can wander through the steep, winding streets and among the brightly-coloured colonial homes built for 19th century British and German merchants, or take a ride in one of the creaky wooden funiculars which link the cliff-top communities. On the way back we stop to visit one of the vineyards close to Santiago, to sample some highly respected Chilean wine."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Fly across the Andes to Mendoza.",
+      "description": "Departing Chile you fly across the Andes to the laid-back city of Mendoza, one of the first places to be colonised by the Spanish in 1561. Although much of the city has been destroyed over the years through fires and earthquakes, its pleasant tree lined avenues, low rise buildings and university city atmosphere make it a great base to explore the region, and a walking tour of the city will help you orientate through its plazas."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Tour of local vineyards.",
+      "description": "Todays full day tour will include a visit to 3 different vineyards in the Luján de Cuyo or Maipú areas of Mendoza province. Within the rain shadow of the Andes, these zones have been transformed over generations into world-class wine producing regions using both traditional and modern methods of irrigation. You’ll have the opportunity to understand more about the processes involved in the cultivation and production of wine as well as the chance to taste the different varieties. Lunch at one of the wineries is included (with wine, of course)."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Flight to Salta.",
+      "description": "We fly to Salta, in the northwest of the country. This friendly town is set in the foothills of the Andes, green and flowery in summer, somewhat more arid in winter. It has an attractive main square with a splendid baroque cathedral and many cafés, bars and restaurants. On the outskirts lies a hill, reached by a long cable car, from where there is a sweeping panorama of the city and the mountains beyond. Some of the best-preserved Inca mummies ever found are displayed in the local Museum of High Altitude Archaeology"
+    },
+    {
+      "dayNumber": 6,
+      "title": "Optional visit to Humahuaca gorge and nearby Andean villages.",
+      "description": "Today there is an optional excursion to visit the Humahuaca Gorge, where the spectacularly contrasting coloured rock strata is as extraordinary as photographs suggest. The higher and dryer hillsides are dotted with battalions of giant cacti. En route we may stop at a few of the colonial/Indian villages, constructed from traditional adobe bricks. These are the only places in Argentina where the inhabitants still wear the intricately woven ponchos of the Andes."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Wine tasting in Cafayate, visit the multi-coloured canyon country.",
+      "description": "From Salta we take a full-day trip to the sleepy town of Cafayate, centre for the region’s well respected wineries and where we will spend them night. The road follows a dramatic, winding canyon; its rocky walls ranging in colour from yellow ochre, through dusty violet to blood-red. There are several stops en route where you can walk up narrow desert canyons for expansive views. The town itself is set against an Andean backdrop, and we visit one of the many local vineyards, with a guided tour and opportunity to sample wines such as the Torrontés, which is unique to Argentina."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Fly to Puerto Iguazú visit Brazilian side.",
+      "description": "Fly to Puerto Iguazú in the subtropical north-east corner of Argentina. The Iguazú Falls constitute one of the most extraordinary natural wonders in the world. A total of 275 falls thunder through dense forest over a distance of 2.5km. At the u-shaped Garganta del Diablo (Devil’s Throat) the Iguazú river is sent cascading over a precipice and columns of vapour are thrown skyward. Elsewhere the river flows decorously through the rainforest breaking up into dozens of smaller falls. You can often spot toucans perched in the foliage above the tumultuous waters. Once you drop your bags off at the hotel head out to the Brazilian side of the falls, from where there is a broad panorama of these magnificent cataracts, and some excellent opportunities to photograph the full sweep of the cascades. Flight times may mean this is done the following day."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Explore the Argentine side of the waterfalls.",
+      "description": "Today you visit the Argentine side of the falls, starting at the National Park Visitor Centre, which reveals the biodiversity of the region’s tropical rainforest. A small locomotive then transfers you to Cataratas Station where the Upper Walk begins. This sequence of causeways links dozens of tiny basalt islands at the top of a sheer rock face and the walkways cross the myriad streams of the Iguazú river as they cascade over the lip of the precipice and thunder onto the rocks below. The train then continues to Devil’s Throat Station and from here a 1km long walkway leads across the river to the Devil’s Throat. From this vantage point you can feel the mesmerising power of the water as it plummets into the vortex below."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Guided tour of Buenos Aires.",
+      "description": "Fly to Buenos Aires an elegant city famed for its grand colonial and belle époque architecture along with the arty port district of La Boca. It was in La Boca, with its gaily painted houses, that the tango was born, and where Diego Maradona honed his footballing skills. The centre of town is home to the historic heartland, government buildings and churches as well as chic shopping districts, which have a nostalgic, Parisian feel. The bohemian district of San Telmo is full of quaint old houses interspersed with antiques shops, tango bars and extravagant restaurants. Close to the centre is the Gallic influenced Recoleta district where Evita Peron was laid to rest. We explore some of these quarters on our guided city tour."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Food tour of San Telmo.",
+      "description": "Today’s included excursion is a culinary-themed lunchtime walking tour around the bohemian district of San Telmo. Here you will find some of the best off-the-beaten-track eateries to taste authentic Argentine dishes, including from the city’s traditional hole-in-the-wall parrillas. Learn about culture and cuisine visiting several venues, sampling traditional street foods like choripan, provoleta and empanadas; a variety of classic parrilla cuts of meat; wines; and artisanal ‘heladeria’ ice creams. Later the afternoon is free for you to further explore this magnificent city and in the evening you might want to finish off your trip at a tango show."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Depart for international flight or extension.",
+      "description": ""
+    }
+  ],
+  "map": ""
+}

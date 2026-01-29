@@ -1,0 +1,70 @@
+{
+  "destination": "Canada",
+  "mainPhoto": "",
+  "id": "great-lakes-small-ship-cruise-toronto-to-milwaukee",
+  "tourName": "Great Lakes small ship cruise, Toronto to Milwaukee",
+  "placesVisited": "",
+  "generalInfo": "Embark on an 8-day small ship cruise around the Great Lakes, offering a unique opportunity to explore the stunning landscapes and vibrant cultures of this remarkable region during the spectacular autumn season.<br/><br/>Your journey begins in the cosmopolitan city of Toronto, Ontario, located on the shores of Lake Ontario. This dynamic city will captivate you with its world-class museums, lush parks, and scenic gardens.<br/><br/>From Toronto, you’ll cruise through the canal connecting Lake Ontario and Lake Erie, with a stop in Port Colborne. From here, you can take in the breathtaking view of Niagara Falls—three awe-inspiring waterfalls that are one of the most famous natural wonders in the world.<br/><br/>Next, you’ll set sail for Lake Huron, home to numerous islands in its northern region. The dramatic landscape of white rocks and coniferous forests plunging into the deep sapphire waters will leave you in awe. Your journey continues with a visit to Parry Sound, nestled within the UNESCO Biosphere Reserve of Georgian Bay, known for its stunning natural beauty. You’ll also explore Little Current, a charming town that serves as the gateway to Manitoulin Island, the world’s largest freshwater island.<br/><br/>Throughout the voyage, enjoy enriching shore excursions that allow you to fully immerse yourself in the local culture, history, and natural wonders of each destination.",
+  "durationDays": "9",
+  "price": "6875",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Toronto The largest city in Canada and capital of the province of Ontario, Toronto fascinates as much by its incredible diversity as by its size. Make sure you visit the CN Tower, the tallest tower in the western hemisphere, as well as the St. Lawrence Market whose stalls reflect the multicultural wealth of this city known as the global city. Not far from there, the historic Distillery District unveils its brick-paved streets imbued with romantic charm and its myriad of small restaurants, cafés, boutiques, theatres and art galleries. The Royal Ontario Museum and its impressive collections devoted to the world’s natural and cultural history will also be an unmissable stop during this port of call."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Going through the Welland Canal locks More than 42 km long, the Welland Canal is part of the Saint Lawrence Seaway and enables ships to travel between Lake Erie and Lake Ontario. With eight locks today, this canal, whose first version dates from 1824, is considered to be one of the major technical constructions of the 20th century. Its completion revolutionised trade in the Great Lakes region by facilitating the transport of goods from the big industrialised cities of Chicago, Cleveland or Milwaukee to the Atlantic Ocean. Sailing along this technological masterpiece is a unique experience that will let you admire the different locks, real jewels of engineering, and enjoy the magnificent surrounding scenery."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Port Colborne & Sailing Lake Erie Port Colborne is a small port city located in southern Ontario, at the mouth of the Welland Canal. It is well-known for one of the longest locks in the world: measuring 420 metres, this lock, the 8th in the canal, has an observation footbridge and marks the final transit point before the Erie Canal. In addition to the discovery of this tremendous hydraulic infrastructure, this port of call will be your privileged access point to the famous Niagara Falls, renowned all over the world for their spectacular beauty. Located on the river of the same name, which means “water thunder” in Amerindian language, these wonders of nature are among the most powerful waterfalls in the world. Located to the south of Lake Huron and connected to Lake Ontario by the Welland Canal, Lake Erie, which owes its name to one of the Amerindian tribes which peopled its banks before the arrival of the French in the 17th century, is remarkable for its unique ecosystem. Its shallow fish-filled waters make it an excellent fishing spot, while its banks, famous for their many migratory birds, attract photographers and ornithology enthusiasts."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Detroit & Sailing St. Clair River Founded as a fort and trading post in 1701, Detroit, the \"Motor City,\" is the birthplace of the American automobile industry, home to companies like Ford, General Motors, and Chrysler. Since the middle of the 20th century, it has also been a major force in American popular music, from the Motown sound of the 1960s and 1970s to the hip hop and techno beats of 1990s to the present. Among its leading attractions are the Ambassador Bridge, which spans the Detroit River, connecting the United States to Canada; the Henry Ford Museum and Greenfield Village, located in nearby Dearborn; the Detroit Institute of Arts; and the Motown Museum. Forming a natural line of separation between the United States and Canada, the St. Clair River, which flows from Lake Huron into Lake St. Clair, is a significant element of the Great Lakes Waterway. Used in the 18th century for the fur trade by the French colonists of North America who sailed it on small boats to trade with the Amerindians, it was then travelled by freighters transporting lumber, iron ore and copper from the Great Lakes region to the cities of the Rust Belt."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Sailing Lake Huron A natural border between the American State of Michigan and the Canadian province of Ontario, Lake Huron is one of the five American Great Lakes and one of the largest freshwater lakes in the world. Comprising the main lake, Saginaw Bay, the North Channel and Georgian Bay, and home to around 30,000 islands, it offers varied coastal landscapes and unique views. From your ship, you’ll thus be able to admire the wild beauty of the wooded and at times craggy coastline of Manitoulin Island, or the spectacular cliffs of the Bruce Peninsular."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Little Current A small port town located along the North Channel of Lake Huron, Little Current is considered to be the gateway to Manitoulin Island, the largest freshwater island in the world. The town’s emblematic construction, the Little Current Swing Bridge built in 1913, provides the only land access to the island, peaceful lands whose name means “the island of spirits” in the local dialect. A real haven of peace, sheltering wild nature and some hamlets, the place is ideal for outdoor activities such as horse-riding and hiking."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Sault Ste. Marie Located to the east of the Upper Peninsula of Michigan, Sault Ste. Marie is one of the oldest cities in the United States. Separated from its Canadian twin city by St. Marys River, it is famous among other things for its locks, known as either the Sault Locks or the Soo Locks, which enable ships to travel the metres in change in elevation between Lake Superior and the lower Great Lakes. These locks, which date back over 160 years, are considered the most important in the world due to their shipping traffic. Make sure you visit the Museum Ship Valley Camp where you can visit the interior of a former freighter that sailed on the Great Lakes for more than 50 years."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Mackinac Island & Sailing Lake Michigan Close to the banks of Lake Huron in the State of Michigan, Mackinac Island promises a real journey through time. Originally inhabited by Amerindians, then occupied by French and British colonists, this small island measuring only a few km² still retains an atmosphere of yesteryear today, with its Victorian-style buildings and elegant horse-drawn carriages. Fort Mackinac, on the heights of the island, is a reminder of the conflicts that punctuated the history of this strategic place, a former fur trade centre. In addition to this scenery from the past, the island offers magnificent fine sandy beaches and is home to one of the oldest National Parks in the United States. You will sail the United States’ largest freshwater body, which gave its name to Michigan, one of the four states that border this lake measuring 500 km long and 200 km wide. The first colonists settled in the south at the end of the 17th century, on the site of the current megalopolis of Chicago. Wild landscapes of forests with sparkling colours, cliffs, golden sandy beaches and dunes as far as the eye can see stretch along its 2,600 km of shoreline. In the north, magnificent wind-swept islands rise out of the lake’s emerald waters. At 8 km long, the Mackinac Bridge, which spans the straits between Lake Michigan and Lake Huron, is one of the world’s longest suspension bridges."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Milwaukee Nested on the shores of Lake Michigan, Milwaukee, the largest city in the State of Wisconsin, harmoniously combines tradition and modernity. Industrial long ago, the city, known as Brew City because of its old breweries renowned all over the world, is experiencing a certain renaissance. While warehouses have given way to restaurants, bars, theatres and art galleries in the city centre, the district still retains traces of its manufacturing past. Further south lies Chicago, the economic centre of the Midwest, with an interesting mix of natural and urban landscapes: its immense skyscrapers, diverse architecture, many parks and magnificent beaches make the city a popular destination."
+    }
+  ],
+  "map": ""
+}

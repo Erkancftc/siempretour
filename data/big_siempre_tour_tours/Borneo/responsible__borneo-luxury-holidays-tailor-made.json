@@ -1,0 +1,90 @@
+{
+  "destination": "Borneo",
+  "mainPhoto": "",
+  "id": "borneo-luxury-holidays-tailor-made",
+  "tourName": "Borneo luxury holidays, tailor made",
+  "placesVisited": "Kuala Lumpur, Kuching, Bako National Park, Batang Ai, Sandakan, Sepilok Orangutan Sanctuary, Kinabatangan River, Kota Kinabalu, Rasa Ria",
+  "generalInfo": "Arriving in the capital city of Sarawak you will spend the night in this charming, historic city on the Sarawak River. From Kuching it is a short drive and boat ride to Sarawak’s oldest National Park, Bako National Park. <br/><br/>After a couple of days in and around Kuching you will head east and inland to the rainforests around Batang Ai Reservoir where the Iban people live in traditional longhouse homes. Returning to Kuching you fly to Sandakan in Sabah, home to the Sepilok Orangutan Sanctuary, the leading orangutan conservation and rehabilitation centre in the world. From Sandakan, journey into the heart of Sabah’s rainforest and spend a couple of nights at the village of Sukau in the Kinabatangan River Area. <br/><br/>After your stay in the rainforest you might like to have a few days of luxury enjoying one of Sabah’s beautiful beaches. Departures for this Borneo holiday are available all year but the best time to go is during the “dry” season (although it still rains in the rainforest) which is between March and October. If you add a dive extension to your itinerary it is strongly advised that you go during this period. <br/><br/>Prices do increase during school holidays and availability can be limited in July/August. The itinerary has many potential modifications including visits to Sabah’s famous dive islands, exploring Sarawak’s vast cave networks and extending your time in the rainforest to do some trekking. On this Borneo holiday you can also climb Mount Kinabalu, Southeast Asia’s highest peak.",
+  "durationDays": "13",
+  "price": "3850",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly from UK to Kuala Lumpur with Malaysia Airlines."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Connect in Kuala Lumpur with your flight to Kuching. On arrival you will be met and transferred to your accommodation."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Today you will explore the city of Kuching with your private guide."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Today you will head to the Bako National Park with your private guide and spend the day exploring the wildlife of the area."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "This morning you will drive out of the city with your private guide and driver, heading for the Lemanak River. Your homestay with the Iban tribe will be an immersive experience!"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Today you will head back to Kuching for your overnight stay."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Morning at leisure in Kuching before you transfer to the airport for your flight to Sandakan. Visit the Sepilok Orangutan Sanctuary for feeding time and the education centre."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "This morning transfer to the Kinabatangan River Area. Afternoon boat trip along the Kinabatangan tributaries in search of orangutans building their nests for the night and families of proboscis monkeys."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Full day exploring the Kinabatangan River area on foot and by boat with your guide."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Return to Sandakan and fly to Kota Kinabalu where you will transfer to the Rasa Ria."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Day at leisure to enjoy the nature reserve and beaches."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "You will have the morning at leisure before transferring back to the airport for your flight to the UK via Kuala Lumpur."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Arrive back into the UK"
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,80 @@
+{
+  "destination": "Botswana",
+  "mainPhoto": "",
+  "id": "windhoek-to-victoria-falls-namibia-lodge-safari",
+  "tourName": "Windhoek to Victoria Falls, Namibia lodge safari",
+  "placesVisited": "Windhoek, Namib Desert, Sossusvlei dunes, Swapkomund, Damaraland rock paintings, Etosha National Park, Grootfontein, Kavango River, Okavango Delta, Safari and boat cruise in Caprivi, Chobe National Park, Victoria Falls.",
+  "generalInfo": "This Windhoek to Victoria Falls safari is a fantastic opportunity to see some of the natural highlights of Namibia and Botswana, with time at Victoria Falls in Zimbabwe at the end. <br/><br/>Your journey starts in central Namibia before heading to the coast and north to Etosha National Park. Reaching further inland, you’ll cross into Botswana to spend time in two incredible natural paradises: Okavango National Park and Chobe National Park. Keep heading east until you reach Victoria Falls in Zimbabwe, where this trip ends. <br/><br/>A highlight on this trip will be all the opportunities for wildlife watching. At Etosha National Park, famous for its massive salt pan, you’ll have plenty of time to explore the park, and evenings are spent keeping look out; your lodge is set at a waterhole. In Botswana, the scenery shifts dramatically and you can safari in the lush surrounds of Okavango Delta by boat. <br/><br/>When you’re not out wildlife watching with local guides, you’ll be travelling in a safari truck (a minibus is used for a small number of departures) and staying in three-star accommodation, locally owned wherever possible. <br/><br/>This is an adventurous holiday with long drives, but great sights at the end of each road – by the time you reach Victoria Falls, you’ll think it was well worth the journey. <br/>",
+  "durationDays": "14",
+  "price": "4090",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "WINDHOEK - NAMIB DESERT: Meet your safari leader at 08:00am for a departure briefing. We then drive through the rolling hills south of Windhoek and drop down the escarpment onto the desert plains to stop at Solitaire for the world’s best apple tart (own expense). This afternoon we travel to our lodge and enjoy the vast open spaces of the Namib desert. The following day we visit the Namib Nauklauft National Park to witness the amazing landscapes of Sossusvlei and Deadvlei. The vleis are clay pans formed by the occasional flooding of the Tsauchab River. Sossusvlei is dotted with ancient Camel Thorn trees (Acacia erioloba) while the trees on Deadvlei are lifeless and stark against the surrounding tall orange sand dunes. [lodge Bx1, -, Dx2]"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "SWAKOPMUND: Swakopmund lies on the Atlantic coast, and the relative cool sea breezes will be a welcome change from the hot desert days. The town lies at the mouth of the Swakop River which flows infrequently, but forms the northern boundary of the relentlessly northward migrating sand dunes. Optional scenic flights from Swakopmund offer spectacular desert landscapes as they fly along the skeleton coast (own expense). [hotel B - -]"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "BRANDBERG: We head inland to the Tsiseb Conservancy and the Brandberg, a mountainous granite outcrop. Standing at over 2,600m it towers above the surrounding plains and is visible from a great distance. The Tsisab Ravine at the foot of the mountain contains more than 1000 rock shelters and some 45,000 rock paintings including the famous “White Lady”, which is a short 40 minute walk up the ancient watercourse. Our lodge, situated in the dry Ugab River valley, is ideally situated to explore the area in search of the rare desert elephants and we’ll join a local guide on a 4WD excursion. Being far ranging and elusive, a sighting of the elephants cannot be guaranteed, but with the knowledge of our local guide the day will be fascinating. [lodge BLD]"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "ETOSHA NATIONAL PARK: The salt pan in Etosha is the remnants of a large lake that dried up thousands of years ago. This “Great White Place” is 120km wide and forms the central attraction in the National Park. Natural springs and waterholes around the edges provide life giving water that sustains the wildlife in this otherwise arid area. Elephants coated in the white salt dust from the pan make for extraordinary photos. Our camp is located on the edge of a floodlit waterhole allowing us to get a glimpse of the nocturnal animals that come to drink, including the rare black rhino, lion and possibly leopard. We enjoy the evening sitting at the waterhole in anticipation. [chalet B - -]"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "GROOTFONTEIN: We spend most of today in the Etosha National Park, before moving to our overnight lodge in the Grootfontein district. En route we’ll stop at the Hoba meteorite. At over 60 tons, it is the largest known meteorite on Earth. [chalet B - -]"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "KAVANGO RIVER: Driving north east we enter the Kavango region, our lodge is situated on the banks of the Kavango River which flows from Angola, across the Caprivi and feeds the Okavanga Delta. Excellent bird watching opportunities. We enjoy an afternoon boat cruise on the Kavango River. [chalet / permanent lodge tent BLD]"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "OKAVANGO DELTA: We explore the Mahango Game Reserve on a morning game drive in our tour vehicle before we cross into Botswana at the Mohembo border and head south to our lodge at Guma Lagoon on the Okavango Pan handle. From our rustic lodge, we’ll explore the Okavango by mokoro and motor boat. Tranquil reed lined rivers, crystal clear water and abundant bird life. Time to rest, relax and enjoy the views of the Okavango Delta. [lodge BLD]"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "CAPRIVI: We cross back into Namibia and cross part of the Caprivi Strip. A narrow piece of land annexed to the German South West African colony in 1890, allowing access to the mighty Zambezi River and a trade route to the East coast of Africa and the then German Tanganyika. [chalet B-D]"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "CHOBE: Heading east we cross the Caprivi and enter Botswana at the Ngoma Border and drive across the Chobe National Park to the small town of Kasane. The Chobe River attracts an abundance of wildlife. Our afternoon activity is an incredible experience on the Chobe River where we head out by boat into the park and get close to the elephants as they quench their thirst. We leave the park as the golden sun slips below the horizon. [lodge B - -]"
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "VICTORIA FALLS , ZIMBABWE: The Zambezi River rises in Zambia before flowing through Angola and along the border of Namibia before plunging 100 metres over the awe-inspiring Victoria Falls. The spray billowing up from the gorge creates a lush rainforest that surrounds the falls. With our local guides, we explore the National Park where we walk to the very edge of the falls and marvel at the power of the water that created this wonder. [lodge B - -]"
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "VICTORIA FALLS, ZIMBABWE - TOUR ENDS: This classic journey ends at 08:00am at the lodge. [- B - -]"
+    }
+  ],
+  "map": ""
+}

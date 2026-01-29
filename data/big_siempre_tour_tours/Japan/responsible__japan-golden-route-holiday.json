@@ -1,0 +1,75 @@
+{
+  "destination": "Japan",
+  "mainPhoto": "",
+  "id": "japan-golden-route-holiday",
+  "tourName": "Japan golden route holiday",
+  "placesVisited": "Tokyo, Kyoto, Guided tours in Tokyo and Kyoto, Hakone National Park, Night in traditional ryokan inn, Hot spring baths",
+  "generalInfo": "Japan’s Golden Route earns its reputation. This classic itinerary links the bright lights of Tokyo and the quiet grace of Kyoto with the green landscapes of Hakone National Park — a brilliant first taste of Japan. <br/>Your journey begins in Tokyo, a city of contradictions. Known for its sci-fi skyline, eccentric fashion, and famously packed trains, there’s far more here than first meets the eye. Scratch the surface and you’ll find centuries-old shrines, local bathhouses, and age-old traditions alive and well. Modern? Absolutely. But Tokyo’s spirit runs deep — and it’s a thrilling place to dive in. <br/>From Tokyo, the Shinkansen bullet train shoots you into an entirely different world. Hakone is all steam and silence: a national park where volcanic hot springs bubble, modern art museums dot the hillsides, and Mount Fuji occasionally peeks through the mist. This was once a resting spot for shoguns — today, it’s your chance to breathe. <br/>Then there’s Kyoto. Sleek on the surface, ancient underneath. This UNESCO site-dotted city invokes reverence — from its lantern-lit alleys, temples hidden behind bamboo, gardens glimpsed through sliding doors. You’ll feel the presence of Imperial Japan all around you. <br/><br/>Dietary Requirements<br/>Our tailor-made itineraries are designed as flexible suggestions. If a hotel or accommodation on the proposed route is unable to meet specific dietary requirements, we can replace it with a suitable alternative. In cases where no alternatives are available in a particular destination, we will discuss other options with the client to ensure their needs are met. <br/>All itineraries can be adapted to cater for vegetarian and vegan diets, as well as other dietary preferences or restrictions. While the range of options may vary by region, we will always work to ensure that clients are accommodated as comfortably as possible. <br/>",
+  "durationDays": "10",
+  "price": "2370",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "TOKYO (no meals) | Meet and greet at Narita Airport, train and taxi transfer to first hotel in Tokyo’s historic Asakusa district. The hotel is close to Senso-ji Temple, the Kaminarimon market streets and the Sumida River."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "TOKYO (breakfast) | Join our Insider expert for a group walking tour through the Tokyo backstreets. Explore lesser known districts including Yanaka and Rikugien Garden, as well as the fashion districts of Harajuku and the famous Shibuya scramble."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "TOKYO (breakfast) | Free sightseeing day. Your tailor-made Info-Pack will have sightseeing ideas and information."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "HAKONE (breakfast & dinner) | 40 minute Shinkansen 'bullet train' journey to Odawara, then a local bus to your accommodation in Hakone. Stay in a traditional Japanese inn (ryokan)."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "HAKONE (breakfast & dinner) | Free sightseeing day. Use the included Hakone Freepass to travel around Hakone using the buses, mountain railways, cable cars and even a pirate ship across Lake Ashi. Top sites include the volcanic craters of Owakudani, the outdoor sculpture park and art gallery, as well as Hakone Shrine."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "KYOTO (breakfast) | Take the Shinkansen on to Kyoto in 2 hours 10 minutes. In the evening why not head to Kyoto’s Gion district where you may catch a glimpse of a geisha scurrying between tea houses."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "KYOTO (breakfast) | 8 hours with a private local guide. The itinerary is not fixed but suggestions include Nijo Castle, Kinkakuji (the Golden Temple), Ryoan-ji and the famous Zen rock garden, the red shrine gate tunnels at Fushimi Inari, the Path of Philosophy, Kiyomizu-dera."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "KYOTO (breakfast) | Free sightseeing day. You may like to continue exploring Kyoto, or use the included Japan Rail Pass to make a day trip to Nara, Hikone Castle, Osaka or Hiroshima."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "TOKYO (breakfast) | Travel by Shinkansen back to Tokyo, around 2 hours 40 minutes. Tonight you will stay in the bright neon entertainment district of Shinjuku; the perfect spot for karaoke, last minute shopping or simply a great final Japanese meal out."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "DEPART (breakfast) | Use the Japan Rail Pass one last time to take the Narita Express train from Shinjuku to Narita Airport."
+    }
+  ],
+  "map": ""
+}

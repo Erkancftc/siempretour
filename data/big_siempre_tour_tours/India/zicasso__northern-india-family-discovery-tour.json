@@ -1,0 +1,85 @@
+{
+  "destination": "India",
+  "mainPhoto": "",
+  "id": "northern-india-family-discovery-tour",
+  "tourName": "Northern India Family Discovery Tour",
+  "placesVisited": "Delhi, Agra, Ranthambore, Jaipur, Nawalgarh, Alsisar",
+  "generalInfo": "Alluring mansions and charismatic ruins bring to light enchanting splendor during your customizable 12-day family tour to Northern India. Your family will have an immersive experience wandering through the elaborate halls of Mughal emperors and observing the sky at a preserved observatory. Discover an old fort that fades beneath jungle vines, where macaques and tigers roam, and witness the treasured colors of the Taj Mahal at sunrise, inspiring a lasting connection with India’s remarkable heritage.",
+  "durationDays": "12",
+  "price": "3,000",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Delhi – Have the Day at your Leisure",
+      "description": "Your flight will land at Indira Gandhi International Airport, where your private transfer will greet your family and escort you to your luxurious accommodation in the heart of the city. The remainder of the day will be at your leisure to discover the treasures of Delhi, and its captivating rhythm may lead you to the intricate Lotus Temple to view the magnificent Bahai House of Worship. You can also venture to the Khari Baoli, which is the largest wholesale spice market in Asia."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Delhi – The Charm and History of Delhi",
+      "description": "Your guide will meet your family in the lobby after breakfast for an exciting tour of Delhi’s monuments, such as the Red Fort and Humayun’s Tomb. Jama Masjid is one of the largest mosques in India and boasts foundations that date back to the 17th century. Your family will marvel at the two massive minarets that shine with red sandstone and white marble, shaping alternative vertical stripes along the facades. You can also venture to the top of the minarets for an incredible panorama of the city. At the 12th-century minaret of Qutub Minar, your family can stand beneath the tallest minaret in India, which stands nearly 230 feet tall."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Agra – View Royal Tombs and Architecture",
+      "description": "This morning, your private transfer will escort your family from Delhi to Agra, where you will be greeted with the aromas of fried and mashed potatoes known as Bhalla . After having time to relax at your hotel, your guide will lead your family on a fascinating tour of the city, introducing you to the remarkable aesthetic of the past and beginning with the Itmad-ud-Daula’s Tomb. Your guide will lead you through the marvelous grounds and manicured gardens to find the first examples of pietra dura, where inlays of semiprecious stones create elaborate flora designs etched into the marble walls."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Ranthambore – The Taj Mahal and Fatehpur Sikri",
+      "description": "Before sunrise, your guide will meet your family in the hotel lobby to embark on a spectacular tour of the Taj Mahal, which is of the New Seven Wonders of the World. The foundation dates back to the 17th century. As the sun rises over the city, your family will notice the colors of the facade shifting from white to pink. Outside of Agra, your private transfer will escort you to the antique city of Fatehpur Sikri, which is the former capital of the Mughal Empire. The fortified walls date back to the 16th century and shine with red sandstone, capturing this masterpiece of Indo-Islamic design."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Ranthambore – In Search of Ruins and Wildlife",
+      "description": "Ranthambore offers a remarkable and unique blend of history that is embodied in the ruins of the 10th-century fortress along the Vindhya Plateau. During your time here, your family will discover gorgeous water lilies and lotuses that float along the ponds. You can stop at Ranthambore Fort to stroll along the ancient ruins that have been overtaken by the jungle. The views will provide you with a spectacular panorama of the woodlands, where you can spot serpents, eagles, and vultures. The sounds of wild macaques will echo among the trees as you search for the majestic Bengal tiger."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Jaipur – Discover Chand Baori",
+      "description": "Before reaching the remarkable Pink City of Jaipur, your family will travel to the 10th-century wells of Chand Baori. The oldest elements of the structure date back to the 8th century, and elegant colonnades and arcades were added in the 18th century under Mughal rule. You can peer below to view the traditional mansion pavilion with intricate lattice windows, where aristocratic families would rest in the comfort of the cooler temperature. After your private introduction to the marvels of the elaborate geometric design, your private transfer will lead your family to the heart of Jaipur, where the aromas of mirchi vadas will drift through the narrow streets."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Jaipur – Traverse the Observatory and City Palace",
+      "description": "Your family tour of Jaipur will begin at Jantar Mantar, which is the preserved observatory that was built nearly 300 years ago. Your guide will direct you to the Samrat Yantra, which reaches more than 88 feet tall and casts a shadow that is able to measure the exact time with a standard deviation of two seconds. The royal complex overtakes the heart of the Old City with three centuries of history being related to the Amber court. The large, guarded walls create the ambiance of a storybook structure, and it is here that the modern-day royal family continues to live."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Jaipur – Amber Fortress and Johari Bazaar",
+      "description": "The remarkable prestige of Amber Fort originates from the extensive palace complex that glows with hues of yellow and pink. Inside the Jai Mandir, your family will find exquisite embellishments in the form of glass inlaid panels that shimmer beneath the multi-mirrored ceilings. You will then continue to the vibrant aisles of Johari Bazaar, where the vibrant colors of intriguing silks will add to the rhythm of vendors who call to passersby. While semiprecious stones and silver tea make up a portion of the market, you can also explore the elaborate saris and quilts that fill the showrooms."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Nawalgarh – View the Beautiful Havelis",
+      "description": "Upon reaching the charming town of Nawalgarh, your guide will meet your family in the lobby of your hotel. The scent of fresh fruits and vegetables will drift out of the 18th-century Bala Quila fort as you wander along the labyrinthine lanes of the city. The Aath Havelis represents a group of six mansions that illustrate the transition of painting styles throughout the decades. The front gallery possesses a steam locomotive, while images of elephants, horses, and camels adorn the back section of the mural. The Morarka Haveli Museum blends luster and charm in the courtyard to illustrate depictions of Shiva, Parvati, and Krishna."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Alsisar – Alsisar’s Palace and Legendary Artwork",
+      "description": "Today, your family will be immersed in mythology upon your arrival in Alsisar. Here, you can find Persian, Jaipur, and Mughal influences emerging from the diverse schools of art. The distinctive style of the town captures the tradition of the region’s urbanization along the caravan route between Delhi and Jaipur. At Sone ki Dukaan, your family can visit the golden shop that was established in 1850. Here, the interior shimmers with elaborate plating and paintings that have been spread across the three vaulted ceilings to depict reincarnations of Vishnu and the life of Krishna."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Delhi – Visit the Bazaars in Delhi",
+      "description": "Your private transfer will escort you back to Delhi in the morning, where the aromas of tasty dumplings will fill the aisles of Kamla Nagar Market. After settling in to the comforts of your luxurious accommodation, your family can explore the vast bazaars of India’s capital city. The bazaar in which you will visit was established in the 17th century as part of the Mughal city and surrounds the walls of the Red Fort today. With more than 1,000 shops, your family can find the delicate flavors of local sweets and the aroma of leather as it fills small stores."
+    },
+    {
+      "dayNumber": "12",
+      "title": "Delhi – Depart for Home",
+      "description": "The traditional ceremonial boulevard of Rajpath will fill with locals in the morning as they travel between the city landmarks that connect Vijay Chowk and the India Gate. The significant design of the President’s Residence crowns the western edge of the boulevard and reflects an engaging mixture of Mughal and European decoration. As the scent of chai tea returns to the streets, your private transfer will transfer you to the airport for your flight home, bringing a close to your incredible family tour of Northern India."
+    }
+  ],
+  "map": ""
+}

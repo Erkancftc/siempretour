@@ -1,0 +1,75 @@
+{
+  "destination": "Namibia",
+  "mainPhoto": "",
+  "id": "northern-namibia-self-drive-safari",
+  "tourName": "Northern Namibia self drive safari",
+  "placesVisited": "",
+  "generalInfo": "Embark on an unforgettable self-drive journey through Namibia, focussing the wildlife-rich north of the country. <br/><br/>Everything we do is completely tailor-made so should you like to amend this trip at all just let us know. <br/><br/>After an initial overnight at a boutique hotel in Windhoek, head north to Okonjima Plains Camp for a night immersed in wildlife. Located in the Okonjima Nature Reserve, this camp is home to the AfriCat Foundation, which focuses on the conservation of cheetahs and leopards. Engage in thrilling activities like tracking leopards and spotting nocturnal animals on a night safari. Continue your journey to Mushara Outpost for two nights, situated near Etosha National Park’s eastern boundary. Styled as a traditional African farmstead, the outpost is the ideal base for exploring Etosha’s vast salt pans and waterholes, where you can witness elephants, lions, and rhinos in their natural habitat.<br/><br/>Next, spend two nights at Etosha Safari Lodge, perched on a hill with sweeping views of the African savannah. The lodge offers easy access to Etosha’s central regions, where you can enjoy sunrise and sunset game drives. Then travel to Twyfelfontein Adventure Camp for two nights in the rugged terrain of Damaraland. Explore the area’s ancient rock engravings, the Petrified Forest, and unique geological formations. Conclude your trip with a night at Habitas, a luxury eco-conscious retreat offering guided nature walks and relaxation in a serene wilderness setting, bringing your Namibian adventure to a memorable close.",
+  "durationDays": "10",
+  "price": "4990",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Namibia and meet a private transfer to the comfortable Weinberg Boutique Hotel in the suburbs of Windhoek. Your included hire car is a robust Toyota Hilux 4x4 (or similar) and this will be delivered to your guesthouse this afternoon."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "After breakfast, start your adventure proper as you drive north to the Okonjima Nature Reserve and to Okonjima Plains Camp. Enjoy the rest of the afternoon taking part in activities with the lodge. You might like to stretch your legs on one of the walking trails or search for predators on a game drive."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Continue north to Eastern Etosha and to the fantastic Mushara Outpost for two nights. Located just outside the gate to the national park. You might like to drive into Etosha this afternoon independently or take part in a game drive with the lodge."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Enjoy a full day on safari in Etosha, either book onto an activity with Mushara Outpost or explore the park independently."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Enjoy a leisurely game drive across the park today as you head towards the central region and to Etosha Safari Lodge, located just outside the central gate to stay for two nights."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Enjoy a full day on safari in central Etosha, either book onto an activity with the lodge or explore the park independently."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Start heading south again as you head to Damaraland. Stay at Twyfelfontein Adventure Camp for two nights and you might like to book onto a guided nature drive with the lodge to search for the famous desert elephants of the region."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "You have a full day to explore the rugged Damaraland region. You might like to visit the famous Twyfelfontein Rock Engravings, relax at the lodge or take part in guided activities with the camp."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Your final destination is a private reserve just outside of Windhoek to a stunning lodge called Habitas."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Finally make your way to the airport and return your hire car before checking in for your international flights."
+    }
+  ],
+  "map": ""
+}

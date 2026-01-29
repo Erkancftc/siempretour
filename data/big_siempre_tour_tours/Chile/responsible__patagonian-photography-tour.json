@@ -1,0 +1,40 @@
+{
+  "destination": "Chile",
+  "mainPhoto": "",
+  "id": "patagonian-photography-tour",
+  "tourName": "Patagonian photography tour",
+  "placesVisited": "Photography holiday in Torres del Paine National Park, Punta Arenas, Stay at Eco Camp Patagonia, Patagonian wildlife watching",
+  "generalInfo": "This Patagonian photography is also a spectacular wildlife holiday in Torres del Paine National Park. Because not only will you be travelling with a professional nature and wildlife photographer, but also with expert wildlife trackers to help you find the wildest of ways through the park.  A fixed date holiday, your guide and teacher is Diego Araya who, as well as publishing Patagonia 237, a big format coffee table book financed by Nikon Chile, is an experienced adventure guide. <br/><br/>Eco Camp Patagonia is an award winning accommodation where you stay in luxury geodesic domes. They have a minimal environmental footprint in this precious landscape, while also providing comforts such as hot showers, electricity and fine food. And during the day, you will get out into the park to explore its extraordinary geology, catch the light from magnificent sunrises or sunsets, and enjoy its diverse landscapes, home to a wonderful array of wildlife. <br/><br/>There are 26 species of mammal in Torres del Paine National Park, including the South Andean deer, the elusive puma and the guanaco. Keep a look out for superb birdlife, including the celebrated condor. <br/>",
+  "durationDays": "6",
+  "price": "6280",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Travel from Punta Arenas, Puerto Natales or Calafate to Torres del Paine National Park. The trip begins with you being picked up from your hotel in Punta Arenas or Punta Arenas airport in the morning and driven to EcoCamp Patagonia, located in the world-famous Torres del Paine National Park. Alternatively you can start your trip in El Calafate / Argentina. En route we make a couple of stops - First in Puerto Natales, a small, lively town on the shores of \"Seno de Ultima Esperanza\", where we enjoy a hearty local lunch, and second at Cueva de Milodon, a massive prehistoric cave where the remains of a giant ground sloth were discovered in the 1890’s. The whole journey is very scenic, with plenty of wild birds and wonderful landscapes to be seen. The day ends with our arrival and overnight stay at EcoCamp Patagonia, nestled in the heart of the park with a view of the Torres. During summer the sun sets around 11pm, so upon arrival there's plenty of light to admire the Patagonian steppe with its guanacos and snow-peaked mountain horizon. After dinner our guide, Diego, gives a briefing on the upcoming days and the wildlife we’ll be seeing. (L,D)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Early mornings and late nights spent photographing in the national park. We start off each day early, photographing the sunrise from distinct locations while enjoying hot coffee and breakfast on the go. Our puma tracking team, already hard at work, will be in radio contact to let us know how they’re doing. We begin our wildlife exploration close to EcoCamp, in the park’s eastern sector, making the most of the beautiful morning light and animal activity. We enjoy around six hours of wildlife observation, studying and photographing the park’s native flora & fauna mbefore heading back to EcoCamp for lunch and relaxation time. In the afternoons, after the peak sun hours with little animal movement, we head out again, this time to the park’s western sector where we enjoy the beautiful landscapes and flora & fauna to be found. We visit landmark places such as Grey Glacier and other striking natural monuments. Our guide takes us through the different habitats and ecosystems in the area, introducing us to the unique and colourful wildlife of Torres del Paine. Our tracking team will alert us to any interesting fauna sightings in the area. After photographing the iconic Patagonian sunset over the Paine massif we return to EcoCamp for dinner and well-earned rest. N.B. In the event of bad weather alternative activities will be planned, for example to scenic waterfall Paine Grande or Laguna Azul. (4 x B,L,D)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Sunrise photography session and final lunch before returning to the airport. Today we enjoy our morning sunrise photography session and wildlife exploration in the park’s eastern sector before returning to EcoCamp for lunch. We load our luggage into the van and say goodbye to EcoCamp’s staff as we drive back alongside the Patagonian pampa to the airport to catch our onward flight. (B,L)"
+    }
+  ],
+  "map": ""
+}

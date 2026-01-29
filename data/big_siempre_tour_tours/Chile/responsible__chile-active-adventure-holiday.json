@@ -1,0 +1,45 @@
+{
+  "destination": "Chile",
+  "mainPhoto": "",
+  "id": "chile-active-adventure-holiday",
+  "tourName": "Chile active adventure holiday",
+  "placesVisited": "",
+  "generalInfo": "Embark on your own slow-paced adventure to Chile's greatest sights; the buzzing cities of Santiago and Valparaiso; the stunning glaciers, mountains and lakes of Patagonia; and the incredible otherworldly landscapes of the Atacama Desert. <br/><br/>You'll have plenty of time in each destination, to witness first the classic highlights, and then the lesser-known gems that only an extended stay allows (and we believe makes for a more memorable and fulfilling experience). Hike, bike, kayak, horse-ride, or buckle-up for a 4x4 drive or boat excursion.<br/><br/>All of our trips can be tailormade from scratch, so take this as an example of what is possible and \"Enquire Now\" so we can create your very own dream adventure.",
+  "durationDays": "17",
+  "price": "4900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "SANTIAGO & VALPARAISO - Start your Chilean adventure by exploring the buzzing capital Santiago, and the colourful coastal city of Valparaiso, full of artistic, cultural, and gastronomic activities. We can also spend a day visiting some of Chile's famous vineyards on the road inbetween."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "PUERTO NATALES - Head south to the gateway to Patagonia, where you can take a small boat cruise to visit nearby glaciers, horseride under the mountains, and enjoy a traditional barbeque lunch on a working estancia."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "TORRES DEL PAINE - Checking-in to our charming lodge in Chile's most iconic national park, the next few days are yours to choose from a range of outdoor activities. Torres del Paine is a trekkers paradise, but there are also boat trips, 4x4 drives, horseriding, and even kayaking on offer here."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "ATACAMA - We end this epic trip with a full week amongst the mind-blowing landscapes of the Atacama Desert. From the steaming El Tatio Geysers at dawn to sunsets over Moon Valley, via blinding salt flats, coloured lagoons, hot springs, flamingos... you can even climb a volcano! Hike, bike, or take a hot air balloon. This is a very special place indeed to end your adventure."
+    }
+  ],
+  "map": ""
+}

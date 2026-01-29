@@ -1,0 +1,70 @@
+{
+  "destination": "Oman",
+  "mainPhoto": "",
+  "id": "oman-and-zanzibar-beach-holiday",
+  "tourName": "Oman and Zanzibar beach holiday",
+  "placesVisited": "Three nights at a luxury hotel on a private bay, morning guided tour of Muscat, optional: early evening turtle spotting with hotel’s turtle ranger, fly to Zanzibar, seven nights at Breezes Beach Club & Spa, reef walks, snorkelling, optional: visit Stone Town, explore Jozani Forest, half day spice tour",
+  "generalInfo": "An enticing pairing of two exciting destinations, this Oman and Zanzibar beach holiday introduces you to the Arabian culture and warm hospitality of Oman followed by a relaxing beach break on beautiful Zanzibar. Here you can snorkel, explore the island’s capital Stone Town and learn about its history as a key player in the spice trade, or simply make the most of the gorgeous beach.<br/><br/>In Oman, you’ll be based outside the capital Muscat in a beautiful hotel on a private bay. The Shangri-La Barr Al Jissah Resort has three hotels linked by gardens, all offering warm and welcoming Omani hospitality. Enjoy the beach and the warm sea, the pool, spa, snorkelling and diving, and take a guided tour of Muscat, too, a contemporary city which retains a strongly local feel and a great deal of traditional character – you’re always aware that you’re in the Arabian peninsula. <br/><br/>After enjoying three nights in Muscat, fly over to Zanzibar for a seven night stay at Breezes Beach Club &amp; Spa. It sits on one of Zanzibar’s most beautiful beaches where you can try kite surfing, pedal boating, kite buggying and guided cycling and snorkelling trips. You can also learn to dive, at the on-site PADI dive centre, which offers lessons for beginners and guided diving trips on the reef for experienced, qualified divers. There is also a spa and a yoga and meditation sanctuary to enjoy, and the chance to explore Stone Town or enjoy a spice tour.<br/>",
+  "durationDays": "12",
+  "price": "5750",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Board your overnight flight to Oman"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "When you land in Muscat you will be met and transferred by private vehicle to Al Waha for your 3 night stay."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "This morning you will be taken into Muscat for a tour of some of the city's highlights. This afternoon you are at leisure. You might like to enjoy the facilities at your beachfront hotel or explore Muscat's local culture and souks."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Day at leisure to relax at the beach or explore more of the countryside. In season, you could join the hotel's turtle ranger in the early evening to see if you can spot the green or hawksbill turtles laying their eggs."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "This morning you will be transferred back to the airport by private transfer in time to catch your flight to Zanzibar. Here you will be met and transferred to Breezes Beach Club & Spa for your 7 night beach stay."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Your first day to relax on the white sandy beach of Breezes. The sea is tidal in Zanzibar so take a reef walk and see what marine life you can find."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Another day at leisure. Why not take a day trip to Stone Town to explore or visit Jozani Forest?"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Take a morning stroll before breakfast and then spend the afternoon relaxing in the sun or snorkelling. Alternatively, head out on a half day spice tour."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "You will be transferred by private car to the airport in time to catch your flight home."
+    }
+  ],
+  "map": ""
+}

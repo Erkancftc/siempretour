@@ -1,0 +1,80 @@
+{
+  "destination": "Borneo",
+  "mainPhoto": "",
+  "id": "sarawak-holiday-wildlife-adventure",
+  "tourName": "Sarawak holiday, wildlife adventure",
+  "placesVisited": "",
+  "generalInfo": "Discover wildlife-rich Sarawak on this 15-day tailor-made holiday. Kuching, the compact cosmopolitan capital of Sarawak, is a great starting point with its outdoor café culture and waterfront promenade. <br/><br/>Explore remote Tanjung Datu National Park which boasts pristine waters and thriving coral reefs, a jungle landscape which reaches almost to the ocean and a role as an important marine nesting site for Green and Olive Ridley turtles. Enjoy hiking trails and night safaris in search of nocturnal wildlife and the nesting turtles. <br/><br/>Journey by traditional longboat into Batang Ai National Park to spend time with the remote Iban communities. Spend time learning about their way of life while also exploring a natural environment rich in animal and bird life including wild nesting orang-utans. Take a dip in the cooling waters of the Enseluai waterfall and enjoy a tasty riverside BBQ lunch prepared by your Iban boatman. Sample a glass of two of their fiery rice wine and chat to Iban tribespeople over dinner on the communal longhouse verandah. <br/><br/>Please note: this holiday is only available between April - September. Tanjung Datu National Park is not accessible during monsoon months of December to February.",
+  "durationDays": "15",
+  "price": "3275",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly to Kuching."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Land Kuching. Transfer to the hotel. Evening at leisure."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Depart Kuching and drive to Tanjung Datu National Park, one of the smallest and most stunning parks in Sarawak boasting pristine waters and often empty beaches. Take a boat for about an hour into the park and enjoy the afternoon free at leisure to relax or explore various walking trails. This evening head out on a night safari in search of nocturnal wildlife before exploring the turtle nesting beach for signs of nesting turtles. (B/L/D)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "This morning head out to walk the Pasir Antu Laut trail passing forest scenery and searching for wildlife as you go: gibbons, banded langurs and hornbills are sometimes seen along the path. Arrive at the beach and enjoy a swim and admire the pretty boulder strewn beach before returning to Park HQ. Enjoy a late lunch and the remainder of today at leisure: why not enjoy snorkelling near Telok Upas or explore further jungle trails. After dark and dinner at Park HQ head out once more to look for laying turtles. (B/L/D)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Enjoy breakfast this morning and time at leisure. Board the boat and return to the nearby village of Sematan for lunch and drive back to Kuching. Enjoy the evening at leisure, Kuching has a lovely waterfront promenade perfect for an early evening stroll. (B/L)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Depart Kuching this morning and drive to Batang Ai National Park. En-route enjoy a brief stop at a local bazaar for a stroll around the shops and lunch. Board a traditional longboat and journey into the park and onwards to Nanga Sumpa Lodge. Settle in for dinner and spend time with your Iban hosts. (B/L/D)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "This morning head out with your Iban boatman to visit the small longhouse community of Jambu locate d a short 30-minute boat ride upriver from Nanga Sumpa. This is the most isolated community on the river. Continue upriver to Enseluai waterfall and enjoy a cooling swim in the waterfall pool followed by a riverside BBQ prepared by your Iban hosts. Return to the lodge for dinner and more time with the Iban people. (B/L/D)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Enjoy free time this morning to relax, swim or take a final jungle walk near the lodge. This area is an important orang-utan nesting site so do keep watch for the rustling of treetops which could signify a 'celebrity' visitor! Return via longboat after lunch and onwards to Kuching. Evening free at leisure. (B/L)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "This morning will be spent visiting Semenggoh Wildlife Centre. This is one of just 4 orang-utan rehabilitation centres in the world and is doing crucial work in conserving the last remaining orang-utan populations of Borneo. Enjoy watching the semi-rehabilitated orang-utans enjoy a good meal before returning to their treetop hideouts. Return to the city for lunch and a tour of compact Kuching city. (B/L)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Drive to Kuching airport and fly to Kota Kinabalu, Sabah. Land and drive to the popular Rasa Ria Resort for some time to relax on the beach. (B)"
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Transfer to Kota Kinabalu airport for the flight back to the UK. (B)"
+    }
+  ],
+  "map": ""
+}

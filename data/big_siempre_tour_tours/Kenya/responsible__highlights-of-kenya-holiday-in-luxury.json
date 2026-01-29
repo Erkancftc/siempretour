@@ -1,0 +1,45 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "highlights-of-kenya-holiday-in-luxury",
+  "tourName": "Highlights of Kenya holiday in luxury",
+  "placesVisited": "",
+  "generalInfo": "Experience the pinnacle of sophistication and natural wonder with this exclusive Kenyan journey, crafted for the discerning adventurer. Begin in the bustling heart of Nairobi, where culture meets modernity, before venturing into the iconic Masai Mara. Here, the wildlife-rich plains come alive, offering the thrill of witnessing the Great Migration and the splendour of Africa’s Big Five.<br/><br/>Your adventure culminates on the unspoiled shores of Watamu, where azure waters and soft sands promise tranquillity and renewal. Staying at the prestigious Hemingways Collection, you’ll enjoy unrivalled service, sumptuous accommodations, and bespoke experiences tailored to immerse you in Kenya’s diverse beauty.<br/><br/>From the dramatic savannahs to the serene Indian Ocean coastline, this journey harmonises thrilling safari escapades with coastal luxury, ensuring every moment is as extraordinary as Kenya itself.",
+  "durationDays": "10",
+  "price": "8250",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival in Nairobi – Welcome to Kenya! Upon arrival at Jomo Kenyatta International Airport, a private chauffeur will greet you and escort you to your hotel in Nairobi. After check-in, relax and unwind with a signature spa treatment or enjoy a sunset cocktail on the terrace, soaking in the tranquil surroundings."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Safari Adventure - After a leisurely breakfast, you’ll board a charter flight to the world-famous Masai Mara, and be driven from the airstrip to your accommodation. Over the next four nights, immerse yourself in the untamed beauty of the Masai Mara, with twice-daily game drives led by experienced guides. Witness the dramatic wildlife spectacles, including the iconic Great Migration (seasonal), big cat sightings, and vast herds of elephants and antelope. Return from your thrilling safari experiences to the comfort of your luxury tent, complete with panoramic views of the plains, plush furnishings, and en-suite bathrooms. Enjoy gourmet meals prepared by skilled chefs, paired with fine wines and spirits as part of your all-inclusive experience. Sundowners by the campfire and evenings under the stars will cap off each day’s adventure."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "A Tropical Paradise on Kenya’s Coast - After your last morning game drive and breakfast, board a private charter flight from the Mara to the coast, where you’ll arrive at luxury accommodation in Watamu. This luxurious beach resort is a haven of tranquility, located along the pristine white sands of Watamu Marine Park. Spend your next four nights in opulent seafront accommodations, where the gentle ocean breeze and views of the turquoise waters create the perfect setting for relaxation. Each day offers a blend of relaxation and adventure, from snorkeling and diving in the protected coral reefs to dhow cruises along the coast. For those seeking a slower pace, indulge in a pampering session at the resort’s world-class spa, or simply lounge by the infinity pool, cocktail in hand."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Farewell to Kenya - On your final day, savor a leisurely breakfast while taking in the last of the ocean views. After check-out, a private transfer will take you to the airport for your onward flight, leaving you with memories of an unforgettable journey through some of Kenya’s most iconic landscapes. This luxury itinerary offers the perfect balance of adventure and relaxation, enhanced by impeccable service and unforgettable experiences at every turn."
+    }
+  ],
+  "map": ""
+}

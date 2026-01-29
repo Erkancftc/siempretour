@@ -1,0 +1,75 @@
+{
+  "destination": "Alaska",
+  "mainPhoto": "",
+  "id": "best-of-alaska-tour",
+  "tourName": "Best of Alaska tour",
+  "placesVisited": "",
+  "generalInfo": "Prepare to discover the captivating beauty of Alaska on this 10-day journey through its icy heart. Travel from Anchorage through forests, around mountain ranges and down the spectacular coast to the Kenai Peninsula. Explore the unspoilt woodlands of Denali National Park and keep your eyes open for grizzlies, caribou and moose. Cruise past glaciers, orca whales and puffins and experience this vast wilderness's quiet, majestic calm among striking landscapes. You’ll explore Homer, Seward, Talkeetna, Kenai Fjords National Park and Denali National Park and enjoy loads of free time to customise your activities, making sure you’re doing all the things you actually want to do!",
+  "durationDays": "10",
+  "price": "4825",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Anchorage.",
+      "description": "Welcome to Alaska! Located in south-central Alaska on the shores of Cook Inlet lies Anchorage – a unique urban environment in the heart of the wilderness. Your adventure begins here with a welcome meeting at 6 pm tonight. If you arrive early, maybe head to the Anchorage Museum or check out the sights and try spotting a moose wandering the streets of town (yes, really). This evening, maybe celebrate the beginning of a new adventure with an optional group dinner."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Homer.",
+      "description": "This morning, you’ll drive from Anchorage to Homer along the scenic Turnagain Arm – an All American Road passing Cook Inlet and named after British explorer James Cook, who was forced to ‘turn again’ when the waterway didn’t hold the Northwest Passage in 1778. Along the way, stop for lunch at a local brewery in Cooper Landing on the Kenai Peninsula and enjoy views of the surrounding mountains. Then, continue to Homer for the night. The rest of the day is free for you to explore this small town on Kachemak Bay at your own pace. Maybe wander the streets full of artisan shops and restaurants or walk out on the spit and visit the famous Salty Dawg Saloon for a drink."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Homer.",
+      "description": "Today is a free day to explore Homer and the surrounding bay. You might want to head to the local bakery nearby for a breakfast of coffee and pastries, then take up one of the optional activities this gorgeous town has on offer. Explore on foot or book a tour of the bay. Maybe take the local ferry to explore the town of Seldovia, where you can take a wildlife boat tour, looking out for sea otters, bald eagles, ducks, orcas and more. If you’d prefer to kick back at the local winery, you can go for a tasting and tour in this afternoon. Tonight, just ask your trip leader for some local dinner recommendations."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Seward.",
+      "description": "This morning, take a scenic drive on the Kenai Peninsula from Homer to Seward. Grab a window seat if you can because on a clear day, there are some gorgeous views of the turquoise lakes near Moose Pass, as well as the mountains and volcanoes in the distance. Pause in Moose Pass where you can take an optional kayaking tour. When you arrive in Seward this afternoon, head out on a short hike to the tongue of Exit Glacier in Kenai Fjords National Park – a major attraction of the park, this electric blue glacier is one of the most accessible valley glaciers in Alaska. After, check into your hotel in Seward and enjoy a free evening to explore the town or head to a local restaurant for dinner and drinks."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Seward.",
+      "description": "This morning, you’ll head to the docks for a full day cruise of Resurrection Bay and Kenai Fjords National Park – look out for wildlife like orca whales, porpoises, puffins and other birdlife as you sail the still waters and explore the gorgeous surroundings. Marvel at the electric blue tidewater glaciers and if you're lucky you may get to see one 'calve' some ice into the sea. Enjoy lunch on the boat before cruising back to Seward. This afternoon, you may have some free time to head out on a hike or visit the Seward SeaLife Centre."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Talkeetna.",
+      "description": "Today, hit the road again to drive along the Turnagain Arm (soak in those gorgeous views if you didn’t get a chance to last time) to the small town of Talkeetna. Along the way, stop in the town of Girdwood to take the Alyeska Aerial Tram to the top of Mt Alyeska for incredible views of seven glaciers and the valley below. Pause for a deli lunch at the top. When you arrive in Talkeetna, join your leader for a guided walk around town. Then you’ll have the rest of day free to find a great dinner spot or explore the charming surroundings on foot."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Denali National Park.",
+      "description": "After breakfast this morning, you’re free in Talkeetna to explore the town. Perhaps book an optional scenic flight with a glacier landing to get up close to North America's tallest mountain: Denali. Later, drive to Denali National Park. During the drive, keep an eye out for caribou and other wildlife hanging out in the unspoiled environment.?When you arrive, your group will check out the Visitor Center, where you can learn about the park and hopefully catch a glimpse of the towering mountain in the distance. Take an afternoon to explore or relax and then head out for a group dinner at a local restaurant."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Denali National Park.",
+      "description": "Rise and shine early this morning to prepare for a scenic 'Alaskan safari' drive through Denali National Park. You’ll take the Tundra Wilderness route, narrated by a trained driver-naturalist, that will take you to mile 43 of the Park Road. With Denali Mountain towering in the background, wind along the road hugged by mighty pine trees and framed by snow-capped mountains. As you pass the gorgeous scenery, look out for the abundant local wildlife – you might be lucky enough to see moose, caribou, grizzly bears, Dall sheep and wolves (among a long list of other wildlife) on your journey."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Anchorage.",
+      "description": "After breakfast this morning, you’ll return to where your adventure began in Anchorage. When you arrive, you’ll get to know this eclectic city during a tour with your leader. During the tour, visit the Alaska Native Heritage Center where you’ll learn more about Alaska’s cultural heritage, hear the stories of the Indigenous Alaskans and discover 10,000 years of Alaska Native history through demonstrations, art and dance. After your walking tour and heritage center visit, you might like to get together with the group for a farewell dinner and reminisce about the highlights of your journey through Alaska."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Anchorage.",
+      "description": "There are no further activities planned today, so your trip will come to an end at check out. If you’d like to extend your stay, just speak to your booking agent."
+    }
+  ],
+  "map": ""
+}

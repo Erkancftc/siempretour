@@ -1,0 +1,60 @@
+{
+  "destination": "Antarctica",
+  "mainPhoto": "",
+  "id": "patagonia-and-antarctica-holiday",
+  "tourName": "Patagonia and Antarctica holiday",
+  "placesVisited": "",
+  "generalInfo": "This two-and-a-half-week journey encapsulates Argentina’s highlights with the best of the Antarctic peninsula. <br/><br/>Begin in Buenos Aires, Argentina’s vibrant capital before flying to Ushuaia, the world’s southernmost city. Here, hike the pristine trails of Tierra del Fuego National Park and cruise the wildlife-rich Beagle Channel, uncovering its scenic beauty and historical importance. <br/><br/>From Ushuaia, embark on a ten-day Antarctic expedition, crossing the legendary Drake Passage to a realm of dazzling icebergs and playful wildlife, including penguins, seals and whales. Once in the peninsula, explore alongside your expert polar team by zodiac, or opt to kayak, snowshoe, or camp, to fully experience this magical part of the world. Make sure to take part in the onboard Citizen Science program and learn about the important research to protect and shape the future of this fragile continent. <br/><br/>Excursions are led by expert local guides in small-group tours, accommodation has been hand-picked by us to ensure a comfortable and enriching experience. This trip can be tailored to your interests, so let us know your preferences.",
+  "durationDays": "16",
+  "price": "10905",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Buenos Aires: Begin in the enchanting city of Buenos Aires, the home of tango and world-class cuisine. With a local guide discover Palermo, the colourful houses of La Boca, iconic Recoleta, historic Plaza de Mayo, and the historic hub of San Telmo. We recommend adding on a Tango show with dinner and wine tasting for an unforgettable evening, where you’ll discover the soul of Argentina’s capital."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Ushuaia: Fly to the end of the world and spend four nights exploring the wild surrounds of Ushuaia. Framed by snow-capped peaks and the Beagle Channel, Ushuaia offers a mix of dramatic landscapes and adventure. During your stay, hike the trails of Tierra del Fuego National Park, sail the Beagle Channel past colonies of sea lions and the iconic Les Eclaireurs Lighthouse, and learn about the rich history of the native Yamanas people. On your final night, join your fellow cruise comrades to prepare for your once-in-a-lifetime voyage to Antarctica."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Drakes Passage: After a leisurely morning, board your small expedition vessel and set sail for Antarctica. Over the next 48 hours, navigate the legendary Drake Passage and watch for wandering albatrosses, petrels and whales. Between wildlife sightings, join your Polar experts for fascinating lectures on the seas, ice, and wildlife of this extraordinary region."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "South Shetland Islands: Today rewards you with your first glimpse of Antarctica and the remote South Shetlands. Depending on conditions, you may go ashore to meet bustling penguin colonies, cruise in zodiacs past icebergs, or spot seals lounging on the ice floes."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Antarctic Peninsula: Continue south to the heart of the Antarctic Peninsula. Daily zodiac landings and shore excursions offer close encounters with gentoo, chinstrap, and Adélie penguins, as well as opportunities to see seals, whales, and an incredible variety of seabirds in their natural habitat. Navigate through narrow straits, explore picturesque bays and experience the profound silence of one of the most untouched places on Earth. Every landing is unique, shaped by weather, ice, and wildlife activity, ensuring no two voyages are ever the same."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Drakes Passage: Say goodbye to Antarctica and begin your journey back to Ushuaia, crossing the Drake Passage. Enjoy a last meal with your fellow comrades and reflect on the unforgettable moments shared and the privilege of having set foot on the White Continent."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Buenos Aires: Disembark in Ushuaia and transfer to the airport for your return flight to Buenos Aires. Spend one final night in the capital before your onward journey home. If you’d like to make the most of your last night, we can recommend some wonderful places to eat- just let us know your preferences."
+    }
+  ],
+  "map": ""
+}

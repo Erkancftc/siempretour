@@ -1,0 +1,80 @@
+{
+  "destination": "Alaska",
+  "mainPhoto": "",
+  "id": "alaska-adventure-holiday-salmon-run",
+  "tourName": "Alaska adventure holiday, salmon run",
+  "placesVisited": "Anchorage, Denali NP, Wrangell St-Elias National Park, Valdez, Sea kayaking through icebergs, Glacier hiking, Salmon fishing, Whale watching",
+  "generalInfo": "Join us in our converted school bus and ride along Alaska's lonely roads. Camp out in the wilderness and enjoy our luxury adventure camp! In Alaska, often called \"The Last Frontier\", you've got plenty of sunlight in summer. The Alaska Salmon Run adventure is focused on the highlights of Alaska with optional activities of fishing, sea kayaking or ice climbing. Explore glaciers and icebergs from near or from afar, hike the wilds and maybe even come face-to-face with a grizzly! This is the adventure your adrenaline has been waiting for you to do.<br/><br/>•\tRide along in a retrofitted school bus!<br/>•\tEnjoy a range of outdoor activities from glacier hikes to sea kayaking<br/>•\tCamp and cook under the stars and listen to the sounds of nature<br/>•\tDrive along the only road in Denali NP spotting bears, moose, caribou and wolves<br/>•\tCanoe the Maclaren River and kayak around icebergs<br/>•\tTry your hand fishing for halibut and salmon<br/><br/>Included in your trip:<br/>•   20-day tour in overland vehicle<br/>•   Accommodations outlined for nights in Hostel/Campsites<br/>•   All meals cooked off the truck (19xBreakfast, 18xLunch, 16xDinner)<br/>•   Denali National Park shuttle buses to Toklat River and Eielsen Visitor Center (2 days)<br/>•   Maclaren Lodge/Glacier camp, boat and canoe trips<br/>•   Hikes in Denali NP, Wrangell/St. Elias NP, Seward and Valdez<br/>•    Kenai Fjords National Park boat cruise - Resurrection Bay Tour with Lunch on the Boat: Orcas and Calving Glaciers<br/>•   Two-night stay at Adventure Camp - lodging, meals (salmon buffet)<br/>•   Half Day Sea Kayaking at the Adventure Camp<br/>•   Admission to National Parks and Monuments<br/>•   Pre-departure meeting to welcome and provide you with a good understanding of the trip ahead<br/>•   Services of two trained/commercially certified leaders/drivers<br/>•   Fully equipped Overland vehicle<br/>•   High quality four person tents (sleeping only two), camp chairs and cooking equipment<br/>•   Information regarding places to be visited, history, flora and fauna<br/><br/>To obtain a detailed itinerary, information on the optional activities or any other information please just send us an inquiry.<br/><br/>This trip can also be booked as a 9-Day Trip (Day 1-9) and a 12-Day Trip (Day 9-20). Please contact us for the itineraries.",
+  "durationDays": "20",
+  "price": "5780",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Anchorage: Arrive for 6 pm Group Meeting and Dinner (Hostel)"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Seward: Cruise with orca, humpbacks, sea lions and enjoy calving glaciers with lunch on the boat! Work it off the next day by hiking Exit Glacier! (Camping)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Homer: View giant Halibut, and camp on the Homer Spit with fantastic views of surrounding volcanoes (Camping)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Adventure Luxury Camp: Roughing it in style in canvas tents with beds. Enjoy the luxurious main building, salmon dinner and sea kayaking (Luxury Camp with beds)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Hope: Camping with brown bears along Cook Inlet. Enjoy the atmosphere of Alaska's first gold rush town and little fishing village (Bush-Camping)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Anchorage: Beluga Point and optional city tours (Museum, Alaska Native Heritage Center), exploring city nightlife (H)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Denali National Park: Explore the NP with the highest peak in North America and possibly fly around and land on a glacier of Mt McKinley. There are wildlife shuttles, sled dogs and/or several hiking opportunities (Camping)"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Maclaren Wilderness Camp and Lodge: Bush camp near the Maclaren Glacier, enjoy a canoe trip down the river and relax the second night in the rustic lodge (first night wilderness camp, second night Lodge)"
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Wrangell/St Elias National Park: Camp alongside glacially fed river in the largest US National Park. Along with hiking and mine tours there are opportunities to challenge yourself with ice climbing, rafting or a glacier walk (Bush-Camping)"
+    },
+    {
+      "dayNumber": 18,
+      "title": "",
+      "description": "Valdez: Check out the 800 mile Alaskan pipeline, explore the city of the Exxon disaster, and possibly kayak through icebergs (Camping)"
+    },
+    {
+      "dayNumber": 20,
+      "title": "",
+      "description": "Anchorage: Return to Anchorage via Matanuska Glacier - Trip Ends today in the afternoon."
+    }
+  ],
+  "map": ""
+}

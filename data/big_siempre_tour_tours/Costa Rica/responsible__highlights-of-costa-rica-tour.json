@@ -1,0 +1,65 @@
+{
+  "destination": "Costa Rica",
+  "mainPhoto": "",
+  "id": "highlights-of-costa-rica-tour",
+  "tourName": "Highlights of Costa Rica tour",
+  "placesVisited": "",
+  "generalInfo": "From San Jose to Manuel Antonio, get closer to the landscapes and wildlife of Costa Rica on our highlights tour. Witness the country's unreal scenery, where volcanoes loom over wild rivers and stretches of beach curb luscious, green forests, with wildlife to spot at every turn. Our week-long trip provides the perfect introduction to the country's varied ecosystems - a must for nature lovers.<br/> Discover Monteverde - Delve into the forest trails of this cloud forest reserve, a biodiverse paradise for nature enthusiasts.<br/> Wildlife river cruise - Float down the Penas Blancas river, spotting rare species along the banks and in the tree canopies.<br/> Explore Manuel Antonio - Share the stunning white-sand beaches of this national park with sun-bathing iguanas and capuchin monkeys.<br/>",
+  "durationDays": "8",
+  "price": "1645",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Join trip in San Jose",
+      "description": ": Our tour starts today in San Jose, Costa Rica's cosmopolitan capital. Lying in a fertile valley, at an altitude of 1,150 metres, coffee and sugar are big industries here - coffee is even planted between buildings and along the roadsides on the outskirts of the city. For those arriving in time, our tour leader plans to meet you in the hotel reception at 7pm for a welcome meeting, and for those that wish there'll be the chance to go out for dinner. There are no other activities planned today, so you're free to arrive in San Jose at any time. If you'd like an airport transfer, you'll need to arrive into San Jose's Juan Santamaria International Airport (SJO), which is around a 30-minute drive from our hotel. If you miss the welcome meeting, your tour leader will inform you of any essential information as soon as you catch up. If your flight arrives earlier in the day, you might like to head out and explore the city - the barrios are easy to navigate, laid out in a grid pattern of avenues and streets. The National Museum (Museo Nacional De Costa Rica) is also well worth a visit."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Visit the Doka Coffee Estate; take a walk in Arenal National Park",
+      "description": ": This morning, we'll head to the Doka Estate, renowned across Costa Rica for its premium coffee production. This estate is a cornerstone of Costa Rica's rich coffee heritage, where you'll gain insights into the entire process, from cultivation to roasting, and learn why Costa Rican coffee is celebrated worldwide for its quality and flavour. You'll also discover how coffee has shaped the country's culture and economy over generations. After our visit to Doka Estate, we'll continue to Arenal National Park (around a three-hour drive) to catch our first sight of the famous Arenal Volcano. We'll be exploring the national park on foot, taking a walk on the flanks of the volcano, which are covered by a tangled mass of vegetation on one side and starkly barren on the other. Our tour leader will point out interesting flora and fauna and provide more information about the science and history of the volcano, before taking us to a viewpoint for a closer look. Our accommodation for the next two nights is in La Fortuna. The town was renamed after an eruption in 1968 that decimated the towns around the volcano's western flanks. Translated as 'fortune', La Fortuna refers to the town's luck in being located on the volcano's eastern side, and so, fortunately, escaping destruction. This evening, we can make the most of the local geothermal activity by enjoying an optional dip in nearby hot springs."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Wildlife float trip on the Penas Blancas river, free afternoon with optional activities including a waterfall hike",
+      "description": ": The Arenal area is well known for its diverse wildlife, and this morning we'll set out on a tranquil rafting safari to spot some of the most sought-after species. There is no white water here, we'll simply be floating down with a local guide, who will scour the water and the canopy to point out a variety of colourful creatures from toucans and sloths to Jesus Christ lizards and caiman. We'll most likely see capuchins swinging from the trees, and a wide array of birdlife during the float trip. The afternoon is free to explore Arenal at your own pace. There are beautiful local hikes to waterfalls and along lava trails if you'd like to make the most of the surrounding nature, or those keen to relax can enjoy the hot springs in the area. Our tour leader will be able to provide information on all the options."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Drive to Monteverde Cloud Forest Reserve, night walk through the forest",
+      "description": ": Today we'll travel around Arenal Lake up into the cloud forest region of Monteverde - one of the most well-known places in Costa Rica to see wildlife. Perched on the Continental Divide between the Pacific and the Caribbean, it's thought that there has been indigenous habitation in Monteverde since 3000 BC. However, the turning point in its recent history came in 1950, when a group of pacifist Quakers from Alabama moved here to avoid subscription in the Korean War. They sought a lifestyle in a country in which they could embrace their peaceful beliefs and continue to cultivate their dairy farms. These families went on to establish the community of Monteverde and some of its famed cloud forest reserves. The drive to Monteverde will take approximately four and a half hours from Arenal. On arrival, you're free to enjoy one or several of the many optional activities available in the area. One of the most popular activities is to walk the hanging bridges that extend over the reserve, giving you the chance to get a bird's eye view over the canopy. Couple this with the thrill of zooming through the trees on a zip wire and it makes for an exhilarating afternoon. For something less adrenaline-filled, you could choose to visit the local butterfly or orchid garden. This evening, we'll have a guided night walk in the cloud forest, in search of nocturnal species such as pacas and tarantulas."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Drive to Manuel Antonio National Park",
+      "description": ": We'll leave Monteverde by mid morning. If you'd like to pack in more nature before we leave, there's the optional activity to revisit the cloud forest reserve in the early morning. The paths here wind their way through gigantic ferns, underneath the lichen and moss that hang from the giant trees. The famous, but now very rare, quetzal is commonly seen in this area, one of the last remaining places in Central America where its habitat has been preserved. Sacred to the ancient Maya and Aztec peoples, it's considered one of the most beautiful birds in the world and the best time to see it is during its breeding months of March and April. Leaving the cloud forest behind us, we'll descend to the Pacific Coast, enjoying staggering views over the Gulf and Peninsula of Nicoya. Heading south, we'll cross the Rio Tarcoles Bridge, from which huge crocodiles are regularly seen. We'll stop for a short walk in the Carara Biological Reserve, famed for the scarlet macaws and abundant birdlife which populate this transitional forest. Finally, we'll continue along the Pacific Coast to Manuel Antonio National Park, where we'll spend the next two nights. Our journey time today will be approximately four hours."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Explore Manuel Antonio's wildlife and beaches",
+      "description": ": Manuel Antonio National Park is famous for its beautiful beaches and rich wildlife. We'll spend the morning exploring the park, where white-faced capuchin monkeys swing from the trees, and poison-dart frogs hide under the protection of lush tropical plantlife. Coatimundi (part of the raccoon family), tiny squirrel monkeys and howler monkeys also make their home in the park - we might spot them on our exploration. Manuel Antonio is also one of the best places in Costa Rica to see sloths. As their diet of leaves and buds gives them little energy, sloths move only when necessary and even then very slowly, making them very easy to spot! Our guides will know where they are most likely to be found. The remainder of the day can be spent relaxing on the white sandy beaches and enjoying a swim in the warm azure waters. The sunsets from this coast are spectacular and have to be seen to be believed. It's worth noting that, whilst beautiful, Manuel Antonio is an increasingly popular destination and so might be busier than you'd expect. Please note that Manuel Antonio National Park is closed on Tuesdays. If Day 6 of your departure falls on a Tuesday, our included park visit will take place on Day 7 instead."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Free morning in Manuel Antonio National Park, return by vehicle to San Jose",
+      "description": ": This morning is free to relax in Manuel Antonio. You could choose to revisit the park (depending on the day of the week) or relax on the beaches around the town. Around midday, we'll leave the Pacific Coast, driving back inland to San Jose - around a four to five hour drive."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Trip ends in San Jose",
+      "description": ": The trip ends this morning at our hotel in San Jose. There are no activities planned today, so you're free to depart at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from Juan Santamaria International Airport (SJO), approximately a 30-minute drive from our hotel."
+    }
+  ],
+  "map": ""
+}

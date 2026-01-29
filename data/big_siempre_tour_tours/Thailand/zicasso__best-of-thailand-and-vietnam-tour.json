@@ -1,0 +1,90 @@
+{
+  "destination": "Thailand",
+  "mainPhoto": "",
+  "id": "best-of-thailand-and-vietnam-tour",
+  "tourName": "Best of Thailand and Vietnam Tour",
+  "placesVisited": "Hanoi, Â Â Hue, Hoi An, Bangkok, Ayutthaya, Khao Yai, Halong Bay",
+  "generalInfo": "Vietnam and Thailand both abound with stories and mysteries that continue to unfold. With landscapes of karst and caves, ancient temples of meditative bliss, enigmatic backstreets of sizzling food and unknown art all around, your eyes will struggle with where to look as you take it all in. Unwrap the secrets on this two-week insiders’ tour with superb local guides leading you through seven idiosyncratic destinations. Including two luxury cruises, this is a journey of history, heritage, wild landscapes, and cultural connections.",
+  "durationDays": "15",
+  "price": "4,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Hanoi – Touching Down in Vietnam",
+      "description": "When you touch down in Hanoi, a plane makes a lighthearted introduction as the remains of a MIG jet fighter strewn beyond the runway is one of the first things you will see. As you venture into Hanoi with your local guide, the narrative goes far beyondjust period in history as rice noodles simmer on fragrant market-stalls, elegant architecture speaks of a much older past, and Hanoi’s Old Quarter is a great place to soak your senses into what the city is all about. Nothing specific is planned for the day, so you can see how you feel upon arrival your guide will be able to customize your plans accordingly."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Hanoi – Locals and Legends of Hanoi",
+      "description": "Motorcycles beep their way past as locals perform tai chi around Hoan Kiem Lake. Cafe terraces peer out onto everyday life as you enjoy diving into a deeper exploration of Hanoi with a journey into its quirks as presented by the locals. Listen to stories from local traders, take a walk down Soviet lanes, and then share a bowl of pho with a decorated Vietnamese fighter pilot. These local encounters help to narrate a county’s history that is often misunderstood and gives you insight into a city that is proud to protect its tradition. Of course, along the way, you will see places as well, like temples and pagodas, parks and places where the history was written."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Halong Bay – Sailing the Bay of the Descending Dragon",
+      "description": "The world called it a new seven wonder, but the locals call it the Bay of the Descending Dragon. You probably know it as Halong Bay, and it is a place that never looks real as a face of limestone teeth rises from the ocean with so many jagged peaks and islands. Most mornings these emerge from the mist, an iconic experience as you spend two nights on a luxury houseboat. You will cruise around and travel through the karst landscape as the panoramas seem to keep stretching forever. Disembark at caves and descend into a murky underworld. You can kayak, or take a tender boat, to small sandy islands and drift past floating villages. One day of cruising gives you a sense of the landscape, but two days allows you to fully explore as Halong Bay stretches for many hundreds of square miles. After the flight to Vietnam and the continual impressions of Hanoi, Halong Bay is also a place where you can unwind and ensure that you are rested for the journey that is yet to come. Sit back on the deck as sunset colors bounce off the limestone. Take breakfast on the deck, your boat enjoying solitude between the karst peaks. Stand outside and feel the wind past your ears as you travel by wind power, the houseboat using both sail and motor to travel around."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Hue – Imperial Histories and Regal Tastes",
+      "description": "Hue really suffered during the war with the imperial capital decimated during the Tet Offensive. However, it has since been revitalized, and the city has retained the grace of a past era. After the drive back to Hanoi you will fly south to Hue, and have some time to explore the city at leisure. Hue is a good place to form your own impressions before your local guide takes you into the rich history. The late afternoon is when the city really comes alive, and that is when you can go walking with your local guide to see the remains of a time before war and buildings that have risen from the ashes."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Hue – Tombs, Pagodas and the Tet Offensive",
+      "description": "Along the Perfume River you will travel with stops to admire the tombs of Tu Duc and Khai Dinh, with such elegance in their design. At a small pagoda, you can meet local monks and spend time discussing the country’s past and present. You will then see what has been left behind in what used to be known as the Forbidden Purple City, and there will be the chance to see where the battle-lines were drawn during the war. Hue is a changing city, and there is beauty to be found in places where you may not expect it, particularly as Hue makes its own transition into the 21st century."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Hoi An – Emerald Landscapes and Waterside Bliss",
+      "description": "Vietnamese landscapes often appear as if from a dream, and now your eyes can drink in a patchwork of rice paddies and villages above the South China Sea. The drive from Hue to Hoi An is perhaps the most impressive of any in the country, especially as you are able to traverse Hai Van Pass which is generally closed to traffic. Stop at villages and a lagoon on route, and then enjoy a local seafood lunch before rolling into Hoi An, the country’s cutest city. Fully protected as a World Heritage Site, the old city center is the perfect place for strolling at leisure. Stop on the cafe terraces, explore the shops, take a look in the market and go down to the waterfront, where your hotel is perched amid the history. Wake the next day and go around with your local guide, and once again it is the people that best tell Vietnam’s story. There is an option to travel by bicycle as well, which can take you out along the city’s surrounding fields and canals, where basket boats and bamboo furniture are part of the experience. As part of these two days, expect to try plenty of Vietnamese coffee, savor some of the country’s best local delicacies, and meet the people that make Hoi An tick—the chess players and the craftsman, the antique restorers and the carpenters, artists and chefs."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Bangkok – City Colors and Cultural Idiosyncrasies",
+      "description": "Flying away from Vietnam you will soon touch down in Southeast Asia’s bustling hub, Bangkok. Bangkok is full of hidden charm and redolent scenes, and the streets are very different to those of Hue. Tuk-tuks honk, lights flash and people rush by, yet beneath what initially feels like chaos is a world of local sights and flavors. Like Hoi An, late-afternoon to evening is the best time to soak your senses into what is happening. Set out on a private orientation tour, starting in the oldest parts of the city and then driving past the illuminated Grand Palace to Ratchadamnoen Avenue. Sit down at a famous Bangkok restaurant and look out on the city, stroll the flower market and listen to the excited chatter that overflows from the stalls. Return to your hotel along the river, lights flashing all around before they subside and the silence of your riverside hotel takes over."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Bangkok – Floating Markets and Stunning Sights",
+      "description": "Including both the famous and the unknown, today’s tour will sink your senses into the metropolis. Join monks at Wat Saket, listening to their soft changing as incense spills into the air. Give alms before admiring the temple’s gold-gilded monuments and checking out the view. With a drive through old Bangkok, you can stop at hidden temples and Wat Ratchabophit before visiting an old Taoist temple where the Chinese community comes to pray. Later on, you will see the Grand Palace before heading out of the city to a floating market, where flowers fill the boats and that telltale sound of nattering traders fills the air."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Ayutthaya – Cruising Through Rural Thailand",
+      "description": "Move next into rural Thailand, a houseboat taking you away from the bustle of Bangkok. The cityscape gives way to rolling countryside, skyscrapers disappear and are replaced by teak houses, temples rise on the riverbank as vestiges to the past. Stop at the Temple of Dawn, explore the royal boat collection at a large museum, and watch life unfold along the riverbank as you drift up the river towards Ayutthaya. Villagers wash and play in the river, children wave as you pass, and you simply drift on by. The houseboat docks outside Wat Bang Na temple, and your dinner is served on the deck, surrounded by sunset and a sense of history."
+    },
+    {
+      "dayNumber": "12",
+      "title": "Ayutthaya – Amid the Ancient Siam Capital",
+      "description": "Ayutthaya dates back to 1350 but has mostly been abandoned since the 18thcentury, when war with Burma meant it was no longer Thailand’s capital. The ancient temples are ready to be explored today, but only after you meet with the monks of Wat Bang Na for a blessing to future journeys. Many of the temples have been carefully restored, and it is easy to lose yourself in all the details, although some prefer the handful of temples still left in a state of ruin. Relive ancient history with your guide, and then spend the night back on board, the boat moored beside another temple, Wat Niwet Thammaprawat. Dinner is a regal affair, including many of the dishes from Ayutthaya’s time."
+    },
+    {
+      "dayNumber": "13",
+      "title": "Khao Yai – Buddhist Temples and Thai Vineyards",
+      "description": "There is plenty of time to explore more temples this morning, beginning with Niwet Thammaprawat, which was inspired by European Gothic styles. The royal mansions at Bang Pa-In palace blend European, Chinese and Thai influence, and you will enjoy them all. Traveling onwards, you will find one of Thailand’s lesser-known stories, its vineyards. These are the country’s best, and you will wander the vines, before tasting with sweeping views towards Khao Yai, today’s final destination. At a lodge amid the trees you hear monkeys and gibbons, perhaps even spot them swinging past. Hornbills bellow while the call of crickets swings into the night. The next two nights are spent in a quiet lodge on the edge of the national park, surrounded by a part of Thailand very different to what you’ve experienced before."
+    },
+    {
+      "dayNumber": "14",
+      "title": "Khao Yai – A Day in Khao Yai National Park",
+      "description": "Rounded prints suggest elephants wandered past as gibbons call from high in the treetops, their shout echoing between the trees. Other primates are here, shouting and sending their messages into the wild. Take a walk through the forest in search of the wildlife before continuing by car through the park, Heaw Suwat Waterfall a place for a picnic with a view. The park’s second highest peak can also be reached by road, and it provides a view that seems to stretch all the way to Bangkok. Later in the afternoon, you will be back at the lodge to enjoy the spa, and then after dinner, finish with a visit to a salt lick to watch and wait for the wild elephants to wander by playfully."
+    },
+    {
+      "dayNumber": "15",
+      "title": "Bangkok – Departure",
+      "description": "Coming out of the park, beneath the calls of monkeys, you will return to Thailand’s main roads and transfer to Bangkok. You will be dropped at the international airport for your homebound flight, taking back memories of the best of Thailand and Vietnam."
+    }
+  ],
+  "map": ""
+}

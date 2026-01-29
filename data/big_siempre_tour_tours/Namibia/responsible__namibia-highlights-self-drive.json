@@ -1,0 +1,75 @@
+{
+  "destination": "Namibia",
+  "mainPhoto": "",
+  "id": "namibia-highlights-self-drive",
+  "tourName": "Namibia highlights self drive",
+  "placesVisited": "",
+  "generalInfo": "Namibia is one of the most fascinating and varied countries in Africa and this self-drive trip includes many of Namibia's highlights, from the iconic towering dunes of the Namib Desert to the wildlife eden of Etosha National Park. <br/><br/>Whether you are seasoned safari-goers or it is your first foray to the continent this trip has something for everyone and it can be adjusted to suit all, from families with young children to honeymooners and everyone in-between. <br/><br/>Everything we do is completely tailor-made, so this itinerary is not set in stone, we will adapt and tweak the itinerary based on your preferences and interests. However, this itinerary is a great starting point including a range of accommodation that just gets better as the itinerary progresses. <br/><br/>The 11-night trip starts with an overnight in Windhoek, before travelling south-west to the famous dunes of Deadvlei and Sossusvlei and then driving to the coast. From Swakopmund you will start to focus on wildlife with two nights in Damaraland, searching for desert elephants and then to Etosha for three nights to search for lions, leopards, cheetah and many other animals. The final stop is the Okonjima Nature Reserve for a final night before you travel back to Windhoek.",
+  "durationDays": "12",
+  "price": "3325",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Namibia and meet a private transfer to the comfortable Elegant Guesthouse in the suburbs of Windhoek. Your hire car is a robust Toyota Hilux 4x4 (or similar) and this will be delivered to your guesthouse this afternoon."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Start your self-drive adventure as you drive to the famous Namib-Naukluft National Park, home to Sossusvlei and Deadvlei for two nights at Desert Homestead Lodge."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Explore Namibia's iconic dunes and salt pans today. It is easy to explore independently or you can book onto a guided trip with the lodge."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Cross the Namib Desert to the coastal town of Swakopmund today and check-in to the homely Cornerstone Guesthouse for two nights."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "There is lots to do in Swakopmund, so you may like to add-on an activity such as quad-biking across the dunes, a boat tour, bird-watching trip or kayaking excursion. We will discuss this with you during the booking process."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Travel inland to the stunning Damaraland region where you are staying at Camp Kipwe for two nights. Your activities are included, so be sure to arrive in time for an afternoon activity."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Enjoy a full day on safari from Camp Kipwe searching for the famous desert elephants iconic to this area."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Travel today to the premier wildlife watching destination of Namibia - Etosha National Park - spend three nights at Etosha Oberland on a full board and drinks basis."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Travel south towards Windhoek and spend the night at Okonjima Nature Reserve, staying for a night in their plains camp. This afternoon a leopard tracking excursion is included."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Travel back to Windhoek Airport in time for your flights home."
+    }
+  ],
+  "map": ""
+}

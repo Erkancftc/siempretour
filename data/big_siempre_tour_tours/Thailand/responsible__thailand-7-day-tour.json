@@ -1,0 +1,60 @@
+{
+  "destination": "Thailand",
+  "mainPhoto": "",
+  "id": "thailand-7-day-tour",
+  "tourName": "Thailand 7 day tour",
+  "placesVisited": "",
+  "generalInfo": "This 7-day Thailand tour captures the country’s ultimate highlights – follow the popular backpacking path, experience the buzzing energy of Bangkok on a night tour and immerse yourself in local life with a homestay in Chiang Mai. Walk alongside gentle giants during an elephant observation experience, and explore the spiritual heart of Thailand with a visit to a Buddhist temple. Whether it’s your first visit or a return adventure, this trip promises an unforgettable journey through Thailand!<br/><br/>Included in all tours: <br/><br/>An epic Adventure Leader, aka a local legend, to turn your trip into the adventure of a lifetime <br/>All local transport within Thailand <br/>Accommodation (including hostels, one local homestay, &amp; one sleeper train) <br/>Meals provided: 4 breakfasts, 2 lunches, &amp; 2 dinners <br/><br/>Accommodation style: <br/><br/>In true backpacking style, our accommodation is in shared, mixed-gender dorm rooms as standard on this tour. But if you’d prefer a little extra comfort and your own space to relax after an action-packed day, room upgrades are available. Please request this on booking.<br/><br/>Included in all tours: <br/><br/>Pre-departure briefing (Bangkok) <br/>Dinner &amp; Tuk-Tuk tour (Bangkok, Unmissable) <br/>Chiang Mai Homestay Experience (Chiang Mai) <br/>Monk chat &amp; Wat Doi Suthep visit (Chiang Mai)",
+  "durationDays": "7",
+  "price": "839",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Bangkok: Your Thailand adventure commences today! Upon your arrival in Bangkok, you'll rendezvous with your group and Adventure Leader, marking the beginning of an exciting two weeks ahead. Following your arrival, prepare for an evening filled with culinary delights aboard a tuk-tuk tour! Embark on a thrilling ride to a rooftop restaurant, where a plethora of tantalizing Thai dishes await your selection. After dinner, your tuk-tuk will whisk you away on a nighttime tour of Bangkok's iconic landmarks, offering mesmerizing views of the city under the stars. Conclude your first night with a visit to one of Bangkok's enchanting rooftop bars, providing a panoramic vista of the cityscape before retiring for the evening."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Bangkok: Begin your morning at your own pace, with the enticing option of joining a tour of the Old City, offering insights into Bangkok's illustrious history. This immersive experience will guide you through iconic landmarks such as Wat Pho, Wat Arun, and the majestic Grand Palace. Please note that if you opt for the Old City tour, you'll need to check out of your hostel before departing. Upon returning to your hostel, take a moment to refresh before we gather at the train station, poised to embark on our journey to Chiang Mai."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Chiang Mai: Upon your arrival at Chiang Mai station, a warm and hearty welcome awaits you at our overnight homestay! We'll swiftly transfer to the accommodation to drop off our luggage before setting off for an adventurous afternoon in the wilderness. Our journey will take us to the starting point of our jungle trek, where we'll embark on a 4-6km hike through the lush terrain. While the trek may span a couple of hours, fear not, as we'll pause for a refreshing break at a scenic waterfall, allowing us to fully immerse ourselves in the beauty of the jungle. Following our adventure, we'll return to our homestay to relish in a delightful evening meal together."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Chiang Mai: After bidding farewell to our homestay, we'll embark on an unforgettable adventure this morning—a half-day at an ethical elephant sanctuary! Here, you'll have the unique opportunity to observe these majestic creatures under the guidance of knowledgeable professionals. Learn about elephant behaviours and the sanctuary's dedicated conservation efforts in Thailand. You'll witness their playful antics in mud pits and even have the chance to assist in preparing treats for them. To top it off, we'll indulge in a delectable vegetarian buffet lunch on-site. There will always be a proximity of 10-15 metres from the Elephants in order to closely follow a more natural environment for the animals and without exploitation for tourism. Following our time at the sanctuary, we'll make our way back to the city where your luggage will be awaiting you at the hostel. As evening descends, you'll have the option to participate in either a cooking class or immerse yourself in the excitement of a thrilling Muay Thai show."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Chiang Mai: We'll kickstart the day with an enlightening Monk chat at the initial temple, followed by a scenic ride on public songthaews, those iconic Thai red trucks, to explore other captivating temples. After soaking in the spiritual allure of Wat Doi Suthep, we'll return to the hostel. For those craving an extra adventure, consider embarking on a trip to the breathtaking limestone Sticky Waterfall, accessible by a 1.5-hour ride on the charming songthaew."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Chiang Mai: Today offers a blank canvas for adventure, with an array of thrilling options to choose from. Gear up for an adrenaline-pumping Whitewater Rafting excursion, or test your mettle behind the wheel of an ATV. Alternatively, embark on another exhilarating trek through the stunning landscapes. If you prefer a more leisurely pace, explore the old town independently, with your leader on hand to offer recommendations. For a taste of local culture, meander through the bustling local market, brimming with souvenirs and delectable street food. The choice is yours!"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "It’s time to wrap up your incredible adventure! This morning, you’ll check out of the hostel and say goodbye to your travel crew. If you’re not ready to leave just yet, let us know – we can help arrange extra accommodation or transfers so you can keep exploring."
+    }
+  ],
+  "map": ""
+}

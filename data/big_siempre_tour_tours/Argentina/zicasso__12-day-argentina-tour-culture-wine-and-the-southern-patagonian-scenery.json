@@ -1,0 +1,85 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "12-day-argentina-tour-culture-wine-and-the-southern-patagonian-scenery",
+  "tourName": "12-Day Argentina Tour: Culture, Wine, and the Southern Patagonian Scenery",
+  "placesVisited": "Puerto Iguazú, Mendoza, El Calafate, Buenos Aires",
+  "generalInfo": "Absorb Argentina’s captivating culture, indulge in the sensational wines of the Mendoza region, and soak up the icy scenery of Southern Patagonia during this 12-day introduction to Buenos Aires, Puerto Iguazú, Mendoza, and El Calafate. Your travels will take you to the snowy southern alps beneath the Andes, the rolling jade vineyards cascading Argentina’s countryside, and the country’s spirited capital city for complete immersion in South America.",
+  "durationDays": "12",
+  "price": "4,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Buenos Aires - An Authentic Argentinian Family Dinner",
+      "description": "Your Argentinian adventure will begin where all things start in the bubbly South American country, in its capital city Buenos Aires, a top metropolitan attraction that introduces travelers to the unique Argentinian atmosphere, historic marvels, and exquisite culinary culture that you will have the pleasure of experiencing each day in the capital. After arriving at the international airport, you will transfer to your hotel to drop off your luggage and then join a local guide for an authentic Argentinian family dinner party showcasing the friendly nature of the culinary lifestyle through warm conversations and as you learn to fold an empanada."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Buenos Aires - Historic Charms at Beautiful Sites",
+      "description": "You may enjoy a fine cup of coffee as you tuck into an assortment of sweet breakfast pastry treats lathered in dulce de leche, a typical Argentinian caramelized source that is smeared on just about everything. After breakfast, a guide will meet you near your accommodation and lead you on a tour through the capital to the reflective sculptural petals of the Floralis Genérica and the colorful flower arrangements of Paseo El Rosedal. You will wander through the beautiful and historical green space before you continue to Recoleta, Plaza de Mayo, Casa Rosada, and other fascinating neighborhoods."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Puerto Iguazú - Escape to Argentina’s Natural Paradise",
+      "description": "A brief but brilliant stop in Buenos Aires will draw to a close as you savor a splendid breakfast spread from your accommodation’s terrace overlooking the action-packed neighborhood. You will then transfer to the airport and head for one of Argentina’s magnificent forested sanctuaries, Puerto Iguazú. The national park region boasts sensational sightseeing opportunities in an environment left to its own devices and teeming with wildlife as a result. You may spend your first afternoon and evening appreciating the far-flung charms of this secluded jungle paradise from your accommodation near the heart of the park."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Puerto Iguazú - See the Iguazú Falls from All Angles",
+      "description": "A guide will collect you in the morning and show you through the greenery to one of the new seven wonders of nature, Iguazú Falls. The falls themselves are the highlight of the tour and breathtaking views from lofty decks of the enormous sheets of falling water releasing thick mist into the sky will be the reward for your journey. Endless rainbows will form over the Devil's Throat, wildlife will wander the lower walkways, and jet boats will zip under the falls. An ecological train ride is also included in your tour to see the wilderness from a unique perspective."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Mendoza - Make Memories in Argentina’s Wine Country",
+      "description": "Argentina may not be the most notable wine destination on the planet, but the country is proving a strong contender as a flourishing wine producer thanks to the growing emphasis on the bountiful harvests of the Mendoza region. It is the heart of the country’s winemaking culture and you will have the pleasure of spending three days enjoying the views, wines, and history of the popular Argentinian city from a charming accommodation tucked away in a quiet neighborhood. Today, you may settle in and explore the lively streets around your accommodation to acclimate to the majesty of Mendoza."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Mendoza - All About Argentinian Wines in Mendoza",
+      "description": "Today’s activity is one for the books, and you will be seduced by the sensations of Mendoza’s wine culture from the moment you join your guide and take the twists and turns of countryside roads alongside sublime vineyards with towering peaks in the distance. Your travels will take you to boutique wineries with humble histories and powerful production processes that are the reason behind their prestigious bottles, well-established estates with some of the best views of the valleys around Mendoza, and tour the cellars where exquisite Malbec and Cabernet Sauvignons age to be opened at a later date."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Mendoza - One-of-a-Kind Mendoza Moments",
+      "description": "Mendoza’s wine heritage blends with its culinary heritage, and today you will explore the region’s connection to the local cuisine during a cooking class led by an experienced chef. Your day in the kitchen will be set amongst a productive vineyard that is the origin of a series of sumptuous wines. There are an array of signature dishes and specialties to prepare during your class, from the typically stuffed pastry known as an empanada to the staple steak sauce of chimichurri. Following your day cooking, you and your chef will tuck into your creations with a glass of wine."
+    },
+    {
+      "dayNumber": "8",
+      "title": "El Calafate - Argentina’s Icy City Below the Andes",
+      "description": "From the green pastures of Mendoza to the ice plains of El Calafate beneath the snowy alps of Southern Patagonia, your transfer this morning will share the incredible distinction in environments from one end of Argentina to the other. Beneath the powerful peaks of the Andes and surrounded by the rarely visited glaciers, your accommodation is a dream getaway from the hustle and bustle within one of the world’s most spectacular ice fortresses. Plenty of otherworldly outdoor adventures await, and you may enjoy a stroll to Laguna Nimez reserve after arriving to view flamingos, silvery grebes, black-necked swans, and more."
+    },
+    {
+      "dayNumber": "9",
+      "title": "El Calafate - Adventure to the Perito Moreno Glacier",
+      "description": "El Calafate is an entry point to the winter wonderland that is the Patagonia region sprawling the foothills of the world-famous Andes mountain range. Across the expanse of snowy plateaus and icy summits lies an impressive collection of glaciers and ice caves, namely the Perito Moreno Glacier. The glacier is an adventurer's surreal haven boasting sparkling glacial lagoons to cruise through, momentous icebergs that will crack and shift before your eyes, and sweeping snow plains painting the views in white and blue. The awe-inspiring tour will conclude in the early evening as the sun fades behind the snow-capped mountains."
+    },
+    {
+      "dayNumber": "10",
+      "title": "El Calafate - Horse Riding in the Los Glaciares National Park",
+      "description": "The high-altitude region surrounding El Calafate is mostly draped in snow and ice, but there are a series of towns and villages peppering the countryside that find themselves comfortably settled on green grass. One such site is a gorgeous Argentinian ranch where you will indulge in the regional cuisine and round up horses for a slow and stunning ride across the Rico River in the Los Glaciares National Park to viewpoints overlooking the postcard-perfect mountain scenery and picnic spots hidden beneath the shady trees."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Buenos Aires - Memories Beneath Southern Patagonia",
+      "description": "You will spend your morning beneath the icy summits of Southern Patagonia, an unbelievable backdrop to tours around the stunning landscape of El Calafate. You may use your free morning in the Patagonian region to explore as much as possible on your own, choosing from activities including hikes across the surreal grassy pastures of the Fitz Roy range and visiting a selection of culinary hotspots serving the finest Argentinian beef dishes smothered in tangy chimichurri, a traditional Argentinian sauce. In the afternoon, you will fly to Buenos Aires for your final evening in Argentina."
+    },
+    {
+      "dayNumber": "12",
+      "title": "Buenos Aires - Capital Dreams Before You Leave",
+      "description": "Waking up on your final morning in Argentina will be bittersweet. You will be thrilled to have had adventures in the country’s best destinations, visiting iconic landmarks and cultural sites; however, you will feel somewhat sad to be saying your farewells. Fortunately, you may spend your last morning absorbing the sensational Argentinian atmosphere from a charming café in Buenos Aires. After breakfast, you may stroll the streets to gather trinkets and tokens remembering your adventure before you return to your hotel and transfer to the airport."
+    }
+  ],
+  "map": ""
+}

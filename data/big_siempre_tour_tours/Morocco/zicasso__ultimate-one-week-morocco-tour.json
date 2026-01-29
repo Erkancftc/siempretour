@@ -1,0 +1,65 @@
+{
+  "destination": "Morocco",
+  "mainPhoto": "",
+  "id": "ultimate-one-week-morocco-tour",
+  "tourName": "Ultimate One-Week Morocco Tour",
+  "placesVisited": "Casablanca, Marrakech, Essaouira, Meknes, Erfoud",
+  "generalInfo": "This one-week tour shows you Morocco’s premier highlights, from the old souks and cities to the Sahara Desert and Atlantic coastline. This tour also includes private tours and five-star accommodations. Ride a camel through the Sahara Desert, spend two nights in Morocco’s most artistic city, and immerse yourself in the culture of Morocco’s must-see cities. Welcome to a country of enchantment, where every footstep leads you into an exotic history and narrative.",
+  "durationDays": "8",
+  "price": "3,000",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Casablanca – An Ancient City",
+      "description": "Casablanca mixes modern bustle with old-world insight, and it has more to offer than locations from the Casablanca movie. You will touch down after your flight and be met by a local guide. You will then transfer to the center and a luxury business hotel. Here, you can enjoy all the old Moroccan charm later in the trip. Today, you will settle in to something comfortable and rest after your flight. Your guide can lead you in the evening so that you can gasp at the scale and beauty of the world’s third-largest mosque."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Meknes – Inspired by Art",
+      "description": "Rabat is the smallest of Morocco’s imperial capitals; it is an old town of tradition that complements the city’s contemporary side. After a short drive from Casablanca, you will explore Rabat with a local guide before having lunch with a view over the streets. Meknes is the least known of the imperial capitals, especially in comparison to Fes. Regardless, Meknes is the most beautiful and authentic of them all. The entire city is a living art gallery that is packed with sculpted details, vibrant colors, expertly restored monuments, and some of the country’s best riads . After time to relax, you will have a complete Meknes city tour."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Meknes – The World’s Largest Walled City",
+      "description": "From Meknes, it is less than an hour to Fes and the exotic highlights of an enormous walled city. Once inside the walls, you can only continue on foot down a maze of narrow streets and alleyways. Stopping to see traditional tanners and artisans, you can really sense how life has not changed here. The city can be a feast for the senses, but it can also be overwhelming, which is why it is nice to visit Fes and then return to Meknes."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Erfoud – The Saharan Sand Dunes",
+      "description": "Today will be a full day by road to the Sahara Desert. Although it is a pleasant journey through the Middle Atlas, one week in Morocco requires more expedited travel. Therefore, you will fly to the Sahara Desert this morning in a light aircraft that can place you down next to the dunes and a waiting camel caravan. From the airstrip, you must ride on a camel, plodding slowly over the ridges to a place of solitude within the dunes. Your camp will be luxurious and private. This will be your chance to experience Saharan solitude."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Marrakech – An Old-World Atmosphere",
+      "description": "Sunrise is magical and well worth an early start in the Sahara, especially as a camel can take you on top of a dune. After breakfast and tea back at the camp, you must return from the desert. From here, you will travel by commercial flight to Marrakech. After your arrival, you will have the afternoon in Marrakech to wander through the ancient souks with a private guide. Nothing specific will be on the list for this afternoon’s tour, and your guide will try to introduce you to the city’s style and flavors. After dark, you can listen to a traditional storyteller weave his magic on the city’s main square."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Marrakech – Wonders of the Souks",
+      "description": "With a full day in Marrakech, you can discover the city’s different sides and perspectives. You can immerse yourself amid the smells of a souk, explore the old Jewish Quarter, and marvel at the scale of palaces and castles. You do not really need to venture beyond Marrakech’s old center today because there is so much to explore inside the city walls. Djemaa el-Fna is the place to be at sunset. For these two Marrakech nights, you will be staying in a converted palace hotel, which is a glorious place of intrigue."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Essaouira – Lounging on the Coast",
+      "description": "Completing your week in Morocco is a day and night on the Atlantic coastline in the enchanting town of Essaouira. This walled city hangs over ocean waves and remains a laid-back insight into another era. It does not have the same quantity of iconic sites like Marrakech, but there is a real charm to the town’s laid-back streets and ambiance. Part mystique and part music, Sufi drumming creates a connection to an unseen spiritual world. You can take part in drumming, and the focus for this experience is typically on creating a community atmosphere of Sufism that is dying out, but Essaouira is an important hub for the music."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Essaouira – Departure",
+      "description": "From Essaouira, it will be a 90-minute transfer back to Marrakech this morning. From Marrakech, you will connect with your international flight."
+    }
+  ],
+  "map": ""
+}

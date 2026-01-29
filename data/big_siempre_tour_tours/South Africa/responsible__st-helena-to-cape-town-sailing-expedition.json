@@ -1,0 +1,50 @@
+{
+  "destination": "South Africa",
+  "mainPhoto": "",
+  "id": "st-helena-to-cape-town-sailing-expedition",
+  "tourName": "St Helena to Cape Town sailing expedition",
+  "placesVisited": "",
+  "generalInfo": "St Helena to Cape Town: An Adventure of a Lifetime<br/><br/>Spend five unforgettable days exploring the magical island of St Helena, a subtropical paradise in the middle of the South Atlantic. YourSelf catering accommodation is included, giving you time to discover this remarkable place at a relaxed pace.<br/><br/>Highlights ashore include:<br/>Meeting Jonathan, the world’s oldest living land animal (a giant tortoise born in 1832!)<br/>Visiting Napoleon’s final resting place, where the exiled Emperor spent his last years<br/>Exploring coastal trails, snorkelling in warm waters, and enjoying the island’s famously welcoming hospitality<br/><br/>Ocean Passage: St Helena to South Africa<br/>When it’s time to leave, we sail west into one of the most remote stretches of ocean on Earth. The South Atlantic offers dramatic, exhilarating sailing conditions — long ocean swells, big skies, and an incredible sense of isolation. This is true bluewater passage-making:<br/><br/>Practice celestial navigation under vast starlit skies<br/>Experience life at sea far from land — perfect for mile-building and developing confidence in offshore conditions<br/>Embrace the rhythm of long watches, open-ocean wildlife encounters, and the satisfaction of a real ocean crossing<br/><br/>Duration: 3 weeks (including time  on St Helena)<br/>A genuine adventure of a lifetime — the kind of voyage few sailors ever experience.",
+  "durationDays": "21",
+  "price": "5995",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "St Helena (Island Exploration) Arrival & check-in at your island B&B (breakfast included) Optional island highlights: Visit Jonathan, the world’s oldest living land animal (over 190 years old!) Explore Napoleon’s House at Longwood and his final resting place Walk coastal trails, visit the coffee plantation, and enjoy snorkelling/diving in warm waters Meet the famously warm and welcoming St Helenians Evenings to enjoy local restaurants and the relaxed pace of island life"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Departure from St Helena Final provisioning and passage planning Set sail westward into the vast South Atlantic Ocean Establish watch systems and settle into life at sea"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "7–19 – South Atlantic Ocean Crossing 13 days at sea (weather dependent) Long-haul bluewater sailing: Atlantic swells, big skies, and dynamic conditions Sail training focus: Celestial navigation practice under star-filled skies Weather routing, trimming and reefing for heavy seas Offshore routines: night watches, helming, log-keeping Wildlife encounters: albatross, flying fish, dolphins — sometimes even whales in the deep ocean"
+    },
+    {
+      "dayNumber": 20,
+      "title": "",
+      "description": "Landfall in South Africa Approach the dramatic coastline of the Western Cape Navigate into Table Bay with Table Mountain rising ahead — one of the world’s most iconic landfalls Arrival into Royal Cape Yacht Club, Cape Town Skipper’s debrief and logbook sign-offs"
+    },
+    {
+      "dayNumber": 21,
+      "title": "",
+      "description": "Cape Town Trip ends after breakfast onboard Time to explore Cape Town’s highlights: the V&A Waterfront, Robben Island, or a celebratory wine tour in Stellenbosch"
+    }
+  ],
+  "map": ""
+}

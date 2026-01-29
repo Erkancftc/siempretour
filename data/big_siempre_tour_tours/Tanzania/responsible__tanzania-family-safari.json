@@ -1,0 +1,65 @@
+{
+  "destination": "Tanzania",
+  "mainPhoto": "",
+  "id": "tanzania-family-safari",
+  "tourName": "Tanzania family Safari",
+  "placesVisited": "Arusha, Tarangire National Park, Ngorongoro Crater, Serengeti National Park",
+  "generalInfo": "Your 8 day trip starts amid the lush coffee plantations of Arusha. Enjoy a complimentary upgrade to a suite and recover from your flight. Make sure to take advantage of a plantation tour before you leave. <br/><br/>Your first stop on your safari tour is Tarangire National Park. Famous for its enormous herds of elephants, you will have plenty of opportunity to catch sight of these majestic creatures. Your nights will be spent high in a baobab tree canopy in a luxurious tree-house style lodge. Next stop is Ngorongoro Crater, a natural volcanic basin which is teeming with wildlife. You have your best chance of spotting the Big Five here along with countless other animals and birds. <br/><br/>Finally you will head to the iconic Serengeti – the most famous of the African plains. Along the way you will stay in boutique accommodation, enjoy refreshing sundowners, visits to local markets and villages and embark on plenty of game drives.",
+  "durationDays": "8",
+  "price": "7198",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "On arrival in Arusha you will be met by your guide and taken to your hotel. Relax in your complimentary robe and slippers on your private sun terrace, take a dip or simply relax by the pool."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Before you leave the gateway to the national parks, you will have the chance to take a tour of the coffee estate and enjoy an alfresco lunch in its beautiful gardens before being flown to Tarangire National Park. The sixth largest park in the country is famous for its huge herds of elephant, tree climbing lions and majestic baobab tree. Keep your eyes peeled for zebra, wildebeest, giraffe and more on your afternoon game drive before checking into your incredible tree-house style lodge built into the canopy of the wonderful baobab trees. (B, L, D)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "A packed day of activities sets out to show you the wonders of Tarangire including game drives, a game-walk, a visit to a Masai Village, a relaxing sundowner atop Sunset Hill and a night game drive. (B, L, D)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "A morning game drive and picnic lunch takes you to the airstrip for your flight to Ngorongoro, one of the best places in Tanzania to see all of the Big Five. The wide crater floor at the foot of an extinct volcano consists of woodlands, lakes and open plains. Keep an eye out for the rare black rhino plus lions, elephants, hyenas, wildebeest and more. (B, L, D)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Time to explore the crater today so pack your camera for a full day of game drives and exploration, plus a picnic lunch. (B, L, D)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Spend the morning exploring the extensive grounds of your hotel with your guide because in the afternoon it is time to fly to the Serengeti. Arrive at your camp in time for a refreshing sundowner and spend the next two nights in a luxurious safari tent. (B, L, D)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "You have arrived at the famous rolling plain of the Serengeti. The sparse vegetation here allows for some of the finest wildlife viewing in the world. You have a full day’s game drive to make the most of your unforgettable surroundings with a bush lunch and an evening sundowner. (B, L, D)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Enjoy a guided walk along the banks of the Grumeti River before a game-drive on your way back to the airstrip. You have a day room available back in Arusha so that you can freshen up before your onwards flight. (B)"
+    }
+  ],
+  "map": ""
+}

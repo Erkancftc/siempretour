@@ -1,0 +1,50 @@
+{
+  "destination": "Iran",
+  "mainPhoto": "",
+  "id": "iran-tours-5-days",
+  "tourName": "Iran tours, 5 days",
+  "placesVisited": "",
+  "generalInfo": "This five-day tour is a favorable chance to see a good number of Iran must-sees. That would be the modern life of Iranians in Tehran, ancient history in Kashan, traditions in the historical village of Abyaneh, and the mesmerizing architecture of mosques in Isfahan. The adventure gets exciting with old-but-still-lively bazaars, delicious Persian cuisine, and interactions with locals. Though short, it is a life-long experience of the essentials of Iran.",
+  "durationDays": "5",
+  "price": "695",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Tehran --- Highlights: Airport pick-up | Tabiat Bridge: Tehran’s largest pedestrian overpass with modern architecture | Bame Tehran: A recreational place and a full view of the city at Tehran heights | Sa’adAbad Palace: A complex of palaces at Tehran’s foothills that used to be the summer residence of two Iranian dynasties | Welcoming Dinner: A recreational place and a full view of the city at Tehran heights"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Tehran --- Highlights: Golestan Palace: UNESCO World Heritage in the center of Tehran from the 18th century | Tehran Bazaar: The old maze-like market in the heart of Tehran. This 10-kilometer path is the best place to visit people closely | National Museum of Iran: The largest Museum in Iran with many treasures of Iran’s historical and ancient monuments | Treasury of National Jewels: One of the world’s famous collections of jewels and diamonds from Iranian dynasties | House Dinner: A different supper; a Persian meal in an Iranian home, together with an Iranian family in Persian style"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Kashan & Abyaneh --- Highlights: Borujerdi House: A vast mansion with full details of Iran’s traditional architecture which was once for a wealthy merchant | Tepe Sialk: An ancient site and one of the world’s oldest civilizations that dates back to 6000 BC | Abyaneh Village: A different stop at a historic red village; it is 2500 years old"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Isfahan --- Highlights: Naqsh-e Jahan Square: UNESCO World Heritage; the Iranian architecture landmark | Sheikh Lotfollah Mosque: An architectural masterpiece of Iranian mosques architecture and tilework from Safavid Empire in the 17th century | Shah Mosque: UNESCO World Heritage; an elegant iconic dome piercing the sky | Ali Qapu Palace: The official residence of Safavid Emperors with historically valuable paintings and mosaic work | Chehel Sotoun Palace: UNESCO World Heritage; A pleasant and freshening Persian Garden | Khaju Bridge and Si-o-se-pol Traditional Bridge: A walking tour of Zayanderud river and bridges, the spirited hangout of Iranians with songs and music"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Isfahan --- Highlights: Vank Cathedral: A splendid church in Jolfa, Isfahan Armenian neighborhood | Jameh Mosque of Isfahan: UNESCO World Heritage; one of the oldest preserved mosques in Iran | Drive to Tehran | Airport drop off"
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,45 @@
+{
+  "destination": "Vietnam",
+  "mainPhoto": "",
+  "id": "north-west-vietnam-tour",
+  "tourName": "North West Vietnam tour",
+  "placesVisited": "",
+  "generalInfo": "This is one of the most exciting and spectacular adventures in Vietnam’s mountains. The northwest is still very untouched by tourism and offeres a captivating blend of dramatic landscapes and colourful hill tribes. This adventure takes you through a stunning, remote regions on Vietnam.",
+  "durationDays": "5",
+  "price": "984",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Ha Noi - Ha Giang- Quan Ba (~ 450 km) We depart your hotel at 7.30, hitting the roads up North of Vietnam, stop en routes for some quick sightseeing and coffee breaks. Lunch stop in Tuyen Quang town before continuing to Tam Son hill town of Quan Ba, arrive into town around 17.30 to 18:00. Dinner & sleep at the homestay nearby Tam Son town. Inclusion: Transfer, guide, permit, lunch, dinner & homestay"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Dong Van – Meo Vac – Bao Lac (~ 100 km) Enjoy your morning walk on your own in town of Dong Van, breakfast at 9:00 then departure for another paradise visit today via Geography Park of Dong Van, Ma Pi Leng peak, Nho Que river, Meo Vac town and meeting with lots of hill tribes en routes. Lunch in Meo Vac before we head to Bao Lac town for the evening, arrive in town around 5pm. Dinner and sleep in the guesthouse. Inclusion: Transfer, guide, permit, all meals & guesthouse"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Bao Lac – Ba Be (~ 180 km) Breakfast at 7.00 then depart Bao Lac for Ba Be lakes today, it will be a longer driver than yesterday but also worth it with wonderful sightseeing of mountains and rural villages. Lunch en route and continue hitting the roads to Ba Be, we will be arriving to the lakes around 14:00. Check into the homestay then we will do the boat trip for 2 hours along the lakes. Dinner and sleep in the house on stilts of the Tay people. Inclusion: Transfer, guide, permit, all meals & homestay"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Ba Be – Tea plantation then onto Hanoi (~ 250 km) Early risers can capture with lots of good photos of the local life. breakfast served by the local at 7:00. Check-out and say goodbye to our host family by 08:00, riding toward a tea plantation for a quick visit, lunch at a local house, enjoy their homemade tea and ride back to Hanoi. We arrive back to your hotel around 16:00. Trip ends here. Inclusion: Transfer, guide, breakfast, lunch."
+    }
+  ],
+  "map": ""
+}

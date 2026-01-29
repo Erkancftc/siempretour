@@ -1,0 +1,105 @@
+{
+  "destination": "Egypt",
+  "mainPhoto": "",
+  "id": "family-holiday-to-jordan-and-egypt",
+  "tourName": "Family holiday to Jordan and Egypt",
+  "placesVisited": "",
+  "generalInfo": "Egypt and Jordan are home to some of the most incredible sites anywhere in the world, a treasure trove of ancient cities, dramatic temples and vast tombs. Who can fail to be awed by the majesty of the Pyramids, the looming columns of Karnak Temple and the carved facades of Petra?<br/><br/>There is also a remarkable variety of scenery ranging from the lush fields that line the banks of the Nile to the huge sandstone outcrops of Wadi Rum and the stunning mountains of the Dana Nature Reserve. Explore these fields on the back of a sturdy donkey as it slowly plods its way towards the Valley of the Kings or from the deck of a felucca as you glide along the Nile; admire the rocky majesty of Wadi Rum from the back of a (burping grumpy) camel as it ambles through the desert; be awed by the mountains of Dana as you follow quiet paths on a hike through the nature reserve. <br/><br/>Jordan and Egypt are also home to some of the most friendly people in the Middle East and you will be welcomed with open arms throughout your stay. Combine this with delicious food, pretty much guaranteed sunshine for most of the year, and very competitive prices, and you could just have your perfect family holiday!",
+  "durationDays": "16",
+  "price": "4000",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "CAIRO Arrive in Cairo where you will be met by one of our representatives and transferred to your hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "CAIRO After breakfast, take a morning guided tour of the Egyptian Museum in Cairo. Children will love becoming explorers as they see for themselves many of the treasures they have learned about in school. Tutankhamun is the hit of the day, as they get up close and personal with the ghoulish yet mind boggling mummified remains of some of Egypt’s most famous pharaohs. After lunch your guide will take you to the Pyramids of Giza, one of the ancient wonders of the world, and a true highlight of the tour."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "CAIRO Today you shall visit the Citadel. Home to a The Mosque of Muhammad Ali, Citadel’s grandeur offers an opportunity for the perfect holiday snapshot. Meander through the backstreets of Cairo to the magnificent Khan El Khalili souk, an Aladdin's Cave selling beads, embellished robes, slippers, trinkets, spices and lanterns. As the day comes to a close, continue your tour by taking the overnight train south to Aswan."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "ASWAN Welcome to Aswan, a beautiful tranquil town spread along the banks of the Nile. After time to splash water on your face and change your threads, you will hop aboard a boat to visit the impressive ruins of Philae Temple, situated on an island top. As the afternoon sun creates shadows on the temple walls, you will cross the Nile to the west bank and will ride camels through the desert to the 6th century monastery of St Simeon. In the evening join a local Nubian family for dinner at their home."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "ASWAN Spend a leisurely morning at your accommodation, relax or enjoy a dip in the pool. By noon, board your felucca and start cruising up the Nile towards Luxor. Spend the night on board the felucca accompanied by local Nubian sailors. Become the captain of your own destiny as you try your hand at the tiller or just lie back, relax and watch the world go by!"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "FELUCCA CRUISE - LUXOR Rise with sun and watch as it unveils the beauty of the Nile. Continue by road to Luxor, stopping along the way at the picturesque temples of Kom Ombo and Edfu, perched on the banks of the Nile."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "LUXOR Rise with the sun as you journey on across the Nile to meet the trusty donkeys that will be your transport for the morning! Hop onboard as you prepare to ride through the local villages and past fields of sweet sugar cane to the Valley of the Kinds, where the Pharaohs of Ancient Egypt were buried in intricately painted tombs. Once here, you will visit the impressive Hatshepsut’s Temple, the Colossi of Memnon and Deir El Madina. It is here where ancient workers lived and worked; building their own tombs alongside those of the Pharaohs."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "LUXOR – AMMAN Children will love taking a morning ride in a horse drawn carriage to Karnak Temple, just outside Luxor. The temple itself is magnificent and very extensive; the perfect place to brush up on your Hide and Seek skills. Later you will be transferred to Luxor airport for a flight back to Cairo and on to Amman."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "AMMAN Continue your tour north of Amman to the Roman ruins of Jerash. Children will become explores for the day as they clamber on the perfectly preserved ruins and look for treasure among the outlying areas of the site. Later, will also be treated an exciting re-enactment of Roman chariot races and gladiatorial contests. Drive into the hills for a picnic lunch before visiting the beautiful and largely undiscovered crusader fortress of Ajlun. With winding staircases and hidden dungeons, the children will be thoroughly entertained."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "DEAD SEA – SHOBAK Today you will journey to the Dead Sea, the lowest place on earth. Swim in the buoyant waters or unwind with a relaxing body mask plucked from the Dead Sea Mud, repute to be packed full of beneficial minerals that rejuvenate the skin. Once dried off, continue to Shobak where you will stay in a hotel complete with fabulous views over the crusader castle."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "SHOBAK - DANA NATURE RESERVE After breakfast take time to explore Shobak Castle before transferring to the Dana Nature Reserve. The rest of the day is free for you to explore on your own time. Capture the stunning views or pop on your hiking boots for a trek through the rocky reserve."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "PETRA Transfer to Petra and spend the afternoon peddling through the quiet streets of Little Petra, a scenic and tranquil oasis of dusted orange rock chipped at to create grand building fronts."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "PETRA A full day to enjoy the Nabatean ruins of Petra. The ruins are very extensive and the children will love exploring the more remote parts of the site, clambering up to little-visited caves and following small tracks through the desert."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "WADI RUM Journey to Wadi Rum where you will take an exciting 4×4 jeep ride deep into the sun blessed desert. The massive rock outcrops take unexpected forms as they are Chipped at by the wind into weird and wonderful shapes. For the film buffs among us, you may recognize your surroundings as Lawrence of Arabia was filmed here."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "WADI RUM - AQABA Take a brisk camel ride in the early hours through the desert before transferring to Aqaba. The rest of the day is free for you to relax or perhaps try out one of the many diving/snorkeling centres in Aqaba where you can make a splash in the Red Sea as you spot the rainbow coloured fish and coral beneath you."
+    },
+    {
+      "dayNumber": 16,
+      "title": "",
+      "description": "AQABA - AMMAN A second free day to experience the Red Sea before you transfer back to Amman for your flight home."
+    }
+  ],
+  "map": ""
+}

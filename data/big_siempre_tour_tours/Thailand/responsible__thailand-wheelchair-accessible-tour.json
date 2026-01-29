@@ -1,0 +1,60 @@
+{
+  "destination": "Thailand",
+  "mainPhoto": "",
+  "id": "thailand-wheelchair-accessible-tour",
+  "tourName": "Thailand wheelchair accessible tour",
+  "placesVisited": "",
+  "generalInfo": "This tour has been specifically designed for wheelchair users and all accommodations, transport and activities have been chosen and designed with this requirement in mind.<br/><br/>Visit some of Bangkok’s cultural highlights before heading to Ayutthaya, the former capital of Siam and now a UNESCO World Heritage Site. Explore the Historical Park and enjoy some of the best food in Central Thailand. At a learning centre outside of the city, learn about the sufficiency economy concept, as promoted by the late King, and which was designed to wean farmers off reliance on cash crops. Next stop is Kanchanaburi, with a stop at another local community in U-Thong to learn about their way of life. In Kanchanaburi, visit the famous Bridge Over the River Kwai and POW Cemetery. Before returning to Bangkok, spend a day at an elephant sanctuary to learn about the magnificent animals in caring environment without rides or circus tricks.",
+  "durationDays": "7",
+  "price": "75000",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival at Bangkok (-/-/D) Arrive in Bangkok and check in the Ramada Plaza Hotel, grand deluxe room. Day free until dinner at the hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Bangkok - City Tour (B/L/D) After breakfast, visit Wat Pho, the Temple of the Reclining Buddha and the nearby historical exhibition. Visit the Grand Palace in the afternoon. Dinner and overnight at the Ramada Plaza."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Bangkok – Ayutthaya (B/L/D) After breakfast, drive to Ayutthaya and visit some of the highlights of Ayutthaya Historical Park, including Wat Phrasi Sanphet, the most important temple in the Ayutthaya Kingdom. Being part of the Royal Palace complex, it was a Royal temple without resident monks. Lunch at a local restaurant and then visit Wat Phanan Choeng was founded shortly before the establishment of Ayutthaya as the Kingdoms capital. Its main building enshrines a huge, seated Buddha image, that is 57 feet tall an object of particular devotion to Thais of Chinese origin. Head to the Japanese Village and then check in to the Krungsri River Hotel in Ayutthaya. Time to relax before going out before going out in the evening to experience some of the best of Ayutthaya’s Street food at a local market."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Ayutthaya’s Highlights (B/L/D) After breakfast, drive to Bann Khorng Phor Sufficiency Economy Learning Center to learn Knowledge center based on “sufficiency economy philosophy” (SEP) created by the late King Bhumibol Adulyadej. The center puts emphasis on learning by doing in all its outdoor classrooms, providing hands on lessons on rice and vegetable farming and livestock farming such as goat, sheep, chicken, and fish. Visit Wat Mahathat, have lunch at a local riverside restaurant and then visit the Arts of the Kingdom Museum. Afterwards enjoy an invigorating massage given by local blind people. Dinner and overnight at the Krungsri River."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Ayutthaya - Kanchanaburi (B/L/D) After breakfast set off for the ancient city of U-Thong to experience life of a local community, see some of the archaeological finds, dating back centuries, that have been discovered in the area and then enjoy a typical village lunch prepared with organically grown local ingredients. Then, set off for Kanchanaburi Province. Visit the main POW Cemetery and the Bridge Over the River Kwai. check in to Plakan Resort."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Kanchanaburi – Elephant Haven (B/L/D) After breakfast, drive to Elephant Haven to spend some quality time with the elephants at this sanctuary for retired and rescued elephants. Elephants Haven is run with the support of the Elephant Nature Park in Chiang Mai and there are currently 6 elephants there living in some 20 acres of natural forested habitat with a small river running through it. There is no riding here, no circus tricks, just a caring environment for these magnificent animals. Learn how they are taken care of and about their complex social structure. Have lunch at the sanctuary and mid-afternoon return to the resort."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Kanchanaburi – Bangkok (B/-/-) After breakfast check out and return to Bangkok for departure flight."
+    }
+  ],
+  "map": ""
+}

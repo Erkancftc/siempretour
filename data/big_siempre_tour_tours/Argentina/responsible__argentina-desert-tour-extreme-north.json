@@ -1,0 +1,90 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "argentina-desert-tour-extreme-north",
+  "tourName": "Argentina desert tour, extreme north",
+  "placesVisited": "Buenos Aires, Salta, Cachi, Molinos, Quebrada de las Flechas, Quebrada de las Conchas, Quilmes, El Penon, Laguna Diamante, Galan Volcano, Antofalla, Salar de Arizaro, Laguna Lullaillaico, Tolar Grande, Humahuaca",
+  "generalInfo": "Enjoy the emptiness on this two week holiday in the north west of Argentina, travelling by 4x4 and plane to cover the vast distances. Desert enthusiasts will be in heaven on bumpy drives across the shimmering salt flats, past striking pumice rock formations at Piedra Pomiz and volcanoes like the Galan and Peinado Volcano. <br/><br/>From Buenos Aires you’ll fly up to Salta, your gateway to the north, and enter the world of ‘puna’ – high altitude desert. There are difficult roads and long drives, but you’ll be rewarded with remote, desolate valleys. <br/><br/>Argentina’s deserts are colourful. There are white sand dunes, sparkling salty plains, and the famous stripy hills, the Quebrada de las Flechas and the Quebrada de las Conchas, where layers of clay, chalk and ash create patterns that are almost too weird to belong to nature. When you reach the deserto del labirinto, you’ll find an orange desert surrounded by burnt red mountains, and on your way back to Salta you’ll stop at Humahuaca’s, to see the famous Hornocal mountain range, as colourful as a stripy blanket.<br/><br/>The culture up here that of ghost towns and little pueblas. Incan fortresses and Incan mummies add historic mystery to the journey. At Quilmes you’ll find the largest pre-Columbian archaeological site in the country, an impressive 30 hectare settlement among the hills. <br/>",
+  "durationDays": "14",
+  "price": "5299",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Buenos Aires - Arrive in Buenos Aires and transfer to the hotel. The rest of the day is free to relax or explore. Overnight Hotel Dazzler Recoleta or similar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Salta - Transfer to the airport and fly to Salta, in Argentina’s north west. The afternoon is free. Overnight Finca Valentina or similar. (BD)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Cachi - Molinos - Head out of Salta, travelling from the green jungle of the Yungas to the semi-deserted Calchaquí Valley, and crossing the Piedra de Molinos Pass at 3400 metres. We continue through landscapes dotted with guanacos and cacti, stopping at the colonial pueblos of Cachi and Molinos, where we end the day in a historic hotel which once belonged to a powerful landowner. Overnight Hacienda de Molinos or similar. (BL)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Quebrada de las Flechas – Quebrada de las Conchas - Travelling along a difficult road, we reach the southern part of the Calchaqui Valley, the land of the first Spanish settlers here. From here we enter the ‘quebrada de las flechas’, thousands of hills of chalk, clay and ash in the shape of arrows, then continue to the ‘quebrada de las conchas’ with its spectacular multi-coloured canyon. Overnight Cafayate Wine Resort or similar. (BL)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Quilmes – El Penon - Drive through the desolate valleys of Catamarca to the pre-Inca site of Quilmes, one of the most impressive archaeological sites in Argentina. From here take a stunning journey across the altiplano today on one of the less travelled routes, passing white sand dunes, volcanoes and lagoons to end in the small oasis of El Penon. Overnight Hostaria El Penon or similar. (BLD)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Piedra Pomiz – El Penon - From here continue to Piedra Pomiz, where a vast landscape of enormous pumice rocks confronts us, many up to ten metres high. Continue to the coloured mountains of Antofagasta de la Sierra and the coloured lagoon of Carachipampa, and return to El Penon. Overnight Hostaria El Penon or similar. (BLD)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Laguna Diamante – Galan Volcano - Head first to the Laguna Diamante, a vast high altitude salt lake home to large numbers of birds including flamingos. Moving on we reach the Galan Volcano, one of the largest calderas in the world, and explore the surrounding area. End the day in Antofagasta. Overnight guesthouse. (BLD)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Peinado Volcano – Antofalla - Head north to Peinado Volcano, one of the region’s prettiest, then cross the shimmering expanses of the Salar de Antofalla en route to the small oasis of Antofalla. Overnight guesthouse. (BLD)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Salar de Arizaro – Laguna Lullaillaico – Tolar Grande - Drive to the expanses of the Salar de Arizaro to see the Cono de Arita, a pyramid of black rock that is a striking contrast to the white salt flats. From here we climb up to the Laguna Lullaillaico, where the mummies of Incan children were found, and on to the ghost town of La Casualidad. On our way back to Arizaro we watch the setting sun change the colours of the mountains, then arrive in Tolar Grande. Overnight Casa Andina or similar. (BLD)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Tolar Grande - Spend the day exploring the area around Tolar Grande, on foot and by vehicle. We visit the ‘ojos del mar’, a series of blue holes in the midst of a white salt lake, and hike to a hidden sand dune for superb views of the surrounding area. In the afternoon we visit the old railway station of Caipe, and again enjoy a fantastic sunset on the way back to Tolar Grande. Overnight Casa Andina or similar. (BLD)"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Humahuaca - Salta - Drive through the impressive scenery of the Quebrada de Humahuaca to the village of the same name, and explore the surrounding area including the coloured mountains of Hornocal and the Pucara of Tilcara – a pre-Inca fortress. Finally we return to Salta, the end point of our expedition. Overnight Finca Valentina or similar. (BL)"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Buenos Aires - Transfer to the airport for a flight to Buenos Aires. The rest of the day is free. Overnight Hotel Dazzler Recoleta or similar. (B)"
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Buenos Aires - Transfer to the airport for your onward flight. (B)"
+    }
+  ],
+  "map": ""
+}

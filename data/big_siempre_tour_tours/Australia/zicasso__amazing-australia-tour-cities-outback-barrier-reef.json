@@ -1,0 +1,100 @@
+{
+  "destination": "Australia",
+  "mainPhoto": "",
+  "id": "amazing-australia-tour-cities-outback-barrier-reef",
+  "tourName": "Amazing Australia Tour: Cities, Outback, Barrier Reef",
+  "placesVisited": "Melbourne, Port Douglas, Uluru (Ayers Rock) & Kata Tjuta, Sydney",
+  "generalInfo": "This 15-day Australia tour combines the famous cities of the Land Down Under with its natural wonders and unique culture. This itinerary also allows time for attending Australian Open matches. The bustling metropolises of Melbourne and Sydney give way to the unique natural splendors of the Great Barrier Reef, Daintree Rainforest, and Uluru. Encounter Australia’s animals and experience the local Aboriginal culture during this immersive vacation down under.",
+  "durationDays": "15",
+  "price": "7,800",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Melbourne - Welcome to Melbourne",
+      "description": "Melbourne sits on the ocean and is widely considered Australia’s cultural capital. You will touch down in this magnificent city before your private transfer escorts you to your hotel in the heart of Melbourne. Here, you will spend your first five nights. The rest of the day will be at your leisure, so you can relax at your hotel while enjoying the wonderful amenities to help you overcome your jet lag. If you are feeling more adventurous, you can wander to the famous Flinders Street Station and Federation Square."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Melbourne - The Lanes and Arcades of Melbourne",
+      "description": "Feel free to sleep in on your first morning in Australia. When you are ready, your guide will meet you in your hotel's lobby for a morning tour. You will spend the next few hours exploring the hidden laneways and backstreets of this magnificent city. This tour will allow you to discover local designers, retailers, and cafes. You will then enjoy a bistro-style lunch accompanied by a glass of wine. The rest of your afternoon will be yours to visit your favorite shops or to return to your hotel so that you can relax by the pool."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Melbourne - Attend the Australian Open",
+      "description": "Today you will attend the Australian Open matches at your leisure after a comfortable breakfast in your hotel. When you are not at the tournament, you can explore more of Melbourne as you please."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Melbourne - Australia’s Wildlife and Yarra Valley",
+      "description": "After breakfast, your transfer will meet you outside your hotel and take you to the Healesville Sanctuary in the stunning Yarra Valley. Your guide will take you around this bushland wildlife sanctuary to view the most iconic of Australia’s wildlife, such as kangaroos and koalas. Afterward, you can enjoy lunch and a glass of wine at a vineyard that overlooks the valley. The rest of the afternoon will be spent at your discretion, whether it be sampling more of the local wine, tasting artisanal cheeses, or visiting the famous gin distillery."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Melbourne - Attend the Australian Open",
+      "description": "Today will be your last day in Melbourne, and you will again attend the Australian Open. Make sure to complete anything else that may be on your Melbourne bucket list before your departure tomorrow."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Port Douglas - A Quaint Beachside Town",
+      "description": "This morning, you will say goodbye to the bustling city as your private transfer delivers you to Melbourne’s airport for your flight to Cairns. Cairns is the gateway to the Great Barrier Reef. Upon your arrival, you will be whisked away to Port Douglas, where you will spend the next four nights at your beachside hotel. You will spend the rest of your day at your leisure, whether it be hopping in the waves or sipping a cocktail next to the pool. You can end your day by relaxing at the spa."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Port Douglas - Great Barrier Reef Cruise",
+      "description": "Today, you will finally visit the Great Barrier Reef, the world’s largest coral reef. Your cruise will depart in the morning. Depending on the time of year and weather conditions, you will visit an area on the outer edge of the Reef with the best visibility. Here, you can snorkel amongst the vibrant sea life before having lunch onboard the boat. After lunch, you can dive back in the water or stay dry to observe the view from onboard. Throughout your journey today, you will listen to a marine biologist describe the history of the Reef."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Port Douglas - The Daintree Rainforest",
+      "description": "This morning, you will head to Daintree National Park. Your first activity will be stepping aboard a boat to cruise underneath the luscious canopy. You should keep your eyes peeled for butterflies, birds, and crocodiles. After your cruise, you will venture into the heart of the rainforest. Here, you will have a guided walk that will show you the endemic flora and fauna in addition to teaching you about the Aboriginal culture. You will arrive at a secluded beach before enjoying lunch in the shadows of the giant trees. Lastly, you can enjoy a swim in the rainforest creek as you work your way back toward your hotel."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Port Douglas - A Day at the Beach",
+      "description": "After your action-packed previous couple of days, your final day in Port Douglas will provide you with an opportunity to unwind and bask in this slice of paradise. When you are ready, you can head into town to hang at the marina, spend the day golfing at a unique tropical course, or enjoy the wonderful amenities at your hotel. If you are feeling more adventurous, you can return to the Great Barrier Reef or Daintree National Park."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Uluru - Proceed to the Outback",
+      "description": "After breakfast this morning, you will be picked up to catch your early morning flight to Uluru, which is the iconic rock in the middle of the Outback Desert. After you have spent time exploring Uluru Kata Tjuta National Park, your afternoon can include wandering the hotel’s splendid gardens or strolling to the town. This evening, you will be picked up at your hotel for your remote desert dinner. As you enjoy dinner, you will view 50,000 glass spheres come to life as the sun sets. This will be followed by an indigenous performance."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Uluru - Marvel at the Desert Sunrise",
+      "description": "You will leave your hotel early this morning so that you can catch the colors of the desert as they change with the rising sun. After a breakfast spent watching the sun illuminate the landscape, your guide will lead you on a tour around Uluru and explain its spiritual importance to the locals. You will then stop by the Cultural Centre en route to the famous Kata Tjuta domes. Your guide will explain the significance of this ceremonial site as you encounter the unique flora and fauna. You can then spend the rest of the day relaxing after your early morning tour."
+    },
+    {
+      "dayNumber": "12",
+      "title": "Sydney - Australia’s Largest City",
+      "description": "You will spend your final morning in the desert enjoying the magical views of Uluru before catching your flight to Sydney, one of Australia’s most populous and diverse cities. Upon your arrival, you will be whisked away to your accommodation, which is equipped with a gorgeous view of Sydney’s skyline. After settling in, you can wander Circular Quay and get your bearings before grabbing dinner at one of the numerous restaurants the city offers."
+    },
+    {
+      "dayNumber": "13",
+      "title": "Sydney - The Famous Sights of Sydney",
+      "description": "After breakfast, your guide will pick you up at your hotel for a quick jaunt to the Sydney Opera House. You will hear a fascinating story about the history of this iconic building before attending a live performance. After this tour, you will board a yacht for your Sydney Harbour Cruise. Onboard, you can enjoy lunch as you sail past the Harbour Bridge and many coves of Sydney Harbour. The adventurous can swim, fish, or kayak while those who wish to relax can lounge on the deck, sipping a cocktail."
+    },
+    {
+      "dayNumber": "14",
+      "title": "Sydney - Eco-Tour in the Blue Mountains",
+      "description": "You will be picked up from your accommodation early this morning for a tour in the Blue Mountains. Your first stop will be the Featherdale Wildlife Park, where you will be able to get up-close to kangaroos, koalas, wallabies, and wombats. As you continue onward, you will view Kings Tableland and the Jamison Valley before stopping for lunch at a cafe that overlooks the mountains. Afterward, you will take a brief trek to Wentworth Falls and stop at Eagle Hawk lookout to view the famous Three Sisters."
+    },
+    {
+      "dayNumber": "15",
+      "title": "Sydney - Departure",
+      "description": "You will reminisce about all you have seen over the last two weeks while enjoying your final Australian breakfast. After checking out of your hotel, your private transfer will pick you and take you to Sydney’s international airport for your departing flight."
+    }
+  ],
+  "map": ""
+}

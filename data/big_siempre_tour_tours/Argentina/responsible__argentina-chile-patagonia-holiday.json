@@ -1,0 +1,85 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "argentina-chile-patagonia-holiday",
+  "tourName": "Argentina & Chile Patagonia holiday",
+  "placesVisited": "",
+  "generalInfo": "A trip to explore the Lake region of both Argentina and Chile. This circuit stretches west to east and back along the Andes, exploring primary forests,  lakes and natural hot springs. There are some fabulous drives across the Andes, both by lake and overland.  Available outdoor activities include bike, white water rafting, hiking and climbing snow-capped volcanoes. Your journey begins in the Chilean Lake Distric with a car rental. Set off to discover numerous national parks and active volcanoes. The winding scenic roads of the Lake District will offer a beautiful setting to your self-driving experience. Once in Argentina, you will drive along the famous Seven Lakes Route, zigzagging along glacier lakes, fringed with forests and mountain peaks. Back to Chile through the Andes, you will reach the beautiful lakeside town of Puerto Varas, with surprise views.",
+  "durationDays": "12",
+  "price": "1550",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly south to Temuco, in Chile’s Lake District, your rental vehicle will be waiting for you at the airport. Start driving to Melipeuco where you will spend the night in an Eco glamping lodge surrounded by native forest. > Transport: private transfer - 45min + Car rental > Accommodation: Hotel > Included meals: breakfast"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Visit the National Park of Conguillio with a vast forest of ancient araucaria (monkey puzzle) trees. The park’s real gem is the 3,000-metre Llaima volcano, a conical peak whose last major eruption in 2009 left behind a stark, lava-scarred landscape. > Transport: car rental > Accommodation: Hotel > Included meals: breakfast"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Drive to Pucon, a small tourist village on the shores of Lake Villarrica, at the foot of the volcano with the same name. Go canoeing on the placid waters of Lake Villarica. > Transport: car rental > Accommodation: Hotel > Included meals: breakfast"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Visit National Park Huerquehue, located about 20 miles from Pucon. Soak up the special atmosphere of an ancient Araucaria forest; appreciate these stunning trees commonly known as “monkey puzzle” and splendid lagoons. Araucarias are sacred trees to the Mapuche who harvest and use its seeds in the preparation of various traditional dishes. Optional: stay over at a Mapuche village > Transport: car rental > Accommodation: Hotel > Included meals: breakfast"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Drive south to Panguipulli. On the way, stop at several natural hot springs. Highly recommended the Geometricas Hot Springs, the result of an ambitious architectural project in harmony with nature. Optional: stay over at Huilo Huilo Natural Reserve > Transport: car rental > Accommodation: Hotel > Included meals: breakfast"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Visit the Huilo Huilo Natural Reserve, a private nature park rich in waterfalls and hiking trails. The reserve is home to trails ideals for hiking. Explore this flora and fauna diversity, including the endemic Hemul. > Transport: car rental > Accommodation: Hotel > Included meals: breakfast"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Today you will travel to Argentina. Reach the Hua Hum international border crossings taking you to San Martin de los Andes in Argentina, through stunning Andean landscapes. This crossing (673 mt high) is particularly picturesque, including boarding on a ferry across the glacial lake Pirehueico. > Transport: car rental > Accommodation: Hotel > Included meals: breakfast"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Day 9 Relaxing day in San Martin de los Andes, you can enjoy a walk around this laid-back lakeshore town in Lanin National Park. Also recommended is the Arrayan viewpoint which overlooks Lake Lacar and San Martin. > Transport: car rental > Accommodation: Hotel > Included meals: breakfast"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Start your day driving on the famous 7 lakes route, running south from San Martin de los Andes down to Villa Langostura. The Ruta de los Siete Lagos (7 Lakes Route) travels past seven main lakes that look spectacular amidst snow-capped mountains and forests. Running through both the Lanin and Nahuel Huapi National Parks, this route is completely paved. Overnight in Bariloche's forest. > Transport: car rental > Accommodation: Hotel > Included meals: breakfast"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Bariloche is also a good base for scenic lakeshore drives and your hotel is perfectly located nearby. Today we recommend you the Llao Llao peninsula with walking trails and picturesque drives around Lago Moreno. > Transport: car rental > Accommodation: Hotel > Included meals: breakfast"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Drive to Villa Traful, visit this little village, stroll along the lake shores or go hiking to the small Cao Cò falls, a nice trail under the shady trees of the forest (coihue and ñire). The drive is very scenic, through thick forest, strange rock formations and a beautiful scenery, bordering the Limay River. > Transport: car rental > Accommodation: Hotel > Included meals: breakfast"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Leave Bariloche to head to Puyehue National Park. You are now back in Chile. After passing border controls, you will enter the jungle-like landscapes of the Valdivian humid woodlands. Stop for lunch at the lakeshore town of Frutillar, with streets lined with flower gardens and perfectly-maintained wooden buildings and Puerto Octay, a charming town with a beautiful German-style architecture. Finally get to Puerto Varas on the shores of Llanquihue Lake. > Transport: car rental > Accommodation: Hotel > Included meals: breakfast"
+    }
+  ],
+  "map": ""
+}

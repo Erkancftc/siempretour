@@ -1,0 +1,45 @@
+{
+  "destination": "Uganda",
+  "mainPhoto": "",
+  "id": "luxury-gorilla-fly-in-safari-uganda",
+  "tourName": "Luxury gorilla fly in safari, Uganda",
+  "placesVisited": "",
+  "generalInfo": "This luxury gorilla-tracking safari takes you to the wild jungles of Uganda for a chance to see the endangered mountain gorillas.<br/><br/>Flying from Entebbe over the stunning Ugandan countryside, you will go to Bwindi Impenetrable National Park where you will track gorillas through the dense rainforest. Upon meeting the gorillas, you will spend 1 hour with them.<br/><br/>As part of this 4-day gorilla trip, you will also get to engage with and learn about the local people who live so close to the gorillas.<br/><br/>Take a look at the full itinerary for a more detailed idea of how such a safari would work for you. Keep in mind that our trips are highly customizable and we can adjust them to fit your specific needs.",
+  "durationDays": "4",
+  "price": "3650",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive at Entebbe International Airport and connect to your scheduled domestic flight to Kisoro Airstrip. Your driver/ guide will be waiting to welcome you at Kisoro Airstrip and take you on a scenic drive through the beautiful hills and local villages of Kigezi to Bwindi Impenetrable National Park. Accommodation: Gorilla Leisure Lodge Meal Plan: Breakfast, Lunch, and Dinner"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Today is the big day! Prepare yourself for an encounter with the gentle giants; the rare mountain gorillas. For most people, this is the absolute highlight of their tour. You will go into the forest in groups of not more than 8 in search of mountain gorillas. Enroute, your guide will point out previous signs of gorilla activity such as dung, nests, and chewed bamboo shoots. Your trek will be an exciting journey along forested slopes, entwined vines, bushes, and bamboo. Upon finding the gorillas, you will spend a maximum of 1 hour with them after which you will be led back to the starting point. Accommodation: Gorilla Leisure Lodge Meal Plan: Breakfast, Lunch, and Dinner"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "After breakfast, at your leisure, you will visit the Batwa and Bakiga communities for cultural and traditional experiences. Buy local crafts and experience traditional music and dance. Accommodation: Gorilla Leisure Lodge Meal plan: Breakfast & Lunch"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Early morning, after breakfast, your driver/guide will drive you to Kisoro Airstrip for your scheduled domestic flight to Entebbe Airport. At the airport, you will connect to your flight back home marking the end of your safari. Accommodation: None Meal plan: Breakfast"
+    }
+  ],
+  "map": ""
+}

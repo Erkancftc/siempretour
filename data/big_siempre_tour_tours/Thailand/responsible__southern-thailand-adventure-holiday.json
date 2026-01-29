@@ -1,0 +1,80 @@
+{
+  "destination": "Thailand",
+  "mainPhoto": "",
+  "id": "southern-thailand-adventure-holiday",
+  "tourName": "Southern Thailand adventure holiday",
+  "placesVisited": "Bangkok, Klong Klone Mangrove Forest, Kuraburi, Khao Sok River, Koh Surin, Khao Lak, Phuket",
+  "generalInfo": "This trip is a must for all those adventurous types out there! From the hustle and bustle of Bangkok to the remoteness of Khao Sok National Park, this tour takes you to the quiet jewels of the south while staying in some quirky accommodations. In Bangkok, spend a muddy day experiencing the Klong Klone Mangrove Forest and by night stay on the banks of the Chao Phraya River in the super eco-friendly Bangkok Tree House, a quiet oasis from which to explore this exciting city. <br/><br/>A Khao Sok Safari is one of the reasons people come to Khao Lak and is by far our most popular excursion. With repeat bookings year after year, the place always guarantees to amaze. This trip is everyone’s favourite, with lots of activities including elephant trekking (no riding elephants or tricks!) and canoeing. You can tour the river and see the limestone mountains, incredible rock formations and beautiful caves. <br/><br/>From here you will take a speedboat to the Surin Islands and then head out for your snorkelling adventure at Pakkard and Pae Bays. Not a snorkelling fan? Then you can also go nature trekking along the national park trails in Mai Ngam Bay. <br/><br/>End your adventure with 5 well deserved nights at the breathtakingly beautiful natural sanctuary of the Kantary Beach Hotel. Tucked away from the busy tourist spots of Phuket this elegant beach front hotel is located on one of the few remaining stretches of pristine beach in Phang Nga. <br/><br/>This trip aims to avoid some of the busier regions of the country to offer you a true 'off the beaten track' Thailand experience.",
+  "durationDays": "15",
+  "price": "1825",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Departure: Depart the UK and fly to Bangkok."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Arrive Bangkok: On arrival at Bangkok Airport, you will be welcomed by your local English speaking guide and transfer to the jetty where you will board a local public boat for short transfer to the resort on another side of the Chao Phraya River. This evening you may join a complimentary boat trip to see Fireflies - arranged by Bangkok Tree House."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Klong Klone Mangrove Forest: Experience an active and 'muddy' day trip starting at the Klong Klone Mangrove Conservation Centre. Learn about the mangrove eco-system and the local community revitalisation project before setting out by long tail boat to feed the crab-eating Macaques and witness the local way of life, collecting blood cockles using a mud sledge and catching catfish and krill to make shrimp paste. After lunch at a local platform cottage, help with planting mangroves and enjoy skiing by mud sledge. (B.L)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Bangkok - Kuraburi: This morning return to Bangkok Airport and take the short flight down to Phuket. On arrival you will be met and transferred to your hotel. Enjoy the afternoon at leisure. (B,D)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Kuraburi - Today you will depart from your hotel at around 08:30 for a full day with jungle and canoeing along the Khao Sok River. A Khao Sok Safari is one of the reasons people come to Khao Lak and is by far our most popular excursion. With repeat bookings year after year, the place always guarantees to amaze. This trip is everyone’s favourite, with lots of activities including hiking and canoeing. You can tour the river and see the limestone mountains, incredible rock formations and beautiful caves. (B,L)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Day at leisure to relax or explore your surroundings. (B)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Koh Surin: This morning you will be collected from your hotel for the transfer to the pier where you will register and choose your suitable snorkeling equipment. At around 9am you will take a speedboat to the Surin Islands and then head out for your snorkelling adventure at Pakkard and Pae Bays. Return ashore to the Surin National Park restaurant for lunch before more snorkelling this afternoon at Sapparto and Bon Bays. Tonight will be spent in your private tent on the beach at Surin National Park. (B,L,D)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Koh Surin: Following breakfast you will travel out by long tail boat to 2 wonderful snorkelling areas. Return to the National park restaurant for lunch. This afternoon you will head off to explore 2 more snorkelling sites before returning the park for your evening meal and overnight on the beach in your private tent. (B,L,D)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Today you will take breakfast before deciding on your morning activities which are either a traditional long boat to a snorkelling spot or nature trekking along the national park trails in Mai Ngam Bay. (B,L)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Khao Lak: Enjoy days at leisure relaxing at this beautiful. natural sanctuary. (B)"
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Departure: Transfer to Phuket Airport for your flight home. (B)"
+    }
+  ],
+  "map": ""
+}

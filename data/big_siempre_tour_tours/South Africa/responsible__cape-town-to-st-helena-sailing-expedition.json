@@ -1,0 +1,50 @@
+{
+  "destination": "South Africa",
+  "mainPhoto": "",
+  "id": "cape-town-to-st-helena-sailing-expedition",
+  "tourName": "Cape Town to St Helena sailing expedition",
+  "placesVisited": "",
+  "generalInfo": "Cape Town to St Helena: An Ocean Adventure Like No Other<br/><br/>This is not just a sailing trip — it’s an incredible ocean adventure designed to teach you everything needed to plan and complete a major ocean crossing. Led by an experienced skipper and first mate, the journey is as much about learning and exploration as it is about sailing.<br/><br/>Your adventure begins in Cape Town with Boat Prep at the Royal Cape Yacht Club. Here, you’ll gain hands-on knowledge in route planning, provisioning, safety at sea, and the practical skills required for a successful voyage.<br/><br/>From there, we sail up the coast of Africa to Lüderitz, Namibia. Along the way, you’ll have the chance to log your 60nm skippered passages if you’re working towards a qualification. During our stopover in Lüderitz, you’ll explore the remarkable desert ghost town of Kolmanskop and experience Namibia’s dramatic coastline.<br/><br/>Next comes the real adventure: a crossing of the South Atlantic Ocean to the remote island of St Helena. On arrival, you’ll spend five unforgettable days exploring this magical subtropical island, steeped in history and natural beauty. Accommodation with breakfast is included throughout your stay on the island.<br/><br/>Duration: ~4 weeks (including time on St Helena)",
+  "durationDays": "21",
+  "price": "5995",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Boat Prep: Royal Cape Yacht Club, Cape Town Welcome briefing & introductions at Royal Cape Yacht Club Safety orientation and boat familiarisation Passage planning workshop: weather routing, charts & tides Hands-on boat prep: rigging checks, equipment testing Evening: social dinner at the club Provisioning & stores management On-water training: manoeuvres, sail changes, watch systems Final prep checks & safety drills Skipper’s review of passage plan Free evening to enjoy Cape Town waterfront"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Ocean Passage: Cape Town - Lüderitz Departure from Cape Town Settle into watch system as we sail north along the Namibian coast Offshore sailing experience building Night watches, celestial navigation practice, logging qualifying passages"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Stopover in Lüderitz, Namibia Arrival in Lüderitz Explore the historic desert ghost town of Kolmanskop Shore excursions and rest Optional logbook passage sign-offs with skipper"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Ocean Crossing: Lüderitz to St Helena Depart Lüderitz for the open ocean Days 9-21 two weeks at sea crossing the South Atlantic Deep-ocean sailing: trade winds, long swells, wildlife encounters Hands-on experience with celestial navigation, weather systems, and ocean passage routines"
+    },
+    {
+      "dayNumber": 21,
+      "title": "",
+      "description": "Arrival in St Helena (Jamestown harbour) Formalities & first evening ashore Time on shore depending on onward travel to explore this unique subtropical island Highlights may include: Napoleon’s house & heritage sites Snorkelling with whale sharks (seasonal) Guided island tours & hiking Relaxing B&B accommodation included"
+    }
+  ],
+  "map": ""
+}

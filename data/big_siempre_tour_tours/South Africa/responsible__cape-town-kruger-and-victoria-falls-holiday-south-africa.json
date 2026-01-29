@@ -1,0 +1,55 @@
+{
+  "destination": "South Africa",
+  "mainPhoto": "",
+  "id": "cape-town-kruger-and-victoria-falls-holiday-south-africa",
+  "tourName": "Cape Town, Kruger and Victoria Falls holiday, South Africa",
+  "placesVisited": "",
+  "generalInfo": "This 11 day itinerary offers a bit of everything for everyone, at a great rate. <br/>Firstly you will spend 3 nights in buzzy Cape Town, exploring the city's excellent range of harbour shops, restaurants and attractions. This is the perfect starting point for an adventurous holiday which is still relaxing - at your hotel, the City Lodge V&amp;A Waterfront, you can easily wander around the city's sights or relax in the hotel pool between outings. The location is perfect for exploring Table Mountain, Robben Island, and the Cape Peninsula whilst you are here!<br/><br/>A highlight of the trip is the 3 night stay at Bataleur Safari Camp in the Timbavati Private Nature Reserve, where you will hopefully spot one of the elusive Big Five on one of your daily game drives. The reserve is especially well-known for its strong leopard population. Learn from expert safari guides, and enjoy starlit dinners and peaceful evenings in your downtime on this intimate bush camp.<br/><br/>The third element of this trip is the opportunity to visit the magical Victoria Falls. After a quick overnight stop in Johannesburg, you will fly to Victoria Falls and stay at Ilala Lodge for 3 nights. Perfectly positioned just a few minutes walk from the entrance to the Falls themselves, this lodge offers a multitude of experiences. You can cruise along the Zambezi River at sunset, take a privately guided tour of the Falls, where you can soak up this natural wonder up close or simply relax at Ilala Lodge and watch the wildlife which often wanders through the gardens.",
+  "durationDays": "11",
+  "price": "2750",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Welcome to Cape Town - After landing, you’ll be transferred straight into the heart of Cape Town for a three-night stay at the City Lodge V&A Waterfront. The hotel is ideally placed within walking distance of the harbour’s shops, restaurants, and attractions, making it a perfect base for exploring. Rooms are bright and comfortable, there’s a pool for downtime between excursions, and you’re well positioned for easy access to Table Mountain, Robben Island, and the Cape Peninsula. It’s a straightforward, great-value choice that allows you to enjoy the very best of this vibrant city."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Time for a safari - From your hotel, you’ll be transferred to the airport for your flight north to the Greater Kruger, where three nights at Bateleur Safari Camp in the Timbavati Private Nature Reserve await. This small, eco-friendly camp offers an authentic safari experience with only a handful of rooms, creating a relaxed and personal atmosphere. Expert-led game drives take you in search of the Big Five and a wide range of other wildlife, with the Timbavati particularly renowned for its strong leopard population. Between safaris, you can cool off in the pool, dine beneath the stars, or simply relax on your veranda and listen to the sounds of the bush."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "A quick stop in Jo'burg - This morning, savour your final game drive and breakfast in the bush before bidding farewell to the Timbavati. You’ll then be transferred to Hoedspruit for your flight to Johannesburg, where a comfortable overnight stay at the City Lodge OR Tambo awaits before your onward journey."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Off to Victoria Falls - After breakfast at the City Lodge OR Tambo, it’s a short walk across to the terminal for your direct flight to Victoria Falls. On arrival, you’ll be met and transferred to Ilala Lodge, where you’ll spend the next three nights. Just minutes from the entrance to the Falls, the lodge is ideally located for exploring this natural wonder at your own pace. With its warm, welcoming atmosphere, a pool for cooling off, and spacious gardens where wildlife often wanders past, it offers a wonderfully relaxing base after your journey."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Explore the Falls - During your stay, you’ll enjoy a sunset cruise on the Zambezi River, a memorable way to take in the sights and sounds of the water as the day draws to a close. You’ll also have a privately guided tour of the Falls, giving you the time and space to experience this extraordinary spectacle up close."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Time to head home - This morning, you’ll be transferred to Victoria Falls Airport for your flight back to Cape Town, where you’ll connect with your international flight home."
+    }
+  ],
+  "map": ""
+}

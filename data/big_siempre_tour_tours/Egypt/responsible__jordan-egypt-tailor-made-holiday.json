@@ -1,0 +1,80 @@
+{
+  "destination": "Egypt",
+  "mainPhoto": "",
+  "id": "jordan-egypt-tailor-made-holiday",
+  "tourName": "Jordan & Egypt tailor made holiday",
+  "placesVisited": "",
+  "generalInfo": "Petra and the Great Pyramids of Giza are two of the most famous sights in the world; one, a remarkable city, hidden in the mountains, accessible down a narrow canyon, and beautifully carved from the rock; the other, the only remaining wonder of the ancient world.<br/><br/>Petra is a vast site, with the protected archaeological park covering over 200 square kilometres. Therefore the single day at the site you get on many tours is simply not enough.<br/><br/>These are two of the most important and impressive sights the region has to offer, and the route connecting them also allows you to experience many of the other sights that do not have the same high profile but are equally deserving of attention. In Jordan, you get to see Jerash – a fantastically preserved Classical city, regarded by some as impressive as Petra. You also get to see the work of the Royal Society for the Conservation of Nature (RSCN), who are preserving the landscapes, wildlife and old traditions and crafts of the country.<br/><br/>In Egypt, you visit the Egyptian museum, a treasure house of Egyptian history, and will explore Coptic Cairo. The Copts, a Christian church, form a sizable minority in Egypt, and their language is a direct descendant of Ancient Egyptian – so if you are lucky enough to hear a service, you will be hearing hieroglyphics out loud.",
+  "durationDays": "11",
+  "price": "3375",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly to Amman. Private transfer to your hotel for a 2 night stay;"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Visit the Wild Jordan centre in the morning, to learn about the activities of the RSCN. In the afternoon have a private tour of Jerash;"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Drive to Petra along the Kings Highway, visiting Madaba, Mt Nebo and Kerak. Spend two nights at Petra;"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Private tour of Petra;"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "At leisure to return into the city and explore further. In the afternoon drive to Wadi Rum for a camel ride before camping under the stars in the desert."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Transfer to Dana Nature Reserve and spend the night at the Guesthouse. Explore some of the trails."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Hike down through the reserve (about 6 hours) to Feynan Lodge, a wonderful eco-friendly hotel in a remote corner of the reserve. Spend the night here."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Transfer to Amman airport for a flight to Cairo."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "A full day private tour of the pyramids and sphinx at Giza, as well as Dahshur and Saqqara;"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "A private tour of the Egyptian Museum and Coptic Cairo;"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Private transfer to the airport for your flight home;"
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,80 @@
+{
+  "destination": "Oman",
+  "mainPhoto": "",
+  "id": "oman-holiday-arabian-desert-explorer",
+  "tourName": "Oman holiday, Arabian Desert explorer",
+  "placesVisited": "Muscat, Wadi Bani Awf, Jebel Shams, Nizwa, Sinaw, Al Munisfeh, Wahiba Sands, Duqm, Haima, The Empty Quarter, Salalah",
+  "generalInfo": "Oman is famous for its hospitality, peacefulness and food, but it’s also got a huge, hostile desert. The enigmatically named ‘Empty Quarter’ of the Arabian Desert reaches down over the country.  On this trip you can spend two days crossing the Empty Quarter, as well as spending time in Wahiba Sands, mountainous Jebel Shams, and the country’s lovely coastline. <br/><br/>Muscat, Oman’s attractive capital, sits right on the coast. Once you’ve had your fill of traditional-style whitewashed buildings and historic fortresses, you can venture dolphin-watching on the Arabian Sea. Schools of dolphins sometimes number the hundreds here. <br/><br/>Inland from Muscat you’ll find Jebel Shams, a spectacular mountain range, its high peaks balanced by deep canyons and wadis. From here you’ll leap off into the desert, travelling in 4WD, wild camping with local Bedouin and returning to Al Qahid to camp on the shore of the Indian Ocean. <br/><br/>The trip ends with two days in the Empty Quarter. You’ll discover the remains of Oman’s once prominent frankincense forests, and end the adventure in Salalah, a city on the south coast. <br/>",
+  "durationDays": "13",
+  "price": "3799",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Muscat - Arrive in Muscat and transfer to your hotel. The rest of the day is free."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Muscat - This morning we head out onto the Gulf of Oman to see the local dolphins – in this area they are usually very active and can sometimes be seen in groups of up to five hundred. After lunch on a small island we return to the mainland and explore Muscat, visiting its key sites such as the historic quarter and the Bait Zubair Museum with its exhibits on Omani history and heritage. Overnight Best Western Hotel or similar. (BL)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Wadi Bani Awf – Jebel Shams - Visit the Grand Mosque in Muscat, before heading into some of Oman’s most stunning countryside as we drive into Wadi Bani Awf. The wadi leads into ‘snake canyon’ with its waterfalls and rocky pools, and then we cross the Hajjar Mountains, stopping in small traditional villages along the way. At the end of the day we enter the Jebel Shams range, where we spend the night. Overnight Jebel Shams Resort or similar. (B)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Jebel Shams - Spend the day exploring Jebel Shams, the ‘Grand Canyon of Oman’. We take an easy hike from the village of Al Khitaym through the rim of Al Nakhur Canyon, with great views of the villages at the bottom, and end up at the abandoned village of Al Sab before returning to the hotel. On the way we take lunch in a local family home, for an insight into Omani traditions."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Nizwa - Drive to the village of Al Hamra, with traditional mud brick houses dating back 400 years. Take lunch in a local home, before continuing to the historic town of Nizwa, Oman’s cultural capital with one of the country’s most impressive forts. Explore its souqs and the fort before heading to Jabrin Castle, dating to the 17th century."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Sinaw - Al Munisfeh - Wahiba Sands - Visit the lively souk at Sinaw, and then continue to the abandoned village of Munisifieh, with its ruined mud brick mansions. From here drive to the Wahiba Sands, a mass of undulating dunes, with fantastic opportunities for off road driving. We stay tonight in a wild camp in the middle of the dunes."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Desert Crossing - Accompanied by a Bedouin guide, we cross the desert to the coast, and end up at the beautiful beach of Al Qahid. We camp tonight on the shores of the Indian Ocean."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Drive along a stunning coastline to Duqm, visiting the ‘rock garden’, an area of unusual and very photogenic rock structures and the white sand dunes of Khaluf."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Salalah - Drive to Salalah, visiting Wadi Dawka on the way – home to the largest collection of frankincense trees in the region. After a welcome shower and chance to freshen up, in the evening head out to the local souk to explore."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Salalah - Spend the day exploring Salalah and the surrounding area. We visit the old fishing village of Taqah, as well as its fort, then continue to the ruins of the city of Sumahram, once an important centre of the frankincense trade. On the way back we visit the lush Wadi Darbat as well as the Al Balid archaeological site, housing the remains of the ancient city of Zufar."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Transfer to the airport for departure."
+    }
+  ],
+  "map": ""
+}

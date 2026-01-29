@@ -1,0 +1,105 @@
+{
+  "destination": "Switzerland",
+  "mainPhoto": "",
+  "id": "beautiful-switzerland-16-day-family-tour",
+  "tourName": "Beautiful Switzerland: 16-Day Family Tour",
+  "placesVisited": "Zurich, Lucerne, St. Moritz, Zermatt, Grindelwald, Montreux, Geneva",
+  "generalInfo": "Switzerland's culturally vibrant and historically significant cities will seduce you as you tour from Zurich to Geneva, stopping at magnificent snow-capped mountain regions in between. Embrace the exuberant atmosphere of bustling districts, step onto the powdery glacial landscapes, throw snowballs at one another, ski down the steep slopes of the Swiss Alps, and cross the flowered fields cascading the countryside on this emblematic 16-day vacation.",
+  "durationDays": "16",
+  "price": "10,400",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Zurich - Switzerland’s Attractive Financial Hub",
+      "description": "Beautifully nestled at the convergence of a lake and river and recognized as the financial capital of the world, Zurich is a gateway to Switzerland’s iconic scenery and a hub of activity. Your plane will land, you will meet your private transfer, and you will travel to an accommodation on the banks of the Limmat River. The sunshine will dance off the river’s glassy surface as superyachts cruise between the buildings and echoes of local chatter ring from the city’s palace-peppered districts. You may enjoy an introductory tour of Zurich shortly after arriving to take in its distinct atmosphere."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Lucerne - Atop the Peaks of Mount Pilatus",
+      "description": "You will make your way to the train station after breakfast and board a cozy cabin for your journey to Lucerne. Images of Mount Rigi and Mount Pilatus will peek over the horizon as you get closer to the popular lakeside getaway, home to some of Europe's oldest covered bridges and other revered heritage landmarks. You may partake in a walking tour after arriving and then tour via cable car to the summit of Mount Pilatus for endless spectacles of Switzerland and its sparkling lakes."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Lucerne - Switzerland’s Master Chocolatiers",
+      "description": "In the morning, you will visit the chocolate factory Aeschbach to try some of Switzerland's master chocolatier’s delicious products before you continue to Mount Titlis. The rest of your day will be spent exploring the Alpine glaciers and steep walls of ice that compose Switzerland's distinct snowy landscape. Enter ice caves, soar over glacial formations, and throw snowballs at one another on the mountains as you appreciate your time on Mount Titlis. You will return to Lucerne later today for a delightful dinner and an evening of peace and quiet."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Lucerne - Quiet Repose in the City of Lucerne",
+      "description": "You will wake up and feel the chilly breeze give way to the warm sunshine peeking through your blinds. You may step onto your balcony and people-watch from your quiet repose as you sip on a steamy cup of coffee. After breakfast, you may slowly explore the city's neighborhoods at leisure and stumble upon markets, boutique stores, and artisanal restaurants dotting Lucerne's skyline. You may also visit decorated churches and exemplary art galleries for a taste of Switzerland's creative talent."
+    },
+    {
+      "dayNumber": "5",
+      "title": "St. Moritz - Luxury Living on the Lake",
+      "description": "After breakfast, you can take a stroll to the train station and escape to the luxe lakeside resort town in the Engadin valley, St. Moritz. Having hosted the Winter Olympics twice and other significant winter sports events, St. Moritz is both a dreamy alpine retreat and hub of entertaining snow-based activities. Upon arrival at your accommodation, you will unpack your things and then wander the vibrant mountain village to heritage sites and fine dining restaurants. After savoring some exquisite Swiss snacks, you may discover the surrounding natural beauty as you plod along park trails through the forests."
+    },
+    {
+      "dayNumber": "6",
+      "title": "St. Moritz - A Quiet Day to Unwind",
+      "description": "Your second day in St. Moritz is free for you to indulge in the finer things, from the decadent Swiss dishes prepared at elite, award-winning restaurants to the postcard-perfect panoramas at observation decks overlooking the Swiss Alps. You may also spend your day slowly soaking up St. Moritz's unique vibe as you meander along streets weaving through town to squares lined with artistic sculptures and historic buildings. Whether you wish to enjoy a vitalizing spa therapy or stroll through manicured parks, your last day in St. Moritz will be pleasantly relaxed."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Zermatt - Traveling on the Glacier Express Train",
+      "description": "You will board the legendary Glacier Express Train in St. Moritz this morning and relish a magnificent day of adventure across Switzerland ahead. You will have panoramic views from your comfortable wagon and absorb the bewitching backdrops of colossal mountains, snow-powdered peaks, wildflower-flecked meadows, and ancient little villages as you make your way to Zermatt. Lunch will be served on the train, and you will enjoy all the amenities on offer as you draw closer to the mountain resort, your home away from home for the next two nights."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Zermatt - Glacial Landscapes and the Gornergrat Summit",
+      "description": "Your second day in Zermatt is yours to explore the mountains surrounding the resort town. You may board trains heading up to the Gornergrat Summit, a peak recognized for having the best 360-degree view in Switzerland. You may also cross the glacial landscape in a cable car to the Klein Matterhorn, where you will step out into the soft snow and feel the icy breeze against your cheeks as you peer into frozen chambers hidden between blackened rock formations. Thrill-seekers may also relish any opportunity to ski the steep slopes of the Swiss alps."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Grindelwald - Adventures in the Bernese Alps",
+      "description": "You will travel up the highest train station in the world, the Jungfraujoch, this morning to reach the spectacular mountainscape of Grindelwald. The journey takes you across yellow and purple-flowered fields that cover the hills rising and falling beneath the towering snow-capped peaks of the Bernese Alps. After arriving in Grindelwald and checking into your accommodation, you may take part in a variety of exhilarating activities in and around the alpine slopes. You may bracingly zip line from hilltop to hilltop, paraglide down from an imposing precipice, or cycle along pathways descending the mountains."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Grindelwald - Train Tours to the Jungfrau Mountain",
+      "description": "On the morning of your second day in Grindelwald, you will board a train headed across the sweeping Swiss countryside spreading around the foothills of the alps. The train trips are set on a series of incredible landscape stages, including the spellbinding floral hillsides, glacial mountain peaks, and rocky caverns of the Jungfrau Mountain. You will return from the crest of the mountain to Grindelwald and spend the rest of your afternoon enjoying the tantalizing flavors of Swiss cuisine at decadent restaurants overlooking the alps."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Grindelwald - Luxuriating in the Alps at Your Leisure",
+      "description": "Your final day in Grindelwald is free at your leisure, and you will be spoiled for choice of activities should you wish to adventure more within the alps. Whether you wish to peacefully wander the unfolding forests that veil Grindelwald's surrounding landscape or experience the thrill of paragliding, skydiving, or downhill biking from the top of the mountains, there is something for everyone to enjoy a day out in the Swiss highlands. In the evening, you may be fortunate enough to bask in the glow of the stars as they pierce through the snowy sky."
+    },
+    {
+      "dayNumber": "12",
+      "title": "Montreux - Swiss Fondue and Alpine Views",
+      "description": "Leaving Grindelwald in the morning after breakfast, you will have time to reach the summit of Harder Kulm and savor a scrumptious Swiss Fondue against the backdrop of enormous grassy hills and the soaring Bernese Alps. Afterward, you will continue across Switzerland’s mountainous countryside by train to the lakeside resort town of Montreux. Your accommodation will boast panoramic views of Lake Geneva and will be around the corner from the promenade, a stately boulevard lined with blossoming flowers, meticulous sculptures, and medieval buildings. Your stroll along the promenade will kick off your walking city tour of Montreux."
+    },
+    {
+      "dayNumber": "13",
+      "title": "Montreux - Peruse Montreux at Your Own Pace",
+      "description": "Once an escape for writers, artists, and musicians, Montreux has been an attractive and creative destination for many years. Today, emblematic artwork lines the walls of decorated galleries, jazz festivals draw crowds aplenty to the charming resort town, and century-old libraries house the literature of eras past. On your free day in Montreux, you may explore the city highlights that show off this creative culture, indulge in the finest Swiss food, or choose to spend your afternoon relaxing comfortably at your fabulous accommodation."
+    },
+    {
+      "dayNumber": "14",
+      "title": "Geneva - Understanding the Big Bang at CERN",
+      "description": "Culturally vibrant, paved by gold, and shrouded in rich heritage, Geneva is regarded as one of the country’s premier pit stops on a Swiss expedition. You will leave your things in your hotel room and visit the largest particle physics laboratory in the world, CERN. A guide will welcome you to the remarkable research facility and show you around to its incredible technology. You will delve into the origins of the cosmos and the Big Bang before you spend the afternoon more calmly exploring Geneva’s gorgeous districts."
+    },
+    {
+      "dayNumber": "15",
+      "title": "Geneva - Free Day to Explore Geneva",
+      "description": "There’s much to see and do in Geneva, and you will have the day to explore as much of the city as you wish at a leisurely pace. You may visit several notable headquarters, such as the World Trade Organization, World Health Organization, and International Committee of the Red Cross, or stroll stunning promenades to boutique stores and stylish bistros all within the clasp of the Alps and the Jura mountains. You may spend your evening tucking into divine Swiss cuisine at restaurants quietly settled in the shadows of the dramatic Mont Blanc."
+    },
+    {
+      "dayNumber": "16",
+      "title": "Geneva - Morning Galavant through Geneva’s Neighborhoods",
+      "description": "Geneva comes to life early in the morning as visitors flood the city streets in search of decadent baked treats and locals swing their shop doors open to welcome the hungry guests. You will enjoy a light bite at your accommodation before you wander the neighborhood one last time to try a few more sumptuous snacks and scan for commemorative curiosities to take home with you. After an hour or two out on the town, you will return to your accommodation to collect your things and meet your private transfer who will whisk you away to the international airport."
+    }
+  ],
+  "map": ""
+}

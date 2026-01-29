@@ -1,0 +1,65 @@
+{
+  "destination": "Portugal",
+  "mainPhoto": "",
+  "id": "portugal-small-group-holiday",
+  "tourName": "Portugal small group holiday",
+  "placesVisited": "",
+  "generalInfo": "From grand cities to medieval villages and dazzling coastlines, witness the iconic imagery that defines this western European haven. Discover the birthplace of port and the treasures of the Douro Valley, take a step back in time at the ancient university of Coimbra, learn the secrets of Porto’s backstreets and get to the heart of glorious Lisbon. Travel with a local leader and uncover the authentic side of Portugal; a land of rich history, vibrant regional cultures, stunning landscapes and refined cuisine.",
+  "durationDays": "8",
+  "price": "3170",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Lisbon.",
+      "description": "Ola! Welcome to Portugal. When you arrive at the Lisbon airport, you’ll be picked up by a representative and taken to your centrally located hotel. Your adventure officially begins with a welcome meeting at 6 pm tonight. If you arrive early, maybe head to one of the many outdoor cafes and soak up the city’s energy. After your meeting, you’ll join your leader and small group for a welcome dinner at one of Lisbon’s thriving restaurants. Going out to eat is one of Portugal’s great pleasures, and tonight, your leader will introduce you to traditional Portuguese recipes and a culinary scene that’s exploding with regional flavour."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Lisbon.",
+      "description": "This morning, join a local guide for a walking tour through the city of Lisbon. First, take a ride on the historic Gloria cable car – this bright yellow funicular is one of Lisbon’s most photographed images! Then, explore the trendy neighbourhood of Bairro Alto, the popular Chiado area and the narrow, cobbled streets of Alfama, dotted with hole-in-the-wall eateries and old homes. Pop into a local establishment to try a pastel de nata – a sweet and delicious custard tart and Portugal’s most famous pastry. Then visit the elegant Praça do Município, a symbol of the city's post-earthquake reconstruction in the 18th century and the Praça do Comércio, once the gateway to Lisbon for arriving ships and a key hub of maritime trade during the Age of Discoveries.It wouldn’t be a tour of Lisbon without stopping off to sample some ginjinha – Portugal’s iconic cherry liqueur. The rest of your afternoon is free to explore at your own pace."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Sintra / Coimbra.",
+      "description": "Head outside the city for a full-day excursion to Sintra – a resort town in the foothills of the mountains. Your leader will explain how the cooler climate made Sintra a summer retreat for royalty and why it has drawn and inspired many poets, writers and travellers for centuries, including Lord Byron. Spend time exploring Sintra’s intriguing Quinta da Regaleira estate before continuing to the town. You’ll have free time in the afternoon to enjoy the surroundings at your own pace. Perhaps sit down and try some local flavours at lunch, then visit Sintra’s over 1000-year-old National Palace – one of the oldest in Portugal."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Coimbra.",
+      "description": "Sitting on the banks of the River Mondego, Coimbra was once the medieval capital of the county, and its royal heritage can be felt in its ancient streets and buildings. Get to know the city as your leader guides you through the lanes and squares of the Old Quarter this morning. The real star of the show is Coimbra’s prestigious university – one of the oldest in the world. You’ll have a private guided tour of the Joanine Library, a Baroque masterpiece that is widely considered one of the most beautiful libraries in the world. Then this evening, get to know more about this nation’s cultural heritage by heading to a traditional Fado music show. Portugal’s version of the blues is hauntingly beautiful and hearing it performed live is an experience to remember. Your leader can recommend some superb spots to eat after the show."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Douro Valley.",
+      "description": "Travel from Coimbra to the Douro Valley today. Famous for its scenery, the Douro Valley is also known for producing some of the world’s most delicious wine. Today, you’ll head out for a tasting tour at one of the region’s best wineries. You can’t spell Portugal without Port, and to taste this iconic fortified wine is to taste thousands of years of Portuguese history. Learn the story of its origins and the history of wine production in the area while discovering which locally produced vino is your tipple of choice. Sit down to a light picnic lunch of rustic regional specialities prepared with fresh local ingredients (and paired with more wine, of course!). Then continue to your Feature Stay accommodation – tucked away between the rolling hills and terraced vineyards of the spectacular Douro Valley, your home for the night boasts unbeatable views of the Douro River. When you arrive, you might like to make the most of your hotel's scenic outdoor pools, or maybe grab dinner on the terrace and soak in the scenery."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Porto.",
+      "description": "This morning, enjoy a gentle boat ride on the Douro River, stopping by the riverside village of Pinhao. From here, make your way to Porto – a romantic city on the banks of the river. When you arrive, join your leader for an orientation walk through twisting alleys, crisscrossing staircases and baroque churches. Pass old bridges, cobbled streets, merchants’ houses and cafes and explore at your own pace. In the evening, head to the nearby city of Vila Nova de Gaia to end the day with some sunset drinks."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Porto.",
+      "description": "Learn about the history of tiles in Portugal this morning with a tile-painting workshop. Steeped in centuries of tradition, hand-painted tiles can be seen on the facades of buildings and churches, telling the stories of Portugal’s past with vibrant colours and designs. Then, your afternoon is free. Maybe head to one of the city’s riverfront cafes for a coffee and pastry overlooking the colourful rows of old houses or take a walk around the World Heritage listed Ribeira district. Another option is to take the local train to the seaside city of Matosinhos where you can relax on the beach or stroll along the promenade. Regroup tonight for a final dinner at one of Porto’s local restaurants."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Porto.",
+      "description": "There are no activities planned for today and your trip comes to an end. You’re free to leave at any time after check out. If you wish to spend some more time exploring Porto, just get in touch with your booking agent ahead of time to organise additional accommodation."
+    }
+  ],
+  "map": ""
+}

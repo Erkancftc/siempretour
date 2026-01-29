@@ -1,0 +1,55 @@
+{
+  "destination": "Antarctica",
+  "mainPhoto": "",
+  "id": "antarctic-explorer-cruise",
+  "tourName": "Antarctic explorer cruise",
+  "placesVisited": "",
+  "generalInfo": "A heady and inspiring cocktail of towering blue icebergs, vast penguin colonies, whales, seals and glaciers right in the heart of the Western Peninsula.<br/><br/>It is home to an extraordinary array of wildlife: penguins of almost all descriptions, Leopard and smaller seals and whales, seen from the shore, the Zodiacs and from on board. This is a journey that appeals to many: photographers, wildlife enthusiasts, ornithologists or those who simply want to marvel at the peaks of Deception Island or the striking colours of Iceberg Alley in the most immaculate wilderness anywhere.<br/><br/>Highlights:<br/>Explore the remarkable Antarctic Peninsula<br/>Incredible wildlife viewing including seabirds, penguins, seals and whales<br/>Travel on a small expedition vessel<br/>Accompanied by extremely qualified Expedition Staff<br/><br/>Key information:<br/>9 or 10 nights on the ship, 1 night hotel in Ushuaia<br/>Expedition cruising in comfortable conditions<br/>Countries visited: Antarctic Peninsula, Argentina, Antarctica<br/><br/>What's included:<br/>All meals while on the ship<br/>All accommodation<br/>All transport and listed activities<br/>Tour leader throughout and qualified Expedition Staff<br/>We can include flights from the UK.  Please contact us for a quote.<br/><br/>What's not included:<br/>Travel insurance<br/>Single accommodation (available on request)<br/>Visas or vaccinations",
+  "durationDays": "11",
+  "price": "12490",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Start Ushuaia, Argentina"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Board ship and sail along the Beagle Channel"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Cross the Drake Passage"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "South Shetland Islands and Antarctic Peninsula"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Sail back through the Drake Passage"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Disembark and end in Ushuaia"
+    }
+  ],
+  "map": ""
+}

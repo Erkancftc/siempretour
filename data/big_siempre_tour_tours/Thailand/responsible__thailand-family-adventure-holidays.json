@@ -1,0 +1,75 @@
+{
+  "destination": "Thailand",
+  "mainPhoto": "",
+  "id": "thailand-family-adventure-holidays",
+  "tourName": "Thailand family adventure holidays",
+  "placesVisited": "",
+  "generalInfo": "A two-week tailor made holiday that includes all the exciting experiences you dream of in a family holiday in Thailand, plus a few extras too!<br/><br/>Kick off your adventure in the capital Bangkok, taking in all the city’s must-see temples and bustling canals, as well as experiencing a slice of local life at the flower market and China Town. Then fly to Chiang Mai for an encounter with elephants at one of the most ethical sanctuaries in the country, with time to explore this lovely city, sampling some of its famous street food and visiting the night market. There’s also a day to explore the forests here the adventurous way, with treetop ziplining and white water rafting.<br/><br/>Next, you spend a night in a floating rafthouse on the beautiful and peaceful Chiaw Laan Lake, enjoying all kinds of activities from hiking, swimming and exploring caves to dawn and dusk boat safaris to spot tropical birds and monkeys. Your journey finishes with relaxation time on the white sands of one of Thailand’s famous islands, where you can explore the crystal-clear waters by snorkelling, scuba diving or even sea kayaking.",
+  "durationDays": "14",
+  "price": "1679",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Touch down at Bangkok airport, where you’ll be warmly greeted by our local representative before being whisked off to your hotel. The rest of the day is yours to relax or explore the city’s vibrant streets."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Kick off day two with the mesmerising chants of monks at Wat Pho, home to the 45-metre-long Reclining Buddha. Next, explore the iconic Grand Palace, with its dazzling temples and the revered Emerald Buddha. After lunch, hop on a traditional long-tail boat for a cruise along Bangkok’s serene canals. Spot stilted houses and watch life unfold along the waterways. Spend the afternoon wandering through Chinatown’s bustling alleys, where you’ll discover hidden markets, Taoist temples, and quirky tea shops. Kids will love the colourful stalls and unusual trinkets! (B/L)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Fly to Chiang Mai, the “Rose of the North.” After settling into your hotel, enjoy a lively evening exploring the city’s street food markets. Sample local delicacies like pad Thai, sticky rice with mango, and Thai coconut pudding, guided by tantalising aromas and your host’s expert tips. Adventurous eaters might even try the local rice whisky! (B/D)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "On day four you’ll visit the Chang Chill Elephant Sanctuary to learn about their “no-touch” conservation philosophy. Observe the elephants in their natural habitat, prepare their food, learn about the mahout’s role in Thai culture and hear stories about the local community’s way of life. Return to your hotel by evening, with free time to explore the lively night market. We also offer a 2 day elephant experience staying in a hilltribe village. (B/L)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "A free day to enjoy Chiang Mai your own way or add an optional tour: a thrilling morning in the treetops on a zipline course featuring 19 lines plus sky bridges, choosing from a kilometre-long zipline or a rollercoaster-style ride; or an afternoon white-water rafting on the Mae Tang River, navigating exciting rapids with expert guidance. Return to Chiang Mai for a relaxing evening. (B/L)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Fly to Phuket and head straight to Khao Sok National Park, where your family will stay in an enchanting treehouse. Unwind with a traditional Thai massage before enjoying a delicious dinner surrounded by the sights and sounds of the jungle. (B/D)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "This morning you can choose your morning activity: 1) Canoe trip: drift down the Sok River, spotting monkeys and colourful birds. 2) Tubing (June–Oct): float along the river, with rope swings for added fun. 3) Cave & raft trek: a scenic hike to explore a serene cave, followed by a peaceful bamboo raft ride. In the evening, enjoy a jungle cooking class, learning to make dishes like green curry using bamboo. Later, you’ll embark on a night safari to spot nocturnal wildlife. (B/D)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Journey to Cheow Lan Lake and hike through pristine rainforest with a local guide. After lunch with a local community, you’ll cruise across the lake’s emerald waters to your floating bungalow. Spend the afternoon swimming or canoeing, then join an evening wildlife boat safari. Dinner is served under the stars, with fresh fish and southern Thai specialities. (B/L/D)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Wake early to the calls of gibbons and enjoy a morning boat safari. After breakfast, take a scenic drive and ferry ride to one of Thailand’s beautiful Gulf islands, such as Koh Samui or Koh Phangan, where tropical beaches await. (B/L)"
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "It’s time to say goodbye. Transfer to Samui airport for your onward flight, taking home incredible memories of your family’s Thai adventure. (B)"
+    }
+  ],
+  "map": ""
+}

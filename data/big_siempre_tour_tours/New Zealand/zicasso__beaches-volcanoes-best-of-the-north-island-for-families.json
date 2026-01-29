@@ -1,0 +1,70 @@
+{
+  "destination": "New Zealand",
+  "mainPhoto": "",
+  "id": "beaches-volcanoes-best-of-the-north-island-for-families",
+  "tourName": "Beaches & Volcanoes: Best of the North Island for Families",
+  "placesVisited": "Helena Bay, Waiheke Island, Coromandel Peninsula, Lake Taupo, Hobbiton",
+  "generalInfo": "Handcrafted with iconic sights and off-the-beaten-track locations, this adventurous, 11-day journey through New Zealand’s provides family luxury in the North Island’s unique locales. You will helicopter between untouched destinations, immerse yourselves in Maori culture, cruise on a private catamaran, and relax on pristine beaches. With Hobbiton and Waiheke, you can discover the North Island legend, while Coromandel and Helena Bay provide you with all the space you need to come together as a family.",
+  "durationDays": "11",
+  "price": "4,500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Helena Bay – Helicopter Flight",
+      "description": "After landing at Auckland International Airport, you will clear immigration and customs before being met by a representative and transferred to a waiting helicopter. From the helicopter, you can enjoy spectacular views over the Pacific coastline. Helena Bay is a very relaxed destination, which is ideal for overcoming jet lag and easing into a vacation. You may want to wander into the town this afternoon or evening for an iconic portion of fish and chips in the small fishing harbor."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Helena Bay – A Stunning Coastline",
+      "description": "Helena Bay certainly has space, and it is a destination that has remained off most tourist itineraries. Many families split their vacation across the North and South islands, which does not leave much time for hidden gems like Helena Bay and the Bay of Islands. Today’s plan will be completely flexible, and you will have a private guide who can transfer you to beaches and natural attractions all over the Bay of Islands. Do not plan anything before you arrive because it can be hard to predict your mood after such a long flight."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Helena Bay – Immersed in Maori Culture",
+      "description": "Today, a Maori guide will lead you through a historic forest, teaching you about flora and fauna on hidden walking trails. You will learn why kauri trees are so significant to the Maori culture in addition to how other trees are used in traditional settlements. While the Maori are famous for their war dance or haka and impressive size, you will soon learn their nonchalant attitude and effortless harmony with nature. They are an often misunderstood people who have always preserved New Zealand’s natural landscapes. As part of your tour, you can also visit a Maori village, where the children can get involved with some of the culture and meet Maori of their own age."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Waiheke Island – Bays, Vineyards, and Beaches",
+      "description": "Helena Bay to Waiheke is one of New Zealand’s most scenic flights. Waiheke is a relatively small island that is located off the Auckland coast, and you can drive around the island in less than two hours, but to do it in just two hours would mean missing out on so much that Waiheke has to offer. After your helicopter transfer, you will check-in to your boutique accommodation on the western side of the island. These two days on Waiheke Island will be at your leisure. It is a great destination without a guide because you can easily get around and enjoy everything that the island has to offer."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Coromandel Peninsula – Kayaking and Hiking",
+      "description": "After another helicopter transfer, you will spend two days on the Coromandel Peninsula. This is a destination where you really need a guide. There are innumerable trails, and the best ones are not signposted. A private guide will meet you at the hotel to plan out an itinerary over these two days. Although your itinerary is flexible, the recommended option is an easy, half-day hike along the coastline. You can walk around surreal rock formations, jump into azure pools, wander across deserted beaches, and gaze out at strange rocks. You can also venture inland to visit local farms, including a blueberry farm where your kids can learn how to make ice cream."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Lake Taupo – Hobbiton Tour",
+      "description": "Most children who are visiting New Zealand have Hobbiton down as their number one place to visit. The movie set has been left completely unchanged, right down to fake painted moss that appears perfectly realistic on wooden gates. Your guide will explain how this is one of the oldest tricks in cinema. As a family, you can recreate some famous scenes in The Shire before visiting the home of Frodo and Bilbo Baggins and stopping in the Green Dragon Inn for lunch. After Hobbiton, you will transfer towards Lake Taupo with the option to stop in Rotorua to see some exploding geysers."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Lake Taupo – Private Sailing Expedition",
+      "description": "Lake Rotoiti will be a dreamy place to spend the day. You will sail across blue waters on a private catamaran, passing forest-clad islands and some fishing spots that are only known to the locals. Hot pools dot this lake, and they can provide surreal experiences as you swim from cold New Zealand waters to the steamy water that you can expect from a spa. You can spend the full day sailing but can also cut down on catamaran time to let your children run around a deserted island. Lunch will be served on the boat, and the skipper will give your kids the opportunity to sail if they wish."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Lake Taupo – Fishing Cruise",
+      "description": "This final day on New Zealand’s North Island is entirely customizable. A short fishing cruise will be scheduled along with a visit to see some of the island’s most impressive geothermal activity, where mud bubbles orange and you can hear how volcanos hiss. Other options include visiting the impressive Huka Falls, riding a yacht to the country’s largest Maori rock carvings, mountain biking around the lake, and indulging in the spa park. Taupo is also the gateway to the Tongariro Alpine Crossing, which is one of the world’s most iconic single-day hikes."
+    },
+    {
+      "dayNumber": "11",
+      "title": "Lake Taupo – Departure",
+      "description": "From Taupo, you will fly to Auckland on a scheduled domestic flight. A local representative will greet you at Auckland International Airport and assist in transferring you to your international departure."
+    }
+  ],
+  "map": ""
+}

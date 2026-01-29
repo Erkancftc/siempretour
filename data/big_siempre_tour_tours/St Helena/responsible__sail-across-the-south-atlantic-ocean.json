@@ -1,0 +1,60 @@
+{
+  "destination": "St Helena",
+  "mainPhoto": "",
+  "id": "sail-across-the-south-atlantic-ocean",
+  "tourName": "Sail across the South Atlantic Ocean",
+  "placesVisited": "",
+  "generalInfo": "Sail the South Atlantic and visit the beautiful island of Saint Helena.<br/><br/>Embark on an extraordinary round trip sailing adventure across the South Atlantic Ocean, that includes two amazing stop-overs in Namibia and the isolated island of St Helena. <br/><br/>The voyage will teach you everything needed for a major ocean crossing. Led by an experienced skipper and first mate, this journey is more than just sailing. Choose to join either leg or the full round trip - both legs include five days accommodation on the island in a local, independently run hotel.<br/><br/>Leg 1: Start in Cape Town with boat prep at the Royal Cape Yacht Club. Then sail up Africa’s coast to Lüderitz, Namibia, logging your 60nm skippered passage along the way if desired. Explore the desert ghost town of Kolmanskop before setting out on a lovely \"downwind\" crossing of the South Atlantic to St Helena Island. <br/><br/>Spenda few days onshore exploring this sub-tropical paradise with self catering accommodation included. There's lots to see and do including meeting the world's oldest living animal, seeing the final resting place of Napoleon who was imprisoned on the island and, of course meeting all the wonderfully friendly islanders. <br/><br/>Our guests can either fly back from St Helena to Cape Town or continue to Leg 2.<br/><br/>Leg 2:  Leaving St Helena, we initially sail west, deep into the South Atlantic. It's a wild and majestically isolated Ocean which will see dynamic sailing and big seas. This leg is, perfect for practicing Celestial Navigation and is a real \"off-shore\" passage that will count to mile building. Duration: ~3 weeks.<br/><br/>Join both legs for a 40-day, 4,500-nautical-mile adventure of a lifetime",
+  "durationDays": "40",
+  "price": "7495",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Your journey starts in Cape Town at the Royal Cape Yacht Club, where we spend a few days fully preparing for the expedition ahead. You will get to know your fellow crew and the vessel from end to end. We have a detailed checklist, deciding on a Menu plan, shopping, passage planning and much more - there’s a lot to do, but it’s fun and all under expert supervision"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "A gentle sail up the beautiful African coastline. You will get used to the watch system and sailing together. For those who need, you can use this leg for your skippered 60NM passage or just relax and spot the dolphins that often follow us up the coast."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "We stay a couple of days in the historic, desert town of Ludertiz. Time to relax, stock up for the voyage ahead and also perhaps take a trip out to Kolmanskop - an abandoned German mining town where you can get a guide to explain it’s history and then wander the town at leisure, exploring the buildings slowly filling with sand"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "We set sail for St Helena island, more than 1,000miles in the middle of the South Atlantic. The weather and sea state tends to be gentle, but this is a true ‘blue water’ passage that will take between 10 - 12 days - far from the coast, where Whales are often our only company."
+    },
+    {
+      "dayNumber": 21,
+      "title": "",
+      "description": "St Helena remains one of the world’s most isolated places – only accessible by boat until a couple of years ago and still wonderfully remote and unspoilt. Arriving by yacht is the best way to appreciate it. Once ashore, we settle into our self catering accommodation in Jamestown, You can visit Napoleon’s house and indeed his tomb or you can say hello to Jonathan the tortoise, the world’s oldest living animal (190years old!). Relax with a beer in the old-world charm of Jamestown or take a hike into the Jungle on one of the ‘post-box’ trails. There is so much to do and see. St Helena always gives our crew a fabulous welcome – we spend approx. 5 days on the island, before we wave farewell and return to sea."
+    },
+    {
+      "dayNumber": 24,
+      "title": "",
+      "description": "The return to Cape Town is a true expedition sail. Heading out into the wild South Atlantic, routing towards Tristan Da Cunha, you will experience every kind of weather and, at times, this is really challenging sailing where you will make use of everything you’ve learned so far. Out here is the perfect place to learn and practice Celestial Navigation. We spend time each day on all aspects of sailing theory and practice. We’ve done the trip countless times and know these waters extremely well - so safety will never be a concern but it’s a long leg and when Cape town appears on the horizon, you will know you have achieved a truly “once in a lifetime” ocean adventure."
+    },
+    {
+      "dayNumber": 40,
+      "title": "",
+      "description": "After nearly 5,000 nautical miles travelled, two incredible stopovers and a life-time of experience gained. we part ways. Our crews often stay in contact for years after this adventure!"
+    }
+  ],
+  "map": ""
+}

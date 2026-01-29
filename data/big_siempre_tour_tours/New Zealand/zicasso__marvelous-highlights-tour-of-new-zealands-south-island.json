@@ -1,0 +1,60 @@
+{
+  "destination": "New Zealand",
+  "mainPhoto": "",
+  "id": "marvelous-highlights-tour-of-new-zealands-south-island",
+  "tourName": "Marvelous Highlights Tour of New Zealand’s South Island",
+  "placesVisited": "Queenstown, Franz Josef Glacier, Westhaven Inlet",
+  "generalInfo": "From tropics to fjords, experience the ultimate island immersion into nature on this one-week tour of New Zealand’s South Island. This is an exclusive itinerary that includes Fjordland, Franz Josef, Abel Tasman, and Kahurangi National Parks. Handcrafted with three distinctive natural realms, you will helicopter and hike into the wild and escape into landscapes that are rarely encountered by visitors.",
+  "durationDays": "7",
+  "price": "2,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Queenstown – Shotover River and Middle-Earth",
+      "description": "After touching down in Queenstown, you will be transferred to your boutique hotel in the heart of the city. Early check-in will be arranged so that you can freshen up and head straight to the Shotover River. A barren canyon of dramatic corners and turquoise water, this river is best explored on a jet boat. This is a fast-paced and exciting ride that will have you rushing down the river. After your river adventure, you can indulge in a private 4WD vehicle tour into a wilderness that inspired Middle-earth. Your guide can help you customize your exact route based on your hiking and adventure preferences."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Queenstown – Private Helicopter Tour",
+      "description": "Almost all of Fiordland National Park is inaccessible by road or hiking trail. You will need a helicopter to really explore. An experienced mountain rescue pilot will fly you over glaciers, fjords, and into this wilderness on a day of mesmerizing landscapes. You will soon touch down and walk on the ice. You will be able to appreciate the national park’s scale and spend time among its intimate details. Few people have ever ventured where you will be going today. It is this solitude and exclusivity that makes a private helicopter tour the ultimate means of exploring Fiordland."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Franz Josef Glacier – World Heritage Te Wahipounamu",
+      "description": "The journey from Queenstown to Franz Josef Glacier is about four hours by road, but it is an incredible journey. This is the ultimate New Zealand road trip because it traverses four national parks and the distinctive zones of Te Wahipounamu. You will be privately chauffeured, so there are countless places that you can stop and explore along the way, from unknown trails to mountain viewpoints. This will be a very different style of expedition when compared to yesterday’s adventure. South Island roads are always quiet. When nature is so unique, journeys like this become the experience and not just a means of travel."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Franz Josef Glacier – Hiking a Wild Glacier",
+      "description": "Two glaciers crash through the forest on this part of the coast, and these two natural landmarks are far more impressive than photos can suggest. After a helicopter approach, you will hike on Franz Josef Glacier, crunching across ice and snow with experienced guides. Majestic ice sculptures and tunnels showcase nature’s artistic power, and flowing ice fields demonstrate the endless scale of the wilderness. Even the lush forest is baffling in person. Later today, you will explore a wildlife sanctuary with a conservationist and search for the rare kiwi bird. You should get up-close encounters and learn about the species’ survival."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Westhaven Inlet – Kayak along the Coast",
+      "description": "You will complete your overland journey this morning. As you travel, the road will twist along the coastline to Westhaven Inlet. After fjords and snow, you will now explore the South Island’s tropical allure. Lush colors extend beneath your lodge, and your sense of solitude will be at its height. A guide will accompany you on a kayaking excursion along the coast, which will give you the chance to paddle alongside dolphins. You can even reach beaches and islands that are inaccessible by other means. Most people stay on the northern coast, whereas you will savor the wild serenity of the western coastline."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Westhaven Inlet – Traversing Surreal Trails",
+      "description": "Staying in Westhaven Inlet means that you will have instant access to Abel Tasman National Park. It also means that you can indulge in an easy trip to Kahurangi National Park, which is one of New Zealand’s most forgotten destinations. Part of the park is private Maori land, and you will spend the day here among cascading rivers and indigenous forests. You can have a picnic besides trickling water, hike on barely used trails, admire superb birdlife, and ride a canoe part of the way back to Westhaven. When you return to your lodge on the edge of an island, you can drift off and relax."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Westhaven Inlet – Beautiful Hiking Trails and Departure",
+      "description": "Late check out will be arranged because there is plenty to enjoy before your afternoon departure. You can walk or take a boat along the coast of Abel Tasman National Park in search of dolphins and beaches without footprints. You can also explore more Kahurangi trails. Lastly, you can have a picnic by the cliffs or lay back at the lodge and do very little at all. Late in the afternoon, you will transfer by road to Nelson, where you board a flight to Christchurch International Airport to begin your journey home."
+    }
+  ],
+  "map": ""
+}

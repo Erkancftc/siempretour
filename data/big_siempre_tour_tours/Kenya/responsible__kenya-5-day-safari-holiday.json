@@ -1,0 +1,50 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "kenya-5-day-safari-holiday",
+  "tourName": "Kenya 5 day safari holiday",
+  "placesVisited": "",
+  "generalInfo": "This is a relaxed and easy paced 5-day Kenya safari. Visit Aberdares National Park where you stay at The Ark which offers fantastic game viewing from the comfort of the lodge. You’ll also go on game drives to search for the wealth of wildlife as well as soak up the scenic landscapes and waterfalls. Next stay at Lake Nakuru National Park and explore this park as well as the majestic flamingos. Head to Masai Mara National Reserve home of the wildlife, Masai Mara is widely known for the fascinating wildebeest migration which takes place yearly.",
+  "durationDays": "5",
+  "price": "3195",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "ARRIVAL-ABERDARES NATIONAL PARK. JAMBO! Upon arrival at Jomo Kenyatta International Airport or Nairobi hotel, you will be met by our Customer Care Representative who will brief you on your program ahead and introduce the Driver Guide who will be with you throughout the safari. Aberdares National Park is called the ‘majestic moorland’ and is characterized by picturesque, steep forested ravines and open moorland. You will be able to see elephants, black rhinos, leopards, hyenas, olive baboons and much more. Your driver guide will do his best to show you all the animals which are living in this park but he will also take you to the most beautiful waterfalls. You will enjoy a great picnic lunch at Aberdares Country club then have a shuttle transfer to your Lodge. Later return for relaxation and dinner at your lodge."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "LAKE NAKURU NATIONAL PARK. This morning head for Lake Nakuru National Park. Arrive at a camp in good time for lunch and after a refreshing stop, head out for an afternoon game drive. Lake Nakuru, a soda lake on the floor of the Great Rift Valley is rich in bird life and home to over 400 different species. The sight of flamingoes making the lake appear ringed in pink is spectacular. In addition to the abundant bird life, it is also an important haven for the endangered species of Rothschilds giraffe and both black and white rhino. Lake Nakuru is rich in wildlife giving you and your family the chance to spot lions, waterbuck, buffalo, baboons and much more. The park boasts a huge variety of animals."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "MASAI MARA NATIONAL RESERVE. After breakfast and a short briefing by your driver guide, drive to the world-famous Masai Mara National Reserve, backdrop to ‘the greatest wildlife spectacle on earth’, the annual migration of over one million wildebeest. Arrive in time for lunch at your camp. For an extra fee visit the Masai Local villages. The Maasai have lived on these plains for centuries and your guide will share his experience and expertise with you. Learn about the fauna and flora of the region and the way that the Maasai people use the plants. Your guide will teach you the hidden secrets of the African savannah, like how to find medicine in the bush and how to track wildlife and birds. After this thoroughly informative and fascinating excursion, visit the Maasai manyattas. At this local village, a local Maasai guide will give you an intriguing account of the Maasai people and their age-old traditions. You will have the opportunity to see first-hand an ancient way of life that still survives on the plains of Mara today. Finally, participate shoulder-to-shoulder in some local Masai traditional dance."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "MARA NATIONAL RESERVE. Your day will be spent on safari in Africa’s richest wildlife viewing arena. Historically teeming with wildlife, the Mara hosts Kenya’s largest lion prides and elephant herds. Other predators include leopard, cheetah and spotted hyena; while in the Mara River you will see fat pods of hippo and vast Nile crocodiles. Other highlights include giraffe tops, gazelle, zebra, buffalo and over 550 species of birds. At an extra amount have the chance to take an unforgettable hot air balloon safari above the wildlife with a well-prepared champagne breakfast awaiting your landing. As the sun sets on a fulfilling day, return to your scenic tented camp for dinner and a relaxing overnight surrounded by nature."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "NAIROBI END OF TOUR. After breakfast bid farewell to the Masai Mara as you set on your journey back to Nairobi. Drive back down the Great Rift Valley to Nairobi, passing the dormant volcano, Mount Longonot, and lakes Elementaita and Naivasha on the way. Keep an eye out for herds of giraffe and gazelle and head up the escarpment. You will arrive in Kenya’s bustling capital city Nairobi in the late afternoon. Spend time doing last minute shopping then drop off airport bid farewell to your driver guide until the next time. Say good bye to the wonderful guide and promise to join us on another expedition!"
+    }
+  ],
+  "map": ""
+}

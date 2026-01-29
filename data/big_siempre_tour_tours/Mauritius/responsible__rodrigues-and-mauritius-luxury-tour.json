@@ -1,0 +1,75 @@
+{
+  "destination": "Mauritius",
+  "mainPhoto": "",
+  "id": "rodrigues-and-mauritius-luxury-tour",
+  "tourName": "Rodrigues and Mauritius luxury tour",
+  "placesVisited": "",
+  "generalInfo": "Experience the enchanting natural beauty of Rodrigues and Mauritius. Begin your trip with a four-night stay in Rodrigues, at a luxurious, boutique hotel before travelling to Mauritius, spending time at a tranquil eco-lodge set in the rural hills of southern Mauritius, and the island’s original boutique hotel, set in a quiet coastal neighbourhood in the north of the island. <br/><br/>Explore Rodrigues, a small island that is only 108 square kilometres in size and often called “Mauritius’ little sister”. With unspoilt natural beauty, welcoming people and a vibrant culture, Rodrigues is a hidden gem for travellers looking for a unique adventure. <br/><br/>Mauritius itself is well known as a beach destination, but there is so much more to discover. The country is a melting pot of cultures and influences which makes for some delicious cuisine and rich history. The south of the island is considered more ‘rural’, with national parks that are home to endemic plants and birdlife, impressive waterfalls and striking geographical features. The northern area is more populated and is where you will find the capital city, Port Louis, with bustling markets, engaging museums and historical sites.",
+  "durationDays": "13",
+  "price": "3965",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in Mauritius and connect to an onwards flight to Rodrigues. On arrival, you will be met by our local ground agent and transferred to your hotel; a luxury boutique hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Spend two days exploring Rodrigues. Make sure to snorkel or dive in the clear waters. Those looking to keep active can try kite-surfing or caving at Caverne Patate."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Enjoy a full-day guided island tour. During the day, learn about the island's history and traditions while visiting Port Mathurin, a small town which acts as the island's capital. Visit the bustling market and try some local delicacies. Continue to the Francois Leguat Nature Reserve, home to over 3,000 giant tortoises after a successful re-introduction program."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "You will be transferred back to the airport for a domestic flight to Mauritius. On arrival, our ground agents will meet you at the airport and transfer you to your next destination, a welcoming eco-lodge near Chamarel."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Relax at your lodge and explore the area. We will provide you with tried and tested strava maps, useful for any keen walkers. Rent bicycles and explore the nearby village. Our favourite time of day here is sunset, when you can sit at 'the View Bar' and watch the sun set over the Indian Ocean on the horizon."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Today, explore Mauritius's natural beauty with a guided tour of the lush southern region. Visit Trou aux Cerfs, an extinct volcano, before visiting a beautiful viewpoint over looking Black River Gorges. The national park is home to a number of endemic species. Enjoy lunch at a local restaurant before visiting Chamarel Nature Reserve where you can find the Seven Coloured Earths and Chamarel Waterfall."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "After a leisurely start to the day, you will be transferred to your final destination; a boutique hotel on the northern coast."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Enjoy a guided tour of Port Louis and the island's north. Experience the harmonious diversity on the island, visiting colourful temples and chapels, alongside botanical gardens."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "After a busy few days exploring the island, spend your last two days relaxing on the beach. The hotel offers a boat shuttle to the nearby town; Grand Baie, perfect for independent exploration."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "As your trip draws to a close, you will be transferred to the airport for your flight home."
+    }
+  ],
+  "map": ""
+}

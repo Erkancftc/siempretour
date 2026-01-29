@@ -1,0 +1,50 @@
+{
+  "destination": "Armenia",
+  "mainPhoto": "",
+  "id": "armenia-short-break-holiday",
+  "tourName": "Armenia short break holiday",
+  "placesVisited": "",
+  "generalInfo": "Armenia is a fascinating mixture of cultural influences. Proud of its independence, its alphabet, and its Christian heritage, Armenia has more than a whiff of former Soviet Republic, indeed crossing Yerevan’s busy Republic Square (built over a nuclear bunker) risks being run over by one of many shiny white Lada Nivas.<br/><br/>This short break in Armenia will give you an excellent insight into this fascinating frontier state.<br/><br/>From your base in vibrant Yerevan, explore the most intrinsic areas of the city, before on Days 3 and 4 heading out of the city to observe incredible architecture and historical monuments such as the remarkable UNESCO listed Geghard monastery carved from the mountain,  and Khor Virap with its incredible views of Mt. Ararat.<br/><br/>Also gain an insight into Armenian culture, even trying your hand at traditional bread making and tasting delicious wine in one of the world’s oldest wine producing nations.",
+  "durationDays": "5",
+  "price": "895",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival in Yerevan - Upon arrival in Armenia, you will be welcomed and transferred to your hotel in central Yerevan. Overnight Tufenkian Historic Hotel Yerevan. No meals or guided activities are included today."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Yerevan sightseeing - After breakfast meet your local guide and enjoy a half-day walking city tour of Yerevan, including Victory Park with its high-scale view point over the city, Cascade and the Gafeschian Centre of Art, The North Avenue, the Opera House and Republic Square. Visit the Genocide Memorial and museum dedicated to the victims of the genocide that took place in 1915 and the memorial of eternal fire. Also enjoy a short visit to Matenadaran - a Museum and Scientific Institute of ancient manuscripts, which houses a unique collection of ancient manuscripts covering such topics as philosophy, law, mathematics, medicine and geography. The rest of the afternoon will be at leisure for you to relax perhaps al fresco at a local café or explore independently. Finish the day at the Vernissage flea market, a large open-air market for handmade souvenirs, carpets, silver and jewellery. Optional activity (not included): Visit the Yerevan Brandy Factory for a guided excursion to the cellars and enjoy a degustation of 2 types of local brandy. Overnight Tufenkian Historic Hotel Yerevan. (B)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Yerevan – Garni - Geghard (UNESCO) – Lake Sevan – Yerevan (Overall approx. driving time today is 3.5 hours) - Travel to Kotayk province to explore Geghard Monastery, astonishingly partly carved out of a mountain. Continue to nearby Garni to visit the impressive pagan temple. Enjoy lunch in the village of Garni in an authentic rural environment with a master-class of baking lavash - traditional Armenian flatbread. Continue onwards to beautiful alpine Lake Sevan and take the steps to the top of the peninsula to enjoy breathtaking scenery of the splendid mountain chain surrounding the glittering surface of the lake. Optional activity (not included): Near Lake Sevan visit a craftsman specialized in khachkars (Armenian cross-stones). Later return to Yerevan where your evening will be at leisure. Overnight Tufenkian Historic Hotel Yerevan. (BL)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Yerevan – Khor Virap – Tushpa Wine Cellar – Yerevan (Overall driving time today is approx. 2 hours) - This morning we leave the city and drive through the fertile Ararat valley to the picture postcard monastery of Khor Virap (4th -17th c), one of the sanctuaries of the Armenian Apostolic church and an important pilgrimage site. The views across to the imposing peak of Mt. Ararat are stunning. Continue to the Tushpa Wine Cellar where you will experience Armenian viticulture first hand and learn about historic Armenian wine-making traditions. You will also have lunch here. Armenia is one of the oldest wine producing nations in the world along with neighbouring Georgia. Return to Yerevan where your late afternoon and evening will be at leisure. Overnight Tufenkian Historic Hotel Yerevan. (BL)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Yerevan – Departure from Armenia - Bid farewell to Armenia as you are transferred to the airport or train station for your onward journey. (B)"
+    }
+  ],
+  "map": ""
+}

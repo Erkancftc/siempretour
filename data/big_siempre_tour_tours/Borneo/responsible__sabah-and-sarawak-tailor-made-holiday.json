@@ -1,0 +1,85 @@
+{
+  "destination": "Borneo",
+  "mainPhoto": "",
+  "id": "sabah-and-sarawak-tailor-made-holiday",
+  "tourName": "Sabah and Sarawak tailor made holiday",
+  "placesVisited": "",
+  "generalInfo": "This itinerary is designed for curious travellers who want to go beyond the usual highlights of Borneo. You’ll uncover the cultural heritage of Kuching, meet orangutans, and admire Borneo’s natural beauty, including jungle treks, and a river cruise on the Kinabatangtan. <br/><br/>Along the way, you’ll stay in comfortable accommodation and enjoy meaningful experiences that reveal the real Borneo – from traditional longhouses to rare wildlife encounters. <br/><br/>You’ll start in Kuching, where the city’s layered heritage sets the scene. From there, travel deep into the interior to meet the Iban people in their remote longhouses, learning about their traditions first-hand. <br/><br/>You’ll visit little-visited villages, walk jungle trails to hidden waterfalls, and explore riverbanks teeming with wildlife. <br/><br/>A highlight of the trip is the visit to the famous Sepilok Orangutan Rehabilitation Centre and the Bornean Sun Bear Conservation Centre. From there, you'll travel by boat to Abai Jungle Lodge on the Kinabatangan River, where you will spend two nights in a chalet accommodation. <br/><br/>Whether you’re watching wild orangutans, sampling Indigenous dishes, or joining a traditional dance, each experience is thoughtfully designed to bring you closer to Borneo’s wild, natural beauty.",
+  "durationDays": "12",
+  "price": "1640",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival in Kuching - Arrive at Kuching Airport, where you’ll be met and transferred to your hotel. Spend the afternoon settling in and enjoying the laid-back charm of the riverfront. You’ll be staying for two nights at the Riverside Majestic Kuching (Astana Wing), in a Superior River View room."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Kuching Heritage Walk & Food Trail - Discover Kuching’s vibrant cultural heritage on a guided walking tour. Wander through historic temples, museums, colonial-era buildings, and lively markets, each with its own story to tell. Along the way, sample a mix of local delicacies on a food trail that celebrates Sarawak’s wonderfully diverse flavours."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Semenggoh Wildlife & Journey to Bengoh - Visit Semenggoh Wildlife Rehabilitation Centre to observe semi-wild orangutans in a protected natural environment. Then travel on to Bengoh Dam, where you’ll cross the lake by boat to reach a scenic hilltop homestay in Kampung Sting. You’ll spend two nights in a shared dormitory at the homestay in Bengoh."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Hiking to Kling & Susung Waterfalls - Set off early for a rewarding hike through forest and plantations, leading you to the beautiful Kling and Susung waterfalls. Take a refreshing swim, enjoy a picnic lunch surrounded by nature, then head back to your peaceful homestay."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Trek to Ukom Longhouse - Walk downhill through rural countryside and quiet villages towards Batang Ai Hydro Lake. From here, take a boat across the water to Ukom Longhouse, where you’ll be welcomed with traditional Iban hospitality. Enjoy a cultural performance in the evening and spend the night in a communal longhouse. You’ll stay in the dormitory-style guesthouse at Nanga Ukom Longhouse."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Longhouse Culture & Return to Kuching - After a fascinating blowpipe demonstration and cultural walk around the longhouse, you’ll return to Kuching. The evening is yours to unwind and enjoy at your own pace. You’ll spend the night at the Riverside Majestic Kuching, Astana Wing, in a Superior River View room."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Flight to Kota Kinabalu - You'll be transferred to the airport for your flight to Kota Kinabalu. On arrival, check in to your hotel and spend the rest of the day exploring or relaxing as you wish. You'll be staying for two nights at Le Meridien Kota Kinabalu in an Urban Room."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Mari-Mari Cultural Vllage - Explore Sabah’s rich cultural heritage at Mari-Mari Cultural Village. Try your hand at traditional skills, witness age-old rituals, and experience a lively performance that celebrates the region’s diverse ethnic traditions."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Kinabalu Park and Transfer to Sepilok - Take a scenic drive through the mountains to Kinabalu Park and Nabalu Market, stopping to enjoy the cool highland air and views along the way. From there, continue overland to Sandakan, where you’ll check in to MY Nature Resort. Settle into your Standard Chalet and unwind in the peaceful natural surroundings. You’ll stay here for one night."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Sepilok Orangutan Centre & Abai Jungle Lodge - Start your adventure with a visit to the renowned Sepilok Orangutan Rehabilitation Centre and the nearby Bornean Sun Bear Conservation Centre. From here, travel by boat along the Kinabatangan River to Abai Jungle Lodge. Evening and night cruises offer a magical chance to spot wildlife as the rainforest comes alive after dark. You’ll spend two nights at Abai Jungle Lodge in a Standard Chalet."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Pitas Oxbow Lake & Village Visit - Start your day with an early morning river cruise to Pitas Oxbow Lake, where you can enjoy excellent wildlife spotting. Afterwards, visit a local village and share a traditional lunch with the community. In the afternoon, embark on another river cruise for even more opportunities to see orangutans and other fascinating wildlife."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Return to Sandakan & Departure - Spend a leisurely morning at your own pace before a boat transfer takes you back to Sandakan. After lunch, you'll be transferred to the airport for your onward flight."
+    }
+  ],
+  "map": ""
+}

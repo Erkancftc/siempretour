@@ -1,0 +1,40 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "kenya-safari-and-beach-by-train",
+  "tourName": "Kenya safari and beach by train",
+  "placesVisited": "",
+  "generalInfo": "This 12 day Kenya Safari and Beach trip offers incredible wildlife viewing away from the crowds with relaxing time on the beautiful Kenya coast.  The trip has been created to showcase Mbulia Hills, a private conservancy bordering Tsavo East and West doing incredible work in elephant conservation. <br/><br/>Your trip starts in Nairobi, once seen as a brief stopover, the city is now buzzing with farm to table restaurants, street art experiences and boutique hotels. Everything we do is tailormade so we can organise activities to suit you throughout your time in Kenya. <br/><br/>You then jump on the train in Nairobi to make your way down to Tsavo, keeping an eye out for wildlife as you enter the wilderness. The train is comfortable, safe and a fantastic way of exploring Kenya. <br/><br/>You’ll spend 4 days with a private guide exploring Tsavo East and Tsavo West National Parks as well enjoying walks and conservation activities on the Mbulia Conservancy. You’ll see hundreds of elephant, great cat sightings of lion and leopard, you’ll visit the rhino sanctuary in Tsavo West and hope to see the resident pack of wild dog in the conservancy.<br/><br/>You then get back on the train to the coast where you’ll stay in a boutique hotel on the Kenya coast. Explore the ocean by dhow, paddleboard, kayak or on a snorkelling trip; or just relax by the sea or hotel pool.",
+  "durationDays": "12",
+  "price": "4000",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Rise early to catch the train to Tsavo, a relaxing way to experience Kenya’s diverse landscapes. Travelling by train offers a more immersive journey, providing a window into local life that many visitors miss. While often overlooked by luxury safari tours, this scenic ride gives you your first opportunity to spot elephants and other wildlife as you pass through the iconic red soils and rugged terrain of the Tsavo region. The comfortable, four-hour trip to Voi showcases stunning views of wilderness and wildlife, setting the stage for your safari adventure. Upon arriving in Voi, you’ll be ready to explore the vast savannahs, rich wildlife, and unique ecosystems that make Tsavo so special for nature lovers."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Your safari experience begins at Mbulia Conservancy, a private sanctuary that borders both Tsavo East and Tsavo West National Parks. Established in 2012, the conservancy provides a safe haven for elephant while also playing a vital role in supporting local communities. By staying here, a portion of your lodge fees directly contributes to crucial conservation efforts, such as funding ranger patrols, building fences to reduce human-wildlife conflict, and protecting wildlife habitats. Beyond this, the conservancy also gives back to the surrounding communities by providing essential services, including school bursaries and water tanks. This unique partnership between conservation and community development ensures that your visit supports both wildlife preservation and local livelihoods, making it a deeply rewarding and impactful part of your safari adventure."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Begin your day early, joining rangers on a patrol through Mbulia Conservancy. After a briefing on their conservation work, you’ll set out on foot or by vehicle to track wildlife like elephant and buffalo, learning to identify tracks and signs along the way. The rangers will share insights on protecting wildlife and how they balance the needs of local communities with conservation. You’ll visit fence lines, which help prevent crop raids, and stop at waterholes where animals gather. Throughout the patrol, the rangers share stories of their daily challenges, from poaching threats to resource shortages. By the end of the day, you’ll have gained a hands-on understanding of the vital role rangers play in protecting the ecosystem."
+    }
+  ],
+  "map": ""
+}

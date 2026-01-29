@@ -1,0 +1,75 @@
+{
+  "destination": "Lebanon",
+  "mainPhoto": "",
+  "id": "syria-guided-history-and-cultural-tour",
+  "tourName": "Syria guided history and cultural tour",
+  "placesVisited": "",
+  "generalInfo": "Be among the first travellers to return to Syria.<br/><br/>We start this tour in neighbouring Lebanon, for ease of access, and from its vibrant capital Beirut head to the Syrian border, visiting the spectacular temple at Baalbek on the way. From here, we continue to the ancient city of Damascus, one of the most important centres of the Arab world throughout history. <br/><br/>After exploring its atmospheric souqs, mosques and palaces, we head to Palmyra, still one of the Middle East’s most impressive archaeological sites despite the traumas of recent years.<br/><br/>In Aleppo we visit the old citadel and the bazaar, meeting local people who are starting to rebuild their lives following the recent conflict – Aleppo vying with Damascus for the title of the oldest city in Syria, and with evidence of its diverse history throughout. From here we continue to Hama with its iconic old waterwheels, then visit the Crusader castle of Crac des Chevaliers, its imposing presence atop a hill giving it an unrivalled defensive position during the religious conflicts of the medieval era.<br/><br/>On our way back to Damascus, we delve into Syria’s Christian heritage, visiting the Monastery of St George and the charming village of Maalula, one of the last places where the language of the Bible is still spoken. The trips ends with a visit to Bosra’s vast Roman theatre, before crossing the border back into Lebanon, with a final night in Beirut.<br/><br/>The overwhelming perception of Syria in the west is coloured by images of war and destruction, but the country is now moving into a different era. It won’t be too long before others make their way back, but for now enjoy being one of the few visitors here.",
+  "durationDays": "10",
+  "price": "2999",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Beirut - Arrive into Beirut and transfer to the hotel. Overnight Four Points Sheraton Verdun or similar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Baalbek - Ksara – Damascus - Passing through the vine growing region of the Bekaa Valley, we head to Lebanon’s greatest Roman treasure and one of the wonders of the ancient world, Baalbek. We also visit Chateau Ksara, the most famous winery in the region, dating back to the 19th century. We taste some of the local wines before crossing the border into Syria and continuing to Damascus for the night. Overnight Beit Zafran Hotel de Charme or similar. (B)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Damascus - Founded in the 3rd millennium BC, Damascus is one of the oldest cities in the Middle East. We spend the day exploring the city including visits to the National Museum, Umayyad Mosque, the Azem Palace, and Souq al Hamidiyeh among others. Overnight Beit Zafran Hotel de Charme or similar. (BD)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Palmyra - Aleppo - This morning we head to Palmyra, to see the ruins of a great city that was once one of the most important cultural centres of the ancient world. Afterwards, we drive to Syria’s second largest city, Aleppo. With an impressive history dating back nearly eight thousand years, Aleppo is in competition with Damascus for the title of the oldest continually inhabited city in the world. Overnight Sheraton Hotel or similar. (BL)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Aleppo - Today we explore the Aleppo citadel, perched on a hill above the city and a fine example of Arab architecture. We also visit the archaeological museum and the bazaar, a network of covered markets dating back as far as the 14th century. The bazaar has always been an integral part of the old city but a third of it was destroyed in the recent conflict, which the locals are now working hard to rebuild. Overnight Sheraton Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Hama – Homs - Crac des Chevaliers - Visit the old city of Hama, known for its enormous waterwheels which have churned in the channels since Roman times. We then drive towards Homs, a stark reminder of recent conflict but with signs of local life and trade being restored, such as the historic souq which has reopened. We then visit the spectacular medieval castle of Crac des Chevaliers, known locally as ‘Qalaat al Hosn’, with its strategic location overlooking Wadi-al-Nasara. Overnight Villa Rosa or similar. (B)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Maalula – Damascus - After breakfast we discover the Monastery of St George of al Humaira, one of the oldest monasteries in Syria. Next we drive to Maalula, home to a population that still speaks the dialect of Aramaic, the language of Christ, and two important Christian monasteries. We drive deep into the valley to explore some of the caves dating back to Roman times before travelling onwards to Sednaya, a renowned centre for Christian pilgrimage since the 6th century AD. Overnight Beit Zafran Hotel de Charme or similar. (B)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Ezra’a – Bosra - Damascus - Travel south to the town of Ezra’a to visit the church of Saint George, constructed in 515 AD and one Syria’s oldest churches that is still in use. Continue to Bosra, one of Syria’s most fascinating historical sites, boasting a mix of Roman and Byzantine ruins, and early Islamic architecture. Return to Damascus for the night, where we have dinner with a local family in their home. Overnight Beit Zafran Hotel de Charme or similar. (BD)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Beirut - Transfer to the border with Lebanon and onwards to Beirut. We spend the afternoon exploring the city with visits to Pigeons’ Rock, Martyrs’ Square - located in the old part of the city with beautiful architecture, churches and mosques, as well as the souks which have been reconstructed post-civil war, and Zaitounay Bay. Overnight Four Points Sheraton Verdun or similar. (B)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Beirut - Transfer to the airport for your flight home."
+    }
+  ],
+  "map": ""
+}

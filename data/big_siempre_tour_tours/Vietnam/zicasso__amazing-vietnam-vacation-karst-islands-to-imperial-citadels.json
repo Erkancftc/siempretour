@@ -1,0 +1,65 @@
+{
+  "destination": "Vietnam",
+  "mainPhoto": "",
+  "id": "amazing-vietnam-vacation-karst-islands-to-imperial-citadels",
+  "tourName": "Amazing Vietnam Vacation: Karst Islands to Imperial Citadels",
+  "placesVisited": "Hanoi, Ha Long Bay, Hue, Hoi An, Ho Chi Minh City (Saigon), Mekong Delta",
+  "generalInfo": "Escape to Vietnam on a spellbinding tailor-made tour that allows you to visit much of this breathtaking destination in 8 days. From the bustling cityscape of Hanoi to the emerald water of Ha Long Bay and its picturesque islands, this journey through Vietnam brings you closer than ever to its captivating culture and spectacular scenes.",
+  "durationDays": "8",
+  "price": "2,100",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Ha Long Bay - A Garden of Karst Islands",
+      "description": "The oriental charm of Vietnam will dazzle you as you touch down in Hanoi, the country’s bustling capital. Scenes of roadside stalls riddled with sizzling woks and decorated pagodas dressed in gold will dominate the views from your transfer. Your transfer will take the form of a private driver, who will convey you to the pier for an overnight cruise across Ha Long Bay. Dramatic karst islands pepper the emerald bay, and you will swoon over sea spectacles during your voyage to modest fishing villages, such as Cua Van Floating Village and Tien Ong Cave. Colorful marine creatures reside inside the cave."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Hue - Cruising to a Surprise Cave",
+      "description": "The sunshine will flood your ship's deck in the morning and dance off the bay’s emerald water, a flawless setting to accompany a vitalizing Tai Chi class should you wish to partake. You will then savor a sumptuous Vietnamese breakfast on board while the boat slowly glides toward Surprise Cave, a bewitching cavern that boasts impressive stalactites and stalagmites. In the afternoon, you will transfer to Hue for a colorful few nights in the former Imperial seat of Vietnam."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Hue - Imperial Citadels and Humble Villages",
+      "description": "The evocative cityscape of Hue retains its old-world charm. Serving as the residence of the Nguyen Dynasty, the empirical glory days are most notably visible among the ruins and remnants of Dai Noi Citadel but still echo through the atmospheric alleys and charming town squares of the city. You will peruse the magnificent architecture that composes the citadel's skyline before gallivanting to spirited villages where Vietnam’s trademark humility shines brightest. During a visit to Bao La Village, you will be welcomed by the friendly locals before indulging in a truly authentic Vietnamese dinner prepared by chef Mrs. Nhu Huy in her home."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Hoi An - Along the Hai Van Pass",
+      "description": "You will begin your expedition to southern Vietnam along the staggering Hai Van Pass. The winding roads pass jagged rocky outcrops that tower toward the clouds and panoramic viewpoints that showcase golden Vietnamese rice paddies. Hai Van Pass is a tour in itself that will lead you to the charming Old Quarter of Hoi An. Here, structures steeped in memories and pagodas drenched in history are just a few moments in the town that will evoke stirring emotions."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Ho Chi Minh City - Swept Up in the City",
+      "description": "This morning, you can bask in the radiant sun that illuminates Hoi An’s pristine beach. Later today, you will transfer to the booming city of Ho Chi Minh City. After arriving in Ho Chi Minh City, you will be blown away by the buzzing energy that floods the cityscape, which is reminiscent of a true Southeast Asian skyline. You can join the crowds and visit significant heritage sites, including the Reunification Palace and Notre Dame Cathedral. Here, the country’s dramatic past may unravel itself. As you make your way to the iconic opera house later, you can scour the streets for authentic culinary treats on the back of a Vespa, which is a quintessential Vietnamese experience you cannot miss."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Ho Chi Minh City - Along the Mekong",
+      "description": "Today, you will venture from the bustling cityscape to discover the breathtaking beauty that lies beyond its towering skyscrapers. On a traditional wooden sampan boat, you will float along the Mekong Delta to floating markets and revered temples. The chocolate-colored river is flanked by lush foliage, and singing birds can be heard fluttering through the trees. You will stop at cultural landmarks, such as the Cao Dai Temple, Ancient Mandarin House, and Binh Hoa Phuoc en route to see emblazoned statues, fruit orchards, and ancient nurseries."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Hanoi - Explore to Your Heart's Content",
+      "description": "The sun may crack through the clouds of Ho Chi Minh City and filter onto the streets this morning. Some streets are often swamped by early risers either heading to work or doing the culinary rounds. You will transfer back to Hanoi shortly after breakfast to experience the country’s exuberant energy. Whether you find yourself people-watching under the shady trees along the Hoan Kiem Lake, venturing to nearby villages, or cheering at a water puppet show that spotlights Vietnam’s unique cultural performances, you can take pleasure in your final moments in this jubilant part of the world."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Hanoi - Final Flavors in Vietnam",
+      "description": "This morning, you may rise to the sounds of a city overflowing with life. The crackle and sizzle of coals burning under grills, the warm chatter of friends in a foreign language, and the buzzing of grounding coffee beans may cause you to reminisce about the amazing memories you have created on your trip. You can seize your last morning in Vietnam with a hearty traditional breakfast at a beloved street food joint before wrapping up your vacation by heading to the airport by way of private transfer."
+    }
+  ],
+  "map": ""
+}

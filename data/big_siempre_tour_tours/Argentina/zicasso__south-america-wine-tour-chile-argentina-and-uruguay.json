@@ -1,0 +1,75 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "south-america-wine-tour-chile-argentina-and-uruguay",
+  "tourName": "South America Wine Tour: Chile, Argentina and Uruguay",
+  "placesVisited": "Santiago, Mendoza, Colonia del Sacramento, Buenos Aires",
+  "generalInfo": "In South America, there is magic in the wind, a stirring in the air, and a delicious glass of wine in your hand. There is history and culture, romance and passion, and the most decadent reds and delicate whites you’ve ever had. There is fine food and fine art, world-class museums and out-of-this-world scenery, and somewhere along the way, you realize: California and France have nothing like this.",
+  "durationDays": "10",
+  "price": "4,100",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Santiago – Bienvenidos",
+      "description": "Touch down this morning in stunning Santiago, where you can climb mountains in the morning and enjoy a sunset over the Pacific in the evening. You’ll be transferred by private car from the airport to your centrally located four-star hotel, where you’ll feel the vibrancy and joie de vivre of this remarkable city. Take a moment to drop off your luggage and recover from your overnight journey, and then prepare for an amazing introduction. Your tour of Santiago begins at its civic center, the heart of soul of this metropolitan marvel: the Plaza de Armas. Here, you’ll take in the astounding Metropolitan Cathedral of Santiago, a neoclassical masterpiece that dominates the eye with its elegance and grace. Visit the gorgeous Central Post Office building, whose façade gives off the inescapable luxury of the best-known cities of Europe. The Palacio de Real Audiencia is the former seat of the courts of justice. Continue on to La Moneda, where the Presidential Palace sits directly above the fascinating Centro Cultural Palacio de Moneda – one of the best places in the city to catch local artists and artisans plying their wares and honing their skills. Then, set out for Santa Lucia Hill, where the city was originally founded in the middle of the 16th century. The tour ends with a stroll through some of the cities most unique and unforgettable districts. Bellavista offers a wide array of markets and fairs as well as a charmingly bohemian ambiance, while the residential neighborhoods of Vitacura, Las Condes, and Providencia showcase some of Santiago’s finest examples of architecture. In the evening, you’ll want to hit one of the city’s excellent jazz clubs – the Club de Jazz de Santiago is perhaps the city’s best, and it attracts some of the finest talents from around the world."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Santiago – An Introduction to Chile’s Bustling Wine Scene",
+      "description": "Today, you turn to the hinterlands of Santiago, bound for some of the finest wine regions on the South American continent. Tour the many vineyards of Concho y Toro, the country’s largest wine producer, and revel in the transcendent beauty of Chile’s viticultural heartlands, from the plunging Maipo Valley to the scenic town of Curico. You’ll be sure to enjoy the complex and delectable wines that burst forth from the fecund soil, from rich and sultry reds like Cabernet to buttery, velvety whites including some of the best Chardonnays you’ve ever encountered. A friendly and engaging guide will show you all the tricks of the trade in this quickly developing wine center, where modern technology exists alongside age-old methods. The rest of the day is at your leisure, with the option of returning to Santiago or staying to enjoy fully all of this arresting landscape."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Mendoza – Crossing the Andes to Argentina",
+      "description": "Leave captivating Chile for a journey that is truly out-of-this-world, as you make your way over the jagged and grandiose Andes Mountains, the dramatic backbone of South America. You’ll catch stunning views of some of the tallest peaks in the Western Hemisphere before crossing the border into wild, rugged and romantic Argentina, the birthplace of the tango and the foremost wine-producing country in all of Latin America. Your final destination on this breathtaking voyage is the delightful city of Mendoza, one of the great foodie spots on the continent. While in Mendoza, you’ll stay in the impeccable hotel, where the ambiance is relaxed, the furnishings elegant, and the service truly unparalleled. Enjoy a quick dip in the hotel’s decadent pool before getting ready for a mesmerizing dinner at one of the finest restaurants in the city. The restaurant boasts a superb selection of entrees – the pasta, like gnocchi and ravioli, are particularly delicious, and the surf and turf is pure elegance – starters and desserts, as well as a wine list that will have even the most discerning palate yearning for more."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Mendoza – The Fruits of Argentina’s Viticultural Regions",
+      "description": "Head for the rolling hills and manicured vineyards of Mendoza with a world-class wine expert leading the way as you set out to explore South America’s largest wine region. You’ll tour no fewer than four wineries, experiencing the best varietals and vintages that the country can offer, from the bold and assertive Malbecs that put Argentina on the wine-lovers map to the softer, more subtle grapes like Bonarda and the fruity, delicate Torrontes wines. Lunch is a luxurious affair complete with perfectly paired wines, and the afternoon features a lesson in the history of the craft of winemaking in Argentina. You’ll learn how the dry air and the altitude combine to produce delicious products, the importance of a cork in protecting the wines many subtleties, and even the correct way to hold your wine glass as you prepare for your first taste of Argentina’s finest."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Mendoza – A Day of Exploration in Western Argentina",
+      "description": "The wonders of Mendoza await you, with all of its marvelous charms simply dying to be discovered. You’ll love strolling the streets and visiting the large and elegant public squares, and you’ll be fascinated by the past of this memorable metropolis, where even a massive earthquake could not derail the city’s destiny. Enjoy the Plaza Independencia in the center of town before visiting the remaining structures that speak to Mendoza’s colonial history, like the beautiful civic center and the ruins of the Church of San Francisco. On the fringes of the city lies the vast and stunning General San Martin Park, a sprawling swath of green that is the home to the elegant La Fontaine de L’Observatoire, and the serene Regata Lake, as well as a gorgeous botanical garden and Mendoza Zoological Park. Your tour ends atop the towering de la Gloria Hill, where you’ll be rewarded with a sensational vista that stretches over the entire city as well as the surrounding countryside, and where you’ll encounter the dramatic Monument to the Army of the Andes."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Colonia del Sacramento – Heading East to Uruguay",
+      "description": "Be sure to bring your passport with you, as you’ll cross the entire width of Argentina before landing in Montevideo, the capital and largest city of Uruguay. You’ll board a transfer that will take you to Colonia del Sacramento. This incredible place was the center of a seemingly endless land struggle between the Spanish and the Portuguese, changing hands no fewer than 11 times before it was finally claimed by the new nation of Uruguay in the early part of the 19th century. Make your way to your quaint hotel before setting out to explore the many delights of this gorgeous city, where the historic city center offers an incredible insight into the practices of the past, and where the many monuments are sure to capture your imagination."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Colonia del Sacramento – Discovering Uruguay’s Oldest City",
+      "description": "Uruguay is a country filled with contrasts, and nowhere is this more evident than in Colonia del Sacramento, where the feuding cultures of Imperial Spain and Portugal left an indelible and indescribable legacy that continues to attract. The Historic Quarter is justifiably renowned for its many cultural riches, and the tree-lined Plaza Mayor is surrounded by some of the most interesting edifices in the city. You’ll certainly want to stop by the sleek, white lighthouse that dominates the river’s waters, the ancient and impressive city gate, and the awe-inspiring Plaza de Torros Real de San Carlos, a former bullfighting ring where more than 10,000 people once saw some of the great matadors of the age showcase the steps of the deadly dance. The city’s waterfront is also darling, and everywhere you’ll feel the breath of history in your ear, urging you on to ever-greater excursions before enjoying a fantastic dinner at one of the city’s best eateries."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Buenos Aires – Making Your Way to Inimitable Buenos Aires",
+      "description": "A ferry takes you across the wide expanse of the Rio de la Plata and back into the domain of arresting Argentina, set for the scintillating streets of brilliant Buenos Aires, the Paris of Latin America, and one of the world’s true urban gems. Make your way to the vibrant antique market of captivating San Telmo, one of the city’s most romantic and alluring barrios (neighborhoods) before turning to your world-class accommodations. This inspiring structure is located on Buenos Aires’s famous Avenida Corrientes – one of the city’s main thoroughfares and the center of its bustling energy. The hotel features inspiring examples of Art Deco grandeur, from the green marble of the lobby that came all the way from India, to the chandelier from the 20s that glitters with the incandescence of fine Swarovski crystal. Dinner this evening is a true treat, as you’ll savor the finest of Argentine cuisine while attending a world-renowned tango show, where you’ll feel the heat of the dancers and tremble with the passion that seems to fill the air."
+    },
+    {
+      "dayNumber": "9",
+      "title": "Buenos Aires – Hitting the Highlights in Argentina’s Cosmopolitan Capital",
+      "description": "Your excursion into Buenos Aires begins this morning at the political center of Argentina, the site of the impressive Congressional Palace and the unforgettable Presidential Palace, popularly known as the Casa Rosada, or Pink House. Fronting these beautiful buildings is the iconic Plaza de Mayo, a heart of protest and activism in Argentina for more than two centuries, where Argentine patriots met to proclaim a new nation and where thousands of mothers walked in remembrance of Desaparecidos (The Disappeared) in the 1970s and 1980s. Then, make your way down the indescribable Avenida 9 de Julio, the world’s widest avenue, until you stop before the awesome Teatro Colon, the city’s main opera house and one of the five best acoustic venues on the planet. Your tour gains some vibrancy and verve as you leave the stately avenues of downtown for the bright hues of La Boca, the neighborhood that was ground zero for Argentina’s massive wave of Italian immigration in the late 19th century, and where the tantalizing tango first took shape. Stroll the elegant streets of Palermo, where expansive city parks present a tranquil and elegant air. Then, visit resplendent Recoleta, the home of some of the city’s biggest movers and shakers, as well as home to one of the most beautiful cemeteries in the world. The tomb of Eva “Evita” Peron is here, as well as a number of Argentine presidents, Nobel Laureates, and even a granddaughter of Napoleon. If you wish to explore more of Argentina, Zicasso offers custom Argentina tours ."
+    },
+    {
+      "dayNumber": "10",
+      "title": "Buenos Aires – The End of Your Latin American Adventure",
+      "description": "After a leisurely morning, a private driver will pick you up from your hotel and deliver you to the airport in plenty of time to board the plane that will take you home. You’ll be filled with the memories of the past ten days, from the soaring heights of the Andes to the tranquil stretch of the Rio de la Plata, and your heart will be aching with the desire to see more of this truly remarkable region."
+    }
+  ],
+  "map": ""
+}

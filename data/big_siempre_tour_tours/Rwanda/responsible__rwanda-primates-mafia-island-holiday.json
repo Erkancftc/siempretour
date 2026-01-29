@@ -1,0 +1,60 @@
+{
+  "destination": "Rwanda",
+  "mainPhoto": "",
+  "id": "rwanda-primates-mafia-island-holiday",
+  "tourName": "Rwanda primates & Mafia Island holiday",
+  "placesVisited": "Kigali, Volcanoes National Park, Dar es Salaam, Mafia Island, gorilla & golden monkey tracking",
+  "generalInfo": "Mountain gorillas, monkeys and whale sharks are the stars of this wildlife holiday in Rwanda and Tanzania. Things start off full speed ahead as you crack on with tracking wild mountain gorillas and endangered golden monkeys in their natural habitat in Volcanoes National Park. Following in the footsteps of an expert guide, you might be lucky enough to spy a silverback this deep into the Virunga Mountains. The rainforest lodge you stay in is both luxury and socially responsible, supporting projects that reduce human-animal conflict.<br/><br/>The wildlife tracking is balanced with total relaxation on Mafia Island – a remote island off the coast of Tanzania. It plonks itself in Mafia Island Marine Park, so the only activity you need do is snorkelling in Chole Bay... keeping your eyes peeled for gentle whale sharks and humpbacks.<br/><br/>You’ll travel with a holiday company that’s an expert at crafting tailor made luxury trips. They know that well-managed tourism has helped save the last of the mountain gorillas in Rwanda, so they’ll acquire permits, match you up with an expert guide, and make sure you’re informed on all the dos and don’ts of trekking in vulnerable rainforest. They’ll also suggest the best seasons to see whale sharks and humpbacks in the little-visited Mafia Islands, and give you a code of conduct for snorkelling alongside these curious mammals.",
+  "durationDays": "10",
+  "price": "5950",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival in Kigali - Upon arrival in Kigali, Rwanda's capital, you'll be met by a representative and transferred to your hotel. In the afternoon, you can explore this vibrant city with a guide. After your city tour, you’ll be transferred to Kinigi at the foothills of the Virungas in Parc National des Volcans."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Gorilla Tracking in Volcanoes National Park - After an early breakfast, you’ll drive to the Parc National des Volcans, where you’ll meet your guide and be briefed you about your trek and the various aspects of \"gorilla etiquette.\" Your professional guide will lead you into the forest in search of your allocated gorilla family. The high altitude and steep, slippery trails, plus the humidity under the forest canopy, can make the trek challenging, but it’s definitely worth the effort to spend time with wild mountain gorillas in their natural habitat."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Golden Monkey Tracking in Volcanoes National Park - After another early breakfast, you’ll once again be driven to the Parc National des Volcans, where you’ll meet your guide and be briefed about your golden monkey trek. Tracking golden monkeys and gorillas is a similar experience – you’ll be in a small group of no more than eight people and you can spend an hour with the monkeys in their natural habitats. However, as the golden monkeys live in the bamboo vegetation at the base of the volcanoes, the trek is not as strenuous as tracking gorillas. The monkeys are very active and it is likely that you’ll find them leaping between the bamboo branches in the trees above you or playing on the forest floor. After your golden monkey trek, you can also visit the Iby’Iwacu cultural village before returning to your accommodation."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Fly to Dar es Salaam - After breakfast, you’ll be transferred to Kigali Airport for your flight to Dar es Salaam in Tanzania. Upon arriva, you’ll be transferred to your beachfront accommodation in Dar es Salaam and you’ll have the rest of the afternoon and evening free to explore this fascinating city."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Fly to Mafia Island - After breakfast, you’ll be picked up and transferred to the domestic airport for your flight to Mafia Island. On arrival in Kilindoni, you’ll be met by a driver and taken to your chosen accommodation, where you’ll spend the next five nights on a half-board basis."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Explore Mafia Island - Enjoy Mafia Island at your leisure. You can dive or snorkel in Mafia Island Marine Park (the largest marine protected area in the Indian Ocean); try windsurfing, kayaking or stand up paddle boarding. If you’re visiting Mafia Island between October and March you’ll have the opportunity to snorkel with Whale Sharks, or if you’re visiting between July and October you may be lucky enough to see Humpback Whales. If you’re visiting from June to September you can join a turtle-hatching trip and witness hundreds of baby turtles scramble from the sandy beaches to the warm waters of the Indian Ocean. You may wish to stroll through Chole village where you can visit the old mosque, the Fruit Bat sanctuary or the boat yard or you may wish to explore Mrora Forest, Ras Mbizi Coconut Plantation or the Lighthouse at Ras Mkumbi."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Return to Dar es Salaam - Today, you’ll be driven back to Kilondoni Airport for your return flight to Dar es Salaam. A driver will meet you at the domestic airport to transfer you to the international airport for your flight home."
+    }
+  ],
+  "map": ""
+}

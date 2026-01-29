@@ -1,0 +1,60 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "tantalizing-argentina-tour-for-food-lovers",
+  "tourName": "Tantalizing Argentina Tour for Food Lovers",
+  "placesVisited": "Buenos Aires, Bariloche, Mendoza City",
+  "generalInfo": "During this luxurious 7-day adventure through Argentina that is fit for a true gourmand, you will experience much of the culinary treasures that this country has to offer. From the delicious Asado of Buenos Aires to the fine Malbec wines of Mendoza, Argentina is sure to impress and tantalize your taste buds. Luxuriate in the fine chocolates of Bariloche during a private chocolate-making class, learn to craft traditional Argentine delicacies, indulge in the flavors of world-class wines, and meander through the winding vineyards of Mendoza.",
+  "durationDays": "7",
+  "price": "2,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Buenos Aires – Attend a Spectacular Tango Show",
+      "description": "You will arrive at one of the city’s international airports, where you will be met by your private guide and transferred to your luxurious accommodation in the heart of the Palermo neighborhood. When you are ready, you will meet your expert guide for your first authentic taste of Buenos Aires. You will be transferred to the heart of the city, where you will attend a live tango show that will be accompanied by a gourmet meal and wine pairing. The show will prove to be utterly spectacular, and after dinner, you will be returned to your accommodation."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Buenos Aires – Private Cooking Class with Wine Pairing",
+      "description": "This morning, you will be led on a tour of Buenos Aires’ most noteworthy sites and neighborhoods . You will begin in your own neighborhood of Palermo. From Palermo, you will venture to the upscale neighborhood of Recoleta, where you will visit the area’s significant sites, such as the infamous Recoleta Cemetery. Your tour will continue to the city center, where you will be able to visit the Casa Rosada, which is the executive mansion of the Argentine President. In the afternoon, you will be enchanted by the spectacular Feria San Telmo, which is the neighborhood’s open-air market that is typically full of traditional Argentine delicacies, local artisans, and vibrant tango music. This evening, you will indulge in a cooking class that will teach you how to prepare classic Argentine dishes."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Buenos Aires – Excursion to La Pampa",
+      "description": "Upon your arrival in the La Pampa region, you will have the opportunity to meet the gauchos of La Pampa, which are the Argentine equivalent of cowboys. You will even be able to attend a classic Gaucho Show, where the gauchos will show off their skills and tricks that involve horses and lassos. Afterward, they will share their fascinating stories and legends from the Argentine countryside with you. Once you have had your fill of La Pampa, you will spend the rest of the afternoon to spend at your leisure. In the evening, you will be transferred to the high-end neighborhood of Puerto Madero to dine at a gourmet restaurant that overlooks the Rio de la Plata and the Puente de la Mujer bridge."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Bariloche – Private Chocolate-Making Class",
+      "description": "This morning, you will fly to Bariloche, which has been coined the “Swiss Alps of South America.” Upon your arrival, you will be met by your driver and transferred to your luxurious mountain lodge and spa accommodation that overlooks one of Bariloche’s most impressive lakes. When you are ready, you will board a private yacht, where you will spend the afternoon cruising through the charming Lake District. At the conclusion of your cruise, you will be transferred into the town center of Bariloche, where you will partake in an interactive chocolate-making class. As Bariloche is characterized by its large German and Swiss population, the cuisine, architecture, and culture of this region have a uniquely European feel."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Bariloche – Brewery and Craft Beer Tour",
+      "description": "Today, you will continue your explorations of Bariloche. This morning, you will traverse the scenic countryside of the Lake District on horseback. After your tour through Bariloche’s beautiful countryside, you will be provided with the opportunity to indulge in a brewery tour of the region. Craft beer is another byproduct of the cultural influence of Bariloche’s Swiss and German immigration, and you can sample the delectable flavors of Argentine beer and learn of the brewing process from local brewery owners. In the evening, you will be returned to the town center of Bariloche for the remainder of the evening."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Mendoza – Mendoza’s Top Wineries and Wine Tasting",
+      "description": "This morning, you will fly to Mendoza, which is Argentina’s wine country. Upon your arrival, you will be met by your driver and transferred to your opulent wine lodge and spa accommodation that overlooks the Andes Mountains. When you are ready, you will meet your guide to begin your curated tour of Mendoza’s boutique wineries. You will be transferred from winery to winery, where you will meet with the vintners whose families have owned these wineries for generations. As you tour the interesting facilities, you will learn about the winemaking process in addition to admiring the care that goes into the production of world-class wines. At the conclusion of your tour, you will be treated to a marvelous wine tasting of Mendoza’s best vintages."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Mendoza – Farewell to Argentina",
+      "description": "Today, you will enjoy your final breakfast in Mendoza before spending the morning on your own. Once you have finished breakfast, you can stroll through the winding vineyards or simply admire the glorious Andes Mountains for a final time. You can venture into town and sit at a charming cafe to make the most of the little time that you have left in Argentina. Soon, it will be time to return to your hotel, where you will gather your things and meet your private driver for your transfer to the airport."
+    }
+  ],
+  "map": ""
+}

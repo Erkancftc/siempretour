@@ -1,0 +1,65 @@
+{
+  "destination": "Peru",
+  "mainPhoto": "",
+  "id": "classic-machu-picchu-peru-tour",
+  "tourName": "Classic Machu Picchu & Peru Tour",
+  "placesVisited": "Lima, Cusco, Sacred Valley, Urubamba, Pisac, Moray, Maras, Machu Picchu, Ollantaytambo, Aguas Calientes",
+  "generalInfo": "Discover the classic wonders of Machu Picchu and the Sacred Valley during your customizable 8-day Peru tour. Wander the historic center of Lima as it shines like a gem among the city’s diverse neighborhoods. Machu Picchu continues to linger in the clouds like a diamond in the sky, while the tasty Peruvian Pisco Sour cocktail offers a memorable tang to the classic treasures of Peru.",
+  "durationDays": "8",
+  "price": "3,300",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Lima – Day at Leisure",
+      "description": "You will arrive in Lima to the bustling sounds of the City of Kings. Your private transfer will meet you at the airport and escort you to your luxurious accommodations, where the diversity of Lima sits along the ocean like a montage of smaller cities. Each neighborhood has a distinct culture and feel, different from any other space in the metropolis. The Plaza de Armas is gilded as the gem of the historic center, boasting the Spanish colonial past in the gorgeous structures that decorate the square. A stroll through the Surquillo district brings with it the aroma of fresh produce and spices from the farmers market."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Cusco – Cultural History Tour",
+      "description": "In the morning, you will transfer to the Lima airport and soar over the vast peaks of the Andes, arriving in the timeless city of Cusco. The city will shimmer with the opulent buildings of its Spanish colonial past while the people preserve the classic Andean culture. The cobblestone streets spread through the city, from the wide lanes of the Plaza de Armas to the narrow alleys that lead to the bohemian neighborhood of San Blas. Along the ridges of the forest that stretches above the city, you can see the large looming stones of Saqsaywaman fort."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Cusco – Culture at Amaru Villages",
+      "description": "You will watch the wonders of the Sacred Valley open before you, from the cultural remains of the Pisca ruins to the remaining heritage of the Amaru, an isolated community indigenous to the Andes. The village sits along the sloping hills of the valley. The air is dense with the scent of freshly harvested quinoa and the crisp breeze of the plains. The villagers’ clothes shine purple, red, orange, and white along the lush green of the valley. You can join the women as they gather plants to use as natural dyes, grind and pulp the flowers into dust, and create the colors that they blend into their unique textiles."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Aguas Calientes – Moray and Maras",
+      "description": "Your guide will meet you at the hotel and escort you into the mountains to see the spectacular colonial villages of the Sacred Valley and the wonders that they contain. The village of Maras is known for the terraces of saltpans that climb up the mountainside. The square pools date back to the 15th century and capture the potent saltwater from the local spring. As the water drips, the pools fill. The salty scent of the village will remind you of the ocean. In the arid Andean air, the water evaporates leaving only the salt behind, ready for harvesting."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Aguas Calientes – Lost City of Machu Picchu Tour",
+      "description": "The sun will rise over the Lost City of Machu Picchu with you standing at the center of one of the Seven Wonders of the World. The mist will roll over the plateau covering the ruins from a distance. You will see the stone city as the clouds began to burn away with the sunlight peeking over the mountaintops from your vantage point at the Sun Gate at 8,924 feet above sea level. After sunrise, you can climb the towering peak of Huayna Picchu, which allows for a small number of visitors to ascend the grand mountaintop each day."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Ollantaytambo – Train to Ollantaytambo",
+      "description": "In the morning, you will board the comforts of the train that will take you from the base of Machu Picchu at Aguas Calientes to the village of Ollantaytambo. With the stunning majesty of Machu Picchu forever fixed in your mind, the train will carry you beyond the contemporary sights of town to reach the living history of Ollantaytambo. The town itself has been filled with life since the late 15th century and continues to shine with bright textiles and lively Andean culture."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Cusco – Relax in Cusco",
+      "description": "The city of Cusco will welcome you back with sunlight spreading across the narrow cobblestone streets. The continuous boisterousness of the city will return in the morning accompanied by the slightly bitter aroma of coca tea. Pearl-white buildings are stacked beside one another without space surrounding the streets that lead to San Blas. The cobbled alleyways retain their picturesque qualities captured by artists in renderings of the antique city. Within Plaza San Blas, you will find the quiet cool of the neighborhood surrounding you."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Cusco – Depart for Home",
+      "description": "In the morning, you will wave goodbye to the streets of Cusco, the towering boulders of Saqsaywaman, and the mountain peaks of the Andes. Make your way to the airport to begin your journey home. You have wandered through the remains of Spanish colonialism and seen the tenacity of Andean culture. You have tasted the flavors of Peru, witnessed the vivacity of the clothing, and wandered amongst wonders on your trip to Machu Picchu. Your time in Peru has brought with it the experience of heritage and tradition revealing the classic Peru."
+    }
+  ],
+  "map": ""
+}

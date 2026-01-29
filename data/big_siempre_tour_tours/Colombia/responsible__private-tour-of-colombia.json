@@ -1,0 +1,50 @@
+{
+  "destination": "Colombia",
+  "mainPhoto": "",
+  "id": "private-tour-of-colombia",
+  "tourName": "Private tour of Colombia",
+  "placesVisited": "",
+  "generalInfo": "Embark on your own slow-paced adventure to Colombia’s greatest sights; the buzzing cities of Bogota, Medellin and Cartagena; the quaint coffee region and surrounding landscapes and the remote and untamed coastal forests of Tayrona National Park.<br/><br/>You'll have plenty of time in each destination, to witness first the classic highlights, and then the lesser-known gems that only an extended stay allows (and we believe makes for a more memorable and fulfilling experience).  Explore the vastly different cities on foot, hike in Colombia’s luscious nature, bike ride, but don’t forget to relax on some of South America’s most stunning beaches.<br/><br/>All of our trips can be tailormade from scratch, so take this as an example of what is possible and \"Enquire Now\" so we can create your very own dream adventure.",
+  "durationDays": "15",
+  "price": "4900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "BOGOTA: Welcome to Bogota, the capital of Colombia! This city is steeped in culture, both historical and modern. Visit the highlights such as the pre-Colombia gold museum, the old town with colonial architecture and take the cable car for breath taking views over the city and the surrounding mountains. Take a street art tour with “Break Borders” an initiative formed by guides who have turned their back on their pasts to guide tourists through the myriad of art and local food in the city."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "COFFEE REGION Your next stop is Colombia’s famous coffee region. Here you’ll explore the private coffee estate of the Valencia Family and learn about the coffee process from bean to cup before tasting the freshest coffee of your life! Solento is not to be missed, this enchanting Andean town with its luscious landscapes is the gateway to the iconic Coroca valley, where you can hike, or simply explore the traditional artisans, with weaving and basketry work at the forefront of their craft."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "MEDELLIN: Known as the city of eternal spring due to it’s favourable climate this city has risen from the ashes and its dark past to stand at the front of Colombia’s tourism. Explore Comuna 13, the once dangerous neighbourhood to understand the huge positive change it’s undergone. A day out of the city will introduce you to Guatapé & El Peñol – a mini lake district nearby, with the opportunity to climb the rock and also visit small villages nearby."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "TAYONA NATIONAL PARK. Tayrona National Park is a jewel of Colombian nature. It is a must-see and is world-renowned to be a sanctuary of nature and archaeological remains. The beautiful park is adorned with Mangrove swamps, corals, algae prairies, thorny scrubland, and magical dry, humid, and cloud forests proliferate. Spend a couple of days here relaxing and exploring the park under your own steam, you may wish to simply relax on one of the many pristine beaches."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "CARTAGENA: Arguably one of the most beautiful colonial cities in all of Latin America, Cartagena mixes old world charm with Caribbean coastal vibes making it the perfect end to any trip. Here you’ll discover many influences; Romanesque, Moorish, colonial, military, Arabic, Spanish, and North American all of which shaped the city you see today. Enjoy a guided tour of the city, visit it’s castles and convents, and for the more active a bike ride with stops to taste the delicious cuisine."
+    }
+  ],
+  "map": ""
+}

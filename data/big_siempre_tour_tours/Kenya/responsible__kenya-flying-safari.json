@@ -1,0 +1,75 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "kenya-flying-safari",
+  "tourName": "Kenya flying safari",
+  "placesVisited": "",
+  "generalInfo": "This exclusive flying safari showcases some of Kenya’s most famous and most diverse wilderness areas, while travelling ‘on the wing’ allows you to optimize every minute of your Kenya stay. <br/>Commencing in Amboseli, the fly-in Safari offers guaranteed sightings of large herds of elephant &amp; giraffes crossing vast open plains against the backdrop of Mount Kilimanjaro. During the dry season months from June-Nov, sightings of elephant, zebra, buffalo, giraffe and wildebeest are common. <br/><br/>Flying northwards to the unique and less populated Loisaba, an area of dry acacia scrub with stretches of open grassland and riverine forest.  This area is off the beaten safari track, but features good numbers of lion, cheetah, leopard and hyenas.  Walking safaris are permitted here. <br/><br/>Thereafter you fly south-west to the Tanzanian border where the Masai Mara and the Serengeti share the same massive eco-system, which is most famous for the annual migration of the wildebeest. Travelling on light aircraft with personalized meet and greet services throughout, this safari is light on travel-time and long on safari experiences. It also features some of Kenya’s most charmingly luxurious tented camps.",
+  "durationDays": "10",
+  "price": "9775",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Welcome to Kenya! You shall arrive at Jomo Kenyatta International Airport where upon arrival, you will be welcomed and met by your Elewana representative and chauffeured to your hotel in Nairobi. Your 1 night stay at Hemingways Nairobi is on half board basis and drinks (excluding premium drinks)."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Welcome Breakfast at Hemingways Nairobi. Check-out and transfer to Wilson Airport Nairobi, gateway to the flying safaris in Kenya. Time to board the Elewana Executive Grand Caravan. Your SkySafari will now take to the Air! Flight to Amboseli National Park. After a scenic 45 minutes flight, you will land in the middle of the Park, where the team from Tortilis Camp will warmly welcome you. Enjoy your first game drive en-route to the camp, where you will arrive in time for lunch. Afternoon game drive. Your stay at Tortilis Camp is for 2 nights in an en-suite Safari Tent, and is on all-inclusive basis (includes all meals, bush activities and drinks – excluding premium drinks)."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Rise early to watch the African plains game wake up on a game drive and stop for a bush breakfast. Hot lunch will be served at the lodge. If you feel like stretching your legs and seeing the wilderness from a different perspective this afternoon there is a walking safari. Alternatively you can have another game drive, with both activities culminating in cocktails watching the sunset, before returning to camp for dinner."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Rise early for a game drive, back in time to the lodge for breakfast. Check out, and transfer back to the Amboseli airstrip. The plane will now take you North, to the Loisaba Conservancy,in Laikipia .The Loisaba Team will welcome you and you will be transferred to the camp, where lunch will be served.. Your stay at Elewana’s Loisaba Tented Camp is for 3 nights in a tent, and is on all-inclusive basis (includes all meals, bush activities and drinks – excluding premium drinks)."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Early morning bush walk with traditional Samburu guides. You return to the camp for breakfast and then have a choice of relaxing or heading out on a shared game drive. Following lunch at the camp, you can take an afternoon shared game drive, go fishing, or visit the anti-poaching sniffer dog team. Sundowners are enjoyed in the bush followed by dinner under the stars at the camp."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Your sharing morning options include a game drive, horse or camelback exploration, or bush running/trekking. This is followed by a bush breakfast. Then return to the camp for time to relax and enjoy as spa treatment. Shared afternoon game drive with dinner at the camp and overnight under the stars in your star bed. Those not wishing to spend the night under the stars remain at Loisaba Tented Camp"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "After breakfast, your SkySafari pilot will be waiting to take you on a 90-minute flight to the world famous Masai Mara where you land in the middle of the reserve. The Sand River Masai Mara Team will welcome you at the Keekorok airstrip. You will be transferred to the camp with a game drive en-route. Dinner and overnight at the Camp Your stay at Sand River Masai Mara is for 3 nights in a Luxurious Safari Tent, and is on all-inclusive basis (includes all meals, bush activities and drinks – excluding premium drinks)."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Following an early breakfast at the camp, you depart for a full day of shared game viewing in Masai Mara National Reserve. A picnic hamper lunch is served in the bush. In the afternoon, you visit a Masai village. You return to the camp for dinner under the stars and overnight."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "You have an early start with a shared game drive arriving at your secluded bush breakfast. You then game view as you return to the camp for time at leisure and lunch. In the afternoon, you have your final shared game drive followed by sundowners in the bush. You enjoy a farewell dinner under the stars and overnight at the camp."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Following breakfast, you transfer to the airstrip for your SkySafari flight back to Nairobi’s Wilson Airport. You are met on arrival and transfer to Hemingways Nairobi where you have use of a day room. You then transfer to Nairobi’s Jomo Kenyatta International Airport for your departure flight"
+    }
+  ],
+  "map": ""
+}

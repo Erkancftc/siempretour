@@ -1,0 +1,65 @@
+{
+  "destination": "New Zealand",
+  "mainPhoto": "",
+  "id": "new-zealand-south-island-itinerary-in-one-week",
+  "tourName": "New Zealand South Island Itinerary in One Week",
+  "placesVisited": "Christchurch, Queenstown, Milford Sound, Abel Tasman National Park",
+  "generalInfo": "Adventure, exploration, and unforgettable experiences highlight your perfect 7-day New Zealand tour. Your private tours and specialized guides will immerse you in the splendid landscape around the South Island. The majesty of New Zealand will emerge from Queenstown to Abel Tasman National Park, Milford Sound to Canterbury. Fly over shimmering glaciers, sip celebrated wine in lush vineyards, and cruise down serene fiords in search of waterfalls and wildlife.",
+  "durationDays": "8",
+  "price": "9,200",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Christchurch - South Island Culture",
+      "description": "Christchurch is a special city. Energized and reimagined after the 2011 earthquake, the city is a wonderful introduction to New Zealand’s culture. After being greeted at the airport, you will be transferred to a five-star hotel in a building that has been repurposed since the earthquake. You will soon discover the local atmosphere and Kiwi way of life on a local tour of the city. Massive art murals cover the walls, and you will gain an intimate insight into what happened during and after the quake. Afterward, you will have dinner reservations at a tiny restaurant that hides behind rubble."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Christchurch - Swimming With Dolphins",
+      "description": "From the air, you can admire South Island’s scale. A blanket of colorful fields will stretch beneath your hot air balloon. To one side, you can glimpse a roaring ocean, while snowy mountains mark the horizon to the other. This hot air balloon flight will be followed by a Champagne breakfast and a transfer to Akaroa. Thousands of Hector’s dolphins fill the water here, and you can swim with them. They are wild, and there is no touching, but it will still be a very special experience to be in the water as they dance and play in the bay."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Queenstown - In a Mountainous Wilderness",
+      "description": "Following a domestic flight to Queenstown, you will be transferred to a lakeside hotel with stunning views of the Remarkables Mountains. Queenstown is New Zealand’s adventure capital, and two activities will be planned for the afternoon. First, you will rush through a stark canyon in a jet boat, accelerating and twisting in the wilderness. Then, as the sun begins to set, you will be on top of Bob’s Peak, running down a hill and tandem paragliding back down to Queenstown. These activities can be customized based on your wishes, and you may also want to try one of the three bungee jumps."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Milford Sound - Overnight Cruise on Milford Sound",
+      "description": "From Queenstown, you will travel into Fiordland National Park, crossing mountain passes en route to Milford Sound. The narrowest, highest, and most spectacular of all the fjords, Milford Sound, is the iconic South Island experience. On an afternoon cruise, you will pass dolphins and waterfalls before embracing the sheer scale of this mysterious place. When other boats leave, you will stay onboard your cruise ship for a night natural splendor beneath the vertiginous fjord walls. Silence envelops everything here, and to spend a night here is the island’s ultimate immersion into nature."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Queenstown - Scenic Flight Over Fiordland",
+      "description": "Today, you will wake up to the Milford mist and head out in a kayak, which will prove to be another chance to absorb the scale of the fjord. Waterfalls tumble hundreds of meters from the walls, and the morning mist will eventually clear to reveal mesmerizing peaks. You will fly back to Queenstown by helicopter, which will be a scenic journey over Fiordland National Park that includes landing on a glacier. You can disembark and hear the ice crunch beneath your feet before returning to your lakeside hotel. After all the thrills, you will have a serene afternoon visiting two Central Otago vineyards and relaxing in the world’s southernmost wine region."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Nelson to Abel Tasman National Park - South Island’s Tropical Coast",
+      "description": "From Queenstown, you will fly to Nelson and transfer privately into Abel Tasman National Park. From snow and fjords, you will now be exploring a lush and tropical coastline, where turquoise tones meet with beautiful marine life. Your boat transfer will also be a private marine tour, and the captain will lead you into tidal caverns and places where stingrays reside. After cruising beneath dramatic cliffs, you will disembark at a golden beach, where your lodge is located. It is a lodge that is hidden from the world, and it will allow you to gaze at the sultry wonder of the South Pacific."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Abel Tasman National Park - Kayaking and Hiking",
+      "description": "Abel Tasman adventures are on land and water, and today can be customized with your local guide. Hiking trails can lead you along the cliffs to small beaches and bays in addition to affording many sublime views. On a kayak, you can get closer to the dolphins and paddle to small islands. You can also paddle through spectacular openings in the cliff face to find surreal colors and unusual marine life. More than anything, this national park is an escape, and with two nights, you can completely unwind in New Zealand’s iconic nature."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Nelson - Departure",
+      "description": "After two days in the national park wilderness, you will be transferred back to Nelson by boat. Here is where your journey will end. It has only been one week on the South Island, but it is the breathtaking variety of experiences that you will remember most."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,90 @@
+{
+  "destination": "Mauritania",
+  "mainPhoto": "",
+  "id": "mauritania-holiday-desert-adventure",
+  "tourName": "Mauritania holiday, desert adventure",
+  "placesVisited": "",
+  "generalInfo": "The westernmost country of the Sahara Desert, Mauritania is synonymous with the idea of remote, with vast areas that have barely been explored, except by blue robed nomads and their camels. This unique expedition takes you to its wildest and least known regions.<br/><br/>After leaving Nouakchott we turn inland and cross a remote part of the desert on our way to the historic cities of Chinguetti and Ouadane, once important on the old trading routes between the Sahara and Morocco, and now gracefully crumbling into the sands. From here we venture into the unknown. At Trig Chauail we see rock art dating back six thousand years, when large wildlife roamed a greener Sahara, and then traverse the sand sea of Erg Ouarane, hundreds of kilometres of dunes that stretch as far as one can sea. The going here will be tough at times but the rewards immense – few travellers have ever crossed this vast natural barrier, and human traces are sparse.<br/><br/>Exiting the dunes, we come to the mountains of Aoukar, with remains of prehistoric villages, then drive to Oulata, with its traditional painted houses. Our next stop is Aoudaghost, an outpost of the ancient empire of Ghana, the oldest known kingdom in sub Saharan Africa; along the way we stop to meet nomads in their goat hair tents, and hope to see some of the camel caravans that still tread these routes.<br/><br/>We then travel through the remote region of Aoukar to reach Tagant, where desert crocodiles still survive in isolated waterholes, then finally return to the comparative metropolis of Nouakchott.<br/><br/>This is a trip for the real desert enthusiast, following a little known route and stopping in places that rarely see visitors. Camping under the Saharan skies and crossing difficult terrain for much of the trip, creature comforts are few and far between but this is more than compensated for by the joy of exploring such an untouched land……",
+  "durationDays": "21",
+  "price": "6799",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Nouakchott - Arrive in Nouakchott and transfer to your hotel. Depending on when you arrive there may be time to explore the city. Overnight Hotel Azalai or similar"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Akjoujt - Spend the morning in Nouakchott, where we visit the National Museum for an insight into some of the sites and cultures we are about to see. From here drive north, past fields of dunes, to the town of Akjoujt. Overnight Hotel du Sahara or similar. (BLD)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Desert crossing – Chinguetti - Head to Chinguetti, one of Islam’s holiest cities and a real gem of Mauritania. With its collection of historic buildings this is one of the Sahara’s most interesting towns, with a sense of history that is almost tangible. To get here we drive through a remote part of the desert, where we hope to encounter local nomads and see the traces of prehistoric man such as ancient pottery. Overnight local guesthouse. (BLD)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Chinguetti - Explore the desert town of Chinguetti, once an important stop on the old Saharan camel caravans. We visit some of the old manuscript collections and climb the nearby dunes to watch sunset over the town. Overnight La Gueila Guesthouse or similar. (BLD)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Ouadane - Founded in the 12th century Ouadane is a fascinating collection of old houses and mosques and has been listed as a UNESCO World Heritage Site. We have plenty of time to explore the historic quarter and meet the people who still live here. Overnight local guesthouse. (BLD)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Guelb er Richat - Drive to the Guelb er Richat, an interesting crater like structure also known as the ‘eye of the Sahara’ and 40km wide. Overnight camping. (BLD)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Trig Chauail – El Ghallaouiya - Continue to the canyon of Trig Chauail. This site is rich in rock art, with hundreds of different examples displaying wildlife, hunters and chariots. We then head to the abandoned fort of Al Ghallauoiya, built by the French camel corps, where we camp for the night. Overnight camping. (BLD)"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Erg Ouarane - We enter the immense sand sea of Erg Ouarane, eight hundred kilometres of sand dunes and one of the least known parts of the Sahara. Navigating by GPS, we forge a way through the sands, stopping to meet any nomads that we may encounter on the way. This is a spectacular but tough journey, and the thrill of it is very much in the knowing that very few have trodden this path before. Overnight camping. (BLD)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Aoukar - Oulata - Drive into the mountains of Aoukar, a difficult but spectacular journey. Once the shore of an ancient lake, long swallowed by the desert, it’s possible to find the remains of prehistoric villages dotted amidst the rocks and sand. We emerge from here at the oasis of Oualata. Overnight camping and local guesthouse. (BLD)"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Oualata - A full day dedicated to exploring the small town of Oualata, a UNESCO World Heritage Site. The town is known for its beautifully painted adobe houses, which merge the Berber art forms with those of sub-Saharan Africa, and also houses some ancient manuscripts in a small museum. Overnight local guesthouse. (BLD)"
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Aoudaghost - Drive south to the remains of Aoudaghost, believed to be the northernmost town of the ancient empire of Ghana, dating back to the 6th century. Our journey takes us through dunes, scattered acacia forests and past nomadic encampments. We’ll also discover the remains of a barely known site, Togba. At Aoudaghost we explore the site with its ancient clay granaries tucked away in caves. Overnight camping. (BLD)"
+    },
+    {
+      "dayNumber": 17,
+      "title": "",
+      "description": "Aoukar - Tagant - We drive through the remote Aoukar basin, crossing the Foum el Naga Pass to reach the region of Tagant. Here we search the waterholes for some of the last remaining populations of Saharan crocodiles, which ‘hibernate’ in caves to escape the fierce heat of the summer. Overnight camping. (BLD)"
+    },
+    {
+      "dayNumber": 20,
+      "title": "",
+      "description": "Nouakchott - A long drive from southern Mauritania back to the capital Nouakchott, arriving in the morning of Day 21. Here our adventure ends, and after a chance to visit the colourful fish market, shower off the desert dust and transfer to the airport for your flight home. Overnight camping. (BLD)"
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,65 @@
+{
+  "destination": "Morocco",
+  "mainPhoto": "",
+  "id": "8-day-morocco-artistry-luxury-and-wonder",
+  "tourName": "8-Day Morocco: Artistry, Luxury and Wonder",
+  "placesVisited": "Marrakech, Dades Gorges, Sahara, Ouarzazate",
+  "generalInfo": "Discover and experience the majesty of ancient traditions, spirited colors, and captivating scenery during your 8-day Morocco Highlights tour. Embrace the luxuries of traditional riads and explore the detailed opulence of former palaces. Travel across the Sahara’s renowned sand dunes and wander through the narrow lanes of an authentic medina. From desert nights with star-studded skies to shops filled with aromatic spices, you will find the wonders of Morocco.",
+  "durationDays": "8",
+  "price": "4,100",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Marrakech - Arrive in Morocco to Find Marrakech",
+      "description": "A center for artisanal heritage and the point at which historic culture and preserved faith meet, Marrakech is a captivating city where the rhythms of the marketplace permeate daily life. Your flight will arrive at the Marrakech airport, where your private transfer will meet you upon arrival. You will have plenty of time to relax in the comforts of your luxury accommodation in the heart of the city and freshen up at your leisure. In the evening, you can take part in the lively ambiance of Djemaa El Fna Square as the plaza erupts with storytellers, musicians, and food vendors."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Marrakech - Explore the Monuments of Marrakech",
+      "description": "After breakfast, your private transfer will meet you at the hotel and lead you on a discovery of the city’s remarkable monuments. At the Palais Bahia, you may find a vibrant design that reminds you of a peacock with zellige tiles, painted ceilings, and wrought-iron finishes that embody opulence. The scent of oranges may drift from the citrus trees in the courtyard. In the afternoon, you will continue into the twisting narrow lanes of the medina where you may find fragrant spice stalls, colorful textiles, and glinting brass light fixtures in the souk."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Marrakech - Enjoy Sunrise and a Cooking Class",
+      "description": "In the early morning, you will venture outside of the city to reach an open field where you can step into a hot-air balloon. As the sun rises over the cityscape, you will have an unforgettable panorama of the colors spreading across the sky, land, and city. The combination of cool morning air and vibrant natural color will create an everlasting memory. In the afternoon, you will have a chef lead you through the steps of cooking a traditional Moroccan tagine. You will learn how to properly season and braise chicken for an aromatic and rich cultural flavor."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Dades Gorge - Discover the High Atlas Mountains",
+      "description": "Your private transfer will meet you at the hotel in the morning and lead you out of Marrakech to reach the Dades Gorge. The scenic drive will take you along the twisting roads of Morocco’s deep and colorful canyon as you uncover the ancient layers of the landscape and the historic Kasbahs along the former rich trade route. You may stop at Ait Youl to find the view overlooking the mountains and a panorama of the switchback leading deeper to the valley floor. Once in the gorge, you may find the scent of fruit orchards that contrast the rugged rock formations."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Sahara - Travel to the Desert for a Sunset Tour",
+      "description": "You will continue your scenic drive to reach Merzouga and the rolling sand dunes of the Sahara Desert. The image exemplifies one of the many pictures of Morocco and captures the dreamscape of the majestic desert. As the sun begins to set, you can ride a camel along the dunes to watch the sands shift from gold to orange to red before starlight takes over the sky. Your luxury camping experience will immerse you in the soothing sounds of the desert accompanied by the sounds of the crackling fire."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Ouarzazate - Experience Sunrise and a Desert City",
+      "description": "In the early morning, you can rise to the scent of mint tea and watch the sunrise over the dunes. The colors may shift from blue to pink and then back to pale orange as the sun fills the sky. Your private transfer will meet you after breakfast and escort you to the sand-castle city of Ouarzazate. The historic Kasbah and former French colonial garrison town offers a great place to view the sandy walls rising out of the mountains and overlook the shimmering oasis waters or the desert plain."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Marrakech - Traverse Benhaddou and Enjoy Marrakech",
+      "description": "The morning air may entice you to join an ATV excursion through the desert to reach the historic city of Ait Benhaddou. The surrounding desert landscape can feel vast and brimming with beautiful drama with the village architecture blending into the surrounding scenery. The fortified village may feel frozen in time as a film set decorated with orange walls and lush almond trees. You can climb to the top of the Kasbah turrets for an impressive view over the village, the surrounding palm grove, and the unforgiving features of the stony desert beyond."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Marrakech - Depart for Home",
+      "description": "The life of Marrakech will return to the streets of the medina in the morning. If you have time, you may visit one of the monuments at your own pace to enjoy the life of the city once more. When you are ready, your private transfer will meet you at the hotel and escort you to Casablanca for your flight home. You will have plenty of time to check-in at the airport bringing an end to your discovery of Morocco’s highlights."
+    }
+  ],
+  "map": ""
+}

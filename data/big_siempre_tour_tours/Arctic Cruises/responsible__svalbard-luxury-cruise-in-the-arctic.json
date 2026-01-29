@@ -1,0 +1,60 @@
+{
+  "destination": "Arctic Cruises",
+  "mainPhoto": "",
+  "id": "svalbard-luxury-cruise-in-the-arctic",
+  "tourName": "Svalbard luxury cruise in the Arctic",
+  "placesVisited": "Longyearbyen, Magdalenefjorden, 14 July Glacier, Moffen Island & Woodfjorden, Hinlopen Strait, Barentsya & Edgeya Islands, Hornsund & Bellsund Fjords, Isfjorden, Itinerary is subject to ice conditions",
+  "generalInfo": "In 10 days you can cruise all around Spitsbergen, the biggest island in the Svalbard Archipelago. Even in high summer, there’ll be ice floes in your path lit by the midnight sun. Your vessel has a strengthened hull, specially designed so it can make through these icy waters. <br/><br/>Start in Longyearbyen, where you can take a tour of the world’s northernmost city, before heading north. Ice permitting, your boat will squeeze through the Hinlopen Strait, between Spitsbergen and the island of Nordaustlandet, its closest neighbour. You’ll end the trip with a midnight cruise of beautiful Isfjorden.<br/><br/>The polar bear is king in Svalbard, and many roam free on the island. They’re far from the only wildlife around: vast colonies of guillemots give a deafening chorus as you approach their cliff-face nests, and seals and walrus lazing on the rocks beneath.<br/><br/>There’ll be Zodiac expeditions from your main boat to the shore, so you can get up close to glaciers, and maybe even track a polar bear along the beach. Once you get on shore you can look out for Arctic fox and ptarmigan.",
+  "durationDays": "10",
+  "price": "6545",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Largest town, biggest island. You touch down in Longyearbyen, the administrative center of Spitsbergen, the largest island of the Svalbard archipelago. Enjoy strolling around this former mining town, whose parish church and Svalbard Museum make for fascinating attractions. Though the countryside appears stark, more than a hundred species of plant have been recorded in it. In the early evening the ship sails out of Isfjorden, where you might spot the first minke whale of your voyage."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Cruising Krossfjorden. Heading north along the west coast, you arrive by morning in Krossfjorden. Here you might board the Zodiacs for a cruise near the towering blue-white face of the Fourteenth of July Glacier. On the green slopes near the glacier, colorful flowers bloom while flocks of kittiwakes and Brünnich’s guillemots nest on the cliffs. You have a good chance of spotting an Arctic fox scouting for fallen chicks, or a bearded seal paddling through the fjord. In the afternoon you sail to Ny Ålesund, the northernmost settlement on Earth. Once a mining village served by the world’s most northerly railway – you can still see its tracks – Ny Ålesund is now a research center. Close to the community is a breeding ground for barnacle geese, pink-footed geese, and Arctic terns. And if you’re interested in the history of Arctic exploration, visit the anchoring mast used by polar explorers Amundsen and Nobile in their airships, Norge (1926) and Italia (1928)."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "The massive Monaco Glacier. Depending on the weather, you could sail into Liefdefjorden and cruise within sight of the 5-kilometer-long (3.1 miles) face of the precipitous Monaco Glacier. The waters in front of this glacier are a favorite feeding spot for thousands of kittiwakes, and the base of the ice is a popular polar bear hunting ground. If ice conditions prevent sailing here early in the season, an alternate route along the west coast of Spitsbergen can be implemented."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Barentsøya’s many bounties. The plan is to make landings in Freemansundet, though polar bears sometimes make this impossible. Potential stops on Barentsøya include Sundneset (for an old trapper’s hut), Kapp Waldburg (for its kittiwake colony), and Rindedalen (for a walk across the tundra). You might also cruise south to Diskobukta, though Kapp Lee is more likely your destination. On Kapp Lee is a walrus haul-out, Pomor ruins, and the chance for hikes along Edgeøya."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Land of the Pointed Mountains. You start the day by cruising the side fjords of the Hornsund area of southern Spitsbergen, taking in the spire-like peaks: Hornsundtind rises 1,431 meters (4,695 feet), and Bautaen is a perfect illustration of why early Dutch explorers named this island Spitsbergen, meaning “pointed mountains.” There are 14 sizable glaciers in this area as well as opportunities for spotting seals, beluga whales, and polar bears."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Bell Sund’s flora, fauna, and haunting history. Today you find yourself in Bell Sund, one of the largest fjord systems in Svalbard. The ocean currents make this area slightly warmer than other areas in the archipelago, which shows in the relatively lush vegetation. Here there are excellent opportunities to enjoy both history and wildlife. A possibility is Ahlstrandhalvøya, at the mouth of Van Keulenfjorden, where piles of beluga skeletons can be found. These remains of 19th-century whale slaughter are a haunting reminder of the consequences of rampant exploitation. Fortunately, belugas were not hunted into extinction, and you have a good chance of coming across a pod. Alternately, while cruising the side fjords of Bellsund, you can explore tundra where reindeer like to feed as well as rock slopes where little auks are breeding."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "There and back again. Every adventure, no matter how grand, must eventually come to an end. You disembark in Longyearbyen, taking home memories that will accompany you wherever your next adventure lies."
+    }
+  ],
+  "map": ""
+}

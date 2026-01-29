@@ -1,0 +1,60 @@
+{
+  "destination": "India",
+  "mainPhoto": "",
+  "id": "indias-golden-triangle-tour-for-families",
+  "tourName": "India’s Golden Triangle Tour for Families",
+  "placesVisited": "Jaipur, Agra, Fatehpur Sikri, Delhi",
+  "generalInfo": "Make lifelong memories during this customizable 7-day family India tour that focuses on the Golden Triangle. Discover the treasures of the Pink City, the luster of the Taj Mahal, the vibrant lanes of traditional bazaars, and the captivating aromas of traditional cuisines. Uncover centuries of history and heritage with private transfers and guided tours that allow you to witness opulent architecture and experience the authentic culture of India.",
+  "durationDays": "7",
+  "price": "1,800",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Delhi – Arrival and Day at your Leisure",
+      "description": "The vibrant city of Delhi remains a treasure trove of history and an amalgamation of cultures from around India. Your flight will land at Indira Gandhi International Airport, where your private transfer will greet your family at customs. You can settle into the comforts of your accommodation and enjoy the remainder of the day at your preferred pace. At dawn, hundreds of seagulls linger above the water in search of food and reflect their wings on the surface of the river."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Delhi – Treasured Culture and History",
+      "description": "In the morning, your guide will escort you on a private tour through the city that will reveal the splendor of the capital of India. The city acts as a sensory feast with vibrant colors, captivating aromas, and a chaotic ballet of movement. Your guide will lead you to the famous Mehrauli Archeological Park, where you can find more than 440 monuments that were built between the 10th century and the British colonial era. You will continue to the Red Fort to find the stronghold that was constructed in the mid-17th century."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Agra – Agra’s Famous Monuments",
+      "description": "Your private transfer will meet the family at the hotel and escort you away from Delhi to reach Agra, which is the city that is known for hosting the Taj Mahal. You will settle into the comforts of your family-friendly accommodations before setting out on a private tour of the Mughal legacy that decorates the city. Eventually, your family will make their way to the Taj Mahal for a sunset tour. Your guide will lead you through the gardens, where you can find glassy pools that reflect the image of the tomb that was built for the Mughal emperor’s favorite wife."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Jaipur – Visit Fatehpur Sikri",
+      "description": "The grandeur of the former Mughal capital city of Fatehpur Sikri remains a fine example of 16th-century art, architecture, and ingenuity. The Indo-Islamic masterpiece shines with red sandstone, which adds to the distinctive ambiance of the deserted city. You can reach the large mosque of Jama Masjid behind the towering Victory Gate. Your guide will lead you around the complex, and your kids will marvel at the collection of palaces that host an intricate collection of carvings, courtyards, and ornamental pools."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Jaipur – Historic Neighborhoods and Bazaars",
+      "description": "Jaipur is a city where the historic architecture blushes to give it the nickname of the Pink City. The grandeur of the royal complex reflects the former lavish lifestyle of the royal family, and the bustling bazaars represent the active daily life of the city’s residents. Your guide will escort you through the capital of Rajasthan for an encompassing tour that, beginning with the City Palace. At first glance, the astronomical tools on the grounds of the Jantar Mantar may resemble massive sculptures, but your guide will provide insight into the importance of each instrument."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Delhi – Wander the Amber Fort",
+      "description": "Your guide will meet your family at the hotel in the morning and lead you to the entrance gate of the Amber Fort. The dramatic complex contains four palaces with foundations that date back to the 10th century. By the time you reach the third courtyard, you will find the lavish design of the Jai Mandir, which is an entrance gate that was decorated with glass panels and glistening mirrors. After discovering the opulence of Amber Fort, your private transfer will whisk your family back to Delhi, where you will have the remainder of the day at your leisure."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Delhi – Departure",
+      "description": "This morning, you will have time to return to the dynamic streets of the famous Chandni Chowk market, where silver jewelry and stacks of books divide the alleys. Your private transfer will meet your family at your hotel. When you are ready, your guide will take you to Delhi’s international airport for your flight home."
+    }
+  ],
+  "map": ""
+}

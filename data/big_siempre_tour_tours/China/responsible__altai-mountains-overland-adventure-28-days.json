@@ -1,0 +1,165 @@
+{
+  "destination": "China",
+  "mainPhoto": "",
+  "id": "altai-mountains-overland-adventure-28-days",
+  "tourName": "Altai Mountains overland adventure, 28 days",
+  "placesVisited": "",
+  "generalInfo": "While more in the spirit of Fitzroy McLean than in his footsteps, this exploratory journey will take you to the very heart of Central Asia; the remote  borderlands of Mongolia, China &amp; Kazakhstan.<br/>",
+  "durationDays": "28",
+  "price": "10515",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Ulaanbaatar.",
+      "description": "Welcome to Ulaanbaatar, the capital of Mongolia. In the evening of Day 1 you join your Leader, Simon Maddison and fellow travellers at 5:00pm for your Welcome Meeting, a walk around the city and dinner."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Terelj National Park.",
+      "description": "This morning, we’ll set off to explore Terelj National Park, a stunning landscape of granite formations, pine forests, and open meadows. Visit Turtle Rock, one of Mongolia’s most famous natural landmarks, and hike up to the Ariyabal Meditation Temple, perched on a hillside with sweeping valley views. Enjoy a home-hosted lunch with a local Kazakh family and learn about their daily life and traditions. On our return to the city, we’ll stop at the Genghis Khan Equestrian Statue — a 40-meter-tall stainless steel monument, the largest of its kind in the world."
+    },
+    {
+      "dayNumber": 3,
+      "title": "To Turgen Mountains.",
+      "description": "This morning we fly to Ulaangom. Upon arrival we enjoy lunch with a local throat singer’s family, offering a unique cultural experience. After lunch, we drive to the Turgen Mountains, home to the tallest peaks in Uvs Province. Enjoy a scenic hike through the area before dinner and overnight at a traditional ger camp."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Achit Lake.",
+      "description": "After breakfast, travel to the spectacular Achit Lake, the largest freshwater lake in the Uvs and Bayan-Ölgii regions. This pristine lake is known for its dramatic sunsets and rich wildlife — from fish species like Mongolian grayling to migratory birds such as geese and ducks. Achit Lake and its surroundings are part of a protected Ramsar wetland area, home to over 150 bird species. Tonight, stay with a welcoming Bayad host family, one of Mongolia’s ancient ethnic groups known for their deep historical roots and warm hospitality."
+    },
+    {
+      "dayNumber": 5,
+      "title": "To Tolbo Lake.",
+      "description": "Drive to Tolbo Lake, stopping in Ulgii town for lunch and to stock up on supplies. This evening, enjoy dinner and rest at your Ger camp beside the lake’s tranquil shores."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Eagle Hunters.",
+      "description": "Today, immerse yourself in the ancient Kazakh tradition of eagle hunting. Visit a local eagle hunter’s family and learn about the deep bond between hunter and bird. You’ll gain insight into the care, training, and cultural significance of this centuries-old practice — and even try handling themajestic eagle yourself!"
+    },
+    {
+      "dayNumber": 7,
+      "title": "Life of the Eagle Hunter.",
+      "description": "Spend another full day with your eagle hunter hosts — a rare opportunity to further explore this living heritage. Take part in daily routines, storytelling, and perhaps a short hunt demonstration, depending on the season and conditions."
+    },
+    {
+      "dayNumber": 8,
+      "title": "To Zereg Sum.",
+      "description": "Travel to Zereg Sum, enjoying a scenic stop for lunch by Khar Us Lake. Upon arrival, meet a local camel herder family and learn about nomadic life in the desert steppe. Prepare with your hosts for tomorrow’s migration journey."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Camel Migration.",
+      "description": "Join your host family for a full-day camel migration, traveling alongside the herders as they move their camp and livestock — a rare glimpse into Mongolia’s nomadic traditions in action. In the evening, transfer to a local hotel to rest."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Bodonchiin Gorge.",
+      "description": "Drive to Bulgan Sum, near the Mongolian–Chinese border. En route, visit Bodonchiin Gorge, home to the remarkable Yamaan Us petroglyphs — ancient rock carvings protected as a national cultural monument. Enjoy a picnic lunch surrounded by stunning scenery before continuing to your hotel."
+    },
+    {
+      "dayNumber": 11,
+      "title": "To Qinghe.",
+      "description": "Today we cross the border to China at Takashiken Port and drive to Qinghe. In the afternoon we visit Sandaohaizi Huge Rocks and marvel at these ancient geological formations."
+    },
+    {
+      "dayNumber": 12,
+      "title": "To Keketuohai National Park.",
+      "description": "Today we drive from Qinghe to Keketuohai Scenic Area. We can enjoy hiking the Ertix River valley with a 2-hour guided walk along the trail. Whilst in the Keketuohai National Park we will see the Irtysh Grand Canyon and the No. 3 Pit a treasure bowl of 84 rare minerals such as lithium, beryllium, tantalum, niobium and cesium. We continue to Fuyun County for overnight."
+    },
+    {
+      "dayNumber": 13,
+      "title": "To Burqin.",
+      "description": "Morning transfer to Burqin County. We will spend some time watching the vast array of birds at Wulungu lake. In the afternoon, we visit Wucaitan Scenic Area to view the Danxia formations and the Irtysh River at sunset. Overnight in Burqin County."
+    },
+    {
+      "dayNumber": 14,
+      "title": "To Hemu.",
+      "description": "Today we transfer to Hemu Village which is set in a particularly scenic area. We spend an afternoon at leisure giving time to visit Hemu Bridge and to explore the village."
+    },
+    {
+      "dayNumber": 15,
+      "title": "To Kanas Lake.",
+      "description": "Early morning sunrise viewing at Hemu. Transfer to Kanas Lake. Visit Kanas Scenic Area by bus, with an optional boat trip or visit to the fish-watching Pavilion. Overnight near Kanas Scenic Area."
+    },
+    {
+      "dayNumber": 16,
+      "title": "Jimunai.",
+      "description": "Morning visit to Shenxian Bay, Moon Bay, and Wolong Bay. After lunch visit to the Tuost Grassland. Afternoon transfer via Burqin to Jimunai County. Evening at leisure in Jimunai."
+    },
+    {
+      "dayNumber": 17,
+      "title": "Jimunai.",
+      "description": "Today we explore further in the Jimunai Grassland Stone City region. In the morning we visit to Sarwuleng Village. Afternoon optional visits to Jimunai Port or Songhai Bay, time permitting."
+    },
+    {
+      "dayNumber": 18,
+      "title": "To Lake Markakol.",
+      "description": "We depart from China and cross the border to Kazakhstan. We transfer along the historic Austrian Road (built 1915–1916) to Urunhayka village on Lake Markakol — a remote alpine lake known for pristine nature and mixed ethnic culture. In the afternoon we will take a short walk along the lake."
+    },
+    {
+      "dayNumber": 19,
+      "title": "To Uryl.",
+      "description": "today we take a scenic drive through the Katon-Karagai area to Uryl village. The route passes untouched mountain landscapes far from civilization."
+    },
+    {
+      "dayNumber": 20,
+      "title": "Lake Yazevoe.",
+      "description": "We take a day trip to Lake Yazevoe, a small mountain lake famous for fishing where we will see clear reflections of Belukha Mountain, and a cascade of 10 waterfalls. In the evening we will enjoy dinner in a Kazakh village with an introduction to local traditions, lifestyle, crafts, food, and music."
+    },
+    {
+      "dayNumber": 21,
+      "title": "Valley of Kings.",
+      "description": "Today we make an excursion to the Berel Museum-Reserve an archaeological site with Scythian royal tombs preserved in permafrost, also known as the “Valley of Kings.”"
+    },
+    {
+      "dayNumber": 22,
+      "title": "Lake Rakhmanovskoye.",
+      "description": "Today we drive to Rakhmanovskie Klyuchi hot and cold mineral springs surrounded by cedar forest. Scenic stops include a viewpoint of Belukha Mountain and a boat trip across Rakhmanov Lake to Arasanka mouth and Veranica Spit waterfall."
+    },
+    {
+      "dayNumber": 23,
+      "title": "To Sibiny Lakes.",
+      "description": "Transfer to the Sibiny Lakes area, surrounded by granite mountains and famous for clear waters and rock formations. Visit Ablaykit — ruins of a 17th-century Buddhist monastery."
+    },
+    {
+      "dayNumber": 24,
+      "title": "To Ust-Kamenogorsk.",
+      "description": "Transfer to Ust-Kamenogorsk (Oskemen) via scenic mountain roads. Free evening in the city."
+    },
+    {
+      "dayNumber": 25,
+      "title": "Ust-Kamenogorsk and to Almaty.",
+      "description": "Today we enjoy sightseeing in Ust-Kamenogorsk before boarding out evening train to Almaty."
+    },
+    {
+      "dayNumber": 26,
+      "title": "On board to Almaty.",
+      "description": "We track across the plains drawing closer to Almaty."
+    },
+    {
+      "dayNumber": 27,
+      "title": "Almaty.",
+      "description": "We arrive just as the day begins so after some time to relax we will enjoy some afternoon Almaty sightseeing before gathering for a farewell dinner to reflect on our journey."
+    },
+    {
+      "dayNumber": 28,
+      "title": "Almaty.",
+      "description": "Our journey ends after breakfast."
+    }
+  ],
+  "map": ""
+}

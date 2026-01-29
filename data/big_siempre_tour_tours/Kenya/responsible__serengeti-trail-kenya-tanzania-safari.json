@@ -1,0 +1,65 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "serengeti-trail-kenya-tanzania-safari",
+  "tourName": "Serengeti Trail, Kenya & Tanzania safari",
+  "placesVisited": "Nairobi, Kisii, Lake Victoria, Serengeti National Park, Ngorongoro Crater, Meserani, Some room upgrades are possible depending on availability",
+  "generalInfo": "This week-long Serengeti, Tanzania and Kenya safari tour places travellers in the heart of East Africa, where savannah plains stretch as far as the eye can see and wildlife is free to roam.<br/><br/>The Ngorongoro Crater, Serengeti and Lake Victoria form inevitable highlights on this overland round trip from Nairobi. Dik-diks, giraffes, wildebeest, lions and elephants can all be found if you know where to look. As you’ll be camping and enjoying several guided safari drives, you’ll have every chance of encountering a number of East African animals.<br/><br/>Experience the very best of the Serengeti, Tanzania and Kenya on a safari tour that combines wildlife, culture and adventure, placing you amongst the cities, markets, coffee plantations and wildlife hotspots of East Africa.",
+  "durationDays": "8",
+  "price": "1700",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Nairobi.",
+      "description": "Jambo! Welcome to Kenya. Your adventure begins with a welcome meeting at 6 pm in Nairobi. If you arrive early, you can head out and explore the National Museum of Kenya, the Karen Blixen Museum or the highly recommended Bomas of Kenya, where traditional homesteads of several Kenyan tribes are displayed in an outdoor village. Tonight, why not ask your leader for local dinner recommendations and head out to get to know your fellow travellers."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Amboseli National Park.",
+      "description": "Today, you'll board your overland vehicle bound for Amboseli National Park. The park covers an area of about 392 square kilometres and is home to the largest population of African elephants in Kenya, many of which are ‘big tuskers’ (elephants with large tusks). You may even spot a ‘super tusker’ – a male bull elephant with tusks that weigh over 45 kg each, usually so long they scrape the ground. If you're lucky to visit on a clear day, you'll be treated to amazing views of Mt Kilimanjaro. When you arrive, you'll set off on a game drive in your overland vehicle to explore the park and discover the wildlife that calls this place home."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Mto Wa Mbu.",
+      "description": "This morning, you'll visit the Kimana Ranger Project and meet the inspiring men and women who protect the vital Kimana Sanctuary, an important wildlife area, particularly for migrating elephants. At the Ranger Training Academy, listen to stories of what it takes to safeguard this unique environment and the risks involved in protecting the Greater Amboseli ecosystem. The project plays a crucial role in improving the lives and working conditions of rangers, supporting local communities, and promoting conservation efforts where both wildlife and people can thrive. After your visit, travel toward the Kenya-Tanzania border, heading to Mto wa Mbu, a charming village that offers a glimpse into small-town African life. In the afternoon, join the local community for a guided walk around the village, visiting farms, milling machines, and homes. You'll finish the day with a traditional dinner, experiencing local hospitality before settling in at your campsite in Mto wa Mbu."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Serengeti National Park (Ngorongoro Crater).",
+      "description": "Rise and shine early today before entering the Ngorongoro Conservation area. When you arrive at the crater, swap your overland vehicle for open roof 4WDs. Take in the spectacular views from the crater's rim as you make your way to the bottom, where animals roam the lakes, rivers, woodlands and hills. The animals here are less wary of humans and vehicles, and as a result, it's easier to watch them up close. Keep an eye out for wildebeest, lion, zebra, cheetah, buffalo, gazelle and the endangered black rhino. Later, head to the wide-open plains of the Serengeti. The Serengeti landscapes see a huge contrast of colours during the year – green after the rains, brown and burnt in the dry season. The never-ending landscape is home to thousands of animals travelling as herds across the plains. This region gets its name from the local Maasai word ‘siringet’, meaning the place where the land moves on forever. Enjoy a picnic lunch, then head to your campsite within the park. Tonight, listen out for the sounds of nocturnal animals as you drift to sleep."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Serengeti National Park.",
+      "description": "Start the day nice and early with an overland vehicle game drive at dawn. You’ll head out while the animals are at their most active, then head back to camp for brunch at around 11 am. This morning, there’s also the option of a balloon ride over the park. If you have pre-booked this activity, you will be picked up before dawn and driven to the launch site. After a safety briefing, glide through the dawn, sometimes at tree height, where you’ll get some amazing photo opportunities. Sometimes, you will ascend, getting an overview of the vastness of the plains and the early morning movements of the herds. After landing, dig into a delicious bush breakfast, then return to your camp. After spending the warmer part of the day relaxing with your herd – just as the animals do – depart again at dusk for another overland vehicle adventure through the wild, returning in time for dinner."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Karatu.",
+      "description": "Enjoy a leisurely game drive and picnic lunch on your way out of Serengeti National Park today. Soak up final views of this incredible spot before making the long drive to Karatu – a small town nearby and your base for the next two nights."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Karatu.",
+      "description": "Today is a free day to relax or explore at your own pace. You might like to head to a local coffee plantation or take an optional game drive in Lake Manyara National Park. Maybe opt for a hike through the Ngorongoro Reserve Forest to the Elephant Caves – a great way to stretch your legs after a few days of overland travel. You'll hike through the Ngorongoro rainforest as your local guide explains the ins and outs of the area and points out interesting animal tracks and footprints. Marvel at the wild landscape and spot beautiful birdlife as you walk."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Arusha / Nairobi.",
+      "description": "Set off early this morning at around 7.30 am to begin your final journey of the trip. Your first stop will be in Arusha, where you'll have the option to end your trip. If it’s more convenient for you, there is the option to travel back to Nairobi, too. Your adventure comes to an end in Nairobi. You'll be dropped at a centrally located hotel, however, no accommodation will be provided tonight. If you want to extend your stay in Nairobi, just get in touch with your booking agent to organise additional accommodation."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,95 @@
+{
+  "destination": "Australia",
+  "mainPhoto": "",
+  "id": "southwest-australia-tour-coast-forest-wineries",
+  "tourName": "Southwest Australia tour, coast, forest & wineries",
+  "placesVisited": "",
+  "generalInfo": "This 14-day itinerary takes you from Australia’s sunniest city, along the stunning southwest coastline, and into one of the world’s best wine regions. The trip reveals the natural beauty of the southwest from glittering coastline, to towering Karri Karri forests and idyllic small towns. Your journey will begin in Perth, the gateway to Australia’s rugged western coast. The city boats fantastic beaches, dynamic food and a great shopping scene Here you will have the chance to explore the city, as well as the local wildlife on Rottnest Island – the quokka. You’ll also spend time exploring the historic suburb of Fremantle, with its whaling ships, convict jails and old taverns. <br/><br/>From Perth you will travel to the historic, coastal town of Albany. The site of its first European settlement and one of the state’s oldest towns, Albany offers spectacular views, historic buildings and abundant wildlife. Continuing on your journey you will meander through the majestic Karri forests until you reach the town of Pemberton. It is a fantastic base to explore the forests from, admire some of the world’s tallest trees and take some time to embrace the natural beauty surrounding you. There is a peppering of quirky shops and cafes making this a great stop to break up your journey. <br/><br/>Next stop is the Margaret River, home to some of the world’s most famous wines. You’ll spend two glorious days immersed in the vast vineyards, sampling the wine and other produce on a fantastic full day tour around the region. There are also caves, forests and gorges to explore and endless coastal trails to be walked. It is the perfect spot to end your trip. You’ll have a final day in Perth before heading home after the trip of a lifetime.",
+  "durationDays": "14",
+  "price": "4285",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Today you begin your journey by boarding your international outbound flight to Perth."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "On-board your international outbound flight to Perth."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "On arrival in Perth you will be transferred by private vehicle to your downtown accommodation. The remainder of the day is free to relax."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Take a ferry trip across to Rottnest Island before hiring a bicycle to explore. When Dutch settlers first turned up here they thought the furry quokka inhabitants were giant rats, naming the island the Dutch for rat's nest; in fact the quokkas look more like fun size kangaroos and are extremely cute. There are many beautiful beaches here and you will probably leave wishing where you live had an offshore island quite so pretty."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Hop on the train to Fremantle and spend your day exploring the markets and historic centre. 'Freo', as it's inevitably known by the locals, is a charming seaside town full of colonial buildings and a great place to enjoy some waterside dining."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Collect your hire car and drive through the farming heartland of Western Australia to the south coast seaside town of Albany."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Walk the streets of this historic maritime town and explore convict jails, old taverns, whaling ships, settlers' cottages and grand National Trust homes."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Keep your eyes peeled for whales this morning before visiting the Torndirrup National Park this afternoon, where you can admire the Indian Ocean tussling with the various blowholes and rock formations."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Travel close to the Southern Ocean along the coastal road to Walpole and take the Valley of the Giants Tree Top Walk. This impressively engineered structure allows you to walk through the canopy of tingle forest 40 metres above the ground. There's a pretty walk at ground level for those less keen on heights."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Continue your journey west today into the beautiful Margaret River region. The journey should take around three hours and once you reach here you will spend two nights. Enjoy a morning walk along coastal trails keeping an eye out for migrating whales. Spend the rest of your day sampling wine in a boutique winery; Margaret River only produces 3% of Australia's wine, but 20% of its premium wine."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Enjoy a full day wine tour today, your guide will show you the best that the region has to offer as he drives you around to various tastings."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Return to Perth. Enjoy a beautiful Indian Ocean sunset at a restaurant in Cottesloe. This relaxed beachside suburb is renowned for great waterside eating."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Make your way to the airport and return your car before boarding your onward flight."
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Arrive home today to complete your journey."
+    }
+  ],
+  "map": ""
+}

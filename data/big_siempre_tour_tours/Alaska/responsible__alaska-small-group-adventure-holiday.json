@@ -1,0 +1,60 @@
+{
+  "destination": "Alaska",
+  "mainPhoto": "",
+  "id": "alaska-small-group-adventure-holiday",
+  "tourName": "Alaska small group adventure holiday",
+  "placesVisited": "",
+  "generalInfo": "This lodging tour is focused on the highlights of Alaska: <br/> - Go on a wildlife cruise to see and hear the calving glacier's and marine wildlife of Kenai Fjords National Park.<br/> - Visit Exit Glacier to experience the fast receding hanging glacier along with a Dog Sled Tour with 3-time Iditarod winner Mitch Seavey.<br/>- Stay in secluded cabins, yurts and chalets carefully chosen to fit our style of adventurous trips but with the comfort of staying in a bed. Some of those lodgings have hot tubs and/or saunas!<br/>- We will get you to the lesser known wildlife viewing spots in Denali and other parts of Alaska and try to find as many bears, moose and Alaskan creatures as possible. We love taking amazing animal photos ourselves!<br/>- We have been operating in Alaska over 10 years, this is finally the trip to pick all the gems, perfect spots and highlights in one amazing trip!<br/>- This is also ideal for a family vacation! We had many kids on this trip, recommended age minimum is 10.",
+  "durationDays": "13",
+  "price": "5780",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Anchorage: Arrive in Alaska’s largest city for a 6 PM Group Meeting to discuss our adventure along with meeting your fellow travelers."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Seward: Day 2: Drive along the Turnagain Arm and through the Chugach Mountains to end up at Resurrection Bay. Visit Exit Glacier to experience the fast receding hanging glacier along with a Dog Sled Tour with 3-time Iditarod winner Mitch Seavey. Day 3: Kenai Fjords National Park cruise visiting an active tidewater glaciers and searching for exciting marine wildlife like humpback whales and orcas along with puffins, sea otters and so much more."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Moose Pass: Day 4: Scenic Drive to Exit Glacier for a hike up to Marmot Meadows and a short drive to stay in yurts tonight Day 5: Enjoy some kayaking and hiking in the mountains"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Talkeetna: Day 6: Visit the busy but quaint town of Talkeetna and go on short hikes and hopefully get your first glimpse of Mount Denali, visit town and take an optional Denali flightseeing tour"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Denali: Day 7/8: Scenic Drive along the Alaska Range towards Denali. Spend 2 nights in the wilderness at Denali View Chalets. Day 9: Drive into the Wilderness: The shuttle bus will take you far into the park with possible sightings of grizzly, moose, caribou, wolf and views of Mount Denali."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Maclaren Lodge: Day 10: Camp near Maclaren Glacier in the wilderness and explore the surrounding wilderness on foot. Day 11: Canoe down the Maclaren River in the morning and enjoy the rustic lodge for the evening"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Fairbanks: Day 12: Soak in the Chena Hot Springs Day 13: Try your luck in Gold Panning, trip ends around noon"
+    }
+  ],
+  "map": ""
+}

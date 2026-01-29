@@ -1,0 +1,60 @@
+{
+  "destination": "Namibia",
+  "mainPhoto": "",
+  "id": "namibia-fly-and-drive-safari",
+  "tourName": "Namibia fly and drive safari",
+  "placesVisited": "",
+  "generalInfo": "Discover the iconic landscapes. unique wildlife and leading conservation programmes in Namibia, with a 12 day itinerary. Combine a self-drive adventure with scenic flights across some of the country’s most striking landscapes. <br/><br/>Start your trip by flying from Windhoek to Sossusvlei to explore the soaring dunes and unique wildlife, before flying to Swakopmund. With an abundance of marine life and a rich history, the coastal town offers plenty to explore. <br/><br/>From here, the self-drive portion of your trip begins, as you continue by road to the scenic Huab Valley, where you can experience incredible star-gazing, bush walks and ancient rock engravings.<br/><br/>Continue your adventure by travelling to Ongava Private Game Reserve for a wildlife safari before driving to your final destination, Okonjima Nature Reserve, home to inspiring AfriCAT conservation efforts.",
+  "durationDays": "12",
+  "price": "5810",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "After arriving in Windhoek, transfer to a boutique guesthouse in the city for your first night in the country. Relax at the peaceful guesthouse and prepare for your adventure."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Fly to Sossusvlei, crossing over some of Namibia's most iconic landscapes. Transfer to your luxury lodge, set at the foot of Sossusvlei's soaring dunes. With direct, private access to the Namib-Naukluft National Park, the lodge has an unbeatable location. Explore the area; try and climb 'Big Daddy', one of the highest dunes in the world, and search for the unique, desert-adapted wildlife."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Fly to the coast, arriving at Swakopmund. The bustling town is a popular destination, known for its German influence, with wide avenues and colonial architecture. During your two-night stay,explore the town. Enjoy a catamaran trip to nearby Walvis Bay, searching for the marine Big 5 en route."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "After taking delivery of your 4x4 hire car, begin the self-drive portion of your adventure. Head towards Damaraland, in northwestern Namibia. Stay at a beautiful lodge nestled between granite rocks. Spend two nights at the lodge, visiting historic Bushman rock carvings and enjoying bush walks."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Drive towards Etosha National Park, arriving at Ongava Game Reserve, a private reserve that borders the park. Stay at a luxurious lodge that overlooks a popular waterhole and sweeping plains. Enjoy game drives within the reserve and neighbouring national parks."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Continue your adventure and drive to Okonjima Plains Camp in the Okonjima Nature Reserve. Home to the AfriCAT Foundation, this is a fantastic place to finish your trip. Spend two nights at the camp, learning about the foundation's work rehabilitating cheetah and leopard while joining guides on excursions and research activities."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Drive to Windhoek, ready to fly home after an incredible journey through Namibia."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,65 @@
+{
+  "destination": "Botswana",
+  "mainPhoto": "",
+  "id": "premium-botswana-small-group-holiday",
+  "tourName": "Premium Botswana small group holiday",
+  "placesVisited": "",
+  "generalInfo": "Experience an abundance of wilderness, wildlife and waterfalls on this eight-day Premium adventure through South Africa, Zimbabwe and Botswana. Spot your favourite animals on a 4WD safari through Kruger National Park, cruise down the Zambezi River at sunset and look for elephants in Chobe National Park. Visit Victoria Falls, support sustainable conservation during your Feature Stay at Mdluli Safari Lodge and see wandering warthogs during your free time in Kasane town.",
+  "durationDays": "8",
+  "price": "5165",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Johannesburg.",
+      "description": "Sawubona! Welcome to South Africa. Your trip begins in Johannesburg, where you’ll be met at the airport and transferred to your hotel. You’ll have a welcome meeting at 6 pm tonight. If you arrive early, maybe introduce yourself to the area’s history at the Apartheid Museum, stroll through the Johannesburg Botanical Gardens or visit Constitution Hill. After your meeting, join your leader and fellow travellers for dinner at your hotel. South Africa is known for its diverse food scene flavoured by its multicultural influences – maybe try some boerewor (a spiced South African sausage), or perhaps some springbok carpaccio (thinly sliced raw meat)."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Kruger National Park.",
+      "description": "Set off early for a drive to Kruger National Park, arriving just in time for lunch at Mdluli Safari Lodge – your Feature Stay accommodation for the next two nights. Created in partnership with the local Mdluli community, the lodge is in perfect harmony with its wild surroundings. In the afternoon, you'll set off on your first open 4WD safari. See some of your favourite wild animals in their own habitat, including lions, elephants, rhinos and leopards!"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Kruger National Park.",
+      "description": "This morning, make the journey into the heart of Kruger National Park. On entry, you'll find yourself in the perfect position to catch a glimpse of one, or hopefully all, of Africa's iconic animals. Kruger National Park is one of the largest game reserves in Southern Africa, home to 500 bird species, 100 reptile species and 150 mammal species. As you journey through the park’s diverse habitats, including savanna, mixed acacia woodlands and rocky hills, you’ll stop at waterholes and other various points to see animals such as zebras, giraffes and African wild dogs, going about their day. Today's game drive will finish in time for sunset and drinks, served on a kopje at your Feature Stay. Pronounced 'kopee' these large ancient rock formations provide scenic contrasts across Africa's vast landscapes. Take a moment to sit back and take in the sounds and sights of the bush as the day turns to night."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Victoria Falls.",
+      "description": "Say goodbye to South Africa as you board a flight to Victoria Falls Airport in Zimbabwe. When you arrive, continue to your lodge accommodation, which serves up beautiful views of uninterrupted wilderness and a waterhole frequented by elephant, buffalo, kudu and more! Maybe spend the afternoon relaxing by the pool or spotting wildlife from any of the multiple viewing decks around the lodge, before embarking on a small and intimate dinner cruise on the Zambezi River tonight. Sit down to a four-course meal of locally sourced fresh ingredients as you navigate around the islands above the thundering Victoria Falls. Be sure to look for crocodiles lazing on the banks or elephants and hippos submerging themselves in the river as the sun sets."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Victoria Falls.",
+      "description": "Victoria Falls is one of the world's most magnificent natural wonders of the world! Plunging over 100 m into a deep gorge, take in its raw power and beauty as you explore the explore the rich flora, fauna, birdlife and fascinating history of this UNESCO World Heritage site with your local leader by your side. The rest of the day is free for you to explore at your own pace. Maybe continue to wander around Victoria Falls or relax with a swim at Devil’s Pool – a natural rock pool at the edge of the waterfall (season dependent)."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Chobe National Park.",
+      "description": "Enjoy a leisurely morning before you cross the Kazangula border Chobe National Park in Botswana. The afternoon is free to spend however you like. Maybe walk in Kasane town (watch out for wandering warthogs!), sit poolside on the edge of the Chobe River and watch the sunsetor set off on an optional afternoon game drive in Chobe National Park."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Chobe National Park.",
+      "description": "Start the day with a game drive through Chobe National Park, the first designated national park in Botswana. Chobe is known for its huge population of elephants and buffalo, so be sure to look for them drinking at the local watering hole! Then, head back to the lodge for breakfast. After, embark on a cruise along the picturesque Chobe River – an ideal location for spotting bird life such as saddle-billed storks, malachite kingfishers, fish eagles and beautiful bee-eaters. Hippos, crocodiles and large families of elephants are also often seen crossing the river between the boats. As you cruise, enjoy a drink on board and watch the sun set over the river."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Chobe National Park.",
+      "description": "Your adventure comes to an end after breakfast this morning. If you would like to spend more time in Chobe or Victoria Falls, just speak to your booking agent ahead of time."
+    }
+  ],
+  "map": ""
+}

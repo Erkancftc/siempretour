@@ -1,0 +1,50 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "kenya-safari-and-beach-family-holiday",
+  "tourName": "Kenya safari and beach family holiday",
+  "placesVisited": "",
+  "generalInfo": "This adventure-packed safari and beach holiday combines unforgettable wildlife encounters with laid-back coastal charm, perfect for kids and adults alike.<br/><br/>Start with a night in Nairobi before flying to the Masai Mara, where Saruni Wild offers an exclusive safari in the private Lemek Conservancy and a spacious family room. Embark on day and night game drives, enjoy bush meals, and take in breathtaking sunset sundowners in a landscape rich with wildlife.<br/><br/>After your safari, unwind with five nights on Lamu Island at Peponi Hotel. Relax by the ocean, explore the vibrant local dining scene, or take part in family-friendly activities like snorkelling and cultural excursions.<br/><br/>With seamless flights and transfers included, this trip offers the perfect mix of adventure and relaxation, showcasing Kenya’s stunning landscapes, diverse wildlife, and warm hospitality.",
+  "durationDays": "10",
+  "price": "3188",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly into Nairobi, where you’ll be met and transferred to The Tamarind Tree Hotel for an overnight stay with breakfast included. Enjoy a relaxing evening with the family before your exciting safari adventure begins."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "After breakfast, you will be transferred to Nairobi Wilson Airport for a scenic light aircraft flight to the Masai Mara. Upon landing, your expert safari guide will greet you take take you on your first game drive en route to your camp - Saruni Wild. Spend the next three nights in a spacious family tent, with all meals and house drinks included."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Immerse yourselves in the magic of the Mara with shared day and night game drives in open-sided vehicles. Enjoy unforgettable bush meals, scenic picnic excursions, and magical sundowners within the private Lemek Conservancy. The kids will be awed by the thrill of safari. Make sure to keep your cameras ready - this is big game country!"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "After a final morning game drive, you will return to the airstrip for your flight back to Nairobi Wilson, connecting onwards to the stunning island of Lamu. On arrival you will be whisked away to the iconic Peponi Hotel, your home for the next 5 nights. Settle into two comfortable standard rooms, with breakfast included."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "This afternoon, you’ll fly back to Nairobi Wilson, where you’ll be met and taken to a restaurant for dinner before your evening flight home—ending your journey with incredible memories of an unforgettable holiday."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,60 @@
+{
+  "destination": "Australia",
+  "mainPhoto": "",
+  "id": "sydneys-culinary-delights-8-day-vacation-to-sydney",
+  "tourName": "Sydney’s Culinary Delights: 8-Day Vacation to Sydney",
+  "placesVisited": "Sydney, Hunter Valley Wine Region, Blue Mountains",
+  "generalInfo": "This luxurious 7-day food excursion has been meticulously planned with you and your culinary desires in mind. Sydney has a variety of cosmopolitan cuisine options in addition to possessing an ideal location that is just a stone’s throw away from some of the country’s most spectacular scenery, outdoor adventures, and al fresco dining opportunities. This Australian food tour will impress you with the culinary treasures that Sydney brings to the table.",
+  "durationDays": "7",
+  "price": "2,900",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Sydney – Sunset Dinner Sail",
+      "description": "Upon your arrival in Sydney, your private driver will be waiting at the airport to escort to your luxurious accommodation. After settling into your hotel, you will have a bit of downtime to regroup before being led to your first Sydney experience, which will be a sunset dinner sail on Sydney Harbour. You will meet your knowledgeable guide, your captain, and your elite cabin crew before boarding a state-of-the-art yacht for a private tour and feast."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Sydney – Sydney’s Best Bites and Sips",
+      "description": "Today, you will have the opportunity to taste and see much of the best of what the bustling city has to offer. You will be led by a food expert who is highly knowledgeable in Sydney’s elite cuisine. During your tour, you will traverse many of the city’s most popular neighborhoods and boroughs. Highlights from this private tour will include stops for a round of drinks at notable destinations and endless samplings of delicious street fare. After your culinary tour of Sydney, you will spend the evening creating a delicious meal for yourself during a private tutorial session that will be led by a master chocolatier."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Sydney – Helicopter to Hunter Valley",
+      "description": "Today, you indulge in a private helicopter ride from Sydney to the Hunter Valley. As your private driver escorts you to meet your private guide and pilot, you will board the helicopter before flying over Sydney’s breathtaking skyline. Your specific flight path will first pass by Sydney Harbour and the Sydney Opera House before flying toward Manly Beach and the other famed sandy stretches of the Northern Sydney shores. Upon your arrival in the Hunter Valley, an amazing wine tasting experience will be waiting. Afterward, you will be treated to a feast among the estate’s stunning vineyards."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Sydney – Bush Walk in the Blue Mountains",
+      "description": "Today’s adventure will lead you to the great outdoors to explore the Blue Mountains. A nature enthusiast and gourmet chef will act as your guides on this tour. After breakfast, you will indulge in an exhilarating cable car ride that will carry you over the stunning mountains. Afterward, your guided bush walk along the marked trails of the Blue Mountains National Park will provide you with an excellent chance to stretch your legs. Then, you will indulge in a picnic lunch that will have been meticulously prepared by your private chef. Upon finishing your hike, you will be driven to the beautiful village of Bilpin, where you will be provided with a tour of one of the orchards and a cider and apple pie tasting."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Sydney – Evening at the Opera House",
+      "description": "In the morning, you will set off on a gourmet getaway to the Southern Highlands. While you are here, you will be provided with a glimpse of the inner workings of what goes into every bottle of wine that you sip and savor. After touring the initial vineyard, you will continue to visit a total of four vineyards. At each destination, the estate owner will guide you around and regale you with fascinating information about the wine production process in addition to answering any questions you may have. This evening, you will indulge in a live performance of your choosing at the Sydney Opera House."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Sydney – Kayaking Adventure in Berowra Valley",
+      "description": "This morning, your guide will lead you to the gorgeous Berowra Valley, which is where you will begin your outdoor adventure with an exhilarating kayak session. Even if you have never kayaked before, this route accommodates all experience levels. The length of your paddling excursion will be entirely up to you because your tour can be arranged with pick-ups at numerous distances. After witnessing the valley from the river, your journey will continue back to Sydney in an exciting new mode of transportation: a seaplane ride."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Sydney – Departure",
+      "description": "This morning, you will be provided with breakfast and some time at your leisure in the bustling city of Sydney. After enjoying your final meal in the form of a delicious brunch, your private driver will deliver you to the Sydney airport for your flight home."
+    }
+  ],
+  "map": ""
+}

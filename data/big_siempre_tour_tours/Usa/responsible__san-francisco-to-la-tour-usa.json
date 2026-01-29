@@ -1,0 +1,90 @@
+{
+  "destination": "Usa",
+  "mainPhoto": "",
+  "id": "san-francisco-to-la-tour-usa",
+  "tourName": "San Francisco to LA tour, USA",
+  "placesVisited": "",
+  "generalInfo": "San Francisco and Los Angeles are two of the most well-known locations in the USA… but what’s in between? This 13-day trip takes you from the shores of San Francisco to the bustling streets of La La Land via Nevada, Arizona and Utah. See desert landscapes, expansive national parks and the world-famous Grand Canyon! If you want to experience the buzz of the big city mixed with the adventure of forests, cliffs and canyons, this trip has all your bases covered. Journey through the west coast on a classic North American road trip with the flexibility to go with the flow.",
+  "durationDays": "13",
+  "price": "2035",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "San Francisco.",
+      "description": "Welcome to California! Your adventure begins in San Francisco – The City by the Bay that boasts a beautiful setting and a vibrant, multicultural heart. You’ll have a welcome meeting at 6 pm tonight, followed by an optional group dinner. If you arrive early, maybe check out the vintage stores along funky Haight Street, catch the tram down to the waterfront or take an adventure cruise on the bay past Alcatraz Island. Better yet, consider booking an Urban Adventures sightseeing tour like Bridge and the Beach, where you’ll see a different side of the Golden Gate from Baker Beach."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Yosemite National Park.",
+      "description": "This morning, you’ll drive into the heart of the Sierra Nevada Mountains to your destination – the magnificent Yosemite National Park. Passing by serene vistas, you’ll catch a glimpse of one of Yosemite’s most recognisable features – Half Dome. You'll spend three nights camping near Yosemite National Park so that there are two full days available to explore at your own pace."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Yosemite National Park.",
+      "description": "Today is free to discover the wonders of the park. One of the most famous parks in the USA, Yosemite boasts colossal granite cliffs, cascading waterfalls and redwood forests that attract visitors worldwide. The leader will point you in the right direction from the village before leaving you to spend the day as you please. There are plenty of hikes available, each varying in steepness and difficulty. Maybe hike under the cooling breezes of Nevada Falls (4 to 5 hours) or to the serene Mirror Lake (45 minutes). Keep an eye out for squirrels and bears along the way. You might prefer to hire a bike and explore Yosemite Valley. You can also visit the park's museum, photo gallery, shops and restaurants, and in the heat of summer, a relaxing float down the Merced River is highly recommended."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Yosemite National Park.",
+      "description": "With a second full day in the park, there’s an opportunity to explore a different side of Yosemite. Your leader will take you on a guided hike to Hetch Hetchy – an often overlooked, elevated valley in the park’s northwest corner. It has a floor elevation of 1150 m (or 3800 feet), and one of the main characteristics is its man-made reservoir, built in the early 20th century. The area attracts far fewer visitors than the more well-known Yosemite hiking points, and its remoteness makes it the ideal place to discover cascading waterfalls and beautiful wildflowers."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Sierra Nevada / Keough Hot Springs.",
+      "description": "Depart Yosemite via the Tioga Pass this morning, stopping at Mono Lake on the way. The Sierra Nevadas are sandwiched between Central Valley and Death Valley – this is a scenic trip that will take you to the town of Bishop, where you’ll camp the night and visit some nearby natural hot springs. In town, maybe go to Erick Schat’s European-style bakery for a delicious treat, or stop in tomorrow for a coffee and cake on the way to the glitz of Vegas."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Las Vegas.",
+      "description": "Drive to the original sin city this morning – Las Vegas, Nevada. Vegas may be known for its casinos and late-night antics, but there's plenty to do if gambling isn't your thing. Hit the shops, see a world-class stage show, feel your stomach drop on a rooftop roller-coaster or stroll along Freemont Street, soaking up this neon-filled desert city. If you plan to see a show, remember that tickets can sell out quickly for popular shows, so it’s best to book before your tour begins."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Las Vegas.",
+      "description": "With another day in Las Vegas, you can continue to discover all things over-the-top. Food-focused travellers may want to check out one of the celebrity chef restaurants around town (Giada De Laurentiis, Gordon Ramsay and Wolfgang Puck all have places here). See the Eiffel Tower of the USA, check out the Bellagio Fountains or visit one of the wacky museums. If you didn’t head out last night, chat to your leader for the lowdown on sin city's best shows, clubs and restaurants and the option of hiring a limo for the night. You might as well go all out in Las Vegas, right?"
+    },
+    {
+      "dayNumber": 8,
+      "title": "Zion National Park.",
+      "description": "This morning, you’ll drive from Vegas to Zion National Park – a nature preserve in Utah famous for its steep red cliffs and scenic drive that leads to forest trails along the Virgin River. When you arrive, you have free time to explore the park. Maybe you’d like to take on one of the popular hikes this afternoon – your leader is always on hand with the best recommendations. Tonight, you’ll be camping near the park so it’s a good opportunity to unplug, do a spot of star gazing and listen to the sounds of nature."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Bryce Canyon National Park.",
+      "description": "This morning, you’ll head out on a scenic drive from Zion to Bryce Canyon National Park – another reserve known for its crimson-coloured hoodoos (spire-shaped rock formations). Along the drive, you’ll explore the park’s popular road stops for the best overlooks. When you arrive, you have some free time, so maybe head out on a hike or explore at your own pace. Tonight, you’ll spend another night camping near the park."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Grand Canyon National Park.",
+      "description": "This morning you’ll drive to Grand Cayon National Park – a must-see for any USA adventure! When you arrive, get ready to admire a natural wonder formed by over six million years of erosion by the Colorado River. When you think about the canyon’s dimensions – 450 km long, 630 km wide and 1600 m deep – it really does warrant the ‘grand’ title. You’ll spend two nights here, which allows for a full day of exploration tomorrow. Check out the park’s massive scale on a walk around the rim or, if you’re feeling more active, hike into the canyon itself to stretch your legs."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Grand Canyon National Park.",
+      "description": "Today is a free day to explore the Grand Canyon and all its beauty. Stroll along the meandering South Rim Trail or hike your way down to Plateau Point. In the early evening, relax at the canyon's edge and enjoy a spectacular sunset over one the world's best natural wonders."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Joshua Tree National Park.",
+      "description": "This morning, leave the canyon behind and travel along the famous Route 66, stopping in Seligman along the way – a quirky small town that features a vibrant slice of retro America. After wandering around the shops and old-school diners, continue your road trip to Joshua Tree. Sitting between the Mojave and Colorado Deserts, the Joshua Tree is famous for its spectacular desert plants, cacti and spiky trees, bizarre rock formations and a pretty good U2 album. After a wander through the park, you’ll head to Lake Havasu on the Colorado River (at the Arizona border) and check in to your hotel for the night. You might like to head out on a scenic hike around the town, learn the backstory of the city’s unique London Bridge, or even take a refreshing dip in the Colorado River."
+    },
+    {
+      "dayNumber": 13,
+      "title": "Los Angeles.",
+      "description": "This morning, you’ll drive to Los Angeles, where your trip comes to an end. If you’d like to extend your stay, just speak to your booking agent."
+    }
+  ],
+  "map": ""
+}

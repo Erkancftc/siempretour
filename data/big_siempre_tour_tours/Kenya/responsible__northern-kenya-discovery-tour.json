@@ -1,0 +1,85 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "northern-kenya-discovery-tour",
+  "tourName": "Northern Kenya discovery tour",
+  "placesVisited": "Nairobi, Samburu National Reserve, Marsabit National Park, Chalbi Desert, Sibiloi National Park, Lake Turkana, Maralal, Lake Baringo, Lake Bogoria, Lake Nakuru, Lake Naivasha",
+  "generalInfo": "Kenya is one of the world’s best wildlife destinations and is home to many big name parks; but on this culture and wildlife holiday we’ll head away from the tourist hotspots and into the seldom visited northern regions. Here you’ll be able to appreciate the true diversity of the country’s peoples and landscapes as you travel through a terrain that varies from parched desert to thick forest, and meet a variety of ethnic groups, from the Samburu to the Rendille. <br/><br/>After time to acclimatise in Nairobi you’ll make for Kenya’s arid north, where you’ll explore the dry plains of the Samburu National Reserve. You’ll meet some of the nomadic tribes that live there, and go on morning and afternoon game drives, where you’ll see herds of elephant, crocodiles and perhaps even lions, cheetahs or leopards.  <br/><br/>Other highlights include the lush oasis of Marsabit National Park, the otherworldly Chalbi Desert, where you’ll encounter nomadic Rendille warriors, and the remote and wild plains of Sibiloi National Park. Perhaps the most impressive sight, though, is Lake Turkana. The world’s largest desert lake, it’s a startling blue-green presence in the surrounding arid landscape, where the El Molo tribe make their home and hippos and crocodiles lurk in the waters.<br/>",
+  "durationDays": "14",
+  "price": "5495",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Nairobi (approx. driving time 20 mins, 25km) - Arrive in Nairobi where you will be met and transferred to your hotel. The rest of the day is free to relax after your flight. Overnight at Hotel Boulevard or similar. No meals are included."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Samburu National Reserve (350 kms, approx. 6-7 hours driving time) - Begin the journey north to Isiolo village where you will encounter the colourful nomadic tribes who reside in the area. We will arrive in time for lunch at our camp, before beginning our first evening game drive in search of the wildlife commonly seen in this region, including Reticulated Giraffe, Oryx, and Gerenuk. Overnight at Samburu Sopa Lodge or similar. (BLD)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Samburu National Reserve - An early morning start finds us on a game drive, with great opportunities for photographs and tracking rare wildlife. We enjoy a further game drive in the afternoon on the dry ochre plains, hopefully encountering herds of dusty elephants drinking at waterholes, crocodiles lurking in the shadows, and tracking paw prints of lion, leopard and cheetah amidst dramatic bushveld. Overnight at Samburu Sopa Lodge or similar. (BLD)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Marsabit National Park (250 kms, approx. driving time 6-7 hours) - Our journey takes us along a rough road towards the extinct volcano of Marsabit, the peak of which is surrounded by lush forested hills, forming a welcoming oasis rising high above the dry heat of the surrounding desert lands. This afternoon we will visit Marsabit National Park and the viewing point, before later making our way to our hotel. Overnight at Jirime Hotel or similar. (BLD)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Chalbi Desert (135 kms, approx. driving time 4-5 hours) - This morning we will visit Marsabit town where nomadic Rendille warriors, roam the land wearing their traditional dress of purple and red robes, combined with feathers, beads and goat skins. We continue our journey through the land of crater lakes and volcanoes and enter the Chalbi desert, a flat plain formed by an age old crater lake which fills up to form a shallow body of water during heavy rainfall. Kalacha Dida is an oasis on the edge of the desert and a nourishing watering place for nomadic tribes, mostly Gabbras who are constantly on the move. We set out on a guided walk to meet the various tribes living in this harsh but abundant environment. Overnight at Missionary Guest House or similar. (BLD)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Sibiloi National Park (150 kms, approx. driving time 5 hours) - Today we pass through the shifting landscapes of the north, on the journey to Sibiloi National Park, with the beauty of the remote and wild plains all around. Enjoy an evening game drive before returning to your guesthouse for dinner. Overnight at Allia Bay Guesthouse or similar. (BLD) Please note that accommodation here may be a mixture of camping and rooms, as the guesthouse has a limited number of rooms. Those camping will have shared facilities."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Sibiloi National Park - The day is spent exploring the national park which is home to a large variety of species including Gerenuk, Oryx, the rare Lesser Kudu and Grevy's and Burchell’s Zebra. In addition carnivores such as Hyena, Golden Jackal, Cheetah, Lion and other small cats including Caracal can be found here. Overnight at Allia Bay Guesthouse or similar. (BLD)"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Maralal via Mt. Nyiru (235 kms, approx. driving time 5 hours) - We continue heading south to the jagged peaks of Mount Nyiru as we traverse lava flows and sand fields. Despite being surrounded by dry desert the peaks of Mount Nyiru are forested. We will pass the small hillside market town of Maralal, pioneered by Somali settlers in the 1920’s, and this afternoon take a walk in the nearby park with a chance to view Gazelle, Zebra and Antelope. Overnight at Ngari Hill Guesthouse or similar. (BLD)"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Lake Baringo (255 kms, approx. driving time 5 hours) - We continue our journey south following the shores of Lake Baringo in its hot and dusty setting. The scenic lake is fed by several converging rivers and has some small islands. We will take an afternoon walk in search of a variety of bird life. Overnight at Baringo Soi Safari Lodge or similar. (BLD) The route may change subject to road conditions. There will be the opportunity to take an optional boat ride."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Lake Bogoria (50 kms, approx. driving time 1 hour) - We continue our journey alongside Lake Bogoria, arriving at our hotel around lunch time. This afternoon we take a game drive to look for Kudu, Impala, Grant’s Gazelle, Cheetah and Waterbuck, as well as a host of flamingos which have migrated from Lake Nakuru. Overnight at Lake Bogoria Resort or similar. (BLD)"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Lake Nakuru (125 kms, approx. 2 hrs total driving time) - The morning finds us exploring the surrounds of Lake Bogoria and admiring the thousands of pink flamingos which congregate on the lake during the season, before driving to Lake Nakuru. Lake Nakuru is renowned for large concentrations of flamingos and is also a sanctuary for the endangered black and white rhinos. This reserve has one of the highest densities of wildlife to be found on the continent and our chance of spotting Lion, Leopard, Cheetah, Elephant and Buffalo are excellent during an afternoon game drive. Overnight at Elementaita Sentrim Lodge or similar. (BLD)"
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Lake Naivasha (165 kms, approx. 3 hrs driving time) - Today we return to Nairobi via Lake Naivasha, an area of spectacular scenery with good opportunities for game and bird watching. We take a boat cruise, searching for Hippos, Fish Eagles and thirsty Antelope. In the afternoon we visit Joy Adamson´s famous Elsamere farm house. We leave Lake Naivasha at around 3.30pm for the drive directly to Nairobi’s international airport to catch your onward flight. (BL) Please note you should book a flight to depart from Nairobi no earlier than 10pm."
+    }
+  ],
+  "map": ""
+}

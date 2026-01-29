@@ -1,0 +1,45 @@
+{
+  "destination": "India",
+  "mainPhoto": "",
+  "id": "maharajahs-express-luxury-rail-holiday-in-india",
+  "tourName": "Maharajahs Express luxury rail holiday in India",
+  "placesVisited": "",
+  "generalInfo": "Luxury accommodation onboard the Maharajah’s Express train <br/>Extravagant  feasts and champagne brunches<br/>Sightseeing and activities all include entrance fees<br/>English-speaking guides on all sightseeing tours<br/>24-hour point of contact<br/><br/>Delhi, Agra, Ranthambore &amp; Jaipur<br/><br/>Cultural exploration, Indian history, Safari",
+  "durationDays": "5",
+  "price": "3450",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Delhi to Agra overnight train Delhi railway station departure – Overnight to Agra – Day 01 Leave the bustle of Safdarjung railway station behind when you step onboard your home for the next three nights. Experience the ultimate in old-fashioned luxury on a journey fit for a Maharajah, designed with you in mind. Experience Breathe in the perfume of the flowered garland around your neck, feel the warmth of a traditional Indian welcome. Settle into your compartment and delight in the decadence of a bygone Colonial age. Freshen up and head to the dining car for a lavish welcome feast and meet new friends. Sleep soundly in your comfy cabin, rocked by the gentle motion of the train as it steadily speeds to Agra."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Agra Agra 2 nights After a relaxed breakfast, transfer to the beautifully-preserved city of Agra, once the capital of the Mughal empire. Slip through the centuries surrounded by some of the world’s finest structures. Sleep with a smile on your lips, you’ll be waking before sunrise to see one of the Seven Wonders of the World. Experience Lose yourself in the love story of Shah Jahan and his wife Mumtaz Mahal at the Kalaktiti theatre. Hear the clip-clop of horses’ hooves as you ride in a carriage to the Taj Mahal at sunrise. Be inspired by the rags-to-riches story behind the marble tomb of Itmad-ul-daulah. Marvel at the colorful contrast of the red sandstone and dazzling white marble of the Red Fort"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Ranthambore Ranthambore 1 night After a hearty breakfast, get ready to experience the breath-taking beauty of India’s wild nature. Discover why Jaipur earned its nickname of the ‘Paris of India’ on a sightseeing tour. Sleep for one last night onboard this most extraordinary train. Experience Enjoy a thrilling game safari in the Ranthambore National Park spotting tigers and leopards in their natural habitat. Truly live life as a Rajah watching an exhibition match of elephant polo Watch the sandstone of the Amber Fort glow in the sunlight. Indulge in a royal banquet. Later, back on the train, sip a cocktail in the Safari bar, savour the moment."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Arrive in Jaipur Jaipur After a once-in-a-lifetime journey, living life in the lap of regal luxury, it’s time to step back into the real world."
+    }
+  ],
+  "map": ""
+}

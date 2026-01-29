@@ -1,0 +1,80 @@
+{
+  "destination": "Nepal",
+  "mainPhoto": "",
+  "id": "nepal-adventure-tour",
+  "tourName": "Nepal adventure tour",
+  "placesVisited": "Kathmandu, Bhaktapur (Dubar Square), Nagarkot, Sunrise view over the Himalayas, Patan city, Kathmandu temples & stupas, Trishuli River, Chitwan national park, Full day safari (possible sightings of tigers & rhinos), Pokhara, Boating on Phewa lake, Annapurna panorama, 3 day trek Australian Camp, Overnight in tea houses/lodges, Pokhara city sightseeing, Seti River gorge, Mahendra Gufa, Lakeside Markets",
+  "generalInfo": "Beginning in Kathmandu, you will immerse yourself in Nepali life with two days of locally-guided city sightseeing. You will take in temples, stupa's (including Boudhanat - the largest in Nepal) and nearby Bhaktapur with its artisans, narrow alleyways, and community centric courtyards before heading back to Kathamandu and Patan city to see some of the finest palaces and temples in the whole of Nepal.<br/><br/>It is then time to leave city life behind for the wilds of  the royal Chitwan national park, stopping off to test your adventurous side riding the chutes and bends of the Trishuli River rapids on the way. In Chitwan, you'll have a full day safari in the park which is one of the best places in Nepal for spotting rhinos, tigers and leopards in the wild. Leave space on your memory card because you will now head to Pokhara, one of the most picturesque parts of Nepal with its beautiful lake and magnificent reflections of Machhapuchhare (Fishtail Peak) and the Annapurna range. <br/><br/>No trip to Nepal would be complete without pulling on the walking boots and heading out on a trek and so we've included a three day hike to the vista-blessed Australian camp, staying in tea houses and lodges along the way. The trails are seriously scenic, passing through sub tropical valleys, rhododendron forests, charming villages and terrace farms inhabited by the local Gurung and Magars. Reaching the camp before dark, you will watch the sun set over stunning views of the Himalayas - a real highlight of the tour.",
+  "durationDays": "11",
+  "price": "990",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive Kathmandu: Arrive at Tribhuwan International Airport, Kathmandu, you are welcomed by the hospitable meeting and then you will be transferred to your hotel. Overnight at Hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Kathmandu: After breakfast, full day valley sightseeing with Kathmandu Durbar Square, the place of the Malla and then the Shah Kings of Nepal, visiting Kumari Temple, house of the virgin goddess, visiting Swoyambhunath, a stupa on the top of hill - from here you can overlook the scenery of Kathmandu, Visiting Patan city, the second largest town in the valley, Krishna Mandir, Golden Temple etc.. Overnight at Hotel."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Kathmandu - Nagarkot After breakfast, we will take you a glimpse of half day sightseeing tour in Kathmandu Valley; Pashupatinath Temple, one of the most important Hindu temple in Nepal. We keep going for walk to see the huge of stupa of Buddha, also known as Boudhanath, the largest stupa in Nepal. Afterward taking a ride to Bhaktapur, a fascinating town, visit Bhaktapur's Dubar Square featuring the Victorian illustrations style with temples and temples complex. Keep the route connecting to Nagarkot and stay Overnight at Hotel."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Nagarkot - Rafting - Chitwan: Early morning sunrise view over the Himalayas (weather permitted). After breakfast, we travel overland from Kathmandu to Chitwan National Park. On the way, 02-03 hours rafting at Trishuli River. Continue drive to Chitwan. Overnight at Hotel."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Chitwan: After breakfast, the next, you get a full day safari activities in Royal Chitwan national Park - if you are lucky, you will see many amazing creatures that you spend most time to looking for; rhinoceroses, Chitwan's royal Bengal tigers, leopards, monkeys, many types of deer and reptiles. Check your camera gear - preferably with a telephoto lens and you will not miss any shots. Overnight at Hotel."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Chitwan - Pokhara: After breakfast, we travel overland from Chitwan to Pokhara. Afternoon, boating at Fewa lake. Overnight at Hotel."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Pokhara - Australian Camp After breakfast, drive to Kande, short trek to Australian camp offers stunning views of the Central Himalayas. It is one of the best trek from Pokhara. Everything from the mountains to the villages and terrace farms along the trails of this trek are superbly beautiful. Overnight at teahouses/lodges."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Australian Camp - Pokhara: Early in the morning to catch the sunrise and beautiful Himalayas view. After breakfast, short hiking to Dhampus village and walk down to Phedi. Drive back to Pokhara. On they way stop at Tibetan Refugee Camp where you will have plenty of time to explore monasteries, Buddhist monk school, Buddhist temples, see their hand made manufacturing arts etc."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Pokhara: After breakfast, half day sightseeing of Pokhara city, the most popular destination in Nepal after Kathmandu, spend enjoyably the morning trip along the bank of Phewa Lake, you can admire the stunning view of the Fish Tail's Peak reflected in the silver surface of the water. You can also see the wonderful Annapurna panorama forms a superb backdrop to Pokhara from the lake. Aside from Phewa Lake, we keep visiting the Seti River gorge - one of the best places to see, Mahendra Gufa, used to be well-known for its stalactites. Stay overnight at hotel. In the evening walk around Lakeside Market. Overnight at Hotel."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Pokhara - Kathmandu: After breakfast, Scenic Drive back to Kathmandu. Overnight at Hotel."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Departure: Departure Transfer to airport to connect onward flight."
+    }
+  ],
+  "map": ""
+}

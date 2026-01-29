@@ -1,0 +1,60 @@
+{
+  "destination": "Morocco",
+  "mainPhoto": "",
+  "id": "mesmerizing-morocco-tour-one-week-off-the-beaten-path",
+  "tourName": "Mesmerizing Morocco Tour: One-Week Off the Beaten Path",
+  "placesVisited": "Chefchaouen, Tangier, Fes, Meknes, Tetouan, Asilah",
+  "generalInfo": "Experience the diversity of Morocco’s north during this luxurious 7-day journey. Morocco is a sundry of influences that continue to craft travel poetry in one of the most welcoming regions on Earth. From white walled coastal Asilah to Chefchaouen’s blue cobbled maze, this itinerary will lead you on an adventurous, off-the-beaten-path exploration of exotic Morocco. Featuring Moorish beauty, epic walled cities, Roman history, and artisanal delights, this one-week Morocco tour will showcase the country’s beautiful contrasts, landscapes, and culture.",
+  "durationDays": "7",
+  "price": "2,600",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Meknes – A City of Artisans and Culture",
+      "description": "To begin your adventure, you will touch down in Fes and be greeted at the airport by a local guide. Today, you will transfer to the off-the-beaten-path imperial city of Meknes. Compact and enchanting, Meknes is Morocco’s smallest former capital, and an easy city to explore for first-time visitors. What many recognize as Moroccan art has its origins here. Every narrow street is magnificent, stained-glass windows dot the historic center, sculptures fill the mazy lanes, and geometric patterns meet beautiful calligraphy. After checking into your charming riad , you will have an afternoon to explore this special imperial city with stops in its old mosques, madrassas, and souks."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Meknes – Indulging in an Artisanal Workshop",
+      "description": "After spending a morning at the Roman ruins of Volubilis, you will be back in Meknes for lunch and an artisanal workshop. You will have three workshop options for this afternoon, and all three reflect artisanal techniques that originated in this city. Damascene involves embedding metal into metal, which is a time-consuming but breathtakingly unique process that is still practiced in the city. Another craft will be to recycle animal bone and turn it into art. You can also learn Moroccan tile work with the opportunity to create your own before visiting the master tiles of Bab Al Mansour Gate."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Chefchaouen – A Blissful Blue City",
+      "description": "Ascending into this pretty scene, you will find Chefchaouen, which is an old city that clings to a green hillside. There are no cars here, and steps will lead you into the walled city, where cobblestone lanes will reveal intrigue and alluring colors. After a private transfer, you will have some time to rest at your riad before an afternoon tour of the city. Chefchaouen is small, and you can see most of it in less than two hours; however, the streets have a surreal spiral pattern that can be very difficult to navigate. It can feel like you are in a labyrinth because every turn leads you to the same place. There is a secret and story to this labyrinth, much like there is a story to all the blue."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Tetouan – Spanish and Moorish Charm",
+      "description": "Chefchaouen is distinctively Moroccan, from calligraphy on mosque doorways to women in traditional robes that sell vegetables on cobbled lanes. Traveling north to the coast will allow you to discover an off-the-beaten-path city with a unique atmosphere and character. Tetouan was the capital of the Spanish protectorate, which spread across northern Morocco. Today, you will be able to step inside the city after a private transfer. During the day, you will tour the city’s iconic sights with a local guide that will regale you with stories of Spanish design and Moorish impression. Tetouan now basks in its status as a UNESCO World Heritage Site, but it remains off the beaten path, and it possesses a revered authenticity."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Asilah – A Sublime White-Walled Town",
+      "description": "Tangier has been immortalized by a gamut of writers, such as Paul Bowles, Tennessee Williams, Jack Kerouac, and William Burroughs. Much of Tangier’s historic charm has been lost behind the ever-growing metropolis of a massive port city, so you need to venture off the beaten path to discover the stories that inspired the aforementioned writers. Then, after a few hours of exploring the city, you will continue down the coast to Asilah, which is a whitewashed town with an omnipresent allure. While Tangier has a few standout sights, Asilah is more of a place to stroll around at your leisure and to absorb the charming atmosphere."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Fes – The World’s Largest Walled City",
+      "description": "After exploring Northern Morocco, you will be ready to discover the intense and inviting city of Fes. Fes is an enormous place, and much of it is vehicle free. You will first get your bearings by indulging in the aerial view from a hilltop that demonstrates the sheer scale of the city. By descending into the city, you will pass through an iconic blue gate before completing your journey to your hotel on foot. Once inside Fes, the best first experience is to indulge in a glass of mint tea and watch the city life unravel. A local guide will show you the off-the-beaten-path side to Fes, which is away from the central thoroughfare."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Fes – Departure",
+      "description": "Today, your week in Morocco will come to an end, and you will have some time to see more of Fes before your private transfer to the airport."
+    }
+  ],
+  "map": ""
+}

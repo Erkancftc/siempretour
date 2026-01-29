@@ -1,0 +1,55 @@
+{
+  "destination": "Argentina",
+  "mainPhoto": "",
+  "id": "northern-argentina-slow-travel-holiday",
+  "tourName": "Northern Argentina slow travel holiday",
+  "placesVisited": "",
+  "generalInfo": "In just over two weeks, immerse yourself in Argentina at a slower, more meaningful pace. Instead of rushing from place to place, spend time in each of the destinations visited and allow time for a genuine connection with the local culture and deeper appreciation of the country’s remarkable landscapes.<br/> <br/>Begin in the capital Buenos Aires, exploring its diverse and quirky neighbourhoods, before flying northwest, where you will find the warm and colourful provinces of Salta and Jujuy, famous for their folkloric culture and dramatic vistas. Over six nights explore the regions highlights, discovering charming and colonial towns, vineyards, and some of Argentina’s most spectacular landscapes and natural wonders. Next, venture to the northeast to visit jaw-dropping Iguazu falls and the rewilded wetlands of Ibera, a haven for biodiversity. <br/><br/>Excursions are a mix of private and small-group tours, led by expert local guides. Accommodation has been hand-picked by us to ensure a comfortable and enriching experience. This trip can be tailored to your interests, so let us know your preferences.",
+  "durationDays": "18",
+  "price": "6700",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Buenos Aires: Welcome to Argentina’s capital Buenos Aires. During your stay, spend time with a local guide exploring the north and south of the city on a walking tour and discover its true highlights. From the grand architecture of Recoleta to the cobbled streets of San Telmo, every neighbourhood offers its own character. During your time at leisure, immerse yourself in tango culture, sample world-renowned Argentine steak, sip Malbec and soak up the city’s vibrant and magnetic charm."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Salta Province: Fly northwest to Salta and spend the next three nights exploring the Salta Province. Explore the colonial city of Salta with its historic plazas and lively markets, then venture into the charming Calchaqui valleys where colourful mountains, vineyards, and traditional villages showcase the region’s heritage. From the red-rock landscapes of Cafayate to the stunning Quebrada de las Flechas and stunning landscapes of Quebrada de las Conchas, Salta offers a blend of natural beauty, indigenous traditions, and warm hospitality."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Jujuy Province: Departing Salta, spend three days in the Jujuy Province, home to some of Argentina’s most striking scenery. First visit the natural wonder of The Salinas Grandes and witness the salt extraction process firsthand, admiring the works of local artisans. Explore the historical town of Humahuaca and soak up the magnificent views of mountains painted in changing colours and valleys."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Iguazu Falls: Continue to the northeast of Argentina and transfer to your boutique hotel on the edge of Iguazu National Park, home to the awe-inspiring Iguazu falls: a UNESCO World Heritage Site and one of the world’s most amazing natural wonders. Over the next few days, explore both the Argentine and Brazilian sides of the park with your local guide, discovering a network of walkways and trails that reveal the falls from every angle. Venture off the beaten path and take a guided hike along the jungle trails to the Urugua-I stream and kayak the serene waters amid the jungle, swim in its waters and learn about the indigenous people of the area and their way of life in this region."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Ibera Wetlands: Journey south by road to the world’s second largest wetland ecosystem, a biodiversity hotspot home to over 4,000 species of flora and fauna. Over the next few days, explore the national park with a local guide, by boat safari, horseback, or on foot, discovering its rich wildlife and stunning landscapes. Learn about the park’s innovative rewilding model, which has transformed the area into protected ecosystem success."
+    },
+    {
+      "dayNumber": 17,
+      "title": "",
+      "description": "Buenos Aires: Say goodbye to Ibera Wetlands and return to Buenos Aires, where you’ll spend one final night before heading home. If you would like to make the most of your time in the capital, we can arrange a guided city tour or recommend some wonderful places to eat- just let us know your preferences."
+    }
+  ],
+  "map": ""
+}

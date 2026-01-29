@@ -1,0 +1,65 @@
+{
+  "destination": "Eritrea",
+  "mainPhoto": "",
+  "id": "eritrea-highlights-tour",
+  "tourName": "Eritrea highlights tour",
+  "placesVisited": "",
+  "generalInfo": "Eritrea is a curious country, squashed between its giant neighbours Ethiopia and Sudan, tumbling down from highlands to the turquoise waters of the Red Sea. With a distinctly Italian feel in many places, it often doesn’t feel quite African, yet turn the corner and step into the side streets and you’ll meet brightly robed women and men from remote villages trading camels and other livestock. <br/><br/>This tour encompasses the highlights of a country that few know much about. We start in the capital Asmara, one of the best places to see Italian Art Deco style architecture, and one of Africa’s cleanest and safest cities, where people walk the streets each evening in the style of a ‘passegiata’ more reminiscent of Rome or Milan than the Horn of Africa. We explore its churches and remnants of colonial rule before driving through the mountains to the town of Keren to visit its colourful Monday market.<br/><br/>From here we descend to the coastal town of Massawa, with its white washed buildings and Ottoman / Arabian atmosphere. On the way, we will try to meet the nomadic Rashaida people, often found in this area. Once an important port, Massawa has a decidedly languid feel, full of historic architecture and is a good place to get to grips with the country’s complex history.<br/><br/>Stepping back a few millennia, we also visit the remains of the pre-Axumite city of Qohaito, a testament to the fact that this region once played an important role in the ancient world, well before Europe was even a player.<br/><br/>Eritrea has a feel that is hard to put your finger on, a mix of styles and influences that have combined to create one of Africa’s most unique and surprising corners.",
+  "durationDays": "9",
+  "price": "3149",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Asmara - Arrive in Asmara and transfer to the hotel. Depending on when you arrive there may be time to explore the city. Overnight Asmara Palace Hotel or similar."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Asmara - A guided tour of Asmara to see some of its main sights, visiting the Catholic cathedral of Santa Maria, the Coptic Church of N’dia Mariam and the mosque of Jami el Kufala. Visit the old town with its traditional districts, where artisans and craftsmen still work. Overnight Asmara Palace Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Keren - If available, we will take a trip on the Italian era steam train – note that this does not always run but we will try to include it if possible. Afterwards drive to Keren, Eritrea’s third largest city and sitting in its highland region. Our journey takes us through panoramic landscapes and past traditional villages and old Italian farms. On arrival visit some of its most impressive buildings including the mosque and the villa of the old Italian governor, among other sites. Overnight Sarina Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Keren - Visit Keren’s lively Monday market, as well as other nearby sites including the shrine of Mariam Dearit, the ‘Madonna of the Baobab’, an important place of pilgrimage for local people, as well as the war cemeteries. Return to Asmara for the night. Overnight Asmara Palace or similar. (B)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Massawa - Drive to Massawa on the Red Sea Coast and start exploring the city. In the surrounding area the nomadic Rashaida people often set up their camps – originally from Saudi Arabia, they are one of the most traditional people in Eritrea, and are descended from the Bedu. They have maintained their traditions and try to live separately from other Eritreans – marriage between the two groups is very uncommon. Rashaida women are normally veiled – the veils cover the entire face except the eyes and are finely embroidered with metallic silver thread, beads, and sometimes seed pearls. With the Rashaida being nomadic we cannot guarantee to locate them but will do our best to do so. Overnight Grand Dahlak Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Massawa - Continue exploring Massawa and take a short boat ride to nearby Green Island, before returning to Asmara for the night. Overnight Asmara Palace Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Qohaito - Asmara - An excursion to the archaeological site of Qohaito. We first stop at the town of Decemhare, once a major centre for Italian settlers and home to some remaining examples of colonial architecture. We then head to the ‘valley of the sycamores’ and on to Adi Keyh, where we visit the market, and the Catholic Mission here. In Qohaito we see the 2500 year old dam, the temple of Mariam Wakiro, and some nearby rock paintings. We hope also to visit the stelae of Keskese, although this is dependent on it being open which will only be known when we are in the area. We also visit one of the villages in the nearby mountains for an insight into local life away from the cites, One night simple hotel in Adi Keyh, before returning to Asmara for the evening of Day 8 and overnight Asmara Palace Hotel or similar. (B)"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Asmara - Transfer to the airport for your onward flight. (B)"
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,60 @@
+{
+  "destination": "Peru",
+  "mainPhoto": "",
+  "id": "machu-picchu-the-amazon-holiday-peru",
+  "tourName": "Machu Picchu & the Amazon holiday, Peru",
+  "placesVisited": "",
+  "generalInfo": "Our Active Machu Picchu and Amazon Lodge program combines unforgettable highlights with adventurous, non-traditional tours and activities.  Begin with  historic Cusco and Peru’s wonder of the world, Machu Picchu.  We'll explore the Sacred Valley area with interesting an archeologically focused, scenic hike and get to know local communities.   From there, continue to a multi-day Amazon Lodge stay near the remarkable Tambopata Reserve. <br/><br/>Peru is among the most biodiverse and culturally varied countries on the planet, and we plan each phase of this itinerary to present unique and immersive experiences in a personalized manner.",
+  "durationDays": "7",
+  "price": "2185",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in historic Cusco, heart of the ancient Inca Empire! Begin with a private guided tour of the city, visiting Cusco’s most fascinating sites. Included in this walking tour are the Plaza de Armas, Qorikancha, the San Pedro Market, and the San Blas neighborhood. You’ll have free time in the evening to relax and explore on your own."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Explore the beautiful Sacred Valley, starting with the Inca fortress of Saqsayhuaman. From there, continue to Chinchero, where we'll visit impressive Inca ruins and depart on an easy, scenic hike to the floor of the Sacred Valley. Along the way, take in views of snow capped peaks, Poc Poc waterfall, and the valley below. After a break for a delicious traditional lunch with a local family, continue to the Inca town of Ollantaytambo where you'll have time to explore before continuing by train to Aguas Calientes, located at the base of Machu Picchu."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Wake up bright and early for our Wonder of the World! As you enter through the gates, you will catch your first glimpse of the incredible ruins and the surrounding mountains. After a 2.5 hour guided tour, take some time to marvel at the incredible views. If you’re feeling adventurous, you can add a Huayna Picchu or Machu Picchu Mountain climb for an amazing birds eye view of the ruins (must arranged in advance). After a day of exploring, return by train to Ollantaytambo. Transport will be waiting for transfer to your Cusco hotel."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Depart for the Amazon Rainforest! Upon arrival in Puerto Maldonado, a lodge representative will welcome you at the airport, and assist with transfer to the Tambopata River Port, entering the Native Community of Infierno, where you’ll board our motorized canoe. This will take you deep into the Tambopata Reserve to your lodge. After settling in, you will go on an evening hike to look for caiman and other creatures."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Arise in your beautiful Amazon lodge ready for a full day of activities. You will first visit the beautiful Oxbow Lake, then take a short walk to the canopy tower, which you can climb for impressive views of the surrounding jungle. You will end the day with an ethnobotanical tour, where you will learn about the huge variety of Amazon plants and how the local people use them medicinally."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Early this morning visit the parrot clay lick, to observe parrots, parakeets, and macaws descend on a clay bank, where they ingest nutrients from the clay. You can also visit a mammal clay lick, where wild rain forest pigs, along with deer, guan, and parakeets, emerge from the jungle to consume the clay. You will also have the option of a night walk, where you will be able to hear the jungle come to life after dark."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "After breakfast, you will say goodbye to your lodge and the Tambopata Reserve as you travel back to the Puerto Maldonado Airport. Here you will catch your flight home- or on to your next location!"
+    }
+  ],
+  "map": ""
+}

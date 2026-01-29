@@ -1,0 +1,60 @@
+{
+  "destination": "Zambia",
+  "mainPhoto": "",
+  "id": "zambia-safari-holiday-tailor-made",
+  "tourName": "Zambia safari holiday, tailor made",
+  "placesVisited": "",
+  "generalInfo": "The South Luangwa Valley and lower Zambezi offer an unparalleled range of daily activities with something to suit everyone, but always with an emphasis on wildlife. Go bush walking at dawn or head out on a game drive. Take a canoe safari and then a sunset boat cruise to watch elephant and buffalo at the river’s edge.  Add a Victoria Falls package for the ultimate Zambia experience.<br/><br/>- Stay at some of the last remaining authentic, bush camps that still offer a remote, bush experience with a little bit of luxury.<br/>- Track animals on foot in South Luwanga, the home of walking safaris.<br/>- Enjoy an exciting night drive in search of leopard, bush babies, porcupines, honey badgers, ocelot and more",
+  "durationDays": "10",
+  "price": "12310",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Fly to Kafue and transfer to Busanga Bush Camp: On arrival in Lusaka you will connect onto a small aircraft for a light flight to Busanga Plains’ local airstrip where you will be met by your safari guide and driven to camp. Busanga Bush Camp is set in a stand of wild date palms and giant sycamore fig trees and consists of well appointed en-suite tents with verandas that over look the plain."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Busanga Bush Camp: During your stay at Busanga you can do a mix of day and night drives and during the wetter months when the plains are flooded there is even the possibility of boat trips, which are particularly exciting for bird watchers with large flocks of saddle-billed storks and wattled cranes congregating .The Busanga Plains are definitely Kafue’s most exciting area for big game with strong populations of cheetah, wild dog, buffalo and prides of lions known for their tree-climbing antics."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Fly to South Luangwa Valley: After a leisurely breakfast you will be transferred to the airstrip for your flight back to Lusaka and onward to Mfuwe where you will be met by your guide and driven to camp. Once you have settled in and enjoyed a light afternoon tea you will be set for your afternoon game activity."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Kakuli Camp: These days are spent at Kakuli Bush Camp, a tented camp set in an elevated position on the river bank, where you can relax and watch game in the mornings or at sunset from your private veranda. Here you have the option to take game drives or walking safaris and, after darkness falls, explore the local area as the predators seek their prey. Amongst South Luangwa’s many herbivores, three stand out as being endemic to the area, the Thornicroft’s giraffe, Cookson’s wildebeest and the Crawshay’s zebra however, it is its thriving population of leopard that attracts most guests, with it being considered one of the best places anywhere in Africa to see this elusive predator."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Fly to Lower Zambezi Valley: After breakfast you will take one last game drive across the park as you make your way back to Mafue Airport for your flight to Royal Airstrip, your gateway to the Lower Zambezi Valley. On arrival you will be met by your guide and transferred to Chongwe River camp, which will be home for the next three nights. This beautifully presented camp consists of thatched-roofed tents with private facilities, each with its own veranda overlooking the river."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Chongwe Tent Camp: You can fill the next couple of days with all sorts of activities depending on your interests. Both boat trips and canoeing can be done on the Zambezi, day and night safari drives are offered in both the park and surrounding Game Management Area (GMA) and you can try your hand at ‘catch and release’ fishing. As you are staying for a few days you can even opt for a full-day excursion into the Lower Zambezi National Park, which will give you maximum game viewing opportunities and a chance to sample a proper bush lunch. If time allows we would also recommend you do a walking safari to the north where the foothills of the Zambezi escarpment form the Chongwe Hills as here you have a chance of seeing the rarely spotted Samango or blue monkey."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "After your last hearty breakfast it is time to bid a fond farewell to the camp and its staff as you will be transferred back to the airstrip for your onward flight to Lusaka as you make your way home."
+    }
+  ],
+  "map": ""
+}

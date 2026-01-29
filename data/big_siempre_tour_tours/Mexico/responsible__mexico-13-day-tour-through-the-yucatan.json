@@ -1,0 +1,45 @@
+{
+  "destination": "Mexico",
+  "mainPhoto": "",
+  "id": "mexico-13-day-tour-through-the-yucatan",
+  "tourName": "Mexico 13 day tour, through the Yucatan",
+  "placesVisited": "",
+  "generalInfo": "Playa del Carmen - Chichen Itza - Merida - Campeche - Palenque - Tulum<br/><br/>The Yucatan Peninsula is a vast and varied region with lots to discover. Laze on palm-fringed beaches, explore ancient Mayan ruins and snorkel in the sparkling waters of the cenotes. Whether man-made or natural, there are lots of gems to uncover in this part of Mexico. You’ll travel by bus over two weeks, past colonial facades and rugged coastlines, stopping at towns along the way to get a real feel for Mexican culture, cuisine and cervezas!",
+  "durationDays": "13",
+  "price": "1499",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Welcome to the Mexican riviera: Touch down in Cancun and head straight to Playa del Carmen where you’ll see miles of Caribbean coastline, that will instantly initiate that holiday feeling! Here, you’ll meet our local team, get your bearings, and maybe grab a margarita in your pool-side hotel. You’ll have time to go shopping and bar and restaurant hopping and, before you know it, it’ll be time to move inland to one of Mexico's most iconic ancient sites: Chichen Itza."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "The Mayan route to Chichen Itza: You’ll hop on a comfortably air-conditioned bus across the Yucatan peninsula to Campeche, on the Gulf of Mexico. On your first stop, immerse yourself in the rich history of the ancient Mayans in Chichen Itza, an enchanting glimpse into the life of Mayan civilisation. From Chichen Itza, continue to Mérida, a colonial beauty with tree-lined plazas, live music spilling from doorways, and some seriously good food. You'll venture out to swim in a cenote, those ethereal sinkholes along the Yucatan's limestone crust, that create natural swimming pools surrounded by jungle. Next stop: Campeche, a former pirate stronghold on the Gulf of Mexico. Its UNESCO-protected old town is all pastel-colored colonial buildings and cobbled streets within ancient walls. We've left your time here unstructured, just explore, eat well, and soak up the atmosphere of this often-overlooked gem."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Passage to Palenque: The bus journey to Palenque takes you deeper into tropical terrain. The town itself won't win beauty contests, but what lies just beyond it will take your breath away: emerging from dense jungle rises the dramatic Palenque ruins. After exploring at your own pace, cool off at the Roberto Barrios waterfalls before heading back to your pool-side hotel to relax."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Tulum, Mayan ruins on palm beach: Your final stop brings you full circle to the Caribbean coast, but Tulum has a very different vibe from where you started. Here, ancient Mayan temples sit perched on clifftops above turquoise water, and golden sands. You're also close enough to explore the jungle ruins of Cobá if you fancy one last adventure. Mostly though, this is your time to decompress, cycle to the beach, eat fresh ceviche, and reflect on a journey that's taken you from Caribbean shores through colonial cities to jungle-clad ruins and back again."
+    }
+  ],
+  "map": ""
+}

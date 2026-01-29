@@ -1,0 +1,85 @@
+{
+  "destination": "Namibia",
+  "mainPhoto": "",
+  "id": "namibia-lodge-safari-holiday",
+  "tourName": "Namibia lodge safari holiday",
+  "placesVisited": "",
+  "generalInfo": "Take an unforgettable journey across Namibia's changing landscapes. Explore dramatic canyons, towering sand dunes and magnificent national parks in search of wildlife. By night, enjoy sundowners at remote lodges, surrounded by Namibia's astounding nature. <br/> <br/> Sossusvlei - Witness the vibrant colours of the world's highest sand dunes in the planet's oldest desert. <br/> Etosha National Park - Head out on game drives in one of Africa's great parks, home to four of the Big 5.<br/> Coastal Namibia - Visit Walvis Bay Lagoon, Cape Cross seal colony and the beautiful seaside town of Swakopmund.<br/> <br/>",
+  "durationDays": "12",
+  "price": "3845",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Join tour Windhoek",
+      "description": ": Our tour starts today in Windhoek, Namibia's capital. This vibrant city perfectly combines its African roots with modern European architecture. There are no activities planned today, so you're free to arrive at any time. For those arriving in time, our tour leader will meet you in the hotel reception at 6pm for a welcome meeting followed by dinner for those who wish to join. If you'd like an airport transfer today, you'll need to arrive into Hosea Kutako International Airport (WDH), which is around a one-hour drive from the hotel. Should you miss the welcome meeting, your tour leader will inform you of any essential information as soon as you catch up. If your flight arrives earlier in the day, you might like to get a head start on sightseeing. You could visit the National Museum or perhaps take a half-day Katatura Township tour."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Drive through Namib Desert to Sesriem",
+      "description": ": Departing Windhoek this morning, we'll spend the day driving south-west into the Namib Desert, to the edge of the Namib-Naukluft National Park and our lodge near Sesriem. The Namib is the oldest desert on earth, distinguished as being home to some of the strangest flora and fauna on the continent."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Exploring the highest dunes in the world in Sossusvlei",
+      "description": ": Today, we drive into the Namib-Naukluft National Park and travel down the Tsauchab Valley to Sossusvlei to watch the sun cast its shadows over the red dunes. Sossusvlei has some of the world's most spectacular sand dunes. The area itself is a vast depression or clay pan, towered over by sand dunes up to 300 metres/984 feet high. In the early morning, the first rays of the sun light up the dunes with a deep orange glow - a photographer's delight. It's a wild, beautiful and romantic spot, with sparse vegetation edging a few water courses which flow in from the Tsauchab River. Here springbok and ostrich are often seen. We'll also explore the cool passageways of the Sesriem Canyon on foot. The canyon is small but very picturesque - many plants grow in the shade and shelter offered by the canyon, and water pools attract several species of birds and animals. Sesriem means 'six thongs'; which refers to the six lengths of rawhide rope (from a wagon) needed to make a line long enough to lower from the rim of the gorge to the stream below, to haul up a bucket of water."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Drive to Swakopmund via Walvis Bay",
+      "description": ": Travelling via Solitaire and through the Kuiseb Canyon, today we'll pass awe-inspiring landscapes as we head across the Namib gravel flats to Walvis Bay. Here a large spit forms a natural deep-sea harbour that attracted the first navigators in the late 1400's. The shallows, located where the spit joins the mainland, are home to a diverse collection of birds, the most spectacular being flamingos and pelicans that feed here seasonally. It's a short drive from here to the coastal town of Swakopmund."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Swakopmund, Explore the colonial town or time for optional activities",
+      "description": ": Swakopmund is one of the world's best examples of German colonial architecture, and served as the German port into what was then, German South West Africa. Like any port town has a colourful past. Today, there may be time to visit the town's excellent museum, visit a local township, participate in one of the numerous activities on offer, or just relax! This evening you have the chance to watch the sunset at the nearby coastal dune belt. Please note, the running order of days 5, 6 and 7 is subject to change depending on accommodation locations. All listed highlights and activities will still be included and our tour leader will provide a detailed briefing to the group about the running order, driving distances and any necessary changes to what's described in the trip notes."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Drive via Cape Cross Seal Colony to Uis",
+      "description": ": Travelling north towards the Atlantic coast today, we'll visit the Cape Cross Seal Colony where between 80,000 and 100,000 Cape fur seals bask in the sun or swim playfully in the cold waters of the Atlantic Ocean. The seals are natural indicators of fish stocks in the ocean. If the fish stocks are healthy, then the seal numbers are high. If the fish stocks are poor, then the seal numbers will be low. The seals are quite big, an average male weighing in at anything up to 187kg (501 lbs.). The females give birth to a single pup around late November to early December. After our visit, we'll head inland, towards the majestic Brandberg Mountain (2,573 metres/8,441 feet and the highest point in Namibia) stopping at the Brandberg White Lady Paintings. To reach these famous San Bushman rock paintings, we'll walk for around one hour via mostly flat terrain between rock formations. We recommend wearing comfortable shoes and carrying a hat, sun lotion and plenty of water today. Please note, depending on our accommodation location, the rock art seen will either be the Brandberg White Lady or Twyfelfontein rock art. Both of these sites are of important, cultural significance in Namibia and are examples of ancient Bushmen rock art. Our tour leader will advise on arrival about the running order and which rock art site we'll visit."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Travel towards Etosha National Park",
+      "description": ": This morning, we'll set off on our drive north to Etosha National Park. Travelling through Damaraland we pass through local villages and will break the journey with some stops along the way. We'll travel to the edge of Etosha National Park, considered to be one of the finest national parks in Africa. Etosha is an immense, saline desert which can be seen from space, covering over 12,400 square miles, and the habitat for 114 species of animals. All the big carnivores, elephants, giraffes, wildebeest, zebras and various antelopes are commonly seen here, and we'll also try to spot some of the more endangered species, such as black rhinos."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Game drives in Etosha National Park",
+      "description": ": This morning, we'll enter Etosha National Park for an early morning game drive. Our programme of game drives will depend entirely on the interests of the group and the time of year, so it's left as flexible as possible. The terrain ranges from dense bush to large open plains where animals roam freely. As well as an abundance of game, Etosha is a good place to spot birdlife with over 340 species in the park, including weaverbirds, European bee-eaters, hornbills, ostriches and Africa's heaviest flying bird, the striking kori bustard. We drive along the network of gravel roads that crisscross the park, visiting the various viewpoints and the permanent waterholes around which animals congregate. There is something enigmatic in the vast silent grey-white pan that covers the reserve."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Game drives in Etosha National Park",
+      "description": ": We continue with our game drives today. Numerous waterholes and underground springs attract large herds of animals including springboks, zebras, wildebeest and giraffes. At its very heart is the Etosha Pan, which geologists believe was formed 12 million years ago from an inland lake about the size of Holland. Shrunk to its present dried-up size, it's now a gigantic depression in the ground - flat, saline and silvery, a mysterious place of mirages and dust-laden images."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Visit Cheetah Conservation Foundation; Otjiwa Exploration",
+      "description": ": This morning, we'll leave Etosha and travel via the Cheetah Conservation Foundation at Otjiwarongo to our accommodation in Otjiwa. The CCF is an internationally recognised centre of excellence in research and education on cheetahs and their eco-systems with an extensive visitor's centre which encourages visitors to learn more about these beautiful cats and the efforts being made to save them. Later, we'll continue to Otjiwarongo. Our lodge is one of the oldest game lodges in Namibia and is nestled amongst lush bushland allowing impalas, kudu and warthogs to wander freely near the lodge."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Morning walks or optional game drives; head to Windhoek",
+      "description": ": This morning you might like to explore some of the nearby walking trails or take an optional game drive in the national park. We'll then head south and return to Windhoek. En route today, we'll have the chance to stop off in Okhandja and visit the local craft market."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Tour ends Windhoek",
+      "description": ": Our tour ends after breakfast this morning in Windhoek. Depending on your flight time, you might choose to spend a few hours exploring the town solo. There are no activities planned today, so you're free to depart from Windhoek at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from Hosea Kutako International Airport (WDH), which is a one-hour drive from the hotel."
+    }
+  ],
+  "map": ""
+}

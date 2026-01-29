@@ -1,0 +1,60 @@
+{
+  "destination": "South Africa",
+  "mainPhoto": "",
+  "id": "south-africa-coastal-adventure-holiday",
+  "tourName": "South Africa coastal adventure holiday",
+  "placesVisited": "",
+  "generalInfo": "Buckle up and get ready for a 10-day / 9-night adventure like no other in one of the most stunning countries in the world!  From hiking along breath-taking coastlines to diving into crystal-clear waters and basking in the sun on pristine white sandy beaches, this South African tour has it all.<br/><br/>We'll start your journey in the vibrant city of Cape Town, where we'll whisk you away to the charming Tamboerskloof suburb. Spend two cozy nights at Parker Cottage before exploring the city's many attractions on an open-top City Sightseeing bus, with over 30 stops to choose from!<br/><br/>Next up, prepare for an unforgettable hiking adventure along the awe-inspiring Tsitsikamma coast on the Dolphin Trail. Stay in luxurious lodges that offer delicious food and stunning views of the Indian Ocean. And don't worry about carrying heavy backpacks - we'll take care of transporting your luggage for you! Hike suspension bridges, ridges, and rocky paths while spotting whales and dolphins along the way.<br/><br/>But the adventure doesn't end there! You'll overnight in Johannesburg before finishing your epic journey in style at Thonga Beach Lodge, where you'll spend 3 nights. Here can choose to take guided walks through the forest, scuba dive or snorkel in crystal-clear waters, or simply lounge on the beach and soak up the sun.<br/><br/>Are you ready to make unforgettable memories and experience the ultimate combination of scuba diving, sightseeing and slackpacking? Let's dive in!",
+  "durationDays": "10",
+  "price": "3126",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Ready for an unforgettable adventure? Your first stop is the vibrant and beautiful Cape Town! As soon as you land at Cape Town International Airport, we'll take you straight to Parker Cottage (B&B), a cozy and eco-friendly guesthouse located in the charming Tamboerskloof suburb. Get ready to immerse yourself in the heart of the city, as you spend the next two nights in the vibrant City Bowl, an area bursting with character and charm. To make the most of your time in the \"Mother City,\" we recommend exploring it on an open-top City Sightseeing bus. With over 30 stops and 50 top attractions, you can hop-on and hop-off as much as you want! See the city's iconic landmarks like Table Mountain and the V&A Waterfront, or venture off the beaten path to discover hidden gems and local hotspots. Whether you're a first-time visitor or a seasoned traveler, Cape Town is sure to captivate your heart and leave you wanting more. Get ready for an adventure-packed journey that's as thrilling as it is beautiful!"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "On day 3, get ready to experience the ultimate hiking adventure on the Dolphin Trail! You'll explore the stunning Tsitsikamma coast for three nights, staying in luxurious lodges with incredible views of the Indian Ocean and mouth-watering meals to fuel your journey. The best part? No heavy backpacks weighing you down - your luggage will be transported by vehicle to your overnight stops. All you need to bring is a light day pack and your camera to capture the unforgettable views! After a morning flight from Cape Town to George, you'll meet your expert Dolphin Trail guide and head to one of the charming Dolphin Trail Chalets for the night. This is the perfect opportunity to relax and rejuvenate, surrounded by the beauty of nature and the sound of the crashing waves. Get ready to make memories that will last a lifetime on this thrilling and unforgettable hiking adventure!"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Rise and shine on Day 4 with a refreshing morning swim or some bird watching to kick things off! Then, get ready to hit the hiking trails and take in some seriously breathtaking views. Cross the mighty Storms River on a suspension bridge and wind your way along rocky paths and ridges until you reach an epic lookout point with sweeping vistas of the coast all the way to Plettenberg Bay. And keep your eyes peeled for some whale and dolphin sightings along the way! After a day of adventure and exploration, it's time to unwind and let loose with a sunset Quad Bike Tour at the amazing Misty Mountain Lodge. After an exhilarating ride, treat yourself to a scrumptious 3-course dinner that'll leave you feeling satisfied and totally content. Day 4 is all about taking in the best of nature, indulging in some thrilling activities, and making unforgettable memories."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Day 5 is a real treat, as you'll get to explore the stunning coastal scenery at sea level - be sure to pack your snorkelling gear! After a challenging uphill climb, you'll be treated to a well-deserved picnic lunch before embarking on a leisurely 3km forest walk to The Fernery. And what better way to unwind after an exhilarating day than to soak in a jacuzzi or sauna? It's the perfect end to a truly fantastic adventure!"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Start your day with breakfast at The Fernery. Afterward, head to Port Elizabeth Airport for a scenic ride. Fly to Johannesburg and stay at The Peech Hotel in Melrose, a stylish and eco-friendly boutique hotel. Enjoy dinner at the hotel's restaurant, then unwind in your cozy Classic Room for a restful night’s sleep."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "You’re back in the air with a flight to the Kwa-Zulu Natal town of Richards Bay today, where pick up your rental vehicle and make your way to your lodging for the next three nights at the sensational Thonga Beach Lodge. Head out on foot on a guided walk through the forest where you’ll have the opportunity to see some of the multitude of bird, plant, spider and butterfly species from the area. Enjoy scuba diving and snorkelling, as well as kayaking on Lake Sibaya … or just laze the day away soaking up the sun on the unspoiled white sandy beach."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "This is your last day in South Africa. You’ll drive from Thonga Beach Lodge to Durban, where you’ll fly out from Durban International Airport today with what we hope are some outstanding memories to hold onto until we see you again!"
+    }
+  ],
+  "map": ""
+}

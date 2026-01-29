@@ -1,0 +1,80 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "kenya-family-holiday",
+  "tourName": "Kenya family holiday",
+  "placesVisited": "",
+  "generalInfo": "Kenya is one of the most exciting destinations in Africa, a treasure trove of incredible wildlife, spectacular scenery and fabulous beaches. The children will adore everything about a safari, whether it is keeping their eyes peeled for 'the big five', eating dinner around a camp fire under a blanket of stars or taking a walking safari through a national park in search of some of Africa's less dangerous animals. <br/>Key to a successful family holiday in Kenya is the accommodation and this holiday uses a number of different family friendly camps which have been hand picked for their ambience and facilities. Many are in stunning locations, with great views over the surrounding landscape and a comfortable bed at the end of the night in a deluxe safari tent or chalet. Most have swimming pools so that you can relax during the heat of the day, recharging the batteries before another game drive in search of lion, zebra, elephant, rhino and more.<br/>Kenya also has some wonderful beaches with a wide variety of resorts ranging from large hotels with watersports, multiple pools and kids clubs to smaller and more informal boutique hotels with less facilities but a more personalised service. We will recommend a place that will suit your particular family.",
+  "durationDays": "12",
+  "price": "5500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "NAIROBI Arrive in Nairobi and transfer to your hotel where the rest of the day is free for you to relax."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "NAIROBI - MT KENYA In the morning your will visit Daphne Sheldrick’s Elephant Orphanage; the children will love being able to get ‘up close’ and watch the elephants playing and being fed. You will also visit the Langatta Giraffe Centre where the children will be able to hand-feed some of the animals. You will then head out of Nairobi towards Mount Kenya, arriving at your tented camp after approximately 3 hours."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "OL PEJETA CONSERVANCY Great excitement this morning as you head off on your first game drive in the Ol Pejeta Conservancy (also known as the Sweetwaters reserve). All of the ‘big 5’ can be found here (lion, rhino, leopard, elephant and buffalo) as well as zebra, giraffe, cheetah and many more."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "LAKE NAKURU This morning you will depart for Lake Nakuru where you will take a game drive in the extraordinary National Park, renowned for its huge concentration of flamingos and over 460 species of birds."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "LAKE NAIVASHA After a second game drive in Lake Nakuru National Park you will head for Lake Naivasha, passing Hells Gate National Park with its pair of massive red-tinged cliffs leading into dramatic scenery of steep cliffs, narrow gorges, bubbling geothermal pools and strange twisted rock formations. You will take high tea at Elsamere, home to Joy Adamson, a British naturalist and author of ‘Born Free’, a bestselling story about the trials and tribulations of raising a lion cub called Elsa."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "LAKE NAIVASHA Lake Naivasha is the highest of the Rift Valley lakes, with clear blue waters leading to dense stands of thick papyrus and a backdrop of mountains. The views are gorgeous and the area also abounds with bird life. This morning for a change of scene and to keep the children interested, you will explore the lake by boat with excellent opportunities for spotting hippos and other animals that come to drink and wallow in the lake. In the afternoon you will take a guided nature walk through the yellow acacia forest around the lake; the children will really enjoy the chance to get up close with some of the smaller animals that are sometimes missed during game drives."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "MASAI MARA Today there is quite a long drive to the Masai Mara (approximately 5½ hours). But oooh……when you arrive, it is all worth it!"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "MASAI MARA The Masai Mara is one of the finest game reserves in Africa, its rolling green plains and woodlands densely packed with a remarkable array of wildlife. All of the ‘big 5’ can be found here….make sure that the children keep their cameras at the ready. The scenery is also magnificent with endless plains, picturesque acacia trees and the spectacular Siria escarpment looming to the west. You will have both morning and afternoon game drives today."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "MASAI MARA - MOMBASA An early morning departure for the drive back to Nairobi, through attractive coffee plantations and bustling villages. On arrival you will board a regional flight to Mombasa, on the Indian Ocean. You will then be transferred to your resort, on the sparkling white sands of Nyali Beach. The children will think that they have arrived in paradise! There are a wide range of activities and water sports available, including fishing, tennis, volley ball, glass-bottomed boat rides and snorkelling. Total driving time is approximately 5 hours and the flight takes about 50 minutes."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "MOMBASA (BEACH) Two wonderful full days to relax and enjoy the beach. The water of the Indian Ocean is beautifully warm and is perfect for children. Active families will have plenty to keep them occupied with opportunities to take a full day boat trip to a variety of excellent snorkelling spots where there are superb coral gardens and an abundance of sea life, or perhaps take a nature walk into the rainforest at Bamburi. Others may wish to relax on the beach and enjoy the occasional dip."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "MOMBASA Time to say goodbye to Kenya and head home."
+    }
+  ],
+  "map": ""
+}

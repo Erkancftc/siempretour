@@ -1,0 +1,75 @@
+{
+  "destination": "Costa Rica",
+  "mainPhoto": "",
+  "id": "costa-rica-classic-self-drive-holiday",
+  "tourName": "Costa Rica classic self drive holiday",
+  "placesVisited": "",
+  "generalInfo": "With our tailormade selfdrive holidays to Costa Rica you stay in your choice of hotels booked in advance to an itinerary you design with us, with a 4WD car hire and 24hr local support. Use this suggested route visiting some of Costa Rica's classic highlights (the Arenal Volcano, Monteverde Cloudforest and Pacific coast at Manuel Antonio) as a starting point for your own plans, and call us to discuss any modifications you have in mind and to choose your hotels. We will make reservations for you (or suggest alternatives if your first choice of hotel is unavailable). <br/><br/>When to visit: <br/><br/>A short dry season: December - April, which is the high season for travel to Costa Rica. <br/><br/>Rainy or 'green' low season: May - November. In the green season the mornings are almost always clear and warm, and in the afternoon rain falls in short, strong bursts, with clouds usually clearing in time for a magnificent sunset. Some visitors choose to travel during the green season as the country is quieter, the scenery is fresher and greener, prices can be lower, and there are added bonuses, e.g. this is the time when turtles come to their favourite beaches to lay their eggs. Avoid September and October as the rains are heaviest at this time.",
+  "durationDays": "10",
+  "price": "1865",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive in San José where you stay for the night."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "La Fortuna and Arenal volcano. Your hire car will be delivered to you this morning. Set off driving to La Fortuna (perhaps stopping to visit the Poas volcano on route) for 3 nights near the Arenal Volcano. In the evening enjoy a rainforest night walk with chances to see nocturnal species such as snakes, frogs, possums and owls."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Hanging bridges and hotsprings. Take a guided nature walk along the hanging bridges this morning - a series of trails and suspended walkways through rainforest with opportunities to spot a range of wildlife and enjoy views out over the forest canopy. Some free time during the day to relax at your hotel or to enjoy a range of activities in the local area. In the evening drive to a local hotspring complex where you can relax in the thermal waters."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Free day in Arenal. A day for your choice of excursions today - from canopy ziplines to reserve walks, kayaking to biking, birding to chocolate tours there are a huge range of activities to choose from."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Drive round the north shore of Lake Arenal via Tilarán to the Monteverde cloudforest where you stay for 2 nights at a mountain lodge a short drive away from the Monteverde Reserve."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Monteverde Cloudforest. Enjoy a guided nature walk in the Monteverde Reserve this morning to observe the flora and fauna of this unique habitat. After the tour you have the rest of the day free for additional excursions such as canopy ziplines, visits to a local coffee plantation, horse-riding or walks in other local reserves."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Pacific coast at Manuel Antonio. Drive down from the mountains to the Pacific coast at Manuel Antonio for some of Costa Rica's most beautiful coastal scenery where you stay for 3 nights."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Manuel Antonio National Park. Take a guided nature walk through the Manuel Antonio National park today where you are likely to see sloths, monkeys and other rainforest species. The jungle backed beaches here are stunning and you can chose to remain in the park to enjoy them after your tour if you wish. N.B the park is closed on Tuesdays"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Free at Manuel Antonio e.g. to re-visit the beaches and jungle of Manuel Antonio National Park, coastal snorkelling, surfing lessons, Damas island by boat or kayak."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Drive up to San José airport dropping off your hire car in time to check in for your flight home (this will work provided your flight departs San Jose no earlier than midday). Or continue on to your next destination in Costa Rica."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,60 @@
+{
+  "destination": "India",
+  "mainPhoto": "",
+  "id": "senior-tour-of-india-heart-of-rajasthan",
+  "tourName": "Senior Tour of India: Heart of Rajasthan",
+  "placesVisited": "Jaipur, Udaipur, Bikaner, Jodhpur, Pushkar",
+  "generalInfo": "The desert and mountains of Rajasthan will reveal treasured palaces and glistening lakes during this one-week India tour for seniors. Discover the culture, heritage, and opulent history, from Jaipur to Jodhpur and from Pushkar to Bikaner. Marvel at the glassy shores of Lake Pichola, find lavish facades of the Havelis of Bikaner, and delight in the vibrant life of the bazaars with this tour that has been specifically designed with senior travelers in mind.",
+  "durationDays": "7",
+  "price": "1,800",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Jaipur – Introduction to the Pink City",
+      "description": "Jaipur is a city of royalty and shimmers with rosy hues. Jaipur also acts as the gateway to the lively region of Rajasthan and embodies the culture of the desert landscape and secluded cities. Your flight will land at Jaipur International Airport, where your private transfer will meet you and escort you to the comforts of your luxurious accommodation. After settling into your accommodation, your guide will meet you in the lobby to introduce you to Jaipur with a private tour. You will reach the complex of the Jantar Mantar observatory in addition to other notable landmarks."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Jaipur – Amber Fort and Jaipur Bazaars",
+      "description": "Your guide will meet you after breakfast and take you to the marvels of the Amber Fortress. The foundations of the fort date back to the 10th century. Your guide will lead you through the preserved splendor, from the elegant artwork that adorns the Ganesh Gate to the 27 colonnades that crown with elephant-shaped capitals in the Hall of Public Audience. In the third courtyard, you will find the Mirror Palace. You will return to the heart of Jaipur and venture through the famous lanes of the Johri Bazaar. Here, vendors display rows of gold and silver ornaments, earrings studded with precious emeralds, and sapphires that shimmer on necklaces."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Bikaner – Bikaner and Karni Mata Temple",
+      "description": "You will depart with your private transfer after breakfast to the desert town of Bikaner. Once here, you may feel as though you have traveled back in time to visit a vibrant desert outpost. Remnants of medieval design and décor will appear along the traditional residences known as havelis . They will have ornate facades adorned with perforated screens, overhangs, and balconies. As you walk through the Cloud Palace, you will find ornate cloud motifs gilded with gold lightning amid red and blue hues. You will also witness the suite of Maharaja Gaj Singh and Karni Mata Temple."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Jodhpur – The History of the Blue City",
+      "description": "As you approach the city of Jodhpur with your private transfer, you will find the architecture to be a vibrant blue hue. The city center remains a maze of homes and shops that have been painted with blue hues. The impenetrable stronghold acts as Jodhpur’s definitive skyline with walls that reach up to 118 feet tall. You can stroll along the 18th-century garden and relax beneath the shady trees among the aromas of pine and cinnamon. The Umaid Bhawan Palace complex contains 365 rooms and hosts the prized collection of classic cars that are owned by Gaj Singh II."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Udaipur – Traverse the Lakeshores",
+      "description": "Your private transfer will meet you at your hotel after breakfast and escort you to the charming lakeshores of Udaipur, where the beauty of the shimmering marble architecture and alpine forest create a sense of timeless romance. The crystal-clear water of Lake Pichola reflects the surrounding splendor of the city, and the lush landscape and architecture will contrast the regal desert cities around Rajasthan. After settling into your room, your guide will meet you in the lobby to introduce you to the heritage and culture of Udaipur."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Pushkar – The Monuments of Pushkar",
+      "description": "This morning, your private transfer will escort you from Udaipur to Pushkar, where you will meet your guide. During October and November, Pushkar erupts with activity that originates from the famous Camel Fair. Throughout the year, the city retains its alluring buzz of locals, pilgrims, and visitors from around the world. Your guide will introduce you to the city’s distinctive ambiance that is embodied in the Brahma Temple. Along the streets, you will hear the devotional chanting of pilgrims as they visit the Naya Rangji Temple."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Jaipur – Departure",
+      "description": "In the morning, Savitri Temple will glint on the hilltop, overlooking the city and attracting pilgrims and visitors to watch the sunrise. At breakfast, you will find the enjoyable aromas of chai masala as they drift through the streets of Pushkar. Soon, you will meet your private driver, who will transfer you to the airport for your flight home."
+    }
+  ],
+  "map": ""
+}

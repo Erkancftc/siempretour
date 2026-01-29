@@ -1,0 +1,85 @@
+{
+  "destination": "Botswana",
+  "mainPhoto": "",
+  "id": "botswana-safari-adventure-for-families",
+  "tourName": "Botswana safari adventure for families",
+  "placesVisited": "",
+  "generalInfo": "Set off on a family adventure that blends the wild beauty of Botswana with the wonder of Victoria Falls. This carefully designed journey brings together iconic landscapes and unforgettable experiences, making it ideal for a landmark family holiday. <br/>From the thundering falls to the wildlife-rich Chobe Riverfront, the magical Okavango Delta, and the vast Makgadikgadi Pans, this 13 day itinerary balances excitement with comfort and flexibility, keeping both children and adults captivated from start to finish.",
+  "durationDays": "13",
+  "price": "5750",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrive at Victoria Falls - Arrive at Victoria Falls and transfer to Pioneers, a welcoming lodge full of colonial character and surrounded by tranquil gardens. The afternoon is yours to unwind or take a leisurely stroll to get a feel for this iconic town. You’ll be based here for the next three nights."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Exploring the Falls - Feel the awe of Victoria Falls up close with a guided walk, then take in breathtaking views on the thrilling Batoka Gorge canopy walk – surprisingly accessible for all ages. There are plenty of optional experiences to choose from, including helicopter flights, white-water rafting (age restrictions apply), or exploring the vibrant local craft markets."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Victoria Falls Canopy Tour - This family-friendly canopy tour offers a safe and enjoyable way to experience the lush Victoria Falls rainforest from above. Suitable for ages 6 to 100, it blends gentle zip lines with secure suspension bridges, creating an exciting treetop trail. As you move from platform to platform, take in sweeping gorge views and spot local wildlife, including birds and monkeys, in their natural habitat. Led by expert guides, it’s the perfect mix of light adventure and nature discovery, ideal for families seeking a memorable shared experience."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Cross into Botswana & Transfer to your lodge overlooking the Chobe River - The Chobe Riverfront boasts Africa’s highest concentration of elephants – visit in winter, and you may lose count as they roam the riverbanks and floodplains. Just a short drive from Victoria Falls, it’s Botswana’s busiest safari region, yet still far quieter than most parks in South or East Africa. While it may not offer complete solitude, it delivers unforgettable wildlife encounters: elephants brushing past your vehicle, hippos and buffalo filling the plains, lions on the hunt, and sunsets ablaze with colour, accompanied by the haunting call of fish eagles."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Wildlife Galore - Chobe isn’t just a perfect introduction to Botswana – it also rewards repeat visits. Here, you can seek out the elusive sable antelope, tick off rare birds from your checklist, and explore the park’s most remote corners. Where you stay in Chobe makes a big difference to your safari experience. More budget-friendly options are found in town-based lodges, where game drives may be shared with other vehicles. For a more exclusive experience, choose a lodge deeper in or around the park, where you can fall asleep to the sounds of the bush and enjoy early access to the best safari activities."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Relax & Explore - Begin the day with a visit to a nearby village, discovering local life and traditions, before setting out on another game drive or relaxing river cruise. Back at camp, unwind with sundowners by the fire and savour a delicious meal in the open-air boma."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Light aircraft flight to the heart of the Okavango Delta - On a map of Botswana, you might easily miss Khwai if you didn’t know it was there. Tucked between the major highlights of Chobe National Park to the east and Moremi Game Reserve to the south, Khwai is a big-game destination in its own right. Sitting outside national park boundaries, it offers greater freedom—think off-road driving, night safaris, and guided walks—experiences often limited to private concessions. Wildlife here is abundant and diverse, and many camps also offer mokoro excursions along the riverbanks. Khwai is also a living landscape, home to a local community that coexists with the wildlife, and some lodges include village visits for families keen to gain a deeper understanding of life in this extraordinary region."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Safari Drives & Delta magic - Set out on expertly guided game drives in the Khwai area, renowned for predator sightings and frequent elephant encounters. You might also venture on foot with a guide or glide quietly through the narrow channels in a traditional mokoro (dugout canoe), getting a closer perspective on this remarkable landscape."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Safari day! Every day at Sango brings a new experience – whether it’s a thrilling night drive, a morning of birdwatching, or simply observing wildlife from the comfort of your deck. The camp’s intimate size and prime location between Moremi and Khwai provide exceptional flexibility for unforgettable game-viewing opportunities."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Flying to Makgadikgadi - Fly southeast to the glittering salt pans of Makgadikgadi. At Camp Kalahari, the pace changes completely – imagine palm-fringed desert landscapes, endless skies, and a unique mix of comfort and adventure."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Join Zu/’hoasi Bushmen guides on a captivating walk, discovering their ancient survival skills and profound understanding of the land. As night falls, relax under a sky untouched by light pollution—a truly magical way to end the day."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "After breakfast, fly back to Maun, carrying with you the sights, sounds, and spirit of Africa’s wild heart -memories that will stay with you long after the journey ends."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,65 @@
+{
+  "destination": "Bali",
+  "mainPhoto": "",
+  "id": "rejuvenating-tropical-getaway-vacation-to-bali",
+  "tourName": "Rejuvenating Tropical Getaway Vacation to Bali",
+  "placesVisited": "Nusa Dua, Ubud, Gili Islands, Bali Island",
+  "generalInfo": "Discover how the past has shaped contemporary culture during your 8-day Bali getaway tour. An ancient spring will feed spiritual bathing pools and temple walls will turn to silhouettes at sunset. Embrace the unique and delicate intricacies of time on white sandy beaches and volcanic peaks from which the island sprang. With tiered ridges of iconic rice terraces and refreshing coffee estates, your rejuvenating getaway will cultivate Bali’s timeless joys.",
+  "durationDays": "8",
+  "price": "9,200",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": "1",
+      "title": "Nusa Dua – Arrive in the Beauty of Bali",
+      "description": "Bali is an island of mystique and charm, beauty, and passion. White sand beaches glow next to rich colored waters as jungle canopies don blossoming orchids and oleanders. Your flight will arrive at Ngurah Rai International Airport where you will be met by your private transfer. Your accommodation will stand at the edge of the shoreline giving you stunning views of the Indian Ocean. The remainder of the day is at your leisure giving you time to visit Puja Mandala, a unique complex that is dedicated to the five main religions of Indonesia."
+    },
+    {
+      "dayNumber": "2",
+      "title": "Nusa Dua – Discover Tanah Lot and Uluwatu Temples",
+      "description": "At breakfast, the scent of banana pancakes may blend with the aroma of roasted coffee. Your guide will meet you in your hotel lobby and escort you to Tanah Lot temple. The edifice was built atop a stunning boulder rising out of the Indian Ocean. The nearby royal temple of Mengwi, which was constructed in the 17th century. The beautiful regal architecture rises above reflective moats, making the shrines appear as though they float on the water. At Uluwatu, you can find the traditional thatched roof above the surrounding cliffs supporting the temple’s millennium of history."
+    },
+    {
+      "dayNumber": "3",
+      "title": "Ubud – Enjoy a Morning Surf Lesson and Cultural Exploration",
+      "description": "You will take to the sand to meet your private surf instructor as the tropical sun warms the beach. Your instructor will explain the dynamics of surfing before accompanying you into the warm water. You may feel the waves form beneath your fingertips as the water ebbs and flows beneath the board. After breakfast, you will make your way to Ubud. En route, you can stop in Tegenungan Village to visit with local farmers and children before walking the jungle trail. Tegenungan Waterfall will splash down into the waiting pool with cool waters that creates a refreshing mist."
+    },
+    {
+      "dayNumber": "4",
+      "title": "Ubud – Visit a Local Village, Coffee Plantation, and Iconic Rice Terraces",
+      "description": "Today you will venture into the countryside to meet with villagers and traverse the variety of farms that thrive in the tropical climate. In the afternoon, you will reach a private plantation to learn the techniques and the importance of cultivating coffee in the region. The estate also produces vanilla, cinnamon, and chocolate. The steep slopes contain bushels of coffee plants with red berries. Your guide will offer you a sample of the coffee produced on the plantation and call your attention to the subtle aroma of caramel and a hint of chocolate that lingers on your palate."
+    },
+    {
+      "dayNumber": "5",
+      "title": "Ubud – Relish Sunrise at Mount Batur and Balinese Water Temples",
+      "description": "Today you will wake before dawn and venture out into the jungle canopy revealing the lingering starlight. The dull moonlight may guide you up the plateau that overlooks the eastern edges of Mount Batur’s caldera. Sip a refreshing, hot cup of coffee and snack on a delicious banana as the sun begins to glow faintly across the horizon. You will go back down the slopes and continue to Tirta Empul temple, which was built in the 10th century. The grounds feature two pools and 30 showers fed by the natural mountain spring decorated with gilded dragonheads."
+    },
+    {
+      "dayNumber": "6",
+      "title": "Gili Meno – Transfer to the Gili Islands",
+      "description": "The scent of coconut and coffee may fill the morning air as you the Water Blow erupts like a volcano in the morning. Your private transfer will meet you at your hotel and lead you to the Gili Islands ferry. You will stop at Gili Meno and make your way to your gorgeous resort-style hotel. The remainder of the day is yours to discover island life. Horse-drawn carriages travel the trails as though you have stepped back in time. Mangrove trees dig their roots into the saltwater lake and palms rise above the canopy as egrets graze on the shore."
+    },
+    {
+      "dayNumber": "7",
+      "title": "Gili Meno – Indulge in Gili Island Splendor and Enjoy a Cooking Class",
+      "description": "The day will be yours to enjoy the Gili Islands at your preferred pace. Take to the waters on a snorkeling excursion or venture to Gili T and the summit of Treasure Hill. You could also wander the walkways of the Gili Meno Bird Park Resort in search of scarlet macaw. In the early morning hours, the Gili Komodo dragon emerges from its nest. You can take to the water to explore the fringing reefs in search of clownfish and wild green turtles before you visit a private kitchen with a celebrated chef to learn the art of Balinese cuisine."
+    },
+    {
+      "dayNumber": "8",
+      "title": "Lombok – Depart for Home",
+      "description": "In the morning, the waves will lap against the white sand beaches and fishers may set out in their colorful boats in search of the perfect catch beyond the reef. At breakfast, you can sample the exotic flavors of a mangosteen and custard apples before making your way to the ferry bound for Lombok Island where your private transfer will greet you at the shore and escort you to the Lombok International Airport for your flight home."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,70 @@
+{
+  "destination": "Namibia",
+  "mainPhoto": "",
+  "id": "namibia-classic-self-drive-tour",
+  "tourName": "Namibia classic self drive tour",
+  "placesVisited": "",
+  "generalInfo": "Discover the world-renowned sand dunes of the Namib Desert, visit seal colonies along the Skeleton Coast, track desert-adapted elephants in Damaraland, and experience close encounters with big cats at the AfriCat Foundation in Okonjima.<br/><br/>Begin your Namibian self-drive adventure in the capital, Windhoek, before heading to Sossusvlei in the Namib Desert, where you can marvel at the towering red sand dunes and awe-inspiring landscapes. From there, travel to the charming coastal town of Swakopmund, nestled between the Atlantic Ocean and the Namib Desert. Continue your journey along the Skeleton Coast to the rugged and dramatic region of Damaraland, celebrated for its striking scenery and unique wildlife adapted to the desert environment.<br/><br/>For a classic safari experience, explore Etosha National Park in northern Namibia, where thrilling wildlife sightings await. Conclude your adventure at the Okonjima Nature Reserve in central Namibia, home to the AfriCat Foundation, which is dedicated to the rescue, rehabilitation, and conservation of Namibia’s big cats, including cheetahs and leopards.<br/><br/>This carefully designed Namibia itinerary showcases the country’s extraordinary highlights, allowing you to explore its surreal landscapes and remarkable wildlife at your own pace on a self-drive adventure.",
+  "durationDays": "15",
+  "price": "5999",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival in Windhoek - Arrive in Namibia’s capital where a driver will transfer you to your centrally located accommodation. Your rental vehicle will be delivered with a phone, and information pack. Spend the rest of the day exploring Windhoek at your leisure."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Drive South to the Kalahari Region - Leave Windhoek and drive south to the striking Kalahari region. Enjoy the vast red sand dunes, open landscapes, and peaceful atmosphere as you settle in for the night surrounded by the unique beauty of this semi-arid desert."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Discover Sossusvlei and the Namib Desert - Drive to Sossusvlei in Namib-Naukluft National Park, famed for its towering orange dunes and salt pans. You’ll have two nights here to explore iconic sights like Dune 45, Big Daddy, Deadvlei, and Sesriem Canyon. Early risers can climb dunes at sunrise or choose a hot air balloon flight for breathtaking desert views. Enjoy nature drives, dune walks, or simply relax and soak in the desert’s timeless beauty."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Experience Swakopmund and the Skeleton Coast - Travel north to the charming coastal town of Swakopmund. En-route, visit Walvis Bay and its lagoon teeming with birdlife. In Swakopmund, enjoy the unique blend of German colonial architecture and modern seaside vibes. Take a catamaran cruise for marine wildlife sightings or explore the nearby dunes and desert landscapes."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Explore Damaraland - Continue north to rugged Damaraland, with its dramatic landscapes and rich cultural heritage. Visit the Cape Cross seal colony or the shipwreck along the Skeleton Coast. Take nature drives to spot desert-adapted elephants or join excursions to see the ancient rock engravings at the UNESCO World Heritage Site of Twyfelfontein, as well as Burnt Mountain and the Organ Pipes."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Wildlife Safari in Etosha National Park - Drive east to world-renowned Etosha National Park. Spend two nights enjoying self-driven game viewing around waterholes where you may see elephants, lions, leopards, black rhinos, and rare antelope species. With well-maintained roads, you can"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Eastern Etosha Safari Experience - Drive to the eastern part of Etosha for two nights overlooking watering holes. Relax while enjoying spectacular animal sightings and the vast, open landscapes that make this area so special."
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Okonjima Nature Reserve and Big Cat Conservation - Head south to Okonjima Nature Reserve, home to the Africat Foundation which focuses on the rehabilitation of Namibia’s big cats, such as cheetahs and leopards. Enjoy wildlife tracking, bird watching, or cultural experiences like bushman trails. On your final full day, join a leopard tracking excursion to search for these elusive cats."
+    },
+    {
+      "dayNumber": 15,
+      "title": "",
+      "description": "Return to Windhoek and Depart - After breakfast, drive back to Windhoek, allowing time for lunch and to return your rental vehicle before heading to the airport for your international flight home."
+    }
+  ],
+  "map": ""
+}

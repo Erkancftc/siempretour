@@ -1,0 +1,55 @@
+{
+  "destination": "Canada",
+  "mainPhoto": "",
+  "id": "hike-bike-and-rafting-adventure-in-the-canadian-rockies",
+  "tourName": "Hike, bike and rafting adventure in the Canadian Rockies",
+  "placesVisited": "",
+  "generalInfo": "If you want a Canadian Rockies holiday that’s active, varied, and fully supported, our Canadian Rockies Multi-Sport Guided Tour delivers six days of cycling, hiking, and rafting across Banff and Jasper National Parks. The trip starts and ends in Banff and is packed with daily mountain adventures. Two professional local guides look after the details—transport, timing, route choices, and on-trip support—so you can focus on the mountains. <br/><br/>You’ll experience the Rockies from three angles. On foot, you’ll hike glacier-view classics like Parker Ridge, Wilcox Pass and Lake Annette, where alpine meadows and icefields fill the horizon. On two wheels, you’ll ride beautiful stretches around Jasper and along the Icefields Parkway: ride to Maligne Canyon, a big-scenery parkway day toward Sunwapta Falls, and a finale from Lake Louise back to Banff. Along the way, we stop at Mount Edith Cavell for views of Angel Glacier. <br/><br/>To round out the week, you’ll swap pedals for paddles with a rafting trip on the Athabasca River (about 3 hours, Class II–III)—a Rockies rush framed by peaks and glacial-fed water. The highlights are built in too: Peyto Lake’s viewpoint, time at Moraine Lake, a photo visit at Lake Louise, and a memorable week in the Canadian Rockies<br/><br/>What makes this holiday special is the balance of adventure and comfort. You’ll travel in a small group (4–12), stay five nights in mountain lodgings, and enjoy a trip where the big logistics are handled: all transportation during the tour, national park and activity entry fees, luggage transfers, rafting, meals as listed, plus snacks and non-alcoholic beverages.<br/><br/>Before or after your tour, it’s easy to add extra Rockies fun: ride the Banff Gondola, soak in the Banff Upper Hot Springs, stroll Banff Avenue for cafés and restaurants, or explore Canmore’s riverside paths and local breweries.<br/><br/>Although we do our very best to adhere to the schedule below, the itinerary is subject to change for numerous reasons beyond our control, including weather and terrain conditions.",
+  "durationDays": "6",
+  "price": "4395",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Welcome to the Rockies! Meet at 8:00 AM at the Banff Train Station and kick off your adventure with a scenic drive through Banff and Jasper National Parks. Along the way, we stop for a beautiful subalpine hike with sweeping views of the surrounding peaks before continuing on to the mountain town of Jasper. Hike: Parker’s Ridge, 6.5 km / 4 mi, 340 m / 1,115 ft elevation gain | 2-3 hours Meals: Lunch, Dinner Overnight: Jasper Inn"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Biking & Rafting Adventures! Start the day with a scenic bike ride to Maligne Canyon, followed by a short walk along its dramatic cliffs and frozen waterfalls. In the afternoon, swap pedals for paddles as we raft the Athabasca River, tackling Class III rapids surrounded by towering peaks. Cycle: 28 km / 17.5 mi, 285 m / 935 ft elevation gain | 2-3 hours Rafting: 3 hours, Class II-III Meals: Breakfast, Lunch Overnight: Jasper Inn"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Cycling the Icefields Parkway! Cycle past glaciers, canyons, and alpine valleys on one of the world’s most scenic roads. From Jasper to Sunwapta Falls, we stop at Mount Edith Cavell and Angel Glacier before continuing along the iconic Icefields Parkway. Cycle: 56 km / 35 mi, +794 m / -459 m elevation | 3-5 hours Meals: Breakfast, Lunch, Dinner Overnight: Sunwapta Falls Resort"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Columbia Icefields Alpine Hike! Hike the high country around the Columbia Icefields, where meadows, moraines, and snow-capped giants come together. This classic alpine trek delivers epic views—and a deep sense of place. Hike: Wilcox Pass, 8 km / 5 mi, 365 m / 1,200 ft elevation gain | 3-5 hours Meals: Breakfast, Lunch Overnight: The Crossing Resort"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Moraine Lake, Alpine Lake & Iconic Vistas! Visit jaw-dropping Peyto Lake on your way to the world-famous Moraine Lake before setting out on a scenic hike to a secluded alpine lake in Paradise Valley near Lake Louise. After the hike, we descend and drive to the iconic Lake Louise for a photo visit before ending the day with a celebratory group dinner. Hike: Lake Annette, 11.4 km / 7 mi, 385 m / 1,250 ft elevation gain | 4-6 hours Meals: Breakfast, Lunch, Dinner Overnight: Mountaineer Lodge"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Final Ride to Banff! Finish your journey with a gentle ride from Lake Louise to Banff, descending past towering cliffs and glacier-fed rivers. After a final stretch of scenery, we return to Banff Train Station for goodbyes and group photos. Cycle: 58 km / 36 mi, +517 m / -674 m elevation | 2-4 hours Meals: Breakfast"
+    }
+  ],
+  "map": ""
+}

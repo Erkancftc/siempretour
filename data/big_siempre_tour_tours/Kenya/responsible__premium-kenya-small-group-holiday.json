@@ -1,0 +1,60 @@
+{
+  "destination": "Kenya",
+  "mainPhoto": "",
+  "id": "premium-kenya-small-group-holiday",
+  "tourName": "Premium Kenya small group holiday",
+  "placesVisited": "",
+  "generalInfo": "Journey through Kenya’s vast plains and wild grasslands on this seven-day Premium adventure, starting and ending in Nairobi. Visit the Elsamere Conservation Centre, take a boat trip on Lake Naivasha and look for your favourite safari animals on a 4WD adventure through Lake Nakuru National Park. Meet Maasai warriors and learn about their way of life at their traditional village, then spend three nights at your Feature Stay camp, near the Maasai Mara Game Reserve. With immersive cultural experiences and iconic wildlife right on your doorstep, you’ll leave with plenty of memories (and a full camera roll!).",
+  "durationDays": "7",
+  "price": "4555",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Nairobi.",
+      "description": "Jambo! Welcome to Kenya. When you arrive, you’ll be met at the airport and transferred to your hotel in Nairobi, where yo’ll meet your local leader and fellow travellers for a welcome meeting at 6 pm tonight. If you arrive early, maybe browse the artistic and cultural displays at the Nairobi Gallery or lounge by the pool at your home for the night – a central hotel complete with bold pan-African art and a sauna and steam room. After your welcome meeting, you’ll head out for dinner with your group. Sharing food is a big part of the culture here and a great way to get to know your new travel companions – maybe try samosas, fried plantains and tilapia."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Lake Naivasha / Lake Nakuru.",
+      "description": "Today, you’ll travel to the Great Rift Valley of East Africa. Along the way, you’ll stop in Elsamere – the former home of writer Joy Adamson, whose 1960 book helped bring wildlife conservation into the mainstream. The house is a veritable museum dedicated to the works of Joy and George Adamson, with many photos of Elsa (the lioness that started it all). Then, embark on a boat trip on Lake Naivasha, the highest lake in the Great Rift Valley and home to many hippopotamuses. Later, sit down to a high tea lunch on the very grounds Joy cherished for so many years, with the lake as a serene backdrop. After lunch, continue to your Lake Nakuru lodge, arriving in the early evening. From your lodge, take in the magnificent views of Lake Nakuru and the surrounding national park, alive with the call of birds and rich in wildlife. What better way to take it all in than from your lodge’s infinity pool?"
+    },
+    {
+      "dayNumber": 3,
+      "title": "Lake Nakuru National Park.",
+      "description": "This morning you’ll visit Lake Nakuru National Park – situated in the heart of the Great Rift Valley. As you explore, look for some of the many birds and wildlife who call this national park home – including waterbuck, redbuck, gazelles and leopards! After a morning spent learning about this diverse landscape with your knowledgeable local leader, you’ll return to your lodge for lunch, before heading out for a game drive this afternoon. Keep your eyes peeled for one of Africa's most endangered creatures, the elusive black rhinoceros."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Maasai Mara National Reserve.",
+      "description": "Travel to the Maasai Mara this morning – one of the most active and beautiful game reserves in Africa. Today is a bit of a long travel day, so it’s a good idea to get stuck into a book or favourite podcast. Along the way you’ll cross the Great Rift Valley and pass by the remote region of Loita Hills, home of the Maasai people. This is one of the few places where they still practice their traditional way of life with little influence from the western world. Stop at Tepesua Village where you’ll be welcomed by Maasai Warriors through traditional song and dance. When you arrive, you’ll meet your Maasai hosts and take a walk to the community village. The village offers support, safety and economic growth through the Tepesua Widows Income Project, where widowed women sew eco-friendly handicrafts to sell to visitors and locals. Learn about village life and be shown around a traditional Maasai home and cattle enclosure. Later, move on to Zebra River Camp – your Feature Stay accommodation for the next three nights. Here, you can watch the sunset and share stories over the bonfire (maybe with a cocktail) before retiring to your room."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Maasai Mara National Reserve.",
+      "description": "Explore more of the park by 4WD today with game drives from morning to the afternoon. You’ll drive to the further part of the Maasai Mara National Reserve to look for wildlife, including wildebeest, zebra and gazelles. Elephants, giraffes and elands are also commonly sighted, along with plenty of bird life. The area is known for its green plains and riverine woodlands. As the sun starts to set, stop and take a moment to soak it all in with a drink in hand – there are few better ways to wrap up a day of wildlife spotting in one of the world’s most captivating places! As dusk falls, a variety of animals might be visible in the vicinity of your camp also."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Maasai Mara National Reserve.",
+      "description": "This morning, maybe take an optional balloon ride over Maasai Mara at sunrise. If you’ve pre-booked this activity, you’ll be picked up before dawn and driven to the launch site for a safety briefing from your pilot. You’ll then glide through the skies, sometimes at tree heights, for some amazing photo opportunities. After landing, you’ll sit down to a bush breakfast before meeting up with the rest of your group. Today you’ll venture into the Maasai Mara National Reserve with expert local driver guides for a day-long 4WD safari. Explore this diverse environment and look for roaming wildlife like lions and cheetahs along the way."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Nairobi.",
+      "description": "Say goodbye to the Maasai Mara as you travel back to Nairobi today. When you arrive this afternoon, your adventure will come to an end. If you would like to extend your stay in Nairobi, just speak to your booking agent ahead of time."
+    }
+  ],
+  "map": ""
+}

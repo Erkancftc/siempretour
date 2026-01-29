@@ -1,0 +1,90 @@
+{
+  "destination": "India",
+  "mainPhoto": "",
+  "id": "india-tour-with-added-comfort",
+  "tourName": "India tour with added comfort",
+  "placesVisited": "",
+  "generalInfo": "This spiritual journey takes us from India's capital Delhi, through the foothills of the Himalaya and the plains of Punjab, ending at the holy city of Amritsar. On our journey, we'll experience a ceremonial Aarti, enjoy yoga and meditation by the Ganges, visit the home of the Dalai Lama and explore India's greenest city - Chandigarh. <br/> <br/> Rishikesh and Haridwar - Visit the Beatles Ashram and experience an Aarti ceremony besides the sacred River Ganges<br/> Himalayan Hillstations - Explore colonial Shimla and discover the home of the Dalai Lama in Dharamsala<br/> Golden Temple of Amritsar - Explore the holy shrine of Sikhism and visit the Partition Museum <br/>",
+  "durationDays": "13",
+  "price": "1825",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Join trip in Delhi",
+      "description": ": Today we arrive in Delhi, India's bustling capital. The city is the perfect blend of new and old, with monuments and temples hidden amongst its glittering skyscrapers. For those arriving in time today our tour leader will meet you in the hotel reception at 5pm for a welcome meeting followed by the option to go out for dinner. If you arrive later, our tour leader will catch you up as soon as possible. If you'd like an airport transfer, you'll need to arrive into New Delhi's Indira Gandhi International Airport (DEL), a one to one-and-a-half hour drive from our hotel. For those arriving early, there is the option to visit the Akshardham temple. Famous for being the largest Hindu temple complex in the World, Akshardham is an architectural marvel with its intricately carved sandstone and marble structure."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Full day exploring Old and New Delhi",
+      "description": ": We'll set off to explore the two sides of Delhi this morning. Old Delhi is a maze of old, narrow streets, lined with bazaars and dotted with mosques and temples; while New Delhi feels a world away with its wide, leafy boulevards and grand colonial-era buildings. We'll start in the calmer area of New Delhi, driving along the avenues and taking in the major sights that begin to tell the story of India's rich history. We'll visit India Gate, the impressive column of Qutab Minar and the UNESCO-listed Mughal site of Humayun's Tomb - a precursor to the great Taj Mahal. After lunch, we'll take cycle rickshaws to explore the winding lanes of Chandni Chowk bazaar in Old Delhi, a sprawling market where you can buy almost anything from household wares to souvenirs. Here we'll sample some tasty street food from some of Old Delhi's most famous vendors, such as freshly-made vegetable samosas, pakoras and jalebi - a crispy sweet treat. We'll also view the incredible and imposing Red Fort and the beautiful Jami Masjid Mosque (from the outside)."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Drive to Haridwar, walk through the market and witness the evening Aarti ceremony",
+      "description": ": Leaving the capital behind today, we set off on a five hour drive to the state of Uttarakhand and the holy city of Haridwar. Set on the banks of the sacred River Ganges, Haridwar has long been a pilgrimage site for Hindus. Every 12 years the city hosts the Kumbh Mela Festival, a mass-pilgrimage where Hindus travel thousands of miles to take a ceremonial dip in the river, which is thought to be the biggest gathering of human beings in the planet. Aside from this festival it is still a popular destination for Hindus, hosting several important temples such as the Mansa Devi Temple and the Kankhal Temple, dedicated to Lord Shiva. Perhaps most iconic though, is the nightly Ganga Aarti ceremony that takes place on the riverside. Several Brahmin priests line the Ghats and perform a coordinated ritual involving fire-lit lamps, chanting and bell-ringing, making their offerings to Mother Ganga. We have some time to explore Haridwar's temples, markets and to soak up the atmosphere before heading down to the Ghats for sunset to witness this atmospheric ritual."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Optional morning safari in Rajaji National Park. Drive to Rishikesh.",
+      "description": ": This morning, there is the option to take a three-hour safari in Rajaji National Park, home to wild elephant, deer, peacock, leopard and an array of birdlife. After a leisurely start to the morning, we leave Haridwar to continue our journey northwards, heading further up the Ganges on a short drive to Rishikesh Often dubbed the 'yoga capital of the world', Rishikesh plays host to numerous ashrams, retreats and wellness centres. Although it has long-been one of the leading spiritual centres of India, Rishikesh first entered the Western psyche in the 60's when John, Paul, George and Ringo came here to study transcendental meditation. The Beatles stayed at the Maharishi Mahesh Yogi Ashram for three months in 1968, cementing its place in pop culture. Rishikesh, in turn, exerted its own influence over the future music of the Beatles. On arrival, we have some free time to explore Rishikesh at our own pace before we make our way down to Triveni Ghat this evening to witness another spectacular Aarti ceremony. Our base for the next couple of nights is nestled on the banks of the River Ganges and a 10-minute walk from town."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Discover this spiritual riverside town of Rishikesh. Visit Beatles Ashram",
+      "description": ": Famous for its yoga and wellness scene, Rishikesh is also a launchpad for outdoor adventure, set in the Himalayan foothills where two rivers meet. This morning we take a half-day orientation walk, exploring the town's temples, colourful markets and the ashram once made famous by the Beatles. The rest of the day is free to spend as you choose. You might head out on a guided walk through the surrounding forests, join a meditation or yoga session at a local ashram, or simply take time to relax and soak up Rishikesh's uplifting, feel-good atmosphere."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Drive to Chandigarh and discover the sights of India's Greenest City",
+      "description": ": This morning we continue our journey through the foothills of the Indian Himalayas as we head to Chandigarh, a drive of approximately five hours. In stark contrast to the haphazard nature of most Indian cities, Chandigarh came to life in the 1950's as a so-called 'planned city'. Designed by the architect 'Le Corbusier'- Chandigarh is laid out in an orderly grid system with the city being divided into quarters, dissected by wide-leafy boulevards and interspersed with plenty of green parks and spaces. We spend time this afternoon exploring the city's grand buildings including its Capital Complex, including a visit to the Rock Garden - a unique sculpture created entirely from industrial and household waste."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Drive to Dharampur station and catch the Toy Train up to the British Hillstation of Shimla",
+      "description": ": After a leisurely start to the day, we take a short drive to Dharampur Station. We will grab some lunch and snacks for the train before we swap modes of transport and begin winding our way along a narrow-gauge track aboard the remarkable 'Toy Train'. Climbing from the plains below, the train negotiates a meandering journey of 62 kilometres in a little over three hours, ascending over 1000 metres to the heights of the old British hill station of Shimla. Whilst traditionally the Toy Train was pulled by steam engines, today they are mostly pulled by diesel engines. The journey takes us through 103 tunnels and some of the most scenic landscapes in the region. Finally we reach Shimla itself, stretched out along a crescent shaped ridge, with alpine-style houses shaded beneath dense forests of fir. On arrival in Shimla, we meet our transport for the 30-minute drive up into the Shimla Hills to reach our accommodation. Our hotel for the next couple of nights is tucked away in the hills, overlooking Shimla and offering a peaceful base away from the bustle of Mall Road. For ease, dinner has been included for your two nights in Shimla."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Discover the colonial sites of Shimla on a walking tour, including the Post Office and Viceregal Lodge",
+      "description": ": Today, we'll start our day by visiting the Viceregal Lodge, the former residence of the British viceroy and site of a number of important negotiations that preceded Indian independence. We'll then head into Shimla where we'll have a full day to explore the town, taking in some of its colonial ambience. The opening of the Kalka-Shimla railway at the turn of the 20th century allowed the well-to-do families of the Raj to escape the heat of Kolkata and Delhi and spend the hot summer months amongst the cooler landscapes of these verdant hills. We'll take in the ageing charm of the Christ Church and Scandal Point, where the mock Tudor architecture presents a surreal imitation of old England against the magnificent backdrop of the Himalayas. This orientation tour is done on foot, and it should take around an hour. The afternoon has been left free for further exploration of the town."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Full day's drive to Dharamsala",
+      "description": ": A full day of driving today takes us from one hill station to another, to the town of Dharamsala. Our drive to the iconic hill town of Dharamsala, arriving in the late afternoon. Total journey time today will be around ten hours. Until 1959 this was a quiet and unassuming town, but that all changed when the Dalai Lama settled here after fleeing Tibet at the time of the Chinese invasion in October of that year. McLeodganj is the upper part of the town situated 500m above Lower Dharamsala and is the area with the greatest Tibetan influence. We will be based in Lower Dharamsala for our two nights."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Drive up to upper Dharamasala, explore the Dalai Lama Temple and the Norbulingka Institute",
+      "description": ": We'll spend the morning exploring lower Dharamsala, starting with the Norbulingka Institute - named after the Dalai Lama's summer palace in Lhasa, Tibet. This institute was set up in 1988 to preserve Tibetan heritage and culture, providing education as well as showcasing Tibetan arts, crafts and also hosting a series of festivals over the years From here, we'll drive around 40 minutes up to Upper Dharamshala in taxis to explore McLeodganj on foot. We'll have an orientation walk which includes the Buddhist Namgyal Monastery, known locally as Little Lhasa.If the Dalai Lama is giving one of his occasional public audiences, we might be lucky enough to be granted permission to attend. There will be some time this afternoon to explore McLeodganj's markets to take in the atmosphere or do some souvenir shopping. We'll return to the hotel, visiting the Church of St John in the Wilderness en route."
+    },
+    {
+      "dayNumber": 11,
+      "title": "Drive from foothills onto the plains of Punjab, to the holy city of Amritsar",
+      "description": ": Departing Dharamsala this morning, we drive down from the cooler climes of the hill station to the plains of Punjab and on to Amritsar. This drive should take about five hours. The road between Dharamsala and Amritsar is currently under construction, with a brand new highway being built to connect the two location. Until the roadworks are complete, this section of the journey will be bumpy. The holy city of the Sikhs, Amritsar was founded in 1577 and is home to the spectacular Golden Temple. The city has played a key part in the subcontinent's history and, despite extremist unrest and destructive invaders, it remains the spiritual centre of the Sikh religion. After lunch, we'll visit the Partition Museum, housed in the imposing 19th-century Town Hall along Amritsar's Heritage Mile. This remarkable institution is devoted entirely to telling the story of the 1947 Partition of India, with moving personal accounts and evocative displays. We'll also explore the Hindu Durgiana Temple, with its golden façade reflected in a tranquil pool, We will then visit Jalianwala Bagh, the site of a bloody massacre and a dark day in British history. On the 13th of April 1919 a large crowd gathered in Jalianwala Bagh to protest against the arrest of some pro-independence activists. The crowds were surrounded by the British Indian Army, the exits were blocked and General Dyer gave the order to fire into the crowd. Although condemned by the British government and the then-Secretary of State for War, Winston Churchill, the Jailanwala Bagh massacre resulted in irreversible damage to the Anglo-India relationship and is thought to be one of the keys events that put India on course for independence from the British Before the end of the day, we'll head over to the Golden Temple in the evening to experience its shimmering beauty under the lights. Tomorrow, we'll return for a more in-depth visit to this most revered of Sikh sites."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Morning heritage walking tour of Amritsar including the Golden temple and Durgiana Temple",
+      "description": ": Today we'll explore the Hindu Durgiana Temple, with its golden façade reflected in a tranquil pool before heading back to the centrepiece of the city, the incredible Golden Temple. The temple is a fusion of Hindu and Islamic influences and home to the revered texts of the Sikh Holy Scriptures, the Guru Granth Sahib, and its gilded dome is covered in over 700kg of pure gold. The temple was the scene of a massacre of hundreds of Sikh protesters in 1984 when the Indian army, acting on the orders of the then Prime Minister Indira Gandhi, evicted extremists from the temple - an act that led to the assassination of Indira Ghandi by Sikh bodyguards later that same year. Upon entering, we'll need to remove our shoes, cover our heads and wash our feet. The temple itself is a surprisingly small building surrounded almost entirely by tanks of holy water in which the Sikh pilgrims bathe (the name of the town itself comes from the Amrit Sarovar - the Pool of Nectar). The atmosphere is one of incredible calm, with devotees taking their turn to pass through the main shrine, where there is a continuous and melodic recital (known as the Akhand Path) from the Guru Granth Sahib. The rest of the afternoon has been left free for further explanation, or for some shopping in the city's excellent local \\expndtw-2 markets"
+    },
+    {
+      "dayNumber": 13,
+      "title": "Trip ends in Amritsar",
+      "description": ": The trip ends today after breakfast. There are no activities planned today, so you're free to depart at any time. If your flight leaves later in the day, luggage storage facilities are available at our hotel. If you'd like a hotel transfer, you'll need to depart from Sri Guru Ram Dass Jee International Airport (ATQ)"
+    }
+  ],
+  "map": ""
+}

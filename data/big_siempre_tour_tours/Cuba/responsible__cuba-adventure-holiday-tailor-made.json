@@ -1,0 +1,75 @@
+{
+  "destination": "Cuba",
+  "mainPhoto": "",
+  "id": "cuba-adventure-holiday-tailor-made",
+  "tourName": "Cuba adventure holiday, tailor made",
+  "placesVisited": "",
+  "generalInfo": "Dive into Cuba’s vibrant soul for an eco-adventure in the Cuban Way.  Cycle, kayak, trek, zipline and snorkel through colonial cities, wild valleys, and hidden beaches. It’s Cuba, experienced in full colour and from every angle.<br/>This tour is designed to give you the perfect mix of culture and fun activities, suitable for active travelers of all ages, while experiencing the very best of Cuba’s traditions and natural beauty. We’ve also included free time in the itinerary so you can relax at your own pace or keep exploring if you prefer.",
+  "durationDays": "10",
+  "price": "1988",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival Havana. Welcome to Havana! You will be met at the airport and transferred to your casa particular (private B&B – service with a more personal touch) in the Vedado district of Havana. Enjoy a rest after your flight and take your time this evening to soak up the atmosphere."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Havana (15km). This morning your tour guide will officially introduce themselves to the group and we’ll start off in style by getting picked up in classic American cars for a memorable tour of Old Havana. Once the key to the New World, Havana`s elegant colonial townhouses and opulent plazas are vivid reminders of its past splendour. Enjoy lunch at a local paladar in the old town before having a bike fitting and safety briefing as we jump on to our e-bikes for the first time. Our ride is to the modern neighbourhoods of Vedado and Miramar. We`ll stop on the way at Revolution Square, the face of Fidel Castro`s revolutionary Cuba, before continuing to Colon Cemetery, the largest cemetery in Latin America. After a spin around the impressive mansion-lined streets of Miramar district, we`ll head back east, stopping at the iconic Hotel Nacional for a cocktail. The hotel Nacional opened in 1930 and has since hosted many famous (and infamous) personalities. Its splendid gardens overlook the Malecon sea wall and are the perfect place to enjoy a sunset Mojito. Later on, this evening there`s the option of visiting the legendary Tropicana show or other venues that your guide will suggest."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Travel west to Viñales, stopping at Las Terrazas Biosphere Reserve — a lush eco-community in the Sierra del Rosario mountains. Learn about its reforestation efforts and spot migratory birds. Continue to Viñales, known for its dramatic mogotes and world-famous tobacco fields."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Start the day with a sunrise trek to Los Acuáticos, a peaceful hilltop community with stunning views. The rest of the day is yours to relax — we recommend an optional trip to Cayo Jutías for beach time."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Head east to Cienfuegos, stopping at Playa Girón in the Bay of Pigs, a key site in Cuban history. Enjoy snorkelling at Cueva de los Peces, then continue to Cienfuegos, known as the Pearl of the South for its French colonial charm."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Start with a sea kayak tour in Cienfuegos Bay, visiting the Nuestra Señora de Jagua fortress, swimming at Cayo Carenas, and enjoying lunch at Rancho Cristal. Then transfer to Trinidad, a UNESCO World Heritage Site full of colonial beauty and vibrant culture."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Enjoy a free day to explore Trinidad at your own pace. Visit museums, shop for local crafts, or relax at Playa Ancón, just 15 minutes away. In the evening, enjoy live music in open-air bars around the town’s main squares."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Visit Finca La Lima, a working farm in the countryside. Learn to milk a cow, press sugar cane, and swim in a hidden creek. Optional horse riding available. Enjoy a traditional organic lunch cooked over charcoal, then return to Trinidad for another night of music and mojitos."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Travel back to Havana, Cuba’s vibrant capital. In the evening, hop into a 1950s classic car for a scenic drive through the city, ending with a farewell dinner at a local paladar."
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Transfer to Havana International Airport for your flight home. Hasta luego! We hope to welcome you back to Cuba soon."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,80 @@
+{
+  "destination": "China",
+  "mainPhoto": "",
+  "id": "china-highlights-tour-tailor-made",
+  "tourName": "China highlights tour, tailor made",
+  "placesVisited": "",
+  "generalInfo": "This tour packs up the essence of China, from Beijing to Xi'an, take breathtaking views at the Great Wall and witness the amazing Forbidden City. Go on to witness the great Terracotta Warriors which were buried underground for thousands of years in Xi'an.You will not miss the  beautiful natural  scenery  in Guilin, experience a countryside cycling in Yangshuo. Lastly fly to the most modern city in China -Shanghai.  Have a nice memory  in China!",
+  "durationDays": "11",
+  "price": "3099",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Arrival in Beijing. Your guide will meet you at the airport and transfer you to the hotel."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Beijing. After have breakfast at your hotel. Today you will visit the Forbidden City, Tiananmen Square and the Temple of Heaven. Meals: Breakfast ,Lunch"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Beijing. Travel to the Simatai section of the Great Wall, Spend the afternoon wandering around the Guibei Water Town. Enjoy a soak in a hot spring if you want to. When it gets dark, your guide will accompany you to Take the cable car up to the Great Wall again when it gets dark to enjoy the stunning night views. Meals: Breakfast and Lunch"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Beijing to Xi'an. Travel back to Beijing city to explore the Summer Palace. Take the High-speed train to Xi'an after lunch. Meals: Breakfast and Lunch"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Xi'an. Uncover the mystery of the underground army that dates back thousands of years at the Terracotta Army Museum. Then discover a local craftsman's cave dwelling and learn how to make a mini terracotta warrior. Visit the ancient city wall in the afternoon Meals: Breakfast and Lunch"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Xi'an to Guilin. Before fly to Guilin, you will have time to visit the Shaanxi Museum, the Big Wild Goose Pagoda, and the Muslim Quarter. After have Lunch, fly to Guilin. Meals: Breakfast and Lunch"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Guilin to Longsheng. Start in the morning and after 2 hours drive . You will walk on the spectacular Dragon's Backbone Rice Terraces, experience local life in a rural village. Make bamboo rice and taste some oil tea with the host. Meals: Breakfast and Lunch."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Guilin &Yangshuo. Relax yourself on Li River cruise, Between spectacular limestone peaks, you will see graceful bamboo groves, farmers tending rice paddies, and lumbering water buffalo cooling off in the river. Meals: Breakfast and Lunch."
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Yangshuo to Guilin to Shanghai. Experience a countryside cycling in Yangshuo,and visit a local family on the half way, let you know a real country life. After lunch, your guide will trnasfer you to the airport . Take a flight to Shanghai. Meals: Breakfast and Lunch"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Shanghai. Let's travel back in time to the golden age of the Bund in the 1920s during our In-depth Bund Culture Discovery Tour. Ascend to the highest building in China, Shanghai Tower, where you will not only enjoy a panoramic view of Shanghai but will also see the future of China. Meals: Breakfast and Lunch."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Depart Shanghai. Happy time always flies fast! Your guide and driver will accompany you to the airport and say goodbye."
+    }
+  ],
+  "map": ""
+}

@@ -1,0 +1,65 @@
+{
+  "destination": "Malawi",
+  "mainPhoto": "",
+  "id": "malawi-highlights-tour-tailor-made",
+  "tourName": "Malawi highlights tour, tailor made",
+  "placesVisited": "",
+  "generalInfo": "This 12 day itinerary is a perfect blend of luxury, adventure, and culture, ideal for those looking to experience the diversity of Malawi’s experiences. <br/>Start with two nights in the Majete Wildlife Reserve, guests can enjoy a Big 5 safari.<br/>Next travel to the Satemwa Tea Estates for two nights, where lush tea plantations and historic charm offer relaxing afternoons watching the sunset and scenic walks through the tea estate, as well as the chance to learn about the tea industry in Malawi. <br/>Then, head to Liwonde National Park for two nights of wildlife experiences including game drives, bush walks and boat safaris. <br/>Continue on to Lake Malawi, for four nights of relaxation on the sandy shoreline, enjoying water activities like kayaking, diving, and snorkelling. <br/>Finally, enjoy a night near Lilongwe, in a serene rural setting close to the capital. This itinerary combines the best of Malawi’s landscapes, wildlife, and local culture, creating an unforgettable travel experience.",
+  "durationDays": "12",
+  "price": "5620",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "After flying in to Blantyre, you will be transferred to the Majete Wilderness Reserve for the first two nights of your trip."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Enjoy game drives in the reserve, home to the Big 5 - lion, leopard, elephant, rhino and buffalo. Also look out for cheetah and eland - one of the largest antelope species in the world."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Continue to the Satemwa Tea Estate. Spend your stay exploring the estate, enjoy tea tastings and guided tours of the coffee factory before sundowners at the scenic picnic spot for impressive views across the estate."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Travel by land and boat to your next location; a boutique camp in Liwonde National Park. Spend 2 nights at the camp, enjoying game drives and boat safaris."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Today, you will travel to Lake Malawi, for a relaxing four night stay at a lakefront lodge. Settle in to the lodge and take in the stunning views of the UNESCO protected lake."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Explore Lake Malawi. Snorkel in the clear waters and experience the unique biodiversity and species which have developed in the lake. After exploring the underwater world, explore the area on guided walks or simply relax in the beautiful setting."
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Travel to Kumbali Country Lodge, set a short distance from Malawi's capital. Spend your last night in Malawi enjoying the peaceful, rural location."
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "After an unforgettable trip to Malawi, experiencing the country's natural beauty and diverse landscapes, return to the airport for your flight home."
+    }
+  ],
+  "map": ""
+}

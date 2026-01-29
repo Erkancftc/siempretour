@@ -1,0 +1,70 @@
+{
+  "destination": "Georgia",
+  "mainPhoto": "",
+  "id": "georgia-small-group-adventure-holiday",
+  "tourName": "Georgia small group adventure holiday",
+  "placesVisited": "",
+  "generalInfo": "Journey from the modern cities of Georgia to the remote snow-capped Caucasus mountains on this nine-day adventure. Explore the historical capital of Tbilisi, walk around the local market in Kutaisi, learn the secrets of Georgian cheese making and indulge your taste buds with fragrant Georgian wine. Visit Mtskheta and listen to the survival and revival stories at Ikorta, spend a night at a local guesthouse in Mestia and set off on a hike through the highest village in Europe – Ushguli.",
+  "durationDays": "9",
+  "price": "1500",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Tbilisi.",
+      "description": "Gamarjoba! Welcome to Georgia. Your adventure starts in Tbilisi with a welcome meeting at 6 pm tonight. If you arrive early maybe visit the Georgian National Museum and learn about the country’s history or walk through the Dry Bridge Flea Market and browse the various artworks and handicrafts for sale. Tonight, maybe head out to dinner with your fellow travellers and try a classic dish like khachapuri (cheese bread) or khinkali (dumplings)."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Tbilisi.",
+      "description": "After breakfast, head out on a sightseeing walking tour of Tbilisi. Explore the Old Town and pass by the Baratashvili Bridge, Gabriadze Leaning Tower, the Peace Bridge and the Sioni Cathedral. After your tour, you have free time to further explore the capital city at your own pace. Maybe visit the Narikala Fortress or the Sulphur Baths or learn about Tbilisi's lively theater scene at the Tbilisi Opera or the Ballet State Theatre."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Kutaisi.",
+      "description": "This morning you’ll travel to Georgia's former capital city, Mtskheta. When you arrive, visit the medieval Jvari Monastery and the Svetitskhoveli Cathedral. Then, continue to the Tserovani Refugee Settlement – a neighbourhood built for over 8000 people displaced by the 2008 Russo-Georgian War. Continue to the Ikorta enamel jewellery workshop – a social enterprise supporting women and youth. Here, you’ll meet the artists, hear their stories and have a light lunch. Then, drive to the historic city of Kutaisi. When you arrive, take a walking tour to see City Hall, the Opera House, Mon Plaisir Arch, Golden Marquee Palace and Mtsvane Bazari Market. Later, you’ll have some free time to continue exploring the city. Maybe visit the Gelati Cathedral or the Bagrati palace ruins or find a local restaurant for dinner – your leader will have the best recommendations."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Mestia.",
+      "description": "Today, travel to the remote Svaneti region, the highest inhabited area in the Caucasus. As today is a bit of a long travel day, it's a good idea to get stuck into your book or favourite podcasts. When you arrive in Mestia, take some time to explore the area known for its dramatic mountain scenery, medieval villages and tower houses built between the 9th and 13th centuries. This evening, learn how to make traditional Georgian cheese and enjoy the traditional dish, khachapuri (cheese-filled bread). Then, settle into a local guesthouse for the night."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Mestia.",
+      "description": "Drive to Ushguli this morning. Known for its medieval watchtowers and views of Mount Shkhara, Ushguli is one of Goergia’s four UNESCO World Heritage sites and one of the highest permanent settlements in Europe. When you arrive, visit the Lamaria Church before setting off on a hike through the village and enjoy a picnic lunch with beautiful views. If you’d rather stay in the village for the day, maybe visit a local museum or explore the medieval ruins like Queen Tamar’s Castle."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Batumi.",
+      "description": "This morning, set off on a scenic drive to Batumi. On the way, stop at a local winery and learn about Georgia’s winemaking traditions, which are among the oldest in the world. Enjoy a wine tasting here before continuing to Batumi on the Black Sea coast. When you arrive, settle into your accommodation. This evening, you’re free to epxlore at your own pace or relax and find a good dinner spot."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Batumi.",
+      "description": "Spend the morning on a short walking tour around Batumi. Then, the rest of the day is yours to relax. Maybe walk along the boulevard, cool off in the musical fountains on the square or see the Ali and Nino statue light up at night. You could also visit one of the city’s art and ethnographic museums or jump in a cable car for panoramic views over the city. If you’re unsure what the city has to offer, your local leader is always on hand with great local suggestions."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Tbilisi.",
+      "description": "Today, join the the locals on public transport (long distance bus or train) as you travel back to Tbilisi. The rest of the day is free for you to explore the nation’s capital. When you arrive, maybe spend the afternoon walking through Rike Park, then find a local restaurant and head out to dinner with your group to celebrate the last night of your trip."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Tbilisi.",
+      "description": "As there are no further activities planned, your trip comes to an end today. If you’d like to stay longer, just speak to your booking agent ahead of time."
+    }
+  ],
+  "map": ""
+}

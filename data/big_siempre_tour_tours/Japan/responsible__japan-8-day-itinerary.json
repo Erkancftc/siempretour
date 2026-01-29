@@ -1,0 +1,45 @@
+{
+  "destination": "Japan",
+  "mainPhoto": "",
+  "id": "japan-8-day-itinerary",
+  "tourName": "Japan 8 day itinerary",
+  "placesVisited": "Tokyo, Osaka, Kyoto, Bicycle tour",
+  "generalInfo": "A compact, yet no less magical tour of Japan’s most fascinating highlights; perfect if you’re running short on time, but not on adventure.<br/><br/>This ten-day tailor-made tour packs in three of Japan’s most iconic cities. You’ll explore energetic Tokyo, which seamlessly combines the ultra-modern and quaintly traditional in a melting pot of neon lights, museums, delicious food and unique pop-culture. <br/><br/>Next, hop aboard one of Japan’s famous bullet trains into the heart of bustling Osaka, where, among towering skyscrapers, you’ll learn more about its samurai history and enjoy even more uniquely delicious Japanese cuisine. <br/><br/>Finally, you’ll head to Kyoto, Japan’s ancient capital where geisha culture is still very much alive and beautiful temples, zen gardens and tea ceremonies await you. Here you’ll also hop on a bike and take a tour of Kyoto’s labyrinth back streets as you uncover the intricacies of Japan’s ancient traditions.<br/>",
+  "durationDays": "8",
+  "price": "2598",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Let’s go Tokyo!: Dive straight into one of the world's most electric cities, where ancient temples sit among the neon bright streets. With incredible food at every turn, neighborhoods bursting with their own personalities, complete with the unmistakable buzz of a place that’s in constant motion. Here, you’ll explore everything from the historic Geisha district to the vibrant pop culture. Meet with a local tour guide and begin to experience Tokyo life like a local as they take you to iconic places such as Ameyoko market street, Ueno Park and the famous Yanaka Cemetery."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "At the foot of Fuji: Experience the famous foothills of Mount Fuji before you head onto Hakone by train. With views of the mountain and situated beside the Ashino-ko Lake you’ll stay here for the next couple of days. Provided with your own pass, you’ll have free reign to explore the attractions and facilities here, such as boat trips and museum visits, all at your own pace. Hakone is not short of food options too, so fill up with delicious traditional Japanese food against the breath-taking backdrop of Mount Fuji. After some jampacked days of exploring, winddown in one of the town’s Onsen, baths heated by volcanic springs."
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Uncover the Heart of Kyoto: The Japan of your imagination: zen gardens, temple bells and tea ceremonies feel like they slow down time. Kyoto is a living city best discovered by bicycle. Pedal through narrow backstreets, along willow-lined canals, past traditional wooden houses where craftspeople still practice centuries-old trades. After two nights soaking it all in, you'll ride the rails back to Tokyo for a final taste of the capital."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Your journey ends where it began. One last night to wander the streets, grab some tasty sushi, and reflect on your Japanese adventure."
+    }
+  ],
+  "map": ""
+}

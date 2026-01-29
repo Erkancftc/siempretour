@@ -1,0 +1,65 @@
+{
+  "destination": "Colombia",
+  "mainPhoto": "",
+  "id": "columbia-express-8-day-tailor-made-holiday",
+  "tourName": "Columbia express, 8 day tailor made holiday",
+  "placesVisited": "",
+  "generalInfo": "You’ll walk through a Caribbean jungle discovering hidden beaches and wildlife along the way; Enjoy a  tour of Minca, a coffee Finca, a cocoa farm, and a refreshing swim under a hidden waterfall in the mountains of the Sierra Nevada; Enjoy a day on the Rosario Islands, explore Cartagena by night, and have options to visit an indigenous village, rejuvenate your body in a Volcanic mud bath, cruise through mangroves in a canoe, and still have some free time to explore other hidden gems.",
+  "durationDays": "8",
+  "price": "3838",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Upon arrival at Santa Marta Airport, your transport will be waiting at the airport to meet you and drive you straight to your hotel in the historic center of Santa Marta. . Get settled and enjoy the rest of the day on your own."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Travel to the small town of Minca where you'll breathe in the fresh mountain air and enjoy a tour of this wonderful little mountain pueblo, including its wonderful cafes and artisan shops. You'll enjoy an authentic coffee tour, uncover the process of creating delicious chocolate and explore some hidden waterfalls."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Cabo San Juan - You’ll be taken to Tayrona Park and enjoy a 2-hour ecological walk through the jungle and visit 4 beaches along the way learning about the local environment and the local indigenous. Relax and enjoy some fantastic beach time in this magic place. (Optional: Stay 2 nights in a hotel in or near Tayrona Park)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Free day - We can organize optional activities such as a visit to an archelogy site in the jungle of Sierra Nevada OR a hidden beach named \"Playa Cristal\" (Crystal Beach)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Relax in a morning drive along the coast to your waiting hotel in Cartagena. At 4 pm you start a city tour in the Jewel of Colombia, the magical UNESCO heritage-listed city of Cartagena de Indias Colombia. Including the must-see stops, plazas, restaurants, cafes, and bars within the walled city, along with one of the oldest and most bohemian neighborhoods in Cartagena; Getsemani."
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Free day - We can organize optional activities such as a visit to an Afro-Colombian community and beautiful mangroves, a sunset catamaran cruise, a trip to the mud volcano, or a rum and chocolate tasting."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Enjoy a wonderful ocean cruise on a speedboat to the Rosario Islands; arriving at a beautiful picturesque beach for a typical Caribbean lunch, crystal clear waters, water sports, white sands, and palm trees. You'll be assigned your personal beach space which will be exclusive for yourself and members of your group."
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Airport transfer for departure"
+    }
+  ],
+  "map": ""
+}

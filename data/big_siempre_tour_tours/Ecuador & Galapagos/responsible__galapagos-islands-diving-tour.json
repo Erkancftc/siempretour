@@ -1,0 +1,60 @@
+{
+  "destination": "Ecuador & Galapagos",
+  "mainPhoto": "",
+  "id": "galapagos-islands-diving-tour",
+  "tourName": "Galapagos Islands diving tour",
+  "placesVisited": "San Cristobal island, Kicker Rock dive, Santa Cruz island, Puerto Ayora dive sites, Sightseeing",
+  "generalInfo": "This is a fantastic holiday with an active, week long programme, staying in comfortable hotels on two of the Galapagos islands. To participate in this tour you need to have a valid PADI certificate.<br/><br/>The tour begins on San Cristobal island, the easternmost of all the islands and location of the renowned landmark Kicker Rock, an impressive offshore rock formation. It attracts many of the islands feathered residents, from blue footed boobies to frigates, which roost in the walls and cracks of the rock. But it's what lies beneath the surface that makes this area so special; a naturally eroded channel provides the perfect home for sharks, rays and reef fish. Before going out on the boat, there will be some free time to visit some of the island's attractions. <br/><br/>On day three the tour moves on to Puerto Ayora, on Santa Cruz island. There is a plethora of excellent dive sites within reach of the town, and we will spend the remainder of the holiday exploring some of them. Site and conditions depending, you will be be able to enjoy two immersions and a dive check each day. Some of the marine life to watch out for includes manta rays, barracudas, hammerhead sharks and seahorses, as well as playful sea lions and graceful sea turtles. When you're not in the water, there will time for some sightseeing, and you can choose to visit the Charles Darwin station, Tortuga Bay, the Santa Cruz highlands, or wherever interests you most.",
+  "durationDays": "7",
+  "price": "2881",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "SAN CRISTOBAL - FREE TIME Upon arrival to Galapagos (San Cristobal Airport) our transportation will take you to the village (5 minutes). You can check in to the hotel and you can visit some nice places by yourself (Playa Mann, Tijeretas etc). We provide you a self-guided package for the best tips and restaurants. Around 17.00 you should visit the dive school to prepare for your first dive the next day. Accommodation in Hotel Casa Opuntia or similar"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "DIVING KICKER ROCK (B, L) Today you will go on your first dive in the Galapagos islands! You will go for about 45 minutes by boat to reach Kicker Rock. When you get there you will have a short check dive to make sure your equipment is good. After this you do two immersions of about 50 minutes each. After the dives you have a lunch on board and whenever the current is good and the National Park has given the permission you will visit a beach close by to relax. Around 3 – 4 PM you will be back in the village. Accommodation in Hotel Casa Opuntia or similar"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "FREE TIME SAN CRISTOBAL – SANTA CRUZ SPEEDBOAT (B) In the morning you have to visit some spots by yourself; for example the Loberia or Playa Chino. At 2 PM you will take the public speedboat to get to Santa Cruz island (Puerto Ayora village). The boat ride takes about 2,5 hours. Upon arrival you should visit the dive school to try out your gear. At night you can walk around in the cosy village and try one of the (seafood) restaurants. Accommodation in Hotel Fiesta or similar."
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "DIVING FROM PUERTO AYORA 1 (B, L) After breakfast the dive guide will take you to one of the dive sites around Santa Cruz. As mentioned before, where you go depends on the day of the week. You will reach the dive sites by speedboat. Depending on the dive site, this ride will take you between 30 minutes and 2,5 hours. You will have a check dive and two immersions from about 50 minutes each. The maximum depth for this dive site is 30m. You do need a PADI degree. Depending on the site you will be back in the village between 3 – 6 PM so in the afternoon you have time to visit the Charles Darwin station, Tortuga Bay, Santa Cruz highlands, Las Grietas or Playa de los Alemanes by yourself. Accommodation in Hotel Fiesta or similar"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "DIVING FROM PUERTO AYORA 2 (B, L) After breakfast the dive guide will take you to one of the dive sites around Santa Cruz. As mentioned before, where you go depends on the day of the week. You will reach the dive sites by speedboat. Depending on the dive site, this ride will take you between 30 minutes and 2,5 hours. You will have a check dive and two immersions from about 50 minutes each. The maximum depth for this dive site is 30m. Accommodation in Hotel Fiesta or similar"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "DIVING FROM PUERTO AYORA 3 (B, L) After breakfast the dive guide will take you to one of the dive sites around Santa Cruz. As mentioned before, where you go depends on the day of the week. You will reach the dive sites by speedboat. Depending on the dive site, this ride will take you between 30 minutes and 2,5 hours. You will have a check dive and two immersions from about 50 minutes each. The maximum depth for this dive site is 30m. Accommodation in Hotel Fiesta or similar"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "TRANSFER OUT (B) Today your Galapagos Diving trip end. You can choose a flight out from Baltra at any hour, the drop off will be planned about 3,5 hours before your departure. End of services"
+    }
+  ],
+  "map": ""
+}

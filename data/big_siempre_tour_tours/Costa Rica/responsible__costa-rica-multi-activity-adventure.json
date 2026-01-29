@@ -1,0 +1,95 @@
+{
+  "destination": "Costa Rica",
+  "mainPhoto": "",
+  "id": "costa-rica-multi-activity-adventure",
+  "tourName": "Costa Rica multi activity adventure",
+  "placesVisited": "",
+  "generalInfo": "This travel package gives you the opportunity to visit and learn at a sustainable farm project. You will also stay at the Boruca indigenous community with additional craft and cultural workshops, visiting the local museum and with delicious traditional food cooked on the wood fire. Then we continue our tour to the Southern Pacific beach where we take you to the stunning Nauyaca waterfalls on a guided horseback riding tour. You are also signed up for a surf lesson before we visit the local sea turtle conservation project and accompany the team on a night patrol to eventually spot an endangered sea turtle laying her eggs, or depending on the season liberate hatchlings into the ocean, an experience you will never forget. The next stop on our tour is the Manuel Antonio National Park famous for its beautiful beaches and worth a visit. Prepare yourself for a guided hike to spot monkeys, sloths, iguanas and many tropical plants. Afterwards we drive you to our 2-Day Volunteer Program at a Wildlife Rescue Center, a hands on experience caring and learning about many rescued animals. Our next stop is the cloudforest in Monteverde, where we take you on the amazing Zipline tour. We won't miss out to visit Arenal Volcano and enjoy an afternoon at the hot springs. To finalize this active yet diverse tour around the country we take you on a rafting tour to one of the best rivers worldwide, the Pacuare river.  Our closure Dinner will be held in San Jose. Drop off at the airport is also included as well as all transfer costs and private transfer where stated. Overnight accommodation as described in double room (hotel with CST certification where possible), rural homestay, meals as described. Bilingual guide on site, 24h emergency contact.",
+  "durationDays": "14",
+  "price": "1950",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Airport pickup and first night in San Jose, dinner included"
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Transfer to Ecological Farm in San Isidro, introduction on sustainability"
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Learning Experience on the farm, ecological path, reforestation"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Transfer to Indigenous community, introduction and cultural workshop"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Visit of the local cultural museum, hike to waterfall; afternoon transfer to beach location"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "2h surf lesson with certified surf instructor and board; visit of the sea turtle conservation program in the afternoon and night patrol."
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Horseback riding tour to Nauyaca waterfalls"
+    },
+    {
+      "dayNumber": 8,
+      "title": "",
+      "description": "Manuel Antonio National Park and transfer to Rescue Center, introduction"
+    },
+    {
+      "dayNumber": 9,
+      "title": "",
+      "description": "Volunteering includes e.g preparation of meals, feeding of animals, cleaning, painting, light construction work"
+    },
+    {
+      "dayNumber": 10,
+      "title": "",
+      "description": "Transfer to Monteverde Cloudforest accommodation"
+    },
+    {
+      "dayNumber": 11,
+      "title": "",
+      "description": "Zip line tour, superman flight and swing included; afternoon transfer to La Fortuna, bus-boat-bus"
+    },
+    {
+      "dayNumber": 12,
+      "title": "",
+      "description": "Visit Arenal Volcano and hot springs"
+    },
+    {
+      "dayNumber": 13,
+      "title": "",
+      "description": "Pacuare River Rafting tour, transfer to San Jose in the afternoon, closure dinner"
+    },
+    {
+      "dayNumber": 14,
+      "title": "",
+      "description": "Airport drop off"
+    }
+  ],
+  "map": ""
+}

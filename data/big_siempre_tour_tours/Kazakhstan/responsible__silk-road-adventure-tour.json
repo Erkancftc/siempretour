@@ -1,0 +1,135 @@
+{
+  "destination": "Kazakhstan",
+  "mainPhoto": "",
+  "id": "silk-road-adventure-tour",
+  "tourName": "Silk Road adventure tour",
+  "placesVisited": "",
+  "generalInfo": "Designed especially for travellers who seek adventure among lakes and mountains, this journey traverses some of the least travelled routes of the Silk Road enabling you to conjoure the spirit of adventure of the explorers of old. You will be rewarded with breathtaking scenery in unspoilt, expansive wilderness, magical architecture and culinary delights.   <br/>",
+  "durationDays": "22",
+  "price": "6885",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "Tashkent.",
+      "description": "Welcome to Tashkent. Meet your Tour Leader and fellow travellers in the morning for your Welcome Meeting as detailed on your joining instructions before exploring this fascinating blend of ancient and modern. Wander through bustling markets, grand squares, and leafy boulevards, gaining your first glimpse into the region’s rich history and cultural diversity. We will enjoy dinner together, excited about what lies ahead."
+    },
+    {
+      "dayNumber": 2,
+      "title": "Tashkent to Kungrad.",
+      "description": "After a morning in Tashkent we board the train bound for Kungrad, travelling across the vast Kyzylkum Desert. Watch the landscapes unfold — endless steppe, desert villages, and glimpses of rural Uzbek life. This long but scenic journey offers an authentic view of Central Asia’s immense scale and ever-changing beauty."
+    },
+    {
+      "dayNumber": 3,
+      "title": "Kungrad to Nukus.",
+      "description": "Arriving in Kungrad, we experience the atmosphere of a small trading town once vital to Silk Road caravans. We travel to Muynaq, once a thriving fishing port on the Aral Sea. Here, witness haunting reminders of the environmental changes that reshaped the region — rusting ships stranded in the desert sands. Continue to Nukus, home to the world-renowned Savitsky Museum, showcasing avant-garde art rescued from Soviet censorship. This journey offers a striking mix of natural and cultural history in Uzbekistan’s remote west."
+    },
+    {
+      "dayNumber": 4,
+      "title": "Nukus to Khiva via Ayaz Kala.",
+      "description": "This morning, we visit the remarkable Savitsky Museum, often called the “Louvre of the Steppe,” showcasing one of the world’s most significant collections of Russian avant-garde art. Continuing across the Kyzylkum Desert, we explore the ancient fortress of Ayaz Kala — a striking reminder of Khorezm’s ancient civilisation. By evening, we arrive in Khiva, a city seemingly frozen in time within its perfectly preserved mudbrick walls."
+    },
+    {
+      "dayNumber": 5,
+      "title": "Khiva.",
+      "description": "Step back in time as we explore Khiva’s enchanting old town, Itchan Kala, a UNESCO World Heritage site. Wander through labyrinthine alleys lined with turquoise-tiled mosques, madrassas, and caravanserais that once welcomed Silk Road traders. Highlights include the Kalta Minor Minaret, Kunya-Ark Citadel, and Juma Mosque with its forest of carved wooden columns. Khiva’s rich architecture and timeless atmosphere make it one of Central Asia’s most captivating cities."
+    },
+    {
+      "dayNumber": 6,
+      "title": "Khiva to Bukhara.",
+      "description": "Today we journey through the Kyzylkum Desert to Bukhara, a legendary Silk Road city steeped in over two millennia of history. The vast desert plains and distant horizons evoke the sense of adventure that once accompanied merchants and travellers along this ancient route. Arriving in Bukhara by late afternoon, we settle into this living museum, where every corner reveals stories of trade, scholarship, and empire."
+    },
+    {
+      "dayNumber": 7,
+      "title": "Bukhara.",
+      "description": "Bukhara enchants with its timeless architecture and atmosphere. Explore the Ark Fortress, once home to Bukhara’s emirs, and marvel at the elegant Kalyan Minaret and Mosque, which have stood for nearly nine centuries. Wander through the old trading domes, still bustling with artisans and merchants. Every corner of this city whispers tales of scholars, traders, and travellers who passed through centuries ago."
+    },
+    {
+      "dayNumber": 8,
+      "title": "Bukhara to Samarkand.",
+      "description": "Today we board the train to Samarkand, the fabled jewel of the Silk Road. The journey takes us through Uzbekistan’s fertile heartland, past villages and orchards that hint at the region’s agricultural traditions. Upon arrival, we get our first glimpse of Samarkand’s shimmering blue domes and grand monuments, symbols of a city once at the very centre of Tamerlane’s vast empire."
+    },
+    {
+      "dayNumber": 9,
+      "title": "Samarkand.",
+      "description": "Few cities can match the majesty of Samarkand. Explore the iconic Registan Square, flanked by its trio of ornate madrassas, and the Bibi Khanym Mosque, once one of the largest in the Islamic world. Visit the Guri Amir Mausoleum, final resting place of Tamerlane, and the Shah-i-Zinda necropolis, a stunning avenue of tilework. Samarkand’s splendour, artistry, and grandeur embody the very spirit of the Silk Road."
+    },
+    {
+      "dayNumber": 10,
+      "title": "Samarkand to Penjikent.",
+      "description": "Today we cross the border into Tajikistan and travel to Penjikent, an ancient Sogdian city dating back to the 5th century. Its ruins reveal the remains of temples, frescoes, and fortifications from a bygone era. Explore the archaeological site and local museum before strolling through the lively modern town, where colourful bazaars and friendly locals continue the region’s trading traditions."
+    },
+    {
+      "dayNumber": 11,
+      "title": "To Iskandarkul Lake.",
+      "description": "We journey into the majestic Fann Mountains, where dramatic peaks and turquoise lakes create one of Central Asia’s most breathtaking landscapes. Our destination is Iskandarkul, named after Alexander the Great, whose army is said to have passed here. Nestled at high altitude, the lake offers serenity and stunning mountain reflections. Take time to walk by the shore or visit nearby waterfalls before enjoying a peaceful evening in nature."
+    },
+    {
+      "dayNumber": 12,
+      "title": "Iskandarkul Lake to Khujand.",
+      "description": "Descending from the mountains, we make our way to Khujand, one of Tajikistan’s oldest cities. Once a major Silk Road trading hub founded by Alexander the Great, Khujand lies along the Syr Darya River. We explore its citadel, bustling Panjshanbe Bazaar, and the Sheikh Muslihiddin complex, gaining insight into Tajik culture and daily life. Khujand’s mix of history and warmth provides a fascinating contrast to the mountain wilderness."
+    },
+    {
+      "dayNumber": 13,
+      "title": "To Fergana.",
+      "description": "Crossing back into Uzbekistan, we travel through the historic towns of Kokand and Rishton. In Kokand, we visit the grand Khudayar Khan Palace, once home to the powerful khans of the Fergana Valley. Nearby Rishton is famous for its centuries-old pottery traditions, where local artisans create exquisite blue-glazed ceramics. Continuing to Fergana, we discover a fertile valley that remains one of Central Asia’s cultural and artistic heartlands."
+    },
+    {
+      "dayNumber": 14,
+      "title": "To Osh.",
+      "description": "Today we journey east across the valley toward Kyrgyzstan, crossing into Osh, one of the oldest cities in Central Asia. Osh has been a crossroads of cultures for millennia, and we explore its highlights, including the sacred Suleiman Mountain, a UNESCO site revered by pilgrims for centuries. Wander through its colourful bazaar, where Silk Road traditions of trade and craftsmanship remain vibrantly alive."
+    },
+    {
+      "dayNumber": 15,
+      "title": "To Kazarman.",
+      "description": "We leave the Fergana Valley behind and drive into Kyrgyzstan’s remote heartland. The journey to Kazarman takes us through rugged mountain scenery, winding passes, and pastoral landscapes dotted with nomadic yurts. Kazarman, a quiet village nestled in the mountains, offers a glimpse into authentic Kyrgyz rural life. Its isolation preserves age-old traditions of herding, hospitality, and community that have changed little over generations."
+    },
+    {
+      "dayNumber": 16,
+      "title": "Kazarman to Song kul.",
+      "description": "Climbing higher into the Tian Shan Mountains, we reach the alpine lake of Song-Kul, one of Kyrgyzstan’s most beautiful and iconic locations. Surrounded by snow-capped peaks and rolling meadows, this high-altitude lake is a summer pasture for nomadic herders. Experience true Central Asian hospitality in traditional yurts and witness the timeless rhythms of nomadic life, from horseback herding to stargazing beneath vast open skies."
+    },
+    {
+      "dayNumber": 17,
+      "title": "To Tash Rabat.",
+      "description": "We journey south through sweeping valleys toward Tash Rabat, an ancient 15th-century caravanserai nestled deep in the mountains near the Chinese border. Once a resting place for Silk Road merchants, its stone chambers still echo with the stories of travellers long gone. The remote location and stark beauty of this region offer a powerful sense of solitude and connection to the historic trade routes of Central Asia."
+    },
+    {
+      "dayNumber": 18,
+      "title": "Tash Rabat to Kochkor.",
+      "description": "Today we descend through the high mountain passes to the village of Kochkor, famous for its traditional felt-making workshops. Here we learn about the ancient art of producing shyrdaks — colourful Kyrgyz felt rugs — and meet the artisans keeping this craft alive. Surrounded by rolling hills and rural charm, Kochkor offers a glimpse into the creativity and resilience of Kyrgyz village life."
+    },
+    {
+      "dayNumber": 19,
+      "title": "To Karakol via Djety Oguz.",
+      "description": "We travel along the southern shore of Issyk-Kul, the world’s second-largest alpine lake. En route, visit the striking red sandstone formations of Djeti Oguz Gorge, known as the “Seven Bulls,” and the nearby Fairy Tale Canyon. Continue to Karakol, a town rich in history and culture, where Russian architecture meets nomadic tradition. The drive today showcases Kyrgyzstan’s stunning natural diversity and warm local hospitality."
+    },
+    {
+      "dayNumber": 20,
+      "title": "To Almaty via Charyn Canyon.",
+      "description": "Crossing into Kazakhstan, we make our way to Almaty. En route, we stop at the spectacular Charyn Canyon, often called Central Asia’s “Grand Canyon.” Its dramatic red cliffs and unique rock formations create a breathtaking panorama. After exploring the canyon, we continue to Almaty, Kazakhstan’s vibrant cultural capital set against the backdrop of the snow-capped Zailiysky Alatau Mountains."
+    },
+    {
+      "dayNumber": 21,
+      "title": "Almaty.",
+      "description": "Almaty is a city of contrasts — leafy boulevards, bustling markets, and modern cafés framed by mountain peaks. Our city tour includes the colourful Ascension Cathedral, built entirely of wood without nails, and the lively Green Bazaar. Visit Kok-Tobe Hill for panoramic views over the city and mountains. Almaty’s mix of culture, charm, and cosmopolitan energy provides the perfect finale to your Central Asian journey."
+    },
+    {
+      "dayNumber": 22,
+      "title": "Almaty.",
+      "description": "Your extraordinary Silk Road adventure concludes today in Almaty. Reflect on the unforgettable landscapes, cultures, and connections experienced across Uzbekistan, Tajikistan, Kyrgyzstan, and Kazakhstan. From desert fortresses to turquoise lakes and timeless cities, this journey has traced one of history’s most legendary routes. Depart at leisure, taking with you the memories, friendships, and stories of a region where East truly meets West."
+    }
+  ],
+  "map": ""
+}

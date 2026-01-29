@@ -1,0 +1,60 @@
+{
+  "destination": "Thailand",
+  "mainPhoto": "",
+  "id": "thailand-island-hopping-holiday",
+  "tourName": "Thailand island hopping holiday",
+  "placesVisited": "",
+  "generalInfo": "For a quintessential white-sand, tropical paradise beach holiday, look no further. Spend a week in Koh Chang National Marine Park, starting a couple days relaxing and exploring Koh Chang itself, then on tiny Koh Mak, a haven of peace and tranquillity where traffic is just a couple of motorbikes and pick-up trucks and there are no supermarkets to be seen. Finish with a couple of nights on Koh Kood for more beaches, hidden delights and laid-back island life, but you may find yourself wanting to stay a little longer!",
+  "durationDays": "7",
+  "price": "995",
+  "image1": "",
+  "image2": "",
+  "image3": "",
+  "image4": "",
+  "image5": "",
+  "image6": "",
+  "imagealt": "",
+  "personNumber": "",
+  "dates": "",
+  "minimumAge": "",
+  "meet": "",
+  "whatExpect": "",
+  "dayInfo": [
+    {
+      "dayNumber": 1,
+      "title": "",
+      "description": "Pick up from your Bangkok hotel and travel by minibus and ferry to Koh Chang (around 6 hrs). It is also possible to take a domestic flight to Trat to shorten the journey."
+    },
+    {
+      "dayNumber": 2,
+      "title": "",
+      "description": "Gentle cycling (20km) to explore Koh Chang, taking in a local village, Chinese shrine, a secret beach and pine forest and a viewpoint where you can see the whole island laid out below. Finish with a dip in a waterfall and lunch at a local restaurant."
+    },
+    {
+      "dayNumber": 3,
+      "title": "",
+      "description": "Depart for Koh Mak where traffic is limited to a couple of motorbikes and pick up trucks and there are no shopping centers, supermarkets or ATM machines. The perfect place to get away from it all! Optional trip to Koh Kham, which has a fantastic powdery white beach where you can enjoy the afternoon sunbathing, swimming or snorkelling. Later head back to Koh Mak for a delicious dinner. (B/L/D)"
+    },
+    {
+      "dayNumber": 4,
+      "title": "",
+      "description": "Today, take a boat trip to the islands of Koh Rang, the best area for snorkelling in Koh Chang National Park and also renowned among scuba divers. After marvelling at the multitude of tropical fish, enjoy lunch on the boat and return to Koh Maak at your leisure. (B/L)"
+    },
+    {
+      "dayNumber": 5,
+      "title": "",
+      "description": "Hop over to your next tropical island, Koh Kood, right next to the Cambodian border and still heavily forested, making it as much of a nature-lovers paradise as a beach-bum’s. Relax after disembarking directly at your hotel, or take a kayak out to explore the lush coastline and nearby reefs. (B/D)"
+    },
+    {
+      "dayNumber": 6,
+      "title": "",
+      "description": "Tour the island by local bus and visit the most attractive beaches, swim in the fresh waters of the island’s main waterfall and explore the oldest fishing village on the island, Ao Salat, where local pirates harboured in the old days. Lunch is provided at a renowned local restaurant before returning at your leisure to the hotel. (Optional: kayaking in mangrove forest) (B/L)"
+    },
+    {
+      "dayNumber": 7,
+      "title": "",
+      "description": "Spend the morning lapping up the last of the sun on the golden sands, before leaving the beach behind and heading back to your Bangkok hotel. Of course you may just want to stay a little longer... (B)"
+    }
+  ],
+  "map": ""
+}
