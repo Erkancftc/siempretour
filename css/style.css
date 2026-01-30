@@ -9067,3 +9067,52 @@ td.rain-cell {
 #responsive-menu > li.submenu.dropdown.slicknav_parent.slicknav_collapsed{
   display: none !important;
 }
+/* En Beğenilen Lokasyonlar - Mobilde swipe carousel */
+
+@media (max-width: 991.98px) {
+  .trend-image.overlay-text{  opacity: 1;}
+
+  /* 1) Bootstrap row negatif marginlerini iptal et */
+  .popular-locations-carousel{
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+
+    justify-content: flex-start !important;
+
+    /* kritik: row taşmasını bitirir */
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+
+    /* iç boşlukla dengeli görünüm */
+    padding-left: 12px;
+    padding-right: 12px;
+
+    /* bazen gap daha güvenli */
+    gap: 12px;
+  }
+
+  /* 2) Row içindeki col’lar flex-item olsun ama taşmasın */
+  .popular-locations-carousel > [class*="col-"]{
+    flex: 0 0 auto;
+    width: 78vw;        /* 70-85vw arası oynatabilirsin */
+    max-width: 360px;
+    scroll-snap-align: start;
+  }
+
+  /* 3) Col padding'leri de taşmayı tetikliyorsa azalt */
+  .popular-locations-carousel > [class*="col-"].p-1{
+    padding: 0 !important;
+  }
+
+  /* 4) Resimler kesinlikle container dışına taşmasın */
+  .popular-locations-carousel img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+}
