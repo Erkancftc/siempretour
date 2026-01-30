@@ -2763,7 +2763,6 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
 /*          Banner  CSS        */
 /* ======================================== */
 .banner {
-  padding: 0;
   background-size: cover;
   background-position: center;
   background-repeat: repeat-x;
@@ -2892,7 +2891,6 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
   display: block;
 }
 .banner .banner-main {
-  height: 630px;
   position: relative;
 }
 .banner .banner-main .banner-image {
@@ -2917,6 +2915,8 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
   letter-spacing: 1px;
   font-weight: 400;
 }
+
+
 .banner .banner-main .banner-content p {
   font-size: 21px;
 }
@@ -3059,9 +3059,6 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
   .banner .slider .swiper-container .slider-before p {
     color: #fff;
   }
-  .banner .banner-main {
-    height: auto;
-  }
   .banner .banner-main .banner-content {
     top: 50%;
     transform: translateY(-50%);
@@ -3133,6 +3130,10 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
   .banner .swiper-button-prev,
   .banner .swiper-button-next {
     display: none;
+  }
+  .banner .banner-main .banner-content > h1{
+    font-size: 48px !important;
+    line-height: 4rem !important;
   }
 }
 @media (max-width: 639px) {
@@ -7958,9 +7959,8 @@ ul.sidebar-tags li a:hover {
 .home-thh .banner .swiper-button-prev:after {
   background: transparent;
 }
-.home-thh .banner .banner-main {
-  height: 95vh;
-}
+
+
 .video {
   width: -webkit-fill-available;
 }
@@ -7973,7 +7973,7 @@ ul.sidebar-tags li a:hover {
   color: #fff;
   font-size: 22px;
   font-weight: 200;
-  line-height: 24px;
+  line-height: clamp(24px, 3vw, 3rem); 
   margin: 0 !important;
   margin-bottom: 1.5rem;
   text-shadow: 0 2px 2px #0000001f;
@@ -7981,7 +7981,7 @@ ul.sidebar-tags li a:hover {
 .home-thh .banner .banner-main .banner-content h1 {
   color: #fff;
   font-family: "Playfair Display,serif";
-  font-size: 94px;
+  font-size: clamp(32px, 5vw, 94px) !important;
   font-weight: 800;
   line-height: 120px;
   margin-bottom: 36px;
@@ -8627,9 +8627,7 @@ ul.sidebar-tags li a:hover {
   .home-thh .headerstye-1 .navbar-sticky-in .slicknav_btn.slicknav_collapsed:before {
     color: #000 !important;
   }
-  .home-thh .banner .banner-main {
-    height: 80vh;
-  }
+  
   .home-thh .banner .banner-main .banner-content {
     width: 75%;
   }
@@ -8684,9 +8682,7 @@ ul.sidebar-tags li a:hover {
   .why-choose-us .feature-box div h5 {
     margin-bottom: 10px;
   }
-  .home-thh .banner .banner-main {
-    height: 100%;
-  }
+  
   .home-thh .banner .banner-main .banner-booking {
     display: none;
   }
@@ -8707,9 +8703,9 @@ ul.sidebar-tags li a:hover {
     font-size: 14px;
   }
   .home-thh .banner .banner-main .banner-content h1 {
-    font-size: 16px;
-    margin: 0;
-    line-height: 1.2rem;
+       font-size: 54px;
+    margin-top: -60px;
+    line-height: 5rem;
   }
   .row.offer-banner {
     margin: 0 15px;
@@ -9053,7 +9049,7 @@ td.rain-cell {
 } /* çok yağış */
 
 
-@media (max-width:1199px){
+@media (max-width:1099px){
   .phone-number-mobile,
   .log-reg-button-mobile{
     display: flex !important;

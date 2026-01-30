@@ -106,12 +106,10 @@
                           <li><a href="template_tours_grid_page.html" data-country="Albania">Arnavutluk</a></li>
                           <li><a href="template_tours_grid_page.html" data-country="Andorra">Andorra</a></li>
                           <li><a href="template_tours_grid_page.html" data-country="Austria">Avusturya</a></li>
-                          <li><a href="template_tours_grid_page.html" data-country="Bosnia Herzegovina">Bosna Hersek</a>
-                          </li>
+                          <li><a href="template_tours_grid_page.html" data-country="Bosnia Herzegovina">Bosna Hersek</a></li>
                           <li><a href="template_tours_grid_page.html" data-country="Bulgaria">Bulgaristan</a></li>
                           <li><a href="template_tours_grid_page.html" data-country="Croatia">Hırvatistan</a></li>
-                          <li><a href="template_tours_grid_page.html" data-country="Czech Republic">Çek Cumhuriyeti</a>
-                          </li>
+                          <li><a href="template_tours_grid_page.html" data-country="Czech Republic">Çek Cumhuriyeti</a></li>
                           <li><a href="template_tours_grid_page.html" data-country="Denmark">Danimarka</a></li>
                           <li><a href="template_tours_grid_page.html" data-country="England">İngiltere</a></li>
                           <li><a href="template_tours_grid_page.html" data-country="Estonia">Estonya</a></li>
@@ -327,15 +325,15 @@
   <!-- header ends -->
 
   <!-- banner starts -->
-  <section class="banner overflow-hidden">
+  <section class="banner overflow-hidden p-0">
     <div class="banner-main">
-      <div class="banner-image">
-        <div class="video-banner">
+      <div class="banner-image ">
+        <div class="video-banner ">
           <video autoplay muted loop id="vid" class="col-lg-12">
             <source src="images/siempre-video1.mp4" type="video/mp4" />
           </video>
+          <div class="dot-overlay"></div>
         </div>
-        <div class="dot-overlay"></div>
       </div>
       <div class="banner-content">
         <h1 class="mb-30"><a href="tour-grid.html" class="white">Dünya Kadar <br> Turumuz Var</a></h1>
@@ -344,18 +342,13 @@
             başlar. İlk adımını at, hikâyen başlasın.</span>
         </div>
         <div class="banner-booking d-flex justify-content-center mt-3">
-          <div class="row col-lg-8 align-items-center form-content rounded position-relative">
-            <div class="col-lg-1">
-              <h4 class="form-title py-4 white mb-0 d-lg-flex align-items-center justify-content-center">
-                <i class="icon-location-pin fs-2"></i>
-              </h4>
-            </div>
-            <div class="col-lg-11">
+          <div class="row ">
+            <div class="col-lg-12">
               <div class="form-content-in d-lg-flex align-items-center gap-3">
                 <div class="form-group">
                   <div class="input-box" style=" text-align-last: center" ;>
-                    <select class="niceSelect">
-                      <option value="1">Lokasyon</option>
+                    <select class="niceSelect rounded-0" name="location" required>
+                      <option value="1" disabled selected >Lokasyon</option>
                       <option value="2">Arjantin</option>
                       <option value="3">Belçika</option>
                       <option value="4">Kanada</option>
@@ -363,31 +356,8 @@
                     </select>
                   </div>
                 </div>
-                <!-- <div class="form-group">
-                    <div class="input-box">
-                      <input type="date" name="date" />
-                    </div>
-                  </div>
-                  <div class="form-group">
-                    <div class="input-box">
-                      <select class="niceSelect">
-                        <option value="1">Seyahat Tipi</option>
-                        <option value="2">Şehir Turu</option>
-                        <option value="3">Aile Turu</option>
-                      </select>
-                    </div>
-                  </div>
-                  <div class="form-group">
-                    <div class="input-box">
-                      <select class="niceSelect">
-                        <option value="1">Tur Süresi</option>
-                        <option value="2">5 gün</option>
-                        <option value="3">7 gün</option>
-                      </select>
-                    </div>
-                  </div> -->
-                <div class="form-group mb-0 text-center d-flex">
-                  <a href="#" class="nir-btn w-100 p-3"><i class="fa fa-search mr-2"></i> Ara</a>
+                <div class="form-group trip-button mb-0 text-center d-flex">
+                  <a href="#" class=" w-100 p-3 px-5 rounded-0"><i class="fa fa-search mx-3"></i> Ara</a>
                 </div>
               </div>
             </div>

@@ -3920,7 +3920,7 @@ Change the following styles to modify the appearance of the menu.
     left: 0;
     right: 0;
     background: #1F1D26;
-    height: 260px;
+    height: auto;
     overflow-y: scroll;
 }
 
