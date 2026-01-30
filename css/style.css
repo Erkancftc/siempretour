@@ -9053,7 +9053,7 @@ td.rain-cell {
 } /* çok yağış */
 
 
-@media (max-width:1919px){
+@media (max-width:1199px){
   .phone-number-mobile,
   .log-reg-button-mobile{
     display: flex !important;
@@ -9065,4 +9065,9 @@ td.rain-cell {
     align-items: center;
     gap: 12px;
   }
+}
+
+
+#responsive-menu > li.submenu.dropdown.slicknav_parent.slicknav_collapsed{
+  display: none !important;
 }

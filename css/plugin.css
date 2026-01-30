@@ -3738,6 +3738,11 @@ Slicknav - a Mobile Menu
     display: block;
     margin: 0;
 }
+@media(max-width:1199px){
+    #slicknav-mobile > div > ul > li:nth-child(2){
+        display: none !important;
+    }
+}
 .slicknav_nav .slicknav_arrow {
     font-size: 0.8em;
     margin: 0 0 0 0.4em;
@@ -3915,7 +3920,7 @@ Change the following styles to modify the appearance of the menu.
     left: 0;
     right: 0;
     background: #1F1D26;
-    height: max-content;
+    height: 260px;
     overflow-y: scroll;
 }
 
