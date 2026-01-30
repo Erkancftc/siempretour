@@ -8625,7 +8625,7 @@ ul.sidebar-tags li a:hover {
   .home-thh .slicknav_btn.slicknav_collapsed:before,
   .home-thh .headerstye-1 .navbar-sticky-in .slicknav_btn.slicknav_open:before,
   .home-thh .headerstye-1 .navbar-sticky-in .slicknav_btn.slicknav_collapsed:before {
-    color: #fff !important;
+    color: #000 !important;
   }
   .home-thh .banner .banner-main {
     height: 80vh;
@@ -8643,6 +8643,9 @@ ul.sidebar-tags li a:hover {
   }
   .why-choose-us .traveler-img {
     width: 100% !important;
+  }
+  .navbar-flex{
+    justify-content: space-between !important;
   }
 }
 @media (max-width: 991.98px) {
