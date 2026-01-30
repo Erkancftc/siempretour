@@ -8947,7 +8947,6 @@ body.mega-lock {
   color: #6b371b;
   text-decoration: underline;
 }
-
 /* Tablet/Mobil sütun sayısı */
 @media (max-width: 992px) {
   .mega-list--grid {
@@ -9052,3 +9051,18 @@ td.rain-cell {
 .rain-bar.rain-high {
   background-color: #f8d7da;
 } /* çok yağış */
+
+
+@media (max-width:1919px){
+  .phone-number-mobile,
+  .log-reg-button-mobile{
+    display: flex !important;
+    width: 100vw;
+  }
+  .phone-number-mobile >a,
+  .log-reg-button-mobile >a{
+     display: flex !important;
+    align-items: center;
+    gap: 12px;
+  }
+}
