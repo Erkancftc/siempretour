@@ -59,9 +59,8 @@ async function loadTours() {
       const dest4 = document.getElementById('theHeaderTwo');
       dest4.innerHTML = `${destination}`;
 
-      const detailUrl = tour.id
-        ? `template_tour_page.html?id=${encodeURIComponent(tour.id)}&country=${encodeURIComponent(country)}`
-        : '#';
+      const detailUrl = generateDetailUrl(tour.id);
+
 
       const cardHtml = `
         <div class="tour-card col-lg-4 col-md-4 mb-3">
