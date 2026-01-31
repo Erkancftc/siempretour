@@ -2257,6 +2257,16 @@ header #navbar {
   animation: none;
   top: 0;
 }
+/* 2. seviye arka plan */
+.submenu .dropdown-menu > li {
+  background: rgba(255,255,255,0.04);
+}
+
+/* 3. seviye daha sade */
+.mega-list li > a{
+  padding-left: 40px !important;
+}
+
 
 @media (max-width: 991px) {
   .main_header_area .header_mlogo .navbar.navbar-default .navbar-header {

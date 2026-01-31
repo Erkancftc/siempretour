@@ -3849,12 +3849,14 @@ Change the following styles to modify the appearance of the menu.
     margin: 0;
     width: 100%;
     border-radius: 0;
-    position: inherit;
+    position: relative;
     top: inherit;
     left: inherit;
     border: none;
     background-color: transparent;
     margin-bottom: 10px;
+    overflow-y: scroll;
+    max-height: 45vh;
 }
 .slicknav_nav ul li {
     border-bottom: 0;
