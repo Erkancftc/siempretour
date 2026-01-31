@@ -3613,6 +3613,7 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
   opacity: 1;
 }
 
+
 /* Show overlay text only on hover */
 .trend-image {
   position: relative;
@@ -3641,7 +3642,8 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
   pointer-events: auto;
 }
 .trend-image:hover .color-overlay {
-  opacity: 0.45;
+  background: #00000099 ;
+  opacity: 1;
 }
 
 /* Fade the color overlay in with the text */
@@ -7602,6 +7604,7 @@ ul.sidebar-tags li a:hover {
   background-color: #333;
   color: #fff;
 }
+
 .explore-button a {
   background-color: #faf6f2;
   border: 1px solid #b1aeab;
@@ -7624,6 +7627,26 @@ ul.sidebar-tags li a:hover {
   width: 48px;
   place-self: center;
 }
+
+.explore-tour-btn a{
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+  font-size: 16px;
+  line-height: 20px;
+  padding: 0.75rem 3rem;
+  text-transform: capitalize;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  font-weight: 500;
+}
+.explore-tour-btn a:hover{
+  background-color: white;
+  color: #070707;
+  transition: all 1ms linear;
+}
+
 
 /* Şeridi taşıyan şu eleman: <div class="row flex-nowrap align-items-center"> */
 .row.flex-nowrap.align-items-center {
@@ -7877,25 +7900,46 @@ ul.sidebar-tags li a:hover {
   }
 
   .cascading-carousel__viewport {
-    height: auto;
-    overflow-x: auto;
-    overflow-y: hidden;
+     position: relative;
+  width: 100%;
+  /* mobilde daha kısa, desktop’ta daha uzun */
+  height: clamp(450px, 58vw, 440px);
+  overflow: visible;
+  /* parmakla kaydırırken yatay swipe JS'te, dikey sayfa kaydırma kalsın */
+  touch-action: pan-y;
   }
 
   .cascading-carousel__track {
-    display: flex;
-    gap: 16px;
+      position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
   }
 
   .cascading-carousel__item {
-    position: relative;
-    left: auto !important;
-    transform: none !important;
-    opacity: 1 !important;
-    width: 260px;
-    height: 300px;
-    flex: 0 0 auto;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  /* kart boyutu: mobilde ekranın büyük kısmını kaplasın */
+  width: clamp(220px, 78vw, 360px);
+  height: 100%;
+  transform: translateX(-50%);
+  transition: transform .35s ease, opacity .35s ease;
+  will-change: transform, opacity;
+  /* üst üste binen kartların tıklanmasını kolaylaştırır */
+  pointer-events: auto;
+  padding: 32px;
   }
+  .cascading-carousel__item img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.cascading-carousel__item.is-side{
+  opacity: .85;
+}
+
 
 }
 

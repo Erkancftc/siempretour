@@ -1,13 +1,13 @@
 document.addEventListener("DOMContentLoaded", () => {
   const carousels = document.querySelectorAll("[data-cascading-carousel]");
 
+  const mq = window.matchMedia("(max-width: 1199px)")
   carousels.forEach((carousel) => {
     const items = Array.from(
       carousel.querySelectorAll(".cascading-carousel__item")
     );
     const initialIndex = Math.floor(items.length / 2);
     let activeIndex = null;
-
     const clampIndex = (index) =>
       Math.max(0, Math.min(index, items.length - 1));
 
@@ -32,6 +32,7 @@ document.addEventListener("DOMContentLoaded", () => {
         item.setAttribute("aria-hidden", index === activeIndex ? "false" : "true");
         item.tabIndex = index === activeIndex ? 0 : -1;
       });
+   
 
     };
 
