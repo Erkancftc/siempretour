@@ -1,0 +1,29 @@
+[
+    {
+        "type": "best-time-to",
+        "Main_Title": "Best time to visit Bosnia-Herzegovina",
+        "Main_Paragraph": "For hiking, the best time to go to Bosnia-Herzegovina is May, June or September, as it is less hot, although it never maxes out the thermometer in the same way as neighbouring Croatia. In winter you can have snow for up to six months, but February and March are perfect, with more sunshine and clearer days to take in the views. Sarajevo is surrounded by mountains, so always bring a coat, as you can get four seasons in a day. For hiking, spring brings a fiesta of fresh flora, and autumn sees the ancient woodland cover the gamut of glorious reds and gold.",
+        "image1": "",
+        "when_to_go": "",
+        "when_to_go_html": "",
+        "weather_chart": "Bosnia-Herzegovina Weather Chart",
+        "weather_chart_html": "<div class=\"col-lg-12 p-5\">\n  <h2 class=\"text-center text-dark py-5 lh-base\">Bosnia-Herzegovina Weather Chart</h2>\n  <div class=\"table-responsive\">\n    <table class=\"table text-center mb-4\" id=\"havaTablosu\">\n      <thead class=\"\">\n        <tr>\n          <th scope=\"col\">Ay</th>\n          <th scope=\"col\">Min  °C</th>\n          <th scope=\"col\">Max  °C</th>\n          <th scope=\"col\">Yağmur(mm)</th>\n        </tr>\n      </thead>\n      <tbody>\n<tr>\n  <th scope=\"row\">Oca</th>\n  <td class=\"temp-cold\">-6</td>\n  <td class=\"temp-cool\">1</td>\n  <td class=\"rain-cell\"><div class=\"rain-bar rain-high\" style=\"width: 74%;\">72 mm</div></td>\n</tr>\n<tr>\n  <th scope=\"row\">Şub</th>\n  <td class=\"temp-cold\">-4</td>\n  <td class=\"temp-cool\">4</td>\n  <td class=\"rain-cell\"><div class=\"rain-bar rain-high\" style=\"width: 72%;\">70 mm</div></td>\n</tr>\n<tr>\n  <th scope=\"row\">Mar</th>\n  <td class=\"temp-cold\">-1</td>\n  <td class=\"temp-cool\">8</td>\n  <td class=\"rain-cell\"><div class=\"rain-bar rain-mid\" style=\"width: 71%;\">69 mm</div></td>\n</tr>\n<tr>\n  <th scope=\"row\">Nis</th>\n  <td class=\"temp-cool\">3</td>\n  <td class=\"temp-warm\">13</td>\n  <td class=\"rain-cell\"><div class=\"rain-bar rain-high\" style=\"width: 80%;\">78 mm</div></td>\n</tr>\n<tr>\n  <th scope=\"row\">May</th>\n  <td class=\"temp-cool\">7</td>\n  <td class=\"temp-warm\">18</td>\n  <td class=\"rain-cell\"><div class=\"rain-bar rain-high\" style=\"width: 94%;\">91 mm</div></td>\n</tr>\n<tr>\n  <th scope=\"row\">Haz</th>\n  <td class=\"temp-warm\">10</td>\n  <td class=\"temp-hot\">21</td>\n  <td class=\"rain-cell\"><div class=\"rain-bar rain-high\" style=\"width: 100%;\">97 mm</div></td>\n</tr>\n<tr>\n  <th scope=\"row\">Tem</th>\n  <td class=\"temp-warm\">11</td>\n  <td class=\"temp-hot\">24</td>\n  <td class=\"rain-cell\"><div class=\"rain-bar rain-high\" style=\"width: 89%;\">86 mm</div></td>\n</tr>\n<tr>\n  <th scope=\"row\">Ağu</th>\n  <td class=\"temp-warm\">11</td>\n  <td class=\"temp-hot\">24</td>\n  <td class=\"rain-cell\"><div class=\"rain-bar rain-high\" style=\"width: 77%;\">75 mm</div></td>\n</tr>\n<tr>\n  <th scope=\"row\">Eyl</th>\n  <td class=\"temp-cool\">8</td>\n  <td class=\"temp-hot\">20</td>\n  <td class=\"rain-cell\"><div class=\"rain-bar rain-high\" style=\"width: 78%;\">76 mm</div></td>\n</tr>\n<tr>\n  <th scope=\"row\">Eki</th>\n  <td class=\"temp-cool\">4</td>\n  <td class=\"temp-warm\">15</td>\n  <td class=\"rain-cell\"><div class=\"rain-bar rain-high\" style=\"width: 85%;\">82 mm</div></td>\n</tr>\n<tr>\n  <th scope=\"row\">Kas</th>\n  <td class=\"temp-cool\">0</td>\n  <td class=\"temp-cool\">8</td>\n  <td class=\"rain-cell\"><div class=\"rain-bar rain-high\" style=\"width: 100%;\">97 mm</div></td>\n</tr>\n<tr>\n  <th scope=\"row\">Ara</th>\n  <td class=\"temp-cold\">-4</td>\n  <td class=\"temp-cool\">2</td>\n  <td class=\"rain-cell\"><div class=\"rain-bar rain-high\" style=\"width: 94%;\">91 mm</div></td>\n</tr>\n      </tbody>\n    </table>\n  </div>\n</div>",
+        "title1": "Bosnia and Herzegovina travel advice",
+        "paragraph1": "",
+        "image2": "",
+        "title2": "Packing tips",
+        "paragraph2": "Tom Wilkinson, snowshoeing expert from our partner, Exodus, shares his top travel advice:",
+        "title3": "",
+        "paragraph3": "People dont tend to associate Bosnia and Herzegovina with mountains, but they are pretty impressive. If youre going to snowshoe, dont scrimp on the layers. Better to have multiple layers to take on and off, and check the conditions before you go. Also, it can get surprisingly hot in summer, perhaps not something people associate with BiH (it can of course have changeable mountain weather too, and rain etc) so youll need a different set of duds for walking around Sarajevo in August to when scaling Maglic, which is of course pretty high.",
+        "title4": "Itinerary tips",
+        "paragraph4": "Tom Wilkinson:",
+        "title5": "",
+        "paragraph5": "Take time to wander around in Sarajevo, its worth it and if youre going in winter Mostar will be fairly tourist-free so thats worth a look too.",
+        "title6": "",
+        "paragraph6": "Its the absence of other trekkers, aside sometimes from Maglic at the top, that makes this a great destination, coupled with some steepling gorges, remote, semi deserted mountain top villages that are a bit like stepping back in time, and of course the mountains themselves.",
+        "title7": "Food tips",
+        "paragraph7": "Tom Wilkinson:",
+        "title8": "",
+        "paragraph8": "Try the local coffee (like Turkish coffee)  unless you dont like strong coffee, in which case dont!"
+    }
+]

@@ -283,5 +283,60 @@
       }
     ],
     "map": ""
+  },
+  {
+    "destination": "Ireland",
+    "mainPhoto": "",
+    "id": "causeway-coast-holiday-northern-ireland",
+    "tourName": "Causeway coast holiday, Northern Ireland",
+    "placesVisited": "Belfast, Causeway Coast, Bushmills, Bushmills Distillery, Giant’s Causeway, Causeway Coast Way, Dunluce Castle, Carrick-a-Rede rope bridge",
+    "generalInfo": "Commencing in the capital of Northern Ireland, Belfast, this six day holiday follows a flexible, but well crafted itinerary that enables you to take in the world renowned Causeway Coast and all its natural and cultural highlights, without using a car. <br/><br/>Belfast <br/>Stay for your first two nights in a locally owned bed and breakfast just ten minutes’ walk from the centre of Northern Ireland’s capital. A welcoming and easily accessible city to wander around, highlights that we recommend include the historic Cathedral Quarter, with St Anne's Cathedral at its heart. This was, traditionally, the wealthy merchants’ hub of the city. In contrast, we also recommend the Titanic Quarter, so called because the shipyards where the notorious ship was built, have now been restored to a state of the art visitor centre. One more important cultural experience in Belfast is the Black Taxi tour. Led by drivers who lived through the years of conflict in this city, this is a moving and enlightening way to get to grips with Northern Ireland’s recent history if you choose. <br/><br/>Causeway Coast<br/><br/>On day three, taking a train and taxi, you head to Bushmills, a town that is not only famous for its whisky distillery, but also a wonderful locally owned hotel, where you will stay for three nights, coming back to superb cuisine, whisky filled bar and, if you time it right, some live traditional music to help you really feel at home, Irish style. <br/><br/>Having settled in and enjoyed the real Northern Irish welcome, your fourth day is a time to enjoy the UNESCO World Heritage site of the Giant’s Causeway. During the months of July and August, you can travel there daily by steam train, or at weekends during June and September. During other times alternative transport will be organised for you. One of Ireland’s most popular tourist attractions, this massive geological wonder is made up of thousands of hexagonal basalt columns set into the cliffs and but also reaching out into the sea, forming what look like stepping stones out into the waves. This, along with local folklore, give it the name Giant’s Causeway, as it resembles a pathway fit for a giant. An easy way to escape the crowds and take in more of this incredible scenery is to climb the Shepherd's Steps and hike along the cliff-top Causeway Coast Way, a walking trail which not many visitors know about. <br/><br/>We include the services of a local driver guide for your fifth day on the Causeway Coast, enabling you to take in some of its other gems. If you’re a fan of Game of Thrones, for example, just ask your driver to show you the real Dark Hedges. One of our favourite stops is Dunluce Castle, a splendid ruin from medieval times and an imposing sight on the top of a cliff. If you are feeling adventurous, don’t miss Carrick-a-Rede rope bridge, near Ballintoy, which links the mainland with Carrick-a-Rede Island, suspended over a 30m drop. Once used by salmon fishermen to access a cottage on the rocky perches of the island, if you brave the bridge you will be rewarded with spectacular views out to Rathlin Island and along the coast. <br/><br/>On your final day, enjoy the beautiful environs of Bushmills, and then take the train back to Belfast. <br/><br/><br/>",
+    "durationDays": "6",
+    "price": "1635",
+    "image1": "",
+    "image2": "",
+    "image3": "",
+    "image4": "",
+    "image5": "",
+    "image6": "",
+    "imagealt": "",
+    "personNumber": "",
+    "dates": "",
+    "minimumAge": "",
+    "meet": "",
+    "whatExpect": "",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "",
+        "description": "Journey to the Northern capital of Belfast."
+      },
+      {
+        "dayNumber": 2,
+        "title": "",
+        "description": "Day to explore Belfast at your leisure."
+      },
+      {
+        "dayNumber": 3,
+        "title": "",
+        "description": "Travel to Belfast on a leisurely train journey northwards to Coleraine."
+      },
+      {
+        "dayNumber": 4,
+        "title": "",
+        "description": "Giant’s Causeway and Bushmills Distillery."
+      },
+      {
+        "dayNumber": 5,
+        "title": "",
+        "description": "Enjoy a guided tour of the North West."
+      },
+      {
+        "dayNumber": 6,
+        "title": "",
+        "description": "Return to Belfast for your final night."
+      }
+    ],
+    "map": ""
   }
 ]

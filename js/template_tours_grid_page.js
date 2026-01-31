@@ -39,6 +39,7 @@ async function loadTours() {
     container.innerHTML = '';
 
     tours.forEach(tour => {
+      const destination = tour.destination || '';
       const image = tour.image1 || tour.mainPhoto || '';
       const alt = tour.imagealt || tour.tourName || 'Tour image';
       const days = tour.durationDays || '';
@@ -46,9 +47,20 @@ async function loadTours() {
       const title = tour.tourName || '';
       const places = tour.placesVisited || '';
 
-      const detailUrl = tour.id
-        ? `template_tour_page.html?id=${encodeURIComponent(tour.id)}&country=${encodeURIComponent(country)}`
-        : '#';
+      const dest1 = document.getElementById('tour-tab');
+      dest1.innerHTML = `${destination} Genel Bakış`;
+
+      const dest2 = document.getElementById('overview-tab');
+      dest2.innerHTML = `${destination} Turları`;
+
+      const dest3 = document.getElementById('theHeaderOne');
+      dest3.innerHTML = `${destination}`;
+
+      const dest4 = document.getElementById('theHeaderTwo');
+      dest4.innerHTML = `${destination}`;
+
+      const detailUrl = generateDetailUrl(tour.id);
+
 
       const cardHtml = `
         <div class="tour-card col-lg-4 col-md-4 mb-3">
