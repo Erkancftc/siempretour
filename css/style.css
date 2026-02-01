@@ -107,7 +107,7 @@ h6 {
   font-size: 16px;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 770px) {
   h1 {
     font-size: 48px;
   }
@@ -902,7 +902,7 @@ section {
   right: inherit;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 770px) {
   .section-title {
     width: 100% !important;
   }
@@ -980,7 +980,7 @@ iframe {
   background: #000000;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 770px) {
   .nav-tabs {
     width: 100% !important;
   }
@@ -7853,6 +7853,10 @@ ul.sidebar-tags li a:hover {
   height: 100%;
 }
 
+.cascading-carousel__dots {
+  display: none;
+}
+
 .cascading-carousel__item {
   position: absolute;
   top: 0;
@@ -7882,6 +7886,7 @@ ul.sidebar-tags li a:hover {
   height: 100%;
   object-fit: cover;
   display: block;
+  border: 1px solid rgba(0, 0, 0, 0.15);
 }
 
 .cascading-carousel__item .overlay-text {
@@ -7901,19 +7906,19 @@ ul.sidebar-tags li a:hover {
 }
 
 .cascading-carousel__item.is-active .color-overlay {
-  opacity: 0.35;
+  opacity: 0.8;
 }
 
 @media (max-width: 991px) {
   .cascading-carousel {
-    padding: 16px 0;
+    padding: 20px 0 8px;
   }
 
   .cascading-carousel__viewport {
      position: relative;
   width: 100%;
   /* mobilde daha kısa, desktop’ta daha uzun */
-  height: clamp(450px, 58vw, 440px);
+  height: clamp(360px, 86vw, 480px);
   overflow: visible;
   /* parmakla kaydırırken yatay swipe JS'te, dikey sayfa kaydırma kalsın */
   touch-action: pan-y;
@@ -7931,14 +7936,14 @@ ul.sidebar-tags li a:hover {
   top: 0;
   left: 50%;
   /* kart boyutu: mobilde ekranın büyük kısmını kaplasın */
-  width: clamp(220px, 78vw, 360px);
+  width: clamp(240px, 78vw, 340px);
   height: 100%;
   transform: translateX(-50%);
   transition: transform .35s ease, opacity .35s ease;
   will-change: transform, opacity;
   /* üst üste binen kartların tıklanmasını kolaylaştırır */
   pointer-events: auto;
-  padding: 32px;
+  padding: 0;
   }
   .cascading-carousel__item img{
   width: 100%;
@@ -7949,6 +7954,37 @@ ul.sidebar-tags li a:hover {
 .cascading-carousel__item.is-side{
   opacity: .85;
 }
+
+  .cascading-carousel__item.is-active .color-overlay {
+    opacity: 0.35;
+  }
+
+  .cascading-carousel__item .trend-item1-carousel,
+  .cascading-carousel__item .trend-image {
+    border-radius: 0;
+    overflow: hidden;
+  }
+
+  .cascading-carousel__dots {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 14px;
+  }
+
+  .cascading-carousel__dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 999px;
+    border: 0;
+    padding: 0;
+    background: #bdbdbd;
+    cursor: pointer;
+  }
+
+  .cascading-carousel__dot.is-active {
+    background: #222;
+  }
 
 
 }
