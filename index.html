@@ -38,6 +38,7 @@
 
   <!-- header starts -->
   <!--Tolga burada-->
+  
 
   <header class="main_header_area position-absolute">
     <div class="header_menu" id="header_menu">
@@ -532,6 +533,14 @@
                 </li>
                 <li class="trip-button"><!-- /css için bu şekilde bıraktım -->
                   <a href="login.html" class="trip-button">Giriş / Kayıt</a>
+                </li>
+                <li class="nav-lang ms-4">
+                  <div class="lang-switch" aria-label="Dil seçimi">
+                    <span class="lang-icon" aria-hidden="true">
+                      <i class="fa-solid fa-globe"></i>
+                    </span>
+                    <div id="google_translate_element"></div>
+                  </div>
                 </li>
               </ul>
             </div>
@@ -3148,6 +3157,21 @@
   <script src="js/dream-carousel.js"></script>
   <script src="js/cascading-carousel.js"></script>
   <script src="js/link_generator.js"></script>
+  <script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement(
+    {
+      pageLanguage: 'tr',
+      includedLanguages: 'en,fr,de,es,it,ru,ar',
+        autoDisplay: false
+    },
+    'google_translate_element'
+  );
+}
+</script>
+
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
 
 </body>
 

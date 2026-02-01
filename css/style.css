@@ -9249,3 +9249,137 @@ td.rain-cell {
     display: block;
   }
 }
+/* --- Google Translate: gereksiz görselleri temizle --- */
+.goog-logo-link,
+.goog-te-gadget span,
+.goog-te-gadget img {
+  display: none !important;
+}
+
+.goog-te-gadget {
+  font-size: 0; /* gadget içindeki gereksiz metin boşluğunu öldürür */
+}
+
+/* Google bazen body'e padding ekler, sayfa zıplamasın */
+body { top: 0 !important; }
+.goog-te-banner-frame { display: none !important; }
+
+/* --- UI: Dil seçici wrapper --- */
+.nav-lang { display: flex; align-items: center; }
+
+.lang-switch{
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 12px;
+  border: 1px solid rgba(0,0,0,.12);
+  background: rgba(255,255,255,.75);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  transition: transform .15s ease, border-color .15s ease, background .15s ease;
+}
+
+.lang-switch:hover{
+  border-color: rgba(0,0,0,.22);
+  background: #333 !important;
+}
+
+.lang-icon{
+  width: 24px;
+  height: 24px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0,0,0,.06);
+  color: #222;
+  font-size: 14px;
+}
+
+/* Asıl select: Google'ın ürettiği select.goog-te-combo */
+#google_translate_element select.goog-te-combo{
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+
+  font-size: 14px;
+  line-height: 1;
+  padding: 8px 34px 8px 12px;
+  border: none;
+  outline: none;
+  background: transparent;
+  color: #222;
+  cursor: pointer;
+}
+
+/* “Caret” oku: wrapper üzerine sahte ok çiziyoruz */
+.lang-switch{
+  position: relative;
+}
+.lang-switch::after{
+  content: "";
+  position: absolute;
+  right: 14px;
+  width: 10px;
+  height: 10px;
+  border-right: 2px solid rgba(0,0,0,.5);
+  border-bottom: 2px solid rgba(0,0,0,.5);
+  transform: rotate(45deg);
+  pointer-events: none;
+}
+
+/* Klavye ile erişilebilir focus */
+.lang-switch:focus-within{
+  border-color: rgba(0,0,0,.35);
+  box-shadow: 0 0 0 4px rgba(0,0,0,.08);
+}
+
+/* Koyu header arkaplanında (gerekirse) kontrast için */
+.main_header_area.position-absolute .lang-switch{
+  border-color: rgba(255,255,255,.18);
+  background: #000;
+}
+.main_header_area.position-absolute .lang-icon{
+  background: rgba(255,255,255,.14);
+  color: #fff;
+}
+.main_header_area.position-absolute #google_translate_element select.goog-te-combo{
+  color: #fff;
+}
+.main_header_area.position-absolute .lang-switch::after{
+  border-right-color: rgba(255,255,255,.65);
+  border-bottom-color: rgba(255,255,255,.65);
+}
+/* Header’daki iki “pill” aynı boyda */
+.header_login_btn a,
+.lang-switch{
+  height: 36px;            /* ikisini eşitle */
+  display: inline-flex;
+  align-items: center;
+}
+
+/* Login butonunun iç padding’i */
+.header_login_btn a{
+  padding: 0 16px;
+}
+
+/* Dil seçicinin padding’i */
+.lang-switch{
+  padding: 0 12px;
+}
+/* Google Translate alt yazı/attribution satırını gizle */
+#google_translate_element .goog-te-gadget{
+  font-size: 0 !important; /* içerdeki düz metin de kaybolur */
+}
+
+/* Sadece select’i tekrar görünür yap */
+#google_translate_element select.goog-te-combo{
+  font-size: 14px !important;
+}
+
+/* Bazı layout’larda alt satır bu sınıfta olur */
+#google_translate_element .goog-te-gadget-simple{
+  font-size: 0 !important;
+}
+#google_translate_element .goog-te-gadget-simple select{
+  font-size: 14px !important;
+}
