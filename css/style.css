@@ -3659,7 +3659,7 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
 /* Fade the color overlay in with the text */
 
 /* On touch devices (no hover) show overlays by default */
-@media (hover: none) {
+@media (max-width:1200px) {
   .trend-image .overlay-text {
     position: absolute;
     inset: 0;
