@@ -43,9 +43,11 @@ document.addEventListener("DOMContentLoaded", () => {
         const opacity = mobile ? Math.max(0.55, 1 - absOffset * 0.12) : 1;
 
         if (mobile) {
-          const stackOffset = 30;
+          const tightStack = window.matchMedia("(max-width: 550px)").matches;
+          const stackOffset = tightStack ? 20 : 30;
+          const centerShift = tightStack ? 12 : 0;
           item.style.left = "50%";
-          item.style.transform = `translateX(-50%) translateX(${offset * stackOffset}px) scale(${scale})`;
+          item.style.transform = `translateX(-50%) translateX(${centerShift + offset * stackOffset}px) scale(${scale})`;
         } else {
           const left = base + index * step;
           item.style.left = `${left}%`;

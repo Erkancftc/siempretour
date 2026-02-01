@@ -7853,6 +7853,24 @@ ul.sidebar-tags li a:hover {
   height: 100%;
 }
 
+@media (max-width: 550px) {
+  .cascading-carousel {
+    padding: 16px 0 6px;
+  }
+
+  .cascading-carousel__viewport {
+    height: clamp(300px, 92vw, 420px);
+  }
+
+  .cascading-carousel__track {
+    overflow: visible;
+  }
+
+  .cascading-carousel__item {
+    width: clamp(190px, 70vw, 280px);
+  }
+}
+
 .cascading-carousel__dots {
   display: none;
 }
