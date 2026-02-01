@@ -7795,6 +7795,9 @@ ul.sidebar-tags li a:hover {
     max-width: 360px;
     scroll-snap-align: start;
   }
+  .steps-to-picker >button{
+ box-shadow: 4px 4px 11px 0px #0707070a;
+  }
 }
 /* Ensure trend-item doesn't overflow */
 .trend-item1-carousel {
