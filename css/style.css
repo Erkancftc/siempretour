@@ -9383,3 +9383,21 @@ body { top: 0 !important; }
 #google_translate_element .goog-te-gadget-simple select{
   font-size: 14px !important;
 }
+/* Üstteki Google çeviri banner'ını tamamen gizle */
+iframe.goog-te-banner-frame,
+.goog-te-banner-frame {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+}
+
+/* Google'ın sayfayı aşağı itmesini engelle */
+html, body {
+  top: 0 !important;
+  position: static !important;
+}
+
+/* Bazen ekstra boşluk / gölge bırakır */
+.goog-te-banner-frame.skiptranslate {
+  display: none !important;
+}
