@@ -3666,10 +3666,10 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
     display: flex;
     align-items: flex-end;
     justify-content: space-between;
-    opacity: 0;
-    visibility: hidden;
+    opacity: 1;
+    visibility: visible;
     pointer-events: none;
-    z-index: 2; /* metin ÜSTTE */
+    z-index: 3; /* metin ÜSTTE */
     transition:
       opacity 0.3s ease,
       visibility 0.3s;
@@ -3677,8 +3677,8 @@ nav.navbar.navbar-default.navbar-sticky-in .logo-black {
   .trend-image .color-overlay {
     position: absolute;
     inset: 0;
-    background: #000;
-    opacity: 0;
+    background: #00000099 ;
+    opacity: 1;
     z-index: 1; /* metnin ALTINDA */
     pointer-events: none; /* hover yakalamasın */
     transition: opacity 0.25s ease;
@@ -7774,7 +7774,28 @@ ul.sidebar-tags li a:hover {
   flex: 0 0 calc(16.666% - 8px); /* Adjust for gap */
   min-width: 150px;
 }
-
+@media(max-width:991.98px){
+  .month-selector{   
+  display: flex;
+    flex-wrap: nowrap !important;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    justify-content: flex-start !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 12px;
+    padding-right: 12px;
+    gap: 12px;
+  }
+  .month-selector > [class*="col-"]{
+    flex: 0 0 auto;
+    width: 78vw;
+    max-width: 360px;
+    scroll-snap-align: start;
+  }
+}
 /* Ensure trend-item doesn't overflow */
 .trend-item1-carousel {
   height: auto;
