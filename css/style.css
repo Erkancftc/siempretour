@@ -7797,6 +7797,7 @@ ul.sidebar-tags li a:hover {
   }
   .steps-to-picker >button{
  box-shadow: 4px 4px 11px 0px #0707070a;
+    padding: 8px;
   }
 }
 /* Ensure trend-item doesn't overflow */
