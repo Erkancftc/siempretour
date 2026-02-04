@@ -39,7 +39,7 @@ async function renderOverview() {
 
     const MainParagraph = document.getElementById("MainParagraphOverview");
     const MainTitle = document.getElementById("MainTitleOverview");
-
+    
     MainParagraph.innerHTML = overview.Main_Paragraph;
     MainTitle.innerHTML = overview.Main_Title;
 
