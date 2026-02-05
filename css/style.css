@@ -1125,6 +1125,10 @@ iframe {
 .breadcrumb-container{
   display: flex;
 }
+.breadcrumb-container .breadcrumb >li> a:hover{
+ color: #000000 !important;
+};
+
 
 @media (max-width: 991px) {
   .breadcrumb-main .breadcrumb-outer .breadcrumb-content {

@@ -33,7 +33,7 @@ function renderDayInfo(dayInfo) {
 }
 
 function renderTour(tour) {
-  document.getElementById('currentDestination').textContent = tour.destination || "";
+  // document.getElementById('currentDestination').textContent = tour.destination || "";
   document.getElementById('tourTitle').textContent = tour.tourName || "";
   document.getElementById('tourTitle2').textContent = tour.tourName || "";
 
