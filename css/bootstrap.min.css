@@ -6295,6 +6295,9 @@ fieldset:disabled .btn {
 .place-items-end{
   place-items: end !important;
 }
+.place-items-center{
+  place-items: center !important;
+}
 .justify-items-center{
   justify-items: center !important;
 }
