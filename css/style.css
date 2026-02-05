@@ -8971,7 +8971,6 @@ ul.sidebar-tags li a:hover {
   display: block;
   opacity: 1;
   transform: translateY(0);
-  padding: 4rem 0;
 }
 
 body.mega-lock {
@@ -8980,7 +8979,7 @@ body.mega-lock {
 
 .mega-wrap {
   max-width: 1200px;
-  margin: 5vh auto;
+  margin: 2vh auto;
   height: 100%;
   display: grid;
   grid-template-rows: auto 1fr;
