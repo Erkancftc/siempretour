@@ -8963,6 +8963,7 @@ ul.sidebar-tags li a:hover {
   display: block;
   opacity: 1;
   transform: translateY(0);
+  padding: 4rem 0;
 }
 
 body.mega-lock {
