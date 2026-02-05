@@ -3739,7 +3739,7 @@ Slicknav - a Mobile Menu
     margin: 0;
 }
 @media(max-width:1199px){
-    #slicknav-mobile > div > ul > li:nth-child(2){
+    #slicknav-mobile > div > ul > li:nth-child(3){
         display: none !important;
     }
 }
