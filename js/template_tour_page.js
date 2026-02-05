@@ -37,10 +37,10 @@ function renderTour(tour) {
   document.getElementById('tourTitle').textContent = tour.tourName || "";
   document.getElementById('tourTitle2').textContent = tour.tourName || "";
 
-  if (tour.mainPhoto) {
-    document.getElementById('mainPhoto').style =
-      `background-image:url(${tour.mainPhoto});`;
-  }
+  // if (tour.mainPhoto) {
+  //   document.getElementById('mainPhoto').style =
+  //     `background-image:url(${tour.mainPhoto});`;
+  // }
 
   document.getElementById('placesVisited').textContent = tour.placesVisited || "";
   document.getElementById('generalInfo').innerHTML = tour.generalInfo || "";

@@ -1122,6 +1122,10 @@ iframe {
   color: #fff;
 }
 
+.breadcrumb-container{
+  display: flex;
+}
+
 @media (max-width: 991px) {
   .breadcrumb-main .breadcrumb-outer .breadcrumb-content {
     display: block !important;
