@@ -581,201 +581,190 @@
 
 /* Mega-Menu JS*/ 
 
-(function () {
-  const trigger = document.getElementById('megaTrigger');
-  const panel   = document.getElementById('megaFull');
-  const closeBt = panel.querySelector('.mega-close');
-  const body    = document.body;
+;(function () {
+  const trigger = document.getElementById("megaTrigger")
+  const panel = document.getElementById("megaFull")
+  const closeBt = panel.querySelector(".mega-close")
+  const body = document.body
 
-  // --- Kaydırma kilidi (sadece JS) ---
-  let _scrollY = 0;
+  // =========================
+  // MEGA: EN ÜST + KAPALIYKEN ÖRTMESİN
+  // =========================
+//   const MEGA_TOP_Z = -1
+  // Panelin "doğru" arka planını bir kere yakalayıp saklayacağız
+  let _megaBgFallback = ""
 
-  const preventScroll = (e) => {
-    // wheel / touchmove default'larını engelle
-    e.preventDefault();
-  };
-
-  const preventScrollKeys = (e) => {
-    // Klavye ile kaydırmayı engelle
-    const k = e.key;
-    if (k === ' ' || k === 'Spacebar' || // eski tarayıcı desteği
-        k === 'PageUp' || k === 'PageDown' ||
-        k === 'Home' || k === 'End' ||
-        k === 'ArrowUp' || k === 'ArrowDown' ||
-        k === 'ArrowLeft' || k === 'ArrowRight') {
-      e.preventDefault();
+  function captureMegaBgFallback() {
+    if (!_megaBgFallback) {
+      const bg = getComputedStyle(panel).backgroundColor
+      // transparent değilse sakla
+      if (bg && bg !== "transparent" && !bg.includes("rgba(0, 0, 0, 0)")) {
+        _megaBgFallback = bg
+      }
     }
-  };
+  }
+
+  function ensureMegaBg() {
+    const bg = getComputedStyle(panel).backgroundColor
+    const isTransparent = !bg || bg === "transparent" || bg.includes("rgba(0, 0, 0, 0)")
+    if (isTransparent && _megaBgFallback) {
+      panel.style.setProperty("background-color", _megaBgFallback, "important")
+    }
+  }
+
+  function megaClosedState() {
+    // Kapalıyken panel asla sayfanın üstünde “cam” gibi durmasın
+    panel.style.setProperty("pointer-events", "none", "important")
+    panel.style.setProperty("z-index", "-1", "important")
+
+    // İstersen burada position/inset zorlaması yok. CSS’in normal akışı kalsın.
+    panel.style.removeProperty("position")
+    panel.style.removeProperty("inset")
+    panel.style.removeProperty("overscroll-behavior")
+    panel.style.removeProperty("touch-action")
+    // background-color’ı da CSS’ine bırakıyoruz; sadece gerektiğinde ensureMegaBg basar
+    // panel.style.removeProperty('background-color');
+  }
+
+  function megaOpenState() {
+    // Açıkken fullscreen overlay ve en üstte
+    panel.style.setProperty("position", "fixed", "important")
+    panel.style.setProperty("inset", "0", "important")
+    panel.style.setProperty("z-index", "-1", "important")
+    panel.style.setProperty("pointer-events", "auto", "important")
+
+    panel.style.setProperty("overscroll-behavior", "none", "important")
+    panel.style.setProperty("touch-action", "none", "important")
+
+    captureMegaBgFallback()
+    ensureMegaBg()
+  }
+
+  // =========================
+  // KAYDIRMA KİLİDİ (TIKLAMAYI BOZMADAN)
+  // =========================
+  let _scrollY = 0
+
+  const preventScroll = e => {
+    e.preventDefault()
+    e.stopPropagation()
+    return false
+  }
+
+  const preventScrollKeys = e => {
+    const k = e.key
+    if (k === " " || k === "Spacebar" || k === "PageUp" || k === "PageDown" || k === "Home" || k === "End" || k === "ArrowUp" || k === "ArrowDown" || k === "ArrowLeft" || k === "ArrowRight") {
+      e.preventDefault()
+      e.stopPropagation()
+      return false
+    }
+  }
 
   function lockScroll() {
-    // 1) Anlık konumu sakla
-    _scrollY = window.scrollY || document.documentElement.scrollTop || 0;
+    _scrollY = window.scrollY || document.documentElement.scrollTop || 0
 
-    // 2) Scrollbar genişliği kadar sağ padding vererek layout kaymasını önle
-    const sbw = window.innerWidth - document.documentElement.clientWidth;
-    if (sbw > 0) body.style.paddingRight = sbw + 'px';
+    const sbw = window.innerWidth - document.documentElement.clientWidth
+    if (sbw > 0) body.style.paddingRight = sbw + "px"
 
-    // 3) Body'yi fixed'e alarak kaydırmayı fiziksel olarak durdur
-    body.style.position = 'fixed';
-    body.style.top = `-${_scrollY}px`;
-    body.style.left = '0';
-    body.style.right = '0';
-    body.style.width = '100%';
+    body.style.position = "fixed"
+    body.style.top = `-${_scrollY}px`
+    body.style.left = "0"
+    body.style.right = "0"
+    body.style.width = "100%"
 
-    // 4) Tüm kaydırma girişimlerini iptal et
-    window.addEventListener('wheel',     preventScroll, { passive: false });
-    window.addEventListener('touchmove', preventScroll, { passive: false });
-    window.addEventListener('keydown',   preventScrollKeys, { passive: false });
+    document.documentElement.style.overscrollBehavior = "none"
+    body.style.overscrollBehavior = "none"
 
-    // (isteğe bağlı) Orta tuş auto-scroll kapatma:
-    // window.addEventListener('mousedown', (e)=>{ if(e.button===1) e.preventDefault(); }, { passive:false });
+    // capture:true: başka handler’lardan önce kes
+    window.addEventListener("wheel", preventScroll, { passive: false, capture: true })
+    window.addEventListener("touchmove", preventScroll, { passive: false, capture: true })
+    window.addEventListener("keydown", preventScrollKeys, { passive: false, capture: true })
   }
 
   function unlockScroll() {
-    // Eventleri geri al
-    window.removeEventListener('wheel',     preventScroll, { passive: false });
-    window.removeEventListener('touchmove', preventScroll, { passive: false });
-    window.removeEventListener('keydown',   preventScrollKeys, { passive: false });
+    window.removeEventListener("wheel", preventScroll, { capture: true })
+    window.removeEventListener("touchmove", preventScroll, { capture: true })
+    window.removeEventListener("keydown", preventScrollKeys, { capture: true })
 
-    // Body stilini eski haline getir
-    body.style.position = '';
-    body.style.top = '';
-    body.style.left = '';
-    body.style.right = '';
-    body.style.width = '';
-    body.style.paddingRight = '';
+    document.documentElement.style.overscrollBehavior = ""
+    body.style.overscrollBehavior = ""
 
-    // Kaldığı yere geri sar
-    window.scrollTo(0, _scrollY);
+    body.style.position = ""
+    body.style.top = ""
+    body.style.left = ""
+    body.style.right = ""
+    body.style.width = ""
+    body.style.paddingRight = ""
+
+    window.scrollTo(0, _scrollY)
   }
 
   // --- Var olan fonksiyonlarına entegre et ---
-  function setNavHeight(){ /* sende zaten var, dokunmuyoruz */ }
+  function setNavHeight() {
+    /* sende zaten var */
+  }
 
   function openMega() {
-  setNavHeight();
-  panel.classList.add('is-open');
-  panel.setAttribute('aria-hidden', 'false');
-  body.classList.add('mega-lock');
-  lockScroll();
-}
+    setNavHeight()
 
+    megaOpenState()
+
+    panel.classList.add("is-open")
+    panel.setAttribute("aria-hidden", "false")
+    body.classList.add("mega-lock")
+
+    lockScroll()
+
+    // Bazı CSS’ler class sonrası background veriyor olabilir; garanti olsun:
+    ensureMegaBg()
+  }
 
   function closeMega() {
-  // önce odağı kaldır
-  if (document.activeElement && panel.contains(document.activeElement)) {
-    document.activeElement.blur();
-  }
-
-  // sonra aria ve class işlemleri
-  panel.classList.remove('is-open');
-  panel.setAttribute('aria-hidden', 'true');
-  body.classList.remove('mega-lock');
-  unlockScroll();
-}
-
-
-  function toggle(e){
-    e.preventDefault();
-    panel.classList.contains('is-open') ? closeMega() : openMega();
-  }
-
-  trigger.addEventListener('click', toggle);
-  closeBt.addEventListener('click', closeMega);
-  document.addEventListener('keydown', (e)=>{ if(e.key==='Escape' && panel.classList.contains('is-open')) closeMega(); });
-  panel.addEventListener('click', (e)=>{ if(e.target===panel) closeMega(); });
-
-  // sekmeler vs. kalan kodların aynı kalabilir…
-})();
-
-
-/*mega menu img change JS*/
-
-document.addEventListener('DOMContentLoaded', function () {
-  const mega = document.getElementById('megaFull');
-  if (!mega) return;
-
-  const catsNav = mega.querySelector('.mega-cats');
-  const catLinks = Array.from(catsNav.querySelectorAll('[data-mega-tab]'));
-  const lists = Array.from(mega.querySelectorAll('.mega-content .mega-list'));
-  const heroImg = mega.querySelector('#megaHero') || mega.querySelector('.mega-grid > img');
-
-  // HTML'de data-hero yoksa kullanılacak fallback eşlemesi
-  const HERO_MAP = {
-    eu: 'images/mega-menu-photo/europian.jpg',
-    af: 'images/mega-menu-photo/africansafari.jpg',
-    la: 'images/mega-menu-photo/latin-america.jpg',
-    sp: 'images/mega-menu-photo/guney-pasific.jpg',
-    as: 'images/mega-menu-photo/asia.jpg',         // Asya = Tokyo görselin
-    me: 'images/mega-menu-photo/midle-East.jpg',
-    an: 'images/mega-menu-photo/antartica.jpg',
-    afs:'images/mega-menu-photo/africansafari.jpg',
-    gt: 'images/mega-menu-photo/cruise.jpg'
-  };
-
-
-  function showTab(key) {
-    // Sol menü: aktif link sınıfı
-    catLinks.forEach(a => {
-      const isTarget = a.dataset.megaTab === key;
-      a.classList.toggle('is-active', isTarget);
-      a.setAttribute('aria-current', isTarget ? 'true' : 'false');
-    });
-
-    // Sağ listeler: sadece hedef UL görünür, diğerleri gizli
-    lists.forEach(ul => {
-      const match = ul.dataset.megaContent === key;
-      if (match) {
-        ul.hidden = false;
-        ul.setAttribute('aria-hidden', 'false');
-      } else {
-        ul.hidden = true;
-        ul.setAttribute('aria-hidden', 'true');
-      }
-    });
-
-    // Hero görsel: data-hero > HERO_MAP > mevcut src (fallback)
-    const activeLink = catLinks.find(a => a.dataset.megaTab === key);
-    if (heroImg && activeLink) {
-      const nextSrc = activeLink.dataset.hero || HERO_MAP[key] || heroImg.getAttribute('src');
-      if (nextSrc && heroImg.getAttribute('src') !== nextSrc) {
-        // Küçük bir geçiş efekti istersen:
-        heroImg.style.opacity = '0';
-        const altText = activeLink.textContent.trim();
-        const img = new Image();
-        img.onload = () => {
-          heroImg.src = nextSrc;
-          heroImg.alt = altText;
-          requestAnimationFrame(() => { heroImg.style.opacity = '1'; });
-        };
-        img.src = nextSrc;
-      } else {
-        heroImg.alt = activeLink.textContent.trim();
-      }
+    if (document.activeElement && panel.contains(document.activeElement)) {
+      document.activeElement.blur()
     }
+
+    panel.classList.remove("is-open")
+    panel.setAttribute("aria-hidden", "true")
+    body.classList.remove("mega-lock")
+
+    unlockScroll()
+
+    megaClosedState()
   }
 
-  // Tıklama ve klavye (Enter/Space) ile sekme değiştir
-  catsNav.addEventListener('click', function (e) {
-    const a = e.target.closest('[data-mega-tab]');
-    if (!a) return;
-    e.preventDefault();
-    showTab(a.dataset.megaTab);
-  });
+  function toggle(e) {
+    e.preventDefault()
+    panel.classList.contains("is-open") ? closeMega() : openMega()
+  }
 
-  catsNav.addEventListener('keydown', function (e) {
-    const a = e.target.closest('[data-mega-tab]');
-    if (!a) return;
-    if (e.key === 'Enter' || e.key === ' ') {
-      e.preventDefault();
-      showTab(a.dataset.megaTab);
-    }
-  });
+  trigger.addEventListener("click", toggle)
+  // Mobil gecikme vs için:
+  trigger.addEventListener("touchstart", toggle, { passive: false })
 
-  // Başlangıç durumu: .is-active varsa onu aç; yoksa ilkini
-  const initial = catLinks.find(a => a.classList.contains('is-active')) || catLinks[0];
-  if (initial) showTab(initial.dataset.megaTab);
-});
+  closeBt.addEventListener("click", closeMega)
+  closeBt.addEventListener(
+    "touchstart",
+    e => {
+      e.preventDefault()
+      closeMega()
+    },
+    { passive: false },
+  )
+
+  document.addEventListener("keydown", e => {
+    if (e.key === "Escape" && panel.classList.contains("is-open")) closeMega()
+  })
+
+  panel.addEventListener("click", e => {
+    if (e.target === panel) closeMega()
+  })
+
+  // Başlangıçta kapalı state’i zorla (navbar “cam panel” yüzünden ölmesin)
+  megaClosedState()
+  captureMegaBgFallback()
+})()
+
 
 // Hava durumu JS
 

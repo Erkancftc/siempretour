@@ -135,7 +135,7 @@ jQuery(document).ready(function () {
             jQuery('.sticky1').addClass('tab-sticky');
         }
         else if (curDirection === 1) {
-            header.classList.remove('hide');
+            header.classList.add('hide');
             jQuery('.sticky1').removeClass('tab-sticky');
         }
         else {
