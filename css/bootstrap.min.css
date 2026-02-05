@@ -6871,6 +6871,10 @@ fieldset:disabled .btn {
 .bg-gradient {
   background-image: var(--bs-gradient) !important;
 }
+.bg-grey{
+  background-color: #777 !important;
+
+}
 .user-select-all {
   -webkit-user-select: all !important;
   -moz-user-select: all !important;
