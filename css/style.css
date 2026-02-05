@@ -1868,7 +1868,9 @@ input#submit:hover {
   border-bottom: 0;
   padding: 0;
 }
-
+.navbar-collapse1{
+  flex: 1 0 auto;
+}
 .sidebar .navbar-nav {
   background: transparent;
   margin: 0;
@@ -9344,18 +9346,21 @@ body { top: 0 !important; }
 /* Koyu header arkaplanında (gerekirse) kontrast için */
 .main_header_area.position-absolute .lang-switch{
   border-color: rgba(255,255,255,.18);
-  background: #000;
+  background: transparent !important;
 }
 .main_header_area.position-absolute .lang-icon{
   background: rgba(255,255,255,.14);
-  color: #fff;
+  color: #000;
 }
 .main_header_area.position-absolute #google_translate_element select.goog-te-combo{
-  color: #fff;
+  color: #000000;
 }
 .main_header_area.position-absolute .lang-switch::after{
   border-right-color: rgba(255,255,255,.65);
   border-bottom-color: rgba(255,255,255,.65);
+}
+#google_translate_element{
+  background-color: transparent !important;
 }
 /* Header’daki iki “pill” aynı boyda */
 .header_login_btn a,
