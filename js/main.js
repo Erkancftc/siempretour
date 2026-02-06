@@ -83,37 +83,46 @@
          }
      });
 
-     // Slick SLider
-     $('.slider-store').slick({
-         slidesToShow: 1,
-         slidesToScroll: 1,
-         direction: 'vertical',
-         arrows: false,
-         dots: false,
-         fade: true,
-         autoplay: true,
-         asNavFor: '.slider-thumbs'
-     });
-    
+     // Slick SLider (only init when slides are already in DOM)
+     const $sliderStore = $('.slider-store');
+     const $sliderThumbs = $('.slider-thumbs');
+     const hasStoreSlides = $sliderStore.length && $sliderStore.children().length;
+     const hasThumbSlides = $sliderThumbs.length && $sliderThumbs.children().length;
 
-     $('.slider-thumbs').slick({
-         slidesToShow: 5,
-         slidesToScroll: 1,
-         asNavFor: '.slider-store',
-         dots: false,
-         arrows: false,
-         autoplay: true,
-         direction: 'vertical',
-         centerMode: true,
-         focusOnSelect: true,
-         responsive: [{
-             breakpoint: 800,
-             settings: {
-                 arrows:false,
-             }
-         }]
+     if (hasStoreSlides && hasThumbSlides) {
+         if (!$sliderStore.hasClass('slick-initialized')) {
+             $sliderStore.slick({
+                 slidesToShow: 1,
+                 slidesToScroll: 1,
+                 direction: 'vertical',
+                 arrows: false,
+                 dots: false,
+                 fade: true,
+                 autoplay: true,
+                 asNavFor: '.slider-thumbs'
+             });
+         }
 
-     });
+         if (!$sliderThumbs.hasClass('slick-initialized')) {
+             $sliderThumbs.slick({
+                 slidesToShow: 5,
+                 slidesToScroll: 1,
+                 asNavFor: '.slider-store',
+                 dots: false,
+                 arrows: false,
+                 autoplay: true,
+                 direction: 'vertical',
+                 centerMode: true,
+                 focusOnSelect: true,
+                 responsive: [{
+                     breakpoint: 800,
+                     settings: {
+                         arrows:false,
+                     }
+                 }]
+             });
+         }
+     }
 
 
      $('.review-slider').slick({
