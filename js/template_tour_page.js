@@ -54,10 +54,12 @@ function renderTour(tour) {
     ? `<iframe src="${tour.map}" width="600" height="450" style="border:0" loading="lazy"></iframe>`
     : "";
 
+  /* ✅ IMG FIX (innerHTML YOK) */
   const setImg = (id, url) => {
-    const el = document.getElementById(id);
-    if (!el) return;
-    el.innerHTML = url ? `<img src="${url}" alt="${tour.imagealt || ""}">` : "";
+    const img = document.getElementById(id);
+    if (!img) return;
+    img.src = url || "";
+    img.alt = tour.imagealt || "";
   };
 
   ["1","2","3","4","5","6"].forEach(n => {
@@ -66,10 +68,61 @@ function renderTour(tour) {
   });
 
   renderDayInfo(tour.dayInfo);
+
+  if (typeof requestAnimationFrame === "function") {
+    requestAnimationFrame(initTourSliders);
+  } else {
+    setTimeout(initTourSliders, 0);
+  }
 }
 
 function getQueryParam(name) {
   return new URLSearchParams(window.location.search).get(name);
+}
+
+function initTourSliders() {
+  if (!window.jQuery || !jQuery.fn || !jQuery.fn.slick) return;
+
+  const $store = jQuery('.slider-store');
+  const $thumbs = jQuery('.slider-thumbs');
+
+  if (!$store.length || !$thumbs.length) return;
+  if (!$store.children().length || !$thumbs.children().length) return;
+
+  if ($store.hasClass('slick-initialized')) $store.slick('unslick');
+  if ($thumbs.hasClass('slick-initialized')) $thumbs.slick('unslick');
+
+  $store.slick({
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    direction: 'vertical',
+    arrows: false,
+    dots: false,
+    fade: true,
+    autoplay: true,
+    asNavFor: '.slider-thumbs'
+  });
+
+  $thumbs.slick({
+    slidesToShow: 5,
+    slidesToScroll: 1,
+    asNavFor: '.slider-store',
+    dots: false,
+    arrows: false,
+    autoplay: true,
+    direction: 'vertical',
+    centerMode: true,
+    focusOnSelect: true,
+    responsive: [{
+      breakpoint: 800,
+      settings: {
+        arrows: false
+      }
+    }]
+  });
+
+  $store.slick('setPosition');
+  $thumbs.slick('setPosition');
 }
 
 /* 🔥 FINAL LOADER */
@@ -85,8 +138,6 @@ async function loadTourFromJson() {
   const dataRoot = "./data/big_siempre_tour_tours";
   const url = `${dataRoot}/${country}/tours.json`;
 
-  console.log("DETAIL FETCH:", url);
-
   try {
     const res = await fetch(url);
     if (!res.ok) {
@@ -99,7 +150,6 @@ async function loadTourFromJson() {
     }
 
     const tour = tours.find(t => String(t.id) === String(id));
-
     if (!tour) {
       console.error("Tur bulunamadı:", id);
       return;

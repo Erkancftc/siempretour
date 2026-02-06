@@ -130,7 +130,11 @@
 
         const datas = await fetchCountryDatas(countrySlug);
         const bestTime = datas.find(d => d.type === "best-time-to");
-        if (!bestTime) return;
+        if (!bestTime){
+            const btn = document.getElementById("guide-tab");
+            btn?.remove();
+            return;
+        };
 
         /* Main title */
         const titleEl = document.getElementById("list-item-2");
