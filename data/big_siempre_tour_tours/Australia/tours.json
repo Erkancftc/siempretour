@@ -37,7 +37,8 @@
         "description": "Day 3: Today, after breakfast, you begin your search for two more incredibly rare species; you will be heading to the north coast of KI and a walk the Lathami National Park, where you are likely to once again see the island’s very own subspecies of Kangaroo (the Sooty Kangaroo); however, your search is really on for the namesake of this small park - the Glossy Black Cockatoo, of which only about 250 remain, and are now only found on KI. Thanks to an ongoing initiative to save this stunning bird from extinction numbers are growing and its future is positive. Other regular encounters in this park are with the Tammar Wallaby which has all but disappeared from the mainland. A quiet walk through the bush will bring you within easy photo-distance of this endearing marsupial, as it peers at your through the sun-dappled leaves. Continue on to Stokes Bay and take a beach walk where careful observers are often rewarded with views of the endangered Hooded Plover which nests annually from October through December on Island beaches. Your morning work done, it’s time for lunch. Your guide will once again surprise you with yet another secret location probably accessed via a mob of Sooty Kangaroos, for yet another gourmet feast al fresco – this time it might be a delicious seafood BBQ featuring local fish King George Whiting, expertly whipped up by your multi-talented guide while you sip on more local beverages all the while being entertained by yarns and fables handed down through generations of islanders. Lunch complete, your guide will take you to explore waterbird habitat around the shoreline of Bay of Shoals and Pelican Lagoon before checking the bird haunts around American River, where the Glossy Black Cockatoos can also occasionally be sighted. You might choose to end your Kangaroo Island experience with a final wine-tasting or perhaps a G&T at a boutique distillery before being transferred back to Kingscote Airport to board your REX aircraft for the short flight back to the mainland. Indulge your senses with additional private day tours If you have time to add on one more day, why not enjoy a wild swim with dolphins; or enjoy Exceptional Kangaroo Island’s private ‘Art of Nature’ tour, an intimate and behind the scenes visit to some of Kangaroo Island’s most accomplished artists who have been inspired by the coastal beauty and wilderness landscapes of the island they call home. Alternatively food and wine lovers can spend a day indulging their passion with a private ‘paddock to plate’ safari to meet the artisanal makers of cheese, olive oil, honey, spices, gin, liqueurs and wine – and much more."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Australia",
@@ -77,7 +78,8 @@
         "description": "Our first stop after breakfast is within the Otway National Park at Maits Rest. This is a 1km walk through a cool temperate rainforest gully discovering trees and ferns that date back millions of years to times when dinosaurs roamed this part of the world. We then turn towards Melbourne and travel along a very scenic section of the Great Ocean Road en route to Kennett River for a fantastic viewing of wild Koalas in their native setting. We also visit many scenic spots for photos and tell numerous stories behind the making of the road. We stop for lunch at the largest of the seaside villages, Lorne. This popular tourist town is full of restaurants and cafes and boasts great shopping and swimming beaches. After lunch we drive along the surf coast and take in the surf culture of the region with a visit to Torquay and Bells Beach. We also visit Anglesea Golf Club where we will hopefully see Kangaroos in their natural environment. Our journey then takes us through the historic gateway to the Great Ocean Road, Geelong. We have some afternoon tea along the redesigned waterfront before turning to Melbourne. Our journey into Melbourne takes us from the west over the ‘West Gate Bridge’, famous for its grandeur and checkered history. We will then escort you to your hotel and welcome you to Melbourne."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -117,7 +119,8 @@
         "description": "The third day sees us leave our tranquil overnight setting to have breakfast at the Bay Leaf café in Apollo Bay. Our first stop is within the Otway National Park at Maits Rest. This is a 1km walk through a cool temperate rainforest gully discovering trees and ferns that date back millions of years to times when dinosaurs roamed this part of the world. We then turn towards Melbourne and travel along a very scenic section of the Great Ocean Road en route to Kennett River for a fantastic viewing of wild Koalas in their native setting. We also visit many scenic spots for photos and tell numerous stories behind the making of the road. We stop for lunch at the largest of the seaside villages, Lorne. This popular tourist town is full of restaurants and cafes and boasts great shopping and swimming beaches. After lunch we drive along the surf coast and take in the surf culture of the region with a visit to Torquay and Bells Beach. We also visit Anglesea Golf Club where we will hopefully see Kangaroos in their natural environment. Our journey then takes us through the historic gateway to the Great Ocean Road, Geelong. We have some afternoon tea along the redesigned waterfront before turning to Melbourne. Our journey into Melbourne takes us from the west over the ‘West Gate Bridge’, famous for its grandeur and checkered history. We will then escort you to your hotel and welcome you to Melbourne."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -197,7 +200,8 @@
         "description": "Cairns Warmly welcoming you to the natural wonders of the Great Barrier Reef, Cairns is a treasure trove of rich tropical beauty and incredible sea life. Swathes of rainforest spread out to the north, where you can soar over the canopy in a cable car, before looking down over narrow channels of water plummeting down gorges and crocodile-filled waterways. The diverse lands of the Atherton Tableland lie to the west, but it's the crystal-clear waters - and life-filled reefs - of Cairns' remarkable underwater world that draws universal adulation. Priding itself as the Gateway to the Great Barrier Reef, explore Cairns' constellation of colour, as you dive into the world's largest and most spectacular underwater universe. Cairns is huddled in amongst abundant swathes of rainforests, which give way to glorious crescents of golden beach. Kuranda - with its scenic railway and heritage market stalls - waits to be discovered, cloaked within the depths of the rainforest. Learn of the indigenous people of North Queensland during cultural performances, and hear the throaty reverberations of digeridoos, as you hear eternal stories handed down through time, from generation to generation. Back in Cairns, there's always time for a coffee or a beer, or a feast on fresh oysters with glasses of Cairns' white wines – boldly flavoured with mango and banana notes."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Australia",
@@ -322,7 +326,8 @@
         "description": "Check Out & Onward Travel - Your epic Aussie adventure ends in Cairns on the morning of day 20, but we are here to help with onward travel in Oz for the rest of your time in Australia."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Australia",
@@ -487,7 +492,8 @@
         "description": "Check Out & Onward Travel - Your epic Aussie adventure ends in Cairns on the morning of day 28, but we are here to help with onward travel in Oz for the rest of your time in Australia."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Australia",
@@ -622,7 +628,8 @@
         "description": "Make your way back to Sydney in time for your international flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -767,7 +774,8 @@
         "description": "Arrive home today to complete your journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Australia",
@@ -872,7 +880,8 @@
         "description": "Krowathunkoolong / Melbourne / Home - Wildlife Watching & Travelling This morning we depart East Gippsland after one last visit to the beach at the Mouth of the Snowy River. On the way back to Melbourne we visit the Krowathunkoolong Keeping Place, an informative Aboriginal Cultural Centre in Bairnsdale. We also search for Grey-headed Flying-foxes in their daytime roosts beside the river at Bairnsdale (a large colony set up there in 2013, and at the time of writing provide great viewing opportunities. They may move on at any time though). We can either drop you off at the airport to catch your return flight home this evening or you can book a hotel for tonight and we can drop you at the hotel instead. (all meals included today)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Australia",
@@ -947,7 +956,8 @@
         "description": "Home - Today you will be taken to your accommodation in time to catch your return flight home. (Breakfast only)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Australia",
@@ -1022,7 +1032,8 @@
         "description": "Head up Tasmania's stunning east coast, lined with olive groves and wineries with blinding views over to Maria Island - a 'must-do' day trip, self guided by foot or bike or a wonderful little cruise (also home to a magical 3 night walk for those with a little extra time to spend and the urge to dust off their walking boots). Stay tucked away from the crowds in an eco B&B where superb cooking and lovely views across the bay await, or a former convict built barracks, now a lovely boutique B&B. Take a day trip to Freycinet Peninsula and Wineglass Bay if you must but leave the tourists behind and head for a longer walk around the Hazards. Take to the water with a small, privately guided cruise to the Maria Island National Park that will show you this remarkable landscape of Tasmania's east coast including 250 million year old cliffs and caves, along with sea eagles, fur seals, albatross and dolphin."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -1087,7 +1098,8 @@
         "description": "Departure - This concludes your hosted Tasmanian adventure with hotel check-out by 11am. We are sure you will take home lots of amazing memories & experiences."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -1152,7 +1164,8 @@
         "description": "This morning you are collected by Stormbreaker yacht and cruise down the length of the river before reaching paralungatik/Macquarie Harbour. Take the chance to kick back on the deck and enjoy the views over the broad expanse of the Gordon River. In Strahan we are met by our bus, which will transfer us back to Launceston (driving time is approximately 4.5 hours). Arrival in Launceston may vary from late afternoon to late evening though usually around 5pm. Our two drop-off points in Launceston are the Grand Chancellor and the Penny Royal. We usually celebrate with a group farewell dinner this evening (own expense)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Australia",
@@ -1187,7 +1200,8 @@
         "description": "After breakfast, our journey starts with us travelling through the Otway ranges and onto the ‘Shipwreck Coast’. Our first stop is at Castle Cove overlooking the Aire river valley. Your guide will introduce you to the strong Aboriginal heritage of the region with many tribes living prosperously around the coastline for thousands of years. In the same area millions of years ago when Australia was part of the great southern land, Gondwana, dinosaurs were roaming the land. A unique find along the coast in 1987 uncovered important clues into the world’s pre-historic past. The 12 Apostles are Icons of Australia’s natural beauty. We arrive as the stacks are lit with the morning sun making them perfect for photos and almost crowd free. This is a bonus for taking a 2 day trip as the stacks are silhouettes in the afternoon and overcrowded. After hearing of the creation of the stacks and holding some of the limestone rock you can explore the boardwalks or brave a helicopter flight along the coastline (own expense). We then visit ‘Loch Ard Gorge’, the site of the most famous 19th century Australian shipwreck. We retell the entire story from the calm voyage, the tragic wreck, the courageous survivors and their ultimate fate. While hearing the tale you will be able to see and hold some original artefacts, photos and documents from the ‘Loch Ard’ contained in our treasure chests. Port Campbell is our lunch stop for today. The small fishing village of just 350 is set in a beautiful natural port and has some wonderful cafes and restaurants for food and views. After lunch we travel to a lesser known but highly impressive area of the Great Ocean Road west of Port Campbell. This section takes in London Bridge, Bay of Islands, Bay of Martyrs, and Boat Bay before our journey turns inland and travels through open farmland towards Melbourne arriving there around 6pm."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Australia",
@@ -1227,7 +1241,8 @@
         "description": "Our third day starts at the Southern end of Gariwerd, the Aboriginal name for the Grampians. After enjoying breakfast at the hotel we start an incredibly scenic drive North between the Serra and Mt William Ranges towards Hall’s Gap while the sun is streaming in from the east lighting up the rocky cliff faces of the ranges. The creation of these ranges dates back around 420 million years ago and has at one stage had the Southern Ocean lapping up against it. These sandstone mountain ranges are sedimentary deposits that have since faulted and lifted. This upheaval now allows us to discover an incredibly rare and stunning landscape. An hour into our journey we arrive in Halls Gap in the heart of the Grampians NP. This township’s Parks Victoria information centre and ‘Brambuk’ Aboriginal cultural centre help us learn about the region, including a couple of short videos in the dreaming theatre that reveals both the the natural history and the Aboriginal creation story. Our day includes a few short walks at Baroka Lookout, Reid’s Lookout and McKenzie Falls as well as the rock art site ‘Bunjil’s Shelter’. Our journey back to Melbourne takes us by the gold mining township of Ballarat, once one of the richest towns in the world and the reason for Melbourne’s early prosperity. The end of our 3-day tour concludes back in Melbourne around 6pm."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -1357,7 +1372,8 @@
         "description": "Make the easy 90 minute drive to Hobart Airport for your departure flight and say farewell to Tassie."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -1432,7 +1448,8 @@
         "description": "Take your time today heading back to the city of Darwin, where you will stay for one further night, before continuing your onward travels."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -1472,7 +1489,8 @@
         "description": "Our third day starts with a visit to the Naracoorte Caves National Park for a cave tour with a local guide. These limestone caves have an abundance of Stalagmites and Stalactites and are World Heritage Listed Area due to the fossils of the ‘Mega Fauna’ found buried in the Caves. We then continue our journey through another prominent South Australian wine region of Padthaway as we head north through to Keith. We stop here for lunch before joining the highway, travelling through grain and stock land towards Adelaide. This is a vast drought affected area of Australia and is an incredible contrast to the lush forests and coastal pastures we have been travelling in. On our approach to city we visit the very popular tourist village of Hahndorf and Mount Lofty summit for impressive, birds-eye views of Adelaide and surrounds. We arrive in the city at around 6pm."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -1512,7 +1530,8 @@
         "description": "Our third day starts with a visit to the Naracoorte Caves National Park for a cave tour with a local guide. These limestone caves have an abundance of Stalagmites and Stalactites and are World Heritage Listed Area due to the fossils of the ‘Mega Fauna’ found buried in the Caves. We then continue our journey through another prominent South Australian wine region of Padthaway as we head north through to Keith. We stop here for lunch before joining the highway, travelling through grain and stock land towards Adelaide. This is a vast drought affected area of Australia and is an incredible contrast to the lush forests and coastal pastures we have been travelling in. On our approach to city we visit the very popular tourist village of Hahndorf and Mount Lofty summit for impressive, birds-eye views of Adelaide and surrounds. We arrive in the city at around 6pm."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -1552,7 +1571,8 @@
         "description": "Our third day starts at the Southern end of Gariwerd, the Aboriginal name for the Grampians. After enjoying breakfast at the hotel we start an incredibly scenic drive North between the Serra and Mt William Ranges towards Hall’s Gap while the sun is streaming in from the east lighting up the rocky cliff faces of the ranges. The creation of these ranges dates back around 420 million years ago and has at one stage had the Southern Ocean lapping up against it. These sandstone mountain ranges are sedimentary deposits that have since faulted and lifted. This upheaval now allows us to discover an incredibly rare and stunning landscape. An hour into our journey we arrive in Halls Gap in the heart of the Grampians NP. This township’s Parks Victoria information centre and ‘Brambuk’ Aboriginal cultural centre help us learn about the region, including a couple of short videos in the dreaming theatre that reveals both the the natural history and the Aboriginal creation story. Our day includes a few short walks at Baroka Lookout, Reid’s Lookout and McKenzie Falls as well as the rock art site ‘Bunjil’s Shelter’. Our journey back to Melbourne takes us by the gold mining township of Ballarat, once one of the richest towns in the world and the reason for Melbourne’s early prosperity. The end of our 3-day tour concludes back in Melbourne around 6pm."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -1587,7 +1607,8 @@
         "description": "Our second day starts with breakfast at the ‘locals favourite’ Bay Leaf Cafe. Great coffee, tea and vast breakfast menu make this a perfect way to start another full day. Our journey starts with us travelling through the Otway ranges and onto the ‘Shipwreck Coast’. Our first stop is at Castle Cove overlooking the Aire river valley. Your guide will introduce you to the strong Aboriginal heritage of the region with many tribes living prosperously around the coastline for thousands of years. In the same area millions of years ago when Australia was part of the great southern land, Gondwana, dinosaurs were roaming the land. A unique find along the coast in 1987 uncovered important clues into the world’s pre-historic past. The 12 Apostles are Icons of Australia’s natural beauty. We arrive as the stacks are lit with the morning sun making them perfect for photos and crowd free. This is a bonus for taking a 2 day trip as the stacks are silhouettes in the afternoon and overcrowded. After hearing of the creation of the stacks and holding some of the limestone rock you can explore the boardwalks or brave a helicopter flight along the coastline (own expense). We then visit ‘Loch Ard Gorge’, the site of the most famous 19th century Australian shipwreck. We retell the entire story from the calm voyage, the tragic wreck, the courageous survivors and their ultimate fate. While hearing the tale you will be able to see and hold some original artefacts, photos and documents from the ‘Loch Ard’ contained in our treasure chests. Port Campbell is our lunch stop for today. The small fishing village of just 350 is set in a beautiful natural port and has some wonderful cafes and restaurants for food and views. After lunch we travel to a lesser known but highly impressive area of the Great Ocean Road west of Port Campbell. This section takes in London Bridge, Bay of Islands, Bay of Martyrs, and Boat Bay before our journey turns inland and travels through open farmland towards Melbourne arriving there around 6pm."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Australia",
@@ -1642,7 +1663,8 @@
         "description": "Home – Departure – This morning you will be transferred to the airport in time to catch the return flight to home. (Breakfast only)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Diving"
   },
   {
     "destination": "Australia",
@@ -1737,7 +1759,8 @@
         "description": "There's no better way to see Wilpena Pound than from the air and a thirty minute scenic flight is included for you direct from Rawnsley Park Station. You will depart early this morning and enjoy the spectacular scenery from a small Cessna 206 aircraft. Later, return to Adelaide where your itinerary concludes."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Australia",
@@ -1832,7 +1855,8 @@
         "description": "Arrive home today to complete your journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -1907,7 +1931,8 @@
         "description": "Check Out & Onward Travel - Your amazing Aussie adventure comes to an end in Brisbane this morning. If you need help with onward travel or work in Oz we are here to help for the rest of your time in Australia."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Australia",
@@ -2012,7 +2037,8 @@
         "description": "Take it easy in the morning, since Cairns is just “down the road” you can take your time and enjoy lovely Palm Cove a little more. When you're ready, make your way to Cairns to return the car hire and for your flight home. Driving duration: 30 mins (without stops) Driving distance: 30km / 15miles"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Australia",
@@ -2102,7 +2128,8 @@
         "description": "Salamanca Markets - The world-famous Salamanca markets are held every Saturday and we wouldn’t want to miss them. After a full buffet breakfast explore the market at your own leisure and sample some of the abundance of street foods. This officially concludes our most extensive and premium tour of the island. We are sure you will have enjoyed the experience of a lifetime and shaped many new friendships during our travels, taking home great memories, stories and photographs."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Australia",
@@ -2162,7 +2189,8 @@
         "description": "Home - Today you will be taken to the airport in time to catch your return flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Australia",
@@ -2232,7 +2260,8 @@
         "description": "DAY 11: ARRIVE HOBART Our Tasmania adventure concludes in Hobart this morning as we bid farewell to new-found friends, the Master and crew, disembarking at 8:00am. A complimentary transfer is provided to CBD hotels, or the airport is included."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Australia",
@@ -2282,7 +2311,8 @@
         "description": "Departure: Enjoy an included hot breakfast at your inner city lodgings this morning. Your package officially concludes with hotel check-out by 11am. Feel free to contact us for suggested further activities or sight-seeing options."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -2322,7 +2352,8 @@
         "description": "Hobart: Today you will return to Hobart for your afternoon flight out to Sydney or Melbourne, or enjoy one last night in the city."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Australia",
@@ -2452,7 +2483,8 @@
         "description": "You will fly out of Hobart later today. For one last lunch, head to the Coal River Valley wineries and the pretty village of Richmond just 15 minutes from the departure terminal at Hobart Airport. Bid au revoir, not farewell, for once you have stepped foot on this glorious isle, you can be sure you will return."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -2547,7 +2579,8 @@
         "description": "Day 15: Hobart bound. Make your hour-long drive to Hobart Airport, or, if you have a couple more days to spare, head to the Huon Valley and stay in a carbon positive forest retreat where yet more bird, marsupial and reptile life abounds. If time is precious, one more treat lies in store before you say farewell however. Bonorong is one of the island's most important wildlife sanctuaries where all animals are rescued, rehabilitated and released if possible. It also has a Tasmanian devil breeding programme and the island's official wildlife SOS line and Animal Hospital. A pre-booking on this tour only will ensure you are upgraded you to a private keeper tour, enabling you to have one last close encounter with your favourite animal, or see any species that you may have missed on your wildlife tour of Tasmania. From here you are just 30 minutes' drive from Hobart Airport - unless you choose to extend your visit of course."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Australia",
@@ -2652,7 +2685,8 @@
         "description": "Arrive home today to complete your journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Australia",
@@ -2702,7 +2736,8 @@
         "description": "Home – Departure – This morning you will be transferred to the airport in time to catch the return flight to home. (Breakfast only)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Australia",
@@ -2752,7 +2787,8 @@
         "description": "Departure - Enjoy a delicious hot breakfast included in you room package this morning. Your 5 day package officially concludes with hotel check-out by 11am. Reception can certainly store bags for those with late afternoon flights or contact us to arrange additional nights in these lodgings. We can also recommend plenty of day trip or city activity options for those looking to further explore."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Australia",
@@ -2862,7 +2898,8 @@
         "description": "After departing Launceston, you will make your way back to Hobart for your connecting flight to the Australian mainland and eventually home. From Sydney to Adelaide to Melbourne, the Crown jewels of Australia's Southeastern regions have opened their welcoming arms to you as you have explored their charming communities and fertile lands."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Australia",
@@ -2922,7 +2959,8 @@
         "description": "As you wake up to your last morning in Australia, you will certainly have mixed feelings, including gratitude for your unforgettable time spent in this phenomenal country and a bittersweet reluctance to leave it after only a week. You will be provided with a final brunch before being transferred to the airport for your return flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -2992,7 +3030,8 @@
         "description": "Your final morning in Australia will have one last meal, and after you finish, you can have some time to spend appreciating the city. Afterward, your private driver will escort you to the airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Australia",
@@ -3067,7 +3106,8 @@
         "description": "In the morning, locals and visitors from around the world make their way to the sands of Bondi Beach. The water glows shades of indigo and cobalt. The soft sand shimmers with gold. Fish and chips shops open along the boardwalk and fill the air with a savory batter scent. Locals jog along the walkway connecting Bondi with Coogee as surfers paddle out into the cove to catch the curling waves. You and your partner enjoy breakfast overlooking the sailboats gliding through Sydney Harbour. Your private transfer meets you in the hotel lobby and escorts you to Sydney Airport, where your romance along the beaches of Fiji and Australia ends, and the journey home begins."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Australia",
@@ -3152,7 +3192,8 @@
         "description": "You can't take a bottle of wine through airport security, so you might be wondering how all this great wine is going to make it into your own cellar. Throughout the vacation, each local guide will assist in packaging and shipping, ensuring that the delights of this vacation will make it back across the ocean. So while today brings your departure from New Zealand, the drinkable memories of this unique wine journey should accompany you until your next wine expedition."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Australia",
@@ -3217,7 +3258,8 @@
         "description": "Leave the splendors of Cradle Mountain behind you and begin your journey back to Launceston. Stop in Sheffield to explore the charm of the mountain village, including its stunning murals that depict the historic life of the city, from its wild roots to its wild-western charm. Colorful depictions of farmers plowing the field, bakers proofing the bread, blacksmiths shoeing horses, and even the lush waters of Russell Falls adorn the walls. The looming Mount Roland stands tall along the city’s edges as the bustling life of the streets move past, and you continue on your way to an illustrious restaurant in Launceston known for a sensational taste of the island flavors. Continue your exploration of Tasmania with a visit to Cataract Gorge. The stunning waters of the gorge stretch along vibrant grass and a swimming pool situated on the banks of the river. The rugged rocks blend with the sprouting trees moving along the gorge’s opening. Climb aboard the chairlift and take an aerial ride through the gorge. The breeze brushes along your cheeks as you dangle your legs high above the river. Travel parallel to the suspension bridge as the water rushes beneath you, the whitewater misting the air in the distance. After the beautiful ride over the river and through the gorge you will make your way to the airport for the end of your wondrous journey through the secluded beauty of Tasmania. The world on the island is practically untouched giving every inch a romantic atmosphere and a stunning view, making this trip one of those Australia vacations you won't soon forget!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Australia",
@@ -3267,7 +3309,8 @@
         "description": "The sunrise will stretch with layers of pink and orange across the eastern horizon and then shimmer across the sea. The white sand absorbs the mixture of colors before the sky returns to light blue. Your guide will meet you in the hotel lobby after breakfast and lead you into the dense canopy of Daintree National Park for a unique cultural experience that will combine tradition with natural beauty. Your guide will lead you along the mangroves forest of the coast where the tree roots tangle across the edges of river tributaries and coastlines, desalinizing the saltwater. The shallow waters along the forest floor barely reach above your foot. You will carry a long pole and listen to your guide tell stories about the history of the Kuku Yalanji tribe. The bubbles in the calm, shallow water help connote the location of mud crabs. Your guide will demonstrate how to use the pole to catch the regional delicacy, bringing up a crab from beneath the wet soil. At Mossman Gorge, the aroma of the sea dissipates beneath the herbaceous fragrance of bark and forest underbrush. Your guide will lead you in ritual spiritual cleansing associated with the traditional smoking ceremony, welcoming you to the lush lands of the gorge. Afterwards, head to the airport for your international departure flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -3327,7 +3370,8 @@
         "description": "In the morning, the sunlight will filter through the glass dome of the Reef Hotel Casino. The glass dome covers an immersive wildlife park that allows visitors to meet and greet animals common to Queensland. A trained guide will hold a sugar glider, a marsupial known for its love of fruit and flower nectar that can glide nearly 300 feet between trees, extending a wing-like flap to help carry them through the air. Another guide will hold a koala as it nibbles on a thread of leaves. As you complete your time in Cairns, one last look at the wildlife is the perfect end to your journey. When you are ready, your private transfer will meet you in your hotel lobby to escort you to Cairns Airport. You will have discovered the splendors around Cairns, but you could extend your vacation to immerse yourself in the urban grandeur of Sydney or Melbourne before returning home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Australia",
@@ -3402,7 +3446,8 @@
         "description": "In the morning, the Ngarru Gallery opens its doors to the people of Port Douglas. The gallery exhibits a collection of works celebrating Indigenous art alongside aspiring local artists. Sculptures stand tall above the hardwood floors, and unique woven works adorn platforms. The natural light washes over a collection of authentic antique didgeridoos hollowed out by termites. The breeze carries an aroma of freshly brewed coffee emanating from the cafes. Sailboats take to the open sea for a daily catch or to explore the coral islands between the east coast and Great Barrier Reef. Your private transfer meets you at the hotel after breakfast and escorts you to Cairns Airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Australia",
@@ -3477,7 +3522,8 @@
         "description": "Most international flights depart Sydney in the afternoon and evening, so you will have some free time this morning to enjoy the beach before your departure. Late check out will be arranged, and you will transfer privately to the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Australia",
@@ -3577,7 +3623,8 @@
         "description": "You will reminisce about all you have seen over the last two weeks while enjoying your final Australian breakfast. After checking out of your hotel, your private transfer will pick you and take you to Sydney’s international airport for your departing flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -3657,7 +3704,8 @@
         "description": "After a leisurely morning and a late check-out, you will be transferred to the airport to begin your journey home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Australia",
@@ -3757,7 +3805,8 @@
         "description": "It's a thrilling airport transfer this morning as a seaplane takes you back to the mainland before a domestic flight from Invercargill to Christchurch. From here, board your international flight to home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Australia",
@@ -3827,7 +3876,8 @@
         "description": "Today you will venture through South Australia as you make your way towards Adelaide, traversing the sensational landscapes of the open south. In Port Augusta you will visit the wonderful exhibit of the Wadlata Outback Centre where the majesty of Australia’s famous outback comes to life. The history of the region comes alive in the Tunnel of Time, where the lights flicker, the sounds of the rugged desert breath hot breath on your neck, and the landscape and wildlife evolve before your very eyes. After your journey through time you will venture into the stunning rugged world of Flinders Ridge. The green of the eucalyptus fills the air. The red rocks tower into the sky. Enter Alligator Gorge and watch the thin opening expand around you. The minty scent of eucalyptus is never far as the echo of lively birds lifts into the air. From the wild world of history to the beautiful wild of the current landscapes, the breeze drifts through the gorge, and the world of the untouched Australia opens before you and is offered as a majestic journey through the natural landscapes and wonders. From the west to the south, you will make your way into Adelaide. Settle into the beautiful City of Festivals, and know that your journey through Australia was sensational and like no other adventure before. The landscape of Australia has been nothing less than glamorous, offering you the unique sights of the secluded world that the continent has kept secret until now."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Australia",
@@ -3912,7 +3962,8 @@
         "description": "The breeze rustles through the palm trees lining the sandy shores of palm cove in the morning. The tranquil setting has a picturesque image of charming cafes and chic restaurants offering patrons the view of the stunning turquoise water. The popular wildlife park of Hartley’s Crocodile Adventures opens their doors for those interested in learning more about the crocodiles and abundant animal live thriving in the tropical landscape of north Queensland. Instead of returning home, you could extend your trip with the family for more adventures in the eastern state or continue onward to Thailand for more tropical beauty or New Zealand for immersion into the fantastical landscape from Lord of the Rings. Your private transfer greets you at the hotel and escorts the family to Cairns International Airport for your flight onward to wherever your next adventure takes you."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Australia",
@@ -4007,7 +4058,8 @@
         "description": "The romantic views from your luxury hotel will be yours to enjoy on your final morning in Sydney. After savoring a tasty breakfast, a private transfer will arrive and whisk you off to the airport for your return flight home. With the salty smells of the Tasman sea still lingering, you will look back at your scenic adventure through Australia with wonder at how much beauty can be contained in just 14 days."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -4092,7 +4144,8 @@
         "description": "After two weeks in Australia and New Zealand, you will depart from Queenstown this morning and begin your journey home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Australia",
@@ -4202,7 +4255,8 @@
         "description": "Today marks the end of an unforgettable adventure Down Under, but you’ll go home feeling on top of the world after all the fresh air and outdoor activity that you have encountered in some of the most spectacular places on Earth! At the appointed time, a private driver will meet you at your hotel and transfer you to Sydney International Airport for your journey home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Australia",
@@ -4297,7 +4351,8 @@
         "description": "You'll enjoy a light breakfast at your Melbourne five-star hotel and venture onto side streets for one final chance to shop and converse with locals. Then, meet your tour guide in your hotel lobby and board your shuttle to the airport. Glide along the bustling streets of Melbourne's downtown ahead of your flight back home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Australia",
@@ -4387,7 +4442,8 @@
         "description": "With the gorgeous staircase to the moon disappearing, and Australia’s stunning Outback in the distance, it is time to leave for the US. Although the staircase may be gone, the moon will always be a reminder of your trip to Australia."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Australia",
@@ -4482,7 +4538,8 @@
         "description": "Today you will be taken by private transfer to Sydney Airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -4572,7 +4629,8 @@
         "description": "Late check out will be arranged so that you can enjoy a little more of Melbourne before your private airport transfer. Two weeks in Australia will have taken you from East Coast to West Coast via the red center, and you will return home with a rounded impression of a stunning country."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -4657,7 +4715,8 @@
         "description": "Locals cycle and take the trolley cars along the streets of Melbourne to visit the bustling Brunswick West eatery of Lolo and Wren. The café fills with the scent of rich coffee blends and pancakes topped with caramelized pears. The scent of vintage paper drifts out of the shelves of the second-hand store Grub Street Bookshop on Brunswick Street. Outside of the city, the cliffs of the Victorian coastline glow rainbow hues in the spreading sunlight alongside the celebrated Great Ocean Road. Extend your stay in Melbourne to discover the charms of the city like a local, from taking a hot air balloon ride or sipping wine in the nearby Yarra Valley. Soon your transfer will meet you at the hotel and escort you to Melbourne Airport for your flight home, but you take with you the unforgettable memories of your time in Australia, highlighting the perfect blend of culture and nature, relaxation, and adventure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -4732,7 +4791,8 @@
         "description": "You will wake up to your final morning in Sydney to a final meal in the form of brunch. This last meal will certainly help to make your departure from down under a little sweeter. After you have finished your breakfast spread, your driver will deliver you to the airport to catch your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Australia",
@@ -4807,7 +4867,8 @@
         "description": "When you look back on your time in Australia, you can’t help but think of the best experiences cast in the colors of the Great Barrier Reef and the feeling of powdery sand on the secluded islands of the Whitsundays. At breakfast, you remember the vibrant colors and surreal depictions of sea and wildlife in the works of Aboriginal art. You can recall the stories of Dreamtime and the way the cool waters of the Crystal Cascades plunge pools felt on your skin. The scent of roasted coffee at breakfast only accentuates the memories. Your private transfer meets you at the hotel, ready to escort you to Cairns Airport. Your flight doesn’t have to take you home and can instead continue your immersive tour of Australia at the Red Centre or Melbourne, the “Cultural Capital” of the country."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -4867,7 +4928,8 @@
         "description": "At breakfast, you will savor the sweet juice of a star apple accompanied by vanilla. The scent of thick-cut bacon drifts out of the restaurant kitchen, and you will look out the window to enjoy the view of the calm water that splashes at the golden shores of Four Mile Beach. The breeze will rustle the leaves of the palm trees as the indigo water shimmers against the bordering mountains that glow emerald with the tropical rainforest. Locals set their blankets out on the sand and dip their toes into the refreshing water that cycles back and forth against the shore. Your private transfer will meet you at your hotel after one last leisurely morning, and soon you will board your plane bound for home. But for now, you will indulge in the tropical flavors of Queensland, embellished with the unforgettable paradisiacal view."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Diving"
   },
   {
     "destination": "Australia",
@@ -4957,7 +5019,8 @@
         "description": "Today you depart Melbourne and begin your journey back to the US. The sounds, sites, and stories of Australia will always persist, in your heart and in your head. The landscape may close in the distance but Australia will always remain open to you."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Australia",
@@ -5072,7 +5135,8 @@
         "description": "Your last day in Melbourne is yours to enjoy slowly as you savor a sumptuous breakfast spread, pack your belongings, and bid your farewells to the modern metropolis. If time permits, you may explore the neighborhood near your accommodation and browse the boutiques that line lush boulevards. You may purchase an assortment of curios and capture a selection of cinematic images to commemorate your Australian adventures. You will savor every last second in Melbourne before you transfer to the airport and begin your travels back home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Australia",
@@ -5147,7 +5211,8 @@
         "description": "This morning, you can choose to do another sunrise desert experience or sleep in before the journey home. When departing from Uluru, you will need to make a domestic flight connection before leaving Australia."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Australia",
@@ -5242,7 +5307,8 @@
         "description": "Today marks your last morning in Australia and you will wake up early to relish every minute, from breakfast to departure. You may explore the neighborhood for trinkets and tokens crafted at Australian boutiques, grab a cup of coffee at a chic café near the harbor, and stroll along the sun-washed promenade with other eager locals and travelers relishing the splendors of Sydney. You will return to your room later this morning to collect your things, meet your transfer, and say your goodbyes to Australia from the international airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -5317,7 +5383,8 @@
         "description": "Twenty-six domes will slowly rise from the shadows as an orange hue will creep up as the rising sun glides higher. These sacred rocks will seem inconceivable on an otherwise featureless landscape. You will watch the sunrise and then head into a valley that runs through Kata Tjuta, seeking a remote waterfall and the eerie sound of wind breezing past you. It will be a fitting final highlight to your two weeks in Australia. After a second breakfast, you will be dropped at Uluru for a domestic flight back to Melbourne, where you will transfer onto your outbound flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Australia",
@@ -5402,7 +5469,8 @@
         "description": "Wake up in Australia’s most southerly city, nestled against the estuary of Derwent River and the foothills of Mount Wellington. The city was once a British penal colony but today embodies the treasures of Tasmania, embracing its vivid history, culture, and the surrounding scenery. In the morning, sailboats cast their sails and drift along the water. The rustic hue of Mount Wellington towers over the cityscape at 4,166 feet above sea level resembling a sleeping giant. After breakfast, your private transfer meets you in the hotel lobby ready to escort the family to the Hobart International Airport for your flight home. Your journey of Australia may be complete but the family adventures are endless."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Australia",
@@ -5477,7 +5545,8 @@
         "description": "The esplanade ripples quietly in the morning. Large decorative fish sculptures are positioned on poles and fly over the swimming lagoon. You want once last glimpse at the pristine water before you go. After breakfast your private transfer escorts the family to the airport. When the plane takes off you can look out the window and see the outline of individual reefs shimmering on the ocean floor. The kids lean in for another viewing. The family has seen sails on an opera house and glided over treetops, swam in the Pacific and listened to the distinctive sounds of the didgeridoo. As you make your way home you know the fabulous memories your time in Australia that will always endure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Australia",
@@ -5552,7 +5621,8 @@
         "description": "In the morning, surfers head to the water to catch the waves as the sun rises over the horizon. The cool morning air carries the scent of the ocean through the city streets. Cafes open their doors to the aroma of freshly baked pastries and roasted coffee beans. At breakfast, the family watches as the surfers glide beneath curls and fling themselves through the air as waves fade out. In the Currumbin Wildlife Sanctuary, rainbow lorikeets twitter to one another. Their rainbow-colored plumage stands out against the emerald leaves of the surrounding trees. The adventures of Australia have offered the family fun times exploring wildlife and sea life, rainforest and coral reefs, red sand desert and white sand beaches for an unforgettable experience bringing the family closer together. Your private transfer meets you at the hotel and escorts you to the Gold Coast airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Australia",
@@ -5677,7 +5747,8 @@
         "description": "It will be your final day in Australia and your last opportunity to enjoy the many wonders of Sydney before you transfer to the international airport and catch your plane headed home. Whether you wish to enjoy a light bite at one of the many glamorous cafes or stroll through the light-flooded streets to museums and heritage sites flecking the skyline, spend these moments leisurely and pleasurably basking in the brilliance of the New South Wales capital. You will soon say your goodbyes to Australia, leaving with many fabulous memories of your trip."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Australia",
@@ -5777,7 +5848,8 @@
         "description": "Today, you can rise early and enjoy one last stroll along Melbourne's scenic waterfront before departing. From swampy floodplains and dense jungle to seaside cruises and an immersive walking tour, the precarious blend of bush and bustling city has been well on display. Like the proverbial tip of the iceberg, you will end this tour with plenty of curiosity to plan your next adventure into the outback."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Australia",
@@ -5872,7 +5944,8 @@
         "description": "After breakfast you are transferred to Sydney’s international airport for your outbound flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -5962,7 +6035,8 @@
         "description": "From the Margaret River, you will transfer back to Perth, where you will start your journey home from the city’s airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Australia",
@@ -6037,7 +6111,8 @@
         "description": "The morning light shines through the windows of the Port Douglas art galleries, exhibiting the unique perspectives of local artists and the way they perceive the surrounding culture and scenery. The work of Cara Stevens uses the landscape in photography and it three-dimensional sculptures, capturing the natural colors and formations of the Queensland region in ways often overlooked by the untrained eye. You have witnessed the beauty beyond the coastline and the sensational splendors beneath the forest canopy during your exploration of Australia, from the architectural thrills of the Sydney Opera House to the beauty that decorates the Great Barrier Reef. After one last morning of enjoying your surroundings along with a leisurely breakfast, your private transfer will meet you at your hotel in Port Douglas and escort you to Cairns Airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Australia",
@@ -6142,7 +6217,8 @@
         "description": "You will leave early in the morning to the airport at Cairns, where you will be transported to Brisbane or Sydney for your flight back home. The flight will give you plenty of time to reflect on what you have seen, heard, learned, and experienced. From the bright lights of Sydney to the explosion of color in the Great Barrier Reef, this is one trip that you will remember for the rest of your life."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Australia",
@@ -6202,7 +6278,8 @@
         "description": "On your final day in New Zealand you will depart Wellington by way of the airport ready to make your way home. The beauty of New Zealand is not hidden but rather is apparent in its landscape, its people, and its culture. However, by seeing the North Island’s wonders and experiencing new adventures, you were rewarded with memories and grand times. The true treasure of New Zealand, you found, was not in the pictures you take but in the memories you make. If this 7-day trip isn't long enough for you, consider extending your time in New Zealand. See the reviews of New Zealand trips for additional ideas and real traveler reviews."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Australia",
@@ -6277,7 +6354,8 @@
         "description": "After ten days of sumptuous flavors, you will be transferred to Hobart’s airport and begin your journey back home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Australia",
@@ -6377,7 +6455,8 @@
         "description": "At breakfast, the scents of mango and coconut blend together. The resort roasts coffee beans sourced from a plantation on mainland Queensland. The sunlight shines a light on the remaining stone ruins of the 19th-century edifice of Watsons Cottage, one of the oldest structures in Australia. You glimpse another monitor lizard lounging in the rising sun on a rock overlooking the water. When you are ready, you make your way by scenic plane to Cairns Airport. During the flight, you have a lingering view of the remarkable beauty of the Coral Sea, fringing reefs, and white sand beaches connected to Queensland. Once in Cairns, you board your flight home, taking with you the lasting picturesque imagery of your exclusive Australia."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Australia",
@@ -6472,7 +6551,8 @@
         "description": "As the sunshine envelops Pretty Beach in a golden glow, you will appreciate the livening warmth while watching the waves crash against the ochre shoreline. As you savor each sip of bold coffee brewed perfectly at your accommodation’s palatial restaurant, you will reminisce on the magical moments enjoyed lavishly from Tasmania to New South Wales. Being the final minutes in Australia before you head for the international airport, you will cherish every last second and admire the spectacular views of the Australian coast one last time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Australia",
@@ -6577,7 +6657,8 @@
         "description": "After 15 days of unforgettable memories, this family vacation draws to a close. Drop off the rental vehicle and board a domestic flight to Auckland. From here, your international flight takes you back across the Pacific."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Australia",
@@ -6682,7 +6763,8 @@
         "description": "Your honeymoon comes to an end, and so many memories accompany your transfer to the airport. Catch your connecting flight to Auckland and onward for your international departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Australia",
@@ -6757,7 +6839,8 @@
         "description": "At breakfast, you look to the waters lapping at the coastline around Cairns and can’t help but think of the brain coral and Maori Wrasse that captivated you while exploring the Great Barrier Reef. The Kuku Yalanji, the first people of northern Queensland, utilized the forest and the sea, grazing on the indigenous plants and scouring the white-sand beaches for crabs. They continue to forage the underbrush of the rainforest for medicinal herbs and celebrate the stories of Dreamtime that explain the spreading of tribes across the continent. Before your flight home, you take the time to visit Mossman Gorge for a fascinating introduction to the heritage of Kuku Yalanji, learning the proper way to throw a boomerang and the unique narrative of the forest trees. Your private transfer escorts you from Mossman Gorge Visitor Centre to Cairns Airport with plenty of time to check into your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -6857,7 +6940,8 @@
         "description": "In the morning, you can look out over the glistening waters of Lake Wakatipu to find the snowcapped summits of the Remarkables Mountains rolling along the southern edge. Double Cone peak, the tallest of the range, reaches a height of more than 7,600 feet above sea level, soaring above the line of trees and crystal clear waters in the foreground. Your private transfer will greet you at the hotel when you are ready, and escort you to Queenstown Airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Australia",
@@ -6942,7 +7026,8 @@
         "description": "For the best view in Port Douglas, locals and visitors climb Trinity Bay Lookout at the top of Flagstaff Hill. The marvelous panorama overlooks Four Mile Beach so you will see the colors of the shoreline’s white sand contrast with the shining turquoise waters of the Coral Sea. When ready, your private transfer will greet you in the hotel lobby and escort you to Cairns Airport. You can continue exploring the marvelous sites of Australia with a trip to Melbourne or learn more about the delicious wine lands that produce world-renowned vintages by visiting Adelaide and the nearby vineyards of the Barossa Valley, otherwise, you have plenty of time to check-in for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Australia",
@@ -7002,7 +7087,8 @@
         "description": "With a final morning in Sydney, you can explore the famous beaches. These are quieter and cooler in the morning, and most locals avoid beaches like Bondi during the afternoon. Bondi is best to start with a coffee on an al fresco terrace while watching the waves. Then, you can indulge in a cliffside walking route to Coogee, which is a beautiful and easy trail that celebrates Sydney’s unique coastline. Coogee has a great restaurant for lunch, and you will have a late checkout so that you can refresh before an evening transfer to the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Australia",
@@ -7087,7 +7173,8 @@
         "description": "Depart Australia from Brisbane, after first taking a domestic flight away from the islands. Your two weeks will have flown by, yet it may seem as though you have been here for a month, such is the diversity of experience and destinations. It might feel almost impossible to think you were in the outback only a week ago, and that is the beauty of seeing the country’s alternative sides. Rather than a family vacation that blurs into a single memory, with Australia, you will clearly remember it all."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Australia",
@@ -7167,7 +7254,8 @@
         "description": "You will depart Australia from Brisbane after first taking a domestic flight away from the islands. Two weeks will have flown by, but it may seem like you have been here for a month due to such diversity of your experience and destinations. It is almost impossible to think that you were in the Outback only a week ago, and that is the beauty of seeing the country’s alternative sides. Rather than a family vacation that blurs into a single memory, with Australia you clearly remember each place you visit."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Australia",
@@ -7267,7 +7355,8 @@
         "description": "Your tour, although coming to an end, is not over yet, and you will have one more morning to appreciate Sydney before you set off for home. Tuck into a sumptuous breakfast spread provided at your accommodation before you hit the streets to see Sydney one last time. Wandering through the buzzing districts and down the stunning boulevards, you will share a few more moments with the dazzling Australian city before you are collected by your private transfer and taken to the international airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Australia",
@@ -7352,7 +7441,8 @@
         "description": "In the morning, the family enjoys a breakfast accentuated by the view of the water and the active calls of kookaburras. Couples and families head to the water early in the day on kayaks and paddleboards to enjoy the scenery and calm expanse of sea protected by the Great Barrier Reef. The kids share their favorite moments of the trip, once again embellishing how many fish they saw at the reef or how many waves they caught during the surf lesson in Sydney. A seaplane sets out onto the water, bound for a scenic tour of the Great Barrier’s more than 2,800 separate reefs. Your private transfer escorts you to the airstrip after breakfast and the family boards the plane to begin the journey home, saying farewell to the captivating beauty of Australia."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Australia",
@@ -7437,7 +7527,8 @@
         "description": "In the morning, locals wander along the urban village of Surry Hills amidst the converted terrace houses that are adorned with shades of scarlet paint and the collected aromas of celebrated international cuisines. The Brett Whiteley Studio exhibits the artist’s works from when he called the neighborhood home, preserving the memorabilia, photographs, and lifestyle of the artist in the upstairs gallery. Locals tired of the throngs at Bondi Beach venture to the nearby Sirens, a beach keen on bohemian chic and unpretentious cafes and boutique shops, which highlight the celebrated diversity of Sydney’s vibrant culture. When you both are ready, your private transfer will meet you in your hotel lobby and escort you to Sydney Airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Australia",
@@ -7512,7 +7603,8 @@
         "description": "After a leisurely morning in Sydney, you will be transferred to the international airport for your outbound flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -7572,7 +7664,8 @@
         "description": "Today brings an end to your time wandering through the cultural wonders and landscaped majesty of the Red Centre and the Northern Territories. The waters have sparkled clear blue, bubbling up from the earth itself. The rocks have glistened red and felt smooth on your fingertips. The sky has been perfumed with the sweet scent of the sea and the rugged world of arid desert. You have ventured across some of the perilous landscape of Australia and witnessed its sensational splendor. Although this particular journey may have come to a stop, that doesn’t mean that your adventure has to end. There is always more to see and experience in Australia and the Southern Hemisphere, which makes your cultural adventure through the outback and beyond timeless and, possibly, even endless. Related Information: This itinerary provides a unique way to experience the central part of Australia, including a train ride, cruise in the Kakadu National Park , observing wildlife first-hand in truly spectacular scenery. You can certainly add additional days, activities, and places to visit and choose from many lodging choices in Darwin to fully customize the itinerary. As vast as this continent is, there are plenty of reasons for you to extend your vacation. Be sure to read the travel reviews for Australia vacations ."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -7647,7 +7740,8 @@
         "description": "You will have a late flight out of Perth, which allows for some final hand in hand hours on the beach. A private transfer to the airport will bring your unforgettable journey to a close."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Australia",
@@ -7732,7 +7826,8 @@
         "description": "The romance of your Australian holiday is coming to an end as you climb aboard your flight and wave goodbye to the Sydney Opera House. The sails still glisten in the sunlight as the plane rises into the air. The glow of the Great Barrier Reef continues to shine in your eyes. The beautiful songs within the opera house still resound. The gentle flavors of the Barossa continue to linger on your palate. Your time in Australia has been filled with private moments, secluded memories, and romance that you will never forget, nor will you ever have to. If 12 days is not enough time in Australia, consider adding on to your romantic vacation. Browse the travel reviews for Australia trips for ideas and real traveler reviews."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Australia",
@@ -7792,7 +7887,8 @@
         "description": "Today, you will return to mainland Australia for your flight home. Enjoy the pleasures of your paradise accommodation in Lizard Island for a moment longer as you savor breakfast to views of the sapphire sea and toast to your secluded adventures. Soon, your private transfer will take you to the international airport, where you will board your plan and say farewell to Australia."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Australia",
@@ -7852,7 +7948,8 @@
         "description": "After an incredible week, you will awake to your final morning in Sydney, and after enjoying one last breakfast, you will be escorted to the airport for your return flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Australia",
@@ -7977,7 +8074,8 @@
         "description": "On your final day in Melbourne, you will be able to enjoy a tour of this remarkable city before your departure. After a delicious breakfast at your accommodation, you will be met by a private guide who will make the city come to life through their tales and anecdotes. In the afternoon, you will enjoy a luxury cruise on the Yarra River before making your way to the main international airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -8037,7 +8135,8 @@
         "description": "Your final morning in Australia will surely find you feeling mixed emotions. This morning, you will be provided with one last romantic brunch that will be complete with mimosas. After finishing your meal, your private driver will deliver you to the airport to catch your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Australia",
@@ -8097,7 +8196,8 @@
         "description": "This morning, you will be provided with breakfast and some time at your leisure in the bustling city of Sydney. After enjoying your final meal in the form of a delicious brunch, your private driver will deliver you to the Sydney airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Australia",
@@ -8172,7 +8272,8 @@
         "description": "Late check-out has been arranged so you can take the kids to the beach and use up lots of energy before the flight. You will be transferred to Cairns in the late afternoon for your evening departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Australia",
@@ -8247,7 +8348,8 @@
         "description": "Wake once more in Melbourne and enjoy one last morning exploring the city, possibly with an early morning walk as you prepare for your flight home. You will depart directly from Melbourne after an incredible vacation full of amazing experiences and beautiful scenery."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -8352,7 +8454,8 @@
         "description": "Leave early this morning to the airport at Cairns, where you’ll be transported to Brisbane and then back to Los Angeles. The flight will give you plenty of time to reflect on what you’ve seen, heard, learned and experienced, time to think back on an incredible vacation and to revel in the memories you’ve made. From the bright lights of Sydney to the explosion of color in the Great Barrier Reef, from the fecund forests surrounding Cairns to the vast stretches of the desolate Australian Outback, this is one trip that you’ll remember for the rest of your life."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Australia",
@@ -8437,7 +8540,8 @@
         "description": "Depart from Adelaide this morning, first flying to Melbourne where you switch onto an international connection."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Australia",
@@ -8527,7 +8631,8 @@
         "description": "After breakfast, you will be transferred to the airport for your outbound flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Australia",
@@ -8587,7 +8692,8 @@
         "description": "Today, the coach will take you back to the Cairns Airport where you’ll hop on a flight to Brisbane. Wave goodbye to Australia as you board your final flight back home. Until next time!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Australia",
@@ -8672,7 +8778,8 @@
         "description": "In the morning, fishermen return to the marina carrying traps filled with gigantic rock lobsters. They can grow to a size of 11 pounds and are notable for their dramatic spines. Outside of the resort, the sea lions return to relax in the spreading sunlight. The waves crash against the white sand. The largest colony lounges at Seal Bay, with approximately 1,000 Australian sea lions barking against the sound of the crashing waves. After breakfast, your private transfer meets you at the hotel and escorts you to the airstrip. Soon you will board your flight home. You can’t help but think of the welcoming luxuries you experienced and the unforgettable wildlife you discovered while exploring the far reaches of Australia’s east coast, Red Desert, and southern shores."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Australia",
@@ -8792,6 +8899,7 @@
         "description": "Today you will make your way to the Sydney Airport and depart for home. You have ventured through the depths of Australia, from the beach to the Red Center, from the south to the north, winding your way into the outback. The Sydney Opera House sparkled. The Great Barrier Reef brimmed with life. Uluru glowed in the sunset. Your journey within the big cities and around the outskirts of the untouched wonders of the country has taken you into the unique highlights of Australia, where nature’s pure beauty leads into human nature’s ingenuity."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

@@ -62,7 +62,8 @@
         "description": ": Our trip ends after breakfast this morning at our hotel in Sliema. There are no activities planned today, so you're free to depart from Sliema at any time. If your flight is departing later in the day luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from Malta International Airport (MLA), which is about a 35-minute drive from our hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Malta",
@@ -127,6 +128,7 @@
         "description": "Farewell (for now) After our last breakfast together, our lovely driver returns us to Malta airport. If you’d like to stay on in Malta, we’ll be happy to help you make reservations to extend your stay until we see you next time, when we hope you’ll come on tour with us again. Meals: B"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

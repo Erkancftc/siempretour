@@ -57,7 +57,8 @@
         "description": "Friday comes around all too quickly. Sunrise yoga and a guided hike from MoaAlm to the stunning Dorfer Lake. Those who want more than a cold dip can book a rafting tour on the Isel instead. Hiking back for cake and tea. The hot tub is lit, and we enjoy a final evening on the terrace. A special three course dinner is served, followed by a camp fire."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Yoga&Wellness"
   },
   {
     "destination": "Austria",
@@ -122,7 +123,8 @@
         "description": ""
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Austria",
@@ -202,7 +204,8 @@
         "description": "After breakfast you will be transferred to Graz’s international airport for your outbound flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Austria",
@@ -272,6 +275,7 @@
         "description": "After breakfast you will be transferred to Innsbruck’s international airport for your outbound flight. Alternatively, you can transfer to nearby Munich for your outbound departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   }
 ]

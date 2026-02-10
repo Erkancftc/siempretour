@@ -62,7 +62,8 @@
         "description": "DEPARTURE: Breakfast before saying our goodbyes – heading back to the airport. For those with late departures, we can offer a walking tour of the capital or a visit to the fresh produce markets (option 7: with a guide). Option 8: A few more days for skiing Want a longer holiday? During the winter months, we can add a few more days to your holidays to go skiing at Kolašin (weather dependent). Located 15-min drive from Kolašin, 1600 ski centre offers beginner and intermediate level skiing. Experienced snowboarders and skiers can also venture off-piste to get their kicks by heading to the top of the button lift and hiking 100m up the mountain face to access a series of steep valleys that eventually reconnect with the main run. *Snowshoeing and ski touring guided tours also an option."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Montenegro",
@@ -122,6 +123,7 @@
         "description": "9:00 Brunch 11:00 Check-out"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   }
 ]

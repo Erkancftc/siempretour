@@ -77,7 +77,8 @@
         "description": "There are no activities planned after breakfast today and your adventure comes to an end. You're free to leave at any time after check out. If you'd like to extend your stay, just get in touch with your booking agent ahead of time to organise additional accommodation. There's plenty to see if you'd like to continue exploring Hanoi or further afield – maybe hop onto an Urban Adventure tonight and discover more of Hanoi's street food scene."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Vietnam",
@@ -187,7 +188,8 @@
         "description": "Final day at leisure before your flight home. Your return flight will arrive the same day."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Vietnam",
@@ -272,7 +274,8 @@
         "description": "HOCHIMINH DEPARTURE (B) Relish a healthy breakfast on the final day of your trip. Complete the hotel check-out formalities, after which you can visit the local markets and buy souvenirs for your loved ones. Later, proceed for departure and board your flight back home. Trip Ends."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -377,7 +380,8 @@
         "description": "Transfer to the airport for the flight back to the UK. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -452,7 +456,8 @@
         "description": "DAY 10 DEPARTURE Transfer back Saigon, foward to international airport for catch the flight to next destination."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -532,7 +537,8 @@
         "description": "Hanoi Departure"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -632,7 +638,8 @@
         "description": "There are no activities planned for today and you’re able to depart the accommodation at any time after check-out. With so much to see and do in Hanoi, we recommend that you spend an extra day or two here, and we’ll be happy to organise additional accommodation (subject to availability)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -727,7 +734,8 @@
         "description": "SIEM REAP Time to say goodbye to Vietnam and Cambodia and head home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Vietnam",
@@ -817,7 +825,8 @@
         "description": "With no activities planned after breakfast, you’re free to leave at any time. If you’d like to extend your stay in Ho Chi Minh City, just speak to your booking agent ahead of time to organise additional accommodation."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Vietnam",
@@ -907,7 +916,8 @@
         "description": "Morning at leisure, end of tour and either departure at your convenience or, time permitting, why not add on a few days’ quality R and R at the beach? A beach extension at nearby Mui Ne or flight to Phu Quoc Island are just 2 of the options available if you have a few more days to spare."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Vietnam",
@@ -942,7 +952,8 @@
         "description": "Explore the tranquil scenery in Bai Tu Long Bay, back to Hanoi. Early risers can enjoy the sunrise and the quiet breath-taking beauty of Bay’s landscape. From 7.30 to 8:00 am have breakfast in the fresh air then visit Vong Vieng fishing village by a rustic row-boat. Meet the locals, visit floating school & fish farms. More time to swim in the middle of the bay. From 10: 15, we serve on a La-Carte-Menu, you can order any dishes in the menu whenever you want for breakfast and lunch. Continue cruising through the bay, along the way seeing more of the fascinating formations. 11: 45 check out cabin while cruising back. By noon at 12:00, we will be ashore then hit the road back to Hanoi. We arrive and finish our tour at your hotel around 4:00 pm Inclusion: Transfer, guide, entrance fee, boat/junk, breakfast, lunch"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Vietnam",
@@ -1022,7 +1033,8 @@
         "description": "Morning at leisure in Hoi An before a transfer to Danang Airport with a stop at the fascinating and nearby Cham Museum. A choice of flights to either Hanoi or Saigon is included while Danang International Airport also serves numerous other regional destinations including Singapore, KL, Phnom Penh and Bangkok."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -1097,7 +1109,8 @@
         "description": "There are no activities included today and you’re free to depart your accommodation at any time, as long as you comply with check out time. If you would like to spend some more time in Ho Chi Minh City, just speak to your booking agent."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -1202,7 +1215,8 @@
         "description": "Morning at leisure in Saigon – improve your street photography or perhaps some last-minute market shopping and midday end to the tour."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -1302,7 +1316,8 @@
         "description": "Day at leisure before an afternoon transfer to the airport for your flight back to Saigon."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -1392,7 +1407,8 @@
         "description": "You've explored the underground rivers and caves at Phong Nha-Ke Bang, stayed in a hill village and kayaked Lan Ha Bay; but today, the adventure comes to an end and we begin our return journeys home. However, if you’re not ready for the adventure to end, speak to your sales representative about joining our add-on tour to Angkor in Cambodia, the standout archaeological site in Southeast Asia. Speak to your sales representative to book."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -1487,7 +1503,8 @@
         "description": "Your journey comes to an end as you transfer to Da Nang Airport for your onward flight. Depart with unforgettable memories of Vietnam’s fascinating culture, stunning landscapes, and warm hospitality. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -1562,7 +1579,8 @@
         "description": "Today, your exploration of Vietnam comes to an end. There are no activities planned for today and you can leave at any time after checking out. If you’d like to extend your stay and explore Hanoi, and it’s recommended that you do, just reach out to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -1632,7 +1650,8 @@
         "description": "Hanoi departure (B, G) After breakfast, you’ll be free until your driver arrives to take you to Noi Bai airport for your departure flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Vietnam",
@@ -1717,7 +1736,8 @@
         "description": "DEPART HO CHI MINH CITY OR EXTEND YOUR STAY. Your amazing 12-day adventure comes to an end. You can either check out and make your way back home, stay on longer in Vietnam or continue your travels with our help & the new friends you’ve made."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -1782,7 +1802,8 @@
         "description": "Hanoi departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Vietnam",
@@ -1857,7 +1878,8 @@
         "description": "DAY 10 DEPARTURE Transfer back Saigon, foward to international airport for catch the flight to next destination."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Vietnam",
@@ -1937,7 +1959,8 @@
         "description": ": Leaving the homestay behind, we'll cruise back along the Mekong Delta passing small floating markets and soaking up the atmosphere of this unique trading point, a vast network of rivers and islands that crisscross agricultural villages, paddy fields and mangrove swamps. Bidding farewell to our boat crew, we'll then drive back to Ho Chi Minh City. We'll aim to be back in Ho Chi Minh City around 3pm. For those with evening flights, a day-use room will be available. If you'd like an airport transfer today, you'll need to depart from Saigon's Tan Son Nhat International Airport (SGN). The earliest your flight can depart is 5pm."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Vietnam",
@@ -2022,7 +2045,8 @@
         "description": "Ba Be National Park – Thai Nguyen – Ha Noi We wake early and enjoy breakfast at our homestay, after which we visit the amazing Hua Ma cave and pass, stopping along the way to take photos of the terraced ricefields. We have lunch at a local restaurant, then continue our journey to Hanoi, stopping from time to time to take pictures of local people, markets and other opportunities that present themselves song the way. We arrive in Hanoi early in the afternoon and have the rest of the afternoon free to relax or stroll around the city’s Old Quarter. The evening is also at our leisure to enjoy a meal in the city or just relax at the hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -2067,7 +2091,8 @@
         "description": "Ba Be – Tea plantation then onto Hanoi (~ 250 km) Early risers can capture with lots of good photos of the local life. breakfast served by the local at 7:00. Check-out and say goodbye to our host family by 08:00, riding toward a tea plantation for a quick visit, lunch at a local house, enjoy their homemade tea and ride back to Hanoi. We arrive back to your hotel around 16:00. Trip ends here. Inclusion: Transfer, guide, breakfast, lunch."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Vietnam",
@@ -2162,7 +2187,8 @@
         "description": "DAY 14 HOI AN – DA NANG - DEPARTURE Breakfast at hotel Free at leisure until transfer to the airport for departure flight"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -2227,7 +2253,8 @@
         "description": "Your adventure comes to an end after breakfast this morning. If you wish to spend some more time in Ho Chi Minh city, contact your booking agent to organise additional accommodation (subject to availability)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -2327,7 +2354,8 @@
         "description": "Your Vietnam adventure ends after breakfast today. There are no activities included, so you are free to depart at any time. If you’d like to stay longer, just speak to your booking agent. For those who are staying on longer and want to explore Ho Chi Minh City, maybe check out our Urban Adventure daytrips."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -2407,7 +2435,8 @@
         "description": "Nha Trang/Ho Chi Minh City departure. You’ll be free in the morning until your car and driver arrive to take you to Nha Trang airport for your flight to Ho Chi Minh City to connect with your departure flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Vietnam",
@@ -2502,7 +2531,8 @@
         "description": "You’ve trekked through hill villages, explored the Mekong Delta and cruised Ha Long Bay; but today, the adventure comes to an end and we begin our return journeys home. However, you can continue your journey of discovery in Southeast Asia by joining our Angkor Wat add-on tour, where we head to Cambodia to explore the key sites in Phnom Penh, including Angkor, one of the world’s great archaeological sites. Speak to your sales representative to book."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Vietnam",
@@ -2597,7 +2627,8 @@
         "description": "You’ve cruised Ha Long Bay by junk boat, explored the Mekong Delta and toured both Hanoi and Ho Chi Minh City; but today, the adventure comes to an end and we begin our return journeys home. However, you can continue your journey of discovery in Southeast Asia by joining our Angkor Wat add-on tour, where we head to Cambodia to explore the key sites in Phnom Penh, including Angkor, one of the world’s great archaeological sites. Speak to your sales representative to book."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Vietnam",
@@ -2687,7 +2718,8 @@
         "description": "Depart Saigon - No activities are planned for today. Check out at your leisure and you will then be transferred to the airport to catch your return flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -2752,7 +2784,8 @@
         "description": "Ho Chi Minh Departure"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -2807,7 +2840,8 @@
         "description": "Departure: Today marks your departure from Vietnam as you embark on your flight back to the UK."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -2887,7 +2921,8 @@
         "description": "HOI AN DEPARTURE (B) Relish a healthy breakfast on the final day of your trip. Complete the hotel check-out formalities after which you can visit the local markets and buy souvenirs for your loved ones. Later, proceed for departure and board your flight back home. Trip Ends."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -2952,7 +2987,8 @@
         "description": "Con Dao/Ho Chi Minh City. You’ll be picked up at good time for a return flight to Ho Chi Minh city, thence to connect your departure flight.."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -3042,7 +3078,8 @@
         "description": "Whale Island to Ho Chi Minh City (B, DP) The Whale Island staff will take care of your transfer from the resort to Nha Trang airport. From there you'll fly to Ho Chi Minh City for your transfer or departure flight from Tan Son Nhat airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Vietnam",
@@ -3142,7 +3179,8 @@
         "description": "CHECK OUT: Your amazing 15-day adventure comes to an end. You can either check out and make your way home or continue your travels around Vietnam or Asia with help from your group leader."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -3252,7 +3290,8 @@
         "description": "PHU QUOC DEPARTURE (B) Relish a healthy breakfast on the final day of your trip. Complete the hotel check-out formalities after which you can visit the local markets and buy souvenirs for your loved ones. Later, proceed for departure and board your flight back home. Trip Ends."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Vietnam",
@@ -3347,7 +3386,8 @@
         "description": "Optional Extension - The Ha Giang Loop: If you're not quite ready to say goodbye to Vietnam, you can extend your adventure by adding an amazing loop of Ha Giang once your tour in Hanoi finishes. Here's what you can expect: Day 13: Hanoi to Ha Giang Start the day by exploring Hoan Kiem Lake and the rest of Hanoi in the morning. After lunch, you'll visit Hao Lo Prison in the afternoon, a significant historical site. In the evening, you can explore the bustling Old Quarter night market before boarding a sleeper bus that will take you to Ha Giang, where you'll arrive in the early morning. Day 14: Ha Giang & Bac Sum Pass After breakfast at your accommodation, we'll head toward Bac Sum Pass. Along the way, stop at Heaven’s Gate, an incredible gorge surrounded by mountains, and also visit Tam Son town. When we arrive at Yen Minh town, we’ll have lunch before continuing our journey to Dong Van via the Chin Khoanh Pass. As we travel through the afternoon, you’ll pass by stunning rice terraces and towering limestone rocks, with glimpses of local hill tribes working the land. We’ll also visit the Hmong King’s Palace, a century-old residence belonging to the King of the H’mong people, Vuong Chinh Duc. We’ll arrive in Dong Van late in the afternoon and check in to a cozy, family-owned hotel. After settling in, you’ll enjoy a delicious local Vietnamese dinner. The rest of the evening is yours to explore as you like. Day 15: Waterfalls & Textile-Making in Lung Tam: After breakfast, it's time to pack your swimsuits as we head to a nearby waterfall for a refreshing swim. Next, we’ll transfer to Lung Tam, a H’mong village, where you'll join local craftswomen in a textile-making workshop and create a unique souvenir. We'll then head to Quan Ba town to marvel at the stunning Nui Doi mountain before returning to Ha Giang for a few final hours of exploration. In the late afternoon, we’ll board a private bus to take us back to Hanoi, where we’ll arrive in the evening. Pricing per person: £550 This extended loop of Ha Giang offers an unforgettable journey through northern Vietnam’s remote landscapes and rich cultural heritage."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Vietnam",
@@ -3427,7 +3467,8 @@
         "description": "All good things come to an end… sadly it’s time to pack up and head to the airport for your onwards flight, leaving Vietnam with lots of amazing memories and photos! (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Vietnam",
@@ -3522,7 +3563,8 @@
         "description": "This family adventure draws to a close after breakfast. However, if you’d like a little more time to explore this buzzing city, speak to your sales representative about extending your stay."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Vietnam",
@@ -3592,7 +3634,8 @@
         "description": "Your trip ends today after breakfast. Either take a transfer to Danang airport for your onward flight or stick around a while longer getting to know this charming city better. If you’d like to extend your stay and explore the riverside restaurants and Old Town, just get in touch with your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Vietnam",
@@ -3677,7 +3720,8 @@
         "description": "SAIGON Time to say goodbye to Vietnam and head home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Vietnam",
@@ -3777,7 +3821,8 @@
         "description": "Transfer to the airport for your flight home (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Vietnam",
@@ -3862,7 +3907,8 @@
         "description": "Hoi An/Hanoi or Ho Chi Minh City Departure You’ll be picked up in good time to board either the morning or afternoon flight to Hanoi or Ho Chi Minh City for your departure flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -3932,7 +3978,8 @@
         "description": "HANOI DEPARTURE (B) Relish a healthy breakfast on the final day of your trip. Complete the hotel check-out formalities, after which you can visit the local markets and buy souvenirs for your loved ones. Later, proceed for departure and board your flight back home. Trip Ends."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -4037,7 +4084,8 @@
         "description": "Transfer to the airport early this morning for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Vietnam",
@@ -4137,7 +4185,8 @@
         "description": "Con Dao/Ho Chi Minh City Departure. After breakfast, you’ll be picked up to the airport for a flight to Ho Chi Minh City in good time to connect with your international departure flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Vietnam",
@@ -4262,7 +4311,8 @@
         "description": "There are no activities planned for today and you can depart the accommodation at any time. There’s so much to see and do in Hanoi, so why not stay a day or two longer! If you need additional accommodation, just reach out to your booking agent ahead of time. If you have extra time, you may like to do an Urban Adventure tour – see urbanadventures.com/destination/hanoi-tours. Thinking of exploring more of the majestic Northern Vietnam after your trip is finished? Then check out our Ninh Binh Mini Adventure (TVAN) -for an off-the-beaten path discovery of Pu Long and Ninh Binh. Or you can try our Hiking In Sapa (TVAG) - for a big doze of dramatic mountain landscapes, crisp fresh air and colorful hilltribes."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -4357,7 +4407,8 @@
         "description": "Ho Chi Minh Departure. Your time will be your own until your private car and driver arrives to take you to Tan Son Nhat airport for your departure flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -4457,7 +4508,8 @@
         "description": ": Leaving the homestay behind, we'll cruise back along the Mekong Delta passing small floating markets and soaking up the atmosphere of this unique trading point, a vast network of rivers and islands that crisscross agricultural villages, paddy fields and mangrove swamps. Bidding farewell to our boat crew, we'll then drive back to Ho Chi Minh City. We'll aim to be back in Ho Chi Minh City around 3pm. For those with evening flights, a day-use room will be available. If you'd like an airport transfer today, you'll need to depart from Saigon's Tan Son Nhat International Airport (SGN). The earliest your flight can depart is 5pm. Why not extend your trip to Indochina with three nights on the tropical white sand beaches of Phu Quoc Island? Nestled in the warm waters of the Gulf of Thailand this Vietnamese island is 90% national park, a thick-rainforest interior framed by idyllic white sand beaches. Easily accessible by a short flight from Hanoi, Siem Reap or Ho Chi Minh City, this is a great way to unwind after an action-packed trip in Indochina."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Vietnam",
@@ -4587,7 +4639,8 @@
         "description": ": The trip ends after breakfast at our hotel in Ho Chi Minh City. There are no activities planned today, so you're free to depart from Ho Chi Minh City at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from Tan Son Nhat International Airport (SGN), which is a 30-minute drive from our hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -4687,7 +4740,8 @@
         "description": "Your adventure comes to an end after breakfast. If you wish to spend more time in Hanoi, just speak to your booking agent ahead of time to organise additional accommodation."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -4742,7 +4796,8 @@
         "description": "Trek back to Sapa, then night train back to Hanoi. At the first of gleam of daylight, you will see and hear the sounds of morning village life. After breakfast, we will complete our trek (4 hours). Alternatively, instead of trekking, you can choose to take a short morning wander around the village. For both options, you will be supported by our car / van back to Sapa (30 minutes). Back in Sapa, you will have the afternoon to shower, relax and explore the town. At 17:30 transfer to the Lao Cai train station. Departure is at 20:15 on an AC soft sleeper class cabin to Hanoi. Safely back inHanoi at 5:00 please find your own way back to your hotel – a taxi usually costs around 80,000VND. Your adventure ends here with a lifetime's worth of memories. Inclusion: Transfer, guide, train ticket, breakfast, lunch."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -4842,7 +4897,8 @@
         "description": "MEKONG DELTA – BACK TO HO CHI MINH – DEPARTURE (B/L) After breakfast, we will embark on a boat ride to witness local squatting markets and transport goods such as coconuts from one factory to another. Next, we will cross the local ferry to visit the magnificent Cao Dai temple. On our way back, we will stop at small coconut-processing operations situated along the riverbank. Here, we will see how the coconut fibers are removed from the husk to make rope, which is then used to weave rugs. Most of the work is professionally done by hand, and the buyers are mostly foreign companies. Once we return to the lodge, we can participate in some activities such as harvesting water coconut leaves and weaving them ourselves. These leaves are a primary building material in the Mekong Delta, used to build walls and roofs of houses. The local people will demonstrate not only how they use these leaves, but also how to make the 'poon' sticks that illuminated the previous night. Finally, after checking out, we will transfer you to Tan Son Nhat International Airport, where you will take your flight back home. Please note, your flight should be in the late afternoon. End the Service"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -4937,7 +4993,8 @@
         "description": "Tour ends in Ho Chi Minh City: The tour ends with breakfast at the hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -5012,7 +5069,8 @@
         "description": ": The trip ends after breakfast at our hotel in Hanoi. There are no activities planned today, so you're free to depart from Hanoi at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from Noi Bai International Airport (HAN), which is 45 minutes from the hotel. If you have time before your flight, you might like to take another wander through the fascinating Old Quarter or stroll along the shore of Hoan Kiem Lake."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -5077,7 +5135,8 @@
         "description": "The trip ends today after breakfast and there’s a free transfer for you to the airport. If you’d like to extend your adventure, speak to your sales representative about booking an idyllic wellness retreat on the beach or joining one of our other adventures in Southeast Asia, perhaps Discover Laos in Comfort or Treasures of Northern Thailand."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Vietnam",
@@ -5152,7 +5211,8 @@
         "description": "Free time, included departure airport transfer The last day leaves you with free time to relax before we include a departure transfer to the airport for you to catch your flight back home. Additional options are also available today if you have a late afternoon or evening flight, or if you'd like to add some extra nights. OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -5247,7 +5307,8 @@
         "description": "Breakfast at hotel. Depending on your flight you may have some time for shopping. Then we transfer you to the airport for your flight home. Inclusion: Transfer, breakfast."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -5337,7 +5398,8 @@
         "description": "Ninh Binh – Ha Noi You have free time today until our guide and driver pick you up and transfer you to Noi Bai airport for your flight back home. Alternatively, you may wish to join the optional extension to Halong Bay (please contact us for details)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -5437,7 +5499,8 @@
         "description": "Return to the airport and fly to Ho Chi Minh City to connect with your international flight back to the UK. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Vietnam",
@@ -5522,7 +5585,8 @@
         "description": "Hoi An/Danang/Departure Spend your final hours in Vietnam at your leisure before being driven to Danang Airport for your homeward flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Vietnam",
@@ -5632,7 +5696,8 @@
         "description": "Flight back to the UK."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -5717,7 +5782,8 @@
         "description": "With no planned activities today, your trip comes to an end. There’s lots to see and do in Vietnam – The Cu Chi Tunnels are an interesting daytrip, plus the city is a great springboard to head down to the Mekong Delta or to Phu Quoc Island. Ask your group leader for more recommendations. If you’d like to spend more time here and need further accommodation, just speak to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Vietnam",
@@ -5782,7 +5848,8 @@
         "description": "After breakfast, you are free to leave at any time, as there are no activities planned today. If you would like to spend some more time in Hanoi, we’ll be happy to organise additional accommodation for you (subject to availability). Thinking of exploring more of the majestic Northern Vietnam after your trip is finished? Then check out our Ninh Binh Mini Adventure (TVAN) -for an off-the-beaten path discovery of Pu Long and Ninh Binh. Or you can try our Hiking In Sapa (TVAG) - for a big doze of dramatic mountain landscapes, crisp fresh air and colorful hilltribes."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -5882,7 +5949,8 @@
         "description": "Departure Saigon, Goodbye Vietnam: Breakfast at hotel. Depending on your flight you may have some more time for shopping. Then we will transfer you to the airport for your flight home. Goodbye, and hope to see you again soon! Inclusion: Transfer, breakfast."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Vietnam",
@@ -5977,7 +6045,8 @@
         "description": ": The trip ends after breakfast at our hotel in Ho Chi Minh City. There are no activities planned today, so you're free to depart from Ho Chi Minh City at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from Tan Son Nhat International Airport (SGN), which is a 20-minute drive from our hotel. Why not extend your trip with a cultural journey through Southeast Asia's hidden gem - Cambodia - on our Inside Vietnam + Cambodia Highlights combo tour? Explore the vibrant capital Phnom Penh and experience the breathtaking temples of Angkor for an unforgettable adventure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -6072,7 +6141,8 @@
         "description": ": The trip ends after breakfast at our hotel in Ho Chi Minh City. There are no activities planned today, so you're free to depart from Ho Chi Minh City at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you need to depart from Tan Son Nhat International Airport (SGN), which is around a xx-minute drive from our hotel. As part of our Upgraded range, we also offer a complimentary transfer to those who have made post-tour accommodation arrangements through Explore, regardless of your departure day. Why not extend your trip with a cultural journey through Southeast Asia's hidden gem - Cambodia - on our Inside Upgraded - Vietnam and Angkor? Explore the breathtaking temples of Angkor for an unforgettable adventure into the heart of Cambodia's ancient wonders."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Vietnam",
@@ -6147,7 +6217,8 @@
         "description": "Today, you will soak up the relaxing ambiance after waking up and tucking into a breakfast spread. Spend the last few hours of your leisurely cruise reminiscing about your incredible adventure in Vietnam before exploring more of the surreal, island views as you slowly make your way back to the pier. You can delight in creating lifelong memories together as you capture gorgeous shots of the sea. You will arrive on the pier shortly and make your way back to Hanoi. You can indulge in one last exceptional lunch at a leading restaurant before transferring to the airport. You will joyfully depart with the confidence that you have explored the best of Vietnam’s immaculate treasures."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Vietnam",
@@ -6222,7 +6293,8 @@
         "description": "Your final day in Vietnam will reveal the age-old beauty of Cam Ranh’s ancient coral reefs and untouched beaches of Nui Chua National Park. You will capture marvelous images of the picturesque rock and luminescent, moss-covered stone formations that encapsulate Hang Rai beach within the park. Before you return to your resort and gather your things, you will have the opportunity to visit Hang Rai’s grape arbor, where you can have a hand at picking grapes that burst with flavor and are used to produce local red wine. This uniquely Vietnamese experience will conclude your engrossing tour across its Southern highlights and fill your memories with magical moments of your adventures. You will comfortably transfer to Ho Chi Minh City before the afternoon sets in. You will make your way home feeling totally satisfied and wanting to return."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -6302,7 +6374,8 @@
         "description": "Your adventures will end today and you will leave having seen the best of northern Vietnam’s cities, seas, and countryside. After breakfast, you privately transfer back to Hanoi, where you arrive at the airport for your flight home. You will bid farewell to your driver and guide, leaving with beautiful memories of your cultural tours and dramatic discoveries from Ninh Binh to Ha Long Bay, Hanoi, and Sapa."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -6397,7 +6470,8 @@
         "description": "Depending on what time your onward journey begins, you may have time to explore a little more of bustling Ho Chi Minh City. Perhaps a visit to some of the historical sites, such as Reunification Hall, said to be a historical monument that contains the essence of eastern culture, or the beautiful Cathedral of Notre Dame. Bid farewell to Vietnam as you transfer to the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -6522,7 +6596,8 @@
         "description": "Sip on the unique flavors of the coffee and taste the accompanied buttery and sweet croissants once more. The simple flavors of the French Colonial days continue to delight the locals and you have come to relish them as well. In the mist you can hear the morning procession of the monks. The sienna robes glow in the early light. People offer alms of rice and cookies. The monks hum in a low and hypnotic tone. Soon your private transfer will meet you and escort you to the airport for your flight home. But for now you can enjoy the daily routine of the city, its people, and the colorful world of Southeast Asia just a little longer. Zicasso offers many options for Vietnam vacations . For additional ideas and traveler experiences, read the Vietnam tours reviews ."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -6587,7 +6662,8 @@
         "description": "This morning, you may rise to the sounds of a city overflowing with life. The crackle and sizzle of coals burning under grills, the warm chatter of friends in a foreign language, and the buzzing of grounding coffee beans may cause you to reminisce about the amazing memories you have created on your trip. You can seize your last morning in Vietnam with a hearty traditional breakfast at a beloved street food joint before wrapping up your vacation by heading to the airport by way of private transfer."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -6642,7 +6718,8 @@
         "description": "You will further delve into the rich flavor profile of Vietnamese cuisine on your final day in this magnificent country. Early in the morning, you will transfer to a prestigious culinary school, where you will be accompanied by professional chefs who will select essential ingredients for you at a local market. You will return to the school where you will begin preparing a selection of endearing dishes. With the help of your expert chef, you will learn the intricate details behind these unique meals and bring out the exceptional flavor in your own creations. You will share your meals to bring the experience to an end and delight in the fruits of your labor. A certificate will be awarded to you to showcase your newfound culinary skills, and you will bid your farewells and meet your private transfer. Finally, you will transfer to the airport with exceptional memories and lifelong images of this diverse expedition through Northern Vietnam. You will soar into the sky, ebullient with the exciting adventures that you have had. Until next time, Northern Vietnam will eagerly await your return."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -6737,7 +6814,8 @@
         "description": "The morning calls of Saigon begin and you awaken to aroma of fresh Vietnamese coffee once more. The delicate aroma of French pastries blends with the rich dark roast as you enjoy your final breakfast in Vietnam. The morning is at your leisure allowing you the opportunity to venture back into the city for once last visit to the Old City and even to venture into Khaisilk, a fabulous boutique store known for its silk scarves, ties, shirts and more. Soon your private transfer will have you at the airport and ready for your journey home. For more itinerary options, you may want to browse the reviews for Vietnam travel agents on Zicasso."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -6797,7 +6875,8 @@
         "description": "After breakfast this morning, your private chaperone will greet and transfer you to the airport so that you can connect with your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -6922,7 +7001,8 @@
         "description": "In the morning, you may find the scent of strong coffee filling the hotel's dining room. Many locals enjoy the more robust flavor of rich coffee sweetened with condensed milk and possibly poured over ice to mitigate the tropical heat of the region. As you finish breakfast, your private transfer will meet you in your hotel lobby. You will travel to Siem Reap International Airport to check-in for your flight home, bringing an end to your luxurious adventure through Southeast Asia and the dynamic gastronomy of Thailand, Vietnam, and Cambodia."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Vietnam",
@@ -6997,7 +7077,8 @@
         "description": "In the morning you can indulge in one more fresh brewed Vietnamese coffee. You find the locals sitting in cafes enjoying the early day before the rush of the streets begins to overtake the calm, quiet hour. After breakfast your private transfer will meet you at your hotel. You have visited with locals and experienced the cuisine, floated down rivers and squeezed through tunnels. Your flight takes off and brings you closer and closer to home. The culture of Vietnam is enrapturing and will always be a source of fascination."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -7072,7 +7153,8 @@
         "description": "Today brings the calm sounds of the Thu Bon River which continue to make their way through the center of town. You spent your last evening strolling along the gentle light of the main streets that emanated color from the paper lanterns gracing the roadside. Today you will once again have a private transfer to the airport where you will begin your journey home. Your time in Vietnam has introduced you to the natural and manmade majesty that fills the countryside and the cityscape, from culture to skyline, mountains to karsts, and has given you a tremendous introduction to all that Vietnam is and can be. Browse the Vietnam tours reviews for additional ideas on how to customize your trip."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -7147,7 +7229,8 @@
         "description": "You will take away the memories of Vietnam’s enchanting cuisine with you; however, there is really nothing like learning how to cook it yourself. You and your family will begin your final day in the country at a prestigious culinary school in the city. You will be entertained by expertly trained Vietnamese chefs and discover the facets of the renowned cuisine. You will also enjoy uninterrupted family fun as you all prepare traditional dishes alongside your experienced chef. After you have mastered your hands at Vietnamese food, you can share in your joyous morning of cooking as you dine on your elegant meals. You will each be presented with a certification of completion to showcase your new skills and will head home with the knowledge of how to feast and cook like the locals. Finally, you will return to your room to collect your things and bid your farewells to this dazzling country. Your private transfer will meet you in the lobby to comfortably transport you to the airport with ample time to make your flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Vietnam",
@@ -7207,7 +7290,8 @@
         "description": "This morning, you can venture out to Cam Ranh, where you will transfer through the neighboring bay on a flight to Ho Chi Minh City. You can marvel at all of the environmental wonders one last time as you arrive in Cam Ranh, where you will enjoy an authentic Vietnamese breakfast at a cafe to culminate your trip. From here, you will venture through Ho Chi Minh to the international airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Vietnam",
@@ -7267,7 +7351,8 @@
         "description": "Bring in the morning with one more freshly pressed cup of Vietnamese coffee; the rich and dark roast brings effervescence to the day. The early hours are yours to spend as you’d like, whether walking through the bustling streets once more or visiting Cholon for last minute gifts enriched with spices or brimming with traditional colors. Soon your private transfer will pick you up from the hotel and bring you to the airport for your flight home. You have visited the highlights of Vietnam, from picturesque landscape to iconic museums within a culture that was once foreign but is now familiar and endlessly friendly. If your family wants more than 7 days in Vietnam, consider an extension. Browse the Vietnam tour reviews for ideas and other tour options."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Vietnam",
@@ -7347,7 +7432,8 @@
         "description": "Departing Chiang Mai, you take home the recipes and the memories, perhaps even a vacuum-packed bag of some raw ingredients. The day is at leisure until your airport transfer."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -7427,7 +7513,8 @@
         "description": "You watch Hanoi’s streets return to energetic life. In the Old Quarter you can see people riding their bicycles. Each bicycle holds a large basket that is filled with a variety of fruit, from oranges to limes, contained in a wide, shallow basket. You can imagine the gentle ripple of Hoan Kiem Lake in the early breeze. After breakfast your private transfer will escort you to the airport. You board your flight and inch closer to the comforting familiar flavors of home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -7492,7 +7579,8 @@
         "description": "The morning brings with it your final day in Hanoi and Vietnam, filled with the bittersweet taste of rich roasted coffee. Spend the early hours returning to your favorite sites of the city, from the spiced scents of the Old Quarter to the tree-fringed banks of Hoan Kiem Lake where the graceful Rising Sun Bridge arches over the tranquil waters below. Later in the day your private transfer will meet you at your hotel and take you to the Noi Bai Airport for your journey home. If you'd like more than 8 days in Vietnam, consider customizing this trip further. Visit the section for Vietnam tours reviews ."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -7542,7 +7630,8 @@
         "description": "Stunningly diverse and bursting with cultural character, Ninh Binh is the final stop on your heritage tour across Northern Vietnam. You will retreat to an upscale resort within the Red River Delta that is encompassed by rice fields and expresses the apex of traditionally-inspired, luxurious design. From the tastefully furnished villas to the tree-flanked infinity pool, every aspect of your resort will breathe grandeur. Situated outside of the city district, you will treasure the peaceful serenity and fresh air that blankets this premium resort. The evening will bring with it a remarkable sunset that you may catch a glimpse of while you savor a sumptuous Vietnamese supper of outstanding quality. The culture and history in which Ninh Binh is steeped are delightfully represented at today’s coveted destination of Bai Dinh Temple, which is an immense spiritual complex that you may find familiar if you have seen the latest installment of the Kong movie franchise. Within its intricately crafted walls, you will discover ancient Buddhist art and images that spotlight the sacred heritage that underpins the complex’s construction. You can continue your exploration in Tam Coc, which is a nearby town that forms part of the Trang An Scenic Landscape Complex UNESCO World Heritage Site. Here, you will board a traditional sampan boat and breeze down the calm river that is far removed from the hustle of the city streets. You will be in awe of the towering mountains that surround the river and the dark caves that you will transfer through. You will cherish your moments within this glorious environment before you find yourselves spiraling up the steps of Bich Dong Pagoda toward the Buddhist images that can be found within this cave temple. You will continue through the roof of the cave and stand atop the mountain, looking out over the vast spread of emerald water and the verdant valleys. Before you return home, you will enjoy one last Vietnamese breakfast that will be complete with an array of delicacies that have been prepared at an admired Ninh Binh cafe. You will then fill up in style with scenic vistas before you meet your private transfer to make your way back to Hanoi with plenty of time to catch your plane. You will depart Vietnam having enjoyed an exceptional cultural exploration and with many picturesque photos by which to remember your journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -7597,7 +7686,8 @@
         "description": "Hoi An is located in the Northern half of central Vietnam against the stretching coastline of the East Vietnam Sea. It is a charming city of marvelous, tropical appeal that is home to a prosperous history that you will have the luxury to uncover. Your home away from home will be a 5-star resort that features a collection of extraordinarily sleek villas and world-class amenities that will keep you all thoroughly enthused. Hoi An attained its zenith of influence through the 17th and 19th centuries, where Japanese and Chinese cultures helped to shape the distinctly diverse traditions that underpin its current conventions. The town is packed with noteworthy landmarks, and these will be best explored by foot as your tour guide escorts you through the illustrious districts. The Assembly Hall of the Chaozhou Chinese Congregation offers a glimpse of the ethereal decor and architecture for which its country is known. You will feel as though your family has been spirited away to a forgotten world as you stroll through the unique landmark. Afterward, the quaint Japanese Covered Bridge, in all its ancient glory, will take your breath away as you witness the elaborate wood carvings along the bridge, which serves as an important pedestrian passageway. Finally, you will fully immerse yourselves in the traditions at a Vietnamese Lantern making class. Trained experts will share stories of the lantern’s significance in their culture as well as demonstrate the time-tested process that is used to create these artisanal displays. You will depart Vietnam with a wealth of knowledge and insight into the country’s captivating traditions in addition to memories of the great family-friendly activities that you will have adored. Your journey will conclude with one last, exquisite Vietnamese breakfast before you transfer to the airport with plenty of time to spare and reminisce on your enchanting expedition to North Vietnam before flying home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Vietnam",
@@ -7657,7 +7747,8 @@
         "description": "Today will be your final morning in Vietnam. With a few hours to spare, you can fill up on a continental breakfast and head to the lobby, where your guide will be waiting in a unique, three-wheeled mode of transport that is known as a cyclo . Your experienced tour guide will usher you around the city, weaving through the traffic and toward a few beloved Ho Chi Minh City highlights that are worth capturing before you leave. The tour will provide a pleasing conclusion to your luxurious adventure through Vietnam. Once your tour has finished, you will transfer to the airport for your international flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -7717,7 +7808,8 @@
         "description": "This morning will mark your last in Vietnam. You can rise early and make the most out of this final morning or relax in the comfort of your private room. After breakfast, you will transfer to the airport for your departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -7792,7 +7884,8 @@
         "description": "Your final day will be spent at your own pace. The sunshine will glimmer through your blindfolds and awaken the sleeping birds that let off a chorus of rhythmic chirps. You may hop out of bed and into the pool for a morning under the sun’s embrace or venture straight for the delicious breakfast spread of succulent, international, and Vietnamese cuisine. You will then indulge in the plethora of revitalizing spa treatments at the exemplified wellness center, where you will be completely spoiled for choice. Here, all of your stresses wash away with your gentle and therapeutic oil massage before you ready your things and wait for your private transfer. You and your partner, after having experienced many enchanting moments, you will depart Vietnam totally jubilant with your intimate vacation together."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Vietnam",
@@ -7842,7 +7935,8 @@
         "description": "The final destination on your romantic retreat across Northern Vietnam is the picturesque emerald waters of Ha Long Bay. This UNESCO World Heritage Site is a treasure location that is complete with towering limestone islands and immense stretches of peaceful sea. You will journey to the bay via luxury train and spend a night in an opulent resort that shares idyllic vistas. You will spend your first evening at a celebrated, gourmet restaurant and fine dine on exquisite Vietnamese dishes. You can watch the remarkable sunset over the bay as it illuminates the limestone cliffs and the shimmer of the sea. First thing the following morning, you will travel to the pier and board a luxurious cruise liner that is bound for the bay. The fluent and friendly staff will welcome you on board and usher you to your private suite. You will witness the immaculate sights from the comfort of your balcony and share in complete intimacy on board the regal boat. Throughout your stay, you will be treated to world-class cuisine at the prestigious restaurant in between your pristine adventures. The liner will gently glide across the water past the striking sights of limestone islands and hideaway caves. You will deboard the boat into a kayak as you and your beloved traverse the peaceful water and capture the magnificent sights up close. Then, you may take a dip in the warm water and swim among the towering cliffs that surround you. The voyage will move to a traditional floating village, where you will have the unique opportunity to connect with the locals who have set up houses on stilts in the water. You can also acquaint yourselves with this intriguing way of life and peruse the stalls in search of precious keepsakes to remember your enchanting expedition. Finally, you will reach a picturesque cave and cherish the moments that you spend within the age-old rock formation. A delectable dinner spread of various cuisines will conclude your day, and you will indulge in a candlelit dinner under the twinkling stars. Today, you will begin your morning with an invigorating Tai Chi session on the open-air deck as you feel the day’s embrace awaken your spirit. You and your partner will revitalize your minds and bodies as you perform timeless poses under the guidance of an expert Tai Chi specialist. Before you dock at the pier, you can fuel up on a marvelous spread of Vietnamese breakfast delicacies. Afterward, you will make your way back to Hanoi with ample time to catch your plane that is destined for home. You and your loved one will leave Northern Vietnam having explored all of its romantic highlights and will return home with unforgettable memories of this intimate adventure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Vietnam",
@@ -7937,7 +8031,8 @@
         "description": "Today you will have the morning at your leisure. Enjoy the view from your room once last time as you sip your fresh brewed Vietnamese coffee. You listen to the water’s ebb and flow. You hear the monkey’s rustling the branches. You watch the sunlight spread over the surface of the sea. Your private transfer will return you to the main land where you will soon arrive at the airport for your flight home. You have ventured to secluded mountaintops and private islands and now you will take all these unforgettable memories home with you."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Vietnam",
@@ -8067,7 +8162,8 @@
         "description": "Your final breakfast in the country brings the bittersweet flavor of Vietnamese coffee to your palate. The bustling energy of Ho Chi Minh City begins to swirl through the streets once again. The morning is yours to enjoy the neighborhoods once more, from the zesty spices of Cholon to one last taste of pho before your flight. Soon your private transfer will meet you in the hotel lobby and take you to Tan Son Nhat Airport where you will continue the journey, but this time towards home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -8127,7 +8223,8 @@
         "description": "After breakfast this morning, your guide will escort you to the airport so that you can connect with your outbound flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Vietnam",
@@ -8182,7 +8279,8 @@
         "description": "You will disembark your regal cruise liner on Cat Ba Island, which is a staggering destination that is complemented by sweeping beaches and concealed coves. It is also the home of The Cat Ba National Park, which is a luxuriant forest that blankets the entire island. Your prestigious resort awaits your arrival and offers an experience that is unlike any other. You will be shown to your first-class villa, which will overlook the endless breadth of the sea that you will have the pleasure of swimming in once you have unpacked your things. You may totally submerge yourselves in the secluded luxury while watching the world go by from the serenity of your poolside lounger. You can also spoil yourselves to one last spa treatment before you bid your farewells. Cat Ba Island boasts many glorious snorkeling destinations along its limestone walls that protrude from the sea. You will be collected by your private guide the following morning in a speed boat that will lead you a resplendent tour of the colorful coral reefs that lie just beneath the surface of the calm water. With professional gear on deck and an underwater camera for photographs, you will capture unforgettable moments as you wade alongside the vibrant sea life that calls these waters home. Emerging from the water, you will feel the soft sand beneath your feet before retreating to the cool shade under palm trees for a morning of sublime relaxation. As your adventurous tour of Northern Vietnam slowly comes to an end, you will reminisce on the enthralling experiences with glowing smiles on your faces. You will transfer back to Hanoi later this morning before checking in at the airport and boarding your departing flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -8242,7 +8340,8 @@
         "description": "After breakfast, a private driver will transfer you to the airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -8332,7 +8431,8 @@
         "description": "The call of the river has subsided this morning as you are no longer situated along the Mekong and the illustrious waterways that allowed cultures and temples to thrive. After breakfast you will have the morning to explore Siem Reap and enjoy the lively Central Market where the scent of fresh baked baguettes combines with noodle soup. Whether seeing the colorful produce once again on display or enjoying last minute shopping where haggling is always encouraged, you will find the final hours of your Southeast Asian getaway filled with enchantment before your private transfer takes you to the airport to begin your journey home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Vietnam",
@@ -8417,7 +8517,8 @@
         "description": "Breakfast is accompanied by the rich flavor and scent of fresh Vietnamese coffee that lifts you up to the energetic streets of Ho Chi Minh City. Soon your private transfer will ferry you to the airport where you will catch your return flight home. Until then you can meander through the city streets once more visiting the comforts of the Hideaway Café for a final tranquil sip of coffee within the colonial décor, or delighting once more in a crispy rice pancake at the Ben Thanh Market. Eventually you will journey home but there is always so much more to see. For ideas on further customization, you may want to read the reviews for Vietnam travel agencies ."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Vietnam",
@@ -8492,6 +8593,7 @@
         "description": "Your morning is free to explore Ho Chi Minh City once more and to try to retain as much of the natural and fresh flavors of the city as you can. From the exquisite lime zest to the chili paste, the succulent noodles to the deeply rich soup, you have ventured through the winding roads and climbing countryside, experiencing the diverse tastes of each region and the familiar flavors of the Vietnamese tradition. Soon you have a private transfer to the airport where you will begin your journey home, but one more taste of the local dishes couldn’t hurt. For additional tour options, read about other tours of Vietnam offered by Zicasso . For traveler experiences, read the Vietnam tours reviews ."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

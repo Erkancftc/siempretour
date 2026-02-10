@@ -62,7 +62,8 @@
         "description": "Socotra – Abu Dhabi - After an early breakfast, we leave the island behind and fly back to Abu Dhabi to connect with your onwards flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Yemen",
@@ -142,6 +143,7 @@
         "description": "After an early breakfast, we will take to the streets of Hadiboh for a morning of photography. We’ll visit the local produce and fish market, a vibrant scene perfect for capturing genuine portraits and the bustling local life. After immersing ourselves in the colors and activities of the market, we will transfer to Socotra Airport for our flight back to Abu Dhabi. This final morning in Hadiboh provides a rich opportunity to document the daily rhythm and culture of Socotra before our departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   }
 ]

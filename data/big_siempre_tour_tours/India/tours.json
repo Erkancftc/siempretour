@@ -72,7 +72,8 @@
         "description": "After breakfast, you'll be transferred to the international airport for check-in and your onward flight home. For guests opting to extend their journey, your guide will meet you at the hotel to begin your additional itinerary."
       }
     ],
-    "map": "images/tour-photos/India/01/01map.webp"
+    "map": "images/tour-photos/India/01/01map.webp",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -152,7 +153,8 @@
         "description": "This morning we will finish the tour and we will transfer you to the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -212,7 +214,8 @@
         "description": "Delhi (Departure): This morning we will finish the tour and we will transfer you to the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -312,7 +315,8 @@
         "description": "This morning, visit the Taj Mahal at sunrise, built by Emperor Shah Jahan in memory of his wife, Mumtaz Mahal. The early morning light provides ideal conditions to appreciate the monument’s symmetry and craftsmanship. Afterwards, visit the Agra Fort, a red sandstone fortress that served as the main residence of the Mughal emperors when Agra was the capital. From its walls, there are good views across the Yamuna River towards the Taj Mahal. In the afternoon, drive back to Delhi, where the trip concludes."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "India",
@@ -392,7 +396,8 @@
         "description": ": Our tour ends this morning at our hotel in Delhi. There are no activities planned today, so you're free to depart at any time. If your flight leaves later in the day, luggage storage facilities are available at our hotel. If you'd like a hotel transfer, you'll need to depart from Indira Gandhi International Airport (DEL)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -457,7 +462,8 @@
         "description": "Breakfast at the Amaya. Guided morning walk of the terraced farm to look at the farm to table eating concept of the resort. Depart Amaya Resort at 1230 for Chandigarh with a packed lunch. We will deliver you to the railway station or airport in Chandigarh or to a city-centre hotel for you to continue your adventure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -552,7 +558,8 @@
         "description": "Departure After breakfast, we might make a brief stop at the Kamakhya Temple (time-permitting) and then continue to Guwahati airport for your onward flight. Alternatively, you can extend your stay into neighbouring Meghalaya to see the incredible living root bridges, or into the mountains of Arunachal Pradesh. Contact us for more information. Meal plan: Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -652,7 +659,8 @@
         "description": "MON TO DIBRUGARH AIRPORT, NAGALAND – After breakfast we transfer to Dibrugarh Airport for the flight to Calcutta. Hotel accommodation is not included on Day 16. If you would like us to book you a hotel in Calcutta for this night please let us know at the time of booking. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -747,7 +755,8 @@
         "description": "Kovalam to Trivandrum and return flight: Kovalam is well located for the airport and the drive will only take about 30 minutes. Drive to the airport to catch your departure flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Yoga&Wellness"
   },
   {
     "destination": "India",
@@ -822,7 +831,8 @@
         "description": "Gangtok to Bagdogra return – 135kms in 4hrs: Today after breakfast we return to Bagdogra airport. The road passes along the Tista River and you will have a scope to see the lovely landscape along the way. Reach airport in time and good bye to a memorable tour in the Himalayas."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -927,7 +937,8 @@
         "description": "Transfer to International airport, to connect your journey back Home.."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -1022,7 +1033,8 @@
         "description": "After breakfast, check out and transfer to airport at the appropriate time for your return flight home. If India's infinite charms beckon you more, we can suggest extensions in Mumbai, Delhi or other parts of India."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -1127,7 +1139,8 @@
         "description": "Bon Voyage! Transfer to Kochi Airport for departure. You have some free time to buy any gifts for your loved ones back home before we transfer you to the airport to catch your flight back home. OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -1252,7 +1265,8 @@
         "description": "Breakfast at the hotel and transfer to Delhi airport for your flight back home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -1362,7 +1376,8 @@
         "description": "MYSORE TO BANGALORE AIRPORT[By Surface - 185 km/Approx 4.5 hrs] Breakfast from the homestay. Departure Transfer to Bangalore Airport. Departure assistance at Airport. Proceed to Bangalore Airport to connect to your flight back home. (Depending upon the flight timings there can be some changes in this departure transfer)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -1402,7 +1417,8 @@
         "description": "Home This morning you will have a private transfer arranged for you to get you to the airport in order to catch your return flight home or onwards to your next destination. (breakfast is the only meal included today)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -1482,7 +1498,8 @@
         "description": "Drive to Boghiwheel Ghat and take a ferry boat across to Dibrugarh. Transfer to airport for flight to New Delhi. Trip ends."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "India",
@@ -1562,7 +1579,8 @@
         "description": "Departure from Guwahati Airport: We leave Guwahati after breakfast and escort you to the Airport to take your flight to Delhi or Kolkata for the international connection. Tour ends."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -1627,7 +1645,8 @@
         "description": "Transfer to the Airport This morning you bid farewell to the crew and new friends as you set off for the 4-hour drive to Guwahati airport. Alternatively, we can arrange a 40-minute transfer to Tezpur airport or a 2 ½ hr transfer to Jorhat airport. Kaziranga National Park has low-lying grassland, which may not be accessible when the river is at or near flood level."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "India",
@@ -1727,7 +1746,8 @@
         "description": ": Our tour of Northern India ends at our hotel in Amritsar. There are no activities planned today, so you're free to depart at any time. If your flight leaves later in the day, luggage storage facilities are available at our hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -1782,7 +1802,8 @@
         "description": "Your last drive with Husna as you head to the airport and bid farewell to India - hopefully to return again soon!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -1842,7 +1863,8 @@
         "description": "Departure for onward journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -1902,7 +1924,8 @@
         "description": "Kanha - Raipur: After breakfast drive four hours to Raipur for onward flights or train journeys."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -1977,7 +2000,8 @@
         "description": "Kanker-Raipur: Drive back to Raipur to catch flight/train for your onward journey. Note: You have an option of extending this tour to Bhoramdeo to see more of rural India and to meet Baiga people, and further still to Kanha National Park."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -2072,7 +2096,8 @@
         "description": ": Our tour of central India ends at our hotel in Goa. There are no activities planned today, so you're free to depart at any time. If your flight leaves later in the day, luggage storage facilities are available at our hotel. If you'd like a hotel transfer, you'll need to depart from either Goa's Manohar International Airport (GOX), located approximately 40 minutes from the hotel, or Dabolim Airport (GOI), around a one-and-a-half hour drive from the hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -2117,7 +2142,8 @@
         "description": "Home - Today you will be taken back to Mumbai International Airport in a private vehicle, in time to catch your flight home. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -2187,7 +2213,8 @@
         "description": "Goudaguda - Visakhapatnam Spend the morning at Goudaguda then take the lunchtime train through the beautiful Araku Valley to Visakhapatnam. Reaching Visakhapatnam at 8.40pm you will be met and taken to the airport for your onward flight the following day."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -2282,7 +2309,8 @@
         "description": "The adventure ends today. Begin your return journey home or, if you’d like a bit more time to explore Kerala, speak to your sales representative about extending your stay."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -2327,7 +2355,8 @@
         "description": "After an exciting journey into the Himalayan hinterlands, it is time to relax by the river at Jim Corbett national park. Depending on your interest, we can adjust the number of days in the national park. While the national park is known for Tigers, our full-day tour will take your experience far beyond as we discuss the other plant and animal species, and the regional flora and herbs. Your stay will be in a sustainably built home for a truly relaxing end to this experience. On Day 12, we either drop you to the nearest railway station or drive you to Delhi for onward journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -2387,7 +2416,8 @@
         "description": "Drop to Jorhat airport after breakfast for return journey to Kolkata by flight (we are taking flights only where distances are too large to be done by train in time), and international flight to home country."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -2447,7 +2477,8 @@
         "description": "Departure to the airport. Or you can extend this holiday with a wildlife experience in Assam."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -2512,7 +2543,8 @@
         "description": "Departure: We drop you to the airport or railway station for onward journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -2627,7 +2659,8 @@
         "description": "Transfer to International airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -2737,7 +2770,8 @@
         "description": ": Our tour ends at our hotel in Kathmandu."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -2837,7 +2871,8 @@
         "description": "There are no activities planned for your last day, and you can depart the accommodation at any time. If you would like to stay an extra couple of days, and it's recommended that you do, just get in touch with your booking agent ahead of time. If you do extend your stay, maybe check out the great range of Urban Adventures – like the Kathmandu: Rickshaw Night Explorer tour."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -2897,7 +2932,8 @@
         "description": "Transfer to Delhi airport for flight home"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -2972,7 +3008,8 @@
         "description": "Early Morning Departure from Waxpol Ghat after checkout. \"Depart from Sunderbans to Kolkata Airport, and then proceed to Delhi for an international flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -3047,7 +3084,8 @@
         "description": "There are no activities planned for the final day and you can depart the accommodation at any time. If your family would like to spend some more time in Delhi, why not book an Urban Adventures tour? The Made in Delhi Shopping Tour takes you to the best markets to shop, so you can find some bargains. Better yet, it’s child-friendly!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "India",
@@ -3122,7 +3160,8 @@
         "description": ": The trip ends after breakfast at our hotel in New Delhi. There are no activities planned today, so you are free to depart from New Delhi at any time. If your flight is departing later in the day luggage storage facilities are available at our hotel. If you would like to receive a complimentary airport transfer today, you need to depart from New Delhi's Indira Gandhi International airport (airport code DEL), which is 8km, around 20 minutes from the hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "India",
@@ -3187,7 +3226,8 @@
         "description": "Today morning after breakfast, you will be assisted & transferred in your private car to Delhi International airport to connect with your flight for your onward destination."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -3247,7 +3287,8 @@
         "description": "Delhi - After breakfast, drive back to Delhi (approx. 05 Hrs). Upon arrival check in to the Hotel. Overnight at the Hotel (Pride Aero City). Next day morning after breakfast, you will be assisted & transferred in your private car to Delhi International airport to connect flight for onward destination."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -3352,7 +3393,8 @@
         "description": "Morning, after breakfast, you will depart for Nagpur Domestic Airport, which is a 3.5-hour drive, to catch your connecting flight to Delhi or Mumbai."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -3452,7 +3494,8 @@
         "description": "Transfer to Cochin Airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -3532,7 +3575,8 @@
         "description": "After breakfast, check out from hotel and get transferred to Udaipur Airport and fly to New Delhi International Airport to board your flight for your home town."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -3627,7 +3671,8 @@
         "description": "Udaipur: Breakfast at hotel and then tart your city tour. The City Palace - was built in 1725 of granite and marble with filigreed balconies, ornate windows and craftsmanship in glass. The royal palace walls stretch over a mile on the eastern side of the lake. Later enjoy a two-hour boat-ride on Lake Pichola, visiting many of the ghats (banks) where ablutions and meditation take place, and enjoy excellent views of the Lake Palace and City Palace. Also you can visit jag Mandir Palace - formally the Royal Residence, Sahelio Ki Bari. Overnight at Udaipur at one of our hand picked hotels."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -3697,7 +3742,8 @@
         "description": "Departure. Free time until your scheduled transfer to the airport for your onward journey, carrying unforgettable memories of India and Nepal’s cultural treasures."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -3742,7 +3788,8 @@
         "description": "Agra/ Delhi: Today we’ll wake up early to see the Taj Mahal at sunrise- the best time to visit. We come back to our guest house to have a late breakfast and then check out and drive to Delhi. On the way we will stop at a small village where you will get an understanding of how the majority of India’s population live with their unique traditions and customs and to see one of or Rural Community Project. We’ll arrive in Delhi in the evening, and you probably won’t have much energy to do anything else! This will be the end of your tour"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -3812,7 +3859,8 @@
         "description": "After breakfast, you will be provided assisted departure to the airport for your onward flight or flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -3907,7 +3955,8 @@
         "description": "Transfer to Delhi Airport for your return home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -3972,7 +4021,8 @@
         "description": "There are no activities planned for the final day and you're able to depart the accommodation at any time. If you are departing later, you can arrange luggage storage at the hotel. If you would like to stay an extra couple of days, and it's recommended that you do, just get in touch with your booking agent ahead of time. This trip is a great way to see a lot in a short period of time, but if you have more time to explore the south of India. You might like to check out South India Highlights."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -4042,7 +4092,8 @@
         "description": "Transfer to International airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -4102,7 +4153,8 @@
         "description": "The adventure ends in Delhi today. Begin your return journey home or, if you’d like a bit more time to explore this magnificent city, speak to your sales representative about extending your stay. You can combine this trip with our Highlights of Kerala adventure, allowing you to see a completely different side to India."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -4177,7 +4229,8 @@
         "description": "Delhi - After breakfast, you will be assisted & transferred to Delhi International airport to connect with your flight for your onward destination."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -4252,7 +4305,8 @@
         "description": "After breakfast, you will be assisted & transferred in your private car to Delhi International airport to connect with your flight for your onward destination."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -4302,7 +4356,8 @@
         "description": "UDAIPUR: Your final destination is Udaipur, and it just might be the highlight of your trip. This chilled-out, lakeside city has bags of charm, as you’ll find out with the help of one of our brilliant local guides. They’ll introduce you to artisans keeping traditional crafts alive, show you were to find the best street food, take you down narrow lanes to hidden delights, and tell you the stories that bring the culture and history of Udaipur to life. Best of all, you’ll be staying at yet another beautiful heritage property right on the lake, eating your meals by the water with views of the city’s bathing ghats and ‘floating’ palaces. Udaipur is a magical place to conclude your adventure. Highlights Visit the home of a local family for a cooking lesson, and attend an aarti prayer ceremony Explore City Palace, one of Rajasthan’s biggest and most spectacular, with our expert local guide Stay at an 18th century converted haveli (palace) on the shores of Lake Pichola."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -4382,7 +4437,8 @@
         "description": "After breakfast, check out from the hotel and get transferred to the Lucknow Airport and fly to New Delhi International Airport to board your flight for your hometown."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -4492,7 +4548,8 @@
         "description": "Goa: Today marks the end of your amazing tour across India! You’ll bid farewell to your group, ready to head home.?"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -4587,7 +4644,8 @@
         "description": "Ahmedabad - Fly out Morning transfer to airport to connect flight to Mumbai. Afternoon free in Mumbai to visit local market. Connect flight to next destination."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -4682,7 +4740,8 @@
         "description": "Mumbai. Breakfast at hotel - Depart for onwards flight: Depart for your flight back home with fond memories!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -4782,7 +4841,8 @@
         "description": "Departure"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -4822,7 +4882,8 @@
         "description": "Colonial Vadodara & historic Champaner in a day – We’ll take you on a day trip south of Ahmedabad to the city of Vadodara to explore it’s colonial architectural glory and then contrast it with the historic Sultanate and Rajputana region of Champaner before you head back to Ahmedabad for the night and to cap your trip through this fascinating region."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -4927,7 +4988,8 @@
         "description": "Tour ends in Ahmedabad: The tour finishes this morning in Ahmedabad after breakfast."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -4987,7 +5049,8 @@
         "description": "Drive Zainabad - Ahmedabad (100km, 2 hrs). Depart."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -5047,7 +5110,8 @@
         "description": "Delhi - Travelling - Today you will leave Velavadar and be taken back to Ahmedabad to catch your return flight to Delhi. We recommend booking your return flight home from Delhi to depart in the late evening or night so you arrive from Ahmedabad in plenty of time. (Breakfast only today)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -5117,7 +5181,8 @@
         "description": "Transfer to Indore (drive 1h30 duration) Transfer to Indore airport to connect flight to Delhi or Mumbai to continue your tour of India or connect flight back home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -5227,7 +5292,8 @@
         "description": ": Our tour ends at our hotel in Guwahati. There are no activities planned today, so you're free to depart at any time. If your flight leaves later in the day, luggage storage facilities are available at our hotel. If you'd like a hotel transfer, you'll need to depart from Lokpriya Gopinath Bordoloi International Airport (GAU), around a one-hour drive from the hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -5302,7 +5368,8 @@
         "description": "Today morning after breakfast, check out from your hotel and departure transfer to Cochin airport (Approx 1.5 Hrs) for your flight to onward destination."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -5372,7 +5439,8 @@
         "description": "After breakfast, travel to Cochin International Airport for a flight back home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -5467,7 +5535,8 @@
         "description": "MARARI - COCHIN AIRPORT DEPARTURE [By Surface: 85 km/Approx 2.5 Hrs] Breakfast at the hotel. Transfer & Assistance from Hotel to Cochin Airport. Today on time our representative will meet you & transfer you to Cochin airport to connect your flight for your onward journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -5542,7 +5611,8 @@
         "description": ": Our tour of India's Golden Triangle ends at our hotel in Delhi. There are no activities planned today, so you're free to depart at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you need to depart from Delhi Airport (DEL) airport, which is around a 15-minute drive from our hotel. As part of our Upgraded range, we also offer a complimentary transfer to those who have made post-tour accommodation arrangements through Explore, regardless of your departure day."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -5607,7 +5677,8 @@
         "description": "Delhi Relaxed after spa-ing in the mountains and experiencing a more gentle pace of life in the pure mountain air, take one last trip with us, back to Delhi. Maintain that re-discovered inner calm as you plunge into the vivid kaleidoscope of colour that is the Delhi shopping scene."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -5712,7 +5783,8 @@
         "description": "Transfer to the airport at appropriate time for your onward flight home or to extend your time elsewhere in India."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "India",
@@ -5787,7 +5859,8 @@
         "description": "Making an early start to our day, we proceed to a Wildlife Sanctuary but stop enroute to visit an ancient 11th century Fort Complex. Our evening and the next morning will be devoted to nature walks, safaris and leisure in tented cottages by the river’s edge. On the afternoon of the 15th day, we head to the beaches of Goa and Panjim, the capital city of this elegant Portuguese trading outpost."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -5897,7 +5970,8 @@
         "description": "Delhi / Fly back"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "India",
@@ -5982,7 +6056,8 @@
         "description": "Disembark Kolkata (B) Disembark after breakfast and transfer to the airport for your onward journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "India",
@@ -6022,7 +6097,8 @@
         "description": "Day 9 Prepare for a day of purposeful and heartfelt work as we conduct our free eye and dental camp, offering cataract surgeries and dental treatments to villagers of Korta. TIT's Dental camp will open its doors at 10.00 am and will close by 4.00 or until the last patients have been treated. Overnight in heritage preparty of Korta village. Day10 Breakfast followed by an early morning safari to an area that has many muggermuch crocodile and birding possibilities. Lunch at our campsite followed by a relaxing early afternoon before your evening wildlife safari for Leopard by jeep to first a small wetland area in the foothills of Aravali mountain range, where local and migratory birds are present along with muggermuch (mugger crocodile) followed by 2 hours Leopard safari where you will see Leopard up close, other species that are possible to see include Rufous-tailed Hare and jackal. Late evening dinner and night stay. Day 12 Breakfast followed by leaving by road to Udaipur (4 hours’ drive) (via Ranikpur). Arrive at Ranikpur for lunch followed by exploring the 15thCentury Jain Temple complexes for a couple of hours after lunch. There are also a few older temples that are Hindu that are worthwhile to see as well. In the early evening see the Rajasthani Cultural dance show. Dinner and night stay at the hotel. Day 13 Morning breakfast followed the tour of Udaipur City Palace. The Palace spans many different Rajput as well as Islamic architectural styles and is located on the banks of Lake Pichola. Part of the Mewar (Udaipur) royal family’s art collection and objects are on display. I believe you will want at least 2 hours here. After lunch, visit Saheliyon ki badi. Saheliyon ki Bari means “Garden of the Maidens” in Hindi, and was built in the early 18th century for the women of the royal family. With fountains, lotus ponds, decorative pavilions, and marble elephants, the landscaped gardens are a relaxing place to take a walk. There’s also a small museum on-site with information on Rajasthani and Indian history. Day 14 Breakfast followed by transfer to Udaipur airport for domestic flight to New Delhi."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Horse Riding"
   },
   {
     "destination": "India",
@@ -6152,7 +6228,8 @@
         "description": "Today you will be transferred to Cochin airport where you will be assisted by us to board your onward flight to back home"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "India",
@@ -6362,7 +6439,8 @@
         "description": "There are no activities planned for the final day and you’re able to depart the accommodation at any time. Goa is a great place to end the trip – if you can, we recommend staying on for a couple of nights to relax and explore. If you would like to spend more time in Goa, we’ll be happy to organise additional accommodation (subject to availability)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "India",
@@ -6472,7 +6550,8 @@
         "description": "Departure: Sadly the tour will end today. You can leave anytime after breakfast today back home or to your next destination. We will transfer you to the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -6617,7 +6696,8 @@
         "description": "CHECKOUT AND ONWARD TRAVEL: Your epic adventure comes to an end today. Your group leader will help organise your onward travel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -6682,7 +6762,8 @@
         "description": "Mumbai - End the tour in Mumbai, where there are plenty of opportunities to explore all the city offers. You can also opt to take a walking tour."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "India",
@@ -6782,7 +6863,8 @@
         "description": "Tour Ends In Goa: The tour ends after breakfast this morning. There will be some free time to enjoy more of Goa before those on the suggested group flight are transferred to the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -6852,7 +6934,8 @@
         "description": "New Delhi After breakfast, leave Bandhavgarh and travel to Jabalpur airport to catch a flight to New Delhi."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -6942,7 +7025,8 @@
         "description": "CHECKOUT AND ONWARD TRAVEL: Your epic adventure comes to an end today. Your group leader will help organise your onward travel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -7042,7 +7126,8 @@
         "description": "DELHI Time to say goodbye to India and head home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "India",
@@ -7112,7 +7197,8 @@
         "description": "After breakfast check out from hotel and travel to New Delhi International Airport (270Km, 5 Hours drive) to board the flight for you home town."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -7187,7 +7273,8 @@
         "description": "Delhi / Fly to next destination"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -7211,7 +7298,8 @@
     "meet": "",
     "whatExpect": "",
     "dayInfo": [],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -7291,7 +7379,8 @@
         "description": "Delhi / Fly back"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -7366,7 +7455,8 @@
         "description": "Day 10: Transfer to international airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -7431,7 +7521,8 @@
         "description": "Mararikulam -2 nights Time to shift into a deeper level of relaxation. After breakfast enjoy a drive to the Marari Beach Resort, an oasis of calm where you can unwind completely, enjoying secluded beaches and stunning sunsets."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "India",
@@ -7496,7 +7587,8 @@
         "description": "Nagpur Day 13 Early morning proceed for jungle safari (shared basis) in Pench National Park. Return to the hotel for breakfast. After breakfast drive to Nagpur (3.5 Hours approx.). Upon arrival check in at the hotel. Overnight at the hotel. Nagpur Day 14 After breakfast, you will be provided assisted departure at airport for your flight to onwards journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "India",
@@ -7551,7 +7643,8 @@
         "description": "Departure Today you will be taken to Delhi airport in time to catch your return flight home. (breakfast only is included)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -7666,7 +7759,8 @@
         "description": "Your trip comes to an end after breakfast and you’re free to leave the accommodation at any time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -7731,7 +7825,8 @@
         "description": "Home This morning you will be transferred to the airport in time to catch your return flight home. (breakfast is included)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -7831,7 +7926,8 @@
         "description": "The adventure ends today. Begin your return journey home or, if you’d like a bit more time to explore Kovalam, speak to your sales representative about extending your stay. Please note, airport security does not permit any spices/pepper to be carried in hand luggage so please pack these in your main luggage. Electronic devices and batteries should be packed in hand luggage as these are not permitted in your hold/main luggage."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -7896,7 +7992,8 @@
         "description": "Return to Delhi - End of Tour: On your final morning you can enjoy a last jeep safari into the reserve with breakfast provided, before returning to the lodge to freshen up, check out and transfer by road to Bhopal airport to catch your flight to Delhi. Upon arrival back in Delhi a representative will greet you and help you to transfer to the international terminal."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -8011,7 +8108,8 @@
         "description": "Tour Ends In Kochi (Cochin): The tour ends after breakfast at our hotel. Those on our suggested flights will make an early morning departure for the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -8091,7 +8189,8 @@
         "description": "Say goodbye to your group over one last breakfast. If you'd like to stay in Delhi, reach out to your booking agent ahead of time to organise additional accommodation."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -8166,7 +8265,8 @@
         "description": "All good things come to an end! Airport transfer included You have some free time to buy any gifts for your loved ones back home before we transfer you to the airport to catch your flight back home. Additional half day tours are available this morning if you have a later flight, and extension options are also available. OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "India",
@@ -8246,7 +8346,8 @@
         "description": "Bon Voyage! Airport transfer included You have some free time in Delhi this morning until we transfer you to the airport in plenty of time for your flight home. You could also consider adding to go on safari looking for tigers in Ranthambore National Park, or head to the beach at Goa for some sun, sea and relaxation, Indian style. OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -8311,7 +8412,8 @@
         "description": "Bon voyage! Airport transfer included You have some free time to buy any gifts for your loved ones back home before we transfer you to the airport to catch your flight back home. OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -8371,7 +8473,8 @@
         "description": "Home - Departure Today we will be transferred to Delhi international airport after breakfast to catch our return flight home. (breakfast is the only meal included today)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -8436,7 +8539,8 @@
         "description": "Home - Departure After breakfast you will be transferred to the airport in time to catch your return flight home. (breakfast is the only meal included today)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -8506,7 +8610,8 @@
         "description": "Transfer to Nagpur to connect flight to Delhi or Mumbai. Early breakfast and transfer to the Nagpur airport for your flight home. The drive to Nagpur airport will take about 3 hours."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -8556,7 +8661,8 @@
         "description": "Home - Departure After breakfast you will be transferred to the international airport in time to catch your return flight home. (breakfast is the only meal included today)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -8601,7 +8707,8 @@
         "description": "Home - Departure - Today after breakfast we will be taken to Jabalpur airport in time to catch the flight back to home. (Breakfast only)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -8701,7 +8808,8 @@
         "description": ": The trip ends after breakfast at our hotel in Delhi. There are no activities planned today, so you are free to depart from Delhi at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you would like to receive a complimentary airport transfer today, you need to depart from New Delhi's Indira Gandhi International Airport (airport code DEL), which is around 45 minutes from the hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -8741,7 +8849,8 @@
         "description": "Home - This morning you will be collected at the hotel and taken to Khajuraho airport in time to catch your flight back to Delhi and therefore your onward flight home. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -8791,7 +8900,8 @@
         "description": "Home - Today you will be collected from your hotel and transferred to Delhi international airport in time to catch your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -8946,7 +9056,8 @@
         "description": "Colombo: As our India to Sri Lanka group tour package comes to a close, we embark on our journey back to Colombo, the vibrant capital city of Sri Lanka. Along the way, we will make a special stop at a temple, where you will have the unique opportunity to meet a Buddhist priest and participate in a pooja, a traditional blessing ritual. This spiritual experience offers a fitting conclusion to our unforgettable journey together. Upon our arrival in Colombo, it will be time to bid farewell to your fellow travellers and new friends, as you prepare to head home with cherished memories and experiences from our adventure across two incredible countries."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "India",
@@ -9011,7 +9122,8 @@
         "description": "Transfer to international airport"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -9101,7 +9213,8 @@
         "description": "Fort Ahilya - Indore: Tour ends at Airport: We’ll enjoy a relaxing morning at this stunning property before having lunch. From here we’ll drive to Indore where our tour ends."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -9191,7 +9304,8 @@
         "description": ": The trip ends today after breakfast. There are no activities planned today, so you're free to depart at any time. If your flight leaves later in the day, luggage storage facilities are available at our hotel. If you'd like a hotel transfer, you'll need to depart from Sri Guru Ram Dass Jee International Airport (ATQ)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Yoga&Wellness"
   },
   {
     "destination": "India",
@@ -9246,7 +9360,8 @@
         "description": "Arrival Delhi Day room before a night flight home or an extra night in the guesthouse."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -9296,7 +9411,8 @@
         "description": "DAY 17 Morning breakfast followed the tour of Ellora. The cave temples and monasteries at Ellora, excavated out of the vertical face of an escarpment, are 26 km north of Aurangabad. Extending in a linear arrangement, the 34 caves contain Buddhist Chaityas or halls of worship, and Viharas, or monasteries, Hindu and Jain temples. Spanning a period of about 600 years between the 5th and 11th century AD, the earliest excavation here is of the Dhumar Lena (Cave 29).The most imposing excavation is, without doubt, that of the magnificent Kailasa Temple (Cave 16) which is the largest monolithic structure in the world. Interestingly, Ellora, unlike the site of Ajanta, was never 'rediscovered'. Known as Verul in ancient times, it has continuously attracted pilgrims through the centuries to the present. Dinner at local restaurants and catch the train at 21:35 pm for Mumbai arrived at 5:40 am and transfer to hotel in colaba area. DAY 18 after breakfast the day is at your leisure, you can explore the streets of Colaba and magnificent view of Gate way of India from Tajmahal Palace hotel. We will arrange your airport departure according to your return flight schedule."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -9356,7 +9472,8 @@
         "description": "Home This morning after breakfast we will arrange for transfers to Delhi International Airport so you can catch your return flight home. (breakfast only)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -9456,7 +9573,8 @@
         "description": "Chandigarh & Delhi Enjoy a morning tour of Chandigarh and the quirky yet brilliant Rock Garden, before heading to Chandigarh airport to fly to Delhi and connect with your return flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -9516,7 +9634,8 @@
         "description": "Depart from Bangalore After breakfast, it’s time to leave, but the adventure continues with a visit to Shravanabelagola to see the 17-meters high statue of Gomateshwara, an important Jain pilgrimage site. Enjoy a final farewell dinner before we take you to connect to your flight at Bangalore International."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -9631,7 +9750,8 @@
         "description": "MARARI - COCHIN AIRPORT DEPARTURE [By Surface: 80 km/Approx 2.5 Hrs] Breakfast at the boutique villa. Transfer to Cochin Airport . Our chauffeur will meet you & transfer you to Cochin airport for your flight for your onward journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -9691,7 +9811,8 @@
         "description": "Arrive at Mumbai station, transfer to airport for homeward flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -9751,7 +9872,8 @@
         "description": "Bangalore After breakfast, it’s time to leave, but the adventure continues with a visit to Shravanabelagola to see the 17-meters high statue of Gomateshwara, an important Jain pilgrimage site. Enjoy a final farewell dinner before we take you to connect to your flight at Bangalore International."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "India",
@@ -9846,7 +9968,8 @@
         "description": "Today on time we will meet you & transfer you to Bangalore airport to connect flight for your onward journey"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "India",
@@ -9931,7 +10054,8 @@
         "description": "Transfer to Bangalore Airport for your return flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -9996,7 +10120,8 @@
         "description": "Delhi Day 14 After breakfast, you will be provided assisted departure transfer to airport to connect the flight for Delhi. • AI 446 ETD 0800 Hrs / 0920 Hrs In Delhi, you will be provided assisted departure transfer from airport to Hotel. Rest of the day is at leisure. Overnight at the Hotel. Day 15 After breakfast, you will be provided assisted departure transfer from Hotel to airport to connect the flight for onwards journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -10101,7 +10226,8 @@
         "description": "Tour Ends In Delhi: The tour ends after breakfast at our hotel. Those on the suggested group flight will be transfered to the airport in time for their morning flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -10141,7 +10267,8 @@
         "description": "Fond farewells & you will be dropped to Alleppey town."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "India",
@@ -10241,7 +10368,8 @@
         "description": "Mumbai ( Departure) : We will transfer you to the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -10286,7 +10414,8 @@
         "description": "Day 13, 14 Early morning arrive at Madgaon (Goa) and transfer to one of the best beach resort in North Goa. In these two days and nights you will be totally beach person you can never have enough of beaches in your life. Goa is a beach paradise of India. Armbol, Ashvem, Morjim, Anjuna and Candolim are the perfect beaches for beach holiday and water sports. Day15, 16 South Goa is the reliable source to estimate the rich Portuguese architectural legacy left behind. This part of Goa offering some of the best beaches for romantic escape and authentic villages that are quite the place for rest and relaxing. Colva, Benualim, Bogmalo, Verca, Patnem and Mobor are the beaches of south Goa. You will stay in beach resorts in South Goa and visit these beaches in two days. Day 17 Breakfast followed by leaving to Panjim airport for fly to Mumbai. Arrival at Mumbai airport and transfer to hotel. This day will organize according to your international flight sechdule."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -10366,7 +10495,8 @@
         "description": "After breakfast, check out from Houseboat and travel to Cochin International Airport to board a flight for your home town."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -10456,7 +10586,8 @@
         "description": "Tour Ends in Kochi (Cochin): The tour ends after breakfast at our hotel. Those on our suggested flights will depart early for the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -10551,7 +10682,8 @@
         "description": "Transfer to Cochin Airport to catch flight home. Or extend the trip with some time in the Backwaters or the beach."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -10621,7 +10753,8 @@
         "description": "You will be collected from your hotel and driven to the airport for your return flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -10701,7 +10834,8 @@
         "description": "After breakfast, check out from the hotel and travel to Cochin International Airport (73Km, 2-hour drive) to board the flight for your home town."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -10796,7 +10930,8 @@
         "description": "Transfer to Trivandrum airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -10851,7 +10986,8 @@
         "description": "MARARI Enjoy 3-4 days relaxing on the Keralan coastline with lush food,sunsets and ambience staying in a beach cottage at a gorgeous 4 star beach resort anc completely unwind before heading back home on Day 14"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -10926,7 +11062,8 @@
         "description": "Fort Cochin to Cochin International Airport Start your day with a heritage walk through Fort Kochi, exploring the iconic Jewish Synagogue, the historic Dutch Palace, and the unique Chinese Fishing Nets—a window into Kerala’s rich cultural past. In the afternoon, enjoy some leisure time to unwind before your departure transfer to the airport. Meals: Breakfast. Day use until departure at Forte Kochi"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -10986,7 +11123,8 @@
         "description": "Time to say your goodbyes as you depart for the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "India",
@@ -11061,7 +11199,8 @@
         "description": "MARARI Enjoy 3 nights relaxing on the Keralan coastline with lush food,sunsets and ambience staying in a beach cottage at a gorgeous 4 star beach resort an completely unwind before heading back home on Day 14"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -11161,7 +11300,8 @@
         "description": "Transfer by boat to Male Airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -11241,7 +11381,8 @@
         "description": "This day marks the end of the Bike, Hike and Kayak in Kerala and you will be transported to the airport, with fond memories of your exciting activity holiday in India."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "India",
@@ -11336,7 +11477,8 @@
         "description": "Transfer to Cochin Airport - fly home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -11411,7 +11553,8 @@
         "description": "Transfer to Cochin Airport [45 mins] to fly home. Or extend your holiday."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "India",
@@ -11516,7 +11659,8 @@
         "description": "Today on time our representative will meet you & transfer you to Cochin airport to connect flight for your onward journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -11611,7 +11755,8 @@
         "description": "Transfer to Cochin Airport for your return flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "India",
@@ -11706,7 +11851,8 @@
         "description": "Marari Beach to Cochin Airport - This morning you will be collected from your hotel and driven 2 hours to the airport to board your flight to onward destination. Meals: Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "India",
@@ -11771,7 +11917,8 @@
         "description": "Disembark at Punnamada We disembark by 9.30 AM at the IWAI Jetty, Punnamada, Alleppey. The cruise program concludes."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "India",
@@ -11816,7 +11963,8 @@
         "description": "Varkala -4 nights Time to shift into a deeper level of relaxation, after breakfast enjoy a drive to Alleppey for a day cruise. Your home for the next four nights is the Krishnatheeram, an oasis of calm where you can unwind completely, enjoying secluded beaches and stunning sunsets."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -11891,7 +12039,8 @@
         "description": "Depart Cochin."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -11976,7 +12125,8 @@
         "description": ": The trip ends in Goa this morning. Extra nights accommodation can be booked at this hotel - please let us know at the time of booking if you'd like to extend your time at the beach. There are no activities planned today, so you're free to depart at any time. If your flight leaves later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you need to depart from either Manohar International airport (GOX) or Goa Dabolim International airport (GOI). As part of our Upgraded range, we also offer a complimentary transfer to those who have made post-tour accommodation arrangements through Explore, regardless of your departure day."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "India",
@@ -12046,7 +12196,8 @@
         "description": "Bon Voyage! Transfer to Kochi Airport for departure. You have some free time to buy any gifts for your loved ones back home before we transfer you to the airport to catch your flight back home. OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -12070,7 +12221,8 @@
     "meet": "",
     "whatExpect": "",
     "dayInfo": [],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -12165,7 +12317,8 @@
         "description": "Tour Ends in Delhi: The tour ends after breakfast at our hotel. Those on the suggested group flight will transfer to Delhi airport in time for the early afternoon departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "India",
@@ -12225,7 +12378,8 @@
         "description": "Return to Leh with the rest of the day at leisure. On the last night, we recommend an up-scale/luxury hotel to unwind after the Ladakh adventure. The following morning, we drop you to the airport for onward journey to Delhi."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -12275,7 +12429,8 @@
         "description": "Leh -1 night A day of travel back across the Khardungla Pass to Leh and one last night in luxury at the Grand Dragon. Enjoy breakfast surrounded by apricot and apple trees at the camp. Spend the evening shopping for souvenirs in the bazaar. Savour your last day in this extraordinary place."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -12350,7 +12505,8 @@
         "description": "Leh airport transfer"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -12440,7 +12596,8 @@
         "description": "Depart for Delhi (or optional Agra extension): Early in the morning, we will leave for the airport to catch our flight to Delhi. Those of us joining the extension to Agra will drive from the airport, arriving in the middle of the afternoon. We hope that you will have had a memorable adventure!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -12530,7 +12687,8 @@
         "description": "FLY TO DELHI – After breakfast we will take an early morning flight from Leh to Delhi. WPH services finish here. From the domestic airport guests can either transfer to the international airport for flights home or spend a night in a Delhi Hotel. This additional night hotel is not included in the tour price as it is pretty straightforwards nowadays to book a good airport hotel on Booking.com or similar."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -12620,7 +12778,8 @@
         "description": "Departure to Delhi And just like that, it’s time to head home. Bags packed, hearts full, and memories to last a lifetime."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "India",
@@ -12715,7 +12874,8 @@
         "description": "Delhi - Transfer to the airport for your onward flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -12795,7 +12955,8 @@
         "description": "Home - Departure After breakfast you will be transferred to the airport in time to catch your return flight home. (breakfast is the only meal included)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -12860,7 +13021,8 @@
         "description": "After breakfast transfer to International airport for your flight Back home"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -12925,7 +13087,8 @@
         "description": "In the morning after breakfast, you will be assisted & transferred in your private car to Delhi International airport to connect with your flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "India",
@@ -12990,7 +13153,8 @@
         "description": "Flight back home"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "India",
@@ -13050,7 +13214,8 @@
         "description": "Gurgaon/Delhi - 1 night at The Oberoi Gurgaon: Take time over a leisurely breakfast with a late check-out. Transfer to Delhi and we’ll assist you with your departure to the International Airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "India",
@@ -13160,7 +13325,8 @@
         "description": "Breakfast at leisure, and check out to Bhopal airport for onward to connecting flight to International Airport. If one night stay is required in Delhi on the way out this can be separated arranged."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "India",
@@ -13195,7 +13361,8 @@
         "description": "International Departure - You depart from Mumbai for your flight back home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -13240,7 +13407,8 @@
         "description": "Arrive in Jaipur Jaipur After a once-in-a-lifetime journey, living life in the lap of regal luxury, it’s time to step back into the real world."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "India",
@@ -13280,7 +13448,8 @@
         "description": "Ellora Caves: We’ll get an early start to explore the Ellora caves. This is one of the world’s largest rock-cut temple complexes boasting artwork, monuments and inscriptions from Buddhism, Hinduism and Jainism. The proximity of these monuments to each other are indicative of how religions existed in harmony over the course of India’s history. After exploring Ellora Caves, we’ll venture to Aurangabad to see Bibi Ka Maqbara, also known as the Baby Taj Mahal, with some fabulous photo opportunities. In the afternoon we’ll catch a comfortable train back to Mumbai (7.5 hrs), with some pleasant views of rural Maharashtra. On your arrival in Mumbai, we will transfer you to your hotel and your tour will be complete."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -13340,7 +13509,8 @@
         "description": "After breakfast, check out from the hotel and travel to Mumbai International Airport (165Km. 4-hour drive) to board the flight for your home town."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -13440,7 +13610,8 @@
         "description": "After breakfast check out from the hotel and travel to Bhuj Airport to fly back to Mumbai to end the trip."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -13515,7 +13686,8 @@
         "description": "After breakfast, check out from the hotel and get transferred to Jodhpur Aiport and fly to Mumbai to catch your home town flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -13610,7 +13782,8 @@
         "description": "Tour ends in Bhaktapur: The tour ends after breakfast, those on the suggested group flights will be transferred to Kathmandu Airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -13705,7 +13878,8 @@
         "description": "Return flight to the UK, arriving back in the afternoon. Please note the above itinerary is representative; details and daily arrangements may change, eg because of elephant movements."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -13795,7 +13969,8 @@
         "description": "Marari Day 27-30 After breakfast, check out and drive to Marari. (1 Hrs approx.) Upon arrival check in at the Hotel. Day 31 After breakfast, drive to Cochin airport. In Cochin you will be provided assisted departure at airport for your flight to onwards journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -13870,7 +14045,8 @@
         "description": "Departure from Jorhat Airport"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -13965,7 +14141,8 @@
         "description": "Fly to Delhi & Fly Home - After breakfast, check out of your hotel and enjoy a scenic drive to the airport for your flight to Delhi, where you’ll connect with your onward journey home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -14060,7 +14237,8 @@
         "description": "Shillong to Guwahati Airport – 90kms in 3hrs. Today we leave Shillong after breakfast and in time take you to Guwahati airport ot connect with Delhi or Kolkata. Tour ends"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -14100,7 +14278,8 @@
         "description": "Return to Kolkata We bring you back to Kolkata to ultimately connect onwards, either back home or on another journey with us in a different part of the sub-continent."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -14195,7 +14374,8 @@
         "description": "Bid farewell to India as our team ensures your smooth transfer to the airport, ensuring you’re all set to embark on the next exciting chapter of your journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -14330,7 +14510,8 @@
         "description": "With no activities planned for today, your North India adventure comes to an end. You are free to depart the accommodation at any time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -14365,7 +14546,8 @@
         "description": "Day 16 Breakfast followed by leaving by road to Jodhpur (3 hours’ drive). In the early evening explore old city Markets like Spices, Grains, fresh vegetables, Bamboo craft etc. Drinks and dinner in a local restaurant. Night stay at the Manor home. Day 17 Breakfast followed by a tour of the 15th-18th Century Jodhpur Meherangarh (Majestic) Fort. I believe you will want to have at least 2 to 3 hours here as there is much to see and a beautiful setting. After lunch in Jodhpur city visit Umaid Bhawan Palace, residence of Jodhpur royal family. One part of the palace is converted into a museum. In the evening explore clock tower market. Day 18 Breakfast followed by leaving by road to 16 century Fort palace (2 and half hours) lunch on arrival. The Fort Palace is in a village setting and is the only royal palace in India where guests can stay inside the authentic 16th Century Princess Room. This is unchanged from the period except for the addition of electricity and the bathroom. The Princess room is large and lovely. The architecture of the Fort is also very fine. Arrive in early afternoon for lunch, relaxing, exploring the fort palace followed by dinner and night stay in the Fort. Day 19 Breakfast followed by transfer to Ajmer railway station for board on AC sleeper train to Delhi (7 and half an hour journey). Airport transfer will organize be according to your return flight schedule."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -14480,7 +14662,8 @@
         "description": "Mumbai – Onward Destination Sadly today your your India holiday has come to an end. You will be collected from your hotel and taken to the airport in time to board your flight to onward International destination."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -14570,7 +14753,8 @@
         "description": "It’s time to say goodbye to India: a land of mountains, memories, and meaningful connections. Transfer to the airport for your international flight home, carrying with you the colours, stories, and spirit of the Himalayas and beyond. Though the journey ends here, the experiences stay with you and the mountains will always be waiting."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -14670,7 +14854,8 @@
         "description": "Flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -14740,7 +14925,8 @@
         "description": "Delhi: Day 18 - After breakfast, fly back to Delhi, drive just 20 minutes to arrive at your hotel. Upon arrival check in to the Hotel. Overnight at the Hotel Trident Gurgaon. Day 19 - Today morning after breakfast, you will be assisted & transferred in your private car to Delhi International airport to connect flight for onward destination."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "India",
@@ -14815,7 +15001,8 @@
         "description": "Your adventure ends after breakfast. Additional accommodation can be pre-booked if you wish to spend more time exploring India. Just speak to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -14920,7 +15107,8 @@
         "description": "Delhi / Fly to next destination or return back home"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -15010,7 +15198,8 @@
         "description": "DELHI (departure): This morning we will finish the tour and we will transfer you to the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -15105,7 +15294,8 @@
         "description": "Mumbai: Today marks the end of 14 epic days in India, but not before a visit to the famous Siddhivinayak Temple! Dedicated to Lord Ganesha, it’s one of Mumbai’s most iconic temples and a fascinating glimpse into the city’s spiritual heart. Then you’ll bid farewell to your group, ready to head home!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -15190,7 +15380,8 @@
         "description": "After breakfast check out from Novotel Delhi and transferred to Delhi airport for onward flight"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -15260,7 +15451,8 @@
         "description": "Delhi: Breakfast at hotel and then transfer to airport for return or onward travel"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -15330,7 +15522,8 @@
         "description": "Departure. Transfer to the nearest airport or catch the coastal train to the nearest airport to catch your flight out."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -15430,7 +15623,8 @@
         "description": "The adventure comes to an end this morning at check-out. Unless, of course, you’d like to join our exciting extension, in which you spend four days hiking in the Annapurna region, taking in magnificent mountain views as you pass through Gurung villages. This extension would commence from day 13, starting in Pokhara. Speak to your sales representative to book."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -15530,7 +15724,8 @@
         "description": ": The trip ends after breakfast at our hotel in Delhi. There are no activities planned today, so you are free to depart from Delhi at any time. If your flight is departing later in the day luggage storage facilities are available at our hotel. If you would like to receive an airport transfer today, you need to depart from New Delhi's Indira Gandhi International airport (airport code DEL), which is around 45 minutes from the hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -15630,7 +15825,8 @@
         "description": "Leave India behind and board your onwards flight. From Udaipur you usually have to depart via Delhi or Mumbai to catch an international flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -15700,7 +15896,8 @@
         "description": "Our adventure through northern India ends today. If you’ve still a few pages left in your travel diary, speak to your sales representative about extending your stay in Delhi. Alternatively, catch your free transfer to the airport and begin your return journey home – remember to provide your details at least two weeks prior to arrival to secure your seat."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -15750,7 +15947,8 @@
         "description": "Udaipur to Delhi: After a relaxed breakfast fly Udaipur to Delhi and unwind at relaxing The Oberoi Gurgaon hotel, before flying back home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "India",
@@ -15825,7 +16023,8 @@
         "description": "All good things come to an end! Airport transfer included You have some free time to buy any gifts for your loved ones back home before we transfer you to the airport to catch your flight back home. Additional half day tours are available this morning if you have a later flight, and extension options are also available. OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -15880,7 +16079,8 @@
         "description": "NEELESHWAR: After disembarking your houseboat cruise, it’s only ten minutes to the Neeleshwar Hermitage, where you’ll conclude your Keralan adventure. And what a way to finish! This luxury retreat on the Arabian Sea, with its infinity pool looking out over gardens of hibiscus and frangipani to the golden sands beyond, is heaven in a hotel. Not only is this a stunningly beautiful setting in which to relax (with yoga classes and ayurvedic spa treatments, naturally), the Hermitage also offers a carefully curated programme of optional activities, including excursions to temples, backwater boat trips, hiking and more. With four nights here to enjoy it, you’ll have plenty of time to relax and explore. Highlights • Relax in secluded luxury on one of India’s most beautiful beaches • Eat super-fresh seafood beautifully prepared by the Hermitage’s fabulous chefs • Get an insight into this remote and unspoilt corner of northern Kerala with a range of guided excursions"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -15960,7 +16160,8 @@
         "description": "Drive (2.5 hrs) to Raipur for an overnight train to Mumbai or Delhi."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -16065,7 +16266,8 @@
         "description": "Fly home"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -16160,7 +16362,8 @@
         "description": "At the appropriate time, transfer to Raipur Airport for onward journey. Meal plan: n/a"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -16240,7 +16443,8 @@
         "description": "After breakfast, check out from the hotel, travel to Bhubaneswar Airport (60Km, 2-hour drive) and fly to New Delhi International Airport to board the flight for your native place."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -16310,7 +16514,8 @@
         "description": "TRANSFER TO CHENNAI – This morning after breakfast there will be a transfer to Chennai airport for homeward flights."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -16415,7 +16620,8 @@
         "description": "Fly home from Delhi to Heathrow direct with Virgin."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -16505,7 +16711,8 @@
         "description": "There are no activities planned for today, so you’re free to depart the accommodation at any time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -16620,7 +16827,8 @@
         "description": "Transfer to International airport for your flight home with Virgin."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -16680,7 +16888,8 @@
         "description": "Delhi - Day 14: After breakfast, you will be provided assisted departure transfer to airport to connect the flight for Delhi. • AI 472 1525 Hrs / 1640 HRS In Delhi, you will be provided assisted arrival transfer from airport to Hotel. Upon arrival check in to the Hotel (Pride Aero City). Day 15: After breakfast, you will be provided assisted departure transfer to airport to connect the flight for onwards journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -16725,7 +16934,8 @@
         "description": "DELHI (DEPARTURE): This morning we will finish the tour and we will transfer you to the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -16765,7 +16975,8 @@
         "description": "DAY 9 Breakfast followed by road to Jodhpur. After arrive a tour of the 15th-18th Century Jodhpur Meherangarh (Majestic) Fort. I believe you will want to have at least 2 to 3 hours here as there is much to see and a beautiful setting. In the early afternoon lunch in the finest restaurant of region followed by trying some of the famous Jodhpur desserts. In the evening for a display of the finest South Asian art mediums produced by the last remaining erstwhile royal appointed master artisans will be shown to you with explanations on history and processes. Your stay in Manor home of the erstwhile prime minister of Marwar kingdom the evening drinks followed by a traditional dinner and a concert of erstwhile Jodhpur royal appointed musicians at Manor home. DAY 10 Breakfast followed by leaving by road to Udaipur (via Ranikpur) 4 and half hours. Arrive at Ranikpur for lunch followed by exploring the 15th Century Jain Temple complexes for a couple of hours after lunch. There are also a few older temples that are Hindu that are worthwhile to see as well. Arrive in Udaipur in the early evening. Your stay in 16 century Fort (45 minutes drives from Udaipur) Fort was an erstwhile royal property that was conserved into a hotel over a six year period. It is located in the center of small towan. Arrive at Fort for dinner and night stay. DAY 11 Early morning breakfast followed by a tour of the Udaipur City Palace. The Udaipur City Palace spans many different Rajput as well as Islamic architectural styles and is located on the banks of Lake Pichola. Part of the Mewar (Udaipur) royal family’s art collection and objects are on display. I believe you will want at least 2 hours here. After your Udaipur City Palace lunch in the bazaar followed by relaxing or exploring further the old city of Udaipur. Dinner and night stay at Fort. DAY 12 Breakfast and depart by road to Udaipur Airport for catch the flight to Delhi. On arrival you will be met by Your English speaking driver who will accompany you to hotel. Rest in the afternoon and evening relaxing, swimming. Dinner and night stay."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -16825,7 +17036,8 @@
         "description": "Delhi Jan 07, Today morning after breakfast, connect your flight to Delhi • Jodhpur – Delhi: AI 476 – 1430 / 1545) Upon arrival in Delhi, you will be provided assisted arrival transfer to hotel. Overnight at the hotel. Jan 08, After breakfast, you will be provided assisted departure transfer to connect to your flight for onwards journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -16920,7 +17132,8 @@
         "description": "The adventure ends after breakfast and we begin our return journeys home. Alternatively, if you’d like to spend a bit more time exploring this magnificent city, speak to your sales representative about extending your stay."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "India",
@@ -17020,7 +17233,8 @@
         "description": "Your trip comes to an end after breakfast this morning. There are no other activities planned for the day and you can depart the hotel at any point this morning. For those who wish to stay on in Delhi to further explore the city, we are happy to help in booking accommodation (subject to availability)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -17110,7 +17324,8 @@
         "description": "Delhi / Fly back"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -17180,7 +17395,8 @@
         "description": "Depart Udaipur for your journey back to the UK."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "India",
@@ -17225,7 +17441,8 @@
         "description": "Delhi - late morning after we transfer to Udaipur Airport for the flight to Delhi where our services finish. The weight limit for this flight will be 20 kg. Guests may be getting a homeward flight or perhaps requiring an extra night in an airport hotel. This is not included in the price of the holiday but we can arrange this with our colleagues in Delhi. If you plan to fly internationally on Day 14, then we suggest flights from 17:30 onwards. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -17325,7 +17542,8 @@
         "description": "Tour ends in Delhi: The tour ends after breakfast and those on the group flight will be transferred to the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -17425,7 +17643,8 @@
         "description": "Arrive in Delhi where our tour comes to an end. As our train arrives into Delhi our Indian adventure will come to an end upon arrival. If you plan on spending additional time in Delhi, we can help in organising extra nights or even extensions to the south of the country. OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -17510,7 +17729,8 @@
         "description": "Transfer to international airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -17605,7 +17825,8 @@
         "description": ": Our tour ends at our hotel in Delhi. If you'd like an airport transfer today, you need to depart from Delhi Airport (DEL) airport, which is around a 45-minute drive from our hotel. As part of our Upgraded range, we also offer a complimentary transfer to those who have made post-tour accommodation arrangements through Explore, regardless of your departure day."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "India",
@@ -17705,7 +17926,8 @@
         "description": "There are no activities planned for the final day and you’re able to depart the accommodation at any time. If you’d like to extend your time in Delhi and explore at your own pace, just get in touch with your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -17770,7 +17992,8 @@
         "description": "Transfer to International airport"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "India",
@@ -17830,7 +18053,8 @@
         "description": "UDAIPUR: Udaipur is an easy city to fall in love with. From your lakeside haveli, you’ll have three days to explore – joining one of our wonderful local guides to discover the city’s secrets: ornate mansions, traditional craft workshops, street-food hotspots and aarti ceremonies at lakeside bathing ghats. Then, in your own time, go for boat rides, sample the trendy café and restaurant scene, ramble through markets, or head out to the Monsoon Palace for views over the city. Of course, you can’t leave without exploring the pièce de resistance, City Palace: its hanging gardens, octagonal towers and marble arches sprawling along the shores of Lake Pichola. Highlights - Break up your journey to Udaipur with a visit to Ranakpur Jain Temple - Stay in a lakeside haveli (palace) with views over Lake Pichola - Choose from a variety of additional experiences, such as a backstreet cycling tour or a scenic drive in a vintage car"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -17880,7 +18104,8 @@
         "description": "Take the road trip back to Bagdogra for onward flight or train."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -17950,7 +18175,8 @@
         "description": "Departure Transfer to Delhi International Airport for a Flight Back to Home"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -18070,7 +18296,8 @@
         "description": "Transfer to Cochin Airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -18175,7 +18402,8 @@
         "description": "Cochin – Cochin International Airport (Approx 1.5 Hrs) Today timely transfer you to Cochin International Airport to connect your flight back home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -18245,7 +18473,8 @@
         "description": "Your trip comes to an end after breakfast and you’re free to leave the accommodation at any time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -18340,7 +18569,8 @@
         "description": "No journey through India can be capped without a train ride. We end your trip with us with one such ride that sees you through from Madurai to the Malabar coastal port city of Cochin."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -18440,7 +18670,8 @@
         "description": "With no activities planned for today, you can leave the accommodation at any time. If you’d like to extend your stay, just reach out to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -18540,7 +18771,8 @@
         "description": ": Our tour of South India ends at our hotel in Mamallapuram. There are no activities planned today, so you're free to depart at any time. If your flight leaves later in the day, luggage storage facilities are available at our hotel. If you'd like a hotel transfer, you'll need to depart from Chennai Airport (MAA), around a two-hour drive from the hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -18645,7 +18877,8 @@
         "description": "There are no activities planned for the final day and you’re able to depart the accommodation at any time. Goa is a great place to end the trip – if you can, we recommend staying on for a couple of nights to relax and explore. If you would like to spend more time in Goa, we’ll be happy to organise additional accommodation (subject to availability)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -18725,7 +18958,8 @@
         "description": "Depart. Transfer to International airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -18820,7 +19054,8 @@
         "description": "The adventure ends today. Begin your return journey home or, if you’d like a bit more time to explore Kovalam, speak to your sales representative about extending your stay."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -18915,7 +19150,8 @@
         "description": "This is the last day of the tour. You can either explore the town or stay in at the hotel to relax till it is time to go to the airport to board your flight"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -18995,7 +19231,8 @@
         "description": "This is the end of the tour, but you may decide to spend more time relaxing either in Palolem or on one of the many other beaches that Goa has to offer."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -19050,7 +19287,8 @@
         "description": "We spend the morning at the 13th century Halebid temple complex from where post-lunch we drive to the Garden city of Bangalore."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -19105,7 +19343,8 @@
         "description": "Home – Departure – This morning after breakfast you will be transferred to the airport in time to catch your return flight home. (Breakfast only)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -19150,7 +19389,8 @@
         "description": "We say good bye to Spiti and head back to Manali via Chandratal followed by overnight stay in Manali and onward journey. || Stay: Homestay"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -19215,7 +19455,8 @@
         "description": "Transfer to international airport. Note: Extension to Kanha National park is available on request."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -19290,7 +19531,8 @@
         "description": "After breakfast, our adventure through northern India comes to an end. If you’ve still a few pages left in your travel diary, speak to your sales representative about extending your stay in Delhi. Alternatively, catch your free transfer to the airport and begin your return journey home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -19314,7 +19556,8 @@
     "meet": "",
     "whatExpect": "",
     "dayInfo": [],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -19379,7 +19622,8 @@
         "description": "KOCHI: A tropical seaside town sprawling out from the colonial heart of Fort Cochin, Kochi is one of the prettiest, cleanest, and altogether most charming cities in India. Head out on a bike tour to get the lay of the land, learning about how Portuguese, Dutch and British occupation have shaped this cosmopolitan enclave on the Malabar Coast. But Kochi doesn’t live in the past – it’s one of the most progressive cities in India, packed with trendy boutiques, art cafés and fancy fusion restaurants, with close to zero poverty. In a word, it’s lovely, and there couldn’t be a more relaxing place to conclude your south India adventure. Highlights • Tour Kochi by bicycle, stopping to see the Chinese fishing nets, Paradesi Synagogue and the Dutch-era Mattancherry Palace • See a performance of Kathakali, Kerala’s centuries-old pantomimic dance-drama • Make the most of Kochi’s thriving restaurant scene with a blowout dinner in Fort Cochin."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -19489,7 +19733,8 @@
         "description": "Breakfast at hotel. Transfer to airport for flight home"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -19599,7 +19844,8 @@
         "description": "DEPARTURE TRANSFER TO COCHIN AIRPORT [By Surface - 45 km/Approx 1.5 hrs] Breakfast at the hotel. Check out hotel. Transfer to Cochin airport. Today you will be transferred to Cochin airport for your flight to onward destination."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -19704,7 +19950,8 @@
         "description": "Transfer to Chennai Airport for flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -19769,7 +20016,8 @@
         "description": ": Our tour of India's Golden Triangle ends at our hotel in Delhi. There are no activities planned today, so you're free to depart at any time. If your flight leaves later in the day, luggage storage facilities are available at our hotel. If you'd like a hotel transfer, you'll need to depart from Indira Gandhi International Airport (DEL)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -19859,7 +20107,8 @@
         "description": "KOVALAM – TRIVANDRUM – NEW DELHI Today you will be transferred to Trivandrum airport to catch flight to New Delhi for your onward journey. Meals: B"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -19883,7 +20132,8 @@
     "meet": "",
     "whatExpect": "",
     "dayInfo": [],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -19963,7 +20213,8 @@
         "description": "Transfer to the airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -20043,7 +20294,8 @@
         "description": "Our adventure draws to a close after breakfast. If you’d like a little more time in Delhi, speak to your sales representative about extending your stay."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -20113,7 +20365,8 @@
         "description": "Transfer to International airport. Note: Extension available for Agra to see Taj Mahal or full Golden Triangle."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -20173,7 +20426,8 @@
         "description": "Pench-Nagpur-New Delhi: Today after breakfast drive to Nagpur city (2 hours) to catch a flight back to New Delhi."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -20243,7 +20497,8 @@
         "description": "Tour ends. Transfer to International airport"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -20298,7 +20553,8 @@
         "description": "Enjoy a final morning drive in Bandhavgarh before traveling to Jabalpur or Nagpur international airport for your evening flight home, carrying with you memories and photographs of India’s magnificent wildlife and landscapes."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -20348,7 +20604,8 @@
         "description": "Home – Departure – This morning after breakfast you will be transferred to the airport in time to catch your return flight home. (Breakfast only)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -20408,7 +20665,8 @@
         "description": "It is time to say goodbye to mystic Arunachal Pradesh and enter Assam once again. Your journey from Pasighat to Dibrugarh will be a mix of road and ferry crossing as there is no bridge connecting Arunachal Pradesh with Assam in this region. The experience of crossing Brahmaputra River on a ferry is truly amazing as you travel with local villagers, fishermen and natives from both Assam and Arunachal Pradesh. You may choose to take onward flight from Dibrugarh or drive back to Guwahati."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -20453,7 +20711,8 @@
         "description": "Return to Nagpur and a night in Mumbai: Heading south to Nagpur, you’ll return to Mumbai to spend the night in preparation for your flight back home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -20513,7 +20772,8 @@
         "description": "After morning safari, transfer to Bangalore for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -20608,7 +20868,8 @@
         "description": "After breakfast, check out from hotel and travel to New Delhi International Airport (280Km. 5 hour drive) to board the flight for your home town."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -20668,7 +20929,8 @@
         "description": "Connect flight to next destination."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -20758,7 +21020,8 @@
         "description": "Delhi / Fly to next destination"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -20818,7 +21081,8 @@
         "description": "On the last morning, we suggest a tour of the Jodhpur blue city where we take you through the maze of houses and charming shops that add to the beauty. Taste numerous local delicacies and spend time with a family conversing over homemade breakfast. Get the afternoon flight or train back to Delhi or Jaipur for onward journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -20863,7 +21127,8 @@
         "description": "New Delhi: Today after final morning jungle activity, bid farewell to Satpura and drive to Bhopal (150 km/3 hours). Pause 45 kms south of Bhopal to see the extraordinary cave paintings at Bhimbetka. The paintings at this UNESCO site are believed to be up to 30,000 years old. After Bhimbetka continue to Bhopal airport to catch flight to New Delhi/Mumbai for your onward journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -20933,7 +21198,8 @@
         "description": "Home - Departure After breakfast you will be transferred to the international airport in time to catch your return flight home. (breakfast is the only meal included today)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -20988,7 +21254,8 @@
         "description": "Arrive Delhi. You reach Delhi early morning & transfer to airport for your onward journey or transfer to hotel if you have booked extra nights. OPTION OF FLIGHT AVAILABLE INSTEAD OF TRAINS"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -21078,7 +21345,8 @@
         "description": "After breakfast, check out from the hotel and get transferred to Diu Airport and fly to Mumbai to board the flight for your home town."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -21158,7 +21426,8 @@
         "description": "Transfer to the airport for onward journey with sweet memory from the Himalaya"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -21258,7 +21527,8 @@
         "description": "Wake up to the sounds of honking cars and chatting locals wandering the streets to find a comfortable seat for a quick bite to eat. You may stroll from your hotel around the neighborhood, and embrace the spirited ambiance as you browse stores presenting cultural trinkets for you to purchase as symbols of your fascinating adventures in India. You will return to your accommodation for breakfast afterward, collect your things, and join your transfer for a short trip to the airport where you will say goodbye to the city of Aurangabad."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -21328,7 +21598,8 @@
         "description": "You will wander down to your accommodation’s dining hall this morning to enjoy a hearty breakfast as Varanasi comes to life. From your table, you will hear the sounds of local chatter emerging from the streets as foreigners and locals gather in numbers en route to modest markets. You will watch as the world hustles on by in the busy districts of Varanasi and the fragrances of exquisite Indian dishes emanate from the city’s beloved eateries. Afterward, you will collect your things and transfer to the airport to catch your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -21433,7 +21704,8 @@
         "description": "Chennai is the gateway both to and from Southern India. After breakfast your private transfer will escort you from your hotel to the airport. Through the window you can see the endless smiling faces of the locals. The sapphire water wades against the sandy shore. The sweet and spiced essence of the chai from breakfast lingers on your taste buds. Your time in Southern India brought you temples and palaces, tigers and mountaintops. You will never forget your exploration of India’s tropical south and you will always remember its splendor."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -21518,7 +21790,8 @@
         "description": "It is a quick journey from Cochin to Mumbai where the energetic streets are soon part of the background of your morning as you find yourself in the ancient caves along Elephanta Island. The magic of the island isn’t just in the beaches or the mountains but also in what lies beneath and within. Beneath a collection of precipices, the elegant cave mouths decorated with pillars will welcome you into something special. The halls in which you step are cavernous, vast, and reverberating. The walls are filled with tremendous reliefs of the gods and myths that have protected and guided civilizations for millennia. You can see the Maheshamurti panel that displays the god Shiva as creator, destroyer, and protector, carved within the stone. Upon your return to the city your private transfer will take you to the airport to make your return flight home, but the images of the temples within the cave will always be held close."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "India",
@@ -21593,7 +21866,8 @@
         "description": "The morning stretches over the Rajasthan desert and gives a glint of the far-reaching sand outside of the city. Enjoy your breakfast within the calm of Alwar, within the rainbow colors of the bazaar surrounded by a fragrant spiced air. Your private transfer will take you back to Delhi where soon you will make your way to the airport for your return flight home. With the lingering images of tigers and grand marble architecture in thoughts you will step aboard your flight ready to lan another trip to explore the best of India again soon. If you want to add on to this customized trip, be sure to read the India travel reviews for ideas and to see what other travelers experienced while in India."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -21663,7 +21937,8 @@
         "description": "The activity around Ramnagar Fort will return in the morning with locals that start to line the banks of the Ganges River. The interior complex hosts an elaborate museum while the current king resides in a section of the elaborate complex. The scent of apples will linger over the water and will be carried by the cool breeze. When you are ready, your private transfer will meet you at your hotel to escort you to Lal Bahadur Shastri Airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -21738,7 +22013,8 @@
         "description": "The day is bright with promise and anticipation as you wake to the familiar scent of masala chai tea. The taste is as sweet and zesty as you remember. The day begins at your leisure. You can sit in a comfortable café and watch the city go by or spend your time strolling around the Lodi Gardens. The park is decorated with ancient Mughal mosques and tombs. Families picnic on the manicured grass. The shrubberies are trimmed, shaped, and well maintained. The park is busiest in the morning when the local Delhiites enjoy a walk along the 15th-century history. In the evening you will have a private transfer to the airport. When the plane lifts into the air you will always remember the timelessness of your trip to India."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -21833,7 +22109,8 @@
         "description": "In the cool hours before dawn you will find yourself at the gates of the Taj Mahal; just outside of the famous dome that has marveled onlookers and lovers, lies the celebrated tomb of Emperor Shah Jehan’s wife. As the sun rises over the corners of the earth you will find the remarkable hues of the morning draped over the marble building. The gardens seem to sparkle in their manicured greenery and pure pools. Since the 17th century the building has brought people from all over the world to see if the grandeur of the whispered structure is true. The white marble turns orange in the morning light, colored in the natural glow. Walk along the Mughal charbagh, the formal Persian gardens, lined and squared by water surrounding a marble podium at the center. The color is caught in the semiprecious stones inlaid in the curvature of flower patterns and calligraphy. The early morning soon becomes early afternoon as you traverse the diverse streets of Agra, from the bulbous domes of the Taj Mahal to the spreading sandstone red of the Agra Fort. In the evening you will return to Delhi to meet your flight and begin the return trip home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -21918,7 +22195,8 @@
         "description": "The luscious scents of the morning have you seated in Meenaskhi listening to the rolling waves and enjoying the aromas of the simmering food. The morning is yours to delight in, from breakfast to lunch, indulging in the comforts of the resort and the beachside. In the afternoon your private transfer will escort you to the Calicut Airport to begin your journey home. You have seen tigers and lounged on beaches, tasted fabulous local cuisine and explored elegant jungle. Your trip may have ended but the wonder never ceases."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -21988,7 +22266,8 @@
         "description": "On the outskirts of Panaji stands the four-tiered cascade of Dudhsagar Falls. The water tumbles down the powerful falls from over 1,017 feet, resulting in whitewater, mist, and a resounding roar. You can spend the morning viewing the falls before breakfast. When you are ready, your private transfer will meet you at your hotel and escort you to Goa’s Dabolim Airport. Your romantic trip to India will come to an end as you fly to Delhi and board your connecting flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "India",
@@ -22048,7 +22327,8 @@
         "description": "The morning comes to the streets of Delhi with the familiar rush of the city. The colors start to flow once more, from the saris to the rickshaws, the food to the sky. Indulge in your final breakfast in India and the sweet and spiced flavor of chai along the eclectic sounds of the old walls. Your private transfer will collect you from your hotel and take you to the airport. Soon you will soar away from the gilded tapestries and glinting precious stones but India will never be far from your memory."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -22138,7 +22418,8 @@
         "description": "This morning you wake up to the aroma of cinnamon and allspice. The birdcalls of the distant wild have come and gone. You can still hear the swift call of the bar-winged flycatcher shrike and the rapid tapping of the Himalayan flameback woodpecker. After breakfast your private transfer will escort you to the airport where you will board your flight home. As you wait for take off you imagine the fantastic wingspan of the Himalaya griffin. Once in the air you look back on India and know how it feels to fly."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "India",
@@ -22218,7 +22499,8 @@
         "description": "At breakfast, you will find the familiar aromas of cinnamon and nutmeg from chai masala. The morning light will spread over the city and return the glint to the face of the City Palace and the shimmer to the waters of Lake Pichola. You will bask once more in the fairytale ambiance of the city before your guide escorts you to Udaipur’s Maharana Pratap Airport for your flight to Delhi. Once in the capital city, you will have plenty of time to check-in for your flight home bringing an end to your fabulous India trip."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -22293,7 +22575,8 @@
         "description": "In the morning, you will see boats crossing the lake to reach the island palace of Jagmandir. Two large stone elephants border the entrance, and the 17th-century tower glints a subtle blue above the water. The streets will return to their lively ambiance around the Bagore-ki-Haveli, which is a traditional mansion that is located near the Gangaur Ghat. The home hosts 138 rooms that are each connected to a collection of courtyards. After breakfast, your private transfer will meet you in your hotel’s lobby to escort you to Maharana Pratap Airport for your brief flight to Delhi, where you will board your connecting flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -22388,7 +22671,8 @@
         "description": "The day brings the marvelous sights and sounds of the capital city back to you with the scent of paratha lingering in the air. After your joyous breakfast you will have a private transfer to the airport to the plane that will soon carry you home. Your Indian odyssey took you through the colors and landscapes of the country, finding the incredible cultures along the way, from religious life to village life, where the spirit of the temples are as important as the vibrancy of the people."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -22483,7 +22767,8 @@
         "description": "In the morning, you can listen to the harmonious call to prayer before your private transfer meets you at the hotel. You will venture to the airport with plenty of time to connect with your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -22543,7 +22828,8 @@
         "description": "This morning, you will have time to return to the dynamic streets of the famous Chandni Chowk market, where silver jewelry and stacks of books divide the alleys. Your private transfer will meet your family at your hotel. When you are ready, your guide will take you to Delhi’s international airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "India",
@@ -22608,7 +22894,8 @@
         "description": "The sun rises over the surrounding mountains and casts a gentle beam over Lake Pichola. You will sip on your final chai masala in India savoring the combination of cinnamon and allspice. Udaipur is endlessly charming and jovially romantic. After breakfast, your private transfer will take you to the airport for your return flight to Delhi. You will have gone beyond the three points of the Golden Triangle to witness more than just the Taj Mahal and the Pink City. You will have ventured into the hills and experienced India’s variety. The beauty of the countryside and the grandeur of the royal touch throughout history is nothing less than unforgettable."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -22668,7 +22955,8 @@
         "description": "In the morning, the spiced aroma of chai masala will drift through the streets of the Red Fortress. After breakfast, your private transfer will meet you in your hotel’s lobby to escort you to Indira Gandhi International Airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "India",
@@ -22763,7 +23051,8 @@
         "description": "The morning drapes over the lake and brings the reflections of the palace painted along the water’s surface once more. You enjoy the rich aromas of masala chai during breakfast before your private transfer escorts you to the airport for your return flight to Delhi. Your arrival in Delhi brings an end to your journey through India. You could always spend more time traversing the countryside, enriching yourself with the culture evolved from marvelous Maharajas and exquisite architecture, but as your flight time comes closer you will step onto the plane and continue your journey home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -22853,7 +23142,8 @@
         "description": "The streets are active and the colors of the city wind through the ancient and contemporary neighborhoods but the morning feels calm and cool. At breakfast you sip your chai and savor the flavor. Saris wave as women walk down the street. You have witnessed paradises and palaces, forts and gardens during your time in India. You not only saw royal luxuries but also experienced them, from your accommodation to your meals. After breakfast you will have a private transfer to the airport where you will step aboard your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "India",
@@ -22958,7 +23248,8 @@
         "description": "Today you’ll leave India with three weeks worth of memories, including all those little moments that only slow travel can afford."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -23043,7 +23334,8 @@
         "description": "The traditional ceremonial boulevard of Rajpath will fill with locals in the morning as they travel between the city landmarks that connect Vijay Chowk and the India Gate. The significant design of the President’s Residence crowns the western edge of the boulevard and reflects an engaging mixture of Mughal and European decoration. As the scent of chai tea returns to the streets, your private transfer will transfer you to the airport for your flight home, bringing a close to your incredible family tour of Northern India."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "India",
@@ -23138,7 +23430,8 @@
         "description": "Your final breakfast in India is a pearl of a moment, where you let yourself soak in the aromatics of your chai, knowing that the tea at home will never come close to the relative sweet and spiced flavors that you have tasted while here. After breakfast you will have a guided tour of the city, meandering through the monuments and roads that mark the tremendous history ranging from military conquests to religious equality, from the Qutub Minar victory tower, to the Jamas Masjid. The Chandni Chowk, the local bazaar filled with remarkable goods, will offer another look into the culture and colors of India and the city. Stepping along the dense market brings the brightness of the clothing and the collection of jewelry shops, dangling and jingling with silver bracelets and earrings all sparkling in the apparent sunlight. The scent of vigorous spices that range the same colors as the clothing offer enticement, while the bangles and necklaces show delight. In the evening you will have a private transfer to the airport where you will board your plane and fly home. Consider adding on or further customizing this trip. Browse the reviews for India travel agents for ideas and traveler reviews."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -23198,7 +23491,8 @@
         "description": "In the morning, the quiet landscape of the Lodi Garden takes on a tranquil reprieve from the vibrant streets of Delhi. The manicured park hosts Lodi-era tombs that date back to the 15th century. After breakfast, your private transfer will meet you at your hotel and escort you to Indira Gandhi International Airport for your flight home, concluding your remarkable highlights tour of India."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -23258,7 +23552,8 @@
         "description": "Every Friday, the Mapusa Market takes place and offers Goa a vibrant space for traders to showcase their wares from all over India, featuring delicious produce, vibrant spices, and captivating textiles. You can find the essence of Goa in the array of colors that stem from the vendors who arrive from surrounding villages or distant cities. Many visitors search for the famous pottery, jewelry, and carpets on display in the bazaar amid the aromas of seedless tamarind and marinated pork sausages. Your private transfer will meet you at your hotel after breakfast and a quick jaunt around the market to escort you to the airport for your flight back to Mumbai, where you will connect to your international flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -23318,7 +23613,8 @@
         "description": "The scent of fermented rice and coconut dough from Kerala Appam will fill the air in the morning before your private transfer meets your family at your hotel. You will venture to Trivandrum Airport for your flight home, bringing a close to your delightful 7-day India tour."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "India",
@@ -23398,7 +23694,8 @@
         "description": "The alluring scent of breakfast brings you within view of the palace walls that watch over the village. After your meal your private transfer will escort you to Delhi where your tour will come to an end. There is always more to discover within the tremendous history of India, from the renowned Taj Mahal to the eclectic shores of Kerala. Once at the airport you will step onto your flight and make your way home but, then again, why not stay a while longer? Browse the India tours reviews for more information about what travelers experienced while in India."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -23473,7 +23770,8 @@
         "description": "The familiar aromas of cinnamon and clove will sweep through the bazaars of Delhi in the morning, and the vibrant ambiance of the Karol Bagh bazaar will cast a light on the gorgeous ornaments available from the merchants. You will have the opportunity for a brief stroll before your private driver transfers you to the airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "India",
@@ -23533,7 +23831,8 @@
         "description": "In the morning, Savitri Temple will glint on the hilltop, overlooking the city and attracting pilgrims and visitors to watch the sunrise. At breakfast, you will find the enjoyable aromas of chai masala as they drift through the streets of Pushkar. Soon, you will meet your private driver, who will transfer you to the airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -23618,7 +23917,8 @@
         "description": "You wake up to another morning at the foothills of the Himalayas. Enjoy a rejuvenating stretch with a yoga session along the banks of the rushing river. Millions of Hindus each year come to the Ganges to absolve themselves of their sins. It isn’t every day that you can stretch your legs, arms, neck, and back in the shadow of the highest mountain range in the world. Your private transfer meets you at your hotel and escorts you to Haridwar for your flight to Delhi. Once in Delhi you will continue onward towards home. Be sure to read the India travel reviews for ideas on how to further customize this trip, and to see why travelers continue to rely on Zicasso."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -23693,7 +23993,8 @@
         "description": "On the last day of your journey, you reflect on the time you spent traveling around India and Nepal and debate whether to continue your exploration of the captivating region by visiting the majesty of Tibet, the marvels of Myanmar, or the splendors of Southern India. At breakfast, the tangy and slightly citrusy aroma of the amber color tea fills the dining room. The doors to the Tribhuvan Museum open to the galleries erected during the 19th century but now celebrate the reign of King Tribhuvan and his revolt against the previous regime. The famous square of Nasal Chowk retains its dramatic allure as the site of royal coronations amidst the looming Basantapur Tower at the southern end of the courtyard. After breakfast, your private transfer greets you at the hotel and escorts you to Tribhuvan International Airport, where you board your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -23753,7 +24054,8 @@
         "description": "You wake up in the morning craving your last masala chai in India, ready for the spiced and sweet combination to accompany a traditional breakfast. You savor the whirlwind of the streets outside your luxurious hotel, where you don’t have to imagine the way a sari streams in the soft breeze. After your meal your private transfer will meet you in the lobby. When you arrive at the airport you are ready to begin your journey home but not ready to leave the wonders of India. With the images of the Taj Mahal and the Pink City close at hand, you know you will return soon to discover the country in even greater detail."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -23838,7 +24140,8 @@
         "description": "Even in the bustling morning of Delhi you have found a slice of peace taken with you from the moment you stepped along the Buddhist trail. From the memorable artistry of the Taj Mahal to the unforgettable spirit of Varanasi, you have seen the mythology of Buddha come to life before your eyes, separating the legend from reality within the land of His birth and the unrivaled devotion of His followers. Within the mountainsides and forests, along the rivers and the temples, you will venture home taking a piece of the Buddhist trail with you."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -23933,7 +24236,8 @@
         "description": "The morning light glistens off of the sapphire water. You can see the City Palace walls imitated in the lake’s crystal surface. The alluring spices of chai emanate from the local tea stand. You have grown accustomed to the luscious and soothing aroma. Your private transfer will take you from your hotel to the airport where you will catch your return flight to Delhi. Your time in the northern cities of India brought you lakes and temples, palaces and deserts. Soon you may have to pinch yourself to know that you amazing trip was real. But you have no doubt that it was. For more tour options, read the reviews for tour and travel agents for India ."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "India",
@@ -24043,7 +24347,8 @@
         "description": "You can look out of your hotel room and see the swirling colors of Udaipur. The quiet dawn is filled with the panorama of the City Palace quietly brushing up against the lake. The mountains surround the city in an early morning silhouette. The streets start to come to life and you can hear the calls for chai in the distance. Leather shoes line shops. Jewelers open their doors and the silver rings catch the light. Your private transfer meets you at your hotel and escorts you to the airport. You arrive in the familiar energetic bustle of Delhi. You can remember the aromas and vitality like it was yesterday but at the same time it feels like ages since you arrived in the capital. You board your flight home and India will settle into the quiet memories of an unforgettable journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "India",
@@ -24123,7 +24428,8 @@
         "description": "You arrive in Delhi in the early hours surrounded once more by the fragrance of spiced chai filling the air with cinnamon and nutmeg. A private transfer will take you for breakfast before you make your way to the airport for your return journey home. You have spent your time within the historic shadows of Rudyard Kipling and the wondrous sal forest of Bandhavgarh National Park exploring the lavishness of the Indian landscape, wildlife, and the splendor where the two come together."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -24198,7 +24504,8 @@
         "description": "The day brings with it the colorful stretch of sunrise that blends into the customary blue of the morning. After breakfast you will be met by private transfer and taken to the airport to catch your return flight home. From Delhi’s streets to the grasslands of Kanha National Park, you have commemorated your time in India with limitless photos and previously unimaginable memories. Soon you will find yourself at home where it is hard to believe that it wasn’t all just a dream, and you will already be planning to relive the wonders of India once more."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "India",
@@ -24273,6 +24580,7 @@
         "description": "The late morning brings you into the train station at Delhi, returning you to the capital amidst the grand architecture of both the past and present walls. You will be met at the station by your private transfer and taken to a restaurant for an enjoyable lunch within the sensational aromatics of spiced masala and ginger. The flavor, aroma, and effervescence of Delhi are catching, and will have you fondly remembering your time along the storied history within the city, and amidst the elegant nature. As you make your way to the airport you can’t help but picture a tiger lounging in the shade and an elephant careening through the forest. Your time within the wilds of India may have ended but the memories will always be close at hand."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   }
 ]

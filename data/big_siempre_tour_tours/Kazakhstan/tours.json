@@ -117,7 +117,8 @@
         "description": "Bishkek - Transfer to the airport for departure. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Kazakhstan",
@@ -297,7 +298,8 @@
         "description": "Departure Day - Kazakhstan After a truly unforgettable journey, it's time to depart on your journey home!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Kazakhstan",
@@ -412,7 +414,8 @@
         "description": "Almaty - After more than two incredible weeks of adventure, our journey comes to an end today. At a suitable time you will be transferred to the airport. For those wishing to extend their stay, additional nights in Kazakhstan can be arranged upon request (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Kazakhstan",
@@ -492,7 +495,8 @@
         "description": "With no further activities planned, your adventure comes to an end after breakfast today. You can check out of your hotel any time before noon."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Kazakhstan",
@@ -557,7 +561,8 @@
         "description": "Almaty - Transfer to the airport for your onward flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Kazakhstan",
@@ -607,7 +612,8 @@
         "description": "We will help you with last minute souvenir errands and city forays then transfer you to the airport or train station to begin your journey home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Horse Riding"
   },
   {
     "destination": "Kazakhstan",
@@ -692,7 +698,8 @@
         "description": "Almaty - Transfer to the airport for your onward flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Kazakhstan",
@@ -732,7 +739,8 @@
         "description": "DAY 14-15: TASH RABAT TO BISHKEK We retrace some of our steps and head north to Bishkek, seeking out scenic camping spots as we go. DAYS 16 BISHKEK Your trip ends after breakfast. Bishkek is a well-connected city, with the airport serving destinations throughout Asia with connections for onward travel further afield. For those with some time to spare it’s a pleasant city to spend a few days at the end of your trip, with some excellent bars, cafés and restaurants dotted around to relax and reflect on your trip through Central Asia."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Kazakhstan",
@@ -867,7 +875,8 @@
         "description": "Your extraordinary Silk Road adventure concludes today in Almaty. Reflect on the unforgettable landscapes, cultures, and connections experienced across Uzbekistan, Tajikistan, Kyrgyzstan, and Kazakhstan. From desert fortresses to turquoise lakes and timeless cities, this journey has traced one of history’s most legendary routes. Depart at leisure, taking with you the memories, friendships, and stories of a region where East truly meets West."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Kazakhstan",
@@ -1037,7 +1046,8 @@
         "description": "Tour ends in Ashgabat: The tour ends in the early hours of this morning. Those on the suggested group flights will transfer to the airport in time for their early morning departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Kazakhstan",
@@ -1212,7 +1222,8 @@
         "description": "Our journey ends in Tashkent and we reflect on this monumental journey through countries, broken by borders but united in history and peoples."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Kazakhstan",
@@ -1352,7 +1363,8 @@
         "description": "Following breakfast at the hotel, the trip concludes. Private airport transfers provided today (drive approx 15km). We also provide excellent options to extend your stay in Kazakhstan. Please ask your the operator Adventure Travel Consultant for further details."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Kazakhstan",
@@ -1482,7 +1494,8 @@
         "description": ": The trip ends after breakfast at our hotel in Ashgabat. There are no activities planned today, so you're free to depart from Ashgabat at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from Ashgabat International Airport (ASB), which is a 40-minute drive from the hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Kazakhstan",
@@ -1622,7 +1635,8 @@
         "description": "Our adventure comes to an end in Almaty after breakfast."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Kazakhstan",
@@ -1722,6 +1736,7 @@
         "description": "Our adventure ends in Khiva this morning. Land only travellers may join our group transfer to Urgench airport which is timed to fit with the Turkish Airlines flight to Istanbul, or you may remain in Khiva. If you aren’t quite ready to leave, speak to your sales representative about extending your adventure"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

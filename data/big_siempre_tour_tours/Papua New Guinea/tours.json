@@ -72,7 +72,8 @@
         "description": "Transfer to the airport for your onward flight (please speak to us about extending your trip to explore the country further). (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Papua New Guinea",
@@ -187,7 +188,8 @@
         "description": "Port Vila: This morning we arrive into Port Vila with disembarkation after breakfast. A transfer to our central city hotel or the airport will conclude your voyage. To allow time for disembarkation procedures we do not recommend booking flights from Port Vila before midday. Note: During our voyage, circumstances may make it necessary or desirable to deviate from the proposed itinerary. This can include poor weather and opportunities for making unplanned excursions. Your Expedition Leader will keep you fully informed. This tour offers a variety of activities and excursions. Your personal interests will determine which of these you wish to join. Please note that some activities and excursions will run at similar times, and it will not be possible to participate in both. Accordingly, refunds for excursions and missed landings are not available. Voyages are planned and scheduled pending final regulatory approval."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Papua New Guinea",
@@ -262,7 +264,8 @@
         "description": "Port Moresby - Transfer to the airport for our departure flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Papua New Guinea",
@@ -332,7 +335,8 @@
         "description": "Expedition Ends For those that wish to do some SCUBA Diving (highly recommended) we can add a couple of days to the end of the trip for this. SCUBA Diving trips are best organized through the Ecolodge you will be staying at."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Papua New Guinea",
@@ -422,6 +426,7 @@
         "description": "Tour ends Port Moresby: We have a relaxing morning before heading to the airport where the tour ends."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

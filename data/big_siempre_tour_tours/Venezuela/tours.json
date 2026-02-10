@@ -57,7 +57,8 @@
         "description": "Caracas - Transfer to the airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Venezuela",
@@ -97,6 +98,7 @@
         "description": "Home – Departure – This morning you will be transferred in time to catch the return flight to home. (Breakfast only)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   }
 ]

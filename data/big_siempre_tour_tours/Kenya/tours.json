@@ -52,7 +52,8 @@
         "description": "Embark on a final morning game drive that culminates in breakfast back at the camp, before an opportunity to pack and prepare for your onward journey before lunch and the ground transfer to Ol Seki airstrip for your flight back to Nairobi. Saruni Basecamp transfer* to Jomo Kenyatta International Airport, with the option of dinner at either Talisman or Carnivore. Bookings will be dependent on your flight times, with dinner on your own account."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -112,7 +113,8 @@
         "description": "(Thursday) Up the Rift Valley to Nairobi - After breakfast drive back down the Great Rift Valley to Nairobi and transfer to the airport for your departure flight. Alternatively, and depending on the time of your departure flight, we can arrange additional accommodation in Nairobi. Why not extend your holiday with a beach stay at one of the stunning resorts we can offer. Contact us for details."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -177,7 +179,8 @@
         "description": "NAIROBI ~DEPARTURE After breakfast at the Camp, bid farewell to the Masai Mara as you set on your journey back to Nairobi. Drive back down the Great Rift Valley to Nairobi, passing the dormant volcano, Mount Longonot, and lakes Elementeita and Naivasha on the way. Keep an eye out for herds of giraffe and gazelle and head up the escarpment. You will arrive in Kenya's bustling capital city Nairobi in the early afternoon. Spend time doing last minute shopping. Lunch will be at the Carnivore Restaurant famous for its mouthwatering charcoal grilled barbeque. Later transfer to Nairobi’s Jomo Kenyatta International Airport in time for your departure flight. Bid farewell to Africa until the next time! Say good bye to the wonderful country and promise to join us on another expedition!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -227,7 +230,8 @@
         "description": "Depart from Nairobi - After breakfast, you’ll check out of Saruni Mara and will be driven back to the airstrip for your light aircraft flight to Nairobi. You may wish to visit the endangered Rothschild giraffes at the Giraffe Centre in Lang'ata, or you can visit the Karen Blixen Museum. Or you may wish to do some last minute shopping at the various markets that sell African handicrafts. Alternatively, you may wish to consider fostering an elephant via the Sheldrick Wildlife Trust. Your driver will transfer you to Nairobi International Airport in the evening in time to catch your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -282,7 +286,8 @@
         "description": "Depending on your departure time, enjoy one last walk through a local market, try a dish you missed, or simply take time to reflect on the journey. You’ll leave with not just memories, but with new ways of seeing culture, connection, and community."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Kenya",
@@ -372,7 +377,8 @@
         "description": "After breakfast, depart to Zanzibar airport to connect to your onward flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -447,7 +453,8 @@
         "description": "Following breakfast, depart your lodge and begin your journey back to Arusha arriving in the city for lunch (excludes drinks). Then transfer to Kilimanjaro International or Arusha Airport for your departure flight (flight cost not included). End of our services."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -537,7 +544,8 @@
         "description": "After breakfast, transfer to Kilimanjaro International Airport for your onward flights. We can arrange extensions to Zanzibar if time allows."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -597,7 +605,8 @@
         "description": "Lake Nakuru, to Nairobi After leaving Uganda and crossing back into Kenya, we travel to Lake Nakuru National Park - home to a wide variety of wildlife including Black Rhino, Hippo, Lion, Leopard, Hyena and Giraffe. However, Nakuru is a soda lake and most famous for its pink inhabitants, a flock of almost a million Pink Flamingos which feed noisily along the shoreline. We include a half day game safari here, and you have the option to add more activities as well. Finally, we head back to Nairobi, arriving late afternoon. If your trip finishes here, you can fly out this evening, if you have a late evening flight"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Kenya",
@@ -717,7 +726,8 @@
         "description": "You depart at leisure for Arusha airport on a scheduled flight back home. This will mark the end of your holiday. Meal Plan: Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Kenya",
@@ -767,7 +777,8 @@
         "description": "Make the most of your last morning game drive safari complete with a picnic breakfast before heading back to camp. At camp, you will have some time to gather your belongings. After lunch, bid your hosts a fond farewell and depart for the airstrip. Enjoy your last game drive en-route arriving at Naboisho Airstrip in time for your scheduled afternoon flight the perfect departure time for international connections."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Kenya",
@@ -822,7 +833,8 @@
         "description": "This morning, catch your included domestic flight from Diani back to Nairobi and continue on your homeward journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Kenya",
@@ -846,7 +858,8 @@
     "meet": "",
     "whatExpect": "",
     "dayInfo": [],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Kenya",
@@ -946,7 +959,8 @@
         "description": "We depart early morning and transfer to Kigali airport in Rwanda. Our trip comes to an end in the afternoon when we bid our group goodbye. Alternatively, if you’d like more time to explore, speak to your sales representative about extending your stay."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -1061,7 +1075,8 @@
         "description": "Fly Back to you destination. Today you will travel to the airport. Travel time 30 minutes."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -1106,7 +1121,8 @@
         "description": "Farewell to Kenya - On your final day, savor a leisurely breakfast while taking in the last of the ocean views. After check-out, a private transfer will take you to the airport for your onward flight, leaving you with memories of an unforgettable journey through some of Kenya’s most iconic landscapes. This luxury itinerary offers the perfect balance of adventure and relaxation, enhanced by impeccable service and unforgettable experiences at every turn."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Kenya",
@@ -1156,7 +1172,8 @@
         "description": "DEPARTURE After breakfast at the Camp, bid farewell to the Masai Mara as you set on your journey back to Nairobi. Drive back down the Great Rift Valley to Nairobi, passing the dormant volcano, Mount Longonot, and lakes Elementeita and Naivasha on the way. Keep an eye out for herds of giraffe and gazelle and head up the escarpment. You will arrive in Kenya's bustling capital city Nairobi in the early afternoon. Spend time doing last minute shopping. Lunch is your own arrangements Transfer to Nairobi’s Jomo Kenyatta International Airport in time for your departure flight. Bid farewell to Africa until the next time. Say good bye to the wonderful country and promise to join us on another expedition!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -1221,7 +1238,8 @@
         "description": ": After an early breakfast this morning, we'll drive back to Nairobi (a five-hour journey). Our trip ends at the Tamarind Tree Hotel. A transfer to Jomo Kenyatta International Airport (NBO) from the Tamarind Tree Hotel is included on all trips in our Upgraded range regardless of your departure day, provided we receive your flight details no later than 14 days before your tour departing. For those departing Kenya on a late-evening flight, you might wish to book a day-use room, please contact us for details. Alternatively, you're free to relax by the pool or explore Nairobi for some last-minute souvenir shopping."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -1306,7 +1324,8 @@
         "description": ": After an early breakfast, we'll drive to Voi station and board the 9.55am train back to Nairobi, arriving just after 2pm. The earliest recommended flight departure time is 4pm. A transfer to Jomo Kenyatta International Airport (NBO) from the train station or Tamarind Tree Hotel is included on all trips in our Upgraded range regardless of your departure day, provided we receive your flight details no later than 10 days before your tour departing. For those departing Kenya on an evening flight, we'll transfer you to the Tamarind Tree Hotel. You might wish to book a day-use room, please contact us for details. Alternatively, you're free to relax by the pool or explore Nairobi for some last-minute souvenir shopping."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -1366,7 +1385,8 @@
         "description": "Visit the rhino sanctuary on your way to the airstrip and once again admire the hippos and the crocodiles of the Mara River. Your flight back to Nairobi leaves the Mara at 11:00 and arrives in Nairobi at 12:20. Saruni Basecamp transfer* to Jomo Kenyatta International Airport, with the option of dinner at either Talisman or Carnivore. Bookings will be dependent on your flight times, with dinner on your own account."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Kenya",
@@ -1426,7 +1446,8 @@
         "description": "Time to head home Enjoy breakfast in camp, then head out for a final game drive en route to Mara North Airstrip to get your scheduled flight to Wilson Airport. When you arrive at Wilson Airport, you will be greeted by a driver-guide and transferred in time for your flight home to Jomo Kenyatta International Airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -1476,7 +1497,8 @@
         "description": "NAIROBI END OF TOUR. After breakfast bid farewell to the Masai Mara as you set on your journey back to Nairobi. Drive back down the Great Rift Valley to Nairobi, passing the dormant volcano, Mount Longonot, and lakes Elementaita and Naivasha on the way. Keep an eye out for herds of giraffe and gazelle and head up the escarpment. You will arrive in Kenya’s bustling capital city Nairobi in the late afternoon. Spend time doing last minute shopping then drop off airport bid farewell to your driver guide until the next time. Say good bye to the wonderful guide and promise to join us on another expedition!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -1536,7 +1558,8 @@
         "description": "After breakfast you will be transferred to Mombasa Airport for your flight home. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -1601,7 +1624,8 @@
         "description": "Fly from the coast back from Malindi to Nairobi (included) for your international connection. Day rooms or additional airport services can be arranged depending on your departure schedule."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -1661,7 +1685,8 @@
         "description": "Today, fly back from Malindi to Nairobi to begin your homeward journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Kenya",
@@ -1746,7 +1771,8 @@
         "description": "Nairobi – Departure (Zanzibar extension available). After breakfast, check-out and transfer to JKIA for return international flight local flight back to your home country or choose few more days for relaxation in Zanzibar. Breakfast included."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -1821,7 +1847,8 @@
         "description": "DEPARTURE Drive to Arusha. Following lunch at Arusha Coffee Lodge spend time doing last minute shopping for souvenirs, later you will be transferred to Kilimanjaro International Airport for your flight back home and hope to see you in the near future! Say good bye to the wonderful East Africa and promise to join us on another expedition!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -1886,7 +1913,8 @@
         "description": "Setting off early this morning, you’ll travel across the to Nairobi. When you arrive later today, your adventure comes to an end. If you’d like to spend longer in Nairobi – and it’s recommended you do – just speak to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Kenya",
@@ -1951,7 +1979,8 @@
         "description": "DEPARTURE Drive to Arusha. Following lunch on your own arrangements, spend time doing last minute shopping then later you will be transferred to Kilimanjaro airport for your flight back home. Say good bye to the wonderful country and promise to join us on another expedition!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -2041,7 +2070,8 @@
         "description": "Kilimanjaro Airport: Step into a melting pot of cultures on a visit to the Mto Wa Mbu Village. This fascinating village borders the Manyara National Park and offers a welcome respite from wildlife explorations through Tanzania’s northern safari circuit. It is home to an enormous diversity of ethnic groups, with approximately 120 different tribes residing in the village and is surrounded by the beautiful scenery of the Ngorongoro Crater and the Serengeti National Park. Famed for its rice and red banana plantations, the villagers make their living mostly from farming and tourism, and there is a large variety of cultural programmes that visitors can partake in. Mto Wa Mbu is a superb area for an authentic cultural experience where you can taste the flavours of Tanzania, learn more about the country’s politics, wildlife, history and culture and enjoy a hiking or biking tour in the scenic village surrounds. Tuck into a traditional lunch at the Mto Wa Mbu Village. This enticing little village is situated in the heart of Tanzania’s northern safari circuit where a fusion of cultures, religions, languages and traditions await to be explored. It is the ideal place to learn about Tanzania in a nutshell and offers a variety of experiences to enjoy. The village consists of approximately 120 different tribal groups who all retain their individual identity while at the same time living together harmoniously by promoting tourism and income generation. Your unique lunch will take place in the heart of a fertile banana plantation and consists of good, wholesome food such as sweet potato, vegetables, meat stew and other more exotic specialities such as a local variety of spinach and maize meal. Relish the unique simplicity of African cuisine while enjoying the humble friendliness of your welcoming hosts. Drive from Manyara to Arusha. The road leads at first south-east before turning north-east, passing through a landscape of semi-arid savannah interspersed with volcanoes, craters and calderas resulting from the tectonic movement underlying the Great Rift Valley. Approximate journey time 3 hours, depending on the exact start and end points. Route details and journey times may vary depending on road conditions. Transfer from Arusha to Kilimanjaro Airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -2126,7 +2156,8 @@
         "description": "Our adventure ends after breakfast and we begin our return journeys home. If you’d like more time to explore, speak to your sales representative about extending your stay."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -2221,7 +2252,8 @@
         "description": "Today is the last day of this great trip of your life time ,you'll transfer to Zanzibar aiport for your flight back home. Karibu sana"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -2326,7 +2358,8 @@
         "description": "This morning you will be transferred from your lodge in the crater and travel to Arusha for lunch at Naura Springs Hotel. From here you will either be assisted to board a shuttle back to Nairobi Airport or a transfer to Kilimanjaro Airport to catch your return flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -2416,7 +2449,8 @@
         "description": "After breakfast, you depart the camp/lodge and begin your journey back to Arusha arriving in the city for lunch (excludes drinks). Then transfer to Nairobi and drop off at Nairobi’s Jomo Kenyatta International Airport for your departure flight. It is possible to leave the trip in Arusha and fly to Zanzibar for time on the beach."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -2501,7 +2535,8 @@
         "description": "CRESENT ISLAND VISIT/LAST MINUTE SHOPPING/DEPARTURE This morning enjoy a morning boat ride to the crescent island - The Park where you walk with the Animals! There is just one “Crescent Island Game Park” and it is located on Lake Naivasha, Kenya in the Great Rift Valley. There are more animals per acre than any other Kenyan Park, hence many film companies have been to the Island to film the herds of Wildebeest, Waterbuck, Zebra and Gazelle. They are not fenced in, which allows the wildlife on the mainland to come in as they lose their habitat to development and the ever increasing population. Hippo graze all over us at night then sleep under the acacia or rest in the water by day. The giraffe who were born on the Island return to give birth; sometimes you see three generations at a time. Hyena come to hunt at night but are not resident on the island, the many python that live here can be seen occasionally with a kill. Groups of Buffalo come and go but they are always monitored. From the top of the hill there is a 360 degree view across the Lake from Longonot to Hell’s Gate to the Mau Escarpment to Eburu and onto the Aberdares. Walking along the ridge in the golden hour before sunset whilst watching the animals grazing with the water shimmering beyond is what Africa is all about. Take a boat back to the lodge. Drive back to Nairobi, passing .You will arrive in Kenya's bustling capital city Nairobi in the early afternoon. Spend time doing last minute shopping. Lunch is your own arrangements Transfer to Nairobi’s Jomo Kenyatta International Airport in time for your departure flight. Bid farewell to Africa until the next time Say good bye to the wonderful country and promise to join us on another expedition!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -2551,7 +2586,8 @@
         "description": "Depart from Zanzibar - After breakfast, you’ll check out of your accommodation and transfer to Abeid Amani Karume International Airport (ZNZ) for your flight home. You'll be sad to leave these area of abundant natural beauty, but you'll return home with incredible memories of your Kenya and Zanzibar honeymoon."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Kenya",
@@ -2626,7 +2662,8 @@
         "description": "Your final morning in the Masai Mara begins with an early breakfast at camp before embarking on one last game drive. As the morning light spills across the plains, enjoy lingering wildlife encounters—elephants moving in family groups, giraffes browsing acacia trees, and antelope grazing in the soft glow. While all vehicles must exit the park by 10 a.m., the journey toward the gates often reveals more unforgettable sights. From the Mara, travel back toward Nairobi, stopping for a scenic picnic lunch along the way. By late afternoon, arrive in the city, marking the official end of your safari. For those wishing to extend the adventure, seamless connections to Kenya’s coast are available, offering white-sand beaches, warm Indian Ocean waters, and a perfect balance of relaxation after your thrilling safari."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -2666,7 +2703,8 @@
         "description": "The Maasai Rites of Passage. Spend an amazing day with the warriors and women of a traditional Maasai village. It starts with a song and dance welcome where the wife of a village elder will offer to dress you in traditional Maasai shuka cloth or ‘African blanket’. Venture into the bush with her son, who will explain what it’s like being a young warrior in Maasai society, and join other men who are training for their rite of passage as they explain how they will go into the hills to complete qualifying tasks before they reach the circumcision ceremony. Take part in the challenge as they show you how to throw a spear and climb an acacia tree in lightning speed. Sit with the villagers as they share their stories of their fascinating culture with you while the women teach you how to make some traditional decorative beaded jewellery. And as the Maasai adapt to a semi nomadic future they have had to adapt some practices of land use by embracing bio gas systems. This program aims to eliminate the need to cut down precious forests for firewood for cooking and replacing it with the gas from the biogas. The gas saves the forest from being cut down and helps restore the raspatory health of the villagers caused by smoke inhalation"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Kenya",
@@ -2721,7 +2759,8 @@
         "description": "A Great Way to End the Week. Your final day will be spent relaxing at leisure, giving you the opportunity to reflect on the amazing experiences over the past few days as you fondly remember the warm and welcoming, and fascinating and inspirational Kenyan people you have met and connected with. A mid-morning pickup takes you to the restaurant at the Karen Blixen Coffee Garden for a delicious lunch in the pretty gardens to celebrate the end of your 6-day tour, before you make your way to the airport to catch your flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Kenya",
@@ -2801,7 +2840,8 @@
         "description": "Baringo - Nairobi - Return to Nairobi and transfer to the airport for departure. (BD)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Kenya",
@@ -2881,7 +2921,8 @@
         "description": "MOMBASA Time to say goodbye to Kenya and head home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Kenya",
@@ -2941,7 +2982,8 @@
         "description": "Time to head home Take advantage of a leisurely morning at your own pace, followed by a final meal at your villa before your transfer to Ukunda Airstrip, ensuring you arrive in time for your scheduled flight to Wilson Airport. Upon arrival at Wilson Airport, a dedicated driver-guide will be awaiting you to ensure a smooth transfer to Jomo Kenyatta International Airport, ensuring you reach your departure gate with ample time for your journey homeward."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Kenya",
@@ -3006,7 +3048,8 @@
         "description": "This morning, you’ll cross the plains of the Mara and climb the Rift Valley’s eastern wall past Mount Suswa on the return drive to Nairobi . En route, maybe stop for lunch or at a nearby town for one final bit of shopping.When you arrive in Nairobi, your adventure comes to an end. If you’d like to stay longer – and it’s recommended you do – just speak to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Kenya",
@@ -3081,7 +3124,8 @@
         "description": "Following breakfast, you transfer to the airstrip for your SkySafari flight back to Nairobi’s Wilson Airport. You are met on arrival and transfer to Hemingways Nairobi where you have use of a day room. You then transfer to Nairobi’s Jomo Kenyatta International Airport for your departure flight"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -3141,7 +3185,8 @@
         "description": "Following an early breakfast, catch your last views of the majestic Mount Kilimanjaro as you depart Amboseli. From here, turn north across the beautiful and seemingly never ending Athi Plains, arriving in Kenya's bustling capital city of Nairobi by midday. Once in the city, clients will be dropped off in the city centre or at the airport for ongoing travel arrangements. Drive time approx: 4 hours"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -3206,7 +3251,8 @@
         "description": "Bid the Masai Mara farewell after breakfast. We then transfer (4hr 45min) to Nairobi, enjoying good views of the Rift Valley Escarpment on the way back. In Nairobi we arrive at the Eka Hotel, where day rooms are provided for the rest of the afternoon. The latest check out is 9pm and one buffet meal is included during this time. A group transfer to Nairobi Airport for onward flight arrangements is arranged in the early evening. Alternatively, if you'd like the ultimate East Africa wildlife-watching trip, speak to your sales representative about joining our Tanzania Safari Adventure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -3251,7 +3297,8 @@
         "description": "Become a Maasai for the Day. Venture into rural Maasai country where you will meet a family and immerse yourself in the midst of the daily hustle and bustle of Maasai village life. Your host will be one of the village elders, an heir to his clan, and you meet his wife and children too. The male children of the family are young morans, the traditional defenders of the tribe. Learn about their traditional rites of passage while also discovering the intricacies of the Maasai family structure. An amazing day where you will get the chance to become an honorary Maasai, learn how to throw a traditional spear and the techniques needed to survive in the bush."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Kenya",
@@ -3296,7 +3343,8 @@
         "description": "Flight from Ukunda to Nairobi for your onward flight arrangements."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Kenya",
@@ -3356,7 +3404,8 @@
         "description": "Home - Travelling After breakfast you will be transferred to the airport in time to catch your return flight home. (breakfast is the only meal included today)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -3406,7 +3455,8 @@
         "description": "Savour your final morning in paradise, with time to relax and enjoy lunch before your flight back to Nairobi Wilson. On arrival, you’ll be met and transferred to Jomo Kenyatta International Airport for your onward journey home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -3476,7 +3526,8 @@
         "description": "Depart from Kenya - After breakfast, you’ll check out of your accommodation and you’ll be driven back to the airstrip for your light aircraft flight to Nairobi. You may wish to visit the endangered Rothschild giraffes at the Giraffe Centre in Lang'ata, or you can visit the Karen Blixen Museum. Alternatively, you may wish to consider fostering an elephant via the Sheldrick Wildlife Trust. Your driver will transfer you to Nairobi International Airport in the evening in time to catch your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -3531,7 +3582,8 @@
         "description": "Home - Departure After breakfast you will be transferred to the airport in time to catch your return flight home. (breakfast is the only meal included today)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -3606,7 +3658,8 @@
         "description": "After a morning of relaxation, you will be transferred to Diani Airport for your light aircraft flight back to Nairobi Wilson. Upon arrival, a driver will be waiting to take you to the international airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Kenya",
@@ -3646,7 +3699,8 @@
         "description": "Begin your day early, joining rangers on a patrol through Mbulia Conservancy. After a briefing on their conservation work, you’ll set out on foot or by vehicle to track wildlife like elephant and buffalo, learning to identify tracks and signs along the way. The rangers will share insights on protecting wildlife and how they balance the needs of local communities with conservation. You’ll visit fence lines, which help prevent crop raids, and stop at waterholes where animals gather. Throughout the patrol, the rangers share stories of their daily challenges, from poaching threats to resource shortages. By the end of the day, you’ll have gained a hands-on understanding of the vital role rangers play in protecting the ecosystem."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -3696,7 +3750,8 @@
         "description": "This afternoon, you’ll fly back to Nairobi Wilson, where you’ll be met and taken to a restaurant for dinner before your evening flight home—ending your journey with incredible memories of an unforgettable holiday."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Kenya",
@@ -3756,7 +3811,8 @@
         "description": "Enjoy your final morning on the beautiful island of Zanzibar. After a hearty breakfast, you’ll check out of your hotel and transfer to Abeid Amani Karume International Airport (ZNZ) for your flight home, taking with you unforgettable memories, incredible experiences, and stories that will last a lifetime."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -3811,7 +3867,8 @@
         "description": "Depart from Diani Beach - Check out of your hotel this morning and drive to the airstrip in Ukunda for your light aircraft flight to Nairobi. Meet our representative upon arrival and drive to Jomo Kenyatta International Airport, where you can catch your onward international flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -3891,7 +3948,8 @@
         "description": "Departure After breakfast, you will be transferred by boat to Lamu Airport for your return flight to Nairobi (approximately 1 hour 30 minutes)*. Your driver will meet you at Wilson Airport and take you to Jomo Kenyatta International Airport for your international departure (transfer time approximately 45 minutes). We hope this journey leaves you with unforgettable memories of Kenya’s landscapes, people and wildlife."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -3961,7 +4019,8 @@
         "description": "Following breakfast depart the Masai Mara and head across acres of rolling wheat and barley farms to Narok, the district headquarters of this part of Maasailand. From here cross the vast plains on the floor of the Rift Valley, before heading up the rift escarpment on a road built by Italian prisoners during World War II. Arrive in Kenya’s bustling capital around mid-day. Once in the city, clients will be dropped off at the airport or Panari Hotel or 2.5.4 Ole Sereni Hotel for ongoing travel arrangements. End of our services."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -4026,7 +4085,8 @@
         "description": "Say goodbye to the open expanses of the African bush and return to the bustling metropolis of Nairobi. When you arrive, you'll be dropped at a centrally located hotel and you’re free to leave at any time. If you would like to extend your stay in Nairobi, just speak to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -4091,7 +4151,8 @@
         "description": "Early breakfast is served today before continuing your journey to Mombasa, aiming to reach your North or South Coast beach hotel in time for a late lunch (on own arrangements). End of Services. Drive time approx: 4 hours We can add on time at the coast if required."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -4151,7 +4212,8 @@
         "description": "Following breakfast depart the Masai Mara and head across acres of rolling wheat and barley farms to Narok, the district headquarters of this part of Maasailand. From here cross the vast plains on the floor of the Rift Valley, whilst keeping an eye out for herds of giraffe and gazelle, before heading up the rift escarpment on a road built by Italian prisoners during World War II. Arrive into Kenya’s bustling capital around mid day. Once in the city, clients will be dropped off at the drop off point in the city centre or at the airport for ongoing travel arrangements. Drive time approx: 5 hours"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -4221,7 +4283,8 @@
         "description": "DEPARTURE Today you will spend the day at leisure enjoying the facilities at the hotel. Later you will be transferred to Zanzibar Airport for your flight to back home. Say good bye to the wonderful country and promise to join us on another expedition!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -4311,7 +4374,8 @@
         "description": "Your final morning in Tanzania begins with a leisurely drive back toward Arusha, the gateway city to the northern safari circuit. Along the way, the scenery shifts from open highlands to bustling towns framed by coffee plantations. By midday, you arrive at the elegant Arusha Coffee Lodge, set within one of Tanzania’s oldest working coffee estates. Enjoy a relaxed lunch in the tranquil gardens, the perfect chance to pause and reflect on your safari adventures. After lunch, you transfer to Kilimanjaro International Airport for your onward flight. As you watch the sun set over the distant silhouette of Mount Kilimanjaro, the memories of your safari—thrilling game drives, breathtaking landscapes, and the warmth of local communities—remain fresh in mind."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -4366,7 +4430,8 @@
         "description": "Through Mozambique to Harare From Lake Malawi, we continue on to the capital Lilongwe in the south of the country where you can check out the local markets. Our African Overland trip then leaves Lilongwe to cross into Mozambique and head for Zimbabwe. We follow the infamous Tete Corridor which was well known in the days of Mozambique's long running civil war as the Gun Run. Thankfully these days things are a lot different and we spend a few days passing through the country. We then enter Zimbabwe and travel via the capital, Harare. Arriving into Zimbabwe's cosmopolitan city, you can enjoy many of the sights in and around the city centre. There are many markets throughout the city from craft markets to the hectic local Mbare market, and you can also stroll through the botanical gardens, or enjoy the nightlife in one of the many bars throughout the city"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -4421,7 +4486,8 @@
         "description": "Home - Departure After breakfast you will be transferred to the airport in time to catch your return flight home. (breakfast is the only meal included today)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -4471,7 +4537,8 @@
         "description": "Kigali The trip finishes after breakfast in Kigali today, and your time is free until your flight departs or your other onward arrangements commence"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -4571,7 +4638,8 @@
         "description": "Finish in Nairobi After our time searching for the Big Five and mountain gorillas, the tour comes to an end back in the big city of in Nairobi this afternoon. Groups often arrange a final dinner out tonight to swap stories and exchange contact details. We strongly recommend that you book at least one more night post-tour rather than flying out late this evening in case of any delays. We can help you in organising extra accommodation if required. Route"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -4646,7 +4714,8 @@
         "description": "Breakfast in lodge, before a last opportunity to visit the rhino sanctuary on the way to the airstrip for your 11:00 return flight to Nairobi from the Mara. In Nairobi, you have the option to have dinner at either Talisman or Carnivore before we transfer* you to Jomo Kenyatta International Airport,. Bookings will be dependent on your flight times, with dinner for your own account."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -4716,7 +4785,8 @@
         "description": "Wake up in paradise, linger over breakfast and take a final stroll along the white sand of Diani Beach. After a morning spent making the most of the relaxing vibe of your villa and the beach just beyond it, depart in the afternoon for your flight back to Nairobi, which departs Diani at 16:00 and arrives at Wilson Airport at 17:30. Transfer to Jomo Kenyatta International Airport. Depending on the time of your international flight, have dinner at the Talisman or Carnivore (flight times permitting; dinner on your own account). Alternatively, ask us for a different dining recommendation – our team knows all the best spots in town."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -4766,7 +4836,8 @@
         "description": "Ololo Safari Lodge & Farm—Nairobi. This morning over a last home-cooked leisurely breakfast on the terrace, reflect on the experiences of the last few days—not only have you seen Kenya’s amazing wildlife, but met some truly inspirational people that are making a real difference in their communities. We transfer you to your central Nairobi hotel or Jomo Kenyatta International Airport or Wilson Airport for your onward journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -4831,7 +4902,8 @@
         "description": "Today marks your last day at Diani, spend the day at your resort, transfer to Ukunda airstrip for your flight to Nairobi! Say good bye to the wonderful country and promise to join us on another expedition!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -4896,7 +4968,8 @@
         "description": "NAIROBI END OF TOUR After breakfast bid farewell to the Masai Mara as you set on your journey back to Nairobi. Drive back down the Great Rift Valley to Nairobi, passing the dormant volcano, Mount Longonot, and lakes Elementaita and Naivasha on the way. Keep an eye out for herds of giraffe and gazelle and head up the escarpment. You will arrive in Kenya’s bustling capital city Nairobi in the late afternoon. Spend time doing last minute shopping and later have lunch at the spontaneous Carnivore Restaurant where you will have a variety of finger liking meat. Drop off airport bid farewell to your driver guide until the next time. Say good bye to the wonderful guide and promise to join us on another expedition"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -4946,7 +5019,8 @@
         "description": "Become a Maasai for the Day. Spend an amazing day as an honorary Maasai by visiting a family in their village who have lived the traditional Maasai way of life for generations. It starts with a song and dance welcome where the wife of a village elder will offer to dress you in traditional Maasai shuka cloth or ‘African blanket’. Learn about traditional rites of passage from the male children of the family, or young morans, who will teach you how to throw a traditional spear and the techniques needed to survive in the bush, and listen to fascinating folklore stories told by Maasai elders."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Kenya",
@@ -5011,7 +5085,8 @@
         "description": "Time to say Kwaheri (goodbye)! After a final breakfast at the lodge, you'll head back to Nairobi, arriving in time for your international flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Horse Riding"
   },
   {
     "destination": "Kenya",
@@ -5066,7 +5141,8 @@
         "description": "Tuesday 30th June: Overnight flight As your flight touches down in the UK, a sense of accomplishment and nostalgia washes over you. With the African adventure now etched into your memories, you'll have the choice to either make your way home, basking in the afterglow of the incredible experiences, or proceed directly to the office. Imagine the looks on your colleagues' faces when they inquire, 'How was your weekend? Did you do anything out of the ordinary?' This will be your moment to regale them with tales of your extraordinary journey – from conquering the scenic Lewa Safari Marathon against the backdrop of Mount Kenya's majestic peaks, to embarking on thrilling game drives through the lush savannahs, witnessing majestic wildlife in their natural habitats."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -5141,7 +5217,8 @@
         "description": "DEPARTURE Today you will spend the day at leisure enjoying the facilities at the hotel. Later you will be transferred to Zanzibar Airport for your flight back home. Say good bye to the wonderful country and promise to join us on another expedition!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Kenya",
@@ -5211,7 +5288,8 @@
         "description": "Arise for your last early morning dawn game drive, returning to camp for a leisurely long breakfast in camp, before taking your flight back to Nairobi and onward arrangements."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -5271,7 +5349,8 @@
         "description": "Home time After checkout you will be picked up by a driver and head to Zanzibar International Airport to catch your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Kenya",
@@ -5336,7 +5415,8 @@
         "description": "After breakfast, transfer back to Nairobi for your international flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -5386,7 +5466,8 @@
         "description": "Home - Departure After breakfast you will be transferred to the airport in time to catch your return flight home. (breakfast is the only meal included today)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -5441,7 +5522,8 @@
         "description": "Home - Departure After breakfast you will be transferred to the airport in time to catch your return flight home. (breakfast is the only meal included today)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -5491,7 +5573,8 @@
         "description": "Choose your activity for your last morning in the Mara, before it’s time to gather your belongings and depart to Nairobi. Enjoy dinner at the Talisman or Carnivore restaurant (flight times permitting; dinner on your own account) before transfer* to Jomo Kenyatta International Airport,. Alternatively, ask us for a different dining recommendation – our team knows all the best spots in town."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -5551,7 +5634,8 @@
         "description": "Choose your activity for your last morning in the Mara, before an early lunch in camp and time to gather your belongings for your departure. You will later be transferred to Jomo Kenyatta International Airport, with dinner at the Talisman or Carnivore restaurant (flight times permitting; dinner on your own account). Alternatively, ask us for a different dining recommendation – our team knows all the best spots in town."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -5591,7 +5675,8 @@
         "description": "Transfer to Wilson airport for your return flight to Nairobi, where you check in for your onward flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -5636,7 +5721,8 @@
         "description": "Morning game viewing drive, after breakfast bid farewell to the Masai Mara as you set on your journey back to Nairobi. Fly to Nairobi, lunch will be on your own arrangements and spend time doing last minute shopping or city excursions at an extra cost. Drop off airport bid farewell to your driver guide until the next time. Arrive home with memories of a Trip of a Lifetime!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -5686,7 +5772,8 @@
         "description": "Finish in Zanzibar or Dar Es Salaam You have an option for how to finish the trip today. You can either remain on Zanzibar, perhaps to extend your time here, or to fly out of Zanzibar's international airport. Or you can continue with the group and take the ferry back from Stone Town to Dar es Salaam and finish your trip on arrival there. We will drop you somewhere convenient to transfer either into the city centre, or to the international airport for an onward flight"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -5771,7 +5858,8 @@
         "description": "Finish in Zanzibar or Dar es Salaam You have an option for how to finish the trip today. You can either remain on Zanzibar, perhaps to extend your time here, or to fly out of Zanzibar's international airport. Or you can continue with the group and take the ferry back to Dar es Salaam and finish your trip on arrival there. We will drop you somewhere convenient to transfer either into the city centre, or to the international airport for an onward flight"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -5861,7 +5949,8 @@
         "description": "Through Mozambique to Harare From Lake Malawi, we continue on to the capital Lilongwe in the south of the country where you can check out the local markets. Our African Overland trip then leaves Lilongwe to cross into Mozambique and head for Zimbabwe. We follow the infamous Tete Corridor which was well known in the days of Mozambique's long running civil war as the Gun Run. Thankfully these days things are a lot different and we spend a few days passing through the country. We then enter Zimbabwe and travel via the capital, Harare. Arriving into Zimbabwe's cosmopolitan city, you can enjoy many of the sights in and around the city centre. There are many markets throughout the city from craft markets to the hectic local Mbare market, and you can also stroll through the botanical gardens, or enjoy the nightlife in one of the many bars throughout the city"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Kenya",
@@ -5966,7 +6055,8 @@
         "description": "Bulawayo Victoria Falls If we can, then from Bulawayo we like to follow a journey that is steeped in history and say goodbye to the truck for a night and take the overnight train from Bulawayo to the mighty Victoria Falls. However, in recent years the service has been unreliable at best, and not suitable for us to use. Your crew will update you whether we think we can include this on your trip. If we can, then expect basic conditions, but the views and experience of looking out the window and watching the world go by more than make up for it. Alternatively we will drive from Bulawayo to Victoria Falls, arriving late in the afternoon. For some, Mosi oa Tunya - The Smoke That Thunders, is the highlight of their African safari. From the main road, in the bush 20kms away, a cloud of mist and spray can be seen against the blue sky. As you get closer, a low rumble like thunder can be heard. When you arrive it is a surprise to discover the enormity of Victoria Falls. One mile wide and hurling over 5 million cubic metres of water a minute into the Zambezi Gorge this sight is breath taking at any time of year. The water levels vary hugely depending on the time of year, but it is always an amazing spectacle - in fact it can actually be better when there is a little less water, as there is less spray blocking the falls from view. The Gorge below the falls is also the setting for one of the most adrenaline fuelled grade 5 white water rafting rivers in the world. But there is also plenty to do here for the less active too. Why not take a day trip over the Victoria Falls bridge to view the falls from Zambia, take the Flight of Angels - a great way to get a birds eye view of the falls in a microlight or helicopter, enjoy a civilised afternoon tea at the Victoria Falls Hotel, join a Sunset Boat Cruise or a more sedate Canoe trip. For those who want to make the most of the adrenaline activities, get your fix with the Gorge Swing, Abseil or 'enjoy' one of the highest commercial Bungee Jumps in the world"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Kenya",
@@ -6036,7 +6126,8 @@
         "description": "Bulawayo Victoria Falls If we can, then from Bulawayo we like to follow a journey that is steeped in history and say goodbye to the truck for a night and take the overnight train from Bulawayo to the mighty Victoria Falls. However, in recent years the service has been unreliable at best, and not suitable for us to use. Your crew will update you whether we think we can include this on your trip. If we can, then expect basic conditions, but the views and experience of looking out the window and watching the world go by more than make up for it. Alternatively we will drive from Bulawayo to Victoria Falls, arriving late in the afternoon. For some, Mosi oa Tunya - The Smoke That Thunders, is the highlight of their African safari. From the main road, in the bush 20kms away, a cloud of mist and spray can be seen against the blue sky. As you get closer, a low rumble like thunder can be heard. When you arrive it is a surprise to discover the enormity of Victoria Falls. One mile wide and hurling over 5 million cubic metres of water a minute into the Zambezi Gorge this sight is breath taking at any time of year. The water levels vary hugely depending on the time of year, but it is always an amazing spectacle - in fact it can actually be better when there is a little less water, as there is less spray blocking the falls from view. The Gorge below the falls is also the setting for one of the most adrenaline fuelled grade 5 white water rafting rivers in the world. But there is also plenty to do here for the less active too. Why not take a day trip over the Victoria Falls bridge to view the falls from Zambia, take the Flight of Angels - a great way to get a birds eye view of the falls in a microlight or helicopter, enjoy a civilised afternoon tea at the Victoria Falls Hotel, join a Sunset Boat Cruise or a more sedate Canoe trip. For those who want to make the most of the adrenaline activities, get your fix with the Gorge Swing, Abseil or 'enjoy' one of the highest commercial Bungee Jumps in the world. Your trip ends after breakfast on DAY 34 and you can fly home anytime today"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Kenya",
@@ -6121,7 +6212,8 @@
         "description": "Lake Naivasha (165 kms, approx. 3 hrs driving time) - Today we return to Nairobi via Lake Naivasha, an area of spectacular scenery with good opportunities for game and bird watching. We take a boat cruise, searching for Hippos, Fish Eagles and thirsty Antelope. In the afternoon we visit Joy Adamson´s famous Elsamere farm house. We leave Lake Naivasha at around 3.30pm for the drive directly to Nairobi’s international airport to catch your onward flight. (BL) Please note you should book a flight to depart from Nairobi no earlier than 10pm."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Kenya",
@@ -6191,7 +6283,8 @@
         "description": "You fly back to Wilson Airport in Nairobi and transfer to Jomo Kenyatta International Airport for your return international flight. If your flight is overnight, you can book a dayroom (not included) or spend time at a local hotel near the airport. Subject to time constraints, there may be the opportunity for Nairobi sightseeing."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -6251,7 +6344,8 @@
         "description": "Say goodbye to the Maasai Mara as you travel back to Nairobi today. When you arrive this afternoon, your adventure will come to an end. If you would like to extend your stay in Nairobi, just speak to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -6351,7 +6445,8 @@
         "description": "We depart after breakfast for Nairobi, travelling up through the Rift Valley escarpment and looking back on classic African views with acacia trees scattering the vast landscape. Our trip ends in the Kenyan capital, where we say a fond farewell to each other and begin our return journeys home. Of course if you’d like to arrange more time to explore, speak to your sales representative about extending your stay."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -6411,7 +6506,8 @@
         "description": "A final morning game drive to the airstrip, via either the river or the rhino sanctuary, before your flight back to Nairobi. Your return flight to Nairobi leaves the Mara at 11:00* and arrives in Nairobi at 12:20*. You have the option to have dinner at either Talisman or Carnivore. before we transfer you to Jomo Kenyatta International Airport for your onward flight home. Bookings will be dependent on your flight times, with dinner for your own account."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -6476,7 +6572,8 @@
         "description": "Drive through the Mara Naboisho conservancy to the airstrip, looking out for wildlife on the way. Arrive in Nairobi with option to have dinner at the Talisman or Carnivore restaurant (flight times permitting; dinner on your own account) and later transfer* to Jomo Kenyatta International Airport,"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -6541,7 +6638,8 @@
         "description": "Set off early this morning at around 7.30 am to begin your final journey of the trip. Your first stop will be in Arusha, where you'll have the option to end your trip. If it’s more convenient for you, there is the option to travel back to Nairobi, too. Your adventure comes to an end in Nairobi. You'll be dropped at a centrally located hotel, however, no accommodation will be provided tonight. If you want to extend your stay in Nairobi, just get in touch with your booking agent to organise additional accommodation."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -6591,7 +6689,8 @@
         "description": "Following an early breakfast, continue to Lake Naivasha for a boat ride. Leaving the Rift Valley behind, proceed to Nairobi, arriving late morning. Once in the city, clients will be dropped off at the drop off point in the city centre for ongoing travel arrangements at approximately 12:00. Drive time approx: 3 hours"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -6651,7 +6750,8 @@
         "description": "Nairobi & Home – Travelling & Departure – This morning you will be transferred from the Maasai Mara in the morning and taken back to Nairobi with a picnic lunch en route. You will arrive in the afternoon and after a short tour of Nairobi city, you will have dinner at the famous Carnivore Restaurant and later dropped off at the airport for onward flight home. (Breakfast, lunch & dinner)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -6721,7 +6821,8 @@
         "description": "Depart from Zanzibar - Sadly your ‘Gorillas, Masai Mara and Zanzibar’ trip has come to an end. After a delcious breakfast at your hotel, you’ll be driven back to Abeid Amani Karume International Airport (ZNZ) for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -6821,7 +6922,8 @@
         "description": "Set off early this morning at around 7.30 am to begin your final journey of the trip. Your first stop will be in Arusha, where you'll have the option to end your trip. If it’s more convenient for you, there is the option to travel back to Nairobi, too. Your adventure comes to an end in Nairobi. You'll be dropped at a centrally located hotel, however, no accommodation will be provided tonight. If you want to extend your stay in Nairobi, just get in touch with your booking agent to organise additional accommodation."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -6871,7 +6973,8 @@
         "description": "Home - Departure After breakfast you will be transferred to the airport in time to catch your return flight home. (breakfast is the only meal included today)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -6941,7 +7044,8 @@
         "description": "Day 11: Depart today! Your transfer will collect you for your flight to JKIA Airport and onward departure flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Kenya",
@@ -6996,7 +7100,8 @@
         "description": "Return to Nairobi - Enjoy a leisurely morning and, after lunch, drive to Mombasa to connect to your flight to Nairobi and your onward connection."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Kenya",
@@ -7066,7 +7171,8 @@
         "description": "All good things must come to an end and, as the sun rises, it will be bittersweet saying farewell to the majestic Kenyan wilderness this morning. You will miss the echoes of cackling wild dogs and beautiful birdsong filling the air during breakfast, the scenes of rolling emerald hills stretching as far as the eye can see, and the panoramas of fascinating wildlife wandering the luxuriant landscapes. Alas, you will have captured these magic moments every step of the way and return home with a treasure trove of magnificent memories."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -7126,7 +7232,8 @@
         "description": "Today you will watch the golden plains glitter and sway as you rise into the sky. On a clear day you can see the stunning top of Mount Kilimanjaro pierce the clouds in the distance. Your time in Kenya has blossomed with roaming giraffes, lounging lions, hypnotic zebras, and vibrant flamingos. The stunning depths of Kenya have opened up to you its gleaming grasses and shimmering lakes, its dried earth juxtaposed against its fertile trees. As you glide through the clouds toward home, you know that your memories of Kenya and walking through fields paved with gold will be timeless."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -7186,7 +7293,8 @@
         "description": "This morning will be flexible, so you can choose to go on a final game drive or hang out at the camp before your mid-morning flight to Nairobi. In the Kenyan capital, you will be transferred to Jomo Kenyatta International Airport for your outbound flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -7261,7 +7369,8 @@
         "description": "Enjoy a short flight above the Maasai Mara as you return to Nairobi; the last impression of Kenyan safari is one of herds dotting the plains like a patchwork of vitality. Land in Nairobi and you can relax in a dayroom before your international departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -7326,7 +7435,8 @@
         "description": "Malindi has direct flight connections back to Nairobi International Airport, where you're greeted by a representative and assisted in transferring from domestic to international terminals for your departure flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -7391,7 +7501,8 @@
         "description": "Your safari adventure isn't over and after waking up in the Maasai Mara you'll enjoy a final morning game drive. Later this morning you'll be transferred to the local airstrip for a scheduled flight to Nairobi. Please note that a strict luggage limit of 15kg is enforced on these flights. Upon landing in Nairobi you'll have a full afternoon touring some of the city's unique attractions. Savor a meat filled lunch at the famous Carnivore Restaurant, where crocodile and ostrich are among the rare things on the menu. Take an Out of Africa tour at the former farm of Karen Blixen, the author who wrote one of the continent's most famous books. You will have seen Rothschild giraffe earlier on the trip, but at the AFEW Center you can hand feed these gracious mammals. Finally, a farewell dinner marks the end of your African adventure and you will be transferred to Jomo Kenyatta International Airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -7456,7 +7567,8 @@
         "description": "After seven days of Masai Mara highlights, you will depart from a small airstrip and fly back to Nairobi Wilson Airport. Transfer next to the international airport for your departing flight. But before that, there is one last chance to enjoy the Mara as your last game drive will take you across the grasslands for lingering impressions of the wildlife to bring home in your memory."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -7536,7 +7648,8 @@
         "description": "Big cats to big gorillas, and thick jungle to open grass plains; on this safari of highlights you've experienced very contrasting sides to East Africa. And as you fly back home you're already planning the next visit."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -7616,7 +7729,8 @@
         "description": "After many early starts during this adventure, you can sleep in this morning. Once you wake, you will delight in breakfast with a view across the Mara. Later this morning, you will fly from the Masai Mara to Nairobi, where you will be transferred to Jomo Kenyatta International Airport for your international flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -7706,7 +7820,8 @@
         "description": "After breakfast, you will be transferred to Zanzibar Town for your outbound flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Kenya",
@@ -7781,7 +7896,8 @@
         "description": "After a leisurely morning, you will be transferred to the airstrip and fly to Nairobi Wilson Airport. From here, you will be transferred to the international airport for your outbound flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Kenya",
@@ -7871,7 +7987,8 @@
         "description": "This morning you will leave your hotel and return to Kigali International Airport. Taking one last look at Rwanda, and inhaling a final breath of African air, you will board your international flight home. If you feel like you have not had enough of the continent, Zicasso would gladly organize an extension or customization to this particular package. After all, a few days relaxing on the white sand beaches of Zanzibar as turquoise waters lap at your feet might just be the perfect ending to this tour of East Africa."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -7926,7 +8043,8 @@
         "description": "This morning you will rise early to return to Nairobi. Winding your way out of the park, you will squeeze in one final game drive around the woodlands and lakes, in hopes of spotting one final rhino. From the park gates, it will be roughly two and a half hours until you return to the capital. Many of our guests enjoy adding on a visit to the Swahili coastline at the end of this African journey. The ocean is the perfect complement to the days in the bush, and a Zicasso representative would happily organize a tropical retreat for you before returning home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -8001,7 +8119,8 @@
         "description": "You will embrace the sunrise over Masai Mara from the terrace of your royal campsite suite, an iconic African image of the fiery orange sun flooding the sky and creating silhouettes of giraffe and wildebeest grazing the plains. Your surroundings will come to life as you savor a scrumptious breakfast spread, and your morning soundtrack will be composed of symphonies of birdsong and faint cackles of wild dogs. These moments of serenity amongst the wilderness will make marvelous memories of your magnificent African adventures for years to come."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Kenya",
@@ -8091,7 +8210,8 @@
         "description": "Even this morning, the wildlife encounters will continue. From the camp, you can watch herds roam. After a relaxed morning, you will fly back to Nairobi and transfer to the international airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -8181,7 +8301,8 @@
         "description": "After a fresh fruit breakfast and a few final moments lounging on the beach, your sun-kissed family will gather to drive back to the airstrip. Flying into Wilson Airport in Nairobi, you will be transferred to Jomo Kenyatta International Airport to catch your return flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Kenya",
@@ -8246,7 +8367,8 @@
         "description": "This morning we will transfer you out of the jungle and back to Entebbe by road or air, depending on your preference. From Uganda, Zicasso's great partners will work with you to plan the rest of your adventure. Many of choose to carry on to Kenya or Tanzania’s coast for a few days relaxing on the Indian Ocean. Otherwise, we will happily assist you with connecting flights from Entebbe home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -8306,7 +8428,8 @@
         "description": "Flying out of Pemba, you will be able to fully appreciate the beautiful views over the archipelago. You will admire how the water swirls as the soft greens merge with thick blues and then slip back into the tones of turquoise. Land in Zanzibar where you will connect onto a flight to Nairobi International and meet your homebound departure. In the morning, you will have full use of the lodge’s facilities, so there is chance for one final massage or walk along the white sand."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -8366,7 +8489,8 @@
         "description": "This morning you will squeeze in one final safari before reluctantly leaving the magnificent landscape to catch your outbound flight from Nairobi. If you wish to extend this package or any of the safaris in Africa by a few more days, we will gladly organize a package extension or modification for our guest, allowing you to hike Mount Kilimanjaro or laze on the aquamarine shores of the Indian Ocean."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -8451,7 +8575,8 @@
         "description": "Dreamy scenes of the golden sunshine flickering off Seychelles’ shiny sapphire seascape will welcome in your final morning on the African continent. You may enjoy the day slowly, cherishing the spellbinding views from your secluded suite’s balcony before tucking into a sumptuous breakfast spread and heading for the shores to relish one last dip in Seychelles’ balmy waters. Afterward, you will meet your private transfer and make your way for the international airport to catch your flight home, taking with you a wealth of marvelous memories made during your vacation."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Kenya",
@@ -8506,7 +8631,8 @@
         "description": "The airstrip in Mara Naboisho makes for an easy departure from Africa and a unique airport transfer. Weave along the dusty trails to the airstrip, passing elephant and lions before boarding your light aircraft bound for Nairobi Wilson Airport. From here, you will be transferred to Nairobi International Airport and your homebound departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -8571,7 +8697,8 @@
         "description": "From the Mara Naboisho Conservancy, you will fly back to Nairobi and transfer to Jomo Kenyatta International Airport for your international flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -8636,7 +8763,8 @@
         "description": "After a relaxed morning of gazing over the Mara, you will be transferred to a local airstrip for a flight to Nairobi. In the Kenyan capital, you will be transferred to the international airport for your outbound flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -8711,7 +8839,8 @@
         "description": "Relax through the morning and spend some time to recount everything that your family has experienced over the last ten days. You will depart on a late-morning flight from Mara North to Nairobi's Wilson Airport. From there, a representative will assist to transfer you to Nairobi International for your intercontinental departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Kenya",
@@ -8766,7 +8895,8 @@
         "description": "This morning, after a final breakfast, you will return through the Rift Valley to the city of Nairobi. Depending on the time of your international departure, you may spend some time exploring this bourgeoning metropolis. We would recommend the Karen Blixen Restaurant for lunch, in addition to a tour through the Karen Blixen Museum. The museum is located on the farmhouse that belonged to this woman made famous through the movie Out of Africa. If however, you crave a few final moments in the wild, a visit to Giraffe Manor or the Daphne Sheldrick Elephant Orphanage may be the perfect farewell. All of these locations have various curio shops for a final bit of shopping before you board your international flight home. For those with an evening departure, you may enjoy a final meal at Carnivore – a famous South African restaurant that serves every style of bush meat imaginable in a unique atmosphere. Your driver will ensure that you return to Jomo Kenyatta International Airport with sufficient time to check in for your outbound flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Kenya",
@@ -8836,7 +8966,8 @@
         "description": "Though your safari experience in Kenya will reach the end of the road today, you will relish one final morning slowly soaking up the sunshine from your patio and sipping on freshly squeezed juice to backdrops of the sprawling bushveld. After breakfast, you will gather your things and revel in a game drive that will lead you to a few remaining animal viewing hotspots before you arrive at the airport to catch your flight back home. You will return with memories to last a lifetime and gorgeous photos to share with your friends and family."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -8906,7 +9037,8 @@
         "description": "What will be your lasting impression of this romantic Kenyan getaway? It's a question you ponder on the flight home, the images scrolling through your mind. Perhaps the rare rhino sighting, or maybe the first footsteps on Diani Beach, Amboseli's elephants, or could it be the predatory cats on the plains of the Maasai Mara? They're all good memories. But it's hard to beat the feeling of taking a shared adventure into the untouched beauty of Kenya."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -8971,7 +9103,8 @@
         "description": "This morning you will pack your belongings and return to the present day from the 1920s as you depart the Mara on a flight to Nairobi. As your flight departs, you will have one final glimpse of the endless plains of the Masai Mara before returning to the rapidly developing Nairobi skyline. For some, it will be time to return home. However, consider a trip extension and modification to round out the ultimate Kenyan experience. A luxury trip to the shores of the Indian Ocean might be the perfect farewell after your explorations through the wilderness."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -9046,7 +9179,8 @@
         "description": "Barefoot luxury is yours to enjoy during your final morning in Zanzibar. The sparkling sea will call your name, and you may spend an hour or two wading in the temperate waters while gazing at the jaw-dropping island backdrop. You will return to your resort after indulging in the beach bliss and relish a sumptuous breakfast before packing your things. Your private transfer will meet you in the lobby, and you will enjoy a leisurely drive across the island to the airport, where you will bid your farewells to Zanzibar."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -9101,7 +9235,8 @@
         "description": "Today you'll return to Nairobi for your international return flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -9161,7 +9296,8 @@
         "description": "This morning you will rise before the sun in order to squeeze in a few final moments in the bush. Enjoy a final game drive against the backdrop of a stunning sunrise, and observe the bush at one of its most active points. Whether you opt to spend the morning in search of a few final unseen species, or simply absorbing the resident wildlife as it appears, this final game drive will be spent entirely as you wish. Return to camp for a final bush breakfast before you begin your journey back to Nairobi. Depending on the timing of your outbound departure, you will either drive directly to the airport or will spend some time at a local hotel. Early morning travelers will likely spend a final night in the capital. At this point, however, it is also possible to extend your time in Africa by a few more days. Many clients opt to add on a few days on the aquamarine shores of the Indian Ocean before returning home. Assistance will be provided with any trip extensions or alterations, in order to build the perfect Kenyan experience."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -9221,7 +9357,8 @@
         "description": "You will have one last chance to witness the wilderness surrounding camp before you pack up. In the morning, before the sun has risen above the horizon, you will set off with a ranger to view lions, cheetahs, and leopards hunting during these early hours. Blessed with open plains spreading endlessly in all directions and punctuated with forests climbing towards the sky, you will have no shortage of diverse environments to spot the curious creatures living within the bush. After your adventure, you will return to camp to collect your things and transfer to the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Kenya",
@@ -9291,7 +9428,8 @@
         "description": "Wake early to say goodbye to the horses with a final ride taking you in any direction you wish. After eight days, you will know your horse well and will have your own favorite moments, from gallops across the plains to patiently approaching inspiring animals. Enjoy a relaxed ride before a hearty brunch and a few more hours to relax at your camp. You will be transferred to the local airstrip for a late-afternoon flight back to Nairobi Wilson Airport, which will leave you plenty of time to transfer to Nairobi International and your late-evening departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -9391,7 +9529,8 @@
         "description": "Pristine Seychelles seascapes will greet you from your balcony as you enjoy panoramas of the sunrise over Denis Island. The gentle sea breeze will roll across the sandy shores, and wildlife will sing from the treeline behind your accommodation as you tuck into a decadent breakfast spread. After breakfast, you will collect your things from your suite and transfer to the airport in time for your flight home. As you soar into the sky, you will gaze down over Seychelles and think back to your first moments arriving at this island escape."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Kenya",
@@ -9471,7 +9610,8 @@
         "description": "There will be the option of a final safari activity this morning, which can either be a drive or walk. You can also consider an optional hot air balloon ride for a final safari treat. Late in the morning, you will be transferred to the airstrip for your flight back to Nairobi. Here, you will enjoy dayroom hotel use before your late-evening departure from Jomo Kenyatta International Airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -9531,7 +9671,8 @@
         "description": "After a leisurely breakfast, you'll fly to Nairobi and be transferred to your hotel. Enjoy the hotel facilities and freshen up before an early dinner and your late night flight home. You'll be leaving Kenya with a lifetime of memories and a scarcely believable collection of photos. This itinerary can also be customized to include additional locations in East Africa. That might include a visit to Tanzania or coinciding your visit with the great wildebeest migration. Or perhaps visit a beach retreat on Zanzibar, providing a perfect antidote to the wildlife viewing."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -9596,7 +9737,8 @@
         "description": "Mara Naibosho has its own airstrip and you will take a flight from here back to Nairobi. A representative will help to transfer you to Nairobi International Airport for your departure flight and your journey home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -9661,7 +9803,8 @@
         "description": "The Mara North has its own airstrip, from which you will fly back to Nairobi Wilson Airport in the late morning. It is possible to enjoy safari activities before your departure, but you may wish to relax at the camp to watch the action at the Mara River. In Nairobi, you will be transferred to Nairobi International Airport for your homebound flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -9731,7 +9874,8 @@
         "description": "The small Ukunda Airport offers you a quick getaway from Diani Beach and an early-morning micro-flight will get you back across Kenya to the capital city, Nairobi. You will be assisted in transferring to the international terminal of Jomo Kenyatta Airport and your departure flight for your journey home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -9811,7 +9955,8 @@
         "description": "This morning, you can choose a final safari activity should you wish, or you can wake up late and listen to the baboons and hippos that rustle around your lodge. You can make full use of the lodge facilities before a private airport transfer drives you to the airport for your outbound flight. Note: Zicasso and “Lion King Inspired Safari: Pride of Africa” are not affiliated with, or sponsored or endorsed by Walt Disney Pictures, Walt Disney Studios Motion Pictures, or Fairview Entertainment."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -9896,7 +10041,8 @@
         "description": "You will wake up on your final day to a symphonic soundtrack composed of chirping crickets, whistling birds, and grunting monkeys. This melodic signal that you are still in one of Africa’s most remote and unspoiled regions will be a delightful reminder of your magnificent wilderness adventures across Kenya. You will pack your belongings and join your cheerful hosts for breakfast, where you will tuck into your last perfectly prepared Kenyan meal and bid your farewells to the enchanting African wilderness."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -9976,7 +10122,8 @@
         "description": "Today you will wave goodbye to the wilds of Kenya, from the wild imaginations of sculptors to the wildlife of the Sarara Valley, your time traversing the sensations of East Africa have come to an end. Mathews Mountains rise in your memory. The playful elephants linger along the banks of your thoughts. The gentle song of the Singing Wells will forever take your breath away. You may be leaving Kenya but Kenya will never leave you. You have experienced the majesty of the wild and the magic that lasts a lifetime."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Kenya",
@@ -10051,7 +10198,8 @@
         "description": "After ten days you must return to the modern world. You won't have seen tarmac for the duration of your vacation so it's almost a shock when you soar over Nairobi on the light aircraft flight from Solio. A representative is on hand to transfer you to the international airport and your departure flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -10126,7 +10274,8 @@
         "description": "A safari link flight takes you over the hinterland and back to Nairobi. Upon arrival, a guide will transfer you to Jomo Kenyatta International Airport and your flight home. If you want more adventure, consider extending your trip. Browse the traveler reviews of safaris to Kenya for additional ideas."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -10201,7 +10350,8 @@
         "description": "This morning you will tear yourself away from a magical week in the bush to return to Nairobi by air. Depending on the time of your international departure, you may have a few hours left to explore the capital with a private vehicle. A trip to the Daphne Sheldrick Elephant Orphanage is a favorite activity in the city, giving you a final dose of wildlife before boarding your international flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -10276,7 +10426,8 @@
         "description": "After a relaxed morning, you will depart from the private airstrip and fly to Nairobi Wilson Airport for transfer to the international airport for your homebound flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Kenya",
@@ -10341,7 +10492,8 @@
         "description": "Wake up and then relax for awhile as you hear the drumbeat of hooves outside your window. Open your curtains to watch a wildebeest herd from your bed. Breakfast is served to your room as an elephant walks past. Slumber a bit longer on your verandah and take in the Masai Mara plains, a private wildlife show that provides your final moments you’re your safari. It has been an active week with many early starts, so this final day is all about the calm of the camp and the beautiful mammals that roam past. Mid-afternoon, you will fly from Mara North back to Nairobi Wilson Airport, where it is a short transfer to Nairobi International and your flight out of Africa."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -10411,7 +10563,8 @@
         "description": "From the Kogatende Airstrip in Northern Serengeti, you will take a light aircraft bound for Kilimanjaro International Airport. This journey will give you a chance to soar over the length of the Serengeti and provide a further showcase of the Serengeti's scale. Connect here for your intercontinental departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -10486,7 +10639,8 @@
         "description": "After a final game drive with the Mara herds, you will fly from a small airstrip to Nairobi. From the city’s domestic airport, you will be transferred to the international airport for your outbound flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -10561,7 +10715,8 @@
         "description": "After 12 days you say goodbye to wild Africa, but first enjoy an aerial view of the Maasai Mara on a local flight taking you back to Nairobi. From here you will transfer onto your onward international connection."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -10611,7 +10766,8 @@
         "description": "After four days of tropical bliss, it is finally time to depart your little paradise of Kinondo Kwetu. A charter flight waits to wing you back to Nairobi, where you join your connecting flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -10681,7 +10837,8 @@
         "description": "Livingstone International Airport is just a few miles from the lodge which provides for an easy departure from Africa. You will have full use of all the lodge's facilities until your airport transfer arrives, and you will then fly above the Zambezi as you wave farewell to Africa with your memories of two epic, yet wonderfully diverse, icons: the Masai Mara and Victoria Falls."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -10761,7 +10918,8 @@
         "description": "This morning will be flexible, and you can choose to venture on a final safari activity or to relax at the camp before your journey home. You will fly back to Nairobi Wilson Airport and be transferred onward to Jomo Kenyatta International Airport, where your outbound flight will be waiting."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -10821,7 +10979,8 @@
         "description": "From Diani Beach's Ukunda airstrip there are both late-morning and late-afternoon flights back to Nairobi, making for a flexible arrival in Nairobi and a connection to your international departure. Relax at the beach through the morning, enjoy full use of the lodge and spa, and then soar above the Indian Ocean waves and cross the plains to Nairobi."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -10886,7 +11045,8 @@
         "description": "A light aircraft will bring you north from Chyulu Hills to Nairobi Wilson Airport, where a representative will assist to transfer you to Nairobi International and your intercontinental departure. You will have full use of the camp's facilities before departure, and there will be plenty of time to say fond farewells to your Maasai guides."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Kenya",
@@ -10961,6 +11121,7 @@
         "description": "By now you will have spent four days resting around the beach, and unfortunately, it is time to return to the real world, although your safari will have taught you to redefine what a real world means. You will fly from Mombasa back to Nairobi where you will meet your international outbound flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   }
 ]

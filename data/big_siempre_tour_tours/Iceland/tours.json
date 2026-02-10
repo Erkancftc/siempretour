@@ -67,7 +67,8 @@
         "description": ": Our trip ends after breakfast this morning. The transfer back to Keflavik Airport (KEF) will be by the public FlyBus shuttle bus service and your tour leader will provide you with details of your pick-up time and your voucher for the service. Please note, the itinerary for this tour is subject to amendment due to weather or road conditions. Winter is a beautiful time to visit Iceland, but the weather can be unpredictable, and snow can have a big impact on travel times. Consequently, it may be necessary to alter the order of the itinerary or to change inclusions whilst on tour."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Iceland",
@@ -132,7 +133,8 @@
         "description": "Homeward Flights: Today participants can choose to leave on any flight as the transfers are always timed to connect to the flights. Check out from the hotel is around midday but luggage can be left in a room at the hotel if needed. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Iceland",
@@ -207,7 +209,8 @@
         "description": "With a belly full of breakfast, your guide will lead you to the helicopter center, where you will board a chopper for an air-tour of the Landmannalaugar area. When your helicopter touches down, you will climb up a few of the peaks to be stunned by the landscape around you. Then, you and your guide will stop at Laugarvatn, which is a small community that is located by a lake of the same name. After your geothermal remedy, you will be transferred to the international airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Iceland",
@@ -282,6 +285,7 @@
         "description": "This morning, you will have a chance to relax before heading out to a tomato and horse farm, where you will culminate your amazing adventure through Iceland. Iceland has a harsh landscape, and it is quite hard to grow many fruits and vegetables here, but at this farm, they have created a greenhouse that houses many fruits. Then, you will journey toward a whiskey distillery, where you will have the opportunity to taste Iceland’s first whiskey. Afterward, you will be transferred via private car to Keflavik Airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   }
 ]

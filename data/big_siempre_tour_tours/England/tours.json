@@ -72,7 +72,8 @@
         "description": "Wednesday: Depart This morning it’s time to wave goodbye to England’s beautiful south west. Head to the station for the final train of your rail journey back to London. Optional: Extend your stay in London Make the most of your return to the capital and extend your break with an extra night or two in London. Simply let us know when you submit your preferred dates and we will help plan your city stay Price: on request"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "England",
@@ -182,6 +183,7 @@
         "description": "Bid farewell to England: Today, you’ll drop off your hire car at the airport and catch your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   }
 ]

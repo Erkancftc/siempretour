@@ -62,7 +62,8 @@
         "description": "There are no activities planned after breakfast today and your adventure comes to an end. You're free to leave at any time after check out. If you'd like to extend your stay, just get in touch with your booking agent ahead of time to organise additional accommodation."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Andorra",
@@ -127,6 +128,7 @@
         "description": "There are no activities planned after breakfast today and your adventure comes to an end. You're free to leave at any time after check out. If you'd like to extend your stay, just get in touch with your booking agent ahead of time to organise additional accommodation."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   }
 ]

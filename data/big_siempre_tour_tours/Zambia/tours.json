@@ -52,7 +52,8 @@
         "description": "Choose between a final morning game drive or an optional village tour (extra cost) before heading to Mfuwe Airport for your flight back to Lusaka."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zambia",
@@ -97,7 +98,8 @@
         "description": "Finally, a flight is included back to Lusaka to meet your international flights home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zambia",
@@ -197,7 +199,8 @@
         "description": "Departure from Zambia - Sadly, your luxury tour of Zambia comes to an end, with a domestic flight back to Lusaka’s international airport, ready for your onward journey home. After two weeks of wildlife watching, natural wonders and relaxing in luxury accommodation, you’ll be leaving with special memories and an endless stream of travel stories to tell loved ones back home. Where will you explore next?"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Zambia",
@@ -237,7 +240,8 @@
         "description": "Fly back to Lusaka via Mfuwe, bringing your incredible safari to an end."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zambia",
@@ -297,7 +301,8 @@
         "description": "After a final game drive, travel back to Lusaka for your journey home after a trip through Zambia's wilderness."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zambia",
@@ -352,7 +357,8 @@
         "description": "You’ve canoed a long stretch of the Zambezi, gazed up at the twinkling Zambian night sky and spotted countless animals, but today the journey ends and we transfer (four to five hours) back to Lusaka Airport to catch our onwards flights. Alternatively, if you’d like to extend your adventure, speak to your sales representative to discuss our large range of extension options."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zambia",
@@ -417,7 +423,8 @@
         "description": "Enjoy a delicious breakfast and some final moments to relax at the lodge before it's time to say goodbye. You will take a boat transfer back to Senga Bay, where you will be met and driven to Lilongwe International Airport to connect with your onward flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Zambia",
@@ -492,7 +499,8 @@
         "description": "VICTORIA FALLS – TOUR ENDS: On our final day we have a short transfer from our last camping site to Victoria Falls, Zimbabwe where the tour ends around lunchtime."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Zambia",
@@ -592,7 +600,8 @@
         "description": "Departure from Zambia - Your Zambia family holiday comes to a close, with a domestic flight to Lusaka’s international airport before your onward journey home. From wildlife-watching in some of Africa’s best national parks to witnessing the natural wonder of Victoria Falls, Zambia is a feast for the senses for all the family and will leave you with endless photos and fond memories to look back on for years to come."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Zambia",
@@ -637,7 +646,8 @@
         "description": "Your trip comes to an end with a transfer back to Livingstone Airport to meet your flights home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Zambia",
@@ -697,7 +707,8 @@
         "description": "After your last hearty breakfast it is time to bid a fond farewell to the camp and its staff as you will be transferred back to the airstrip for your onward flight to Lusaka as you make your way home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zambia",
@@ -752,7 +763,8 @@
         "description": "Depart from your camp and transfer to the airport for your onward flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zambia",
@@ -812,7 +824,8 @@
         "description": "A transfer is included to take you back to Livingstone Airport to meet your international flights home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zambia",
@@ -897,7 +910,8 @@
         "description": "Departure from Zambia - Sadly, your Zambia wildlife adventure comes to a close, as you head back to Lusaka for your onward journey home. However, you’ll leave with a camera full of photos and a number of stories to recount to loved ones back home, having encountered the very best of Zambia’s creatures, great and small."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zambia",
@@ -962,7 +976,8 @@
         "description": "Depart Zambia from Livingstone International Airport, less than an hour’s transfer from your lodge."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zambia",
@@ -1032,7 +1047,8 @@
         "description": "Fly out of Livingstone International Airport and your mind will wander back to your journey into Zambia’s final frontier. Perhaps two decades from now, you will be seeing these parks on a wildlife documentary and remember what it was like to explore destinations when they were yet to be celebrated."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zambia",
@@ -1097,7 +1113,8 @@
         "description": "Livingstone International Airport offers a very convenient way out of Africa. It’s less than 20 minutes from hotel to airport, and you can use all the hotel’s facilities before you depart. Soar over Africa and wave farewell to the charming landscapes, already planning when your family will return for another adventure in this mystical continent."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Zambia",
@@ -1167,7 +1184,8 @@
         "description": "After a relaxed morning, it will be a short flight from Lower Zambezi back to Livingstone, where you will have day-room use at a hotel before your international departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zambia",
@@ -1242,7 +1260,8 @@
         "description": "Livingstone International Airport offers a growing network of flights and provides an easy return journey from Zambia. You will enjoy full use of the lodge’s facilities before your transfer to the airport and your return flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zambia",
@@ -1307,7 +1326,8 @@
         "description": "For your final morning on safari, you can take your pick between a drive with the predators, a walk with the ungulates, or a boat safari past the banks. There is a mid-morning flight back to Livingstone, and you will have day-room use at a luxury lodge before your international departure to enjoy one last leisurely morning."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zambia",
@@ -1402,7 +1422,8 @@
         "description": "At breakfast, you can enjoy the aromas of fresh-roasted coffee and pastries, like koeksister, a fried dough infused with syrup. The cafes and restaurants near your hotel will open their doors, filling the streets with the floral fragrance of rooibos tea and the scent of honey. After breakfast, your private transfer will meet you in the hotel lobby and drive you to Cape Town International Airport bringing an end to your family-focused safari in South Africa, Zambia, and Botswana."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Zambia",
@@ -1472,7 +1493,8 @@
         "description": "After a final morning walk, you will be picked up by a safari vehicle at the trailhead and transferred to the park’s airstrip. It will be just a short late-morning flight back to Livingstone, and you will access to day-room at a nearby lodge to reshen up, relax around the pool, and then return to Livingstone International Airport for your homeward departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zambia",
@@ -1567,7 +1589,8 @@
         "description": "Leaving Zambia is hassle-free as Livingstone International Airport is just a 15-minute transfer from your lodge. You will have time for a leisurely morning to enjoy all of the lodge’s facilities before your transfer to the airport and your journey home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zambia",
@@ -1632,7 +1655,8 @@
         "description": "Depart from Africa from Livingstone International, waving farewell to hippos and elephants as you transfer to the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zambia",
@@ -1717,7 +1741,8 @@
         "description": "After breakfast, you will fly back to Livingstone to connect with your international departure and return from the Zambian wilderness to the Western world."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zambia",
@@ -1777,6 +1802,7 @@
         "description": "After your final private breakfast on the verandah, you must return to the modern world, but not before a last game drive and adventure through the bush to pass lions and other mammals on their morning journeys. Fly to Livingstone from the Lower Zambezi airstrip, where a representative will assist in transferring you to your international departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   }
 ]

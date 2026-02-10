@@ -77,7 +77,8 @@
         "description": "Luanda - Transfer to the airport for departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Angola",
@@ -167,7 +168,8 @@
         "description": "Departure from Luanda - After breakfast at the hotel, be transferred to Mussulo Island where you can spend the day enjoying the beach, local cuisine, and relaxation until your international flight back home, depending on your departure time. Later, return to the hotel for a change of clothes and a coffee break before being transferred to Luanda's International Airport for your departure. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Angola",
@@ -347,7 +349,8 @@
         "description": "LUXOR TO THE RED SEA AND CAIRO After leaving Luxor we drive out towards the Red Sea Coast at Hurghada. You will have time relax on the beach or try your hand at various watersports such as snorkelling, windsurfing or scuba diving in the cool clear blue waters. Our final destination, Cairo is then only one final day's drive away. We'll explore the old town and Khan-el-Khalili bazaar on foot, and then enjoy a final meal together as a fitting way to end this amazing expedition"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Angola",
@@ -422,6 +425,7 @@
         "description": "NAMIBIA TO CAPE TOWN Crossing into Namibia and the region of the Owambo people - we pass through the country's second-largest town - Ondangwa. This town is one of the main suppliers of beer to Northern Namibia - hopefully, there will be enough left for us! We continue towards Etosha National Park - recognised as one of the world's greatest wildlife viewing areas. The semi-desert is quite a contrast to the more fertile terrain we have been used to. Besides game drives, we can also game watch by night at one of the floodlit water holes where we may well spot Rhino, Elephant and Giraffe among a host of other wildlife. From Etosha, we visit a local Cheetah park before continuing to the Brandberg Mountains in Damaraland. We then travel to the stunning Spitzkoppe Rock formations. Known as the Matterhorn of Namibia, the Spitzkoppe is part of the Erongo Mt range and was formed over 100 million years ago after the collapse of a gigantic volcano. The scenery is striking from every angle - even more, stunning as the granite massifs turn red at sunset. The next stop is the world-famous Cape Cross Seal Colony, where the sight of thousands of these mammals, as well as their accompanying pungent odour, is remembered by all! The Cool Atlantic Ocean and the prominent Benguela current provide a perfect location for feeding and breeding for the Cape Fur Seal. For the next three days, our Africa overland trip will be based in Swakopmund - Namibia's adventure gateway. You can choose between a variety of activities and excursions here"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   }
 ]

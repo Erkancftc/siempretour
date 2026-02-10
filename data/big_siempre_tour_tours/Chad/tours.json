@@ -62,7 +62,8 @@
         "description": "N’Djamena - Continue westwards. We should arrive at N’Djamena in the afternoon, where day use rooms are available for a welcome shower, before heading out for a final dinner and transferring to the airport for your flight home. (BL)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Chad",
@@ -142,7 +143,8 @@
         "description": "N’Djamena - Return to the capital. The landscape is far more populated now, with small villages and decent roads showing us that we have completely left the Sahara behind. We should arrive at N’Djamena in the afternoon, where day use rooms are available for a welcome shower, before heading out for a final dinner and transferring to the airport for your flight home. (BL)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Chad",
@@ -172,7 +174,8 @@
         "description": "N’Djamena - Arrive in N’Djamena and transfer to the hotel. Depending on when you arrive there may be time to explore, or you can simply relax at the hotel and prepare for your adventure. Overnight Hotel Mercure or similar."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Chad",
@@ -217,7 +220,8 @@
         "description": "N’Djamena - We return back to N’Djamena, where day use rooms are available to freshen up. After heading out to a restaurant for a final farewell dinner, transfer to the airport for your onward flight home. (BL)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Chad",
@@ -272,6 +276,7 @@
         "description": "N'Djamena - Continue westwards. We should arrive at N’Djamena in the afternoon, where day use rooms are available for a welcome shower, before heading out for a final dinner and transferring to the airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

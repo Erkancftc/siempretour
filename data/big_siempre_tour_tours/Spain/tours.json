@@ -97,7 +97,8 @@
         "description": "Today your Spanish adventure comes to an end after breakfast. There are no more activities planned and you're free to leave the accommodation at any time after check-out. If you’d like to extend your stay in Barcelona, just reach out to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Spain",
@@ -152,7 +153,8 @@
         "description": "After a delightful overnight stay in Santo Domingo, it is obvious to visit one or two of Rioja's beautiful wine villages. If you are interested in a wine tasting, this can easily be arranged. Some of the vineyards in the area are architectural masterpieces, designed by world-renowned architects, while others are historical and beautifully preserved. Even if you are not particularly interested in wine, Rioja still has much to offer. The charming streets of the wine villages can captivate anyone, and the region's main city, Logroño, offers everything from shopping and markets to cozy pinchos streets. On the way back to the Basque Country, one passes several historical small towns, including Oñati, which is hidden in the mountains, but is definitely worth a visit. The route continues to the Spanish-French border, where one of Northern Spain's hidden gems, Hondarribia, is located. The tour concludes with a three-night stay at one of the most beautiful hotels in the Parador chain, in Hondarribia. The magnificent castle building leaves little to the imagination, as one imagines oneself as a noble in the Middle Ages, descending the majestic staircase to greet guests arriving by carriage. Hondarribia has it all. A lovely beach, France right in front (you can sail there in 10 minutes), a beautiful town, and fantastic restaurants. A natural sightseeing trip from here is to drive along the Camino route to the world-famous food mecca, San Sebastian. Three days of enjoyment and pure indulgence. After the last night, there is a return journey from Bilbao."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Spain",
@@ -237,7 +239,8 @@
         "description": "The flamboyant art form of Flamenco shapes the culture of Seville. The steps imitate the heartbeat. The words capture longing. Together, they represent an expression of the soul. The expression tells a tale. The history book of The Dance of Dragons, A True Telling, tells the story of the great civil war in the Seven Kingdoms. In Season Five, Stannis Baratheon’s daughter reads the history book in her tent during her father’s campaign in the north. The rich character of Seville retains a connection to Game of Thrones in its ambiance and allure. After breakfast, your private transfer escorts you to Seville Airport for your flight home. The illustrious history, enchanting streets, and elaborate culture have seamlessly wed Spain and Game of Thrones together as one, for an experience that you will never forget."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Spain",
@@ -342,6 +345,7 @@
         "description": "From the stunning coastline of Catalonia to the agricultural charm of Seville, this tour of Spain will have left no stone unturned, and you can rest assured knowing that you have seen much of what this storied land has to offer. After a final breakfast from your charming hotel staff, a private transfer will carry you out of the city center and to Madrid's main airport for your departing flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

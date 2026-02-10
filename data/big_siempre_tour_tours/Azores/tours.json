@@ -62,7 +62,8 @@
         "description": "Breakfast. Depending what time your flight is you could do some souvenir shopping. Depart and transfer to airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Azores",
@@ -127,6 +128,7 @@
         "description": "AM - Breakfast and transfer to airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   }
 ]

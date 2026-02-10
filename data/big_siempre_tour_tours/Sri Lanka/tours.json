@@ -67,7 +67,8 @@
         "description": "Departure - At the appropriate time, your driver/guide will take you on the expressway back to the airport for your onward flight (B) Note – Contact us if you wish to extend your time in Sri Lanka further, be it to relax on the beach, explore more of the culture and history of Sri Lanka, or perhaps spend more time in the jungle looking for flora and fauna."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -162,7 +163,8 @@
         "description": ": Our tour ends after breakfast at our hotel in Colombo. There are no activities planned today, so you're free to depart from Colombo at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer, you'll need to depart from Colombo's Bandaranaike International Airport (CMB), which is a one-hour drive from our hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Sri Lanka",
@@ -262,7 +264,8 @@
         "description": "- Breakfast at the hotel - Check out from the hotel before noon and transfer back to the Bandaranaike International Airport"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -332,7 +335,8 @@
         "description": "Transfer back to the airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Sri Lanka",
@@ -417,7 +421,8 @@
         "description": "DEPART SRI LANKA OR EXTEND YOUR STAY. Your epic adventure comes to an end today. Your group leader will help organise your onward travel including return to Colombo and airport transfers. For those flying out today, we'll have a bus returning to Negombo."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Sri Lanka",
@@ -547,7 +552,8 @@
         "description": "Colombo > Airport Today you will travel to Colombo Airport for the flight back to London. Travel time is approximately 40 minutes depends on the road traffic"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -647,7 +653,8 @@
         "description": "Colombo --> Airport (+/-1 hour) You will travel to the airport depend on your flight departure time. Travel time around 1 hour to the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -707,7 +714,8 @@
         "description": "Home – Departure – After breakfast you will be transferred to the airport in time to catch your return flight home. (Breakfast only)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Diving"
   },
   {
     "destination": "Sri Lanka",
@@ -867,7 +875,8 @@
         "description": "Colombo > Airport: You will travel to the airport depend on your departure time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -967,7 +976,8 @@
         "description": "Transfer to the airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -1017,7 +1027,8 @@
         "description": "Fly home: Say goodbye to Sri Lanka as you return to the UK"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Sri Lanka",
@@ -1087,7 +1098,8 @@
         "description": ": The trip ends after breakfast at our hotel in Negombo. There are no activities planned today, so you're free to depart from Negombo at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from Colombo's Bandaranaike International Airport (CMB), which is a 30-minute drive from the hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Sri Lanka",
@@ -1187,7 +1199,8 @@
         "description": "Time to pack up and say goodbye to Sri Lanka as you and your family will be driven back to the airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Sri Lanka",
@@ -1272,7 +1285,8 @@
         "description": "Your Sri Lankan family holiday ends this morning after breakfast. There are no activities planned for today and you can depart the hotel at any time after check out at 12 pm. If you are departing later in the day, you can arrange luggage storage at the hotel. IF you’d like to extend your stay, just get in touch with your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Sri Lanka",
@@ -1372,7 +1386,8 @@
         "description": "Rise refreshed to the sound of bird calls and the gushing waters of the river Kalani, then your driver will take you to the international airport for your onwards flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Sri Lanka",
@@ -1467,7 +1482,8 @@
         "description": "Transfer to the airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -1527,7 +1543,8 @@
         "description": ": Departing the hotel this morning, we'll drive along the coastal road back to Colombo's Bandaranaike International Airport (CMB) (a journey of around three hours). We'll arrive at around 10am and this is where our trip ends. The earliest your flight can depart is 12:45pm."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -1587,7 +1604,8 @@
         "description": "Colombo After breakfast, check out and enjoy an assisted departure at the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -1687,7 +1705,8 @@
         "description": "Negambo> Airport: Today you will travel to Colombo Airport to fly to London. Travel time approximately 30 minutes depend on the road traffics."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Sri Lanka",
@@ -1762,7 +1781,8 @@
         "description": "After breakfast on the final day, you will be taken from the hotel to the Bandaranaike International Airport for your flight back home along with unforgettable memories and countless stories to relate to your friends and family."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Sri Lanka",
@@ -1822,7 +1842,8 @@
         "description": "DEPART SRI LANKA: Travel time Galle to Colombo Airport: 2.5 hours"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Sri Lanka",
@@ -1912,7 +1933,8 @@
         "description": "Transfer to the Airport for your departure flight. This transfer would take approximately 2.5hours."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Sri Lanka",
@@ -2007,7 +2029,8 @@
         "description": "- Breakfast at the hotel - Transfer to the Bandaranaike International Airport for the Departure"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Sri Lanka",
@@ -2102,7 +2125,8 @@
         "description": "Kandy >Airport> Today you will travel to Colombo Airport to fly to London Travel time approximately3 hours time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -2192,7 +2216,8 @@
         "description": "Transfer to the Airport for your departure flight. This transfer would take approximately 2.5 hours."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -2282,7 +2307,8 @@
         "description": "Transfer to the airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -2367,7 +2393,8 @@
         "description": "Fly Home - After your journey through Sri Lanka, we’ll transfer you to the airport for your return flight home. Over the past days, you’ve experienced the country’s diverse landscapes, and seen the cultural and historical richness of the north and the heart of the Cultural Triangle. You’ve seen wildlife up close, explored ancient temples and forts, and enjoyed the warmth of Sri Lanka’s people - memories to carry with you long after your trip ends."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -2462,7 +2489,8 @@
         "description": "You've summited the mighty Sigiriya, been on safari in Yala National Park and cycled through rural Sri Lanka, but the adventure ends today and you begin your return journey home. Alternatively, if you're craving a little R&R, speak to your sales representative about a post-trip adventure in the Maldives or more time relaxing on the golden sands of Sri Lanka."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -2512,7 +2540,8 @@
         "description": "DEPART SRI LANKA: Travel time Galle to Colombo Airport: 2.5 hours"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Sri Lanka",
@@ -2602,7 +2631,8 @@
         "description": "Colombo: Today marks the final day of your Sri Lanka group tour package! We will start our journey back to Sri Lanka’s capital city, Colombo, where you will bid farewell to your new friends and prepare to head home! On our way, we will stop by a temple where you will meet a Buddhist priest and take part in a pooja (blessing ritual) prior to the end of your journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Sri Lanka",
@@ -2697,7 +2727,8 @@
         "description": "•Depart after breakfast to the airport – Maximum checkout time 12 noon •Flight back home •END OF HOLIDAY"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -2757,7 +2788,8 @@
         "description": "DEPART SRI LANKA: Travel time Colombo to Colombo Airport: 45 minutes"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -2882,7 +2914,8 @@
         "description": "•Depart after breakfast to the airport •END OF HOLIDAY"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -2982,7 +3015,8 @@
         "description": "Your trip comes to an end today, with no activities planned. If you'd like to stay longer, just speak to your booking agent."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Sri Lanka",
@@ -3077,7 +3111,8 @@
         "description": "After breakfast, check-out from hotel and travel to Colombo international airport (148Km, 4 hours by car) to board your flight to your native place. (Reach International airport before 3 hours)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -3157,7 +3192,8 @@
         "description": "Transfer to the airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Sri Lanka",
@@ -3247,7 +3283,8 @@
         "description": "Partake in a Pooja Blessing Ritual and return to Colombo where our tour ends Your Sri Lanka adventure comes to an end today. As you journey back to Colombo, a stop at a temple offers a chance to meet a Buddhist priest and experience a traditional pooja (blessing ritual) before departing Sri Lanka. Bid farewell to your newfound friends and prepare for your journey home. Your tour comes to an end after arriving back into Colombo. Extra nights can be arranged. OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Sri Lanka",
@@ -3342,7 +3379,8 @@
         "description": "After breakfast and check out, it is time for us to safely transfer you and your family to the airport, well in time for an unhassled check in and safe journey back home or your onward destination. The drive to the Bandaranaike International Airport from Galle will be approximately 2 hours via expressway."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -3422,7 +3460,8 @@
         "description": "Today, you will be picked up from the hotel and transferred to the airport in time for your departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Sri Lanka",
@@ -3482,7 +3521,8 @@
         "description": "DEPART SRI LANKA: Travel time Colombo to Colombo Airport: 45 minutes"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -3577,7 +3617,8 @@
         "description": "The adventure ends today. You are transferred to Bandaranaike International Airport for your international flight home. If you’d like a bit more time to explore Sri Lanka, speak to your sales representative about extending your stay."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -3662,7 +3703,8 @@
         "description": "You will be picked up from the hotel and transferred to the airport in time for your departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -3757,7 +3799,8 @@
         "description": "Negombo > Airport > London ; Today you will travel to Colombo Airport to fly to London. Travel time approximately 30 minutes depend on the road traffics."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -3842,7 +3885,8 @@
         "description": "Transfer to the Airport for your departure flight. This transfer would take approximately 1hour."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Sri Lanka",
@@ -3932,7 +3976,8 @@
         "description": "Colombo > Airport Today you will travel to Colombo International Airport to fly to London. Travel time approximately an hour depend on the road traffics."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Sri Lanka",
@@ -4012,7 +4057,8 @@
         "description": "Transfer to the airport for your flight home or onward to your next destination. Why not extend with a beach stay in Bentota or head off to the idyllic islands of the Maldives! Sri Lanka combines perfectly with the Maldives. Ask us for more information."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Sri Lanka",
@@ -4107,7 +4153,8 @@
         "description": "•Depart after breakfast to the airport •Arrive at the airport 3 hours before your flight •Flight back home •END OF HOLIDAY"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Sri Lanka",
@@ -4167,7 +4214,8 @@
         "description": "DEPART SRI LANKA: Travel time Galle to Colombo Airport: 3 hours"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Sri Lanka",
@@ -4267,7 +4315,8 @@
         "description": "Negombo > Airport. Today you will travel to the airport and travel time will be approximately 30 minutes. Departure to your destiation."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Sri Lanka",
@@ -4357,7 +4406,8 @@
         "description": "NEGOMBO Time to say goodbye to Sri Lanka and head home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Sri Lanka",
@@ -4452,7 +4502,8 @@
         "description": "Morning at leisure in Negombo. Relax by the pool; a last dip in the Indian Ocean, or pick up some last-minute souvenirs and departure at your convenience."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Sri Lanka",
@@ -4527,7 +4578,8 @@
         "description": "Colombo: Sadly, today marks the end of your Sri Lanka family adventure. After breakfast, we’ll transfer you back to Colombo Airport (approx. 2-hour drive), where it’s time for final goodbyes and one last group hug. If you’re not quite ready to leave paradise (and we don’t blame you!), let us know – we’d be happy to help arrange post-trip accommodation or onward travel plans. Thanks for joining us on this incredible journey – we hope it’s been an unforgettable experience for the whole family!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Sri Lanka",
@@ -4587,7 +4639,8 @@
         "description": "Colombo's Tuk-tuks and Temples: OK, so maybe Colombo isn’t the place you’re most excited about in Sri Lanka, but the country’s capital has plenty to offer and is a real eye-opener for kids to see daily life in a big working city. Hustle, bustle and honking horns fill the streets, and if you’re after a little culture-shock then it’s a great place to spend a night….the food is amazing too! At the end of your trip, we’ll arrange a transfer to collect you from your hotel in Colombo and take you to the airport ready for your international flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Sri Lanka",
@@ -4662,7 +4715,8 @@
         "description": "Artists at Galle: Hosted in the residence of a local school teacher in Galle, the DIY experience is designed to engage kids through creative work whether it’s arts or crafts and help them explore their imagination while on holiday so that their parents can have some much needed time off. Accommodation: Fort Bliss Galle or Similar"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Sri Lanka",
@@ -4757,7 +4811,8 @@
         "description": "•DROP AT THE AIRPORT/END OF HOLIDAY"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -4852,7 +4907,8 @@
         "description": "Round off an exhiliirating tour with a last Sri Lankan breakfast before departing for the airport to catch your flight home. Meal plan: Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -4927,7 +4983,8 @@
         "description": "Sadly all good things come to an end… today it’s time to transfer to the airport (15 mins) for your onward flight, leaving Sri Lanka with lots of amazing memories and photos! (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Sri Lanka",
@@ -4992,7 +5049,8 @@
         "description": "Just One More Thing...in Colombo: Top off your Sri Lanka trip with a trip back in time as you journey back to Colombo via the old fortress town of Galle. You’ll arrive in Colombo in the early afternoon. You can take a city tour with your driver and be treated to a traditional British-style high tea in the colonial Galle Face Hotel. When it’s time to leave the next day, your driver will pick you up and take you to the airport for your flight back home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -5117,7 +5175,8 @@
         "description": "Colombo > Airport > London Today you will travel to Colombo Airport to fly to London. Travel time approximately an hour depend on the road traffics"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -5197,7 +5256,8 @@
         "description": "Today you will proceed to the airport to board your departure flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -5247,7 +5307,8 @@
         "description": "DEPART SRI LANKA: Travel time Koggala Lake to Colombo Airport: 2.5 hours"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Sri Lanka",
@@ -5302,7 +5363,8 @@
         "description": "DAY 14: DEPART SRI LANKA. Travel time Colombo to Colombo Airport: 45 minutes"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -5362,7 +5424,8 @@
         "description": "Kandy > Airport: Today you will travel to Colombo Airport for the flight back to London. Travel time is approximately 3 hours."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -5457,7 +5520,8 @@
         "description": "Free morning in Negombo and departure at your leisure for the international airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -5557,7 +5621,8 @@
         "description": "Depart Colombo - Transfer to the airport at an appropriate time for your onward flight (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -5607,7 +5672,8 @@
         "description": "DEPART SRI LANKA: Travel time Negombo to Colombo Airport: 20 minutes"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Sri Lanka",
@@ -5687,7 +5753,8 @@
         "description": "Colombo Airport - UK: Todays you will travel to Airport. Travel time approximately an hour."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -5772,7 +5839,8 @@
         "description": "Negombo - Airport: You will travel to the airport depend on your flight departure time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -5847,7 +5915,8 @@
         "description": "Today you will be transferred to the airport to board your departure flight back to London Heathrow."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Sri Lanka",
@@ -5927,7 +5996,8 @@
         "description": "Transfer to the airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Sri Lanka",
@@ -6017,7 +6087,8 @@
         "description": "Transfer to the airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -6067,7 +6138,8 @@
         "description": "DEPART SRI LANKA. Travel time Balapitya to Colombo Airport: 2 hours"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Sri Lanka",
@@ -6147,7 +6219,8 @@
         "description": "After breakfast on the final day, you will be transferred to the Katunayake International Airport for your flight back to bring your lavish adventure to an end. You can also choose our suggested tour extensions or a custom extension to suit your needs."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Sri Lanka",
@@ -6217,7 +6290,8 @@
         "description": "DEPART SRI LANKA: Travel time Colombo to Colombo Airport: 45-minutes"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Sri Lanka",
@@ -6277,7 +6351,8 @@
         "description": "DEPART SRI LANKA: Travel time Colombo to Colombo Airport: 45-minutes"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Sri Lanka",
@@ -6372,7 +6447,8 @@
         "description": "END OF HOLIDAY - DROP AT THE AIRPORT."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -6472,7 +6548,8 @@
         "description": "Transfer to the Airport for your departure flight. This transfer would take approximately 2.5hours."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Sri Lanka",
@@ -6572,7 +6649,8 @@
         "description": ": The trip ends after breakfast at our hotel in Colombo. There are no activities planned today, so you're free to depart from Colombo at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from Colombo's Bandaranaike International Airport (CMB), which is a one-hour drive from our hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -6667,7 +6745,8 @@
         "description": "•Depart after breakfast to the airport •Flight back home •END OF HOLIDAY"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -6762,7 +6841,8 @@
         "description": "Your trip comes to an end after breakfast this morning. If you’d like to extend your stay in Colombo, just get in touch with your booking agent ahead of time to organise additional accommodation."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -6817,7 +6897,8 @@
         "description": "Fly home: Your chauffeur will transfer you to Bandaranaike Airport for your flight back to London, marking the end of an incredible Sri Lankan journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Sri Lanka",
@@ -6912,7 +6993,8 @@
         "description": "•FLIGHT BACK HOME/END OF HOLIDAY"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Sri Lanka",
@@ -7067,7 +7149,8 @@
         "description": "Colombo > Airport > Your Destination: After breakfast you will travel to the Airport. Travel time approximately an hour."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -7162,7 +7245,8 @@
         "description": "Sadly it's time to say goodbye as you are transferred to the airport in time for your onwards flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -7222,7 +7306,8 @@
         "description": "Departure after breakfast to Bandaranaike International Airport for departure flight"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -7317,7 +7402,8 @@
         "description": "Transfer up the expressway to the airport for your onward flight and the end of your Sri Lanka adventure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -7352,7 +7438,8 @@
         "description": "Leaving the Island - You depart Sri Lanka from Colombo after completing a circuit hopefully covering the unique culture and natural beauty of this Island nation."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -7422,7 +7509,8 @@
         "description": "Transfer to the airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -7562,7 +7650,8 @@
         "description": "Colombo > Airport Today you will travel to Colombo Airport to fly to London. Travel time approximately an hour depend on the road traffics."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -7657,7 +7746,8 @@
         "description": "Free morning in Unawatuna and departure at your leisure for the international airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -7747,7 +7837,8 @@
         "description": ": The trip ends after breakfast at our hotel in Colombo. There are no activities planned today, so you're free to depart from Colombo at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you need to depart from Colombo's Bandaranaike International Airport (CMB), which is a 30-minute drive from our hotel. As part of our Upgraded range, we also offer a complimentary transfer to those who have made post-tour accommodation arrangements through Explore, regardless of your departure day."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Sri Lanka",
@@ -7852,7 +7943,8 @@
         "description": "Colombo – Airport (Negombo) (Driving time is approx. 1 hour) - Transfer to the airport at the appropriate time for your onward flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -7947,7 +8039,8 @@
         "description": "•FLIGHT BACK HOME/END OF HOLIDAY"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -8042,7 +8135,8 @@
         "description": "Ahangama > Airport > London Today you will travel to Colombo Airport to fly to London. Travel time approximately 2 ½ hours depend on the road traffics"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -8137,7 +8231,8 @@
         "description": "Transfer to the Airport for your departure flight. This transfer would take approximately 2.5hours."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -8212,7 +8307,8 @@
         "description": "Your last day on the tour can be spent lounging on the beaches of Mirissa. You can reflect upon the numerous memories you would have no doubt acquired throughout this exciting tour before you are transferred to the airport in time to catch your flight back."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Sri Lanka",
@@ -8272,7 +8368,8 @@
         "description": "On the final day you will be transferred to the Bandaranaike International Airport in time for your flight, bringing your exotic Sri Lankan wildlife experience to an end."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Sri Lanka",
@@ -8367,7 +8464,8 @@
         "description": "Pack up. Depending on flight timings, you may have time to stop in a village to buy some last minute souvenirs (locally-produced batik) if you wish before you head to the airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Sri Lanka",
@@ -8437,7 +8535,8 @@
         "description": "Home – Departure – After breakfast you will be transferred to the airport in time to catch your return flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Sri Lanka",
@@ -8517,7 +8616,8 @@
         "description": "Go for a Whale Watching Boat Ride or having a Cinnamon experience depending on your visiting period. - Drive to Airport to connect with your departure flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Sri Lanka",
@@ -8587,7 +8687,8 @@
         "description": "The trip comes to an end after breakfast. It’s been a culture-packed adventure, so if you’re craving a little R&R, speak to your sales representative about booking a beach extension to either Weligama or Hikkaduwa to prolong your stay on the teardrop island or going a bit further and taking our Maldives extension."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -8682,7 +8783,8 @@
         "description": "Balapitiya > Airport Today you will travel to Colombo Airport to fly to London. Travel time approximately 2 hours depend on the road traffics."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Sri Lanka",
@@ -8772,7 +8874,8 @@
         "description": "Wilpattu > Airport: Departure to airport depend on your flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Sri Lanka",
@@ -8867,7 +8970,8 @@
         "description": "Transfer to the airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Sri Lanka",
@@ -8952,7 +9056,8 @@
         "description": "Transfer from Colombo to Bandaranaike International Airport. Breakfast at the hotel. Check out from the hotel before noon and transfer back to the Bandaranaike International Airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Sri Lanka",
@@ -9047,7 +9152,8 @@
         "description": "Transfer to the airport, via the Southern Expressway, for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Sri Lanka",
@@ -9137,7 +9243,8 @@
         "description": "Negambo > Airport: Today you will travel to Colombo Airport to fly to London. Travel time approximately 30 minutes depend on the road traffics."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Sri Lanka",
@@ -9187,7 +9294,8 @@
         "description": "Morning in the camp, birdwatching. Departure 10.45 am (or earlier – as per your plans)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Sri Lanka",
@@ -9262,7 +9370,8 @@
         "description": "At breakfast, the lilac hues of mangosteen rind accentuate the subtle hints of coconut in the roti. The seafood restaurants at Mount Lavinia Beach open their doors to the aroma of fresh grilling fish and lime as the aroma of cinnamon emanates from the Cinnamon Gardens in Viharamahadevi Park at the heart of the city. The 17th-century Dutch hospital has a pearlescent sheen against the colorful movement of the city and boutique shops and cafes decorate the interior and offer a fun place to stroll within the thick columns of the arcades. The capital city pulses to a beat of its own drum, allowing you to enjoy the city at your leisure before meeting your private transfer. When you are ready, make your way to Bandaranaike International Airport for your flight home for a pleasant ending of the enchanting display of romance and unforgettable experiences in Sri Lanka."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Sri Lanka",
@@ -9327,7 +9436,8 @@
         "description": "At breakfast, the familiar aroma of coconut permeates the dining room. The sweet and luscious scent accentuates the coffee and freshly cooked roti. The city comes to life in Pettah Market with locals eager to wander the aisles of colorful produce or linger beneath the dangling vibrant saris on sale. People filter into a historical café located inside the antique Dutch Fort, surrounded by boutique shops and popular restaurants. The interior features colonial décor with walls lined with books telling about the history of Sri Lanka and tea. The alluring aroma of crepes and cakes emanates from the kitchen. Your private transfer collects you at the hotel lobby when you are ready, escorting you to Bandaranaike International Airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Sri Lanka",
@@ -9387,7 +9497,8 @@
         "description": "The doors to a popular café open in the morning to the herbaceous aromas of steeping black tea. The café is situated in the arcade at Independence Square. Signature teas represent the creativity of the staff and the history of tea in the region. Visitors can find the comforting aroma of ginger and lemongrass amongst the splendid sweet aroma of macaroons and strawberry cakes. Colorful produce shines along the aisles of Pettah Market. Bunches of ripe bananas overtake wicker baskets beside mounds of colorful mango, surrounded by the historic colonial architecture of the old quarter. The antenna spire of the Lotus Tower soars above the city, reaching a height of nearly 1,150 feet above the city streets. The splendors of Colombo emanate from the mixture of past and present, combined with the natural beauty of the coastline. Your private transfer greets you in the hotel and escorts you to Bandaranaike International Airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -9452,7 +9563,8 @@
         "description": "In the morning, devout locals venture to the Gangaramaya Vihara temple. The brass work and stone carvings depict Buddha and traditional legends known to locals. The interior shrine fills with colorful garlands and the scent of burning incense. The shops and stalls around the markets bustle with activity, from vendors calling to passersby and patrons perusing the colorful clothing and bags on display. Your private transfer meets you in the hotel lobby, ready to escort you to Bandaranaike International Airport when you are ready. The waves of the Indian Ocean continue to crash against the golden shores of the city. You could extend your time in Sri Lanka to relax on the beach or continue to India to continue your exploration of distinct cultures."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -9547,7 +9659,8 @@
         "description": "Savor the distinctive flavors of the Maldives one last time in the most luxurious fashion when indulging in a private buffet that overlooks the sea. Afterward, you will have a brief flight back to Male, where you will connect with your plane bound for home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Sri Lanka",
@@ -9617,7 +9730,8 @@
         "description": "Sri Lanka retains its connection to the surrounding scenery, which is intertwined with the heritage in and around the cities. In the morning, you will find the familiar aroma of roti made with coconut milk filling the air as fresh fruit dangles from the sporadic palms that rise around the bustling capital city. The 17th-century Dutch Hospital represents an era of European lavishness within the island shores, and the preserved grounds at the heart of the Dutch Fort contain vibrant shops, cafes, and restaurants offering contemporary comforts inside the historical arcades. The sea breeze drifts along the wide avenues and hidden lanes of the city, like a reminder of the protected open space across the island. After one last leisurely morning of taking it all in, your private transfer will meet you at your hotel and escort you to Bandaranaike International Airport for your flight home, taking with you reminders of the glorious wildlife and natural splendor you enjoyed during your exploration of Sri Lanka."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Sri Lanka",
@@ -9702,7 +9816,8 @@
         "description": "At breakfast, you find traces of the familiar aromas you grew fond of during your time in the kitchen, reveling in the sweet scent of coconut and the luscious texture of fresh banana. Fishermen take to the shoreline to sit on their uniquely fashioned stilts towering above the water. The fishermen balance on a narrow seat feet above the surface of the ocean and cast their lines into the water. The market returns to full swing with vendors eager to sell colorful rambutan and freshly caught fish brought straight from the sea. After breakfast, your private transfer meets you in the hotel lobby and escorts you back to Colombo to reach Bandaranaike International Airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sri Lanka",
@@ -9767,6 +9882,7 @@
         "description": "The scent of chocolate will drift through the doors of a favorite shop that is dedicated to the various combinations of chocolate treats, both sweet and savory. The sunlight will wash over the 17th-century Dutch architecture of the former governor’s mansion of the region. The structure has been refurbished as a museum dedicated to Dutch colonial artifacts and furniture, with over 3,000 objects on display. It was within the house that the King of Kandy signed the treaty that opened the Ceylon to the Dutch. When you are ready, your private transfer will arrive at your hotel ready to escort you to the airport for your flight home. You could extend your stay in Sri Lanka, or venture to India to continue your discovery of history and heritage."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

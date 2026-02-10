@@ -62,7 +62,8 @@
         "description": ": The trip ends after breakfast at our hotel in Krakow. There are no activities planned today, so you're free to depart from Krakow at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from John Paul II Krakow-Balice International Airport (KRK), which is a 30-minute drive from our hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Poland",
@@ -127,6 +128,7 @@
         "description": "breakfast - relax and chill out at the seaside. - optional visit at the Viking Burgh in Sopot - dinner - depending on Your further plans - transfer to the ariport/train station"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

@@ -97,7 +97,8 @@
         "description": "Tour ends in Georgetown - Departure from Guyana - Time at leisure until your transfer to the airport for your onward flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "French Guiana",
@@ -197,6 +198,7 @@
         "description": "CAYENNE AND DEPARTURE Optional Service (not included in package rate) Cayenne City Tour Enjoy a tour of Cayenne, the administrative and commercial centre of French Guiana. It is a typical creole town with about 50,000 inhabitants, half of the entire population of the country. The Fort Cépérou, the Place Léopold Heder, the hotel of the Jésuites, the Place de Grenoble, the Place des Palmistes, the colonial hospital, the Franconie Museum, the town hall and the city centre are the gems of Cayenne. Optional Service (not included in package rate) Pick up from your hotel and transfer to the airport for your departing flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

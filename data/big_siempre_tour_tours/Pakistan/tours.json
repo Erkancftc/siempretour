@@ -97,7 +97,8 @@
         "description": "Tour ends: Today the tour ends after breakfast in Islamabad."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Pakistan",
@@ -192,7 +193,8 @@
         "description": "After breakfast, transfer from the hotel to the airport for international flights. Altitude: 540 m Meals: Breakfast Driving duration: 40mins"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Pakistan",
@@ -262,7 +264,8 @@
         "description": "After breakfast, transfer from the hotel to the airport for international flights. Altitude: 540m Meals Included: Breakfast Driving Duration: 40 Minutes"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Pakistan",
@@ -362,7 +365,8 @@
         "description": "Islamabad - Transfer to the airport for departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Pakistan",
@@ -432,7 +436,8 @@
         "description": "DEPARTURE Transfer to airport for homebound flights."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Pakistan",
@@ -512,7 +517,8 @@
         "description": "Tour ends: The tour ends today after breakfast."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Pakistan",
@@ -607,7 +613,8 @@
         "description": ": The trip ends after breakfast at our hotel in Islamabad. There are no activities planned today, so you are free to depart from Islamabad at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you would like an airport transfer today, you'll need to depart from Islamabad International Airport (ISB), which is 30-40 minutes from the hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Pakistan",
@@ -707,7 +714,8 @@
         "description": "Departure from Islamabad Your time is free today until we transfer you back to Islamabad airport for your flight home. Extra nights and additional guiding and transport are available in Islamabad or Rawalpindi if you would like to extend your stay, perhaps to add on a visit to Lahore to see the Fort, Mosque and Gardens. Please contact us for details. OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Pakistan",
@@ -867,7 +875,8 @@
         "description": "Departure from Islamabad"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Pakistan",
@@ -987,7 +996,8 @@
         "description": "Depart Islamabad (Altitude: 540m) - Transfer to the airport for your onward flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Pakistan",
@@ -1087,7 +1097,8 @@
         "description": "Islamabad - Transfer to the airport for departure. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Pakistan",
@@ -1187,7 +1198,8 @@
         "description": "Depart Pakistan - At a suitable time, you will be transferred to the airport for your international departure. Our representative will say Khuda Hafiz “May God be your protector” here."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Pakistan",
@@ -1277,7 +1289,8 @@
         "description": "Departure to respective countries"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Pakistan",
@@ -1412,7 +1425,8 @@
         "description": "Day in Islamabad, at leisure or you can spend half the day visiting Saidpur Village & Bari Imam Shrines."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Pakistan",
@@ -1522,7 +1536,8 @@
         "description": "ISLAMABAD: Transfer to airport for return to respective countries."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Pakistan",
@@ -1652,7 +1667,8 @@
         "description": "Tour ends.: Today the tour ends after breakfast in Islamabad."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Pakistan",
@@ -1737,7 +1753,8 @@
         "description": "Your extraordinary journey comes to an end today. After breakfast, you will be transferred to Islamabad International Airport for your departure, taking with you memories of a once-in-a-lifetime adventure through some of the world’s most stunning landscapes."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Pakistan",
@@ -1807,7 +1824,8 @@
         "description": "After breakfast, transfer from Hotel to the airport for international flights Altitude: 540m Meals Included: Breakfast Driving Duration: 40 Minutes"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Pakistan",
@@ -1907,7 +1925,8 @@
         "description": "Depending on flight tine. Shopping at local bazaars and malls & then transfer to the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Pakistan",
@@ -1987,6 +2006,7 @@
         "description": "Tour ends Lahore: This morning the tour ends in Lahore."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

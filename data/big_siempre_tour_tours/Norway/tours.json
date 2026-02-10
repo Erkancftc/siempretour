@@ -67,7 +67,8 @@
         "description": "After a good night’s rest we begin to say our goodbyes as this is the end of our adventure. Depending on flight time, you may have some additional time to explore in Ålesund in the morning. The transfer to Ålesund’s airport, Vigra, takes about 20 minutes. Breakfast included."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Norway",
@@ -132,7 +133,8 @@
         "description": "Departure after breakfast. Transfer by taxi at 09.00 to Lillehammer. We recommend spending a few hours in Lillehammer before continuing to the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Norway",
@@ -197,7 +199,8 @@
         "description": "Drive yourself to the airport and deliver the car. There’s no need to worry about the state of the vehicle, especially if you’ve been bumping down the roads towards beaches and had slushy snow across the bumper – a cleaning service is included in the package. From the airport you fly above the archipelago and back to the modern world; it won’t be long before you’re reminiscing about snow and fjords."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Norway",
@@ -262,6 +265,7 @@
         "description": "Throughout the year, the morning streets of Oslo fills with the scent of coffee that originates from the popular cafes that are around the city. The city returns to life around the open-air showcase of Gustav Vigeland at Frognerparken, which is an open-air park that hosts 212 granite and bronze sculptures. While the works of art illustrate contemporary depictions of life, they resemble the works of art that inspired the world of Frozen . After breakfast, your private transfer will greet your family in your hotel’s lobby to escort you to Oslo Airport for your flight home. Your arrival at the airport will symbolize your storybook ending to your Frozen tour of Norway. Note: Zicasso and “ Frozen Inspired Winter Family Tour of Norway ” are not affiliated with, or sponsored or endorsed by Walt Disney Pictures or Walt Disney Animation Studios."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   }
 ]

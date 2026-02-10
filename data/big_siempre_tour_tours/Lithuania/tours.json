@@ -92,7 +92,8 @@
         "description": "Vilnius – Departure from Lithuania - Day at leisure until your transfer to the airport for your flight back home. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Lithuania",
@@ -152,6 +153,7 @@
         "description": "Optional transfer to Klaipeda / Vilnius"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

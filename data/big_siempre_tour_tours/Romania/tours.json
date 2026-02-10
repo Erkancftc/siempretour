@@ -77,7 +77,8 @@
         "description": "After breakfast at your hotel continue the tour of the capital city, with visits of the Parliament Palace, Village Museum, Romanian Athenaeum. Depending upon your flight and onward arrangements - lunch on the way to the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Romania",
@@ -147,6 +148,7 @@
         "description": "Transfer to Bucharest Otopeni airport for the flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

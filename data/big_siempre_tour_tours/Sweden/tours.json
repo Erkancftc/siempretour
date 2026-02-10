@@ -42,7 +42,8 @@
         "description": "Land ahoy! Your last day in this island wonderland! Enjoy a leisurely morning and jump in the water for a final dip. Cook up a hearty breakfast in preparation for a somewhat strenuous paddle ahead. Head north across some pretty exposed waters until you reach the pretty narrow passage between Missjö and its inner parallel island. A quick paddle west and you reach the bustling mainland hub Tyrislöt. Take some extra time here to visit the Archipelago Museum and stroll the nature trail. Down a couple of cold lagers among the cherry trees outside the countryside pub. A great way to end your weekend of wilderness and archipelago culture! A pad on the back is in order, you just completed an impressive kayaking expedition all by yourselves in a truly wild coastal landscape!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Sweden",
@@ -92,7 +93,8 @@
         "description": "HOMEWARD BOUND The last morning in this Swedish winter paradise. We head back to Mora train station by noon, so that you have time to catch a flight home in the evening."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Sweden",
@@ -157,7 +159,8 @@
         "description": "In the morning you may find the aromas of cedar from the saunas or lingering scents of homemade bread and butter in the restaurant at breakfast. The Lapland embodies the last remaining wilderness of Northern Europe and captures the wild wonders and alluring spirit of Swedish cultural heritage, from contemporary culture to traditional communities. After breakfast you will travel to the Lulea Airport to begin your journey home, bringing an end to your unforgettable adventures in Swedish Lapland."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Sweden",
@@ -222,6 +225,7 @@
         "description": "The wilderness may be behind you, but memories of the wild live on. You may already be missing Lapland, but the land will still be part of you. Multi-day dogsledding is an experience that can have a profound effect on your connection with nature. After a free day in Stockholm, you will be transferred to the airport for your outbound flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   }
 ]

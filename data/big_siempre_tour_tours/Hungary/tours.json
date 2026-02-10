@@ -72,7 +72,8 @@
         "description": "Today your adventure comes to an end. As there are no further activities planned, you’re able to leave your accommodation at any time. If you’d like to extend your stay to see all Bucharest has to offer, just speak to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Hungary",
@@ -137,6 +138,7 @@
         "description": ": Our trip ends at our hotel in Budapest after breakfast. There are no activities planned today, so you're free to depart from Budapest at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from Budapest Ferenc Liszt International Airport (BUD), which is around a 40-minute drive from the airport. If you've chosen to join our Budapest to Prague trip then today is free for you to explore more of Budapest."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   }
 ]

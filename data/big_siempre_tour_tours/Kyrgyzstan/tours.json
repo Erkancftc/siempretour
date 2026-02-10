@@ -102,7 +102,8 @@
         "description": "Tashkent and onward travel: You will be transferred to the airport for your flight home today, or you can book an extra night in Tashkent to rest up and lazily explore the city before your flight onward to either home or the optional Tajikistan Add-On adventure!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Kyrgyzstan",
@@ -182,7 +183,8 @@
         "description": "Fly out from Bishkek: Leaving the stunning landscapes of Kyrgyzstan is going to feel all wrong but ‘normal life’ awaits you. Time to plan your next escape!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Horse Riding"
   },
   {
     "destination": "Kyrgyzstan",
@@ -252,7 +254,8 @@
         "description": "Chon-Kemin to Bishkek - After breakfast, you will learn to cook the local bread known as Boorsok before we continue on the final part of our trip back to Bishkek. On arrival we will take a city tour visiting the Historical Museum, Ala- Too central square and other centrally located sights. After the city tour, we will transfer to the airport for your departure flight. (Total distance today - 160 km, 2-3 hours of driving) Please note: Departure flights should be booked for this evening. We can arrange an extra nights accommodation in Bishkek if required. Contact us for details."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Kyrgyzstan",
@@ -357,7 +360,8 @@
         "description": "Tour ends in Dushanbe: The tour finishes today after breakfast at the hotel. However, those on the suggested group flights will depart for the airport early this morning, before breakfast."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Kyrgyzstan",
@@ -497,7 +501,8 @@
         "description": ": The trip ends after breakfast at our hotel in Tashkent. There are no activities planned today, so you're free to depart from Tashkent at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from Islam Karimov Tashkent International Airport (TAS), which is a 20-minute drive from the hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Kyrgyzstan",
@@ -582,7 +587,8 @@
         "description": "At an appropriate time, transfer to the airport for your departure flight home or onward destination. Meal plan: Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Kyrgyzstan",
@@ -682,7 +688,8 @@
         "description": "Tour ends Bishkek: The tour ends after breakfast today at the hotel"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Kyrgyzstan",
@@ -777,7 +784,8 @@
         "description": ": The trip ends after breakfast at our hotel in Tashkent. There are no activities planned today, so you're free to depart from Tashkent at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from Islam Karimov Tashkent International Airport (TAS), which is a 20-minute drive from the hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Kyrgyzstan",
@@ -847,7 +855,8 @@
         "description": "Fly out from Bishkek."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Kyrgyzstan",
@@ -922,7 +931,8 @@
         "description": "Fly out of Bishkek."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Kyrgyzstan",
@@ -1017,7 +1027,8 @@
         "description": "Bishkek - Transfer to the airport for departure. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Kyrgyzstan",
@@ -1117,7 +1128,8 @@
         "description": "This morning, bid farewell to Kyrgyzstan and head to the airport for your flight back to the UK. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Kyrgyzstan",
@@ -1222,7 +1234,8 @@
         "description": "Tour ends in Tashkent: The tour ends after breakfast today, although those on the suggested group flights will depart in the early hours of the morning before breakfast."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Kyrgyzstan",
@@ -1257,7 +1270,8 @@
         "description": "Dushanbe Dushanbe is Tajikistan’s largest city, and aptly its name means “Money” in Tajik language. It is a big showy city, in stark contrast to the East. You’ll pass a lovely day strolling through parks, admiring the fountains and the wide boulevards punctuated with grand buildings. Visit “Flag Pole Park” or the bazaar, or make the most of being in a city with restaurants specialising in various different cuisines."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Kyrgyzstan",
@@ -1357,7 +1371,8 @@
         "description": "Departure from Bishkek - The tour ends today after breakfast with your transfer to the airport for your onward flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Kyrgyzstan",
@@ -1467,7 +1482,8 @@
         "description": "Bishkek - Transfer to the airport for departure. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Kyrgyzstan",
@@ -1542,7 +1558,8 @@
         "description": "TUESDAY 8TH SEPTEMBER 2026 - DEPARTURE Fly out of Bishkek"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Kyrgyzstan",
@@ -1612,7 +1629,8 @@
         "description": "Bishkek Your trip ends after breakfast. Bishkek is a well-connected city, with the airport serving destinations throughout Asia with connections for onward travel further afield. For those with some time to spare it’s a pleasant city to spend a few days at the end of your trip, with some excellent bars, cafés and restaurants dotted around to relax and reflect on your trip through Central Asia. Bishkek is also home to a number of museums, including the Kyrgyz State Historical Museum and Zoological Museum, which have exhibits that explain more about Kyrgyzstan political and natural history, and there are a number of parks and other public areas worth visiting to watch local life pass you by, the main one being Ala-Too Square, which once was dominated by a large statue of Lenin (this has now been moved to a smaller square in the city)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Kyrgyzstan",
@@ -1692,6 +1710,7 @@
         "description": "Depart Kyrgyzstan - At a suitable time you will be met at the hotel and transfer to the airport. This should take about 40 minutes. End of services."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

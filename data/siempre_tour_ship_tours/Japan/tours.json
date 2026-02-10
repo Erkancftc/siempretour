@@ -1,0 +1,68 @@
+[
+  {
+    "destination": "Japan",
+    "mainPhoto": "",
+    "id": "the-best-of-japan-luxury-cruise",
+    "tourName": "The best of Japan luxury cruise",
+    "placesVisited": "Osaka, Tamano, Hiroshima, Uwajima, Kagoshima, Nagasaki, Busan, Sakaiminato, Maizuru",
+    "generalInfo": "Take the long way round. The interesting cities of Osaka and Maizuru are on close but opposite coasts of Japan’s Honshu Island, but this cruise between the two takes its time. Over nine days you’ll get to visit cities on Shikoku and Kyushu, some of Japan’s other islands, and you’ll even make a stop in South Korea. <br/><br/>Start by exploring Osaka – known as ‘Japan’s kitchen’ for its great delicacies. Once you’ve had your fill of the city, it’s time to set off on the boat, cruising to Tamano in the densely forested Okayama district. The cities en-route are very varied. Kagoshima sits in front of an active volcano, whilst Uwajima keeps traditional customs alive around its 17th century castle. <br/><br/>Hiroshima is a must-see, the city’s Peace Memorial Park a place of peace and hope, and its Miyajima Sanctuary is best known for its photogenic ‘floating’ Torii (gates). The cruise next makes a stop in Busan, South Korea’s second largest city, then head back to Honshu, disembarking in Maizuru. <br/><br/>Whilst on board you can enjoy lectures on Japanese culture and art – which are put into context by the art you’ll see on land in the Taga temple at Uwajima, the ancient sites at Nagasaki, Busan’s art galleries and Sakaiminato, a town that celebrates being the birthplace of one of Japan’s greatest manga artists, Shigeru Mizuki. <br/>",
+    "durationDays": "9",
+    "price": "10000",
+    "image1": "images/tour-photos/India/01/01.webp",
+    "image2": "images/tour-photos/India/01/02.webp",
+    "image3": "images/tour-photos/India/01/03.webp",
+    "image4": "images/tour-photos/India/01/04.webp",
+    "image5": "images/tour-photos/India/01/05.webp",
+    "image6": "images/tour-photos/India/01/06.webp",
+    "imagealt": "",
+    "personNumber": "",
+    "dates": "",
+    "minimumAge": "",
+    "meet": "",
+    "whatExpect": "",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "",
+        "description": "Osaka Like its big sister Tokyo, Osaka is the product of ancestral traditions and amazing technological innovations. And despite its size, its location on the Pacific Ocean give it a sense of serenity. The main historic landmark is the 16th century Osaka Castle, which stands proud in the midst of majestic skyscrapers. The lively streets of Dotomburi and the bizarre Shinsekai district attract thousands of locals and visitors. A multitude of restaurants offer menus full of regional specialities: takoyaki, made with octopus, and other succulent dishes such as kushikatsu kebabs."
+      },
+      {
+        "dayNumber": 2,
+        "title": "",
+        "description": "Inujima (Okayama) A small verdant island in the Seto Inland Sea, Inujima charms lovers of rugged landscapes and art. A flourishing centre of the mining industry more than a century ago, particularly for copper extraction, the island is now a favourite destination of modern art enthusiasts, due to the activities developed since the 1980s. It is notably home to the Seirensho Art Museum, designed around the remaining blackened walls of a former copper refinery. Inujima offers an ideal mix of wild landscapes, industrial past, and contemporary art. The island will be the perfect port of call for relaxing, enjoying this exceptional panorama, and admiring singular and ambitious works of art."
+      },
+      {
+        "dayNumber": 3,
+        "title": "",
+        "description": "Tomonura Anchored to the south-eastern end of the Nunakama Peninsula, facing the calm and clear waters of the Seto Inland Sea, Tomonoura is a destination particularly appreciated for its authentic and old-fashioned atmosphere that gives it an incomparable charm. In the past used as a port where boats would moor while waiting for a favourable wind, the charming and picturesque village now serves to inspire many filmmakers and artists. With good reason, since its craggy landscapes, its cherry trees in blossom, its gentle way of life, its traditional wooden houses and its port, preserved since the Edo era, notably enabled the artist Hayao Miyazaki to make the animated film Ponyo. Anchored on the northern shores of the Seto Inland Sea, in the Hiroshima prefecture, the historical city of Onomichi extends from the main island of Honshu to certain neighbouring islands, linked by the bridges of the Shimanami Kaido motorway. Before becoming this peaceful town with its charming, sloping little streets, Onomichi established itself in the 7th century as a nerve centre of the rice trade for the entire Japanese archipelago. Although its activity is diminished today, the port remains at the centre of the town’s culture. Onomichi now stands out for its exceptional heritage. With good reason, since it can boast over twenty temples and shrines, saved from the bombing of the Second World War. Among them are Senko-ji, offering an outstanding panoramic view over the whole town, Saikoku-ji and its three-storied pagoda, and Jodo-ji and its emblematic eleven-faced statue of the goddess Guanyin."
+      },
+      {
+        "dayNumber": 4,
+        "title": "",
+        "description": "Mitarai & Shimokamagri A charming fishing village nestling in the east of Osaki Shimojima Island, on the edge of the Seto Inland Sea, Mitarai is appreciated for its traditional charm and authentic character. A trip back in time to the Edo Period, where the hustle and bustle of modern cities is replaced by the gentle sound of fishing boats. Thanks to its 19th century wooden dwellings lining the small, narrow streets, its great causeway, its centuries-old sanctuaries and its gangi stairs, a stone structure giving on to the sea, the old town was classed as a Preservation District by the Japanese state in 1994. The island of Shimokamagari stretches into the heart of the Seto Inland Sea, off the coast of the town of Kure, in the Hiroshima prefecture. A historical city during the feudal period, the island was the theatre of major diplomatic missions for the future and the Empire’s trade relationships, notably with repeated visits from mainly Korean, but also Chinese and Dutch, emissaries. Registered since 2017 on the UNESCO Memory of the World Programme, documentary heritage of these encounters is conserved in the Shotoen Garden, one of the emblems of this lush islet. A magnificent Japanese garden with perfectly kept grounds, interspersed with raked pebbles and surrounded with majestic trees, it is home to a Rantokaku Museum complex, consisting of four exhibition rooms tracing the island’s naval history."
+      },
+      {
+        "dayNumber": 5,
+        "title": "",
+        "description": "Hagi In the south of Honshu island, surrounded by mountains, Hagi is a city of water. For good reason; it was built on the delta of the Abu-gawa river. Its castle was built in the 17th century and its outer walls remain in the lovely Shizuki Park. The old town was one of the cradles of the Meiji revolution. You will discover its rich past in streets lined with old houses and samurai manors, or within the walls of the many museums and Hagi-yaki ceramics workshops."
+      },
+      {
+        "dayNumber": 6,
+        "title": "",
+        "description": "Tsushima A mountainous island nestling in the heart of the Sea of Japan, between the Japanese archipelago and the shores of South Korea, Tsushima is made up of two distinct islands, separated by the captivating Aso Bay. This deep fjord, separating the northern and southern parts of the island, will enthral you with its remarkable ria coastline and its string of luxuriant islets. Naturally preserved, Tsushima is almost 90% covered with natural vegetation. This green setting in the Iki-Tsushima Quasi-National Park is notably the natural habitat of the Tsushima leopard cat, an endemic species on the Japanese Red List of Endangered Species."
+      },
+      {
+        "dayNumber": 7,
+        "title": "",
+        "description": "Yeosu Yeosu is a charming coastal city in South Korea’s South Jeolla Province. It is part of an archipelago comprising more than 317 verdant islands. Yeosu is known for being a hidden gem with picturesque scenery, but also for its strong naval history. And with good reason since, in the early 14th century, the city became home to naval headquarters during the Joseon Dynasty. This destination, with a mix of modern architecture and vestiges of a strong past, will enthrall you with its stunning beaches edged by the pure and warm waters of the Sea of Japan."
+      },
+      {
+        "dayNumber": 8,
+        "title": "",
+        "description": "Fukuoka At the northern tip of the subtropical island of Kyushu, Fukuoka stands proudly at the centre of a veritable natural setting, between lush mountains and the crystal-clear and calm waters of Hakata Bay. A modern city and high-tech hub, which has earned it the nickame of the Japanese “Silicon Valley” in particular, the seventh town in Japan stands out for its rich cultural and historical heritage. Promoted as one of the nerve centres of maritime trade from the 15th century onward, it experienced long decades of prosperity. A period of splendour which, among other things, saw the construction of many spiritual buildings, including the Sumiyoshi-jinja shrine and the Tochoji temple, as well as its emblematic Maizuru Castle, erected in the 17th century."
+      }
+    ],
+    "map": "",
+    "category": "Ship/Cruise"
+  }
+]

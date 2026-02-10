@@ -67,7 +67,8 @@
         "description": "Conclusion of your trip in Geneva."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Switzerland",
@@ -132,7 +133,8 @@
         "description": "With no activities planned for today, you are free to leave any time after breakfast. That doesn’t mean your adventure has to come to an end! If you would like to spend more time in Zurich, please chat to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Switzerland",
@@ -237,7 +239,8 @@
         "description": "Geneva comes to life early in the morning as visitors flood the city streets in search of decadent baked treats and locals swing their shop doors open to welcome the hungry guests. You will enjoy a light bite at your accommodation before you wander the neighborhood one last time to try a few more sumptuous snacks and scan for commemorative curiosities to take home with you. After an hour or two out on the town, you will return to your accommodation to collect your things and meet your private transfer who will whisk you away to the international airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Switzerland",
@@ -322,6 +325,7 @@
         "description": "In the morning, take a moment to walk around the arcades and wooded slopes that loop around the River Aare. The Einstein Museum sits in the 130-year old Andre Lambert building, which was modeled after a 15th-century castle. A wing of the building is dedicated specifically to Einstein’s history and work, while the remainder of the building houses the second largest museum in Switzerland, The Historical Museum of Bern. The exhibits display more than half a million artifacts ranging from the Stone Age through the Napoleonic Era, including Celtic and Roman objects and Flemish tapestries. Before leaving for Zurich, you can watch the animated films that highlight Einstein’s pioneering theories. When you are ready, your private transfer will meet you at the hotel and escort you to the Zurich airport for your flight home. You could, however, always stay in Europe longer, and move on to the allure of Southern France or the culture of Austria."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

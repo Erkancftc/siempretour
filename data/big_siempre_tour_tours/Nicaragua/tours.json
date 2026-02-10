@@ -82,7 +82,8 @@
         "description": "Today you have direct private transfer to Managua international Airport. We hope – but are pretty sure – that you have enjoyed Nicaragua!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Nicaragua",
@@ -182,7 +183,8 @@
         "description": ""
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Nicaragua",
@@ -272,7 +274,8 @@
         "description": "San Juan del Sur - Managua – Departure (approx. driving time today: 3 hours) - This morning we return to the capital and we transfer to the Managua International Airport where our tour ends. Your flight should not depart before 13:00. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Nicaragua",
@@ -322,7 +325,8 @@
         "description": "The Mighty Volcano: You’ll make your own way back to the tiny airport on Great Corn Island and catch the 1 hour domestic flight back to Managua. You’ll be met at the airport by a private transfer and taken to your hotel in the city. Managua may not be the prettiest of cities, but it’s worth stopping a while to appreciate the fading colonial buildings and take in the impressive site of Masaya Volcano. Along the way try to catch a glimpse of the green Parakeets and bats before peering into the crater mouth. After your final night in Nicaragua you’ll be taken back to Managua airport by private car for your international flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Nicaragua",
@@ -417,7 +421,8 @@
         "description": "TRANSFER MANAGUA AIRPORT (B) You are transferred to Managua Airport for your flight home. End of the tour."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Nicaragua",
@@ -507,7 +512,8 @@
         "description": "Arrive back in London."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Nicaragua",
@@ -582,7 +588,8 @@
         "description": "Depart the beautiful Pacific Coast for the transfer to Managua and your onward flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Nicaragua",
@@ -667,7 +674,8 @@
         "description": "TRANSFER TO MANAGUA OR STAY A FEW MORE DAYS! Today you have to leave Nicaragua already, with a direct private transfer to Managua International Airport. We hope - but are pretty sure - that you have enjoyed Nicaragua! Transfer: San Juan del Sur - Managua Airport - Distance: 740 km. - Road is in good condition. Average travel time: 3:00h"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Nicaragua",
@@ -762,7 +770,8 @@
         "description": "Depart Nicaragua. Transfer to Managua airport to catch your onwards international flight"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Nicaragua",
@@ -852,7 +861,8 @@
         "description": ": There are no activities planned today, so you're free to depart at any time. If you'd like an airport transfer today, you need to depart from Augusto C. Sandino Airport (MGA), which is approximately a one-hour drive from our hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Nicaragua",
@@ -997,6 +1007,7 @@
         "description": "San Juan del Sur - Managua – Departure (approx. driving time today: 3 hours) - This morning we return to the capital and we transfer to the Managua International Airport where our tour ends. Your flight should not depart before 13:00. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

@@ -82,7 +82,8 @@
         "description": "Buenos Aires, last day of your Adventure in Argentina - At the appropriate time you will have a private transfer to the international airport for your flight back home (private service). PLEASE NOTE: USD 150 OFF applies only to passengers who book before the 30th of December for travel in March or April 2020."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Patagonia",
@@ -147,6 +148,7 @@
         "description": "Buenos Aires: Say goodbye to Patagonia and fly north to Buenos Aires, where you’ll spend one final night before heading home. If you would like to make the most of your time in the capital, we can arrange a guided tour or recommend some wonderful places to eat- just let us know your preferences."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   }
 ]

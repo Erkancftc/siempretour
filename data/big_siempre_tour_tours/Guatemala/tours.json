@@ -107,7 +107,8 @@
         "description": "Depart Guatemala. Transfer to the airport to catch your international flight home. Depending on the time of your flight today there may be some time to visit some of the city's excellent museums."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Guatemala",
@@ -207,7 +208,8 @@
         "description": ": The trip ends this morning at our hotel in Antigua Guatemala. There are no activities planned today, so you're free to depart at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from La Aurora International Airport (GUA). Due to the unpredictable traffic in and out of Guatemala City, the drive to the airport can take between 90 minutes and four hours."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Guatemala",
@@ -312,7 +314,8 @@
         "description": "Tour ends in Guatemala City: The tour ends after breakfast."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Guatemala",
@@ -392,7 +395,8 @@
         "description": "It is time to say goodbye to Guatemala as you are transferred to the international airport in time for your return flight home(B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Guatemala",
@@ -582,6 +586,7 @@
         "description": "As there are no further activities, your trip comes to an end today. If you’d like to stay in Antigua for longer, just speak to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

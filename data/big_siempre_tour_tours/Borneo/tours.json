@@ -47,7 +47,8 @@
         "description": "GAYA ISLAND GETAWAY: The following morning you’ll be transferred to the pier to catch the boat to nearby Gaya Island. The ferries take just under 30 minutes in good weather. The next three days will be spent relaxing on Gaya island. This island is the largest in the Tunku Abdul National Park and is covered by jungle and dotted with tropical beaches. During your stay here we’ll provide you with a gourmet picnic basket and you can find your own personal slice of paradise on which to sit and enjoy it. After your relaxing time on Gaya Island you’ll head back to Kota Kinabalu for your flight home to the UK."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -92,7 +93,8 @@
         "description": "Final night in Kuching: End your trip by taking a stroll along the riverfront and indulging in a final delicious local meal. Why end here when you could extend your trip to the beautiful Damai Peninsula and spend your final day relaxing on the golden sand of Damai Beach. This isn’t just a good trip, it’s an unforgettable one."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -177,7 +179,8 @@
         "description": "Transfer to airport, expedition ends"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -272,7 +275,8 @@
         "description": "The trip ends after breakfast today. If you’d like to explore a little more, speak to your sales representative about extending your stay."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Borneo",
@@ -367,7 +371,8 @@
         "description": "GAYA ISLAND: Take the speedboat transfer back to the mainland and transfer to Kota Kinabalu Airport for your onward international flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Borneo",
@@ -452,7 +457,8 @@
         "description": "Depart Borneo today, transferring back to Kota Kinabalu Airport for your return flight home. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Borneo",
@@ -522,7 +528,8 @@
         "description": "With no activities planned for today, you and your family are free to depart the accommodation at any time following check-out. If you’d like to extend your stay, just get in touch with your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Borneo",
@@ -617,7 +624,8 @@
         "description": "DEPARTURE Time to wave goodbye to Borneo and transfer back to Kota Kinabalu for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Borneo",
@@ -742,7 +750,8 @@
         "description": "Your adventure ends today after breakfast. Additional accommodation can be pre-booked if you wish to spend more time exploring Borneo - just speak to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -812,7 +821,8 @@
         "description": "After breakfast, check out of your hotel for your transfer to the airport for your return flight home (own flight arrangements). We can arrange late check out if it's required. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -882,7 +892,8 @@
         "description": "The morning is at leisure to explore Kota Kinabalu and perhaps visit one of the town's museums or markets before either an afternoon departure or transfer to the ferry for a few days on Manukan Island."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -962,7 +973,8 @@
         "description": "Return to Kuching this afternoon in time for your flight home (own arrangements). (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -1052,7 +1064,8 @@
         "description": "Arrive back into the UK"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Borneo",
@@ -1112,7 +1125,8 @@
         "description": "After breakfast at the resort, transfer to Kota Kinabalu Airport for your flight back to the UK. Your holiday will include private transport and guides throughout (including an expert nature guide in Kinabatangan). Having a private guide will allow you a level of flexibility and spontaneity, and a nature guide will ensure you have the absolute best viewings of the fantastic wildlife. As with all our holidays, this itinerary is just a starting point. We can tailor it completely to suit your budget, pace and style. Get in touch to find out how this suggested itinerary could inspire your trip."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Borneo",
@@ -1187,7 +1201,8 @@
         "description": "Time at leisure until you return to Kota Kinabalu airport today for the flight back to the UK. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -1262,7 +1277,8 @@
         "description": "Day of leisure until your boat schedule to the mainland and transfer to the airport for your onwards flight to next destination (Airfares NOT included)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Borneo",
@@ -1337,7 +1353,8 @@
         "description": "KOTA KINABALU - DEPARTURE (B): After breakfast, transfer to the airport in time for your flight home"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -1387,7 +1404,8 @@
         "description": "Home - This morning we will have breakfast and then be taken to the airport in Sandakan to catch your return flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Borneo",
@@ -1477,7 +1495,8 @@
         "description": "Take the boat back to the mainland and depart from Kota Kinabalu. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -1567,7 +1586,8 @@
         "description": "The morning is at leisure to explore Kota Kinabalu, and perhaps check out one of its museums or markets before either an afternoon transfer to Kota Kinabalu Airport for your departure or on to Manukan for a few days beach, snorkelling or diving time on this delightful tropical island."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -1642,7 +1662,8 @@
         "description": "With no activities planned for today, your adventure will come to an end after breakfast. If you’d like to extend your stay, just speak to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -1727,7 +1748,8 @@
         "description": "Your adventure comes to an end after breakfast today. If you’d like to extend your stay, just get in touch with your booking agent to arrange additional accommodation. Flights depart most days from Sandakan to Kota Kinabalu or Kuala Lumpur."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -1812,7 +1834,8 @@
         "description": "Today you will take a boat ride back to the mainland and transfer to the airport for your return flight home - or extend your stay and continue your adventure! [B]"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -1872,7 +1895,8 @@
         "description": "Departure from Borneo: Today marks the end of your compact Borneo adventure. You’ll leave the island early, around 7am, and travel back to Sandakan, where a taxi will take you to the airport for your flight home. If three nights on the beach feels too short, just ask your Travel Specialist about extending your stay by a night or two."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -1927,7 +1951,8 @@
         "description": "Kota Kinabalu: After breakfast, we make a 3-hour journey into Kota Kinabalu, the vibrant capital city of Sabah State. The rest of the day in Kota Kinabalu is free time for you to do your final souvenir shopping or explore at leisure Kota Kinabalu’s waterfront. The next day, we head inland to discover the majestic Mount Kinabalu, the highest peak in South East Asia, passing villages and paddy fields along the mountainous road. On a clear day, you will be able to see Mount Kinabalu and its surrounding valleys. We make a stop at Nabalu Market to shop for local natives products, homegrown vegetables, and handmade crafts. Kinabalu Park is Malaysia’s first UNESCO World Heritage Site, known for its universal values and biological sites. Lunch is at a local restaurant near Poring Hot Springs, where you can soak in Japanese baths filled with sulfur water. After a 20-minute trek, you can visit the Canopy Walkway, where bridges are suspended 41 meters above the jungle. The tour concludes with a 3-hour return journey to Kota Kinabalu. On the final day of the departure, hotel checkout time is before 12 noon and transfer to the airport is 3 hours before your flight’s departure. The tour ends and you return home! Day 11: Journey to Kota Kinabalu: After breakfast, enjoy a 3-hour drive to Kota Kinabalu, with free time to explore the city, shop for souvenirs, or stroll along the waterfront. Day 12: Mount Kinabalu and Nabalu Market: Head inland to see the majestic Mount Kinabalu. Stop at Nabalu Market for local products and continue to Kinabalu Park, a UNESCO World Heritage Site. Poring Hot Springs and Canopy Walkway: Relax in the sulfur baths at Poring Hot Springs and take a 20-minute trek to the Canopy Walkway, suspended 41 meters above the jungle. Day 13: Return to Kota Kinabalu: After lunch at a local restaurant, enjoy the scenic return journey to Kota Kinabalu. On your final day, check out of the hotel and transfer to the airport for your departure flight. Meals: Breakfast (D11, 12, 13), Lunch (D12) Accommodation: Dreamtel Hotel, 3 stars"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -2017,7 +2042,8 @@
         "description": "Departure"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -2092,7 +2118,8 @@
         "description": "Today you will be collected and returned to Kota Kinabalu airport for the flight back to the UK. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Borneo",
@@ -2177,7 +2204,8 @@
         "description": "Today is at leisure until you return to the airport for the flight back to the UK. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -2277,7 +2305,8 @@
         "description": "Our Borneo adventure ends after breakfast. Depending on your flight, you may have time to enjoy the hotel pool or explore Sandakan more before beginning your return journey home. Alternatively, speak to your sales representative to extend your stay in Borneo."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Borneo",
@@ -2352,7 +2381,8 @@
         "description": "KOTA KINABALU – DEPARTURE: (B) After breakfast, transfer to the airport in time for your flight home"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -2437,7 +2467,8 @@
         "description": "Enjoy breakfast and check-out before transferring to Kota Kinabalu International Airport for your onward flight - bringing home unforgettable rainforest memories and stunning wildlife photos."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Borneo",
@@ -2487,7 +2518,8 @@
         "description": "Home - This morning we will have breakfast and then be taken to the airport in Sandakan to catch your return flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Borneo",
@@ -2532,7 +2564,8 @@
         "description": "Borneo Beach Break: After your Tabin adventure, you’ll head back to Kota Kinabalu by flight where you’ll then be transferred to our beach resort. The next few days are all about quality family time at the beach where you’ll spend 3 nights kicking back, doing as much or as little as you like. You’ll stay in an In Style resort on the outskirts of Kota Kinabalu where the beach goes on for miles, the calm sea offers a refreshing dip and the whole family is catered for with plenty of restaurants and activities. At the end of your stay, we’ll transfer you back to the airport for your onward flight, to begin your journey home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Borneo",
@@ -2612,7 +2645,8 @@
         "description": "Day at leisure until check out for your boat transfer back to Kota Kinabalu and onto the airport for your return flight back to the UK (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Borneo",
@@ -2707,7 +2741,8 @@
         "description": "Jakarta - Transfer to the airport for your onward or homebound flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -2787,7 +2822,8 @@
         "description": "Today you will bid farewell to Kota Kinabalu and continue with your onward arrangements. Your return flight will arrive the same day."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Borneo",
@@ -2852,7 +2888,8 @@
         "description": "TOUR ENDS Departure from Jakarta or Bali. This morning, you will be transferred to the airport for your return flight home. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -2927,7 +2964,8 @@
         "description": "Arrival back home"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Borneo",
@@ -2982,7 +3020,8 @@
         "description": "Lazing on Lankayan: Next you’ll head back to Sandakan for a night in our In Style hotel before hopping over to Lankayan the next day. The boat crossing takes around 90 minutes and will usually leave from Sandakan at 10am. Lankayan Island is a secluded paradise hidden away in the tropical Sulu Sea just north of Sandakan, and the perfect place to rest up after your travels through Borneo. You can spend your days relaxing on the white sandy beaches or swimming in the crystal clear sea. The view beneath the sea is perhaps even more beautiful than above the water. Our local project, Reef Guardian is based on the island and if you’re lucky you’ll be able to watch the volunteers release baby turtles into the sea for their first swim! You will be staying in a seafront bungalow, situated right on the beach. All your meals are included and are served at the restaurant, which boasts an amazingly beautiful open-air wooden terrace. After your dinner, you can sit on the terrace and watch the sun setting over the sea. On your last day on the island you will leave at 7am and head back to Sandakan. Once you have arrived back on the mainland you’ll catch a taxi to the airport in Sandakan for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Borneo",
@@ -3042,7 +3081,8 @@
         "description": "Arrive London"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -3127,7 +3167,8 @@
         "description": "Return to Sandakan & Departure - Spend a leisurely morning at your own pace before a boat transfer takes you back to Sandakan. After lunch, you'll be transferred to the airport for your onward flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Borneo",
@@ -3207,7 +3248,8 @@
         "description": "Your adventure ends today after breakfast. Additional accommodation can be pre-booked if you wish to spend more time exploring Borneo - just speak to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -3267,7 +3309,8 @@
         "description": "Kinabatangan- Sandakan, Malaysia: Farewell to Kinabatangan Wildlife Sunrise River Adventure Wake just before dawn to embark on one last river cruise. Glide across the serene Kinabatangan River and witness the rainforest awakening—keep your eyes out for monkeys, hornbills, and maybe even wild orangutans in the mist-soaked trees. Final Breakfast at the Lodge Return to your riverside resort and gather for a hearty breakfast, sharing stories and memories of your jungle adventures as the rainforest bustles with morning life. Farewell and Departure Check out and bid farewell to the Kinabatangan. Board your shared transfer for a scenic drive back to Sandakan, carrying home unforgettable wildlife encounters. (Shared transfer available for flights departing after 2 pm.)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -3362,7 +3405,8 @@
         "description": "Arrive UK."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -3422,7 +3466,8 @@
         "description": "Sepilok Reserve & Home - Wildlife Watching & Departure This morning you will leave first thing and head to Sepilok, hidden among a veritable treasure trove of tropical plants, grasses, huge trees and spectacular orchids in bloom, the world-famous Kabili-Sepilok Forest Reserve is home to some of the last wild Orang-Utans of Northern Borneo. This is largely in because of the work being done at the Sepilok Orangutan Rehabilitation Centre which was founded in 1964, to rehabilitate orphan orangutans. Today around 60 to 80 orangutans are living free in the reserve. As well as rescuing other wildlife like sun bears, gibbons, Sumatran rhinos and elephants the center is open for us to visit and see some of the semi wild orangutans as they learn how to be fully wild animals again. From here you will depart to the airport to catch your afternoon flight home. (breakfast is the only meal included today)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Borneo",
@@ -3472,7 +3517,8 @@
         "description": "Mukah - Departure: After breakfast, take a leisure boat cruise along the dark mysterious brackish waters of Tellian River & Misan River. Visit the local sago processing center, a cottage industry that produces Sago Pearl the traditional way. Sago pearls are exported all over the world for various uses in food and beverages such as “Chendol” or “ABC”, local delicacies being the most prolific. Proceed to the Mukah market where you experience locals trading and carrying on with daily activities. Go “Bizarre Food” and sample Siet (Sago Worm) and Umai (Fresh Raw Fish). This will earn you bragging rights when you go home with the prized photos of you savoring these two famous dishes. After Lunch in Lamin Dana, visit Lamin Dana Handicraft center, learn and understand about Melanau handicraft. We then say goodbye to the host and take a 3.5 hours transfer to Sibu Airport for a connecting flight to Kuching, Sabah or Singapore, or alternatively, transfer to Mukah Airport for Kuching or Miri or overland trip to the other part of Sarawak Borneo. Meals: Breakfast, Lunch"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Borneo",
@@ -3572,7 +3618,8 @@
         "description": "Today you will return to the mainland and drive to Kota Kinabalu airport for the flight back to the UK. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -3667,7 +3714,8 @@
         "description": "You will be transferred to the airport this morning for your return flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Borneo",
@@ -3757,7 +3805,8 @@
         "description": "Departure: Today the tour concludes. After breakfast you will be transferred to Sandakan airport. Meals: 1 Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Borneo",
@@ -3857,7 +3906,8 @@
         "description": "Arrive home today to complete your journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Borneo",
@@ -3902,7 +3952,8 @@
         "description": "Kayak along sandy shores: Today our driver will be back to transfer you to the beach, a short hop away. Take your family and escape to Damai, encompassed by the tropical rainforest and golden beaches. Over the next few days, you’ll do nothing but take it easy and relax. Swim in the ocean, relax with a book by the pool or perhaps compete with each other on who can make the best sand-castles. On day two you’ll join a local guide for a kayaking adventure. You’ll paddle through the beautiful rainforest surroundings and stop off at local villages where you’ll meet the Bidayuh tribe; a great way to help open the kids’ eyes to one of the many different cultures in our world. At the end of your holiday, you’ll be transferred from the beach to the airport, which takes about 45 minutes, to begin your journey home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Borneo",
@@ -3982,7 +4033,8 @@
         "description": "Transfer to Kota Kinabalu airport for the flight back to the UK. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -4047,7 +4099,8 @@
         "description": "Tour Concludes in Kuching: On our final day, after breakfast, we take you back to Kuching airport for your return flight. Meals: Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -4092,7 +4145,8 @@
         "description": "Fort Lily & Return to Kuching: Morning: After a final breakfast with your longhouse hosts, bid them farewell and return to Lingga by longboat. Upon arrival in Sri Aman, visit Fort Lily, a historical landmark from the Brooke era, offering insights into Sarawak’s colonial past. Midday: Begin the overland transfer to Kuching (approximately 5 hours). Enjoy lunch at a local market along the route, savoring regional flavors. Late Afternoon: Arrive at your city hotel in Kuching at around 3 – 4pm. Meals: 1 Breakfast, 1 Lunch"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -4167,7 +4221,8 @@
         "description": "After breakfast, there are no activities planned and your trip comes to an end. You can depart the accommodation at any time after check-out. If you’d like to spend more time in Kota Kinabalu, just reach out to your booking agent ahead of time to organise additional accommodation."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -4232,7 +4287,8 @@
         "description": "DEPARTURE (B) Breakfast at hotel then transfer to airport. End of trip."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Borneo",
@@ -4292,7 +4348,8 @@
         "description": "Jakarta - Trip extension Option: Today you will travel home or continue on to your next destination. (B) Note : If you would like to stay at Rimba Lodge rather than our klotok, this can be arranged. Please let us know in advance to discuss the details and additioanal costs."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Borneo",
@@ -4332,7 +4389,8 @@
         "description": "Tawau Town / Home - This morning we will have breakfast and then head to the town of Tawau to catch your return flight home. Of course if you have chosen this trip as a pre-trip extension to our Borneo Rare Mammals tour then you will leave here and meet up with the rest of the group tour and start that trip. (breakfast is the only meal included)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Borneo",
@@ -4367,7 +4425,8 @@
         "description": "Tawau Town / Home - This morning we will have breakfast and then head to the town of Tawau to catch your return flight home. Of course if you have chosen this trip as a pre-trip extension to our Borneo Rare Mammals tour then you will leave here and meet up with the rest of the group tour and start that trip. (breakfast is the only meal included)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Borneo",
@@ -4467,7 +4526,8 @@
         "description": "Morning is at leisure to explore Kota Kinabalu and perhaps visit one of its museums or markets before either a transfer to KK Airport (depending upon your departure time) or, for those with a few days to spare, a transfer to the ferry for a few days on Manukan Island."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Borneo",
@@ -4527,6 +4587,7 @@
         "description": "After breakfast, transfer by land Sandakan airport for departure flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   }
 ]

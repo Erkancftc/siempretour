@@ -57,7 +57,8 @@
         "description": "Today you will check out of your hotel. If Chicago is your only destination, you can take a taxi or Uber to O'Hare International Airport, from where you will fly back home. If you have other destinations on your itinerary, you will check out of the hotel and pick up your rental car, or take a taxi or Uber to the airport to fly to your next destination."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Usa",
@@ -152,7 +153,8 @@
         "description": "Arrive back into the UK."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Usa",
@@ -227,7 +229,8 @@
         "description": "Today you’ll say good bye to the South West as you make your way to the Phonenix or Tucson airport for your departing flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Usa",
@@ -287,7 +290,8 @@
         "description": "Time to say goodbye to the Pacific Northwest and head back home with memories to last a lifetime!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Usa",
@@ -367,7 +371,8 @@
         "description": "Arrive home today to complete your journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Usa",
@@ -482,7 +487,8 @@
         "description": "International Return Flight. Arrive home today to complete your journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Usa",
@@ -557,7 +563,8 @@
         "description": "Our tour of the Deep South ends in Nashville. If you’d like to spend extra time exploring this country music Mecca, please speak to your sales representative."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Usa",
@@ -617,7 +624,8 @@
         "description": "If you drove to Lewiston your car is waiting for you. If you came by airplane the hotel shuttle will transport you to the Lewiston airport or you can take a taxi to the Spokane, Washington airport, two hours north."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Usa",
@@ -677,7 +685,8 @@
         "description": "With no activities planned today, your adventure ends this morning. If you’d like to stay longer, just speak to your booking agent."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Usa",
@@ -742,7 +751,8 @@
         "description": "Cycle across Golden Gate Bridge & Optional Alcatraz Island Tour: We kick off our final day with an absolute must-do: a bike ride across the legendary Golden Gate Bridge! Spend the morning cycling past some of San Francisco’s most iconic sights, taking in the views and snapping those postcard-perfect shots, before rolling back to Pier 39. Sadly, this marks the end of your West Coast America Tour! But if you’re up for one last adventure, you can opt to hop on a ferry to the infamous Alcatraz Island and explore ‘The Rock’ for a glimpse inside the legendary prison. Still sticking around for the evening? Let’s make it a night to remember – ride a cable car to Union Square, catch a Giants baseball game, or just soak up the buzzing San Fran nightlife one last time!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Usa",
@@ -822,7 +832,8 @@
         "description": "Arrive home today to complete your journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Usa",
@@ -892,7 +903,8 @@
         "description": "It's time to bid farewell, carrying memories of adventures that will last a lifetime!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Usa",
@@ -987,7 +999,8 @@
         "description": "You have most of the day free for one last stroll around The Big Apple before heading to the airport for your onward flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Usa",
@@ -1042,7 +1055,8 @@
         "description": "Washington DC: Today marks the end of your East Coast America Adventure, so it’s time to say goodbye to all your new friends. If you’re not quite done with the USA East Coast you may want to stay an extra night in Washington D.C. Let us know and our team will able to assist you with an additional night’s accommodation."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Usa",
@@ -1132,7 +1146,8 @@
         "description": "Bike ride across Golden Gate Bridge & Optional Alcatraz Island Tour: We kick off our final day with an absolute must-do: a bike ride across the legendary Golden Gate Bridge! Spend the morning cycling past some of San Francisco’s most iconic sights, taking in the views and snapping those postcard-perfect shots, before rolling back to Pier 39. Sadly, this marks the end of your tour across the USA! But if you’re up for one last adventure, you can opt to hop on a ferry to the infamous Alcatraz Island and explore ‘The Rock’ for a glimpse inside the legendary prison. Still sticking around for the evening? Let’s make it a night to remember – ride a cable car to Union Square, catch a Giants baseball game, or just soak up the buzzing San Fran nightlife one last time!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Usa",
@@ -1202,7 +1217,8 @@
         "description": "It’s time to say “goodbye for now” to beautiful Oregon with memories to last a life time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Usa",
@@ -1252,7 +1268,8 @@
         "description": "The rest of the trip takes us through relatively easy Class II and III white water. When the sun is high overhead we find a shady spot for another bountiful lunch. There are a few more rapids and more peaceful and beautiful scenery before we reach our take-out at Foster Bar. We aim to arrive at the take-out by 3:00pm and then load up into vans for a two-hour drive over the mountains back to our starting point. In the autumn, also offer a 4-day camping version of this same adventure. At this time of year the lodges are filled with fishing trips and the beaches and camps on the Rogue are scarcely used, making ideal conditions for our trips. Meals Included: Breakfast, Lunch"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Usa",
@@ -1317,7 +1334,8 @@
         "description": "If you drove to Stanley and had your car shuttled, it is waiting for you at the hotel. If you are flying home, you'll board an air taxi for the one-hour flight back to Boise to connect home. A nice extension to consider would be north to Glacier National Park or southeast to Yellowstone National Park."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Usa",
@@ -1407,7 +1425,8 @@
         "description": "This morning, you’ll drive to Los Angeles, where your trip comes to an end. If you’d like to extend your stay, just speak to your booking agent."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Usa",
@@ -1552,7 +1571,8 @@
         "description": "International Return Flight. Arrive home today to complete your journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Usa",
@@ -1617,7 +1637,8 @@
         "description": "If you drove to Cambridge and had your car shuttled north, it's waiting for you at the hotel. If you are flying, there’s a free shuttle from the hotel to the Lewiston airport. Or you can take a taxi two hours north to the Spokane airport which sometimes offers more reasonable airfares than Lewiston."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Usa",
@@ -1702,7 +1723,8 @@
         "description": "Arrive home today to complete your journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Usa",
@@ -1782,7 +1804,8 @@
         "description": ": The trip ends in New Orleans at the hotel this morning. There are no airport transfers provided on this trip, so you are free to leave at any time. Your Explore Tour Leader can help you to arrange transport to Louis Armstrong International Airport (MSY)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Usa",
@@ -1857,7 +1880,8 @@
         "description": "Bid farewell to the adventure-filled days as you begin your journey back to reality. Travel to either Salt Lake City, a 4-hour drive away, or the Grand Junction Airport, a shorter 1.5-hour drive, where you will catch your departing flight. Reflect on the memories made, the landscapes explored, and the experiences shared, carrying the spirit of the trip with you until your next escapade awaits."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Usa",
@@ -1912,7 +1936,8 @@
         "description": "Bid farewell to the enchanting landscapes of Moab as you prepare to depart for the Moab, Grand Junction, or Salt Lake City airport, marking the end of your unforgettable journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Usa",
@@ -2007,7 +2032,8 @@
         "description": "Today concludes our trip together. Departure is at your leisure and the trip concludes upon check out from the hotel before 12 noon. There is a complimentary shuttle from the hotel that you may sign up for at the front desk depending on your timing needs. Please let us know if you would like to spend additional days in this vibrant city."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Usa",
@@ -2052,7 +2078,8 @@
         "description": "Home – Departure – After breakfast you will be transferred to the airport in time to catch your return flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Usa",
@@ -2092,7 +2119,8 @@
         "description": "Home - Departure This morning after breakfast we will arrange for transfers to the airport in time to catch your return flight home. (breakfast is the only meal included today)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Usa",
@@ -2152,6 +2180,7 @@
         "description": "It’s time to say good bye to California and the incredible Yosemite Valley with memories to last a lifetime!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   }
 ]

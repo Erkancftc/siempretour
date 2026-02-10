@@ -62,7 +62,8 @@
         "description": "Departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Kosovo",
@@ -127,6 +128,7 @@
         "description": "You’ve heard the peoples’ stories, tasted incredible cuisine, and enjoyed magnificent views but now it’s time to begin your return journey home. Alternatively, if you’d like to extend your adventure, speak to your sales representative to discuss our large range of extension options."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

@@ -67,7 +67,8 @@
         "description": "Today you set off back to Freetown. On arrival you can enjoy some last-minute shopping at one of Freetown’s craft markets for gifts and souvenirs before we transfer you to the airport in time for your trip home"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sierra Leone",
@@ -132,7 +133,8 @@
         "description": "Departure from Freetown - Time at leisure until you are transferred to the airport on due time for your flight home. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sierra Leone",
@@ -212,6 +214,7 @@
         "description": "Transfer back to Lungi Airport for departure Today you'll have free time in Freetown untli tranferring to the sea-coach for your transfer back to Lungi Airport. OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

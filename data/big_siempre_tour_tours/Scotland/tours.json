@@ -57,7 +57,8 @@
         "description": "Final morning photography session, followed by breakfast and departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Scotland",
@@ -107,6 +108,7 @@
         "description": "Return home"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   }
 ]

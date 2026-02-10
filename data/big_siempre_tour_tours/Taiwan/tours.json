@@ -82,7 +82,8 @@
         "description": "Taipei & Extension Option: Today marks the end of your Taiwan Adventure Tour. You’ll say farewell to your group and Adventure Leader as you prepare to head off in your own direction. But if you’re not ready to say goodbye to Taiwan just yet, we have one last optional extra to tempt you: a day tour to Yehliu, Jiufen, and Pingxi! (Let us know when booking if you'd like to join this final adventure.)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Taiwan",
@@ -142,7 +143,8 @@
         "description": "Travel from Chiayi to Taipei. Bid farewell to Chiayi and wind your way back to Taipei with a stop in Lukang Township, a haven of historical charm and warm hospitality. Wander through the narrow lanes of Lukang Old Street, soaking in the atmosphere of bygone eras. Admire traditional architecture, savor local delicacies like oyster omelets and pineapple cake, and perhaps pick up unique souvenirs. Conclude your journey at Lukang Longshan Temple, a renowned landmark radiating spiritual grace and cultural significance. Let Lukang's charm captivate you before returning to Taipei with a heart full of warm memories and treasured experiences."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Taiwan",
@@ -237,7 +239,8 @@
         "description": "Transfer to the airport for your onward or return flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Taiwan",
@@ -317,7 +320,8 @@
         "description": "Your trip comes to an end after breakfast. With no activities planned for the day, you're free to leave the hotel any time after checkout. If you want to extend your stay, just speak to your booking agent."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Taiwan",
@@ -387,6 +391,7 @@
         "description": "Return to Taipei airport for the onward or return flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

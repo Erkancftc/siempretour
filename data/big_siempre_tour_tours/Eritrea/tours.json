@@ -62,7 +62,8 @@
         "description": "Asmara - Transfer to the airport for your onward flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Eritrea",
@@ -122,7 +123,8 @@
         "description": "Free time in Asmara. Transfer to the airport for departure (extensions available) You'll have some free time in Asmara today, until you are transferred back to the airport for departure. For those looking to spend a little longer in Eritrea, we do offer a 2-night Asmara extension, which includes tours to visit Kohaito, Adi Quala and more. OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Eritrea",
@@ -197,6 +199,7 @@
         "description": "Departure from Asmara - Time at leisure to explore further until your transfer to the airport for your onward flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

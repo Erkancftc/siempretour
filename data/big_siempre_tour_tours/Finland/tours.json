@@ -52,7 +52,8 @@
         "description": "After breakfast, transfer to Kajaani aiport ."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Finland",
@@ -112,7 +113,8 @@
         "description": "Home - After breakfast you will be transferred to the Kuopio airport in time to catch your return flight home. (breakfast only)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Finland",
@@ -182,7 +184,8 @@
         "description": "After breakfast, you will relish your last drive across the Finnish countryside from Anttolanhovi to Helsinki. You will capture stunning images of the Pulkkilanharju Ridge and surrounding islands, stop at a small farm in Kalkkinen for sumptuous wine tasting, cross the bridge of Pulkkilanharju to Lahti, and admire the modern architecture of Sibelius Hall. If time permits, you may also ascend to the top of the Ski Jump tower to marvel at the views or race down the powdery slopes before you visit the Ski Museum on-site. You will then continue to Helsinki where you will say your farewells."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Finland",
@@ -242,6 +245,7 @@
         "description": "From Levin Igult you say goodbye to the wilderness, traveling through the snow to Kittila Airport, which is likely to be surrounded by snow. From here you leave Lapland with so many unique memories to take back home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   }
 ]

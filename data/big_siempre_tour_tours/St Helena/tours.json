@@ -57,7 +57,8 @@
         "description": "After nearly 5,000 nautical miles travelled, two incredible stopovers and a life-time of experience gained. we part ways. Our crews often stay in contact for years after this adventure!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "St Helena",
@@ -112,7 +113,8 @@
         "description": "Begin your return journey, flying from Saint Helena to South Africa for your onward flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "St Helena",
@@ -177,6 +179,7 @@
         "description": "Saint Helena to Johannesburg - Enjoy a leisurely breakfast before we are transferred back to the island’s airport for our return Airlink flight to Johannesburg. Unlike our flight over, the return journey does not require a refuelling stop, so is non-stop and takes just under 5 hours. Unless you have organised flights or additional services with Undiscovered Destinations, the tour arrangements end upon arrival in Johannesburg. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

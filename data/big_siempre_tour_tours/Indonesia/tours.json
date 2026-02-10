@@ -67,7 +67,8 @@
         "description": "Your trip comes to an end after breakfast today. You may like to stay on for a few extra days to make the most of your visit here. You may want to take a surfing lesson, bike tour or one of the many other activities on offer. If you need to organise additional accommodation, just get in touch with your booking agent."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Indonesia",
@@ -162,7 +163,8 @@
         "description": ": Our tour ends after breakfast, but depending on flight times there may be the opportunity to enjoy the beach this morning for one last time. If you wish the extend your stay to explore Bali further, our tour leader can assist you with booking an East or South Bali day tour. Please contact us to arrange additional post-tour accommodation. A complimentary transfer to Belimbing is available if you have booked our Discover Bali, Flores and Komodo Islands tour to follow."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Indonesia",
@@ -252,7 +254,8 @@
         "description": "Transfer to the airport for your return flight home. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Indonesia",
@@ -352,7 +355,8 @@
         "description": "CHECK OUT & ONWARD TRAVEL: Your unforgettable 15 day adventure comes to an end today. Those flying home will make their way to the airport, or keep living the dream and extend your stay in Bali with our help and the new friends you’ve made."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Indonesia",
@@ -417,7 +421,8 @@
         "description": "As there are no further activities, your trip comes to an end today. If you'd like to stay in Sanur longer, just speak to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Indonesia",
@@ -502,7 +507,8 @@
         "description": ": Our tour ends after breakfast, but depending on flight times there may be the opportunity to enjoy the beach this morning for one last time. If you'd like to extend your stay to explore Bali further and enjoy more of the breathtaking sunsets of Jimbaran, please contact us to arrange post-tour accommodation."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Indonesia",
@@ -577,7 +583,8 @@
         "description": "Your Bali adventure comes to an end today, but that doesn’t mean you can’t continue to swim, snorkel, sleep and tan – if you’d like to stay longer, just speak to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Indonesia",
@@ -642,7 +649,8 @@
         "description": "Arrive back in the UK this morning."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Indonesia",
@@ -717,7 +725,8 @@
         "description": "Enjoy your last few hours on Bali before your guide collects you and takes you to the airport for your return flight home (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Indonesia",
@@ -802,7 +811,8 @@
         "description": "CHECKOUT. Your unforgettable 12 day adventure comes to an end today. Those flying home will make their way to the airport, or keep living the dream and extend your stay in Bali with our help and the new friends you’ve made."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Indonesia",
@@ -847,7 +857,8 @@
         "description": "After breakfast it is time to bid goodbye to the jungle and return to the port of Kumai where you will be transferred back to Pangkalan Bun airport in order to catch your flight to your next destination. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Indonesia",
@@ -922,7 +933,8 @@
         "description": "After breakfast explore Doom island by Becak, a traditional form of transport similar to a rickshaw. The island was used as an administrative centre by the Dutch during WWI and then was occupied by the Japanese during WWII who built a network of tunnels. After Doom Island bid farewell to the captain and crew and transfer to the airport for onward flights. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Indonesia",
@@ -1022,7 +1034,8 @@
         "description": "Manado - Transfer to the airport for your onward flight. Tour ends. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Indonesia",
@@ -1137,7 +1150,8 @@
         "description": "Arrive back in UK"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Indonesia",
@@ -1237,7 +1251,8 @@
         "description": "INTERNATIONAL DEPARTURE (B) Breakfast at hotel before transferring to the airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Indonesia",
@@ -1282,7 +1297,8 @@
         "description": "On the final day of the trip will check out of the resort together and transfer to the Labuha Airport for a flight back to Jakarta where we will bid farewell to one another. Please speak to a member of our team if you would like to extend your time in Indonesia, either for more snorkeling or land tours."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Diving"
   },
   {
     "destination": "Indonesia",
@@ -1377,7 +1393,8 @@
         "description": "Today you will be collected from the hotel for the transfer to Denpasar airport for your return flight home (own arrangements). (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Indonesia",
@@ -1517,7 +1534,8 @@
         "description": "Your trip comes to an end after breakfast this morning. There is plenty to see and do in Ubud, so it’s highly recommended you stay another few days to explore. If you do, maybe hire a bicycle and explore the surrounding rice paddies and small villages, or visit the galleries, museums and handicraft merchants in town. If you would like to spend more time in Ubud, just get in touch with your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Indonesia",
@@ -1577,7 +1595,8 @@
         "description": "Darwin - Disembark: Your Indonesia cruise concludes back in Darwin where in the morning it will be time to disembark and bid a fond farewell to your crew and newfound friends as you make your way homewards or onwards."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Indonesia",
@@ -1687,7 +1706,8 @@
         "description": "Morning transfer by shared boat to the mainland and on to Labuan Bajo Airport in time for your onward flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Indonesia",
@@ -1787,7 +1807,8 @@
         "description": "With no activities planned for today, you’re free to leave at any time after check-out. This doesn’t mean your adventure has to come to an end! If you would like to extend your stay on the blissful Gili Air, just get in touch with your booking agent ahead of time to organise additional accommodation."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Indonesia",
@@ -1892,7 +1913,8 @@
         "description": "Arrival back in the UK early this morning."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Indonesia",
@@ -1982,7 +2004,8 @@
         "description": "Your guide will transfer you back to Denpasar Airport in time for your international flights home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Indonesia",
@@ -2052,7 +2075,8 @@
         "description": "Komodo Islands - Bali - Tour Ends Today your tour ends and you be transferred to the airport and fly to Bali for your (evening) connecting flight home or onwards travels. (B) Contact for Option #2 Itinerary"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Indonesia",
@@ -2182,7 +2206,8 @@
         "description": "Bali - Transfer to the airport for departure. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Indonesia",
@@ -2302,7 +2327,8 @@
         "description": "CHECKOUT & ONWARD TRAVEL Your amazing 19 day adventure comes to an end today. You can either check out and make your way to the airport, stay on longer in Indonesia or continue your travels with our help, advice & the new friends you’ve made!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Indonesia",
@@ -2382,7 +2408,8 @@
         "description": "Your guide will transfer you back to the airport for your flight home (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Indonesia",
@@ -2422,7 +2449,8 @@
         "description": "Jakarta - Today you will be transferred from your campsite in the forest and back to Jakarta and to the airport hotel. If you will be flying home tomorrow then this airport is ideally located and if you are starting our Javan Rhino Expedition tomorrow our other clients are likely to be staying here tonight so we can all leave tomorrow morning for Ujong Kulon National Park. (Breakfast only)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Indonesia",
@@ -2512,7 +2540,8 @@
         "description": "You’ve tracked orangutans in the jungle, witnessed real-life dragons, and explored the culture of Indonesia, but now it’s time to begin your return journey home. Alternatively, if you’d like to extend your adventure, speak to your sales representative to discuss our large range of extension options, including our post-tour island extension, where white sands and a slice of paradise await."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Indonesia",
@@ -2577,7 +2606,8 @@
         "description": "Home After breakfast you will be transferred to the airport in time to catch your return flight home. (breakfast is the only meal included today)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Indonesia",
@@ -2642,7 +2672,8 @@
         "description": "Jakarta / Home - Travelling This morning we will have breakfast before being transferred back to Bandar Lampang in time to catch our afternoon flight back to Jakarta in the mid afternoon. You should arrange your flight for tonight or if you wish to spend the night in Jakarta and fly back the next day we can make these arrangements for you also. (breakfast is the only meal included today)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Indonesia",
@@ -2732,7 +2763,8 @@
         "description": "Depart Bali - After check-out from your hotel (please note that check-out time is 12:00), meet your driver for a transfer to Denpasar Airport in time for check-in and your departure. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Indonesia",
@@ -2822,7 +2854,8 @@
         "description": "Transfer to Surabaya airport and take the flight out of Java. Please note, there are options to travel by ferry to the west coast of Bali, please speak to us for further details. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Indonesia",
@@ -2897,7 +2930,8 @@
         "description": "Enjoy a final Balinese breakfast and perhaps some last-minute sightseeing before your driver meets you to transfer you to the airport in time for your international return flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Indonesia",
@@ -2992,7 +3026,8 @@
         "description": "Your day is at leisure until transfer to Denpasar Airport for your onward flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Indonesia",
@@ -3057,7 +3092,8 @@
         "description": "Your day is at leisure until your transfer to Lombok airport in time for your onward flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Indonesia",
@@ -3167,7 +3203,8 @@
         "description": "Transfer to the airport for the flight back to the UK. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Indonesia",
@@ -3252,7 +3289,8 @@
         "description": "Morning at leisure before a transfer across the island to Denpasar Airport for a return flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Indonesia",
@@ -3292,7 +3330,8 @@
         "description": "Jakarta / Home - Whilst the expedition officially ends today when we reach Jakarta and people can book their return flights home for the evening on this day, we recommend that people do not and instead book their return flights home for tomorrow. This is because of any possible delays we can suffer in having to use the speed boat and a vehicle for 2 and 3 hours respectively. Of course if you book your flights for today you will be taken to the airport after we reach Jakarta and if you book your flights for the next day, we will take you to the hotel you have booked for yourself. We can book this hotel for you if you wish, at the additional cost of GBP £75 per person. (Breakfast is the only meal included today)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Indonesia",
@@ -3332,7 +3371,8 @@
         "description": "Jakarta / Home - Whilst the expedition officially ends today when we reach Jakarta and people can book their return flights home for the evening on this day, we recommend that people do not and instead book their return flights home for tomorrow. This is because of any possible delays we can suffer in having to use the speed boat and a vehicle for 2 and 3 hours respectively. Of course if you book your flights for today you will be taken to the airport after we reach Jakarta and if you book your flights for the next day, we will take you to the hotel you have booked for yourself. We can book this hotel for you if you wish, at the additional cost of GBP £75 per person. (Breakfast is the only meal included today)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Indonesia",
@@ -3447,7 +3487,8 @@
         "description": "Arrive back in UK"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Indonesia",
@@ -3547,7 +3588,8 @@
         "description": "Return home this morning."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Indonesia",
@@ -3597,7 +3639,8 @@
         "description": "After breakfast on our last day, we will take you on a scenic drive towards Melo Village, where you will witness the traditional Caci dance performance. Local strongmen perform a ritual whip-fight between two rivals in which the players, each armed with a rattan shield and a whip, will try to hit each other while dancing to the rhythm of traditional acoustic instruments. -After lunch on the boat, we will say farewell to the crew and your fellow shipmates as you disembark and continue onto your next destination."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Indonesia",
@@ -3642,7 +3685,8 @@
         "description": "Spend the morning enjoying the tranquility of Bidadari Island (Angel Island) before sailing back to Labuhan Bajo and transferring to the airport for your onwards flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Indonesia",
@@ -3712,7 +3756,8 @@
         "description": "Morning visit to the incredible cave of Liang Galang. This is a sacred place for the local people and we'll have a ceremony with them before exploring the cave. Later we'll head to another cave called Liang Bua which is where Homo floresiensis also known as the \"Hobbit\" was only discovered in 2003. Return to Labuan Bajo and overnight there before departure the following day."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Diving"
   },
   {
     "destination": "Indonesia",
@@ -3777,7 +3822,8 @@
         "description": "With no activities planned for today, you’re free to leave at any time after check-out. This doesn’t mean your adventure has to come to an end! If you would like to extend your stay on the blissful Gili Air, just get in touch with your booking agent ahead of time to organise additional accommodation."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Indonesia",
@@ -3832,7 +3878,8 @@
         "description": "We leave the resort on a morning boat transfer, in time to get our flight from Sorong to Jakarta where we bid farewell to our new friends. Tour ends here."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Diving"
   },
   {
     "destination": "Indonesia",
@@ -3887,7 +3934,8 @@
         "description": "Departure - Today it’s time to say farewell to Rote, though for many, it feels more like “until next time”. In the early morning, you’ll transfer to the airport to catch the island’s single daily flight back to Kupang."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Indonesia",
@@ -3977,7 +4025,8 @@
         "description": "At Sea to Sorong - Disembark: We now wake our way to Sorong filled with memories of what will be sure to have been an unforgettable trip. Upon arrival in Sorong, you will disembark and your Indonesia cruise will come to an end. Charter flights to Darwin (or alternative destinations) can be arranged. Please enquire for full details."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Indonesia",
@@ -4042,7 +4091,8 @@
         "description": "After a leisurely breakfast, we check out and take our charter flight back to Bali where we bid farewell to our new friends, and the tour ends."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Diving"
   },
   {
     "destination": "Indonesia",
@@ -4107,7 +4157,8 @@
         "description": "Early morning arrival into London Heathrow"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Diving"
   },
   {
     "destination": "Indonesia",
@@ -4162,7 +4213,8 @@
         "description": "We leave the resort on a morning boat transfer, in time to get our flight from Sorong to Jakarta where we bid farewell to our new friends. Tour ends here."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Diving"
   },
   {
     "destination": "Indonesia",
@@ -4227,7 +4279,8 @@
         "description": "After a big buffet breakfast, we take a group transfer to the airport and check-in for our flight to Jakarta, where we bid farewell to our new friends and the tour ends."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Diving"
   },
   {
     "destination": "Indonesia",
@@ -4317,7 +4370,8 @@
         "description": "Morning transfer to the mainland and on to Manado Airport for your onwards flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Indonesia",
@@ -4377,7 +4431,8 @@
         "description": "Today you will leave the hotel and travel to the airport in time to catch your return flight to Jakarta and onwards to your home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Indonesia",
@@ -4462,7 +4517,8 @@
         "description": "Enjoy the day at leisure before your return flight home. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Indonesia",
@@ -4527,7 +4583,8 @@
         "description": "Medan - Home Today you will be transferred to the airport for your flights home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Indonesia",
@@ -4602,7 +4659,8 @@
         "description": "With no further activities planned, your adventure comes to an end in Medan this morning after breakfast. If you'd like to extend your stay, just get in touch with your booking agent ahead of time to organise additional accommodation."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Indonesia",
@@ -4717,7 +4775,8 @@
         "description": "Morning at leisure before a transfer across the island to Denpasar Airport for a return flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Indonesia",
@@ -4777,7 +4836,8 @@
         "description": "Transfer to Medan Airport. Subsequent, optional extensions include our 4-day Jakarta visit, a mini-tour to Flores and Komodo or beach time in Bali or Lombok. Note: Medan International Airport has easy connections to regional destinations such as KL, Singapore or Bangkok."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Indonesia",
@@ -4827,7 +4887,8 @@
         "description": "Jakarta - Travelling Today you will leave Way Kambas and drive the 3-4 hours back to Bandar Lampung and then catch your return flight to the capital, Jakarta. There are no plans for the rest of the day. You will be told by the local driver when he picks you up from the airport, what time he will collect you to make your return flight home tomorrow. (breakfast is the only meal included)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Indonesia",
@@ -4902,7 +4963,8 @@
         "description": "Departure: Transfer back Denpasar airport for your return flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Indonesia",
@@ -4977,6 +5039,7 @@
         "description": "Jakarta - Transfer to the airport for your flight home. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   }
 ]

@@ -82,7 +82,8 @@
         "description": "The tour ends after breakfast in Vilnius. Begin your return trip home or, if you’d like a bit more time to explore this fascinating city, speak to your sales representative about extending your stay."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Latvia",
@@ -177,6 +178,7 @@
         "description": "Vilnius – Departure from Lithuania - Day at leisure until your transfer to the airport for your flight back home. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

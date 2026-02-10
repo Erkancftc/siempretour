@@ -57,7 +57,8 @@
         "description": "You return to Sofia. Free time or travel directly to the airport where you return the car."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Bulgaria",
@@ -122,6 +123,7 @@
         "description": "Breakfast and then transfer to the airport. Goodbye!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

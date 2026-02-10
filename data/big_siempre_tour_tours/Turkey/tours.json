@@ -117,7 +117,8 @@
         "description": "Istanbul, free time, transfer to airport The tour ends in Istanbul today, and your time is free for some last minute shopping or sightseeing until we transfer you to the airport for your departure. OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Turkey",
@@ -217,7 +218,8 @@
         "description": ": Our tour ends at our hotel in Istanbul. There are no activities planned today, so you're free to depart at any time. If your flight leaves later in the day, luggage storage facilities are available at our hotel. If you'd like a hotel transfer, you'll need to depart from Istanbul Airport (IST), around a ninety-minute drive from the hotel, or Sabiha Gokcen International Airport (SAW), around a two-hour drive from the hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Turkey",
@@ -292,7 +294,8 @@
         "description": "You will hear the morning tide brush against the shore. The sun will rise and cast a golden glower over the sand. The water will continue to glow a remarkable sapphire as the scent of Turkish coffee accompanies breakfast. Your private transfer will meet you in the hotel lobby to escort you to the airport for your return flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Turkey",
@@ -367,7 +370,8 @@
         "description": "Kusadasi to Bodrum is a classic one way yacht journey, joining together the ancient world wonder of Halicarnassus with the renowned ruins of Ephesus. It's also a practical journey as both have domestic airports with direct flights to Istanbul. After breakfast, you're transferred by car to Bodrum Airport for a flight to Istanbul. A representative will assist you in Istanbul, helping transfer you onto your international departure. It's farewell to Turkey but the romantic memories will live on for many years."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Turkey",
@@ -447,7 +451,8 @@
         "description": "Even the best of adventures must come to an end and in the morning, you will meet your private airport transportation outside your hotel and head to the local airport. From there, you will continue to connect to your return flight home. As you stare out the window of your airport transfer one last time you'll be reminded of your warm experiences along Turkey's shimmering coast, amongst its dense foliage, at the center of busy urban life, and back in time to its mystifying past."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Turkey",
@@ -532,7 +537,8 @@
         "description": "The sunrise over Van glints off of the lake and brings a golden hue to the morning. The peak of Baset Dagi makes the skyline at 11,851 feet. The tiles of the Blue Mosque continue to shimmer in the daylight. You have traversed Turkey’s countryside and found the icons of ancient civilizations. Temples and churches, palaces and cave dwellings, the ingenuity and hidden treasures of history are nestled into the landscape. Soon you will make your way home but you can always extend your trip and experience more of Turkey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Turkey",
@@ -617,7 +623,8 @@
         "description": "It's a fond farewell today as you leave with a mouthful of memories and new impressions of Turkish cuisine. For a final local treat, you might like to join the commuters in the markets to try a liver kebab, the breakfast of locals for the last 40 years. A domestic flight takes you back to Istanbul where your international departure awaits."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Turkey",
@@ -682,7 +689,8 @@
         "description": "The morning settles over Istanbul and the rambunctious energy returns to the streets. At Van Kahvalti Evi the regional specialties fill the neighborhood with captivating aromas. The wooden furniture creates an inviting ambiance. The kavut is roasted wheat flour blended with honey and walnuts. The historic neighborhood of Balat rises along the Golden Horn. Laundry hangs between buildings and children kick a soccer ball around the cobblestone streets. Your private transfer takes you to the airport. Every memory of your time in Turkey is a great one, and every image of Turkey brings another memory."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Turkey",
@@ -777,7 +785,8 @@
         "description": "After breakfast, you're transferred to the airport for your international departure. Though this journey may be over, you will surely be planning a return trip soon and, in the meantime, you will have plenty of memories to tide you over. Be sure to browse the reviews for Turkey travel agents on Zicasso."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Turkey",
@@ -872,7 +881,8 @@
         "description": "The ancient city radiates under the sunrise. The Parthenon looks like an ancient beacon that continues to inspire the city and the world. The Plaka bustles with life and the modern city whirs with people. Indulge in one last cup of Greek coffee before your private transfer takes you to the airport. You have witnessed more than just ancient history. You have experienced the cultures of Turkey and Greece that have developed with time. From bazaars to ruins, beaches to legends, you have experienced them all and can’t wait to return."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Turkey",
@@ -962,7 +972,8 @@
         "description": "The cobblestone streets of Tunel and Karakoy bustle with morning activity. Cafes are filled with the sounds of percolating coffee. Old men sit at tables and play dominoes and read newspapers. The Galeri Suav displays its Hittite and Ottoman inspired collection of ceramics, glass, and textiles. Delight in the sweet and savory combination of fresh sesame bread and strawberry jam. A small bowl of dates sits on the table. After breakfast, you are escorted to the airport by private transfer. The culture of the city continues to enchant as you make your way home and return from Turkey’s historic depths."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Turkey",
@@ -1042,7 +1053,8 @@
         "description": "After 11 days of archaeological brilliance and fascinating culture it's time to depart. Enjoy one last breakfast and a final look at Istanbul as you're transferred to the airport for your international departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Turkey",
@@ -1102,7 +1114,8 @@
         "description": "It may have only been six nights but this handcrafted itinerary has packed in the sights, a compelling mix of yesteryear's glory and traditional tones still surviving today. After breakfast and a final morning of relaxing in the boutique hotel, your driver transfers you to Istanbul's international airport and a homeward bound flight. But there's just enough time for one last glimpse at the country's splendor; gaze from the plane window and the Bosphorus stands proud, the divide of a city that took you to the best of both Europe and Asia."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Turkey",
@@ -1167,7 +1180,8 @@
         "description": "The character of Istanbul combines the quintessence of history and the enchantment of local culture. The aromatics of the Spice Bazaar match the rainbow hues in which the spices display. The alleyways wind through the streets and take you into the hidden shops that have populated the neighborhood for centuries. Tinkerers work with soft metals and shape copper pots. Bread sellers roam the city with stacks of round sesame crusted bread stacked on their heads. There is something indescribably romantic about this thriving culture and a distinct connection to heritage. Wandering with your partner along the cobblestone streets of a different world has taken you through a celebrated romance that will forever charm and delight you. Your private transfer meets you at the hotel and escorts you to the airport for your flight home. The dazzling views and magnificent wonders of Turkey will be waiting for your warm return."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Turkey",
@@ -1257,7 +1271,8 @@
         "description": "You're transferred to the airport after breakfast, a thousand competing memories flashing through your mind. Ancient cities, luxury sailing, turquoise waters, coastal hikes; it's been 13 days that compel you to return."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Turkey",
@@ -1337,7 +1352,8 @@
         "description": "The Turkish cultural immersion comes to a conclusion this morning. Spend a final morning absorbing Istanbul's sensual feast then enjoy a luxury transfer to the airport and your return flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Turkey",
@@ -1412,7 +1428,8 @@
         "description": "Morning covers the city with warm light. The posh neighborhood of Cihangir sits below Taksim Square. Refurbished art deco facades line the streets. The antique district is filled with mementos of historic love stories and collections of locally made curios. The city combines the modern with historical, and celebrates the past as much as the present. After breakfast, your private transfer escorts you to the airport for your flight home. You have explored the air, land, and sea of Turkey and discovered the spirited culture and undeniable romance of its cities, shores, ruins, and landscape. Please browse the travel reviews of Turkey for trip extension ideas and to see what travelers enjoyed while in their customized trip."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Turkey",
@@ -1482,6 +1499,7 @@
         "description": "The call to prayer comes in a soft melody that drifts through the morning streets. Fresh sesame-encrusted bread rings give an enchanting doughy aroma to the air. Spread fresh strawberry jam over the warm bread and taste the sweet and fruity flavor. The day has slowed down as you enjoy your final Turkish coffee with breakfast. Soon your private transfer will meet you and escort you to the airport for your flight home. You have seen the wonder of Turkey, ventured through its marvelous history and soared about its breathtaking landscape. Each moment has been pristine and magnificent."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

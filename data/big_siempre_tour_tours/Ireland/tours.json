@@ -57,7 +57,8 @@
         "description": "Your final day on the Ireland to Island tour will not disappoint. Today you will travel through Connemara National Park on route to Ireland’s capital of culture – Galway City. Before you lose yourself on the bustling streets of Bohemian Galway, we will take a short hike on Diamond Hill in the heart of Connemara where you will be spoiled with panoramic views of the hills and valleys. In Galway, we will take a historic tour of the city, and you will have some free time to soak up the atmosphere. Street performers, live music and dance and colourful locals will keep you entertained during your stay. Sit back and relax in one of their award-winning cafés and restaurants and watch the world go by. Late afternoon you will be taken back to Dublin City armed with recommendations of places to see and things to do if you have a couple of days left in the Emerald Isle. On the journey back, over 40 shades of green, why not reminisce about your time on this best tour ever!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Ireland",
@@ -127,7 +128,8 @@
         "description": "Say goodbye to your group over one last breakfast, before heading your separate ways. Your trip comes to an end this morning. For those who wish to stay in Dublin, just chat to your booking agent ahead of time to organise additional accommodation."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Ireland",
@@ -202,7 +204,8 @@
         "description": "The shores of Corrib lake glimmer in the returning sunlight against the encircling verdant trees and grass. Horses graze in the stables as the light peeks through your window spreading over the Victorian décor of your elegant suite. At breakfast, you savor the herbaceous aroma of black tea, finding notes of cinnamon and clove emanating from your cup. You step into the car and continue to the end of your romantic road trip around Ireland, quickly reaching Galway. You have time before your flight leaves, allowing you to enjoy the bustling heart of the city at Eyre Square. The 18th-century landscape features Browne’s Gateway and a striking monument to Pádraic O’Conaire, an Irish poet who wrote in Gaelic. The 14th-century façade of Lynch Castle offers the silvery glint of preserved stone decorated with flower boxes along the windows. The castle represents the power and prestige of Galway’s Lynch family, adorned with images of gargoyles and bears. Read some of our travelers' reviews of Ireland for more inspiration to help plan your romantic getaway."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Ireland",
@@ -282,7 +285,8 @@
         "description": "At breakfast, you may once more enjoy the diverse and robust flavors of a traditional Irish breakfast as the dining room of your hotel fills with the aromas of black tea and thick bacon. When you are ready, drive to Shannon Airport to return the car rental and still have plenty of time to check-in for your flight home, bringing an end to your immersive tour of Ireland."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Ireland",
@@ -337,6 +341,7 @@
         "description": "Return to Belfast for your final night."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

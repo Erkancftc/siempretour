@@ -52,7 +52,8 @@
         "description": "Depart from Lhasa | Please make sure to verify your departure flight/train details with our guide in advance. And your guide will take you to the airport or train station. Thank you for choosing Tibet Vista, and we extend a warm welcome for your return to Tibet in the future."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Tibet",
@@ -157,7 +158,8 @@
         "description": "Lhasa - Transfer to the airport for your onward flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Tibet",
@@ -207,7 +209,8 @@
         "description": "Departure. Drive to Gongar airport, fly home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Tibet",
@@ -272,7 +275,8 @@
         "description": "Your guide and driver will take you to Lhasa's airport or train station on time for your departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Tibet",
@@ -337,7 +341,8 @@
         "description": "Depart from Lhasa | Please make sure to verify your departure flight/train details with our guide in advance. And your guide will take you to the airport or train station. Thank you for choosing Tibet Vista, and we extend a warm welcome for your return to Tibet in the future."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Tibet",
@@ -397,7 +402,8 @@
         "description": "Gyirong border to Kathmandu | After breakfast, you will say goodbye to your Tibetan tour guide and driver. Our Nepali staff at the Nepal border port will warmly welcome you, assist you in applying for a Nepal visa, and be responsible for carrying large luggage (at your own expense). We ensure a safe transfer for you to your hotel in Kathmandu with Tibet Vista’s vehicle."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Tibet",
@@ -462,7 +468,8 @@
         "description": "Lhasa Departure || The guide will transfer you to the airport or train station and help you get on board."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Tibet",
@@ -537,7 +544,8 @@
         "description": "Depart from Lhasa Please make sure to verify your departure flight/train details with our guide in advance. And your guide will take you to the airport or train station. Thank you for choosing Tibet Vista, and we extend a warm welcome for your return to Tibet in the future."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Tibet",
@@ -637,7 +645,8 @@
         "description": "You’ve marvelled at Tibetan Buddhist monasteries, gazed over the Himalaya, and ridden the highest railway line in the world, but now it’s time to begin your return journey home. Alternatively, if you’d like to extend your adventure, speak to your sales representative to discuss our large range of extension options."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Tibet",
@@ -687,7 +696,8 @@
         "description": "After breakfast, your private guide and driver will take you to the airport for your departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Tibet",
@@ -742,7 +752,8 @@
         "description": "Lhasa / Beijing : In the morning, transfer to the airport, fly to Beijing. Breakfast included. -End of the Tour-"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Tibet",
@@ -792,7 +803,8 @@
         "description": "Departure from Lhasa to airport and fly to your next destination."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Tibet",
@@ -882,7 +894,8 @@
         "description": "Departure to airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Tibet",
@@ -952,7 +965,8 @@
         "description": "Departure We will transfer you to the airport and wish you farewell."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Tibet",
@@ -1017,7 +1031,8 @@
         "description": "LHASA / HOME; Today you will have free time until your tour guide escorts you to the Lhasa train station or airport for your departing train or flight from Lhasa. This will end your tour services in Tibet. Breakfast included. -End of the Tour-"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Tibet",
@@ -1072,6 +1087,7 @@
         "description": "Home – Departure – This morning after breakfast you will be transferred to the airport in time to catch your return flight home. (Breakfast only)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   }
 ]

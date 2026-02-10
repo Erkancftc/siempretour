@@ -1,0 +1,468 @@
+[
+  {
+    "destination": "Argentina",
+    "mainPhoto": "",
+    "id": "argentina-wildlife-highlights-tour",
+    "tourName": "Argentina wildlife highlights tour",
+    "placesVisited": "",
+    "generalInfo": "Take a mesmerising journey through Argentina with our expertly curated tour, exploring the wonders of Buenos Aires, the Valdes Peninsula, the Ibera Wetlands, and the awe-inspiring Iguazu Falls. Delve into the cultural marvels of Buenos Aires, a city pulsating with a harmonious blend of European sophistication and Latin American exuberance. From the historic allure of San Telmo to the trendy ambiance of Palermo, each neighbourhood narrates a distinctive tale. <br/><br/>Journey south to the Valdes Peninsula in Northern Patagonia for an exhilarating wildlife safari. Witness the majesty of sea lions, elephant seals, and orcas in their natural habitat. Depending on the season, encounter a bustling penguin colony and keep an eye out for whales. <br/><br/>Explore the untamed beauty of the Ibera Wetlands in northeastern Argentina, a haven for diverse ecosystems. Marvel at the pristine landscapes home to capybaras, marsh deer, caimans, howler monkeys, and a plethora of bird species, creating a utopia for avid birdwatchers. <br/><br/>Conclude your Argentina experience at the magnificent Iguazu Falls, where a safari boat ride offers a close encounter with the powerful cascades. This tour seamlessly weaves cultural immersion with thrilling wildlife experiences, promising an enriching and memorable adventure through Argentina's varied landscapes.",
+    "durationDays": "12",
+    "price": "6202",
+    "image1": "images/tour-photos/India/01/01.webp",
+    "image2": "images/tour-photos/India/01/02.webp",
+    "image3": "images/tour-photos/India/01/03.webp",
+    "image4": "images/tour-photos/India/01/04.webp",
+    "image5": "images/tour-photos/India/01/05.webp",
+    "image6": "images/tour-photos/India/01/06.webp",
+    "imagealt": "",
+    "personNumber": "",
+    "dates": "",
+    "minimumAge": "",
+    "meet": "",
+    "whatExpect": "",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "",
+        "description": "ARRIVE BUENOS AIRES - Welcome to lively Buenos Aires. Upon landing at the airport, our representative awaits to transfer you to the heart of Palermo Soho. Your boutique haven, the Mine Hotel, promises a stylish retreat, ensuring a seamless transition into the vibrant atmosphere of this captivating city."
+      },
+      {
+        "dayNumber": 2,
+        "title": "",
+        "description": "BUENOS AIRES - Enjoy a half-day exploration of Buenos Aires with a knowledgeable local guide. Uncover the city's history and vibrant neighbourhoods, visiting landmarks like Plaza de Mayo, San Telmo's cobblestone streets, and the colourful La Boca. Explore the revitalised Puerto Madero and exclusive Recoleta, featuring the iconic cemetery. In the evening, indulge in a captivating tango show at El Querandi, complemented by a delightful Argentine dinner. This curated adventure seamlessly blends cultural discovery with the allure of Buenos Aires' iconic sites and the mesmerising rhythm of tango."
+      },
+      {
+        "dayNumber": 3,
+        "title": "",
+        "description": "VALDES PENINSULA - Continue your Argentinean journey with a short flight from Buenos Aires to Trelew, the gateway to the Valdes Peninsula. Upon arrival, transfer to the coastal gem of Puerto Madryn. Set along Golfo Nuevo in Northern Patagonia, Puerto Madryn delights wildlife enthusiasts. Your base, Dazzler Hotel Puerto Madryn, exudes comfort with sophisticated charm and stunning views of the pristine coastline. Experience the allure of this natural paradise as you immerse yourself in the wonders of the Valdes Peninsula, all while enjoying the unmatched hospitality of your hotel."
+      },
+      {
+        "dayNumber": 4,
+        "title": "",
+        "description": "VALDES PENINSULA - Today you will explore the UNESCO World Heritage Site of Peninsula Valdés. A one-hour drive leads to the Carlos Ameghino Visitor Centre, unveiling the unique ecosystems of this wildlife treasure. Next, discover Estancia San Lorenzo, a Patagonian sheep farm and home to the world's largest Magellan penguin colony. Enjoy a mouthwatering Patagonian lamb BBQ amid the estancia's historic charm. Witness the charismatic penguins just 4 miles away. At Punta Norte Wildlife Reserve, Southern Sea wonders unfold, with possible sightings of sea lions, elephant seals, and Orcas. As we return to Puerto Madryn, encounter diverse fauna thriving in this rugged Patagonian landscape."
+      },
+      {
+        "dayNumber": 5,
+        "title": "",
+        "description": "VALDES to IGUAZU FALLS - Journey from Trelew, via Buenos Aires, to Puerto Iguazu the gateway to the majestic falls. On arrival in Iguazu Falls, your guide will transfer you to the Mercure Iguazu Hotel Iru, your accommodation in Iguazu on the Argentinean side and nestled within the Iraypu Jungle."
+      },
+      {
+        "dayNumber": 6,
+        "title": "",
+        "description": "IGUAZU FALLS - After breakfast, depart on a journey to Iguazú National Park, a UNESCO World Heritage Site and one of the New 7 Wonders of the World, just 20 km from the city. The Upper Trail offers a breathtaking panoramic view of the Falls and the Iguazú River Delta. Immerse yourself in native flora, tune into the melodies of local birds, and perhaps catch a glimpse of caí monkeys or the lively coatis with their familial movements. Conclude the day with the Gran Aventura, a shared boat ride ensuring a close encounter with the power and beauty of Iguazu Falls. This exhilarating excursion provides various perspectives, creating lasting memories of this natural wonder that will linger in your heart."
+      },
+      {
+        "dayNumber": 7,
+        "title": "",
+        "description": "IGUAZU FALLS - Guided by a knowledgeable bird expert equipped with binoculars and a telescope, embark on a captivating jungle walk in La Lorenza to spot its emblematic birds. La Lorenza boasts a remarkable diversity, recording over 300 bird species, including the yellow-crested woodpecker, robust woodpecker, orange dancer, crested hummingbird, scarlet-breasted yacutoro, and various climbers and tanagers. Crossing the \"Tancredo Neves\" International Bridge into Brazil covers about 20 km, leading to the Park's Visitors Centre. The walkway presents a breathtaking panoramic view of the Argentine falls from a distance, meandering through lush rainforest scenery."
+      },
+      {
+        "dayNumber": 8,
+        "title": "",
+        "description": "IGUAZU to IBERA WETLANDS - Your guide awaits at your hotel for a scenic trip to Puerto Valle in the Ibera Wetlands. Traverse Argentina's lush landscapes, stopping at the UNESCO-listed Jesuitic Ruins of San Ignacio. Your haven, Puerto Valle, strategically situated in the northwest of the National Park, provides an unforgettable introduction to Iberá's natural wonders. Overlooking Laguna Valle, Puerto Valle allows private access to the pristine lagoon, offering a tranquil immersion in nature. Your stay promises an immersive encounter with wildlife, eco-friendly adventures, and the serenity of lush landscapes and pristine waters."
+      },
+      {
+        "dayNumber": 9,
+        "title": "",
+        "description": "IBERA WETLANDS - Immerse yourself in the natural wonders of Puerto Valle with a range of included activities that showcase the beauty of Esteros del Iberá, the Paraná River, and the surrounding Estancia. Whether you're cruising along the Paraná River, exploring on a captivating photo safari, paddling through serene waters on kayak trips, riding through the landscape on horseback, or venturing on a safari trip through Iberá National Park, each experience promises to connect you with the rich biodiversity of the region. Take the unique photographic opportunity to capture the magic of the red macaw reintroduction at the Cambyretá Portal. Your time at Puerto Valle is a seamless blend of exploration, adventure, and a deep connection to the natural wonders of northern Argentina."
+      },
+      {
+        "dayNumber": 11,
+        "title": "",
+        "description": "IBERA to BUENOS AIRES - After your adventures immersed in the wildlife of northern Argentina, return to Buenos Aires for your final night in this captivating city. The Mio Buenos Aires is a charming refuge away from the hustle and bustle."
+      },
+      {
+        "dayNumber": 12,
+        "title": "",
+        "description": "DEPART BUENOS AIRES - Transfer to Buenos Aires airport for you departure flight."
+      }
+    ],
+    "map": "",
+    "category": "Safari"
+  },
+  {
+    "destination": "Argentina",
+    "mainPhoto": "",
+    "id": "bah-a-bustamante-wildlife-holiday-argentina",
+    "tourName": "Bahía Bustamante wildlife holiday, Argentina",
+    "placesVisited": "",
+    "generalInfo": "You will spend a few days immersed in a unique and exclusive natural environment, enjoying the local wildlife and the vastness of the Atlantic Patagonia. <br/><br/>Bahía Bustamante Lodge is, according to The New York Times, \"Argentina's Private (and Secret) answer to The Galapagos.\" It is a Patagonian estancia surrounded by 360° of pure nature, located 300 km south of Península Valdés. On the sea, few places in the world harbor such abundance and diversity of birds and marine mammals.  It is part of the \"Patagonia Austral\" National Park and the UNESCO Biosphere Reserve \"Patagonia Azul,\" as well as being an IBA (Important Bird and Biodiversity Area).",
+    "durationDays": "5",
+    "price": "3490",
+    "image1": "images/tour-photos/India/01/01.webp",
+    "image2": "images/tour-photos/India/01/02.webp",
+    "image3": "images/tour-photos/India/01/03.webp",
+    "image4": "images/tour-photos/India/01/04.webp",
+    "image5": "images/tour-photos/India/01/05.webp",
+    "image6": "images/tour-photos/India/01/06.webp",
+    "imagealt": "",
+    "personNumber": "",
+    "dates": "",
+    "minimumAge": "",
+    "meet": "",
+    "whatExpect": "",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "",
+        "description": "You take the flight to Comodoro Rivadavia. Arrival and private transfer to Bahia Bustamante. (We can also arrange a transfer from Puerto Madryn and the Peninsula Valdés if necessary). Bahia Bustamente is private reserve on the Atlantic coast was founded in the 1950s as a seaweed harvesting establishment by Lorenzo Soriano, a Spanish immigrant, and grandfather of the generations currently running the Lodge. Previously, more than 400 seaweed harvesters and their families lived here. Bahia Bustamante was actively operating with a school, a church, a police station, a grocery store, a club, and everything a small \"pueblo\" and its inhabitants needed at the time. Staying at Bahia Bustamante Lodge also allows you to take a journey into the past and discover the life of pioneers in this isolated site in Patagonia. Here, silence is only interrupted by gusts of wind, the song of hundreds of birds, and the crashing of waves on the shore. The sea on one side and the endless steppe on the other. The Argentine flag flies behind the old Bar, the oldest building and witness of times gone by. We emphasize that at Bahia Bustamante Lodge, we preserve the essence of the place and maintain a balance with nature. The houses of the early settlers have been renovated to accommodate guests, preserving their austerity and simplicity, keeping alive the spirit of those who arrived here more than 60 years ago. At Bahia Bustamante Lodge, luxury means access to the vastness of its pure and powerful nature, and the authentic identity of its history and inhabitants. The program includes a full board (excluding drinks) and activities within the extensive property. Electricity: The Lodge has electricity from sunset to midnight, thanks to a generator. During the rest of the day, the sea houses are lit by solar panels and battery-powered lamps. Wi-Fi: The Lodge has satellite Wi-Fi service in the Restaurant, which operates for a few hours a day (we use solar energy). The service is basic and variable."
+      },
+      {
+        "dayNumber": 2,
+        "title": "",
+        "description": "Possible activities for this day: - Boat tour to discover sea lion colonies and seabird colonies; visit Isla Pingüino, just 15 minutes from the lodge, a colony of Magellanic penguins - Cabo Aristizabal, is a rocky point with imposing landscapes, views of the open sea, and hidden beaches. - Cañadón de Piedra, a vast canyon, following the path of a river (now dried up) until it reaches the ocean - Visit the petrified forest, the landscape is impressive, a lunar desert full of fossilized logs; the wood has turned into hard rock"
+      },
+      {
+        "dayNumber": 3,
+        "title": "",
+        "description": "New day to enjoy the activities included in your program at Bahia Bustamante. This reserve is a destination in itself: a marine and terrestrial paradise where you can also access extraordinary white sandy beaches, a 60-million-year-old petrified forest, and learn about the lives of the first settlers and the seaweed industry, sustainable wool production, and participate in sheep farming activities. Bahia Bustamante Lodge is perfect for trekking, cycling, horseback riding, archaeological explorations, and much more."
+      },
+      {
+        "dayNumber": 4,
+        "title": "",
+        "description": "With its many geographical features, sounds, and solitude, Bahía Bustamante Lodge is a paradise waiting to be discovered. From its magnificent white sandy beaches with crystal-clear waters, framed by intensely red rocks, to incredible lunar landscapes of vast deserts inland, it is a marine and terrestrial paradise inhabited by a great variety of birds and mammals. The schedule of exploration activities is defined daily, based on the tide table and the expected weather conditions. We suggest doing a visit of Penguins Island. Just 15 minutes from the Lodge, this island is home to a colony of Magellanic Penguins. At low tide, the island is connected to the mainland, and we cross on foot to enjoy the privilege of being surrounded by hundreds of penguins, their chicks, and nests. A unique experience! On the way, it is also common to see rheas, maras, foxes, and armadillos."
+      },
+      {
+        "dayNumber": 5,
+        "title": "",
+        "description": "Departure to the Comodoro Rivadavia Airport, on private service END OF OUR SERVICES"
+      }
+    ],
+    "map": "",
+    "category": "Safari"
+  },
+  {
+    "destination": "Argentina",
+    "mainPhoto": "",
+    "id": "northern-argentina-wildlife-and-nature-holiday",
+    "tourName": "Northern Argentina wildlife and nature holiday",
+    "placesVisited": "Salta, San Lorenzo Canyon, San Antonio De Los Cobres, El Toro Canyon, Acay Mountain Pass, El Rey National Park, Calilegua National Park, The Impenetratable National Park, La Estrella Wetlands, Iberá Wetlands",
+    "generalInfo": "During this tailor made Northern Argentina nature and wildlife holiday, you’ll get to know some of the country’s less visited regions, where wandering in wild spaces and spotting birds and animals is the main priority. You’ll explore montane and chaco habitats, and pass over Andean mountain ranges, through dense cloud forests and across marshland, all the while taking in incredible vistas. The main event here is, of course, the wildlife and there are endless opportunities for birdwatching and mammal spotting.<br/><br/>This is a private tour and will be accompanied be a full-time, bilingual certified wildlife guide, who has training and experience in conservation and animal protection. You’ll be transported in a private 4WD vehicle, and all meals, drinking water, National Park entrance fees and tours and activities as listed are included. <br/>",
+    "durationDays": "21",
+    "price": "8346",
+    "image1": "images/tour-photos/India/01/01.webp",
+    "image2": "images/tour-photos/India/01/02.webp",
+    "image3": "images/tour-photos/India/01/03.webp",
+    "image4": "images/tour-photos/India/01/04.webp",
+    "image5": "images/tour-photos/India/01/05.webp",
+    "image6": "images/tour-photos/India/01/06.webp",
+    "imagealt": "",
+    "personNumber": "",
+    "dates": "",
+    "minimumAge": "",
+    "meet": "",
+    "whatExpect": "",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "",
+        "description": "Arrive to Ezeiza Airport. Welcome to Argentina. A chauffeur will be waiting for you at Arrivals to take you to the hotel – L'hotel Palermo. Free Tango class available in the evening at hotel."
+      },
+      {
+        "dayNumber": 2,
+        "title": "",
+        "description": "Flight to Salta. Breakfast & Dinner. Transfer to AEP Airport for flight to Salta. Arrival today to Salta city in the northwest corner of the country. Located at an altitude of 1,200 m, in the heart of the Lerma valley, the city of Salta was a strategic stopping point for troops and carts traveling to the Potosí - Bolivia silver mines, more than 400 years ago. Today the colonial city of Salta has a population of over 1 million and is considered by many to be one of the most modern cities in Andean South America. On arrival in Salta we drive a short distance to San Lorenzo canyon and check-in to the picturesque Selva Montana Ecolodge, located amongst the forest clad mountain slopes. Time permitting there will be an afternoon visit to the nearby Huaico Reserve protecting a stand of pristine Cloudforest, where we spend a few hours in search of Dusky-legged Guan, Cream-backed Woodpecker and a number of forest birds, but also a few attractive mammals are possible to see here including Forest Fox and Brown Brocket-Deer. Dinner and overnight at Selva Montana Hotel."
+      },
+      {
+        "dayNumber": 3,
+        "title": "",
+        "description": "San Antonio De Los Cobres. Breakfast, Lunch & Dinner. An early start sees us driving westwards along El Toro canyon where impressive geological formations painted by diverse minerals exposed on wind-carved slopes explain why this area is a mecca for Nature photographers. We will look out for Andean Condor soaring high above, but our stops along the canyon and sided trips to nearby lagoons should also produce good views of Andean and James's Flamingos. We will spend the day in this area at an altitude of around 9,000 ft. enjoying the solitude, grandeur and intensely clear atmosphere which are characteristics of Altiplano habitat, home of domesticated llamas, wild maize and potatoes. This mostly paved winding road climbs up the Cordillera to c. 4,000 mt. where flowering tobacco bushes attract the striking Red-tailed Comet and Giant Hummingbird. We plan to undertake short hikes in idyllic surroundings in search of Mountain Vizcacha “looks like a cross between a Squirrel and Kangaroo- and the secretive Highland Tucu-tuco, but we may also come across with one of their predators such as Andean Red Fox, Pampas Cat and/or Black-chested Buzzard Eagle. Beyond the mountain pass we start travelling towards the small mining town of San Antonio de los Cobres in search of perhaps the most attractive South American camelid, the elegant Vicuna, but also Puna Rhea is a possible sighting in the area. We stay tonight at the very nice Hosteria de las Nubes in San Antonio."
+      },
+      {
+        "dayNumber": 4,
+        "title": "",
+        "description": "Acay Mount, San Lorenzo. Breakfast, Lunch & Dinner- We will spend the morning exploring the famous road 40 towards the Acay mountain pass (15,000 ft.) - one of the highest in America- enjoying dramatic scenery of high Andes peaks and deep valleys where Andean Condor soar effortlessly on the uprising thermals. Andean Red Fox is one of the likely targets for us today but we will also have good chances for Andean Deer and more Guanacos and Vicuñas. Even the rare and secretive Andean Cat inhabits this region and so we will keep a sharp eye on the barren slopes. At this high altitude the avifauna is represented by a fine selection of Sierra Finches, Earthcreepers and Miners plus the scarce Puna Tinamou and the rather tame Rufous-bellied Seedsnipe. We have chances to find perhaps a Brush-tailed Vizcacha Rat near the stone-walls, while several falcons and hawks will be spotted soaring around. Later in the afternoon we descend south and eastwards following the railroad of the famous Train to the Clouds, enjoying spectacular Andean landscape on our way back to Salta and our hotel in San Lorenzo for dinner and one night at the Selva Montana."
+      },
+      {
+        "dayNumber": 5,
+        "title": "",
+        "description": "EL Rey National Park. Breakfast, Lunch & Dinner. We have a full day excursion devoted to exploring the El Rey National Park, one of the most isolated and wild protected areas in Argentina. This Park is ringed by mountain ridges and with only one entrance. Our drive along a narrow canyon will cross several rivers where our 4 wheel drive vehicle will be put to the test! Good transitional forest dotted with a few small farms give us the chance for roadside searching where Brown Brocket Deer, Red Tegu-Lizard and Forest Rabbit can suddenly appear. Amongst the birds, Toco Toucan, King Vulture, Scaly headed Parrot, the elegant Red-legged Seriema and Gray-necked Wood Rail, must be mentioned. Once in the Park we will take leisurely walks along several good trails in search of mammals like Jaguarundi, White-lipped and/or Collared Peccaries and with a bit of luck we can even get views of the shy River Otter swimming along the streams. The isolated situation of this Park and the absence of Jaguar – exterminated by local ranchers before the creation of this protected area - offer perhaps our best chances to find the Anta (local name for Tapir) during our tour. We camp overnight here and enjoy a robust barbeque for dinner in the field."
+      },
+      {
+        "dayNumber": 6,
+        "title": "",
+        "description": "Calilegua National Park. Breakfast, Lunch & Dinner. In the early morning there will be a chance for revisiting El Rey National Park in search of any missing species, very conceivable for a good view of Tapir, but soon we will start driving northwards into Chaco habitat and proceed eastwards traversing from dry Chaco woodland into the Cloudforest across a transitional habitat that can be surprisingly productive in wildlife encounters. This will be an opportunistic day as we explore a diversity of habitats while we travel to our destination. The likely species to be seen this day along the road will include Common Hog-nosed Skunk, Southern Dwarf Cavy, Argentine Gray Fox, a couple of species of Armadillos and some of the characteristic birds of this open habitat with grasslands, spiny bushes and mesquite type woodland that will include Greater Rhea, Brushland Tinamou, Aplomado Falcon and Savanna Hawk. Our destination for today and tomorrow is the Calilegua National Park. We stay two nights in our comfortable hotel in Calilegua town near the entrance to Calilegua Park but this evening we plan to visit the Aguas Negras river where we hope to find an Ocelot or perhaps a Tayra patrolling the forest edge in search of prey such as Forest Rabbit or local snakes. These carnivores are never assured but we will certainly find and identify lots of animal tracks on the muddy shores of the river."
+      },
+      {
+        "dayNumber": 7,
+        "title": "",
+        "description": "Calilegua National Park. Breakfast, Lunch & Dinner. The Calilegua National Park encompasses 70,000 hectares of rugged country with deep valleys and vertical slopes carpeted by dense Yungas Forest, almost permanently immersed in clouds and life-giving mists during summertime. Early in the morning we plan to drive slowly along the winding road that climbs up to the highest point of the Park, enjoying amazing views of the primary Cloudforest catching the first light of the day while the activity starts in the forest with feeding flocks of colorful birds. Here we hope to find a group of Red Yungas Squirrel foraging on the Nut-trees and the confiding White-throated Antpitta grubbing among leaf debris. Golden-collared Macaw and the endangered Alder Parrot are two members of the parrot tribe that will hopefully be found as well. We spend a full day exploring the trails of the Park allowing us time to look for Brown Capuchin, Azara´s Agouti and the scarce Solitary Eagle. Dinner and overnight again at our hotel in Calilegua."
+      },
+      {
+        "dayNumber": 8,
+        "title": "",
+        "description": "Drive back to San Lorenzo, Salta. Breakfast, Lunch & Dinner. There will be an early morning visit to a small pond near Calilegua where we hope to find the shy Rufous-sided Crake but soon we start travelling southwards looking for the Yungas Cloudforest at Abra Santa Laura where we will spend the day exploring different altitudinal sections in search of Giant Antshrike, Crested Oropendola and a host of attractive Tanagers. We arrive back into San Lorenzo and organize an evening visit to the Huaico Reserve in search of the localized Montane Forest Screech-Owl. Dinner and Overnight at Selva Montana."
+      },
+      {
+        "dayNumber": 9,
+        "title": "",
+        "description": "Private Transfer & 4x4 trip from Salta to Chaco Breakfast & Dinner. You will be met by your private guide upon arrival. Overnight in Chaco."
+      },
+      {
+        "dayNumber": 10,
+        "title": "",
+        "description": "Breakfast, Lunch & Dinner We head south to La Fidelidad or The Impenetratable National Park a protected area of the nation to which they aspire formally granting the status of a national park, which is renowned for its pristine conditions and abundant wildlife. Over the next 3 days, your expert local guide will help you to explore this magnificent area. During this time we will enjoy the hospitality of local accommodation and food. The presence of numerous species of mammals has been detected; many of them are threatened, very rare or extinct in other areas. Highlights include jaguar, puma, bobcat, ocelot, maned wolf, pampa fox, mountain fox, raccoon, wolf-popé, white skunk tail , 3 species of peccaries: necklace, lipped quimelero and peccary, tapir, brocket brown, red brocket, ant bear, big bear melero, opossum, rabbit tapetí, capybara, rabbit sticks, vizcacha, guinea pigs, giant armadillo, armadillo, large mule, hairy armadillo, quirquincho ball, & black howler monkeys. At least 163 bird species have been found, highlights include some endangered such as the crowned eagle, the talking Chaco parrot, and the rhea matico. Chuña, black-footed charata, dove and duck red piebald is common. Travel from La Fidelidad in Chaco to Resistencia."
+      },
+      {
+        "dayNumber": 14,
+        "title": "",
+        "description": "Estrella Wetland, Formosa. Breakfast, Lunch & Dinner. We depart early from Resistencia and head to the province of Formosa, crossing the boundary of Rio Bermejo and enter La Estrella Wetlands. La Estrella Wetlands, together with Brazilian and Iberá wetlands (the latter in the province of Corrientes) is one of the most important ecological reservations of the continent. It is inhabited by aquatic birds, capybaras, neotropical otters, boas and yacare caimans. During the rainy season (summer) the flood produced by the Pilcomayo river creates a large lagoon that permits boat sailings. Wading birds (storks, herons and jabiru) also appeared to nest and share territory with otters, alligators, viscacha, capybaras, anteaters. The Estrella has “high” and “low” forests. Among the tree stands taller black and white carob, quebracho Colorado and Blanco, mistoles, guayacanes and white sticks are counted. While \"low\" forests are represented by species such as chañar, water primrose, vinal, the itín and cross bar. Floating plants such as water hyacinth sprouts out lining much of the water, giving it a very peculiar appearance. The Estrella is considered the third most important wetland Pantanal of South America after Brazil and the Ibera Marshes. In this world wildlife reign, black birds and alligators live, giant river capybaras, boas and anteaters, among other species. We enjoy the hospitality locals in the estancia of Fort Soledad."
+      },
+      {
+        "dayNumber": 15,
+        "title": "",
+        "description": "Estrella Wetlands, Formosa. Breakfast, Lunch & Dinner. After breakfast our guides take us by canoe into the natural maze of the Estrella. We will have exceptional opportunities to see birds and wildlife of this area. Again, we enjoy the hospitality locals in the estancia of Fort Soledad."
+      },
+      {
+        "dayNumber": 16,
+        "title": "",
+        "description": "Estrella Wetlands – Iberia Wetlands. Breakfast & Dinner. After breakfast, we head south west passing through the provinces of Formosa & Corrientes to arrive in the area known as the Iberia Wetlands. During the next 4 nights, you will have the pleasure of staying at Aguape Lodge. All meals and activities included. Aguape Lodge is placed on the coasts of the Iberá Wetlands with an overwhelming view to the marshes and the lagoon. The Iberá Wetlands are one of the most important wetlands in the world. They are second in size in South America. It is a twin ecosystem of the Pantanal de Brasil. It covers over 1.300.000has, the nature reserve occupies 14% of Corrientes. It is one of the most important water reserves in the continent. A true nature sanctuary in which you willl be able to enjoy the closeness and meekness of the animals in their own habitat. This is made possible because they are no longer threatened by men. This natural paradise is unique and it is one of the most relevant in the world, not only because of the preservation of the living creatures that inhabit the place, but also because it is one of the most important water reservoirs in the planet. For this reason, it was catalogued as a Wetland of international importance, by the RAMSAR convention held on January 2002. Inside the Reserve there are 4 species recently declared Provincial Natural Monuments: the otter, the maned wolf, the Pampas and marsh deer. It is also home to both of Argentinas caiman species, the caiman yacaré and the broad-snouted caiman. Its ornithological richness is represented by 350 types of birds. Animal Sighting tours are always fun and surprising. You can enjoy this while you canoe through the Natural Iberá Reserve, or trek along the paths in the jungle or the esteros. The limits of the lagoon are defined in large part by an extensive perimeter belt dammed. On the floating, windblown seeds are deposited; the density of the base is sufficient to grow in it, shrubs and trees. Aquatic vegetation is lush and covers large areas. Formed by beautiful plants with blue flowers, water fern or Aguape that looks a beautiful flower with violet petals of yellow bodies. ACTIVITIES: • Skilful guides to guide us in our excursions through the Iberá Natural Reserve. • Motorboat fauna sighting, trekking, horse riding, canoeing & kayak, night tours. • Long trekking with lunch and refreshments – Excellent for photographers and bird-watchers. • Tours in 4Wd vehicles in the Iberá Natural Reserve. • Outings for bird-watching and taking photographs. • Bikes for our guest to go around the Colonia Carlos Pellegrini."
+      },
+      {
+        "dayNumber": 17,
+        "title": "",
+        "description": "Aguape Lodge Breakfast, Lunch & Dinner"
+      },
+      {
+        "dayNumber": 18,
+        "title": "",
+        "description": "Aguape Lodge Breakfast, Lunch & Dinner"
+      },
+      {
+        "dayNumber": 19,
+        "title": "",
+        "description": "Aguape Lodge Breakfast, Lunch & Dinner"
+      },
+      {
+        "dayNumber": 20,
+        "title": "",
+        "description": "Aguape Lodge – Buenos Aires Breakfast Transfer in 4x4 from Lodge to Posadas Airport for flight back to Buenos Aires AEP (1600-1735). A chauffeur will be waiting to transfer you to L'hotel Palermo"
+      },
+      {
+        "dayNumber": 21,
+        "title": "",
+        "description": "Buenos Aires – Flight home. Breakfast Transfer to the International Airport to take flight home."
+      }
+    ],
+    "map": "",
+    "category": "Safari"
+  },
+  {
+    "destination": "Argentina",
+    "mainPhoto": "",
+    "id": "northern-argentina-wildlife-holiday",
+    "tourName": "Northern Argentina wildlife holiday",
+    "placesVisited": "",
+    "generalInfo": "Highlights… <br/>•\tThe remote Impenetrable National Park and its wildlife; <br/>•\tPaddle along the Bermejo River; <br/>•\t Explore the wildlife sanctuary of Bañado La Estrella on a canoe;<br/>•\tAuthentic encounters with local populations;",
+    "durationDays": "9",
+    "price": "2650",
+    "image1": "images/tour-photos/India/01/01.webp",
+    "image2": "images/tour-photos/India/01/02.webp",
+    "image3": "images/tour-photos/India/01/03.webp",
+    "image4": "images/tour-photos/India/01/04.webp",
+    "image5": "images/tour-photos/India/01/05.webp",
+    "image6": "images/tour-photos/India/01/06.webp",
+    "imagealt": "",
+    "personNumber": "",
+    "dates": "",
+    "minimumAge": "",
+    "meet": "",
+    "whatExpect": "",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "",
+        "description": "After landing in Buenos Aires, transfer to your hotel in Buenos Aires. You will have time to visit the most famous and picturesque areas of the capital city: El Caminito and San Telmo, at the origins of Tango, then Puerto Madero area, an old harbour converted into a business area. > Transport: Private Transfer ˜1h > Accommodation: hotel** (Buenos Aires) >Included meals: none > Roadbook."
+      },
+      {
+        "dayNumber": 2,
+        "title": "",
+        "description": "Today you will continue exploring Buenos Aires. In the morning, you will enjoy the parks and nice buildings of Recoleta and Palermo. In these neighbours, you will find interesting museums, as well as Plaza Francia’s craftsman fair and Tango dancers. In the afternoon, a private transfer to the airport for your flight to Resistencia, in El Chaco province. Known as the “City of Sculptures,” Resistencia is full of green spaces and more than 600 public artworks. > Transport: Private transfers to and from the airport + 1.5 h internal flight > Accommodation: Hotel ** (Buenos Aires) >Included meals: breakfast"
+      },
+      {
+        "dayNumber": 3,
+        "title": "",
+        "description": "Your driver will pick you up from your hotel and take you to the village of Fortín Lavalle, home to a small group of Qom women, an Indigenous community native to these forested lands. These weavers will welcome you and guide you on a walk through the thorny forest to gather palm fronds used in their traditional basketry, sharing stories, knowledge, and the medicinal uses of local plants along the way. In the late afternoon, you will reach the town of Miraflores, the gateway to El Impenetrable National Park. >Transport: Private transfer ˜ 5h > Accommodation: hotel** (Miraflores)> Included meals: breakfast, lunch and dinner ."
+      },
+      {
+        "dayNumber": 4,
+        "title": "",
+        "description": "Today, you’ll drive to El Impenetrable National Park. Once there, you will begin exploring all the endemic wildlife of the Chaco Forest, including large mammals like tapirs, giant anteaters, as well as an incredible birdlife. You will embark on a 15 km easy hike along the banks of Bermejito River to reach your campsite for the night, run by a local neighbours’ association (optionally you could cycle there). Finally you will be enjoying a nice dinner. You will spend the night in a comfortable tent with a camp bed, mat and sleeping bag. > Transport: private trf 60 km (unpaved) ˜ 1h40 >Accommodation: Full camping kit (tent, camp bed, mat and sleeping bag) (San Nicolas)>Guided hike ˜5h. > Included meals: breakfast, lunch, dinner."
+      },
+      {
+        "dayNumber": 5,
+        "title": "",
+        "description": "Today, you’ll return to Portal La Armonía with your guide on a kayak along the tranquil Bermejito River. Once back in La Armonía, some local artisans will welcome you into their homes to share the ancestral techniques behind their products. These artisans create handicrafts using leather, wool, ceramics, and dry wood from the forest, as well as food products made with native fruits like mistol and chañar. Another night immersed in the Chaco Forest, this time comfortably sheltered in a safari-style tent, with comfortable beds and ensuite bathroom. > Transport: Kayak ˜ 2.5h >Accommodation: Glamping (La Armonía)> Included meals: breakfast, lunch and dinner > Workshops with traditional snack ˜ 2h."
+      },
+      {
+        "dayNumber": 6,
+        "title": "",
+        "description": "Today, private transfer to La Fidelidad, on the other side of the Impenetrable National Park, along the banks of the majestic Bermejo River. You’ll be picked up at the river dock La Fidelidad to cross the Bermejo River by boat. You’ll arrive at Puerto San Jorge, on the other side of the river, located in the province of Formosa. You will then continue by vehicle to reach Fortín La Soledad. This small village is the main access to Bañado La Estrella. This wildife santuary is 65 km from the town of Las Lomitas, which is reached by a dirt road. > Transport: Private transfer 37 km (unpaved) ˜ 1h to La Fidelidad + private boat river crossing and private transfer partly unpaved ˜ 4.5h > Accommodation: Rural accomodation (Fortín La Soledad) > Included meals: breakfast, lunch and dinner."
+      },
+      {
+        "dayNumber": 7,
+        "title": "",
+        "description": "Today marks the beginning of your first visit to the Bañado, one of the largest wetlands in South America and best hidden gem of Argentina. Early in the morning, your local guide will take you on a canoe tour through this extraordinary landscape. You'll enjoy the rich and diverse wildlife: caimans, capybaras, curiyú boas, corzuelas, and over 300 species of birds. Keep an eye out for the jabiru, the largest stork in the Americas , and its impressive nests. After lunch, you will enjoy a nice nature walk with your guide from this small local indigenous community, the Pilagá ethnic group. Their mother tongue is Pilagá, and their main activity is making craftwork with vegetable fibres, carandillo, chaguar yicas, and wood. In the evening, as dusk settles over the wetlands, you'll enjoy another magical canoe ride to experience the area in a completely different light. >Accommodation: Rural accomodation >Included meals: breakfast, lunch and dinner."
+      },
+      {
+        "dayNumber": 8,
+        "title": "",
+        "description": "Today, after a nice breakfast with your host family, you will be picked up by your driver and taken to Formosa capital city for your flight back to Buenos Aires. > Transport: Private transfer ˜ 5.5h + private trf to and from the airport. > Accommodation: Hotel ** (Buneos Aires) > Included meals: breakfast"
+      },
+      {
+        "dayNumber": 9,
+        "title": "",
+        "description": "Some free time in the capital city. You will be picked up about 4 hours before your international flight back home. > Transport: private transfer to the airport > Included meals: breakfast"
+      }
+    ],
+    "map": "",
+    "category": "Safari"
+  },
+  {
+    "destination": "Argentina",
+    "mainPhoto": "",
+    "id": "patagonia-wildlife-holiday-tailormade",
+    "tourName": "Patagonia wildlife holiday, tailormade",
+    "placesVisited": "",
+    "generalInfo": "Journey deep into the rugged wilderness of Patagonia, exploring the remote and untouched gems of southern Argentina and Chile, by air, land, and sea. <br/><br/>Begin in Argentina’s vibrant capital before heading to the UNESCO World Heritage Site, Peninsula Valdes, a haven of teeming wildlife and windswept landscapes. Visit penguin colonies, spot southern right whales and immerse yourself in one of the continent’s most extraordinary natural environments.  <br/><br/>Journey to Ushuaia, the world’s southernmost city, navigate the Beagle Channel and explore Tierra del Fuego National Park. Continue to Los Glaciares National Park, where over six nights you’ll divide your time between El Calafate and El Chalten. Cross Chile’s border and end your wild Patagonia adventure in Torres del Paine National Park. Here, guided activities highlight the pristine landscapes, local culture, and conservation efforts, with the exciting possibility of spotting a puma in its natural habitat. <br/><br/>Excursions are led by expert local guides in small-group tours. Accommodation has been hand-picked by us to ensure a comfortable and enriching experience. This trip can be tailored to your interests, so let us know your preferences.",
+    "durationDays": "17",
+    "price": "7616",
+    "image1": "images/tour-photos/India/01/01.webp",
+    "image2": "images/tour-photos/India/01/02.webp",
+    "image3": "images/tour-photos/India/01/03.webp",
+    "image4": "images/tour-photos/India/01/04.webp",
+    "image5": "images/tour-photos/India/01/05.webp",
+    "image6": "images/tour-photos/India/01/06.webp",
+    "imagealt": "",
+    "personNumber": "",
+    "dates": "",
+    "minimumAge": "",
+    "meet": "",
+    "whatExpect": "",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "",
+        "description": "Buenos Aires: Arrive in Buenos Aires and private transfer to your charming boutique hotel. Spend the afternoon at leisure and explore the vibrant capital on foot and visit its best and distinct neighbourhoods including La Boca, Recoleta and Palermo."
+      },
+      {
+        "dayNumber": 2,
+        "title": "",
+        "description": "Puerto Madryn: Fly south to the windswept shores of Puerto Madryn, a lively seaside town and the gateway to Argentine Patagonia’s marine wonders. In the coming days, with a knowledgeable guide explore the UNESCO World Heritage Site of the Peninsula Valdes, one of the world’s premier destinations for wildlife watching. Depending on the season, marvel at southern right whales, wander among the world’s largest Magellanic penguin reserve, observe colonies of elephant seals and seal lions and watch out for roaming guanacos, foxes, and armadillos along the way."
+      },
+      {
+        "dayNumber": 5,
+        "title": "",
+        "description": "Ushuaia: Fly to the end of the world and spend three nights in Ushuaia, nestled between snow-capped mountains and the Beagle Channel, a stay here offers a mix of dramatic landscapes and adventure. Spend a half day navigation on the Beagle Channel and observe colonies of South American sea lions, see the Les Eclaireurs Lighthouse, and listen to the history of the native inhabitants, the Yamanas."
+      },
+      {
+        "dayNumber": 8,
+        "title": "",
+        "description": "El Chalten: Journey north to El Calafate and take a scenic bus to the mountain village of El Chalten, located in Los Glaciares National Park. Known as Argentina’s trekking capital, El Chalten is the gateway to some of Patagonia’s most breath taking wilderness. Your time here is at leisure to explore the network of well-marked trails, ranging from gentle walks to more challenging hikes. Each trail offers dramatic views of glaciers, lakes, jagged peaks and lenga forests."
+      },
+      {
+        "dayNumber": 11,
+        "title": "",
+        "description": "El Calafate: Take the comfortable shared bus to El Calafate and spend three nights in this charming town, gateway to the Southern Patagonia Ice Field. During your stay, delve into Patagonia’s cultural past on a half-day excursion, tracing the stories of early explorers and their encounters with the native Tehueleche people. The next, venture off-the-beaten path on a full-day tour to Estancia Cristina and marvel at the natural wonder of the Upsala Glacier. Sail across Lago Argentino past ice floes and giant bergs and experience a true isolated Patagonia experience."
+      },
+      {
+        "dayNumber": 14,
+        "title": "",
+        "description": "Torres del Paine: Cross the border into Chile and transfer to your estancia lodge in Torres del Paine, Chilean Patagonia’s largest working estancia. Here, the preservation of local wildlife and celebration of Patagonian traditions lie at the heart of daily life. During your stay, all meals and activities are included where you can immerse yourself in the epic landscapes of the national park on horseback or on foot and discover the estancia’s inspiring conservation philosophy. A highlight of your visit includes a half-day conservation safari with the Cerro Guido Foundation. Learn about the pioneering efforts to protect Patagonia’s ecosystem and witness the elusive puma roaming freely in its natural habitat."
+      },
+      {
+        "dayNumber": 17,
+        "title": "",
+        "description": "Santiago: Say goodbye to Patagonia and fly north to Santiago, where you’ll spend one final night before heading home. If you would like to make the most of your time in the capital, we can arrange a guided city tour or recommend some wonderful places to eat- just let us know your preferences."
+      }
+    ],
+    "map": "",
+    "category": "Safari"
+  },
+  {
+    "destination": "Argentina",
+    "mainPhoto": "",
+    "id": "south-america-big-cat-expedition",
+    "tourName": "South America big cat expedition",
+    "placesVisited": "",
+    "generalInfo": "Elusive pumas and majestic jaguars await on this immersive journey into the wild beauty of South America. This adventure promises an unforgettable blend of thrilling wildlife encounters and breathtaking scenery, crafting enduring memories. <br/><br/>The expedition commences in Cuiabá, serving as the gateway to the UNESCO World Heritage and Biosphere Reserve of the Pantanal. A scenic drive leads to the Araras Eco Lodge, a haven that offers traditional accommodation and immersion into the natural world. <br/><br/>Delve into the mysteries of the elusive jaguars on the exhilarating Jaguar Express tour, navigating the Cuiabá River. Explore the Pantanal wilderness on horseback, embark on safari trips for intimate wildlife encounters, and witness fiery sunsets that paint the horizon as your adventure unfolds.  <br/><br/>Travel south to Parque Patagonia, where the majestic pumas command attention. Observe the graceful flight of Andean condors and acquaint yourself with unique species found exclusively in this corner of the world. Explore Patagonia's grand landscapes, creating a journey that immerses you in the heart of South America's untamed wonders.",
+    "durationDays": "12",
+    "price": "7095",
+    "image1": "images/tour-photos/India/01/01.webp",
+    "image2": "images/tour-photos/India/01/02.webp",
+    "image3": "images/tour-photos/India/01/03.webp",
+    "image4": "images/tour-photos/India/01/04.webp",
+    "image5": "images/tour-photos/India/01/05.webp",
+    "image6": "images/tour-photos/India/01/06.webp",
+    "imagealt": "",
+    "personNumber": "",
+    "dates": "",
+    "minimumAge": "",
+    "meet": "",
+    "whatExpect": "",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "",
+        "description": "ARRIVE CUIABA - Upon arrival at Cuiabá Airport, you will be transferred to the comfortable Deville Prime Cuiabá hotel. The remainder of the day is yours to unwind and relax."
+      },
+      {
+        "dayNumber": 2,
+        "title": "",
+        "description": "NORTH PANTANAL - Following breakfast, depart on a picturesque 3-hour transfer to the enchanting Araras Eco Lodge, a tranquil haven in the Pantanal, an UNESCO World Heritage and Biosphere Reserve. Along the way, revel in the scenery of this wildlife sanctuary, abundant flora, and diverse fauna. Upon arrival, a warm check-in awaits at the self-sustainable Araras Eco Lodge, complemented by a welcome drink. In the afternoon, an invigorating hike to Mirante da Garça promises a breathtaking sunset panorama. After dinner, enjoy a stargazing trek, to the backdrop of the sounds of the Pantanal at night."
+      },
+      {
+        "dayNumber": 3,
+        "title": "",
+        "description": "JAGUAR WATCHING - Following breakfast, depart on a scenic journey towards the Cuiabá River at the culmination of the Transpantaneira, a 115km route taking approximately 2.5 hours. Board one of our boats for an immersive 6-hour river safari, dedicated to spotting the elusive and revered Jaguar. Traverse the Cuiabá River and the Meeting of the Waters State Park exploring the habitat of this magnificent predator. The jaguar, the world's third-largest feline, possesses a unique hunting technique—delivering a skull-biting bite that instantly paralyzes its prey. Lunch will be a box meal from the lodge, ensuring you don't miss this extraordinary opportunity to encounter this majestic creature."
+      },
+      {
+        "dayNumber": 4,
+        "title": "",
+        "description": "HORSE RIDING - Take to the saddle for a morning horseback ride, immersing yourself in the Pantanal's diverse landscape, including areas of the plain which are flooded. The Pantaneiro horses, known for their docility, have adapted over centuries to feed with their noses submerged under water. In this region, these horses are the Pantaneiros' steadfast companions, joining them in both work and leisure. After this exploration, return to the lodge for lunch. In the afternoon, enjoy a trek along the Rondon Trail leading to the 13-metre-high Jabiru Stork Tower, providing a unique vantage point to observe a Jabiru Stork nest in its natural habitat."
+      },
+      {
+        "dayNumber": 5,
+        "title": "",
+        "description": "SAFARI & WILDLIFE EXPEDITION In the morning take a guided stroll along the Ronco Trail, where the captivating wildlife and panoramic landscapes unfold before returning via a safari truck, adding a touch of adventure to your exploration. In the afternoon, join a photo safari along the Transpantaneira Park Road. Encounter howler monkeys, macaws, Pantanal deer and orange chinchillas among the myriad of species awaiting discovery. Replenish your energy with lunch at the pousada. As the sun sets, engage in a lively discussion with your knowledgeable guide, sharing stories of the remarkable animals encountered during the safari."
+      },
+      {
+        "dayNumber": 6,
+        "title": "",
+        "description": "Regular transfer to Cuiabá Airport for your flight to Buenos Aires via Sao Paulo. On arrival you will be welcomed and taken by a private transfer to your hotel, Legado Mitico Hotel, Buenos Aires where you will spend one night."
+      },
+      {
+        "dayNumber": 7,
+        "title": "",
+        "description": "PATAGONIA - After breakfast, transfer to the airport for your flight to Patagonia, arriving at Comodoro Rivadavia airport. Private transfer to your hotel La Posta de los Toldos, where you will spend 4 nights."
+      },
+      {
+        "dayNumber": 8,
+        "title": "",
+        "description": "PATAGONIA PUMAS - Commence your day with an early breakfast, capturing the sunrise at the Badlands viewpoint in El Canadon del Feo. This guided expedition, uses private transportation to reach the premier wildlife observation site, dedicated to encountering Patagonia's apex predator, the puma. As the sun sets, venture on a captivating night walk to the Star Observatory, guided by the warmth of heat banks and rocket stoves. This setting provides an ideal opportunity for thrilling night photography amidst the enchanting Patagonian landscape."
+      },
+      {
+        "dayNumber": 9,
+        "title": "",
+        "description": "PATAGONIA PUMAS & CONDORS - Rise at 7 am for a hearty breakfast, before a local guide leads you to prime wildlife observation spots, with a chance to spot the elusive puma and majestic Andean Condor. Conclude your day with the captivating sunset at Los Balcones in Cañadón del Río Pinturas, providing a panoramic view of Cueva de Las Manos. Engage in the quest for the unique Chinchillón Anaranjado, an endemic species, amidst this breathtaking natural setting."
+      },
+      {
+        "dayNumber": 10,
+        "title": "",
+        "description": "PATAGONIA CONDORS – Another early start for sunrise from the Andean Condor's vantage point. Witness these majestic birds soaring at mere 50-metre altitudes, offering a remarkable spectacle for photographers. Capture the world's largest flying bird against the scenic backdrop of Cañadón del Río Pinturas. Following breakfast at the hotel, embark on another thrilling wildlife expedition led by an expert guide, utilising private transportation to enhance the encounter with the diverse fauna of the region."
+      },
+      {
+        "dayNumber": 11,
+        "title": "",
+        "description": "BUENOS AIRES - After breakfast, transfer to Comodoro Rivadavia airport for your flight to Buenos Aires. Upon arrival there will be private transfer waiting to take you to Legado Mitico in the Palermo Soho neighbourhood for your final night"
+      },
+      {
+        "dayNumber": 12,
+        "title": "",
+        "description": "DEPART BUENOS AIRES - Transfer to the airport for your departure flight or perhaps you may wish to extend your stay in South America and discover more destinations."
+      }
+    ],
+    "map": "",
+    "category": "Safari"
+  }
+]

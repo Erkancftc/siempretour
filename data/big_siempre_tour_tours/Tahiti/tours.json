@@ -82,7 +82,8 @@
         "description": "After breakfast, your private transfer will meet you at the resort lobby and escort you to the airport for your return to Faa’a International Airport in Tahiti. Here, you will have plenty of time to connect with your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Tahiti",
@@ -167,7 +168,8 @@
         "description": "The morning may shed light over the secret caves and swimming holes around the island. Locals and visitors often head to Upolu to make their way to the Piula Cave Pools to enjoy the refreshing blue and green waters teeming with fish within the grottoes. Waves roll over the white beaches. A 10-foot long underwater passage connects the two pools and natural slides allow visitors to glide down the smooth, gradual grade into the waters below. You may have time for one last adventure before meeting your private transfer at the hotel traveling to Faleolo International Airport in Apia. You have followed in Moana's path, enjoyed the spirit of adventure, and can embrace one more journey on your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Tahiti",
@@ -242,7 +244,8 @@
         "description": "After breakfast, your private transfer will meet you in the hotel lobby and escort you to Papeete’s international airport with plenty of time to board your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Tahiti",
@@ -327,7 +330,8 @@
         "description": "The scent of fresh and frothy cappuccino overtakes the sweet coconut aroma on your final morning in Tahiti. The nearly 340 acres of botanic gardens create a tranquil, secluded inland escape from the lapping waters and black-sand shores around Tahiti. Banyan and palm trees shade the walking paths, grapefruits dangle from the canopy, and ponds trickle against the pebbled banks. The history of French Polynesia, along with the culture of island life, is on display in the Tahiti and Islands Museum in Papeete overlooking the west coast. The galleries present images of the geography, natural history, and a view to the surfers gliding across the waves around one of the island’s most popular surf destinations. After breakfast, your private transfer greets you at the hotel and escorts you to Faaa International Airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Tahiti",
@@ -387,7 +391,8 @@
         "description": "At breakfast, you will find the sweet scent of vanilla as it fills the air. After breakfast, your private driver will transfer you to Tahiti’s Faa’a Airport, where you will make the connection to your outbound flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Tahiti",
@@ -452,7 +457,8 @@
         "description": "In the morning, the pearl market on Bora Bora opens its doors. After a delicious breakfast, your private transfer will greet you at your resort and escort you to the Bora Bora Airport for your return flight to Tahiti, where you will connect with your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Tahiti",
@@ -517,7 +523,8 @@
         "description": "The InterContinental Bora Bora Resort & Thalasso Spa is conveniently located for your international departure. After breakfast and a late checkout, it is just a short boat transfer to the airport and your Air Tahiti flight from Bora Bora back to Papeete. Here you will be assisted by a representative and transferred onto your outbound flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Tahiti",
@@ -577,7 +584,8 @@
         "description": "Lie in, take a late breakfast and do not worry about the checking out time. This is Bora Bora, where the atmosphere is much slower than it is at home. You will depart later today but enjoy full use of your villa and the resort’s facilities until departure. It will be a short transfer to the center of the island to meet your onward flight, with the views from the plane window showcasing just how far removed you have been from the world."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Tahiti",
@@ -637,7 +645,8 @@
         "description": "At breakfast, you will find the scent of coconut milk will compliment the aroma of freshly brewed coffee. The flavors marry well together amidst the vibrant hues of dragon fruit, mango, and papaya that decorate your plate. Nearby, beachgoers lay blankets over the white sands of Taahiamanu Beach and bask in the tropical sunlight while the coral reef glows in the water with gorgeous, arching branches and curious tropical fish that help keep the waves small and gentle. After one last leisurely morning, your private transfer will greet you in the lobby and escort you to the Moorea Airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Tahiti",
@@ -732,6 +741,7 @@
         "description": "In the morning, you will enjoy the service of breakfast as it is delivered to your room for one last time. The scent of vanilla will be seductive and inescapable in the early light, and your private transfer will meet you in the lobby. Shortly, you will return to the island of Raiatea by boat before flying to Tahiti. You will have plenty of time to connect with your flight home once at the airport in Tahiti."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   }
 ]

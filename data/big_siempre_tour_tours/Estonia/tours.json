@@ -57,7 +57,8 @@
         "description": "Return to Tallinn for a guided photography walk through the city’s medieval old town, where cobbled streets, historic facades, and soft Baltic light offer rich opportunities for architectural and street photography. Enjoy a relaxed farewell lunch with the group before airport transfers or your optional extra night in Tallinn."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Estonia",
@@ -107,6 +108,7 @@
         "description": "Your final morning in Tallinn begins slowly — with the rustle of Old Town streets below, the scent of fresh coffee, and perhaps one last stroll through the quiet courtyards before the world fully wakes. Your private transfer awaits to bring you to the airport at your preferred time. Though the tour ends today, Estonia leaves a mark: the stillness of the bogs, the rustling forest where the bear appeared, the golden light over manor rooftops, and the feeling that time — at least for a little while — slowed just for you."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   }
 ]

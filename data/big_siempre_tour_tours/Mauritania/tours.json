@@ -67,7 +67,8 @@
         "description": "Atar – Nouakchott After breakfast, visit Atar’s vibrant market before departing on a 4.5-hour drive to Nouakchott. Enjoy a seafood lunch by the ocean, followed by visits to the fish market and artisan stalls. If time permits, we’ll visit Mosqué Saudique. Later in the day, return to a hotel in Nouakchott for use of a day room to freshen up before your airport transfer. Flights should be booked to depart after 18:00. (BL) End of tour."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Mauritania",
@@ -157,7 +158,8 @@
         "description": "Nouakchott - A long drive from southern Mauritania back to the capital Nouakchott, arriving in the morning of Day 21. Here our adventure ends, and after a chance to visit the colourful fish market, shower off the desert dust and transfer to the airport for your flight home. Overnight camping. (BLD)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Mauritania",
@@ -232,6 +234,7 @@
         "description": "Nouakchott - After breakfast we drive back to the capital. There will be time to explore the fishermen’s beach and market, a vibrant area with boats landing on the beach with their catches, before transferring to the airport for your flight home. (BL)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

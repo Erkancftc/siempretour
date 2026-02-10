@@ -52,7 +52,8 @@
         "description": "Arrive London"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Mozambique",
@@ -187,7 +188,8 @@
         "description": "As there are no further activities planned today, your South African adventure comes to an end after breakfast. If you’d like to stay longer (and it’s recommended you do) just speak to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Mozambique",
@@ -262,7 +264,8 @@
         "description": "Transfer back to Nampula Airport in time to connect with your flight to Johannesburg, which will in turn connect with your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Mozambique",
@@ -297,7 +300,8 @@
         "description": "A leisurely breakfast and road transfer (approx 4 hours) to Vilanculos for your return flight to Johannesburg. NB there is also the local Inhambane Airport (approx 30 mins) but the scheduled arrival time at Johannesburg OR Tambo International Airport is 18:30 and depending on departure day, there are one or two stop-overs (ie. Maputo or Vilanculos and Maputo)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Mozambique",
@@ -377,7 +381,8 @@
         "description": "Maputo - Transfer to the airport for our flight home. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Mozambique",
@@ -432,7 +437,8 @@
         "description": "JOHANNESBURG: Our final day on tour starts with an exciting game walk. We explore the private game reserve on foot with our rangers. While the opportunity to see big game exists our guides will also take the time to interpret the tracks and signs of the African bush. We head back to the lodge for brunch before we return to Johannesburg in the evening, sun-tanned, laid-back and ready to rejoin life. Tour ends at 18:00 at the hotel. [ - B - -]"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Mozambique",
@@ -487,6 +493,7 @@
         "description": "Depart Mozambique - Enjoy a relaxing final morning at your accommodation. When it’s time to leave, you will be transferred to Vilanculos Airport for your international flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   }
 ]

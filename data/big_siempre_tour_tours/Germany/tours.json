@@ -57,7 +57,8 @@
         "description": "Departure (or individual extension). Explore Munich on our city tour and enjoy its international atmosphere and the many genuine Bavarian locations and in town. Transfer to Munich Airport for your departure flight"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Germany",
@@ -162,7 +163,8 @@
         "description": "From the character of Berlin to the charm of Bavaria, this tour of Germany was designed to introduce you to what is best in every region you passed through, including history, art, architecture, and food. As you enjoy your final German breakfast of this tour, you will be impressed that so much beauty can be packed into this vibrant country. When you are ready, a private transfer will convey you to the nearby airport for your return flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Germany",
@@ -237,6 +239,7 @@
         "description": "In the morning, you can return to Salzburg to enjoy the flavorful coffee and storybook views. The tunes to famous songs from the Sound of Music are intertwined with Mozart’s compositions. If you choose to stay in Berchtesgaden, you can spend time exploring the salt mines that are known for glowing grottos and a 328-foot long subterranean lake. After your time exploring the Bavarian Alps, you will return to Munich Airport when you are ready with plenty of time to connect for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

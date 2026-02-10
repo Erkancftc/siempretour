@@ -67,7 +67,8 @@
         "description": "As there are no further activities planned, your trip comes to an end today. If you’d like to stay longer, just speak to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Georgia",
@@ -117,6 +118,7 @@
         "description": "Tbilisi – Departure from Georgia - At the appropriate time, transfer to the airport for your onward flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

@@ -102,7 +102,8 @@
         "description": "Freetown & Departure - Explore Freetown’s rich history and Krio heritage before taking the ferry to Lungi for your departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Guinea",
@@ -187,7 +188,8 @@
         "description": "Freetown - Lungi - Explore the city visiting its lively markets and seeing examples of old colonial architecture. Finally transfer back to Lungi for your flight home. (BL)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Guinea",
@@ -252,7 +254,8 @@
         "description": "Bissau Departure - You will be transferred to the airport for your departure flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Guinea",
@@ -347,7 +350,8 @@
         "description": "Bissau Departure - You will be transferred to Bissau’s airport for your departure. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Guinea",
@@ -427,7 +431,8 @@
         "description": "Bissau - Return to the capital Bissau, where we have time for a quick look around the lively old quarter, with its traditional Portuguese architecture, before having dinner and transferring to the airport for your onward flight. (BL)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Guinea",
@@ -542,6 +547,7 @@
         "description": "Bissau - Leaving the islands behind we return to the mainland. In Bissau we have time for a quick look around the city before having lunch and transferring to the airport for your onward flight. (BL)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

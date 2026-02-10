@@ -1,0 +1,38 @@
+[
+  {
+    "destination": "Mauritius",
+    "mainPhoto": "",
+    "id": "south-africa-safari-and-mauritius-beach-holiday",
+    "tourName": "South Africa safari and Mauritius beach holiday",
+    "placesVisited": "Kruger National Park, Game drives, Big Five, Lodge with pool overlooking waterhole, Optional activities in Mauritius: non-motorised watersports, diving, fishing, snorkelling, tennis",
+    "generalInfo": "This trip offers a luxurious combination of wildlife safari with sun-kissed relaxation on the beaches of a beguiling tropical paradise island that's also a fascinating cultural melting pot. <br/><br/>Begin with three nights in the world-renowned Kruger National Park, where days offer game drives, bush walks and river trips to encounter wildlife including lions and leopards, elephants and giraffes - plus a chance to share drinking time with the wildlife as you laze in a pool overlooking a waterhole where the animals gather, or just sit around a fire with an al fresco aperitif. <br/><br/>The rest of your trip is spent on Mauritius, an engaging Indian Ocean Eden where tropical beaches are complemented by a rich and harmonious cultural mix drawing together African, Chinese and Indian influences with British and French colonial history, ranging from exotic temples to characterful plantation houses. Ravishing nature, meanwhile, ranges from the rainforests, waterfalls and hiking trails of the Black River Gorges National Park to the gorgeous 18th-century Sir Seewoosagur Ramgoolam Botanical Gardens in the colourful capital Port Louis.  <br/><br/>Best time to go <br/>South Africa is a large country and has diverse climatic regions, but in general the weather is sunny and hot in the summer months (December to April) and mild during winter (May to November). Game viewing is at its best in September-October.<br/><br/>Mauritius is warm and sunny year round, with minimum temperatures around 25C. Rainy season is from January – March.",
+    "durationDays": "15",
+    "price": "4950",
+    "image1": "images/tour-photos/India/01/01.webp",
+    "image2": "images/tour-photos/India/01/02.webp",
+    "image3": "images/tour-photos/India/01/03.webp",
+    "image4": "images/tour-photos/India/01/04.webp",
+    "image5": "images/tour-photos/India/01/05.webp",
+    "image6": "images/tour-photos/India/01/06.webp",
+    "imagealt": "",
+    "personNumber": "",
+    "dates": "",
+    "minimumAge": "",
+    "meet": "",
+    "whatExpect": "",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "",
+        "description": "Johannesburg. Overnight flight from London to Johannesburg"
+      },
+      {
+        "dayNumber": 15,
+        "title": "",
+        "description": "Return home. Take a return flight from Johannesburg to London."
+      }
+    ],
+    "map": "",
+    "category": "Safari"
+  }
+]

@@ -72,7 +72,8 @@
         "description": "Transfer to Yangon International Airport for your departure flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Burma",
@@ -132,7 +133,8 @@
         "description": "Siem Reap Departure"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Burma",
@@ -207,7 +209,8 @@
         "description": "Yangon - Transfer to the airport for departure. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Burma",
@@ -302,7 +305,8 @@
         "description": "NGWE SAUNG BEACH – YANGON (BY CAR)/ YANGON DEPARTURE : After breakfast, meet your car and driver at hotel lobby. Drive back to Yangon. Upon arrival, transfer to airport for departure. (Remark : Your departure flight should be in the evening.)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Burma",
@@ -397,7 +401,8 @@
         "description": "INLE LAKE - HEHO - YANGON (BY AM FLIGHT) / DEPART YANGON : After breakfast, transfer to Heho airport (25km - 1 hour). Flight to Yangon. Leaving Myanmar according to your departure flight time. Remark – Your departure flight should not be early than 14.00."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Burma",
@@ -447,7 +452,8 @@
         "description": "Yangon Departure"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Burma",
@@ -507,7 +513,8 @@
         "description": "Yangon Departure"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Burma",
@@ -577,7 +584,8 @@
         "description": "Departure"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Burma",
@@ -672,7 +680,8 @@
         "description": "Yangon departure"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Burma",
@@ -772,7 +781,8 @@
         "description": "Yangon Departure"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Burma",
@@ -862,6 +872,7 @@
         "description": "LUANG PRABANG DEPARTURE After breakfast, free time until your transfer to the airport for your departure flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

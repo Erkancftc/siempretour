@@ -67,7 +67,8 @@
         "description": "Your adventure comes to an end after breakfast this morning. If you want to spend some more time in Santorini, just speak to your booking agent to organise additional accommodation."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Greece",
@@ -112,7 +113,8 @@
         "description": "Departure: After breakfast, take a ferry back to Piraeus."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Greece",
@@ -182,7 +184,8 @@
         "description": "After breakfast, your private driver will transfer you to your accommodation for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Greece",
@@ -257,6 +260,7 @@
         "description": "After breakfast, your guide will transfer you to the airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   }
 ]

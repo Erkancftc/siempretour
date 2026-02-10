@@ -102,7 +102,8 @@
         "description": ": The trip ends after breakfast at our hotel in Bucharest. There are no activities planned today, so you're free to depart from Bucharest at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from Bucharest Henri Coanda International Airport (OTP), which is around a 30-minute drive from the city centre."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Serbia",
@@ -167,6 +168,7 @@
         "description": "Departure"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   }
 ]

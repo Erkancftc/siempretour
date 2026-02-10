@@ -42,7 +42,8 @@
         "description": "Enjoy the day free to explore the national park and soak up the midnight sun. Choose from numerous hiking trails and enjoy the inclusive Abisko chair lift to enjoy great views and further hiking opportunities. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Lapland",
@@ -92,6 +93,7 @@
         "description": "This morning is at leisure until you are transferred back to Kiruna airport for the flight back to the UK. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Polar"
   }
 ]

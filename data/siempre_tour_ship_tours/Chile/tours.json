@@ -1,0 +1,53 @@
+[
+  {
+    "destination": "Chile",
+    "mainPhoto": "",
+    "id": "chilean-fjords-small-ship-cruise-kaweskar-route",
+    "tourName": "Chilean Fjords small ship cruise, Kaweskar Route",
+    "placesVisited": "",
+    "generalInfo": "Join a 4-night, 5-day sea voyage to the Southern Patagonian Ice Field following the Kaweskar route, sailing 505 miles to visit the largest number of glaciers in this region: Guilliard, Amalia, El Brujo (the Warlock), and the glaciers of Calvo, and Montanas fjords.<br/><br/>We will visit some 15 glaciers where we will offer activities such as sightseeing, walks to the glacier front and moraines, and navigating between coloured icebergs in expedition boats such as Capitán Constantino (Captain Constantine). We will also keep an eye out for the varied flora and fauna of Patagonia, still in a wild and virgin state, such as the elephant seals in the Guardramiro fjord, condors, dolphins, sea lions and penguins.<br/><br/>Sett sail aboard the MS Skorpios III from mid October to mid April from the Skorpios Terminal in the city of Puerto Natales, located 2,500 km south of Santiago, which can be accessed by air from Punta Arenas or by land from Argentina.",
+    "durationDays": "5",
+    "price": "2159",
+    "image1": "images/tour-photos/India/01/01.webp",
+    "image2": "images/tour-photos/India/01/02.webp",
+    "image3": "images/tour-photos/India/01/03.webp",
+    "image4": "images/tour-photos/India/01/04.webp",
+    "image5": "images/tour-photos/India/01/05.webp",
+    "image6": "images/tour-photos/India/01/06.webp",
+    "imagealt": "",
+    "personNumber": "",
+    "dates": "",
+    "minimumAge": "",
+    "meet": "",
+    "whatExpect": "",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "",
+        "description": "Embarkation and Caleta Juarez Day 1: Embarkation 09:30 - 11:00. Departure from Skorpios terminal at 1300. Ship safety talk at 14:00. Lunch. Navigation in the Almirante Montt Gulf. 16:30. Arrival at Caleta Juarez in Guardramiro Fjord and disembark on boats to see up close a colony of elephant seals. 1800. Departure, crossing Kirke narrows, Morla Vicuna, Union, Collingwood, and Sarmiento channels. NB Important: On April 2026 the departures are going to be at 12:00pm and the boarding time at 11:00am and the start of boarding is at 08:30 - 10:00am, due to the official time change in Chile."
+      },
+      {
+        "dayNumber": 2,
+        "title": "",
+        "description": "Fjords and glaciers Sailing north through Pitt Channel. Chatam Island is visible on the port side. 08:45 Entry into Guillard Fjord. Sailing through the interior of the fjord to Guillard Glacier. Disembark at the glacier and hike around the area, depending on tidal conditions. 11:30 a.m. Set sail south. Arriving at Amalia Glacier, boat rides in the bay of this wonderful place. Conditions permitting, we will disembark, as this glacier is constantly moving and has altered its beach and surroundings."
+      },
+      {
+        "dayNumber": 3,
+        "title": "",
+        "description": "Fjords and glaciers Arriving at El Brujo Glacier. Weather and ice conditions permitting, you can descend to admire this glacier from a nearby rock. You will then set sail for the spectacular Calvo Fjord. At Calvo Fjord, you will take an excursion on a boat which suitable for sailing among the ice, called the Captain Constantine, visiting the Fernando, Captain Constantine, and Alipio glaciers, among others. Set sail for the Mountains Fjord."
+      },
+      {
+        "dayNumber": 4,
+        "title": "",
+        "description": "Exploration, hiking and farewell dinner Today you will visit to the Fjord of the Mountains, where you can observe four glaciers descending from the Sarmiento Mountain Range to the sea, two of which are included in our logbook. Visit to the Alsina Glacier, disembarkation on exploration boats to explore this small bay and appreciate the beauty of this glacier and the enormous mountains that surround it. After returning to the boat, and continue sailing through the Fjord of the Mountains toward the Bernal Glacier where you will disembark. We begin a hike through a small native forest and along a trail that crosses a small lagoon of glacial water. We continue the hike over the frontal and lateral moraines until we reach the front of the glacier. From here, we will have the opportunity to touch some ice and witness the retreat of a glacier that no longer reaches the sea. Whilst you do this the ship is being replenished with pure, natural water from a waterfall, this water is consumed on board for all ship services. We set sail through the Fjord of the Mountains, where we will see the Herman and Zamudio glaciers. Cross the Angostura White. This evening you will have a farewell party, Captain's dinner, and dancing. Sailing through the Gulf of Almirante Montt."
+      },
+      {
+        "dayNumber": 5,
+        "title": "",
+        "description": "Disembark Puerto Natales Arrival in Puerto Natales. Depending on wind conditions, you will dock at the Skorpios Terminal in Puerto Natales by 07:00 with disembarkation between 0800 and 0930."
+      }
+    ],
+    "map": "",
+    "category": "Ship/Cruise"
+  }
+]

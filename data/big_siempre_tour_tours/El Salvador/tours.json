@@ -72,7 +72,8 @@
         "description": "RUTA DE LA FLORES: APANECA (FINCA ALBANIA) TO NAHUIZALCO AND TRANSFER TO AIRPORT FOR DEPARTURE FLIGHT - Pickup from hotel this morning. Visit the colourful mountain towns of Apaneca and Nahuizalco, both celebrated for their vibrant murals, local crafts, and refreshing highland climate. In Apaneca, stop at Albania Farm to experience a touch of adventure—try ziplining or the unique bike zipline, or simply relax with a cup of freshly brewed high-altitude coffee. Continue to Nahuizalco, a town rich in Indigenous heritage, renowned for its handmade crafts and traditional candlelit evening market. Conclude your journey with a transfer to San Salvador International Airport, a drive of approx. 3 hours. Check in at the airport for your departure flight home. (Meals - Breakfast)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "El Salvador",
@@ -147,7 +148,8 @@
         "description": "HEAD FROM JIQUILISCO BAY TO SAN SALVADOR AIRPORT .....OR STAY A BIT LONGER!!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "El Salvador",
@@ -227,7 +229,8 @@
         "description": ": The trip ends after breakfast this morning in La Libertad. There are no activities planned today, so you're free to depart from La Libertad at any time. If you'd like an airport transfer today, you'll need to depart from El Salvador International Airport (SAL), which is a one-hour drive from our hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "El Salvador",
@@ -347,6 +350,7 @@
         "description": "Managua - Transfer to the airport for your flight home. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

@@ -67,7 +67,8 @@
         "description": "HOMEWARD FLIGHTS – After breakfast we transfer to Vágar airport for homeward flights a journey of 45 minutes. If you would like to stay on for a night or two please enquire at the time of booking. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Faroe Islands",
@@ -132,6 +133,7 @@
         "description": "Return the hire car to the airport and take the flight back to the UK. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

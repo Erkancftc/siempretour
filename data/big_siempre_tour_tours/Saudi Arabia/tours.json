@@ -57,7 +57,8 @@
         "description": "Departure • Breakfast at hotel • Airport transfer for departure"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Saudi Arabia",
@@ -102,7 +103,8 @@
         "description": "Departure from AlUla After breakfast, you will be transferred to AlUla Airport for your departure flight. Meals: Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Saudi Arabia",
@@ -157,7 +159,8 @@
         "description": "Departure from AlUla After breakfast, you will be transferred to AlUla Airport for your departure flight. Meals: Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Saudi Arabia",
@@ -181,7 +184,8 @@
     "meet": "",
     "whatExpect": "",
     "dayInfo": [],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Saudi Arabia",
@@ -226,7 +230,8 @@
         "description": "Jeddah • Breakfast at hotel • Hotel check out • Airport drop-off"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Saudi Arabia",
@@ -286,7 +291,8 @@
         "description": "Departing from Jeddah:- After having breakfast at the hotel, you will check out and proceed to the airport for your departure flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Saudi Arabia",
@@ -346,7 +352,8 @@
         "description": "Departure from Dubai • Breakfast at the hotel. • Check-out and transfer to Dubai International Airport for departure. • Meals: Breakfast."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Saudi Arabia",
@@ -436,7 +443,8 @@
         "description": "Our adventure ends in Jeddah this morning. If you'd like a little more time to explore, speak to your sales representative about extending your stay."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Saudi Arabia",
@@ -501,7 +509,8 @@
         "description": "Depart Jeddah Enjoy a leisurely breakfast at the hotel before checking out. At the designated time, you will be transferred to Jeddah International Airport to board your departure flight, marking the end of your unforgettable journey through Saudi Arabia. Meals: Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Saudi Arabia",
@@ -586,7 +595,8 @@
         "description": "Departure from Dubai • Breakfast at hotel • Hotel check-out • Transfer to Dubai International Airport • Meals: Breakfast included"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Saudi Arabia",
@@ -651,7 +661,8 @@
         "description": "Jeddah - Transfer to the airport for departure. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Saudi Arabia",
@@ -731,7 +742,8 @@
         "description": "Tour ends in Riyadh: The tour officially ends after breakfast those on the suggested group flights will be transferred to the airport for your flight departing at lunchtime."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Saudi Arabia",
@@ -826,7 +838,8 @@
         "description": "Jeddah - Transfer to the airport for departure. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Saudi Arabia",
@@ -901,6 +914,7 @@
         "description": "Depart Jeddah Enjoy a leisurely breakfast at the hotel before checking out. At the designated time, you will be transferred to Jeddah International Airport to board your departure flight, marking the end of your unforgettable journey through Saudi Arabia. Meals: Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

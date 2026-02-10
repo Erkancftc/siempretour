@@ -62,7 +62,8 @@
         "description": "Mkhaya Game Reserve - Final game drive in the early morning before transferring to the main international airport in Eswatini for departure. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Swaziland",
@@ -147,6 +148,7 @@
         "description": "Depart Eswatini for Johannesburg (Approximate driving time is 4.5 hours) - Depart at around 8am for the journey back to South Africa for your onward journey or perhaps you may wish to extend your trip with some tailored arrangements in South Africa. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

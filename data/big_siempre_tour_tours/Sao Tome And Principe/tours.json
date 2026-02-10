@@ -62,7 +62,8 @@
         "description": "Mucumbli at leisure - São Tomé (Approx. 1 hour drive) - Departure from São Tomé - Spend the morning at leisure. There are a number of activities that can be arranged directly with your hotel. You may also wish to visit an interesting social/school project in Neves (30min walk, each way) – please inform your guide in advance if you wish to take part in this optional activity (to be paid locally). In the afternoon, we leave for the capital with a stop for shopping in town en-route before being transferred to the airport for your departure flight tonight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Sao Tome And Principe",
@@ -122,7 +123,8 @@
         "description": "Welcome Home Newlyweds You’ll fly via Sao Tome & Lisbon back to the UK."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Sao Tome And Principe",
@@ -187,6 +189,7 @@
         "description": "Sao Tome - This morning head to the countryside. We explore the pretty town of Trinidad on foot, visit the Roca Monte Café and stop at the Roca Saudades Alemeda Negreiro for lunch. Return to Sao Tome for a city tour, where a day use room is available for you to freshen up before transferring to the airport for your flight. (BL)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

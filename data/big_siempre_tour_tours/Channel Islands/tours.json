@@ -57,7 +57,8 @@
         "description": "Travel back to Jersey airport for you journey home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Channel Islands",
@@ -132,7 +133,8 @@
         "description": "Embark on your journey home via Alderney Airport to fly back to London."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Channel Islands",
@@ -177,6 +179,7 @@
         "description": "We will get up early on the final morning and head down to Belcroute Bay for a sunrise swim. After the swim, we will enjoy a well-deserved breakfast, followed by departures. Checkout is at 10am."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Diving"
   }
 ]

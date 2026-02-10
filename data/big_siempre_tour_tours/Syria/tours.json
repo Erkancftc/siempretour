@@ -57,7 +57,8 @@
         "description": "Departure | As your remarkable adventure draws to a close, take advantage of some free time on your final day to explore Damascus or engage in last-minute shopping. Don't miss the opportunity to indulge in the delicious local cuisine one last time before you bid farewell to Syria. Your driver will pick you up from your hotel and transport you to Damascus International Airport, Beirut, or Jordan, ensuring a seamless departure. As you depart, cast a final gaze upon the beautiful city of Damascus, cherishing the unforgettable experiences and cherished memories you have forged throughout your time in Syria."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Syria",
@@ -132,6 +133,7 @@
         "description": "Departure from Damascus | Conclude the tour with a visit to the Sayyida Ruqiyah shrine, a lavishly decorated Shiite shrine with intricate glass mosaics and Kashani motifs, and to handicraft workshops where artisans craft swords, copper pieces, and mosaics. Afterward, a driver will be arranged to pick you up from the main square and transfer you to Beirut, Jordan or Damascus airport, based on your preference."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

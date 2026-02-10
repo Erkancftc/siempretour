@@ -42,7 +42,8 @@
         "description": "TIWAI ISLAND WILDLIFE SANCTUARY TO ACCRA The roads from the east of Sierra Leone to the border of Liberia are generally in a poor state. Passing through the jungle and continuing our journey that few other travellers get to take, we make our way to Monrovia. Despite the ravages of the past, Liberia is full of hope and energy, and the city is becoming a thriving capital and moving on. Entering Liberia we notice another change in people and culture - especially the language! For the first time in two months of our Africa overland travels, we are in a country where English is the main language. The people in Monrovia are welcoming and pleased to see tourists coming to explore their city. We may have to apply for a visa here, so will be situated in and around the area for a couple of days, including a trip out to Kpatawee waterfalls, considered one of Liberia's most beautiful spots. Reaching the border with Ivory Coast, more commonly known in its French form we then continue our adventure towards the city of Yamoussoukro. Built by President Boigny, one of the classic ‘Big Man’ dictators it was an expensive and vane project to glorify himself with six-lane highways leading nowhere and a huge Basilica built to copy St. Peter’s in Rome. A further day's drive away in Abidjan, one of West Africa’s modern cities with skyscrapers and flashy restaurants. However, it very much has the feel of having seen better days and as with so many cities, ostentatious wealth mixes side by side with abject poverty. Our Africa overland adventure now heads east to the frontier with Ghana and back to English again. Making our way towards the coastline of Ghana we will spend a couple of days relaxing on palm-fringed beaches near Cape Coast. From here we will visit the castles of Elmina and Cape Coast, where thousands of slaves passed through the ‘Door of no Return’. We will also stop at Kakum National Park where you have the opportunity to embark on a canopy walk or trek through the nature trails in the forest. Kumasi is the capital city of the Ashanti Region and our next stop. You will have the opportunity to visit one of the largest markets in West Africa, Kejetia Market. Stalls sell everything from glass beads and live chickens to Ashanti sandals. Kumasi is also known as a centre for an Ashanti culture and you can visit the National Cultural Centre offering craft workshops and dance performances. A day's drive takes us to the capital, Accra"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Gambia",
@@ -107,7 +108,8 @@
         "description": "Banjul/the Gambia: Disembarkation at 9:00 am after breakfast."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Gambia",
@@ -197,7 +199,8 @@
         "description": ": The trip ends after breakfast at our hotel in Saly, close to the airport. There are no activities planned today, so you're free to depart from Saly at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from Blaise Diagne International Airport (DSS), which is around a 40-minute drive from the hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Gambia",
@@ -272,7 +275,8 @@
         "description": "Saly – Depart | Today is at leisure until you are transferred to the airport for your onward destination. Meals included: Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Gambia",
@@ -337,6 +341,7 @@
         "description": "Dakar/Senegal: Early morning arrival in Dakar. Disembarkation at 9:00 am after breakfast."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   }
 ]

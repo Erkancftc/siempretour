@@ -62,7 +62,8 @@
         "description": "Suleimaniyah - Erbil (Approx. driving time today: 2.5 hours) - This morning we witness first-hand the terrible legacy of Saddam Hussein as we visit the infamous Amna Suraka (Red House) buildings including the many prison cells and torture chambers where thousands of people, mostly Kurds were imprisoned, tortured or killed. Afterwards drive back to Erbil and, depending on the flight departure time, stop en-route at the ancient Zarzi cave. After lunch, transfer to the airport for your onward flight. (BL)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Iraq",
@@ -162,7 +163,8 @@
         "description": "Tour ends in Erbil: The tour ends this morning in Erbil."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Iraq",
@@ -222,7 +224,8 @@
         "description": "Our representative will transfer you to Baghdad International Airport (BGW), based on your flight schedule."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Iraq",
@@ -282,7 +285,8 @@
         "description": "Our representative will transfer you to Baghdad International Airport (BGW), based on your flight schedule."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Iraq",
@@ -347,6 +351,7 @@
         "description": "Erbil - Transfer to the airport for departure. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

@@ -67,7 +67,8 @@
         "description": ": Our tour of Jordan ends at our hotel in Amman. There are no activities planned today, so you're free to depart at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer, you'll need to depart from Queen Alia International Airport (AMM)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Jordan",
@@ -137,7 +138,8 @@
         "description": "You will be picked up by private transfer and taken to Aqaba airport. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Diving"
   },
   {
     "destination": "Jordan",
@@ -197,7 +199,8 @@
         "description": "Free time at the Dead Sea, airport transfer included You have the day free at the Dead Sea before your departure flight. Alternatively, you may wish to take one of several optional day trips. These include a full day tour to the Baptism site at Bethany and Ajloun Castle, a trip to Pella and Umm Qai or a tour of the 'Desert Castles'. We can also arrange a transfer to Tel Aviv either by flight or overland for people wanting to connect this tour with one of our Israel tours. Finally, we can also fly you to Cairo to join one of our Egypt tours. Please ask us for full details and we'll be delighted to help plan an extension to your tour. OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -272,7 +275,8 @@
         "description": "02 Jan :Amman – Queen Alia International Airport Transfer to the airport for departure. You would need to leave the hotel 3 hours in advance (2 hours for the check in and less than 1 hour driving from Amman to Amman Queen Alia International Airport)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -332,7 +336,8 @@
         "description": "\"Amman or Aqaba - Airport\" Enjoy breakfast at your hotel and then enjoy relaxing and/or buying last minute souvenirs before your flight home. Unfortunately all great things must come to end. Generally, we suggest leaving Amman for airport 4 hours prior to your flight or earlier. End of Services. Meals included: Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -402,7 +407,8 @@
         "description": "AMMAN Time to say goodbye to Amman and head home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Jordan",
@@ -467,7 +473,8 @@
         "description": "Amman, tour ends The tour ends in Amman today, and your time is free until we transfer you to the airport for your flight home. Extension options are available to add more time in Jordan, or to head into Israel to visit Bethlehem and Jerusalem. | OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Jordan",
@@ -532,7 +539,8 @@
         "description": "After breakfast, this amazing adventure through Jordan comes to an end at your resort in the Dead Sea. You might like to stay longer otherwise Amman's Queen Alia International Airport is approximately one hour's drive from the Dead Sea. Airport transfers and additional nights accommodation can be arranged through your booking agent."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Jordan",
@@ -597,7 +605,8 @@
         "description": "Day 9: Dead Sea—Amman Airport Transfer to Amman Airport for departure. 3 hours in advance of your scheduled flight (2 hours for the check in and less then 1 hour driving from the Dead Sea to Amman Airport)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Jordan",
@@ -662,7 +671,8 @@
         "description": "Amman – Queen Alia Airport Transfer to the airport for departure. You would need to leave the hotel 3 hours in advance (2 hours for the check in and less than 1 hour driving from Amman to Amman Queen Alia Airport)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -742,7 +752,8 @@
         "description": "Transfer to Amman airport for the flight back to the UK. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Jordan",
@@ -797,7 +808,8 @@
         "description": "Departure: Sadly, all great things must come to an end. For those flying out already, it is generally recommended to leave Amman at least 4 hours prior to your departure. We wish you a safe flight, and hope you will return back home with many wonderful memories of your time in Jordan! Meals included: Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Jordan",
@@ -892,7 +904,8 @@
         "description": "Depart any time today from AlUla Airport (ULH). Your transfer will be provided. If you need an extra night (to make departure logistics easier), we are happy to book that for you."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -957,7 +970,8 @@
         "description": "Free time in Amman, departure airport transfer You are free to do any last minute shopping or visit some more sights on your last day in Amman. A transfer will collect you and drive you to the airport for your departing flight back home. You can also choose to go on an optional day trip with choices like an excursion to Aljoun Castle, the Desert Castles and the Baptism Site at Bethany or a tour into Israel to see Bethlehem or Jerusalem. It is possible to extend your tour and transfer to Tel Aviv by flight or overland to connect with the Biblical Israel tour, starting on Sunday. You can also extend your stay at a resort by the Red Sea or Aqaba. | OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -1032,7 +1046,8 @@
         "description": "Tour ends at the Dead Sea: The tour ends this morning at the hotel. Those on the suggested group flight will be transferred to Amman Airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -1097,7 +1112,8 @@
         "description": "Dead Sea – Queen Alia Airport Transfer to the airport for departure. You would need to leave the hotel 3 hours in advance (2 hours for the check in and less than 1 hour driving from the Dead Sea to Amman Queen Alia Airport)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -1167,7 +1183,8 @@
         "description": ": Our tour of Jordan ends at our hotel in Amman. There are no activities planned today, so you're free to depart at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer, you need to depart from Queen Alia International Airport (AMM)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Jordan",
@@ -1247,7 +1264,8 @@
         "description": "Transfer to Amman Airport for your departure flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Jordan",
@@ -1322,7 +1340,8 @@
         "description": "Departure day - you will be transferred to the airport in time for your departure flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -1397,7 +1416,8 @@
         "description": "Dead Sea – Amman Airport Transfer to Amman Airport for departure. 3 hours in advance of your departure (2 hours for the check in and less than 1 hour driving from Dead Sea to Amman Airport)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -1462,7 +1482,8 @@
         "description": "Breakfast marks our final meal, an excellent chance to reminisce about an adventure packed with excitement. To make your return journey home easier, there’s a free shared transfer back to the airport. Alternatively, if you’d like further days to relax by the Dead Sea, speak to your sales representative about extending your stay."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -1542,7 +1563,8 @@
         "description": "Breakfast marks our final meal, an excellent chance to reminisce about an adventure packed with excitement. To make your return journey home easier, there’s a free shared transfer back to Amman airport. Alternatively speak to your sales representative about our range of extensions, including time at the Dead Sea."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -1637,7 +1659,8 @@
         "description": "Transfer to Amman Airport for your departure flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -1692,7 +1715,8 @@
         "description": "Free time at the Dead Sea. Airport transfer included You have the day free at the Dead Sea before your departure flight. Alternatively, you may wish to take one of several optional day trips. These include a full day tour to the Baptism site at Bethany and Ajloun Castle, a trip to Pella and Umm Qai or a tour of the 'Desert Castles'. We can also arrange a transfer to Tel Aviv either by flight or overland for people wanting to connect this tour with one of our Israel tours. Finally, we can also fly you to Cairo to join one of our Egypt tours. Please ask us for full details and we'll be delighted to help plan an extension to your tour. OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -1757,7 +1781,8 @@
         "description": "Your trip comes to an end this morning after breakfast. If you'd like to extend your stay, just get in touch with your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -1822,7 +1847,8 @@
         "description": "The tour comes to an end after one last breakfast. Hop in the arranged group transfer to the airport to make your return journey home. Or, if you’re craving more sea days, speak to your sales representative about extending your stay by the Dead Sea. Total drive time: one hour"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Jordan",
@@ -1897,7 +1923,8 @@
         "description": "Departure Transfer to the airport for departure. You would need to leave the hotel 6 hours in advance (2 hours for the check in and less than 4 hour driving from Aqaba to Amman Queen Alia Airport)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Jordan",
@@ -1962,7 +1989,8 @@
         "description": "\"Departure\" Check-out Our standard package finishes here. Depart to Airport Make your own way to the airport or book an airport transfer with us."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Jordan",
@@ -2022,7 +2050,8 @@
         "description": "Free time at the Dead Sea. Airport transfer included You have the day free at the Dead Sea before your departure flight. Alternatively, you may wish to take one of several optional day trips. These include a full day tour to the Baptism site at Bethany and Ajloun Castle, a trip to Pella and Umm Qai or a tour of the 'Desert Castles'. We can also arrange a transfer to Tel Aviv either by flight or overland for people wanting to connect this tour with one of our Israel tours. Finally, we can also fly you to Cairo to join one of our Egypt tours. Please ask us for full details and we'll be delighted to help plan an extension to your tour. OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Jordan",
@@ -2087,7 +2116,8 @@
         "description": "Dead Sea – Queen Alia International Airport Transfer to the airport for departure, 3 hours in advance of your departure time"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -2162,7 +2192,8 @@
         "description": "Madaba—Amman You’re time in Jordan is running to an end.. Transfer with our driver from Madaba to Queen Alia International Airport Amman to hand over the car and depart to your home country."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -2237,7 +2268,8 @@
         "description": "Feynan – Transfer to Amman Airport for departure"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -2302,7 +2334,8 @@
         "description": "Your trip comes to an end today after breakfast. Check-out time is usually around noon and you are free to leave at any time. If you’d like to extend your stay, just speak to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -2362,7 +2395,8 @@
         "description": "Your Jordan exploration ends in Madaba after breakfast today. There’s plenty more to see and do in Madaba and Amman! If you would like to spend more time here, just speak to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Jordan",
@@ -2427,7 +2461,8 @@
         "description": "Your trip will come to an end today after breakfast. If you have arranged a private airport transfer, you will be advised of the pick-up time. If you would like to spend more time in Amman, just get in touch with your booking agent ahead of time to organise additional accommodation."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -2477,7 +2512,8 @@
         "description": "Departure from Jordan - The final day is at leisure until your airport transfer. If your flight depart in the late evening do let us know if you require any further additional guided services. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -2567,7 +2603,8 @@
         "description": "Check out and you will be collected by private transfer to the airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Jordan",
@@ -2647,7 +2684,8 @@
         "description": "Beirut free time. Departure airport transfer Today is the last day of the tour and your time is free to explore Beirut some more until you are transferred to the airport for your departing flight home. OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -2727,7 +2765,8 @@
         "description": "Check out and meet your driver for your transfer to Amman Airport for your departure flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -2827,7 +2866,8 @@
         "description": ": The trip ends after breakfast at our hotel in Luxor. There are no activities planned today, so you are free to depart from Luxor at any time. If your flight is departing later in the day luggage storage facilities are available at our hotel, if you wish to explore more of the city before you depart. If you would like to receive a complimentary airport transfer today, you need to depart from Luxor International Airport (LXR), which is 20 minutes drive from the hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -2877,7 +2917,8 @@
         "description": "Make the short transfer back to Amman airport this morning for your return flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -2947,7 +2988,8 @@
         "description": "Free time in Amman, hotel to airport transfer included Your time is free in Amman today until we pick you up from your hotel and transfer you to the airport for your departure. Further sightseeing tours are available today if you have a late afternoon or evening flight, including a trip to the Baptism Site at Bethany on the Jordan River. This tour also connects well with several of our Egypt and Israel tours; please contact us for ideas and help with connections. OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -2997,7 +3039,8 @@
         "description": "Aqaba – Aqaba Airport Transfer to the airport for departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -3072,7 +3115,8 @@
         "description": "You will be collected from your hotel and transferred to the airport for your departure flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -3142,7 +3186,8 @@
         "description": ": Our tour of Jordan ends at our hotel in Amman. There are no activities planned today. If your flight is departing later in the day, luggage storage facilities are available at our hotel.so you're free to depart at any time. If you'd like an airport transfer today, you need to depart from Queen Alia International Airport (AMM), which is around a 30-minute drive from our hotel. As part of our Upgraded range, we also offer a complimentary transfer to those who have made post-tour accommodation arrangements through Explore, regardless of your departure day."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Jordan",
@@ -3207,7 +3252,8 @@
         "description": "Aqaba –QAIA in Amman/ King Hussein International Airport in Aqaba Transfer to airport for departure"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Jordan",
@@ -3302,7 +3348,8 @@
         "description": "Today, you will enjoy your final breakfast in Israel before spending your remaining time in Israel at your leisure. You can stroll through the charming streets of Safed and delight in the peaceful hum of the morning. Before you know it, you will have to return to your hotel for your transfer to the airport. If you need assistance with connecting to your gate, your private guide will be happy to show you the way."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -3397,7 +3444,8 @@
         "description": "Follow the Red Sea north on the short journey to Hurghada and its international airport, where you leave Egypt after 16 days amongst the highlights of both Jordan and Egypt."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Jordan",
@@ -3487,7 +3535,8 @@
         "description": "After breakfast and one last leisurely morning, you will be escorted to the international airport for your departure flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Jordan",
@@ -3572,7 +3621,8 @@
         "description": "The journey back to Amman can take two hours with a scenic ride on route to dropping you at the airport for your international departure. But for an evening departure, this final transfer can include many intriguing stops. Spend time at the Roman ruins of Jerash for insight into the blend of Greco-Roman architecture and Arab traditions dating back to the 1st century BC or explore the epic 12th century crusader castle of Kerak, the largest crusader castle in Jordan, before reaching Queen Alia International Airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Jordan",
@@ -3657,6 +3707,7 @@
         "description": "Heading to the international airport after breakfast to catch your flight back home, you will pass through the spreading sands of the Arava Desert. Peering out of the window, you will admire the desolate and remote beauty of these stunning Arabian desert regions that appear to be lifted from the scenes of fantasy films, before arriving at the airport and bidding your goodbyes to both the staggering nature embellishing Israel and the phenomenal construct of Petra in Jordan. You will take with you a myriad of marvelous memories commemorating your adventures."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

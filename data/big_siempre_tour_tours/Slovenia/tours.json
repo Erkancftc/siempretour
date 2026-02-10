@@ -62,7 +62,8 @@
         "description": "Unfortunately, it’s time for your Slovenian adventures to come to an end. Depending on your flight time, you’ll either enjoy breakfast in the hotel or it will be boxed up to take to the airport. You will then be transferred back to Ljubljana International Airport for your flight home. Included Meals: Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Slovenia",
@@ -127,7 +128,8 @@
         "description": "After breakfast free time before leave Ljubljana by private transfer to Ljubljana Airport. Flight back home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Slovenia",
@@ -222,7 +224,8 @@
         "description": "Spend time in the morning strolling through the streets of Vienna. Atmospheric buildings wrap around The Ring, the interior center of the city home to the Hofburg Palace and Austrian Parliament. Students and business people sit in coffee houses before work, lounging in leather chairs surrounded by bookstands and magazine racks, enjoying the strong black drink. Soon your private transfer will meet you at the hotel and take you to the airport for your flight home, but for now you continue to stroll through the city enjoying the finer details of Vienna."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Slovenia",
@@ -307,6 +310,7 @@
         "description": "Today, you will venture into Bosnia and Herzegovina with your guide to discover the unique history and cultural charms of the country. The 15th-century town of Pocitelj embodies a typical settlement, and the fort on the cliff that overlooks the town was built by the Catholics to protect the village from the Ottomans; however, the Ottomans occupied the fort and the town in the middle of the 15th century, making it an important stop for caravans when traveling. Upon your arrival in Mostar, your local guide will explain the city’s history, architecture, and remnants of the historic mosques, Turkish-style houses, and bazaars that fill the narrow alleyways. On your final day in Dubrovnik, your private transfer will greet you at the hotel after breakfast and escort you to Dubrovnik International Airport for your flight home, bringing an end to your highlights tour of Slovenia and Croatia."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

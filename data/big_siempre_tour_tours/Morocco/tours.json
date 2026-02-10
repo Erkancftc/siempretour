@@ -82,7 +82,8 @@
         "description": "No activities are planned after breakfast this morning, why not become a Moroccan MasterChef in an Urban Adventure’s cooking masterclass with a local guide? Journey through the souks of Marrakech and shop for the best ingredients before learning the insider tricks to whip up a deliciously authentic tagine in a classic riad setting while getting to know the family that lives there. To find out more about ‘Tajine Cookery Class’, visit urbanadventures.com."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Morocco",
@@ -132,7 +133,8 @@
         "description": "After breakfast we will drive back to Marrakech. If your flight is in the morning, we can drop you at the airport or alternatively you can explore more of Marrakech’s majestic sights. (Breakfast Included)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Morocco",
@@ -197,7 +199,8 @@
         "description": "The Salt Market (Sunday) This morning we will stop in a village on market day to experience the colourful goods and the crowds. Expect a large quantity of rams and goats, local handicrafts, and the salt merchants who come to sell the bars that we saw quarried in the mountains. We leave the market begin our journey back to Marrakech, which we will reach between late afternoon and early evening. There are day use rooms available before a transfer to the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -272,7 +275,8 @@
         "description": "Sadly your trip has come to an end. After breakfast we will transfer to the airport of Marrakech or Casablanca. Until the next time!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -347,7 +351,8 @@
         "description": "Airport Shuttle You will departing Morocco today, we hope that you spent a good time with us. Three hours before your departing, your driver will pick you up to the Airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -437,7 +442,8 @@
         "description": "The end of the grand tour of Morocco - Sadly your adventures in Morocco have come to an end. At an appropriate time your driver will transfer you privately from the hotel to Casablanca International Airport, arriving in plenty of time to check in for your onward flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -562,7 +568,8 @@
         "description": ": Our tour of Morocco ends at our hotel in Marrakech. There are no activities planned today, so you're free to depart at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer, you need to depart from Marrakesh Menara Airport (RAK)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -662,7 +669,8 @@
         "description": "Enjoy your final breakfast this morning and take the chance to reflect on your unforgettable Morocco adventure. You’ve navigated lively medinas, ridden a camel in the Sahara and experienced a traditional hammam in the Atlas Mountains. Now, however, is the time to start your journey home and start planning your next adventure. Alternatively, if you would like to extend your time in Morocco please speak to your sales representative who will be happy to advise."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -732,7 +740,8 @@
         "description": "Tour ends in Marrakech Your Moroccan tour with us ends after breakfast today and your time is free until you depart. Our guide or the hotel will help you arrange a taxi for the short drive to the airport, or you can add extra days to explore Marrakech further if you wish. OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -802,7 +811,8 @@
         "description": ": Our tour of Morocco ends at our hotel in Marrakech. There are no activities planned today, so you're free to depart at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer, you need to depart from Marrakesh Menara Airport (RAK)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -902,7 +912,8 @@
         "description": ": Our tour of Morocco ends at our hotel in Marrakech. There are no activities planned today, so you're free to depart at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer, you need to depart from Marrakesh Menara Airport (RAK)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -967,7 +978,8 @@
         "description": "Your adventure tour ends after breakfast. (Breakfast included)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -1117,7 +1129,8 @@
         "description": "Your adventure ends after breakfast. Additional accommodation can be pre-booked if you wish to spend more time exploring Marrakech (subject to availability). Just speak to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -1217,7 +1230,8 @@
         "description": "After breakfast this morning, your adventure comes to an end. As there's not much time spent in Marrakech, we recommended staying another night or two. Please speak to your booking agent if you'd like to book additional accommodation (subject to availability)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -1262,7 +1276,8 @@
         "description": "Day 6 After breakfast (the last meal included in the package) your private transfer to Marrakech Menara Airport will be arranged according to your departure time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Morocco",
@@ -1327,7 +1342,8 @@
         "description": "Your adventure tour ends after breakfast, and it is time to say goodbye. (Breakfast included)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -1392,7 +1408,8 @@
         "description": "Our journey comes to an end after breakfast. Hop into your free transfer to Marrakech Airport to catch your flight. If you’d like to extend your adventure, stay a little longer in Marrakech or take a free transfer from Marrakech to Casablanca and join our Discover North Morocco and Chefchaouen trip – speak to your sales representative for more information."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Morocco",
@@ -1472,7 +1489,8 @@
         "description": "Your adventure ends after breakfast. Additional accommodation can be pre-booked if you wish to spend more time exploring Marrakech (subject to availability). Just speak to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Morocco",
@@ -1542,7 +1560,8 @@
         "description": "Your adventure tour ends after breakfast. (Breakfast included)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -1612,7 +1631,8 @@
         "description": "Tour ends in Casablanca Your Moroccan tour with us ends after breakfast today and your time is free until you depart. Our guide or the hotel will help you arrange a taxi for the short drive to the airport, or you can add extra days to explore Casblanca further if you wish. OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -1697,7 +1717,8 @@
         "description": "MARRAKECH DEPARTURE - Depending on your flight time, you will have free time on your own in Marrakech before heading back home. *INCLUDED - Activities: Free time; Departure (at your own expense) • Meals: B. **Itinerary is subject to change."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -1792,7 +1813,8 @@
         "description": "Your adventure tour ends after breakfast. (Breakfast included)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -1862,7 +1884,8 @@
         "description": "Enjoy your final morning in Marrakech before your transfer back to the airport for your flight home or onward travel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -1942,7 +1965,8 @@
         "description": "Our trip comes to an end and we have to say “see you again” instead of “goodbye” and we hope that you spent one of your best and unforgettable holidays with us."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Morocco",
@@ -2027,7 +2051,8 @@
         "description": "Tour ends in Marrakech Your adventure tour ends after breakfast. For those flying out of Marrakech on this day, you can arrange airport transfers with your guide, and these can be booked any time for this day – there is luggage storage at the hotel should you need to check out before your go to the airport. Additional nights in Marrakech can also be booked upon request, please contact us for details. OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Morocco",
@@ -2112,7 +2137,8 @@
         "description": ": Our tour of Morocco ends at our riad in Essaouira after breakfast. If you'd like an airport transfer today, you need to depart from Marrakesh Menara Airport (RAK), which is around a 3 hour drive from our riad. As part of our Upgraded range, we also offer a complimentary transfer to those who have made post-tour accommodation arrangements through Explore, regardless of your departure day, provided we receive your flight details no later than 14 days prior to your tour departing."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -2177,7 +2203,8 @@
         "description": "Dakhla - Transfer to the airport for departure. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Morocco",
@@ -2247,7 +2274,8 @@
         "description": "Today we do not say goodbye we both say take care and see you sooner than later for another adventure"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -2312,7 +2340,8 @@
         "description": "Your adventure tour ends after breakfast. If time allows, you could book a morning hot air balloon ride. (Breakfast included)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Morocco",
@@ -2382,7 +2411,8 @@
         "description": "Transfer to Marrakech Airport Following your departure flight time. End of our service the itinerary of the tour can be modify as much as you want"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -2482,7 +2512,8 @@
         "description": "With no activities planned for today, you’re free to leave at any time. If you’d like to spend more time in Marrakech, just speak to your booking agent."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -2562,7 +2593,8 @@
         "description": "Today we do not say goodbye we both say take care and see you sooner than later for another adventure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -2632,7 +2664,8 @@
         "description": "Your adventure tour ends after breakfast. (Breakfast included)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -2682,7 +2715,8 @@
         "description": "Return to Marrakech We return to Marrakech this morning where the tour will come to an end upon arrival. Extra nights can be arranged for those planning to spend longer exploring Marrakech OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -2747,7 +2781,8 @@
         "description": ": Our tour of Morocco ends at our hotel in Marrakech. There are no activities planned today, so you're free to depart at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer, you'll need to depart from Marrakesh Menara Airport (RAK)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Morocco",
@@ -2812,7 +2847,8 @@
         "description": "Your adventure tour ends after breakfast, and it is time to say goodbye. (Breakfast included)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Morocco",
@@ -2877,7 +2913,8 @@
         "description": "Your trip comes to an end this morning. There are no activities planned for the final day and you are free to depart the accommodation at any time. If you’d like to extend your stay in Marrakech, just get in touch with your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Morocco",
@@ -2962,7 +2999,8 @@
         "description": "The tour ends after breakfast. (Breakfast included)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Morocco",
@@ -3062,7 +3100,8 @@
         "description": "Your tour has come to an end and you will be transferred to the Airport. The itinerary can modify as much as you like. For more information or more details please get in touch"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -3132,7 +3171,8 @@
         "description": "Your adventure tour ends after breakfast. (Breakfast included)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -3207,7 +3247,8 @@
         "description": "Airport Shuttle You will be departing Morocco today. Pack you bags and make sure that your Morocco tour’s pictures are well-saved. we hope that you have taken some unique and beautiful pictures here in Morocco. You driver/tour guide will be waiting to drive you to your aiport either in Marrakech."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -3277,7 +3318,8 @@
         "description": "Your trip ends today after breakfast. If you would like to stay longer, just speak to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -3362,7 +3404,8 @@
         "description": "Departure day Marrakesh. Today enjoy your last breakfast in Morocco. With no activities planned for today, you are free to leave at any time. Check-out time is usually around midday, however, if you wish to spend more time in Marrakesh or visit the Atlas Mountains or the coastal city Essaouira, we can help you with organizing more time in Morocco. Your transfer to Marrakech airport will be arranged. Pick up is three hour prior your flight departure time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Morocco",
@@ -3452,7 +3495,8 @@
         "description": "Day 1 No meal Day 2 Breakfast Day 3 Breakfast & Lunch Day 4 Breakfast & lunch at a local house Day 5 Breakfast & Dinner Day 6 Breakfast & Dinner Day 7 Breakfast,Lunch & Dinner. Day 8 Breakfast & Dinner. Day 9 Breakfast Day 10 Breakfast Day 11 Breakfast Day 12 Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -3517,7 +3561,8 @@
         "description": "Your penultimate day will find you driving back to Marrakech to spend one final night amongst the city’s exciting open markets and winding narrow streets. Head to the airport on your final day and drop off your car in time to meet your scheduled flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -3577,7 +3622,8 @@
         "description": "Return to Marrakech airport for your return flight home. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -3627,7 +3673,8 @@
         "description": "Transfer to Marrakech airport in time to make your scheduled flight home or onward journey to your next destination."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -3692,7 +3739,8 @@
         "description": "Tour ends in Marrakech Your Moroccan tour with us ends after breakfast today and your time is free until you depart. Our guide or the hotel will help you arrange a taxi for the short drive to the airport, or you can add extra days to explore Marrakech further if you wish. OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -3782,7 +3830,8 @@
         "description": "There are no activities planned after breakfast so you are free to leave your accommodation at any time. It’s worth adding a night or two in Marrakech so you can do some extra activities like cooking classes and cycling tours, exploring nearby towns or visiting a hammam. If you wish to spend more time here, we'll be happy to book additional accommodation for you (subject to availability)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Morocco",
@@ -3847,7 +3896,8 @@
         "description": "Transfer to the airport for a flight back to London."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -3947,7 +3997,8 @@
         "description": "Your trip ends today after breakfast, so you’re free to leave at any time after check out. If you’ve arranged a private airport transfer, you’ll be advised of the pick-up time. If you’d like to extend your stay in Marrakech, just speak to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -4022,7 +4073,8 @@
         "description": "Today is not goodbye, it is merely “take care and see you sooner rather than later” for another adventurous journey. If your departure is late today, complete any last-minute gift and souvenir shopping. Or depending on your departure details, you may wish to check out Menara Garden. Not far from the commotion of the medina, a visit to these lush and expansive gardens offers the perfect place to escape the afternoon heat and noise. Leave the quiet behind and bring with you your memories as you make your way home. Your guide will drop you off directly at the airport when you are ready."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -4137,7 +4189,8 @@
         "description": "Your adventure ends after breakfast. Additional accommodation can be pre-booked if you wish to spend more time exploring Marrakech (subject to availability). Just speak to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -4202,7 +4255,8 @@
         "description": "Transfer to the airport for our departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Morocco",
@@ -4252,7 +4306,8 @@
         "description": "You will be met at your hotel to and transfer to Marrakech airport for your return flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -4302,7 +4357,8 @@
         "description": "We will have breakfast over-looking the Atlantic this morning, then head back to Marrakech where the tour finishes on arrival. (Breakfast included)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Morocco",
@@ -4392,7 +4448,8 @@
         "description": "Transfer to Casablanca airport After breakfast it will be time to leave the city and head home. We provide you transportation back to Casablanca Airport, filled with the sights, sounds, tastes, smells, memories and joy of Morocco!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -4452,7 +4509,8 @@
         "description": "Day 8 After breakfast, depart Imlil and return by private transfer to Marrakech Menara Airport or to your accommodation in Marrakech."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Morocco",
@@ -4522,7 +4580,8 @@
         "description": ": Our tour of Morocco ends at our riad in Marrakech. There are no activities planned today, so you're free to depart at any time. If your flight is departing later in the day, luggage storage facilities are available at our riad. If you'd like an airport transfer today, you need to depart from Marrakesh Menara Airport (RAK), which is around a 20 minute drive from our hotel. As part of our Upgraded range, we also offer a complimentary transfer to those who have made post-tour accommodation arrangements through Explore, regardless of your departure day, provided we receive your flight details no later than 14 days prior to your tour departing."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Morocco",
@@ -4622,7 +4681,8 @@
         "description": "Malaga Catch your flight back home or expand your vacation. Spain has many treasures waiting to be discovered"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Morocco",
@@ -4687,7 +4747,8 @@
         "description": "There are no activities planned for today and your trip ends after breakfast. Additional accommodation can be pre-booked if you wish to spend more time exploring in Marrakech, just speak to your booking agent."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -4767,7 +4828,8 @@
         "description": "Transfer to the airport for your onward flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -4852,7 +4914,8 @@
         "description": "Transfer to the airport depending on your flight details. The itinerary of the tour can modify as much as you like."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -4922,7 +4985,8 @@
         "description": "Transfer to Marrakech airport following your flight departure time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -4987,7 +5051,8 @@
         "description": "Say farewell to Fez before transferring to the local airport. OR, alternatively, taking the train back to Marrakech for another night before departing on your scheduled flight from Marrakech airport on Day 9."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -5052,7 +5117,8 @@
         "description": "Departure to Marrakech airport following your flight departure time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Morocco",
@@ -5157,7 +5223,8 @@
         "description": "Today it is time to say goodbye to Morrocco. You have a private transfer to the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -5252,7 +5319,8 @@
         "description": "Have your final breakfast on us and start bidding farewells to your travel mates before checking out of the hotel (11:00). Time to start counting days for your next adventure with us!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -5292,7 +5360,8 @@
         "description": "Home After breakfast you will be transferred to the airport in time to catch your return flight home. (breakfast included today)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Morocco",
@@ -5377,7 +5446,8 @@
         "description": "On your last day in Morocco, the spa retreat will be a short drive back to Marrakesh and the international airport. You’ll be assisted through customs and immigration to avoid any delays as you leave the country."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Morocco",
@@ -5462,7 +5532,8 @@
         "description": "Fes is somewhat calmed in the morning. You will spend your final morning enjoying the streets or visiting one of the stores that you spotted on a guided tour. Late check-out will be arranged at your riad , and you will transfer to the airport for your homebound flight before noon."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -5527,7 +5598,8 @@
         "description": "The life of Marrakech will return to the streets of the medina in the morning. If you have time, you may visit one of the monuments at your own pace to enjoy the life of the city once more. When you are ready, your private transfer will meet you at the hotel and escort you to Casablanca for your flight home. You will have plenty of time to check-in at the airport bringing an end to your discovery of Morocco’s highlights."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Morocco",
@@ -5592,7 +5664,8 @@
         "description": "The spirit of Morocco is displayed effortlessly in Marrakech, winding through the spellbinding medina at all hours of the day. The High Atlas Mountains climb along the horizon. The calls of Djemaa el Fna Square start to rise in the morning sun. You indulge in the warmth of the comforting flavors of mint tea and listen to your children imitate the storytellers and try to create their own myths inspired by the Moroccan landscape and culture. After breakfast, your private transfer meets you at the hotel and escorts the family to the airport. The wonders of Morocco have enchanted the entire family and have given proven to be much more tangible and inspiring than a mirage. Visit Zicasso's Morocco tours page for more vacation planning ideas."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Morocco",
@@ -5667,7 +5740,8 @@
         "description": "Meet your driver outside your hotel for your private transfer to the airport for the last time. At the Mohamed V Airport in Casablanca you'll be escorted to your departing gate, before boarding your international flight home. As you and your partner peer out the window, you can think back to the refreshing Atlantic breeze in the lovely coastal town of Oualidia and the exciting frenzy of activity in Marrakesh for fond memories of your travels in enchanting Morocco."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Morocco",
@@ -5727,7 +5801,8 @@
         "description": "This morning will be left free so that you can get out among the souks to find souvenirs with your guide. Late check out will be arranged so that you can refresh after lunch before a private airport transfer."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -5807,7 +5882,8 @@
         "description": "On your final morning in Marrakech, you will have just enough time to enjoy a final amble along the corridors and narrow lanes of the medina to capture some final snapshots and memories. For the last ten days, you will have enjoyed an off-the-beaten-path exploration of Morocco and the rich culture and history found here. After breakfast, a comfortable transfer will drive you to the nearby airport for your return flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -5882,7 +5958,8 @@
         "description": "From Chefchaouen, you will have a two-hour drive back to Fes. Depending on your flight time, there may be a chance to stop in the Fes souks for some last-minute souvenirs. Afterward, you will transfer to the airport for your outbound flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Morocco",
@@ -5942,7 +6019,8 @@
         "description": "The stories of Morocco continue to inspire the family. The sun peeks over the mountaintops and spreads across the cityscape. The images of Marrakech are inspiring, from the colorful markets to the ineffable mosques. The family has wandered through history and immersed itself in the culture. They did not just see the artistry and people, but experienced it. Your private transfer meets you at the airport and soon you board your flight home. The magnificence of Morocco has created legends and will provide indescribable memories to come."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Morocco",
@@ -6042,7 +6120,8 @@
         "description": "A soothing voice sings out in the morning. The Call To Prayer echoes along the neighborhoods, emanating from Hassan II Mosque. The quiet lapping of the Atlantic Ocean against the city’s shores fades beneath the morning prayer. The savory flavors of your final breakfast in Morocco are filled with spices you have grown to relish and expect. Soon your private transfer will meet you at the hotel to escort you to the airport. Your time in Morocco has taken you from seaside to desert sands, through mountain passes and valley floors. You have experienced Moroccan splendor it all its beauty, from cosmopolitan predilections to unadulterated heritage. To see more Morocco itineraries, visit the luxury Morocco tours page."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -6132,7 +6211,8 @@
         "description": "From ocean to desert, this two-week tour of Morocco has exposed you to much of the beauty and charm of this North African country. As you awake to your final morning on this vacation, it is not uncommon to feel a touch of reluctance to depart this land of kasbahs and ksars; however, you can rest assured that there remains much to be seen in this seductive land. After a leisurely morning, a private transfer will arrive at your hotel to ensure your timely arrival to the nearby airport and your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -6217,7 +6297,8 @@
         "description": "The port of Essaouira connects the Saharan hinterland with the outside world, making the Medina an amalgam of culture and craftwork. You can find gold and silversmiths demonstrating their ways along the winding streets. Near the water, boatmen craft feluccas, traditional pine wood boats with a frame crafted out of Mimosa or Eucalyptus. The doorways with decorated arches shine blue and red hues against the white exterior walls. At breakfast, you indulge in the honey and semolina pancakes before meeting your private transfer in Essaouira Lodge's lobby. You transfer to Casablanca for your flight from Mohammed V Airport back home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -6302,7 +6383,8 @@
         "description": "Essaouira has always been a place where cultures combined, as the northern and southern communities mixed and brought together with traders and colonial powers over time. The history has created an elaborate and enchanting ambiance as fishermen display their fresh seafood in the marketplace and in the Fish Auction. When you are ready, your private transfer will meet you at the hotel and escort you back to Marrakech to reach the airport where you will have plenty of time to check in for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -6362,7 +6444,8 @@
         "description": "After an extravagant breakfast, you will return across the dunes. You will travel in the morning hours before the sun gets too high. Then, you will fly back to Marrakech, where dayroom hotel use will be arranged so that you can freshen up before your late-afternoon flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Morocco",
@@ -6422,7 +6505,8 @@
         "description": "From Ouarzazate, you will fly by local charter back to Marrakech, where you will continue your journey home on your international flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Morocco",
@@ -6517,7 +6601,8 @@
         "description": "Enjoy breakfast on your terrace before you will be transferred to Marrakech’s mid-sized international airport for your departure flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Morocco",
@@ -6592,7 +6677,8 @@
         "description": "Today, you will depart from where you started after a private airport transfer this morning. You will be picked up after breakfast as your ten-day Morocco family vacation sadly comes to a close."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Morocco",
@@ -6682,7 +6768,8 @@
         "description": "The Riad is quiet in the morning, nestled in the comforts of the gurgling central fountain. Finding the aroma of fresh brewed mint tea has become a comfortable daily ritual. The bazaar fills with people and slowly turns into the bustling hub of activity. Spices run the gamut of color and scent, from sweet to spicy, emulating the rainbow in conical display. Leather bags dangle from the rafters and vivacious baboushes, flat slightly pointy-toed shoes, line the walls of an old shop. After breakfast your private transfer meets you at the Riad and escorts you to the airport for your flight home. You have explored and experienced the far reaches of Morocco but there is always more to see. You could always stay a while and indulge a little more in Moroccan delights. For more vacation planning ideas, visit the Morocco tours page."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -6747,7 +6834,8 @@
         "description": "Take in the sights, sounds, and smells of Marrakesh as you wake up on the final morning of your Moroccan adventure. You may peer into colorful markets and browse curiosities at humble stalls, listen to the North African dialects of locals chatting as they stroll on by, and catch wafts of grilled beef prepared and plated in tagines. After breakfast, you will check out of your accommodation and transfer to the international airport, where you will board your plane and say goodbye to this North African jewel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Morocco",
@@ -6807,7 +6895,8 @@
         "description": "After seven days of private tours and immersive Moroccan impressions, sadly, you must leave today. You will not leave before a final morning of browsing the souks once more or marveling at the Koutoubia Mosque. Late check-out will be arranged, and you will be transferred to the airport during the early afternoon."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -6887,7 +6976,8 @@
         "description": "Your last morning in Morocco will allow you some time to wander the markets. You can also enjoy a late check out at the hotel before transferring to the airport for your late-afternoon flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Morocco",
@@ -6952,7 +7042,8 @@
         "description": "The Call to Prayer emanates from the Koutoubia minaret. The soothing sound fades away and is replaced by the simmering calls of vendors moving their carts to the square. Juice and fruit stalls pile grapefruit and dried figs into conical mounds. Almonds and walnuts crust honeyed dates. The new day begins and you find a cup of mint tea with orange zest in your hands at breakfast. Soon your private transfer will take you to the airport but certain images of Morocco will never fade, from the tea to elegant geometric mosaics, to stunning sand dunes and active tanneries. Your trip may have ended but you’ve already started to plan your return. For additional travel planning ideas, visit the Morocco tours page."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -7027,7 +7118,8 @@
         "description": "The life of Djemaa El Fna returns in the morning. The flavorful aroma of mint tea at breakfast reminds you of the energetic life of the plaza and the stories performed for everyone see. Your private transfer meets you at your hotel before escorting you to the airport for your flight home. You have traveled through Morocco in search of stories, tales of heritage and tradition, modern persistence and a connection to millennia of history. From synagogues to kosher butchers, you have discovered the wealth of Judaism that once thrived and continues to exist in the majestic country of Morocco. For more Morocco travel ideas, visit the Morocco travel page."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -7112,7 +7204,8 @@
         "description": "Morning in the capital city of Rabat is relaxed and euphoric. The gentle gurgle of a courtyard fountain fills the air. Breakfast gives off aromas of orange zest and a honey, saffron mixture. Travel along the wide boulevards and pass through the shade of lining palm trees. Your private transfer meets you at your hotel and escorts you to Casablanca for your flight home. The trails have taken you over mountains and into the desert, along shores and through valleys. You have followed in the steps of Berbers to find the exemplary and inspiring heritage of Morocco. For more travel planning ideas, visit Zicasso's Morocco tour packages page."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Morocco",
@@ -7197,7 +7290,8 @@
         "description": "After looping back to Zagora this morning, you will fly to Marrakech and connect with your international departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -7257,7 +7351,8 @@
         "description": "Today, your week in Morocco will come to an end, and you will have some time to see more of Fes before your private transfer to the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -7332,7 +7427,8 @@
         "description": "The wonder of the narrow and twisting alleys never ceases. Local vendors and artisans display their goods in the open doors of their shops. Soft cloth is draped alongside the doorway. The shopkeeper tells you to touch the fabric and see how soft and smooth it is. Cobblers tinker away at the edge of shoes to fix old pairs and make new soles. You aren’t just watching the locals work; you are looking back into the history of their professions and the culture of the city. Soon your private transfer will meet you at your hotel and take you to the airport. Your flight home will take you over the Atlas Mountains but nothing will compare to the enchantment you experienced in Morocco. Visit the Morocco tours page to see more vacation options."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -7397,7 +7493,8 @@
         "description": "The morning in Casablanca is filled with the familiar flavors of dates and figs. Sunlight carpets the city and brings color back to the seaside. Hassan II Mosque continues to look out to sea in a display of modern grandeur derived from historic creativity. After breakfast your private transfer will escort the family to the airport. When your flight begins to soar through the air you look out of the window at the fading panorama of Morocco. You embarked on an adventure through time and culture, finding the wonders of heritage and the unrivaled memories that come from a family vacation."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Morocco",
@@ -7487,7 +7584,8 @@
         "description": "The Jewish heritage of Morocco runs deep, interconnected with Sephardic culture throughout the history of the North Africa. After breakfast, your private transfer will escort you to the airport. You have traversed Morocco, from Atlantic to the Strait of Gibraltar, the Atlas Mountains to the Sahara Desert. You have traveled in the footsteps of Jewish heritage, finding a wealth of connection between Berber villages, Islamic culture, and Jewish quarters. When your plane ascends, you can look back over the fading landscape and see the beauty of Jewish culture spanning history."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -7552,7 +7650,8 @@
         "description": "The beauty of the riad is in its interior charm. Each walkway opens to the courtyard to help circulate fresh air and offer inviting color to the city center. The aromas of fresh baked bread and mint tea drift from the square. The bustle of the exterior city seems far away in the tranquil scenery of your quaint riad. After breakfast your private transfer, arranged by one of Zicasso’s luxury travel agents for Morocco , will escort you to the airport for your flight home. There is something about Morocco that is both palpable yet intangible. It gives you a sense of its history displays its embracing culture. The people are friendly and the cuisine is unique and delicious. The beauty of the architecture and artistry emanates from each city’s core. Morocco is breathtaking in its mystery and will always call you back for another visit."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -7637,7 +7736,8 @@
         "description": "After a casual morning in Marrakech, you will be transferred to the airport for your outbound flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -7707,7 +7807,8 @@
         "description": "Late check-out will be arranged, so you will not need to worry about packing quite yet. Before leaving, you will head into Rabat and spend the morning exploring the city’s best art and buildings. You will have lunch reservations and a few hours at your leisure before your evening flight out of Rabat-Sale Airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -7792,7 +7893,8 @@
         "description": "In the morning, the snake charmers and storytellers return to Djemaa El Fna Square. The shop stalls in the souk open their doors, embellishing the walkways of the medina with carpets and dangling footwear. At breakfast, you wrap your hands around a hot glass of fresh green tea steeped with saffron. You listen to the sounds of the fountain cascading in the courtyard of the riad. Your private transfer will soon meet you at the hotel, ready to escort you to the Marrakech Menara Airport for your flight home. Until then, you can relax and savor the rest of your time in Morocco."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -7872,7 +7974,8 @@
         "description": "After breakfast, you will be transferred to the city’s modern airport to start your homebound journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -7937,7 +8040,8 @@
         "description": "Fishing boats venture out to the horizon at sunrise. Their colorful paint can be seen from shore bobbing in the calm Atlantic. The city center livens and the sunlight sweeps across the desert until reaching the edges of the sea. Breakfast is filled with the familiar sensual flavors of fresh fruits and divine honey. The sea breeze accentuates the flavors with a salty and sweet aroma. Your private transfer will meet you at the hotel and escort you to the airport. The sea continues to lap at the golden sands. The mountains almost reach the shore. You have explored the jewels of Morocco and found treasures hidden in old cities and sparkling in the water. The secluded marvels of the culture and secret gems have provided you a unique experience with your partner. You make your way home taking a number of treasures, both tangible and intangible, with you."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Morocco",
@@ -8012,7 +8116,8 @@
         "description": "With the morning at your leisure, you can enjoy the luxuries of your accommodation or the coastline before breakfast. Locals may take to the waves to enjoy the early break or boats may once more make their way to the oyster farms. Your private transfer will meet you at the hotel and escort you to Casablanca for your return flight home, bringing an end to your immersive exploration of Southern Morocco’s indelible charms."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Morocco",
@@ -8082,7 +8187,8 @@
         "description": "At breakfast, you may find the aromas of mint tea, dates, and pastries filling the dining room. The narrow streets of the medina will return to full life and color as the shops open for the day and the aromatic collection of spices fill the air. After breakfast, your private transfer will meet you in the hotel lobby and take you back to Casablanca to reach the airport with plenty of time to check in to your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -8147,7 +8253,8 @@
         "description": "From Essaouira, it will be a 90-minute transfer back to Marrakech this morning. From Marrakech, you will connect with your international flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Morocco",
@@ -8217,7 +8324,8 @@
         "description": "The morning rises over the city and the lights of the medina fade. The sweet scent of honey accompanies breakfast and the delectable crunch of walnuts. The sounds of the city return in the morning, filled with the high-pitched hum of the snake charmers’ pungi and the whispered futures foretold by fortunetellers. Indulge in the comforts of your historic mansion accommodation before your private transfer meets you. Soon you will soar over the city on your way home. For now you can sit back and relax in the cool morning air and soft trickle of the fountain against the mosaic walls. Visit Zicasso's Morocco luxury tours page to view additional itineraries."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Morocco",
@@ -8277,6 +8385,7 @@
         "description": "Your week in Morocco will come to an end, and you will have some time to see more of Fes before a private transfer to the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

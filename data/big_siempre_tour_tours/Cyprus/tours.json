@@ -62,7 +62,8 @@
         "description": "As your stay draws to a close, it's not goodbye but rather a 'see you soon!' Should you wish to extend your stay, it's as easy as expressing your preference. Rent a car and explore the abundance of stunning beaches surrounding Celebi Garden, ensuring your holiday lingers on amidst the beauty of North Cyprus. Until next time!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Cyprus",
@@ -107,6 +108,7 @@
         "description": "It's time to say farewell. Check-out from Casale Panayiotis. We hope a little piece of Cypriot mountain life will forever remain in your heart!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

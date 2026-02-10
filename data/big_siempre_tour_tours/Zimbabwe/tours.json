@@ -42,7 +42,8 @@
         "description": "Transfer to Victoria Falls Airport for onward travel arrangements. You could fly down to Cape Town for time in the Mother City, or travel on to Botswana for a very special safari or 2-3 night boat safari."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zimbabwe",
@@ -92,7 +93,8 @@
         "description": "Finally after a morning safari activity you will be taken to the local airstrip to fly back to Victoria Falls. Where next?"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zimbabwe",
@@ -152,7 +154,8 @@
         "description": "Finally you eight-night adventure through Zimbabwe comes to end as you fly to Harare to meet your onward flight arrangements."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zimbabwe",
@@ -176,7 +179,8 @@
     "meet": "",
     "whatExpect": "",
     "dayInfo": [],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zimbabwe",
@@ -236,7 +240,8 @@
         "description": "Fly from Mana Pools to Harare or Victoria Falls for your onward journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zimbabwe",
@@ -281,7 +286,8 @@
         "description": "Transfer to Victoria Falls airport for onward flight arrangements: you could extend your trip with time in Cape Town, or on the beach in Mozambique."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Zimbabwe",
@@ -366,7 +372,8 @@
         "description": "Depart today and transfer to the airport for your departure flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zimbabwe",
@@ -431,7 +438,8 @@
         "description": "After breakfast its time to pack the horses and your belongings and make the trek back to the main lodge where you will bid farewell to your horse. In the afternoon you will be transferred to the airport for your return flight home. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Horse Riding"
   },
   {
     "destination": "Zimbabwe",
@@ -466,7 +474,8 @@
         "description": "Return to Victoria Falls Airport (or Harare) by light aircraft for your onward arrangements"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zimbabwe",
@@ -511,7 +520,8 @@
         "description": "Transfer to Victoria Falls airport for onward flight arrangements: you could extend your trip with time in Cape Town, or on the beach in Mozambique."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zimbabwe",
@@ -546,7 +556,8 @@
         "description": "Return light aircraft transfer to Victoria Falls Airport for your overnight flight to London, via Johannesburg."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zimbabwe",
@@ -611,7 +622,8 @@
         "description": "Homeward Bound This morning, you'll depart from Mana Pools and be flown back to Harare for your onward flights."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zimbabwe",
@@ -661,7 +673,8 @@
         "description": "After breakfast, transfer to Mana Pools airstrip for a flight to Harare for onward or return travel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zimbabwe",
@@ -736,7 +749,8 @@
         "description": "Your final morning on safari will give you a chance to take in the giants one last time before leaving the wilderness. On an extended game drive, you will loop across Hwange on route to the airstrip, where a domestic flight will bring you back to Victoria Falls Airport and your international departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zimbabwe",
@@ -826,7 +840,8 @@
         "description": "Logistics also make Malilangwe a good place to finish a Zimbabwean safari. From here, there are scheduled flights across the border to O. R. Tambo International in Johannesburg, the biggest airport in Africa. After breakfast and the short flight, you then transfer to your homebound departure at O. R. Tambo International."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zimbabwe",
@@ -911,7 +926,8 @@
         "description": "A morning game drive across Malilangwe Wildlife Reserve once you have packed your bags after breakfast will punctuate your enchanting African escape in Zimbabwe. You will enjoy your final few hours capturing more phenomenal wildlife scenes and appreciating each new game sighting as you venture to the reserve’s exit and continue to the airport to catch your flight home. You will board your plane, soar into the Zimbabwean sky, look back down on the sprawling wilderness sanctuary, and reminisce about your stunning safari experience."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zimbabwe",
@@ -966,7 +982,8 @@
         "description": "After a relaxed morning, you will fly from Malilangwe Wildlife Reserve to Harare to connect with your international departure. Your game drive to the airstrip is a chance to savor the African savanna and you journey past the famous mammals that have been a constant on this 13-day journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zimbabwe",
@@ -1036,7 +1053,8 @@
         "description": "The flight to Victoria Falls provides another insight into Zimbabwe’s landscape. It seems you see nothing artificial from the window, the west of Zimbabwe one unbroken stretch of wilderness. Touch down at the small airport in Victoria Falls and transfer on to your international departure, taking the feeling of Africa with you."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zimbabwe",
@@ -1106,7 +1124,8 @@
         "description": "Before your afternoon flight, there will be plenty of time to relax on the banks of the river and enjoy the odd troop of vervet monkeys that jump past. Take breakfast and lunch at the hotel, and then transfer to the airport for your international departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zimbabwe",
@@ -1181,7 +1200,8 @@
         "description": "From the park’s small airstrip you can fly back to Lusaka or Livingstone, where the international airports offer a selection of outbound flights. The morning is at your leisure, with the option of a final safari activity before your transfer to the airstrip."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zimbabwe",
@@ -1256,7 +1276,8 @@
         "description": "From Malilangwe, you take a scheduled flight to Johannesburg in South Africa to meet your international flight that will take you home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zimbabwe",
@@ -1326,7 +1347,8 @@
         "description": "Leave Africa from O. R. Tambo International Airport after a relaxed morning at the hotel. You are free to use all the hotel’s facilities before your airport transfer to ensure that the feeling of luxury and indulgence endures right to your very last moments in Africa."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Zimbabwe",
@@ -1391,7 +1413,8 @@
         "description": "Complete your safari experience with a final morning activity, before returning to the camp for brunch, and a leisurely few hours watching the wildlife at the river. You then fly back to Harare by light aircraft and transfer to your international flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zimbabwe",
@@ -1466,7 +1489,8 @@
         "description": "It is a short flight along the Zambezi back to Victoria Falls, completing your loop around Zimbabwe. Upon landing, a representative will assist you in transferring to your onward departure with so many memories of big game Africa fresh in the memory."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Zimbabwe",
@@ -1531,6 +1555,7 @@
         "description": "Bulawayo’s tiny airport proves very handy as you leave Zimbabwe as from here, you can catch a short flight south to O. R. Tambo International in Johannesburg where you transfer onto a homebound flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   }
 ]

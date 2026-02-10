@@ -77,7 +77,8 @@
         "description": "Anchorage: Return to Anchorage via Matanuska Glacier - Trip Ends today in the afternoon."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Alaska",
@@ -142,7 +143,8 @@
         "description": "Juneau Disembarkation Linger over breakfast this morning cruising into Juneau. Wish your crew and new friends goodbye. Then it’s off to the airport or begin your UnCruise hotel stay or land tour. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Alaska",
@@ -207,7 +209,8 @@
         "description": "Juneau. Disembark in Alaska's capital city of Juneau. Transfer to the airport or your hotel is complimentary."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Alaska",
@@ -267,7 +270,8 @@
         "description": "Before you leave Seward today, there will be time for a classic Alaskan walk to view Exit Glacier in Kenai Fjords National Park where you’ll be able to listen to the sound of the glacier! It’s then time to drive back to Anchorage, where your adventure comes to an end. If you’d like to extend your stay, just speak to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Alaska",
@@ -332,7 +336,8 @@
         "description": "One more Alaskan-sized breakfast before wrapping up our adventure and saying goodbye to new friends. Our guides will be available through the late afternoon for transfers to the airport or to other preferred locations. All guided activities end at 5pm on this day. We can also help to set you up with additional hotel rooms, activities or luggage storage for any extra time you are spending in town. Head home with memories of unique and exciting activities and the Alaskan locals you got to know along the way. When you arrive home check out the shared photo album we have set up for you to upload and share pictures from your adventure!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Alaska",
@@ -387,7 +392,8 @@
         "description": "Juneau. Disembark in Alaska’s capital city of Juneau. Transfer to your hotel or the airport is complimentary. Choose to extend your adventure with custom offerings such as a journey into Tracy Arm aboard a high-speed expedition vessel, a glacier helicopter landing and trek, and saltwater fishing for salmon or halibut."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Alaska",
@@ -447,7 +453,8 @@
         "description": "Fairbanks: Day 12: Soak in the Chena Hot Springs Day 13: Try your luck in Gold Panning, trip ends around noon"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Alaska",
@@ -522,7 +529,8 @@
         "description": "There are no further activities planned today, so your trip will come to an end at check out. If you’d like to extend your stay, just speak to your booking agent."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Alaska",
@@ -582,7 +590,8 @@
         "description": "Return flight from Vancouver International Airport"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Alaska",
@@ -647,7 +656,8 @@
         "description": "Following breakfast we’ll board our mini bus for the last time and drive 120 miles south to the airport in Anchorage. Depending on your onward plans, we’ll either drop you off at the airport or at a downtown hotel of your choosing. Please plan on departure times for 2pm or later. Breakfast included."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Alaska",
@@ -702,7 +712,8 @@
         "description": "LAST DAY: Return late afternoon to Anchorage via Matanuska Glacier and the Church Mountains (-)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Alaska",
@@ -767,7 +778,8 @@
         "description": "Ketchikan Disembarkation. After breakfast this morning, bid adieu to your new pals before you disembark and transfer to the Ketchikan airport or begin your extended hotel stay or land tour. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Alaska",
@@ -832,7 +844,8 @@
         "description": "Juneau Disembarkation Welcome back to Juneau. Enjoy your last breakfast aboard. Check every nook and cranny of your cabin for all of your things and say farewell to the crew as we disembark. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Alaska",
@@ -922,7 +935,8 @@
         "description": "Juneau, Alaska – Disembarkation Disembark after breakfast. Transfer to the Juneau airport or begin your UnCruise overnight stay."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Alaska",
@@ -977,7 +991,8 @@
         "description": "LAST DAY: Final Day with a visit to Beluga Point, trip ends around noon in Anchorage (-)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Alaska",
@@ -1042,7 +1057,8 @@
         "description": "Whittier Disembarkation. One last breakfast with new friends before your coach transfer from Whittier along Turnagain Arm on your way back to Anchorage. Then transfer back to the Anchorage airport. (B) Please Note: Passport required (non USA citizens). Itineraries are guidelines; variations in itinerary and the order of days may occur to maximize your experience."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Alaska",
@@ -1107,6 +1123,7 @@
         "description": "Juneau Disembark in Juneau, the beautiful capital city of Alaska. Transportation to your hotel or the airport is complimentary on the day of disembarkation. We encourage you to spend some time exploring the capital on your own. The town boasts a vibrant culinary scene, local breweries, distilleries, cultural centers, museums, a tram, the Mendenhall Glacier, and more."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   }
 ]

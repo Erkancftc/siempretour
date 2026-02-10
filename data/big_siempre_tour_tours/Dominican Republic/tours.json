@@ -62,7 +62,8 @@
         "description": "(Sunday) Punta Rucia to Puerto Plata airport - Today you will transfer to Puerto Plata airport depending on your flight departure time. (95 km - 2h 15 min) If you want to enjoy your time on the island a bit more to revel in the impressions of the trip, contact us to book a beach extension."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Dominican Republic",
@@ -127,7 +128,8 @@
         "description": "(Saturday) Las Terrenas - Punta Cana airport / Santo Domingo - (305 km - 4 h) - Transfer to the airport of Punta Cana or Santo Domingo according to your flight details. If you want to enjoy your time on the island a bit more, book a beach extension. Relax on the beach of Bayahibe or Punta Cana."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Dominican Republic",
@@ -177,7 +179,8 @@
         "description": "Home - Departure Today you will be taken to the airport in in time for your flight home. (breakfast is the only meal included today)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Dominican Republic",
@@ -227,6 +230,7 @@
         "description": "Step off the boat at approx. 08:00 this morning."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Diving"
   }
 ]

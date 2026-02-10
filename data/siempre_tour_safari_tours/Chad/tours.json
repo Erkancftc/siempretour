@@ -1,0 +1,33 @@
+[
+  {
+    "destination": "Chad",
+    "mainPhoto": "",
+    "id": "chad-wildlife-safari-zakouma-national-park",
+    "tourName": "Chad wildlife safari, Zakouma national park",
+    "placesVisited": "",
+    "generalInfo": "In the south of Chad sits Zakouma National Park, one of Africa’s best kept wildlife secrets – a little known park in a little known country that harbours huge numbers of iconic wildlife species. This short trip takes you to a natural paradise in the very heart of Africa, home to elephants, lion, leopards and more. Setting out from N’Djamena we cross the Sahel, travelling through the region of Guera with its impressive inselberg scenery, stopping in villages en route and meeting local communities following traditional lifestyles, almost untouched by the modern world. In Zakouma itself we spend our days on game drives, setting out early in the morning to give ourselves the best chance of spotting animals on the move. We’ll search for the huge herd of elephants that lives here, keep an eye open for predators such as lion and leopard, and enjoy a total wilderness experience far from the crowds often found in better known African parks and reserves. This is no luxury East African safari but offers superb opportunities for authentic wildlife encounters in a hidden corner of the continent, and an unbeatable sensation of true off the beaten track travel.",
+    "durationDays": "8",
+    "price": "3899",
+    "image1": "images/tour-photos/India/01/01.webp",
+    "image2": "images/tour-photos/India/01/02.webp",
+    "image3": "images/tour-photos/India/01/03.webp",
+    "image4": "images/tour-photos/India/01/04.webp",
+    "image5": "images/tour-photos/India/01/05.webp",
+    "image6": "images/tour-photos/India/01/06.webp",
+    "imagealt": "",
+    "personNumber": "",
+    "dates": "",
+    "minimumAge": "",
+    "meet": "",
+    "whatExpect": "",
+    "dayInfo": [
+      {
+        "dayNumber": 1,
+        "title": "",
+        "description": "N’Djamena - Arrive in N’Djamena and transfer to the hotel. Depending on when you arrive there may be time to explore, or you can simply relax at the hotel and prepare for your adventure. Overnight Hotel Mercure or similar."
+      }
+    ],
+    "map": "",
+    "category": "Safari"
+  }
+]

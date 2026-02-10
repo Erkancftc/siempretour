@@ -132,7 +132,8 @@
         "description": "Arusha to Nairobi We cross the border into Kenya this morning as we make our way to Nairobi, where our journey ends on arrival. Accommodation is not included in Nairobi tonight, but may be booked as an additional option if required. Please do not plan any international flight departures until tomorrow in case of delays on the drive to Nairobi. Route"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Malawi",
@@ -192,7 +193,8 @@
         "description": "After a final swim and breakfast overlooking the lake, you will be transferred to Likoma Airstrip for your flight to Lilongwe, where you will connect with your international journey home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Malawi",
@@ -247,7 +249,8 @@
         "description": "The journey home This morning, take some final moments to unwind and soak in the breathtaking views over the lake. Later, you'll be collected and transferred by road to Lilongwe airport. From there, you'll catch a flight that will have you arriving home by breakfast time tomorrow, concluding your unforgettable journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Malawi",
@@ -312,7 +315,8 @@
         "description": "After an unforgettable trip to Malawi, experiencing the country's natural beauty and diverse landscapes, return to the airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Malawi",
@@ -342,7 +346,8 @@
         "description": "Today after breakfast at Pumulani, your guide will drive you straight from the Cape Maclear to Lilongwe International Airport for your flight back home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Malawi",
@@ -382,7 +387,8 @@
         "description": "Today after breakfast you drive straight from the Cape Maclear to Lilongwe International Airport for your flight back home. Drive time 4 hours"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Malawi",
@@ -457,7 +463,8 @@
         "description": "Departure: Today you will be transferred to Lilongwe Kamuzu International Airport for your flight home - please note this is different to the airport where the adventure started."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Malawi",
@@ -497,7 +504,8 @@
         "description": "Arrive London"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Malawi",
@@ -562,7 +570,8 @@
         "description": "Homeward Bound Bid farewell to the enchanting Huntingdon House after a satisfying breakfast, carrying with you cherished memories of your stay. Embark on a seamless transfer by road, bound for Blantyre Airport, where you'll board your afternoon flight home. As you soar through the skies, reflecting on the extraordinary experiences that have etched themselves into your heart, you'll return with a renewed appreciation for the natural wonders and rich cultural tapestry that Malawi has to offer."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Malawi",
@@ -657,7 +666,8 @@
         "description": "Dzalanyama Forest – Lilongwe Departure - From Dzalanyama it’s a 2-hour drive to Lilongwe and the airport for your departure flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Malawi",
@@ -732,7 +742,8 @@
         "description": "GREATER KRUGER – JOHANNESBURG: Departing Kruger, we overnight at a private game lodge in the Greater Kruger for our final dinner under the stars. The following morning we tour the Panorama Route, visiting God’s Window and the Three Sisters. We return to Johannesburg in the afternoon of the day 22, sun-tanned, laid-back and ready to rejoin life. Tour ends @ 17:00 [lodge Bx2 Lx1 Dx1]"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Malawi",
@@ -832,7 +843,8 @@
         "description": "Arrive back in the UK."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Malawi",
@@ -907,6 +919,7 @@
         "description": "LILONGWE: We catch the ferry back to the mainland where we climb back onto our truck and return to Lilongwe, sun-tanned, laid-back and ready to re-join life. Tour ends at 11:00am at the Lilongwe airport. [lodge B--]"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   }
 ]

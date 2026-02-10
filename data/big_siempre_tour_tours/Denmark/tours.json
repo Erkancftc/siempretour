@@ -117,7 +117,8 @@
         "description": "Today begins with a final breakfast amidst the unique charm of the Treehotel, a bittersweet start to the last day of your epic journey. As you check out, a sense of nostalgia might wash over you, a fond farewell to the extraordinary experiences and breathtaking landscapes you've encountered. Departing from LLA marks the end of this incredible Scandinavian adventure, carrying with you a treasure trove of memories – the elegant mornings in Stockholm, the tranquil spa days, the thrilling kayak on the lake, the serene beauty of the Arctic Retreat, the exhilarating husky hike, the peaceful floating camp, the majestic waterfalls, the cultural insights of the Sami and reindeer tour, and the unforgettable nights spent amongst the trees. As you journey home, these moments will undoubtedly linger, a reminder of the magic and wonder of your time in Denmark and Sweden."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Denmark",
@@ -177,6 +178,7 @@
         "description": "Enjoy a final breakfast at Hotel Sanders. Depending on your flight schedule, you may have some last-minute leisure time for souvenir shopping or a final stroll through the city. Private transfers will take you to Copenhagen Airport for your onward journey, concluding your memorable 7-night summer sailing adventure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   }
 ]

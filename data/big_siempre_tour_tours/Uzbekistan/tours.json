@@ -107,7 +107,8 @@
         "description": "As there are no further activities planned today, your adventure comes to an end today. If you’d like to stay longer, just speak to your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Uzbekistan",
@@ -187,7 +188,8 @@
         "description": "Depart Tashkent: Transfer to the airport for your departure flight home filled with an Aladdin's Cave of delightful memories."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Uzbekistan",
@@ -257,7 +259,8 @@
         "description": "This adventure through Uzbekistan comes to an end after breakfast this morning. There are no activities planned and you're free to depart at any stage before hotel check-out."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Uzbekistan",
@@ -357,7 +360,8 @@
         "description": "You will be transferred to the airport this morning for your flight back home. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Uzbekistan",
@@ -447,7 +451,8 @@
         "description": "Tashkent – return flight. After early breakfast, you will be driven to the airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Uzbekistan",
@@ -522,7 +527,8 @@
         "description": "Tashkent – flight home After an early breakfast you will be driven to Tashkent International Airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Uzbekistan",
@@ -617,7 +623,8 @@
         "description": "Tashkent – Return flight (breakfast) After an early breakfast, you will be transferred to Tashkent Airport for your return flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Uzbekistan",
@@ -717,7 +724,8 @@
         "description": "Today our incredible journey ends, one which has traced the path of defeats and victories, of births and deaths all experienced in the shadow of incredible architecture and with iconic Central Asian hospitality."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Uzbekistan",
@@ -797,7 +805,8 @@
         "description": "Tashkent to London. Morning transfer to airport for flight back home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Uzbekistan",
@@ -902,7 +911,8 @@
         "description": "Tashkent – Return flight (breakfast) After an early breakfast, drive to Tashkent Airport and flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Uzbekistan",
@@ -972,7 +982,8 @@
         "description": "Today enjoy your free morning and visit the Bibi-Khanim-Mosque, which was once considered to be one of the greatest sacred buildings of the Orient. Next to the mosque is one of the oldest Bazaars in Samarkand, the Siyob bazaar, where we will spend half an hour. Transfer to railway station to take the high-speed Afrosiyob train departing to Tashkent at 17:30 (300 km). Scheduled arrival time is 19:45. Have farewell dinner and check in the hotel. Say good-bye to your guide and have a nice time. End of Service"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Uzbekistan",
@@ -1077,7 +1088,8 @@
         "description": "At the appropriate time, transfer to the airport for your onward journey home. If you have time before your departure, you may like to visit the Russian Orthodox Cathedral or the Railway Museum, both of which are within walking distance of the hotel. Meal plan: Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Uzbekistan",
@@ -1157,7 +1169,8 @@
         "description": "Tour finishes in Tashkent: The tour ends this morning after breakfast."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Uzbekistan",
@@ -1237,7 +1250,8 @@
         "description": "Tashkent Departure - The tour ends with a transfer to the airport to connect with your onward flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Uzbekistan",
@@ -1317,7 +1331,8 @@
         "description": "Spend the morning at your leisure, before transferring to Tashkent airport for your onward journey. Meal plan: Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Uzbekistan",
@@ -1392,7 +1407,8 @@
         "description": "Your adventure comes to an end after breakfast today. If you would like to spend some more time in Tashkent, just get in touch with your booking agent ahead of time to organise additional accommodation."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Uzbekistan",
@@ -1492,7 +1508,8 @@
         "description": "Our trip ends after breakfast this morning. If you’d like a little more time to explore, speak to your sales representative about extending your stay in Tashkent."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Uzbekistan",
@@ -1557,7 +1574,8 @@
         "description": "Tashkent – Return flight. Early in the morning the driver will take you to Tashkent International Aiport for your flight back home(depends on your flight connection)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Uzbekistan",
@@ -1637,7 +1655,8 @@
         "description": ": The trip ends after breakfast at our hotel in Tashkent. There are no activities planned today, so you're free to depart from Tashkent at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from Islam Karimov Tashkent International Airport (TAS), which is a 20-minute drive from the hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Uzbekistan",
@@ -1697,7 +1716,8 @@
         "description": "Tashkent - Transfer to the airport for departure. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Uzbekistan",
@@ -1772,6 +1792,7 @@
         "description": ": The trip ends after breakfast at our hotel in Samarkand. There are no activities planned today, so you are free to depart from Samarkand at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you need to depart from Samarkand International Airport (SKD) , which is around a 20-minute drive from our hotel. As part of our Upgraded range, we also offer a complimentary transfer to those who have made post-tour accommodation arrangements through Explore, regardless of your departure day. If you'd like to add on extra days in Samarkand at the end, contact us to book accommodation. The Paper factory, the Afrosyab museum and the Observatory are only some of Samarkand's highlight you might want to explore independently."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

@@ -87,7 +87,8 @@
         "description": ": Our trip ends after breakfast at our hotel in Langkawi. There are no activities planned today, so you're free to depart from Langkawi at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from Langkawi International Airport (LGK), which is a 30-minute drive from the hotel. If your flight departs in the evening, please contact us before travel to arrange late check-out."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Malaysia",
@@ -172,7 +173,8 @@
         "description": "Singapore: Today marks the end of your adventure, but if you’re not quite ready to say goodbye, there is one last optional experience to enjoy. Join a walking tour* through three of Singapore’s most iconic cultural neighbourhoods: Chinatown, Little India and Kampong Gelam. Take in the sights, sounds and stories of each district, get local tips from your guide, and snap some final photos to remember the trip by. If you’re heading home or continuing your travels, we hope you leave with new friends and unforgettable memories as a family! *This is a join-in walking tour, meaning that you’ll be joining other travellers who are also exploring the city! Reach out to our team to find out more and get it booked!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Malaysia",
@@ -262,7 +264,8 @@
         "description": "Transfer by speedboat and taxi to nearby Kota Bharu for a return flight to Kuala Lumpur."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Malaysia",
@@ -312,7 +315,8 @@
         "description": "Lazing Around on Langkawi: Next, you’ll be collected from your hotel in Penang for your trip north to Kuala Kedah, breaking up the journey to board the ferry to Langkawi. A cocktail of coconut palms, calm turquoise waters and soft white sand, Langkawi is a classic tropical paradise. It’s somewhere to stretch out in the sunshine, snorkel through coral reefs and sip coconut juice. While the secret about Langkawi is definitely out, the island has managed to keep plenty of colourful local character. Take the cable car up to the top of Gunung Machincang, search for hidden waterfalls or explore the traditional kampungs. Today your holiday to Malaysia comes to an end. Your arranged driver will take you to Langkawi Airport for your onwards flight to Kuala Lumpur, and then an international flight home to the UK."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Malaysia",
@@ -412,7 +416,8 @@
         "description": "Arrival back in the UK this morning."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Malaysia",
@@ -482,7 +487,8 @@
         "description": "Early morning arrival into the UK"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Malaysia",
@@ -547,7 +553,8 @@
         "description": "Morning at leisure and end of the tour. A transfer to Penang International Airport is included for those booking the flights package or, for those with a few more days to spare, we offer the options of island extensions to Langkawi (express boat from Penang) or the Perhentian Islands (domestic flight to Kota Baru and speedboat transfer) or a flight to Kota Kinabalu to link up with our 8-day Borneo, Sabah tour."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Malaysia",
@@ -642,7 +649,8 @@
         "description": "Arrive home today to complete your journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Malaysia",
@@ -712,7 +720,8 @@
         "description": "Transfer back to Kuala Lumpur airport for the flight back to the UK [B]."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Malaysia",
@@ -802,7 +811,8 @@
         "description": "Our tour finishes at check-out time with a transfer at your leisure to Kuala Lumpur International Airport. If you have any days to spare then we can drop you at the domestic terminal for a flight to either Langkawi, (Oct to March) or Kota Bharu for the Perhentian Islands (March to Sept.) for some quality island and beach time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Malaysia",
@@ -877,7 +887,8 @@
         "description": "With no further activities planned, your adventure comes to an end after breakfast this morning. If you’d like to extend your time in Kuala Lumpur, just get in touch with your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Malaysia",
@@ -962,6 +973,7 @@
         "description": "PERHENTIAN ISLANDS: Take a boat back to the mainland and then transfer to the local airport for your onward international flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

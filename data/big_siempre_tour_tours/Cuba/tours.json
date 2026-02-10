@@ -72,7 +72,8 @@
         "description": "Departure Day. There are no scheduled activities today. After breakfast, you’ll be transferred to the airport for your flight home, or continue your adventure elsewhere in Cuba. If you have a late flight, your guide can help you make the most of your final hours with recommendations for last-minute souvenirs, galleries, or photo spots."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -142,7 +143,8 @@
         "description": "Your driver will take you from Viñales to José Martí Airport in Havana for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -207,7 +209,8 @@
         "description": "Depart HavanaToday is the departure day of the tour and you are free to depart at anytime. Your guide will be around and available until at least midday. A departure transfer to the airport is not included in the tour, however it is very simple to organise at your guesthouse. We recommend you book a couple of additional nights in Havana at the end of the tour so that you have time to further explore this exciting city."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Cuba",
@@ -282,7 +285,8 @@
         "description": "Your tailor-made Cuba tour concludes today. Enjoy a relaxed morning in Varadero before your private transfer to Havana or directly to José Martí International Airport, depending on your departure plans. If time allows, you may choose to stop for final photos along the Havana Malecón, pick up last-minute souvenirs, or enjoy one more Cuban coffee in the Old Town’s atmospheric streets. Your local team will ensure a smooth and comfortable journey home, leaving you with unforgettable memories of Cuba’s culture, landscapes and warm hospitality."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -367,7 +371,8 @@
         "description": "Last day in Havana. Take it easy—pack up, grab a coffee or sneak in one final stroll. When it’s time, head to the airport with your bags full of memories (and maybe a few cheeky souvenirs)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Cuba",
@@ -442,7 +447,8 @@
         "description": ": Your trip ends in Playa Jibacoa this morning after breakfast. There are no activities planned today, so you are free to depart at any time. If you would like to receive an airport transfer today, you need to depart from Havana's Jose Marti International Airport (airport code: HAV) which is around 1.5 hours from the hotel. Depending on your flight time, you may need to check-out of the hotel before your airport transfer but you will still be able to make use of the hotel's services until your departure, and there is baggage storage available for you."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -492,7 +498,8 @@
         "description": "Havana - Depending on your flight schedule, this morning may include a visit to the Museo Nacional de Bellas Artes de La Habana, which houses an outstanding collection of fine arts. One building is dedicated to Cuban art while the other exhibits works by European masters, such as Rubens, Velasquez, and Goya. Also on display is one of Latin America’s most important collections of ancient Greek and Roman art. There is also the option to visit Miramar and La Casa del Habano, which is one of the country’s finest cigar stores. While chatting with Carlos Robaina, you can sip on a Cuban coffee served on tobacco leaves and sample some of the store’s aromatic products. It’s then time to catch a taxi to the airport for your return flight home. Meals Included: Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -557,7 +564,8 @@
         "description": "This morning we will go on a walking tour of Old Havana. Havana is the finest surviving Spanish colonial city in the Americas and one of seven towns or “villas” founded by the Conquistador Diego Velazquez in the 16th century. Post-revolution restoration work and the millions of dollars invested since it was declared a UNESCO world heritage site in 1982 mean that Old Havana has been well-preserved and is often referred to as a “living museum”. The many marvellous monuments, cathedrals and palaces of the city’s historical centre are brought to life by a constant hustle and bustle and the unmistakable sound of Cuban son. After this morning’s tour it’s time to part ways and say Adios, or, as we prefer to think of it hasta luego, see you later! Have a safe onward journey and we very much hope to see you in Cuba again soon. Afternoon transfer (30–40 minutes approx.) to Havana airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Cuba",
@@ -632,7 +640,8 @@
         "description": "Transfer to Havana International Airport for your flight home. Hasta luego! We hope to welcome you back to Cuba soon."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Cuba",
@@ -687,7 +696,8 @@
         "description": "Depart Havana- Today you are free to depart at anytime."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Cuba",
@@ -752,7 +762,8 @@
         "description": "After breakfast & coffee, squeeze in any last minute photo ops, museums or shopping before heading to the airport any time that works for you today. Meals: B"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -832,7 +843,8 @@
         "description": "DEPARTURE DAYIt’s time to say good-bye to your new friends. We hope you enjoyed your Cuban Adventure and will come see us again soon. Included Activities: Old Havana half-day guided walk, Cuba national day cultural activities Meals: Breakfast Meals: Breakfast. Lunch, Dinner"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -897,7 +909,8 @@
         "description": "Depart Havana or Extend Your Stay. No scheduled activities today, so you’re free to depart at your convenience. Have a late flight? Your guide will offer plenty of tips for last-minute exploration. Want to stay longer? We can help you plan an extended trip, tailored to your interests."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -992,7 +1005,8 @@
         "description": "Santiago de CubaFly home from Santiago today, stay a few more days to soak up the local culture, or add a return to Havana to your tour package. Contact us for pricing.Meals: Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -1062,7 +1076,8 @@
         "description": "Depart HavanaToday is the departure day of the tour, you can leave at any time. There are no included activities however your tour leader will be around at least until midday if you need assistance. If you would like to stay a few extra days, we are happy to arrange additional nights for you and offer excellent day tours to further your exploration. Your airport departure transfer is included in the tour package. Included Meals: Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -1117,7 +1132,8 @@
         "description": "HAVANA En route to Havana we stop on The Bay of Pigs (Playa Girón) which is renowned for the failed U.S. invasion in 1961, which sought to overthrow Fidel Castro's government. Today, it stands as a beautiful destination with clear waters and rich marine life. We stop at a museum where those who are interested can explore the historical context leading up to the invasion, including the political climate in Cuba during the early 1960s, the details of the invasion itself—its objectives, key figures involved, and subsequent consequences—and the cultural impact it had on U.S.-Cuba relations. Visitors can also enjoy a refreshing swim at nearby beaches like Playa Larga or Playa Girón, taking advantage of the blue waters and soft sands. Time permitting, you may have the opportunity to explore vibrant coral reefs and diverse marine life with a snorkeling or scuba session. We will return to Havana in the evening, for an optional farewell group dinner and perhaps a night of music and dancing."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -1172,7 +1188,8 @@
         "description": "Causeway to the Cayos: Get away from it all on the beautiful island of Cayo Santa Maria. Your all-inclusive resort has plenty of facilities and is situated in a beautiful location. Your spacious room has a balcony or terrace so you can sit outside in the evening sipping on tropical cocktails. The enormous swimming pool is also a blessing on those hot Cuban days. Next, you'll leave your island paradise and head back to Havana by hire car or transfer, which will take roughly 5-6 hours. Once you arrive back into Havana, you’ll check back into the hotel where you stayed before. The following day we’ll arrange a private driver to collect you from your hotel and transfer you to Havana’s international airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -1237,7 +1254,8 @@
         "description": "Castaway Caribbean Beaches: Spend 3 sun-kissed days on Cuba’s Costa Verde, where ivory sands slope into clear, turquoise waters. Here, your only priority is putting your feet up. Playa Pesquero is a place to forget your problems and pull up a sun lounger. The quiet and unassuming neighbour of Guardelavaca, Cuba’s most crowded beach, it’s a peaceful pocket of paradise. Stretch out in the sunshine, sink your toes in the sand and take refreshing dips in the warm, blue sea. Finally, we’ll arrange a private driver to collect you from your hotel in Playa Pesquero and transfer you to Holguin airport about an hour away, where you’ll catch a flight back to Havana. It’s about an hour and a half flight. After you’ve collected your bags and entered into the arrivals hall, our representative will be waiting to transfer you back to the same hotel in Havana that you stayed in at the beginning of your trip. The next day you’ll check out and we’ll arrange a private driver to transfer you to the airport where you’ll catch your international flights home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -1337,7 +1355,8 @@
         "description": "With no further activities planned, your adventure comes to an end after breakfast this morning. If you’d like to extend your stay, just get in touch with your booking agent."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -1482,7 +1501,8 @@
         "description": "Transfer included by minivan for the departures of the main group, flights home. Extensions Havana and Varadero are optional same as continuations to other Latin destinations from Havana."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -1552,7 +1572,8 @@
         "description": "Havana - With your tour at an end, it’s time to make your way back to Havana International Airport for your flight home or continue your travels in Cuba."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Cuba",
@@ -1622,7 +1643,8 @@
         "description": "Departure - After breakfast, it’s time to say goodbye to Havana as you make your way to the airport for your return flight home. If you have any Cuban currency left, be sure to exchange it before you leave! Meals Included: Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -1672,7 +1694,8 @@
         "description": "Depart at any time today, there are no activities scheduled."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -1737,7 +1760,8 @@
         "description": "This morning is free to relax or do some last-minute sightseeing in Havana Old Town before we bid a fond farewell to each other and begin our return journeys home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -1802,7 +1826,8 @@
         "description": "Your trip comes to an end this morning after breakfast, check-out time is 10 am. If you wish to stay on in this colourful capital, just speak to your booking agent."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -1872,7 +1897,8 @@
         "description": "HAVANA DEPARTURE - Depending on your flight time, you will have free time on your own in Havana before catching your flight back home. *INCLUDED - Activities: Free time; Departure (at your own expense) • Meals: B. **Itinerary is subject to change."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -1942,7 +1968,8 @@
         "description": "Your Cuban adventure comes to an end after breakfast this morning. As there's a great deal to do in Havana, it’s recommended that you stay a few extra days to make the most of this exciting city. If you need help booking extra accommodation, just get in touch with your booking agent."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -2017,7 +2044,8 @@
         "description": "Breakfast and check out of accommodation. Private transfer to Havana airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -2092,7 +2120,8 @@
         "description": "You will be picked up at your hotel / homestay and have a private taxi transfer to the airport for your international flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -2162,7 +2191,8 @@
         "description": "After breakfast, we will travel southwest to Biran, a small town that was once home to the Castro family. As we tour their historic home, hear how Angel Castro built his wealth as a local businessman and the early years of life for Fidel and Raul. We will then continue to Holguin where our tour comes to an end. If you are staying an additional night, we will drop you at your hotel before continuing to Holguin Airport at around 5 pm. If you want to extend your stay, consider joining our Cuba’s Wild East tour to explore the town of Baracoa and Alexander Humboldt National Park. Alternatively, you can learn more about Cuba’s political past on the Origins of the Revolution tour, which journeys into the mountains of the Sierra Maestra. •Meals Included: Breakfast, Lunch"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Cuba",
@@ -2232,7 +2262,8 @@
         "description": "Today is the departure day of the tour and you are free to depart at anytime. Your guide will be around and available until at least midday. You can pre-book a departure transfer to the airport with us for an extra fee. Otherwise you can arrange your own, or ask your guesthouse to help you with this the day before. We recommend a few extra nights in Havana after the tour to further explore this amazing city. We recommend you request this in our Guesthouses in Old Havana, however you are free to book your own, or otherwise we can help you book a hotel of your choice. Included Meals - Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -2327,7 +2358,8 @@
         "description": "CAYO SANTA MARIA - HAVANA Time to say goodbye to Cuba and head home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Cuba",
@@ -2427,7 +2459,8 @@
         "description": ": Our trip ends after breakfast at our hotel in Havana. There are no activities planned today, so you're free to depart from Havana at any time. If your flight is departing later in the day, luggage storage facilities are available. If you'd like an airport transfer today, you'll need to depart from Havana's Jose Marti International Airport (HAV) which is around a 45-minute drive from the hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Cuba",
@@ -2512,7 +2545,8 @@
         "description": "Enjoy a morning at leisure in Havana before departure. Your English-speaking driver will provide a seamless private transfer from Havana to José Martí Airport, marking the end of your vacations in Cuba."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Cuba",
@@ -2612,7 +2646,8 @@
         "description": ": The trip ends after breakfast at our hotel in Havana. There are no activities planned today, so you're free to depart from Havana at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from Havana's Jose Marti International Airport (HAV) which is around a 45-minute drive from the hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -2672,7 +2707,8 @@
         "description": "This morning is at leisure to spend as you please. And so it’s adios from us, or as we prefer to think of it, ‘hasta luego’ - see you later! Have a safe journey and we hope that you had a wonderful experience in Cuba."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -2762,7 +2798,8 @@
         "description": "Free morning and part of the midday at Old Havana, transfer out in midday to international airport with private taxi included, depending on flight schedule."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Diving"
   },
   {
     "destination": "Cuba",
@@ -2827,7 +2864,8 @@
         "description": ": The trip ends after breakfast at our hotel in Havana. There are no activities planned today, so you're free to depart from Havana at any time. If your flight is departing later in the day, luggage storage facilities are available at your hotel. If you'd like an airport transfer today, you'll need to depart from Havana's Jose Marti International Airport (HAV) which is around a 45-minute drive from your casa."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -2917,7 +2955,8 @@
         "description": "DEPART HAVANA Today is the departure day of the tour, and you are free to depart at anytime. Don't hesitate to ask your guide for help if you want to organise a few extra days in Havana at the end of your tour."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -2972,7 +3011,8 @@
         "description": "Depart Havana - Today you are free to depart at anytime. We recommend you spend a couple extra nights in one of our guesthouses in Havana to further explore this unique city."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -3052,7 +3092,8 @@
         "description": "Depart on international flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -3147,7 +3188,8 @@
         "description": "Transfer to Havana Airport for your departure flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -3212,7 +3254,8 @@
         "description": "For something to consider on the morning of your last day, the cupola of the Capital Building creates the skyline of Old Havana. The dome resembles that of the Capital in Washington D.C., which the Cuban building took as its design inspiration. Traces of former American life fill the old city, along with elements of Spanish colonialism and Caribbean vibrancy. Antique cannons sit at the edge of the crowning beauty of Hotel Nacional de Cuba. The structure stands atop a small ridge. A nuclear bunker, a remaining artifact of the Cuban Missile Crisis, cuts into the hill. A stone path leads to the open door. From the top of the ridge, you can look out to the indigo water beyond the Malecón. Your private transfer meets you at your hotel and escorts you to Jose Marti International Airport in time to check-in for your flight home. You have stepped beyond the remnants of the past and experienced the grace and gregariousness of the people."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -3277,7 +3320,8 @@
         "description": "In the morning, locals return to their places in the quiet squares to soak in the sunlight and read the newspaper. Outside of cafes, old men sit playing dominoes, enjoying their time in the shade. Mercado Agropecuario Hatibonico is a small market off Carretera Central. Vendors practically sing to visitors to look at their wares. Cuban free enterprise juxtaposes the government stalls. Purveyors of herbs and secret elixirs call out to you, eager to explain their ointments that solve all kinds of afflictions. The plant nursery contains dwarf mango trees and dangling orchids. The market has a character unto itself that embodies the distinct ambiance of Camaguey. When you are ready, your private transfer meets you at the hotel and escorts you Camaguey Airport CMW to begin the journey home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -3362,7 +3406,8 @@
         "description": "If you wake up early in the morning and walk along the Malecón, you feel as though you have the entire city to yourself. The water continues to lap against the lower reaches of the seawall. The outlines of the defensive fortresses at the mouth of Havana Bay change to imposing stone structures. Classic cars return to cruising down the street. Artists open up the warehouse on Port Avenue. The 19th-century space houses a collection of painters, wood carvers, weavers, and crafts-people shaping the image of everyday life in Havana. Paintings of Che Guevara are displayed next to hand-carved bongos. After breakfast, your private transfer meets you at the hotel. You say goodbye to Havana with one last lingering glance before transferring to Jose Marti International Airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -3422,7 +3467,8 @@
         "description": "At a glance, the grandeur of the Palacio de los Capitanes remains prominent as it borders the Plaza de Armas. The elegance of the palace, along with its history, has shaped the splendor of Havana’s culture. After breakfast, your private transfer will meet you at your accommodation. Soon you will return to Jose Marti International Airport to check-in for your flight, but you can take your time in the morning to enjoy one last stroll around the magnificent streets of Old Havana."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -3487,7 +3533,8 @@
         "description": "On the final morning of your Cuban cultural adventure, you may wander to the town of Playa Giron after breakfast and explore the flourishing forests that fringe the coastline. This is a perfect opportunity to capture stunning wildlife photography and make a few more magical memories before you leave the enchanting country. Be sure to keep your eyes peeled for hummingbirds, owls, wrens, sparrows, woodpeckers, and hawks. Afterward, you will collect your things and transfer to the airport, where you will begin your journey back home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -3562,7 +3609,8 @@
         "description": "The lights of Vedado shine over the city like stars before sunrise. In the morning, the sun washes over the high-rises of the contemporary district bringing the historic colonial buildings of Old Town to a modern perspective. Cuba’s National Union of Writers has a base in a colonial mansion located in the Vedado district. An outdoor terrace begins to bustle with intellectuals, musicians, and writers of all ages. Some of Cuba’s best-known singers perform a variety of musical styles in the courtyard, blending bolero with trova while the old guard sips mojitos. The mixture of contemporary and classic architecture displays the diversity of the neighborhood and reminds you of Cuba’s far-reaching beauty. Today, your private transfer meets you at the hotel when you’re ready and escorts you to Jose Marti International Airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -3627,7 +3675,8 @@
         "description": "One of the world’s largest opera houses faces the trotting horses and refurbished Cadillacs parked at the edges of Parque Central in Havana. Belgian architect Paul Belau designed and erected the edifice in 1915 as part of a larger complex. The baroque façade features sculptures representing the allegories of benevolence, educations, music, and theater. The magnificent structure emphasizes Cuba’s connection to music of all kinds, whether in the form of celebratory sounds on the street or structured performances in historic buildings. The character of Cuba is complex and captivating, procuring elements of cultures from around the world, covering centuries. Today, your private transfer escorts you from your hotel to Jose Marti International Airport for your flight home. Your tour of Cuba may have ended but your connection with the people, the sites, and the heritage continues."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -3697,7 +3746,8 @@
         "description": "Artists set up their canvas and easel along Paseo del Prado, often remarked as one of the most pristine streets in Havana. The 18th and 19th-century mansions outline the boulevard. Dual bronze lions frame the entrance to the walkway in the center of the street. Couples sit on marble benches and relax in the shade. Artists set to work capturing the waking city. Classic cars park alongside the edges of Parque Central. Groups of men linger around makeshift tables playing dominoes. The city returns to its bustling lifestyle. Whenever you are ready, your private transfer meets you at the hotel and escorts you to Jose Marti International Airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -3762,7 +3812,8 @@
         "description": "Vendors open up their book market in the oldest square in Havana. The surrounding trees shade the edges of the plaza and offer a comfortable location for locals to sit, read, and relax with respite from the tropical heat. A large machine stands outside a local shop with a man pressing sugarcane into the chopper. He turns the wheel. The gears grind the stalk into pure juice known as guarapo . He squeezes a touch of lime into the glass to offset the natural sweetness of the drink, creating another layer of refreshment. Your private transfer greets you at the hotel, ready to escort you to the airport for your flight home. Cuba offered a sincere welcome, immersing you into the culture and vibrant lifestyles of the locals along every step of your journey."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -3827,7 +3878,8 @@
         "description": "The rich history of the Taquechel Pharmacy Museum emanates from the ceramic jars displayed behind the counter. The jars hold herbal remedies that have cured and soothed the citizens of Havana for centuries. The colorful swirling texture of daiquiris fill the glasses lining the bar at El Floridita, Hemingway’s favorite restaurant. Famous visitors, such as Anna Pavlova and Winston Churchill frequented the neo-classical 19th-century hotel in the heart of Old Town. The morning sun casts a golden light over the historic cobblestone streets and refurbished architecture of the old city. Fountains trickle with water. The Caribbean Sea crashes against the walls of the Malecón, which has become a familiar, soothing sound connecting Havana with your time in Cayo Santa Maria. The markets fill with locals in search of fresh produce, from sweet peppers to indulgent pineapple. Spend time wandering through the lanes and alleys of Old Town once more before your private transfer escorts you to the Jose Marti International Airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -3892,7 +3944,8 @@
         "description": "You may wake up early to watch the sunrise over Havana with a fragrant cup of Café Cubano , or Cuban espresso. Downstairs, chefs will prepare beautiful breakfast bowls and delicious sweet treats for you to tuck into in the morning as you hope to see the city one last time before you leave. You can stroll down the street to see performers entertain early risers exploring outwards from the town’s main square. Your walk will lead you past colorful boutiques where you can pick up commemorative items, Cuban memorabilia, and other keepsakes to share with friends and family when you return."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cuba",
@@ -3957,6 +4010,7 @@
         "description": "In the morning, the water from the bay laps gently at the sea wall along the Malecón. Palm trees cast shadows over the streets; their large fronds sway in the quiet breeze. The powerful Castillo de Jagua crowns the mouth of the bay. The Spanish built the fortress in the 18th century to protect the port against pirates. Every year in May, land crabs march along the terrain, moving from the base of the mountains to the sea. They lay their eggs in the Caribbean, crossing busy streets to do so. The sunlight washes over the former palace on the Punta Gorda at the end of the main avenue. The red-tiled cupola shines against the indigo hues of the water. The Moorish arcades give the palace a Mediterranean atmosphere. Today, you can enjoy Cienfuegos at your leisure. Soon your private transfer will meet you at your hotel and escort you to Jaime Gonzalez Airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

@@ -42,7 +42,8 @@
         "description": "Free time, transfer to airport You have free time to explore Beirut on your own today. You will be collected at your hotel and transferred to the airport to board your flight home. | OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Lebanon",
@@ -117,7 +118,8 @@
         "description": "Fly out from Beirut - We transfer you to the airport for flights out of Beirut. Time to plan your next adventure but it will be tough to find somewhere that has as much to offer as Lebanon!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Lebanon",
@@ -187,7 +189,8 @@
         "description": "Beirut - Transfer to the airport for your flight home. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Lebanon",
@@ -252,7 +255,8 @@
         "description": "Airport transfer Your transfer will take you to the airport for your return flight home. | OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Lebanon",
@@ -327,6 +331,7 @@
         "description": "Beirut - Transfer to the airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

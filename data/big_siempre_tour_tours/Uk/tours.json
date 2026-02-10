@@ -52,7 +52,8 @@
         "description": "A shorter ride over the hills before dropping down into the coastal plain & the seaside town of Borth. Enjoy a trot up the high street before arriving on the beach! Time for a canter and a splash in the sea before arriving at your final meeting point. Untack the horses and enjoy a cup of tea and an ice cream. Pick up is at midday. Arrive back to the HQ for tea and cake and a farewell to the horses to finish around 3pm. Total length: 7 miles"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Horse Riding"
   },
   {
     "destination": "Uk",
@@ -92,7 +93,8 @@
         "description": "After breakfast, head back to the horses. Catch, feed, groom and tack up. Follow the old country lanes across the remote Burl Hill to join the rugged farmland of Gwaunceste Hill. Pass the remains of Black Yatt, an old farmhouse built in the 18th Century which was blown up in the 1960s to feature in a film about the second world war. Ride the old tracks and lanes to cross Bryngwyn Hill before dropping down through the hamlet of Painscastle, where one of the biggest battles in all of Welsh History took place in 1198. From here its back onto the Begwns for a last canter before following the lanes back to Freerein HQ. Enjoy a cup of tea and homemade cake and say farewell to your new friends, horse and guide. Total length: 18 miles"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Horse Riding"
   },
   {
     "destination": "Uk",
@@ -132,7 +134,8 @@
         "description": "SUNRISE AND DEPARTURE – This morning we hope to have a final sunrise shoot before breakfast at the hotel. A morning transfer will be provided to Bangor Railway Station. Please discuss this at the time of booking. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Uk",
@@ -232,7 +235,8 @@
         "description": "Take the train back to Cardiff"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Uk",
@@ -277,7 +281,8 @@
         "description": "After breakfast, transfer back up to the horses. Catch, feed and prepare your horse. Head straight up onto the rugged moorland of Llanbedr Hill, taking in the spectacular views of the Black Mountains. Spot Pen-y-fan, the highest peak in South Wales. Travel the length of Landeilo hill where you'll pass the mysterious grave of Twm Tobacco. Look down into the hamlet of Aberedw, where the last Prince of Wales - Prince Llewelyn - once took refuge in a cave hiding from the English in the early 13th century. After lunch its time for some exhilarating canters on the Begwns before a relaxing stroll down the country lanes back to HQ for around 4pm. Enjoy tea and homemade cake with your new friends before departing. Total length: 15 miles"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Horse Riding"
   },
   {
     "destination": "Uk",
@@ -367,7 +372,8 @@
         "description": "As dawn breaks on your final morning in Scotland, you can enjoy a final stroll through the colorful neighborhoods and charming culture of this storied land. After a fortifying breakfast at your hotel, a private transfer will arrive to convey you to the main international airport for your departing flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Uk",
@@ -447,6 +453,7 @@
         "description": "After a leisurely breakfast, you're transferred to the airport for your international departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

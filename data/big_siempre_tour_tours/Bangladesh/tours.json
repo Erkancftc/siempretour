@@ -77,7 +77,8 @@
         "description": "Dhaka Departure - Time at leisure until your transfer to the airport for your onward flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Bangladesh",
@@ -167,7 +168,8 @@
         "description": "Farewell Bangladesh - Transfer to the airport for your journey home, concluding your unforgettable exploration of Bangladesh."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bangladesh",
@@ -267,7 +269,8 @@
         "description": "This morning you will be transferred to the airport for your flight home or, if you chose, on onward destination to continue your adventure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bangladesh",
@@ -312,7 +315,8 @@
         "description": "Home – Departure – This morning after breakfast you will be transferred to the airport in time to catch your return flight home. (Breakfast only)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Bangladesh",
@@ -382,7 +386,8 @@
         "description": "Dhaka - Transfer to the airport for your flight home. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bangladesh",
@@ -452,6 +457,7 @@
         "description": "Home – Departure - After breakfast you will be transferred to the airport in time to catch your return flight home. (Breakfast only)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   }
 ]

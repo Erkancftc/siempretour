@@ -77,7 +77,8 @@
         "description": "Bamako (Sunday). Morning tour of the city: the home of artisans, the market with fruit and spices, the National Museum . Lunch is at a restaurant; the afternoon is at leisure; finally, transfer to the airport with the help of your guide."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Mali",
@@ -147,7 +148,8 @@
         "description": "Bamako (Sunday 08 February 2026 end of the tour Morning tour of the city: the home of artisans, the market with fruit and spices, the National Museum .Lunch is at a restaurant; the afternoon is at leisure; finally, transfer to the airport with the help of your guide."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Mali",
@@ -222,6 +224,7 @@
         "description": "Timbuktu to Bamako (Sunday) 20 December Morning departure to Bamako by air plane about 1 hour flght. tour of the city: the home of artisans, the market with fruit and spices, the National Museum. Lunch is at a restaurant; finally, transfer to the airport with the help of your guide."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

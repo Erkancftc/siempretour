@@ -62,7 +62,8 @@
         "description": "Departure day."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "France",
@@ -127,7 +128,8 @@
         "description": "Departure Day After a final shared breakfast, it’s time to say our goodbyes. Families head home feeling nourished, connected, and recharged — with mountain memories in their hearts, and perhaps a little more magic in their step. Until next time!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "France",
@@ -222,7 +224,8 @@
         "description": "In the morning, you wake up with a view of rosy, medieval buildings cast over a verdant hillside set against the azure waters of the Mediterranean. Across the bending coastline, you can see Nice and its quiet marina. Graceful aromas fill the air stemming from the Fragonard Perfume Museum. There is no better view offered along the hillside than at the lookout in the Exotic Gardens, where trickling fountains and manicured terraces accompany your picture-perfect panorama. Soon your guide will meet you at the hotel ready to whisk you to the Nice Côte d’Azure International Airport for your flight home. But for now, you can relax with a flaky croissant and enjoy the pristine slice of life."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "France",
@@ -302,6 +305,7 @@
         "description": "After breakfast, you can spend the morning wandering the cobbled lanes and defensive walls of the surrounding medieval town or simply bask in the relaxed pace of breakfast before your private driver meets you in the lobby. Travel to Nice with plenty of time to check-in for your flight home, bringing an end to your immersive tour of France from Paris to the Côte d’Azur."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

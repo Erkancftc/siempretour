@@ -87,7 +87,8 @@
         "description": "Antananarivo: Today you will fly back home or to the next destination"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Madagascar",
@@ -162,7 +163,8 @@
         "description": "International departure: Veloma! As your memorable journey through Madagascar comes to an end, filled with unforgettable experiences and treasured photographs, it’s time to return home. Depending on your flight schedule, you’ll be transferred to Ivato International Airport for departure. Wishing you a safe and pleasant flight home!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Madagascar",
@@ -242,7 +244,8 @@
         "description": "Departure from Madagascar - Sadly your holiday has come to an end, you will be transferred to the airstrip for your morning flight to Tana by scheduled charter. Arriving back at Tana airport, you will be met by a travel representative, who will help you in checking in for your outbound flight. This brings your stunning Family Wildlife Adventure to an end, but with memories that will last a lifetime."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Madagascar",
@@ -347,7 +350,8 @@
         "description": "International flight home - Enjoy a final breakfast at Relais des Plateux before transferring to the Ivato International Airport for your international return flight home. Although your incredible Highlights of Madagascar holiday has come to an end, we’re sure you’ll leave with many special memories to look back on, and plenty of photos and stories to share back home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Madagascar",
@@ -442,7 +446,8 @@
         "description": "Antananarivo - Your destination: Depending on flight schedule you travel to the airport to take flight to your destination."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Madagascar",
@@ -552,7 +557,8 @@
         "description": "Antoetra – Antsirabe – Antananarivo – Departure (Drive time: approximately 6 hours) - Today’s final drive emerges from the rural escape onto the Ambositra road. The drive takes us through the highlands, where the RN7 route takes traverses the ‘hauts plateaux’, with its spectacular eroded hole-features called lavaka, a journey that once took 3 days on foot, but now enjoys the best road surfaces on the island. The landscape is reminiscent of the far-east with its paddy fields and green landscapes covered with patchworks of vegetable and fruit plantations. Stop briefly to visit some Zafimaniry handcrafts ateliers where one can pick up a souvenir such as examples of wood carving, marquetry and sculptures, which made this tribe very famous. Continue to the unusual city of Antsirabe (“Place of Much Salt”), an elegant European-styled city, residing at 1500m above sea level and boasting the reputation as the centre of Madagascar’s beer production. Founded by a Norwegian in 1856, it is the only Malagasy place which really feels and looks like a European city. It has a temperate climate and consequently fruits and vegetables which favour cooler conditions are grown here. Continue making our final approach to Tana and the conclusion of this amazing adventure through the diverse landscapes of Madagascar. A hotel room will be available for you to freshen up before your late evening flight or you may wish to extend your stay further of course. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Madagascar",
@@ -637,7 +643,8 @@
         "description": "Catch the ferry back to Nosy Be before transferring to the airport in time for your international flight home from Nosy Be. Please note Ethiopian Airlines flies from Nosy Be. If you prefer to fly with a different airline we can organise a flight back to Tana instead."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Madagascar",
@@ -717,7 +724,8 @@
         "description": "Home - Departure After breakfast you will be transferred to the airport in time to catch your return flight home. (breakfast is the only meal included today)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Madagascar",
@@ -797,7 +805,8 @@
         "description": "Home - Departure After breakfast you will be transferred to the airport in time to catch your return flight home. (breakfast is the only meal included today)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Madagascar",
@@ -917,7 +926,8 @@
         "description": "After breakfast, the trip concludes. You will be transferred to the airport for onward travel if you leave Tana today. For departures on any other day, airport transfers can be arranged for an additional cost."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Madagascar",
@@ -1017,7 +1027,8 @@
         "description": "Today you will be transferred to Mauritian airport. Travel time 60 minutes."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Madagascar",
@@ -1122,7 +1133,8 @@
         "description": "Seychelles - Back home: Today you will travel to the Mahe airport. Travel time 50 minutes."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Madagascar",
@@ -1217,7 +1229,8 @@
         "description": "End of Trip (B) Transfer to airport in time for flight home. If you are on a flight which leaves early morning of day 16, you can opt to have a day use room &/or driver/guide for the day (not included)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Madagascar",
@@ -1297,7 +1310,8 @@
         "description": "END OF TRIP (B) Transfer to airport in time for flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Madagascar",
@@ -1392,7 +1406,8 @@
         "description": "Transfer to airport in time for flight home. If you are on the Air France or Air Kenya trip which leaves early morning of day 16, you can opt to have a day use room &/or driver/guide for the day (not included)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Madagascar",
@@ -1487,7 +1502,8 @@
         "description": "Depart from Antananarivo. The morning is free to rest or explore at your leisure. At the appropriate time, transfer to the airport for your international flight home. Meals: B"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Madagascar",
@@ -1582,7 +1598,8 @@
         "description": "The adventure ends in Nosy Be and we begin our return journeys home. Alternatively, if you’d like more time, please speak to your sales representative about extending your stay."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Madagascar",
@@ -1692,7 +1709,8 @@
         "description": "Transfer to the airport in time for your flight home. If your flight home is late in the day (or early the following morning) we are happy to organise a day use room for you and/or a driver guide. Please contact us for options."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Madagascar",
@@ -1827,7 +1845,8 @@
         "description": "Tour Ends in Tana: The tour ends today with a free morning to relax in the hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Madagascar",
@@ -1927,7 +1946,8 @@
         "description": ": The trip ends after breakfast at our hotel in Antananarivo. There are no activities planned today, so you're free to depart from Antananarivo at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you need to depart from Ivato International Airport (TNR) which is around a 15-minute drive from the hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Madagascar",
@@ -2057,7 +2077,8 @@
         "description": "Antananarivo - Transfer to the airport for your flight home. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Madagascar",
@@ -2112,7 +2133,8 @@
         "description": "Thursday - After breakfast your guide will escort you to the international terminal and assist you in checking in to your outbound international flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Madagascar",
@@ -2197,7 +2219,8 @@
         "description": "After an early breakfast you will drive back to Tana (4hrs) in time for lunch and then transfer to the airport for your outbound international flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Madagascar",
@@ -2287,7 +2310,8 @@
         "description": "End of Trip You will transfer to the airport where you will catch your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Madagascar",
@@ -2377,7 +2401,8 @@
         "description": "Fly back home: Today you will say bye to Madagascar and will fly back home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Madagascar",
@@ -2482,7 +2507,8 @@
         "description": "We will provide shuttles from Gassy Country House, sp you can books flights to leave on the 2nd June, or we can also help arrange a longer stay on the island."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Madagascar",
@@ -2597,7 +2623,8 @@
         "description": "End of Tour: Today you will be transferred to the airport for your flight back home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Madagascar",
@@ -2702,7 +2729,8 @@
         "description": "After breakfast, catch the one-hour transfer to Tuléar, in time for our flight back to Tana. Our trip concludes at Ivato International Airport. If you’d like to continue your adventure, speak to your sales representative about extending your stay in Tana."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Madagascar",
@@ -2777,7 +2805,8 @@
         "description": "Durban. Situated in the Kwazulu-Natal region, the cradle of Zulu culture, Durban is the third largest city in South Africa and one of Africa's major ports. Between long beaches rocked by the rollers of the Indian Ocean and the skyscrapers dominating the avenues lined with jacarandas, in this multicultural city with African, Indian and colonial influences, the term \"rainbow nation\" takes on its full dimension. With a rich cultural and historical heritage, with its museums, colonial buildings and picturesque neighbourhoods, it is also known for the fauna and flora that surrounds it."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Madagascar",
@@ -2887,7 +2916,8 @@
         "description": "Transfer to airport in time for flight home. If you are on the Air France or Air Kenya trip which leaves early morning of day 13, you can opt to have a day use room &/or driver/guide for the day (not included)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Madagascar",
@@ -3012,7 +3042,8 @@
         "description": "Departure from Madagascar - Any remaining time today is at leisure prior to airport transfers though optional excursions can be arranged if you are booked on a late flight. A hotel room will be available for you to freshen up for those with late evening departures, or you may wish to extend your stay on the big island. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Madagascar",
@@ -3072,7 +3103,8 @@
         "description": "Zanzibar (Stone Town) Final sail into Stone Town harbour Disembark after breakfast Explore spice markets, winding alleyways, and golden beaches—or extend your stay"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Madagascar",
@@ -3202,7 +3234,8 @@
         "description": "Antananarivo - Your Destination: Depend on your flight time you will travel to Ivato Airport for your flight back home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Madagascar",
@@ -3292,7 +3325,8 @@
         "description": "Antananarivo: Depend on you departure time you will travel to your next destination."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Madagascar",
@@ -3352,7 +3386,8 @@
         "description": "This morning you will transfer back to Nosy Be by boat and road in time for your international flight (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Madagascar",
@@ -3472,7 +3507,8 @@
         "description": "Antananarivo - Your Destination: In the morning if you like you can do shopping to buy souvenirs or explore the city. Depending on flight Schedule you will travel to the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Madagascar",
@@ -3557,7 +3593,8 @@
         "description": "Nosy Be - We will set off at a suitable time to drive to Ankify. The tour will end at the Ankify Harbour, a transfer to Nosy Be airport or contact us for options of beach stays in Nosy Be."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Madagascar",
@@ -3647,7 +3684,8 @@
         "description": "Home - Departure This morning you will be taken to the airport to catch your return flight home. (breakfast only included)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Madagascar",
@@ -3671,7 +3709,8 @@
     "meet": "",
     "whatExpect": "",
     "dayInfo": [],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Madagascar",
@@ -3761,7 +3800,8 @@
         "description": "Fly back to Tana - Your beautiful time in Madagascar has come to an end and today you travel back to Tana for your international flight home. After breakfast at Anjajavy Le Lodge, you will be transferred to the airport for the scheduled flight to Tana, arriving in time for your connection to the international onwards travel. A guide will meet you at the airport and assist you with your connection. You will have seen more creatures, large and small, land, air and marine, than you could've imagined and enjoy memories and photographs that will last a lifetime."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Madagascar",
@@ -3876,7 +3916,8 @@
         "description": "Departure from Madagascar - Time at leisure until your transfer to the airport and your onward flight. Please note optional excursions are possible for those with late flights. Day use available at Gassy Country House until late afternoon for clients travelling on the night Air France or Kenya Airways overnight flight. (B) Kindly note it is possible to extend the tour to other parts of Madagascar – for example if you wish you can take a flight to the laid-back island of Ile St Marie for a beach break – please contact us for details."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Madagascar",
@@ -3981,7 +4022,8 @@
         "description": "Antananarivo > London: Fly back"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Madagascar",
@@ -4071,7 +4113,8 @@
         "description": "In Paris connect through on to your flight to London, arriving this afternoon."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Madagascar",
@@ -4176,7 +4219,8 @@
         "description": "Antananarivo - Fly Back Home: Depend on your flight time you will travel to Airport to fly back home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Madagascar",
@@ -4231,7 +4275,8 @@
         "description": "Nosy Be (Hell-Ville) Final sail into lively Hell-Ville Explore markets, lemur reserves, and beachside cafés Trip ends after breakfast — with the option to extend your stay in Madagascar"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Madagascar",
@@ -4336,7 +4381,8 @@
         "description": "Departure from Madagascar - Time at leisure until your transfer to the airport and your onward flight. Please note optional excursions are possible for those with late flights. Day use available at Gassy Country House Hotel until late afternoon for clients travelling on the Air France or Kenya Airways overnight flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Madagascar",
@@ -4421,7 +4467,8 @@
         "description": "END OF EXPEDITION Transfer to airport in time for flight home. If you are on the Air France or Air Kenya trip which leaves early morning of day 13, you can opt to have a day use room &/or driver/guide for the day (not included)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Madagascar",
@@ -4516,7 +4563,8 @@
         "description": "END OF TRIP (B) - Transfer to airport in time for flight home. If you are on a flight which leaves early morning of day 16, you can opt to have a day use room &/or driver/guide for the day (not included)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Madagascar",
@@ -4636,7 +4684,8 @@
         "description": "End of Tour Today you will be transferred to the airport for your flight back home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Madagascar",
@@ -4776,6 +4825,7 @@
         "description": "Departure from Madagascar - Time at leisure until your transfer to the airport and your onward flight. Please note optional excursions are possible for those with late flights. Day use available at Gassy Country House until 6pm for clients travelling on late night Air France flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   }
 ]

@@ -62,7 +62,8 @@
         "description": "There are no activities planned for today and your trip comes to an end. You’re free to leave at any time after check out. If you wish to spend some more time exploring Porto, just get in touch with your booking agent ahead of time to organise additional accommodation."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Portugal",
@@ -127,7 +128,8 @@
         "description": "Our trip ends after breakfast. However, with so much to see and do in Lisbon, we recommend adding some extra days after the tour to truly appreciate the many attractions this city offers. Speak to your sales representative to book."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Portugal",
@@ -212,7 +214,8 @@
         "description": "In the morning, you may choose to wander the historic streets or relax into a leisurely breakfast. After breakfast, your private transfer will meet you in the hotel lobby when you are ready and escort you to Lisbon’s international airport for your flight home with plenty of time to check-in for your flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Portugal",
@@ -322,6 +325,7 @@
         "description": "Though coming to an end, your trip will not yet be over as you may enjoy your final morning lapping up the luxury of your accommodation and Ponta Delgada’s elegant districts. After enjoying a sumptuous breakfast, you may stroll the bustling streets down back alleys where you will find hidden boutique stores and stylish cafés where you may purchase tokens of your trip and savor sweet pastries before you leave. You will be collected shortly thereafter and taken to the airport where you will say tchau to Portugal"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   }
 ]

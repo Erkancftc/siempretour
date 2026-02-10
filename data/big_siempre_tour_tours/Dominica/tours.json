@@ -82,7 +82,8 @@
         "description": "Departure"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Dominica",
@@ -162,6 +163,7 @@
         "description": "Departure"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

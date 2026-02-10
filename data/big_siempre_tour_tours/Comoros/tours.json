@@ -67,7 +67,8 @@
         "description": "Moroni - Departure from the Comoros - Time at leisure to either relax or explore further until your transfer to the airport and your onward flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Comoros",
@@ -132,6 +133,7 @@
         "description": "Moroni - This morning we take a boat to a spot close to Moroni where spinner dolphins gather almost every day. Afterwards, return back to the hotel to freshen up and transfer to the airport for your onward flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

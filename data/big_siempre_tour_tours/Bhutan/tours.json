@@ -97,7 +97,8 @@
         "description": "All good things must come to an end. Transfer to airport and fly from Paro, either to Kolkata, Delhi or Kathmandu. Connect with your onward flight home or extend in either India or Nepal."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -192,7 +193,8 @@
         "description": "DEPART PARO: Depending on your flight time, you will be transferred to the airport for your onward destination. Until next time! Meals: B"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -272,7 +274,8 @@
         "description": "Departure: This is a personalized, private tour that can be curated to your liking – whether you’re a solo traveler, part of a family, or with a group of friends. We’re happy to adjust the activities, pace, and duration to match your interests and schedule. This is your trip, your way!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Bhutan",
@@ -362,7 +365,8 @@
         "description": "Tour ends in Paro: The tour ends this morning in Paro after breakfast. Depending on your flight departure time, there may be an opportunity for some last-minute souvenir shopping and a wander through Paro before transferring to the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Bhutan",
@@ -432,7 +436,8 @@
         "description": "DEPART PARO Breakfast in the hotel, then drive to the airport for a flight to your onward destination. Tashi Delek !"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -507,7 +512,8 @@
         "description": "Kathmandu/Departure Free till departure. Departure Transfer to airport to connect onward flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -557,7 +563,8 @@
         "description": "Until next! We will take you to the airport for your flight right after breakfast."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -622,7 +629,8 @@
         "description": "Breakfast in the hotel, and then drive to the airport for a flight to your onward destination"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -662,7 +670,8 @@
         "description": "Flight home – You return home from Paro, the way you came through the Himalayan mountains."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -722,7 +731,8 @@
         "description": "Departure. Transfer to airport. Fly back to Kathmandu or Bangkok."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -802,7 +812,8 @@
         "description": "Departure: After breakfast, our representative will escort you to the Paro airport for your onward destinations."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -887,7 +898,8 @@
         "description": ": The trip ends after breakfast at our hotel in Kathmandu. There are no activities planned today, so you are free to depart from Kathmandu at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you would like an airport transfer today, you'll need to depart from Tribhuvan International Airport (KTM)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -947,7 +959,8 @@
         "description": "Fly out of Paro. Today we check out after breakfast and fly out from Paro (to onwards destination)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -1027,7 +1040,8 @@
         "description": "Breakfast in the hotel, and then drive to the airport for flight to your onward destination."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -1117,7 +1131,8 @@
         "description": "Depart Bhutan - Early in the morning your guide will accompany you to the airport and wish you Tashi Delek (Goodbye and Good Luck). (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -1192,7 +1207,8 @@
         "description": "Departure to airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -1292,7 +1308,8 @@
         "description": "You will be taken from your hotel to the airport in good time to fly home to the UK."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -1352,7 +1369,8 @@
         "description": "After breakfast at your hotel, a guide and driver will drop you at the airport for a flight to your onward destination."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Bhutan",
@@ -1457,7 +1475,8 @@
         "description": "Darjeeling to Bagdogra (85kms in 3hrs.). After breakfast checkout and drive to Bagdogra Airport to Delhi for your onward journey back home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -1542,7 +1561,8 @@
         "description": "Kathmandu, tour ends with airport transfer Your time is free today until we transfer you to the airport in time for your flight home. A range of options are available if you would like to extend your tour in Nepal. These include white water rafting on the Bhote Khosi river, one of the best one day rafting trips in the world, hikes and tours in the Kathmandu valley, or more extensive rafting or trekking tours. We can also arrange visits to Chitwan and Bardia National Parks in the lowland Terai region of Nepal. Please contact us for more information and ideas. | OVERNIGHT: N/A | MEALS: Breakfast | EXTRAS: Extra day in Kathmandu - post-tour"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -1632,7 +1652,8 @@
         "description": "Kathmandu - Transfer to the airport for your flight home. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -1697,7 +1718,8 @@
         "description": "Free time in Paro until transferring to the airport for departure Your time is free until we transfer you to the airport for departure. We can book your international Druk Air flights into Bhutan and extension options in Kathmandu, Delhi and Bangkok are available to enable connections to your onward flights. OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -1787,7 +1809,8 @@
         "description": "Today will be spent exploring Kathmandu further. Visit Pashupatinath Temple and Changu Narayan Temple before lunch at popular Nyatapola Café. This afternoon visit Bhaktapur, home to an abundance of medieval art and architecture, and this evening return to the airport for your flight home. (B/L)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -1872,7 +1895,8 @@
         "description": "Return to the airport and fly back to the UK. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -1922,7 +1946,8 @@
         "description": "Paro Paro -2 nights After a delicious breakfast enjoy the drive as you descend back down the mountains, following the dramatic Wang Chhu and Paro Chhu river valleys to Paro Town. Treasure your last nights in an Amankora Lodge; curl up in a blanket on the terrace and drink in the view – snow-clad Jhomolhari mountain and the ruins of the ancient dzong. Experience Challenge yourself on a day of hiking to the famous Taktshang ‘Tiger’s Nest’ Monastery, a place of pilgrimage for all Bhutanese. Marvel at the treasures from ancient thangkha paintings to armour in the Ta Dzong National Museum. Explore the 7th century Kyichu Lhakhang, the temple that marked the introduction of Buddhism in Bhutan. Shop for treasures and gifts at the evening market in Paro Town. Paro Day 10 – Departure After an early breakfast, check out and enjoy an assisted departure at the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -1992,7 +2017,8 @@
         "description": "Paro - Departure Day: After breakfast today, you will be transferred to Paro airport for your international departure flight, rejuvenated by the Bhutanese way of life."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -2072,7 +2098,8 @@
         "description": "At an appropriate time, you will be transferred to the airport for your flight home, or maybe onward to new pastures."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -2162,7 +2189,8 @@
         "description": "After breakfast our trip concludes with a transfer to the airport for onward arrangements."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -2232,7 +2260,8 @@
         "description": "Depart. After breakfast we drive to Paro International Airport in Assam for your onward journey. Your representative will help with check-in formalities and bid you farewell."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -2282,7 +2311,8 @@
         "description": "Paro - Day 11: After breakfast, drive to Paro (4hrs/130kms approx.). On the way to Paro, we walk to Tachogang Temple. Then continue to Paro. Rest of the day is free at leisure. Overnight at the hotel in your deluxe room (Olathang Cottages). Day 12: After breakfast, drive towards the north end of the valley to view the Ta Dzong, formerly a watchtower and now the National Museum (Closed on Govt.Holiday). Then walk down a hillside trail to visit Rinpung Dzong (Paro Dzong). Visit the 7th century Kyichu Lhakhang, In the evening, visit a traditional farmhouse for an opportunity to interact with a local family and learn something of their lifestyle. Overnight at the hotel. Day 13: After breakfast, excursion to Taktsang Monastery (Closed on every Tuesday). Later excursion to Drukgyel Dzong. Later on, take an evening stroll along the main street, and perhaps visit a few handicrafts shops, or take refreshments at a local café or bar. Overnight at the hotel. Day 14: After an early breakfast at the hotel, drive to the airport for flight to your onward destination."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -2362,7 +2392,8 @@
         "description": "Your journey ends in Kathmandu after breakfast. If you’d like to spend more time in the Nepalese capital, speak to your sales representative about extending your stay."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -2452,7 +2483,8 @@
         "description": "Departure to Kathamndu airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -2552,7 +2584,8 @@
         "description": "Departure to Airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -2637,7 +2670,8 @@
         "description": "Your guide and driver will accompany you to the airport and bid their farewells there."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -2687,7 +2721,8 @@
         "description": "Paro - Day 11: After breakfast, drive to Paro (4hrs/130kms approx.). On the way to Paro, you walk to Tachogang Temple. Then continue to Paro. Rest of the day is free at leisure. Overnight at the hotel (5 Star Como Uma Paro). Day 12: After breakfast, drive towards the north end of the valley to view the Ta Dzong, formerly a watchtower and now the National Museum (closed on Govt.Holiday). Then walk down a hillside trail to visit Rinpung Dzong (Paro Dzong). Visit the 7th century Kyichu Lhakhang, In the evening, visit a traditional farmhouse for an opportunity to interact with a local family and learn something of their lifestyle. Overnight at the hotel. Day 13: After breakfast, excursion to Taktsang Monastery (Closed every Tuesday). Then excursion to Drukgyel Dzong. Later on, take an evening stroll along the main street, and perhaps visit a few handicrafts shops, or take refreshments at a local café or bar. Overnight at the hotel. Day 14: After an early breakfast at the hotel, check out and drive to the airport for flight to your onward destination."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Bhutan",
@@ -2787,7 +2822,8 @@
         "description": "DEPARTURE After breakfast, according to your flight schedule, our representative will escort you to the airport for your return flight home. Check-in time is 3 hours prior to the departure. Say \"Namaste\" and until next time! Meals: breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Bhutan",
@@ -2847,7 +2883,8 @@
         "description": "DEPARTURE TO KATHMANDU. After breakfast, depending on your flight time, you will be transferred to the airport for a flight to Kathmandu. Meals: B"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -2942,7 +2979,8 @@
         "description": "DEPARTURE HOME After breakfast, our representative wil escort you to the airport for your international departure. Check-in time is 3 hours prior departure"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -3012,7 +3050,8 @@
         "description": "After breakfast, check out from hotel and get transferred to Paro International Airport to catch the flight for your home town."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Yoga&Wellness"
   },
   {
     "destination": "Bhutan",
@@ -3122,7 +3161,8 @@
         "description": "After breakfast your driver will transfer you to the airport for your onward flight. Please check with your tour leader about the exact departure time from the hotel. Please note that your tour leader may not be with you as the group may leave on different flights."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -3222,7 +3262,8 @@
         "description": "Delhi, free time, optional tours. Airport transfer Your time is free today with various optional tours available before we transfer you to the airport to catch your flight home. You could also choose to extend your stay in India by going on safari looking for tigers at Ranthambore National Park, or heading south to the beaches at Goa or Kerala.If you would like assistance with a tour extension, please contact us to discuss your plans. OVERNIGHT"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -3327,7 +3368,8 @@
         "description": "Departure: we will make sure that you are on time for your return flight home. Check in is 3 hours prior departure. Say \"Namaste\" and until next time! Meals: breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -3452,7 +3494,8 @@
         "description": "Departure: Depending on the flight time we will arrange the transfer to the airport. The airport check-in is 3 hours prior to the departure time. Our representative will meet you at the hotel and transfer you to the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Bhutan",
@@ -3567,7 +3610,8 @@
         "description": "After Breakfast, transfer to airport and fly onward destination (From Paro to Kathmandu, Bangkok, Delhi (India) etc."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -3672,7 +3716,8 @@
         "description": "Departure. Free till departure, drive to Kathmandu, fly back to Home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -3767,7 +3812,8 @@
         "description": "Day 27 - • Today after breakfast, rest of the day is Leisure. • Enjoy stunning beaches of Bentota by your own Day 28 - After breakfast, check out from hotel and travel to Colombo International Airport (103Km,2 hour drive) to board the home flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -3897,7 +3943,8 @@
         "description": ": Our tour ends at our hotel in Kathmandu. There are no activities planned today, so you're free to depart at any time. If your flight leaves later in the day, luggage storage facilities are available at our hotel. If you'd like a hotel transfer, you'll need to depart from Tribhuvan International Airport (KTM)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -3957,7 +4004,8 @@
         "description": "Enjoy breakfast at your hotel before a departure transfer to Paro airport for your flight out of Bhutan."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -4027,7 +4075,8 @@
         "description": "Paro - Departure Day: After breakfast today, you will be transferred to Paro airport for your international departure flight, rejuvenated by the Bhutanese way of life."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -4097,7 +4146,8 @@
         "description": "Early breakfast at your hotel will be available along with a final offering of butter tea. When you are finished with breakfast, your driver will transfer you to the airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -4187,7 +4237,8 @@
         "description": "A final morning and early risers have the opportunity to trek out to Taktshang Monastery, a revered pilgrimage site that's hidden amongst the bliss of the Himalayas. It's a half-day journey, one that reflects the wonders of the alpine landscape while imbuing the deep spirituality of a nation. Pilgrims arrive at regular intervals, and there's a touching sense of emotion all across the monastery. Return to the hotel for lunch before being transferred to Paro Airport for your international departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -4252,7 +4303,8 @@
         "description": "As tourism grows in Bhutan, the government has opened new regions and towns to foreign visitors. One of these is Haa, which is a sparsely populated region in the far west of the country. You can spend your morning here and can expect a few intrigued stares because the people in Haa are as interested in you as you are in them. This new destination is a great place to end a Bhutan trip. You will then return to Paro to connect with your departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -4337,7 +4389,8 @@
         "description": "Finally, you will have made it across Bhutan on an epic journey from east to west through one of the world’s final frontiers. This morning, you will depart the Land of the Thunder Dragon and cross into India. Three hours after leaving Samdrup Jongkhar, you should arrive in Guwahati, which is a busy Indian city on the banks of the Brahmaputra River. You can use this time to indulge in a city tour. You will have day-room use at a local hotel, which will provide you with space to freshen up before your domestic flight to Delhi. In Delhi, you will connect with your homebound flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Bhutan",
@@ -4422,6 +4475,7 @@
         "description": "Paro is the natural starting and ending point for almost all Bhutan tours because it is home to the country’s only international airport. After an early breakfast, you will transfer to Paro International and leave with two weeks of incredible memories."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

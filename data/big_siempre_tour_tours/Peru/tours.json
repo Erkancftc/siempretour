@@ -97,7 +97,8 @@
         "description": "With no activities planned, your adventure comes to an end today. If you’d like to extend your stay in Lima, just get in touch with your booking agent in advance."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Peru",
@@ -147,7 +148,8 @@
         "description": "Transfer Puerto Maldonado Headquarters to Airport We retrace our river and road journey back to Puerto Maldonado, our office and the airport. Depending on airline schedules, this may require dawn departures. (B,)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -227,7 +229,8 @@
         "description": "This morning, say goodbye to Cusco and catch a short flight back to Lima. From there, catch your international flight home- or travel on to your next destination!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -302,7 +305,8 @@
         "description": "Sillustani and Return to Lima: After breakfast, transfer to the Juliaca airport for your return flight to Lima. Along the way, stop to visit the Sillustani funerary towers. The huge, pre-Inca towers are the best-known ruins in the area. They're a great place to take in a final, stunning view of the lake. Arrive in Lima for your international flight home. For those continuing to the Uyuni Salt Flats or the Colca Canyon, departure times and schedule will vary based on itinerary."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -412,7 +416,8 @@
         "description": ""
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -482,7 +487,8 @@
         "description": "Depart any time today. Check-out is by 10:00 a.m. You’ll receive a transfer to the airport according to your flight time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -552,7 +558,8 @@
         "description": "Blanquillo-Boca Colorado-Cusco. Back on the boat early in the morning, we head downstream to the small mining village Boca Colorado. Here and in Mazuco later on, you can see the negative effects of certain human activities on the delicate ecological balance of the rainforest. We take local transportation to where we cross the Inambari River. On the other side, our bus is waiting to take us over a newly paved road, through beautiful cloud and elfin forest. Near Cusco, you have stunning views of the Ausangate Mountain. We reach Cusco in the early evening. (B,L)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Peru",
@@ -607,7 +614,8 @@
         "description": "This is the last day of your Cusco & Machu Picchu tour. First, you will have free time to explore Cusco. At the coordinated time, you will have a transfer out to Cusco Airport. Transport: Car. Meal: Breakfast."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -697,7 +705,8 @@
         "description": "AREQUIPA - LIMA This morning you will drive to the Valley of the Condors and will see these remarkable birds soaring on the thermals above the canyon. The condors are huge and have the largest wingspan of any land bird, making this a truly magnificent sight. Option to take a short 30 minute hike though please note the high altitude therefore you will need to have a reasonable level of fitness. You will be able to remain at the view point for as long as you want before returning to Chivay and transferring back to Arequipa (arrive approximately 18:00). Along the way you will also stop in the small town of Maca to see the beautiful colonial church. Later, transfer to the airport for a flight back to Lima. You can then either connect with your international flight (if it departs late at night) or if you need to book any extra nights’ accommodation we can assist with this - please discuss with us. (Breakfast)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Peru",
@@ -767,7 +776,8 @@
         "description": "Your trip comes to an end today, and there are no activities planned. If you’d like to stay longer in this archaeological hub, just speak to your booking agent."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Peru",
@@ -812,7 +822,8 @@
         "description": "Aguas Calientes - Machu Picchu - Cusco, Peru: Dawn at Machu Picchu, Homeward Bound Early Morning Ascent Rise before dawn and board one of the first buses to Machu Picchu. The scenic 25-minute ride brings you to the ancient citadel as morning mist lifts, revealing a breathtaking view of the Lost City in the soft dawn light. Guided Tour of Machu Picchu Join your guide for a captivating two-hour walking tour through Machu Picchu. Marvel as fascinating stories and history bring this UNESCO World Heritage Site to life amid the stunning mountain backdrop. Independent Exploration & Optional Hike After the tour, the mysterious ruins beckon—wander at your own pace or, if you're adventurous, tackle the strenuous Huayna Picchu Peak hike (extra cost, advance booking required) for astonishing bird’s-eye views. Return & Local Experience Take the bus back down to Aguas Calientes. If time permits, dive into the vibrant local market near the train station, browsing handcrafted souvenirs until it’s time to board your train. Journey Back to Cusco Relax and reminisce as you travel by train to Ollantaytambo, then catch a bus back to historic Cusco. Arrive at Plaza San Francisco around 8:00 pm, where your day’s unforgettable adventure concludes."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Peru",
@@ -892,7 +903,8 @@
         "description": "You will be transferred back to the airport in time for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Peru",
@@ -937,7 +949,8 @@
         "description": "Aguas Calientes - Machu Picchu - Cusco, Peru: Machu Picchu Marvels and Andean Return Dawn Departure to Magical Machu Picchu 5:30 am Begin your adventure with an early morning bus ride from Aguas Calientes. As the mist rises, ascend towards Machu Picchu—one of the world’s most enchanting ancient cities. Guided Exploration in the Incan Citadel Join a fascinating 2-hour guided tour, where you’ll unravel the mysteries and legends woven into the stones of Machu Picchu. Marvel at breathtaking views and learn about its history, engineering, and sacred significance. Free Time & Optional Huayna Picchu Hike After your tour, enjoy time to roam freely among the ruins or, for the daring, embark on an exhilarating climb up Huayna Picchu Peak (must be booked in advance at extra cost), rewarding you with panoramic Andean vistas. Aguas Calientes: Markets & Memories Return by bus to Aguas Calientes. If time permits, wander local markets bursting with vibrant handicrafts—a perfect spot for last-minute souvenirs or a quick snack. Scenic Journey Back to Cusco Board the train to Ollantaytambo, then transfer by bus through the scenic Sacred Valley. Arrive in Cusco around 8:00 pm—your magical day among the clouds complete. Note: Upon arrival at Cusco’s Plaza San Francisco, please make your way independently to your chosen accommodation."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Peru",
@@ -997,7 +1010,8 @@
         "description": "After breakfast, you will say goodbye to your lodge and the Tambopata Reserve as you travel back to the Puerto Maldonado Airport. Here you will catch your flight home- or on to your next location!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Peru",
@@ -1072,7 +1086,8 @@
         "description": "Sadly, today you will have to bid farewell to Peru... But only until next time for the next leg of a north Peru adventure. Hasta luego!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Peru",
@@ -1167,7 +1182,8 @@
         "description": "Free morning (depending on the time of your flight) before being transferred to the airport in time for your return flight home! (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -1257,7 +1273,8 @@
         "description": "Depart Cusco - Wave goodbye to Peru, as we transfer you to Cusco airport today for your onward flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Peru",
@@ -1352,7 +1369,8 @@
         "description": ": Our trip ends after breakfast at our hotel in Cusco. There are no activities planned today, so you're free to depart from Cusco at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from Alejandro Velasco Astete International Airport (CUZ), which is around a 15-minute drive from our hotel. Depending on the schedule of your flights, you might have additional time to visit a museum shop for souvenirs in the winding streets and alleys of the city. If you're travelling on to the Amazon, you'll be transferred to Alejandro Velasco Astete International Airport this morning for your flight to Puerto Maldonado."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Peru",
@@ -1397,7 +1415,8 @@
         "description": "After breakfast, we transfer by boat to Puerto Maldonaldo. We retrace our river and road journey back to Puerto Maldonado, our office and the airport. Depending on airline schedules, this may require dawn departures. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Peru",
@@ -1442,7 +1461,8 @@
         "description": "After breakfast, we transfer by boat to Puerto Maldonaldo. We retrace our river and road journey back to Puerto Maldonado, our office and the airport. Depending on airline schedules, this may require dawn departures. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Peru",
@@ -1487,7 +1507,8 @@
         "description": "Depart the lodge this morning after an early breakfast. You will be taken from the port to the airport, at which point your trip comes to an end. Departure flights for today should be booked for after 11:30 am."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Peru",
@@ -1572,7 +1593,8 @@
         "description": "Travel by private transfer to Puno's airport in time for your flight to Lima, which takes just over one and a half hours. Then connect with your international flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -1662,7 +1684,8 @@
         "description": "Tour Ends in Cajamarca: The tour ends today."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -1757,7 +1780,8 @@
         "description": "Today you will be collected from your hotel and taken back to Lima international airport for your return flight home. This is the day that you must say 'Tupananchikama Peru!' But only until next time..."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Peru",
@@ -1832,7 +1856,8 @@
         "description": "DEPARTURE - As your immersive journey through the wonders of the Amazon Rainforest concludes, it's time to return to Puerto Maldonado for your onward journey or next destination in Peru or Latin America. Reflect on the incredible experiences, diverse ecosystems, and the beauty of nature encountered during your time in this pristine and biodiverse region."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Peru",
@@ -1907,7 +1932,8 @@
         "description": ""
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -1972,7 +1998,8 @@
         "description": "Half-Day City Tour: We will pick you up at your hotel, to start your tour with a visit to the Coricancha, also known as the \"Temple of the Sun\" (or \"Premises of the Gilded One\"), the construction of which was ordered by Inca Pachacútec (1438-1471) and was used as a base for the construction of the Santo Domingo Convent upon the arrival of the Spaniards. This is when the Sun (Inti, in Quechua) was worshipped during the Inca Empire and at the time of the Incas its walls were fully covered with gold sheets and its courtyards were planted with golden corn and life-size llamas. You will then go to the Cathedral, the most important building on the Main Square and one of the most splendid Spanish colonial churches in America, which is shaped as a Latin Cross and houses about 400 colonial paintings from the Cusco art school, and impressive goldsmith, silversmith and precious stones works. Its construction lasted almost a century, it started in 1560 and ended in 1654. The Ecclesiastical Chapter ordered to extract and transport hundreds of stones from the Sacsayhuamán fortress for this purpose. You will then visit the said fortress, en emblematic work of the Incas, which protected the Holy City. Conceived and built by Inca Pachacútec in the 15th century, The Sacsayhuamán complex was built with megalithic blocks, which transportation and construction continue to be a mystery. The Inti Raymi Festival, which worships the Sun, is reenacted on June 24 of each year, during the winter solstice. You will then go to Qenqo, located four kilometers away from Cusco City, an archaeological complex mainly used for religious purposes, and it is believed that agricultural rituals took place there. You will finally visit the vestiges of Puka Pukara, located seven kilometers away from Cusco. Puka Pukara, which means \"red fortress\", was an architectural complex presumably used for military purposes; it has many rooms, squares, bathrooms, aqueducts, walls and towers, and it is believed that the Incas entourage used it while he rested at Tambomachay. At the end of the tour, we will take you back to your hotel. Type of service: Private Duration: 4 Hours Included: Transportation mentioned above, excursions mentioned above, local guide, Cusco tourist ticket Note: On Sundays, Qoricancha is closed in the mornings ** Transfer Cusco Hotel / Cusco Airport: At the appropriate time, we will pick you up at the hotel to take you to Cusco Airport Type of service: Private Included: Transportation mentioned above"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -2072,7 +2099,8 @@
         "description": ""
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -2172,7 +2200,8 @@
         "description": "You’ve explored a New World Wonder, seen the Nazca Lines and stayed on a Lake Titicaca island; but today, we start our return journeys home, although there may be time for optional tours of Lima, including visits to the Gold Museum and tours of the historic downtown. Alternatively, speak to your sales representative to join our add-on tour to the Amazon rainforest – an into-the-wild adventure to explore lakes, rivers and jungle trails in search of incredible wildlife."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -2272,7 +2301,8 @@
         "description": ": Our trip ends after breakfast at our hotel in Cusco. There are no activities planned today, so you're free to depart from Cusco at any time. If you'd like an airport transfer today, you need to depart from Alejandro Velasco Astete International Airport (CUZ), which is around a 20-minute drive from our hotel. As part of our Upgraded range, we also offer a complimentary transfer to those who have made post-tour accommodation arrangements through Explore, regardless of your departure day. Depending on the schedule of your flights, you might have additional time to visit a museum shop for souvenirs in the winding streets and alleys of the city."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Peru",
@@ -2367,7 +2397,8 @@
         "description": ": Our trip ends this morning at our hotel in Cusco. There are no activities planned today, so you're free to depart from Cusco at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from Alejandro Velasco Astete International Airport (CUZ), which is around a 15-minute drive from our hotel. Depending on the schedule of your flights, you may have some additional time to visit a museum or do some souvenir shopping in the winding streets and alleys of the city. If you're travelling on to the Amazon, you'll be transferred to Alejandro Velasco Astete International Airport this morning for your flight to Puerto Maldonado."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -2437,7 +2468,8 @@
         "description": "Departure: Wave goodbye to Peru after three magical weeks, as we drive you to Cusco airport to catch your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -2552,7 +2584,8 @@
         "description": ": Our Amazon adventure comes to an end today after breakfast and we'll travel back to Puerto Maldonado by motorised canoe before transferring to the airport. If you're booking your own flights, you should ensure that they depart from Puerto Maldonado no earlier than 11am."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Peru",
@@ -2667,7 +2700,8 @@
         "description": "Puerto Maldonado, Lima Day 2: Enjoy your last morning waking to the sounds of the rainforest as parakeets chatter away in the trees and monkeys swing through the treetops. Breakfast is served in Casa Grande with check-out at 10:00. Depending on the time of your departure ¬ight, lunch can also be arranged (additional cost applies). Embark your ready-waiting motorized wooden boat for the 25-minute return trip along the Madre de Dios River until arriving at the airport to take the flight to return to lIma and connect to your international flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Peru",
@@ -2782,7 +2816,8 @@
         "description": "Puerto Maldonado, Lima: Day 2: Enjoy your last morning waking to the sounds of the rainforest as parakeets chatter away in the trees and monkeys swing through the treetops. Breakfast is served in Casa Grande with check-out at 10:00. Depending on the time of your departure ¬ight, lunch can also be arranged (additional cost applies). Embark your ready-waiting motorized wooden boat for the 25-minute return trip along the Madre de Dios River until arriving at the airport to take the flight to return to lIma and connect to your international flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -2877,7 +2912,8 @@
         "description": "It is time to say goodbye to Peru as you are transferred to the airport for your return flight to Lima and to connect to your international flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -2972,7 +3008,8 @@
         "description": "Lima - Depending on your flight schedule you may have time to explore Lima by yourself or we can organise an optional guided excursion. Alternatively please contact us if you would like to extend your stay in Lima or take in other areas of the country such as Cusco and Machu Picchu or an extension to the amazing Peruvian jungle. Transfer to the airport for departure. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Peru",
@@ -3042,7 +3079,8 @@
         "description": "With no activities planned for today, you’re free to leave after breakfast. If you’d like to stay in Lima for longer, just speak to your booking agent.??"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -3137,7 +3175,8 @@
         "description": "Transfer from hotel to airport, early domestic flight Cusco - Lima included with LATAM. Optional guided tour in Lima possible when the international flight departure falls in the evening. With the Inca trail included you may have 18, 19 or 20 days in this itinery depending on which day you start the Inca trail."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -3222,7 +3261,8 @@
         "description": "Home - Departure After breakfast you will be transferred to the airport in time to catch your return flight home. (breakfast is the only meal included today)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Peru",
@@ -3297,7 +3337,8 @@
         "description": "Home - Departure After breakfast you will be transferred to the airport in time to catch your return flight home. (breakfast is the only meal included today)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Peru",
@@ -3352,7 +3393,8 @@
         "description": "Home - Departure After breakfast you will be transferred to the airport in time to catch your return flight home. (breakfast is the only meal included today)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Peru",
@@ -3447,7 +3489,8 @@
         "description": ""
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -3542,7 +3585,8 @@
         "description": "Arrive home today to complete your journey"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -3587,7 +3631,8 @@
         "description": "Early breakfast before your flight back to Cusco/Lima. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Peru",
@@ -3672,7 +3717,8 @@
         "description": "Sadly today marks the end of your tour of Perus highlight destinations. Once visited, we guarantee youll need to return for more. Perhaps have a look at our alternative, off the beaten track adventures for future travel inspiration to Peru."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -3732,7 +3778,8 @@
         "description": "Today you will make your way to the airport for your journey home. The sights of Peru have opened up worlds of luxury within the beautiful streets of Cusco to the citadel of Machu Picchu. The Andes rolled through the sky. Lima sparkled with variety. The trains wound through the foothills with decadent comfort. Your venture through Peru took you to the ruins in style, where every second was spectacular, from the grasslands to the skyline. As you pass through the clouds and Peru fades into the distance, you know that your memories never will. You will be dreaming about Machu Picchu tours and counting the days until your return."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Peru",
@@ -3807,7 +3854,8 @@
         "description": "You will be on a late-morning train back to Cusco, so there will be time for a second Machu Picchu visit. This one will be unguided and will be an excellent opportunity to climb one of the mountains. You will freshen up at the hotel before your train journey, which will include a hearty lunch and mountain views. Upon arrival back in Cusco, you will be transferred to the airport for your outbound flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -3902,7 +3950,8 @@
         "description": "In the morning, you will take your last pictures and pack your bags in anticipation of your journey home. One last time, you will board your luxury train car for a final glimpse of the Sacred Valley’s unmatched beauty where you will twist past the sparkling river stream and lush green terracing. Finally, you will arrive at the train station in Poroy and take a short drive back to Cusco. Here, you will delight in one last cup of mate de coca and the friendly faces of local Quechua women in traditional dresses and hats. Thump along the cobbled streets one last time before connecting to Lima and your international flight home. As your plane soars high above the majestic terrain, catch one final glimpse of the country’s beauty below."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Peru",
@@ -3997,7 +4046,8 @@
         "description": "As you board your scenic train back to Cusco, you will say your final goodbyes to the mysterious ruins and their coveted landscapes. As the train wails along the tracks, you can take in the vibrant green hues of the Andes one last time. You will chug across vibrant bridge crossings that connect one unassuming village town to the next, and you can crack the window for a cool alpine breeze. Soon, you will lurch to a halt in the city of Poroy where you will meet your transport to the Cusco International Airport and carry on to Lima for your connecting flights home. As you board your flight and reminisce on two weeks of thrilling adventures, you will have stories to share with the whole family in the years to come."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -4057,7 +4107,8 @@
         "description": "Today you will make your way to the airport and wave goodbye to the undulating hills of the Sacred Valley, the cobblestone streets of Cusco, and the treasures of Peru. You have witnessed the gilded beauty of the Spanish colonial past, along with the engineering riches of the Inca, including the Lost City of Machu Picchu radiating like a gem on a pedestal. As your journey home continues you will always have the memories of your time in Peru and you can keep them guarded like the treasures they are. Consider extending this 7-day trip. Visit the Peru travel agency section to read traveler reviews and get ideas of what other places to visit in Peru."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -4122,7 +4173,8 @@
         "description": "In the morning, the light brushes the colorful homes climbing along the hillsides encircling Cusco. The aroma of fresh Peruvian coffee blends with the slightly bitter aroma of coca tea. The 16th-century cathedral crowns the Plaza de Armas with a three-aisled nave and Renaissance interior with 14 large supporting pillars. The cream colored walls of the buildings stand out against the lush grass and rolling hills surrounding the city. After breakfast, your private transfer meets you in the hotel lobby and escorts the family to Cusco International Airport for your flight home. You have ventured along mountains and down rivers, into ancient cities and mysterious wonders for a great family adventure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Peru",
@@ -4202,7 +4254,8 @@
         "description": "Today you will venture to the La Paz airport and soar into the air above the heights of the highest capital, over the highest traversable fresh water lake, and watch the mountaintops of the Andes disappear. You have journeyed across the Inca Nation, the sensational remains of a lost civilization whose culture, you have found, is not completely lost to the world, but lies beneath modern cities and within the hearts and minds of the natives. You have seen towering ruins and crossed stunning lakes to discover the vibrant world of the Inca Nation."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -4262,7 +4315,8 @@
         "description": "The next day, you will pack your bags and prepare to board the luxury train car back to Poroy. You can admire one last time the sunkissed grassy fields and towering mountain peaks of the Sacred Valley. As time allows, you will also make a quick stop at the ruins of Ollantaytambo, which once served as a refuge point for the Incas as they escaped the Spanish invasion in Cusco. By mid-day, you will return to Cusco. You can enjoy a light lunch at the Plaza de Armas and shop for souvenirs and keepsakes at nearby markets and quaint corner store shops. In the afternoon, you will meet your guide in front of your hotel and board your private transport to Cusco's airport. You'll board a regional flight to Lima before connecting to your international flight home. As you and the kids look out the plane window at the sparkling Pacific waters, then to the family photos at Machu Picchu, Miraflores, and downtown Cusco, there will be plenty of fond memories in the years to come."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Peru",
@@ -4357,7 +4411,8 @@
         "description": "After a relaxing day at the lake, you will pack your bags as you say your final goodbyes to the rolling Andes Mountains, mystical Sacred Valley, and whimsical desert oasis. You can look back on photos of the sparkling beaches and lush tangles of the Amazon as you board your flight back to Lima. Lastly, you will bid farewell to your expert guide as you connect to your international flight home and dream about your next trip to Peru."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Peru",
@@ -4412,7 +4467,8 @@
         "description": "The day has arrived for you to put aside the fantastical beauty of Peru and venture home. You watch as the Andes roll beneath the plane as you ascend higher into the clouds. You can’t help but think of the diversity of Peru, from the colors of the Sacred Valley to the modernity of Lima, the soil that is rich with minerals and the country that is rich with history. Standing beyond the wonders of the Spanish colonial past are the sensational ruins of the Inca that have shaped the streets and people as much as remaining churches and palaces. Your journey through it all was nothing less than majestic, filled with the awe of a Wonder of the World and the ceaseless wonders that are Peru."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -4472,7 +4528,8 @@
         "description": "On your last day in Peru, you will return to Lima for some excitement and self-exploration. You can enjoy a leisurely breakfast late morning on a sunkissed patio with a fresh cup of tea or coffee. Then, you can relax along the shore as you watch paragliders descend from the rocky cliffside to the sandy shores below. You'll stroll through verdant parks with perfectly manicured gardens and enjoy some free time to shop for last-minute souvenirs. Mid-day, you will meet your guide back at your hotel and set out for the airport via private ground transportation. As you near Lima's International Airport, your memories will jog back to your breathtaking hike at Rainbow Mountain, your dip in the medicinal hot springs and Aguas Calientes, your immersive culture class in Chinchero, and of course, your summit to the world-renowned ruins of Machu Picchu. As you bid farewell to your guide, you will surely be making plans for a return trip to explore even more of Peru's wonder and beauty. It's truly a stunning oasis waiting for you to dive in deep."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -4537,7 +4594,8 @@
         "description": "In the morning, you will wave goodbye to the streets of Cusco, the towering boulders of Saqsaywaman, and the mountain peaks of the Andes. Make your way to the airport to begin your journey home. You have wandered through the remains of Spanish colonialism and seen the tenacity of Andean culture. You have tasted the flavors of Peru, witnessed the vivacity of the clothing, and wandered amongst wonders on your trip to Machu Picchu. Your time in Peru has brought with it the experience of heritage and tradition revealing the classic Peru."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -4602,7 +4660,8 @@
         "description": "Today you will make your way to the airport with the lingering flavors of Peru in your mind. The history of the Imperial City, the stunning citrus and seafood of Lima, the breathtaking view of Machu Picchu; you have experienced the wonders of Peru, from the food to the culture, where the magnificent essence of the cities and villages wasn’t relegated to the food but to the people, the ruins, the architecture, the history, and the overall connection of Peruvian life. You tasted the majesty of Peru and it tasted great."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -4682,7 +4741,8 @@
         "description": "After enjoying a leisurely morning in your comfortable hotel in Puno, you will have just enough time for a final stroll through the community. There are few things more specular than an Andean morning, and soon, a transfer will convey you to the nearby airport for your return trip home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -4747,7 +4807,8 @@
         "description": "The stores in Miraflores almost hide on narrow side streets next to historic residences. Surfers take to the morning break to catch the waves before work. Hang gliders take to the air basking in a moment of freedom overlooking the edge of the city. The streets come alive in Lima with the aroma of freshly brewed coffee and the sounds of people heading to work. The brightly blossoming flowers in the gardens of the Plaza Mayor decorate the forecourt of the Government Palace. After breakfast, your private transfer meets you at the hotel. Your ride to the Jorge Chávez International Airport is quick and comfortable. You will soon board your flight home, taking a piece of the eclectic cultures of Peru back with you."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Peru",
@@ -4862,7 +4923,8 @@
         "description": "On your final morning in Peru, you will have a fantastic immersion into the flavors of the diverse cultures that have shaped Peruvian cuisine with a gastronomic tour of Lima. The aromas of chocolate, caramel, and honey will fill the air at a coffee roastery. When visiting a local market, the vivid colors of exotic fruits will highlight the diversity of national cuisine, ranging from exotic sweets from the Amazon to the produce of the Andes in the likes of chirimoya and Peruvian cherries. Before you sip a traditional pisco sour, you can delight in the customary tastes of ceviche at a top seafood restaurant in the city. Fresh lime and onions will punctuate the layers of flavors among hot peppers, cilantro, and fresh saltwater fish. After your exploration of culture, your private transfer will meet you at your hotel and escort you to Lima’s Jorge Chavez International Airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Peru",
@@ -4937,7 +4999,8 @@
         "description": "When the sun stretches over the city the light reflects off of the cobblestones. The cathedral in the Plaza de Armas looks gilded and the old Temple of the Sun, known as Qoricancha, holds remnants of its golden walls, which are now decorated with holy catholic imagery. Breakfast is filled with the bittersweet scent of coca leaf tea and rich, flavorful Peruvian coffee. Cusco has an undeniable allure that the family has noticed since your arrival. After breakfast your private transfer meets you at the hotel and takes you to the airport for your flight home. The family has seen the wonders of Peru, from the Amazon to the Inca. The flight lifts over the Sacred Valley. The greenery spreads around the Andes. The kids smile and you know that your vacation has been an unforgettable experience."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Peru",
@@ -5007,7 +5070,8 @@
         "description": "You will take the train back to Cusco and transfer onwards to the city’s airport, where you will depart Peru after ten days that have taken you from Peru’s deepest jungle to the lost city."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Peru",
@@ -5072,7 +5136,8 @@
         "description": "Upbeat cries of native birds will ring out as they swoop low and dip their wings in the cool river water. In the distance, you can hear tree branches snap as spider monkeys pass from one branch to the next. Bullfrogs will let out their low-pitched murmurs while insects incessantly chirp away. You will awake to your final day in Peru. You can enjoy one last fresh rainforest breakfast and snap a few last photos of the family to commemorate this incredible experience. Then, your guide will meet you at your accommodation to escort you back to Puerto Maldonado. In Puerto Maldonado, you will catch your airport transfer to the regional airport and board your return flight to Lima. From Lima, you will embark on the final leg of your journey as you connect to international flights home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Peru",
@@ -5137,7 +5202,8 @@
         "description": "In the morning, the scent of rich coffee emanates from a local bakery located inside an old colonial building near Plaza de Armas. Freshly baked bread and eggs dressed with chimichurri sauce offer an herbaceous and fresh beginning to the day. You happily listen to the family share their favorite moments from the trip, recalling the market in Pisac and the hang gliders in Lima. Cusco returns to life with artists capturing the distinctive stone, and vendors in the marketplace providing varieties of corn, potatoes, and quinoa. Your private transfer greets the family in the hotel lobby and escorts you to Alejandro Velasco Astete International Airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Peru",
@@ -5212,7 +5278,8 @@
         "description": "Slightly heavier than you arrived, it will be time to leave Lima, and the tour will finish with a private airport transfer."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -5277,7 +5344,8 @@
         "description": "In the morning, the sleepy streets of Cusco awaken as galleries and restaurants open their doors to the bright sunlight spreading across the upper ridges of the encircling mountains. The aroma of fresh coffee emanates from a popular café with distinctly Peruvian décor in Plaza San Blas. You get ready for your evening flight, leaving your luggage with the front desk before heading to the Central Market with your private guide, who is also a local chef, for one last culinary tour of the Peru. You stroll between the vendors noticing the variety of potatoes, corn, and grains, including rice and quinoa. The scent of roasted chicken and popcorn emanates from the food court. Locals and visitors enjoy delicious local fare for reasonable prices while dining at the long wooden tables. You continue to the private residence of your chef to learn about the customary dishes of Cusco, beginning with choclo con queso , corn with cheese. The multi-course meal offers the perfect farewell, crowning your time in Peru."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -5337,7 +5405,8 @@
         "description": "Awake to the crashing waves from your private hotel balcony in Miraflores on your last day in Peru. You can enjoy the views as you sip on coffee or tea and crunch into a delicious tostada. During the first half of the day, you can stroll through Miraflores or descend to the sandy beaches below for a quick dip. Then, you can partake in some last-minute souvenir shopping at the Larcomar shopping center or nearby street vendors. You are sure to find a wide variety of gems, including jewelry, pottery, ceramics, and woolen goods. After a light lunch beside the Plaza de Armas, you will meet your guide in your hotel lobby. Next, you will load your luggage in your private transport and take off for Lima's International Airport. It's here that you will say your final goodbyes to your guide who has been with you throughout your journey. As you board the plane and look out at the shimmering Pacific waves, you will think back to the many captivating landscapes of Peru: from rolling hillsides to sandy beaches and rolling hills. Of course, the food, history, and culture beckon you for a quick return to this magnificent country."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -5397,7 +5466,8 @@
         "description": "On your final day in Peru, you will return to the fast-paced life of Lima, where colors bursts from tiny storefronts and taxis speed along principle boulevards. You can enjoy a leisurely morning or self-exploration as you circle back to the shady palm trees of the historic center or stroll along the scenic oceanfront. You will also have a chance to shop for souvenirs along the verdant boulevards teeming with infatuated couples and families out for a picnic lunch. Then, by mid-day, you will meet your guide in front of your hotel and board private ground transportation en route to Lima's International Airport. As you board, you can crack the window for that last inhalation of fresh ocean air. As you pass by one last time, the sun shimmers on the turbulent waves. In no time, you will arrive at the airport where you will say your final goodbyes to your befriended guide. While you wait for your plane to take off, you can look back on photos that will transport you back to the grassy field of the Sacred Valley, the vivacious markets of Cusco, and the unforgettable splendor of Machu Picchu's ruins."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -5462,7 +5532,8 @@
         "description": "As your adventures in Peru begin to wind down, you will be able to indulge in some last-minute shopping and exploration. You will also have the opportunity for a leisurely bike ride along the coastline, where you can snap a few photos. Shortly, you will return to your hotel, where you will be transported to Lima's International Airport for your international flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -5537,7 +5608,8 @@
         "description": "In the morning, a slow-moving mist rolls through the forest before sunrise. The clouds leave residual dew along the grass and treetops before dissipating with the returning light. The scent of coffee fills the dining room and an ash-throated antwren twitters in the trees with a light and airy call that becomes a series of quick chirps in rapid succession. You enjoy the quiet moment reflecting on your time in Peru before your private transfer escorts you to Cad. FAP Guillermo del Castillo Paredes Airport for your flight to Lima. After the brief transfer, you check in to your international flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -5632,7 +5704,8 @@
         "description": "The highlights of Peru have taken you from the coastal lowlands onto the placid waters of the largest and highest freshwater lake in the world. At breakfast, you relish the sweet flavors of Peruvian cherries and enjoy the vibrant colors of the dragon fruit’s rind. You reflect on the remarkable journey you took across the Andes and along the Pacific waters, discovering the majesty of hidden ruins and the splendor of wildlife. After the meal, your private transfer greets you at the hotel and escorts you back to Lima and Jorge Chavez International Airport, where you check in for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -5687,7 +5760,8 @@
         "description": "The streets of Cusco sound different in the morning, quiet and serene. You can walk through the often busy Plaza de Armas, where the romance of couples kissing or the laughter of children playing in the fountain echoes off of the buildings. The slightly bitter scent of coca tea fills the streets, the soft footsteps of a procession of nuns stroll past the trickling fountain. Sacsayhuaman shines in the sunlight as it overlooks the city, and it is one of the last views of Cusco you will have before you depart for home. Essential Peru is hidden like a poorly kept secret within the people and history of the country. Ruins climb over mountaintops and stand along cliffs. The people burst with color and happiness, their food soothing and comfortable. The cities are filled with the life of its people and its people fill the cities with life, from seaside neighborhoods to cobblestone streets. You have ventured through valleys and on top of mountains, into catacombs and on top of history. You have seen what essentially makes Peru and as your flight climbs into the sky you know that you have experienced Peru and uncovered its real secrets."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -5752,7 +5826,8 @@
         "description": "The following day, you can enjoy one final morning on your private balcony before indulging in a light breakfast with your family. You will surely want to snap a few photos to capture your remarkable experience, and you can listen one last time for the coos and chirps of energetic birdlife. Soon, your guide will greet you at your lodge accommodation to guide you into your private riverboat for a final cruise down the Madre de Dios River. As you cruise down the river, you can look out at the swinging treetops and the sparkling waters. Shortly, your riverboat will dock on the shoreline, and you will meet your private ground transport and transfer to the Puerto Maldonado airport for your departing flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Peru",
@@ -5812,7 +5887,8 @@
         "description": "Finally, on your last day in Peru, you will return to the quickened pace of city life in Lima. Here, you will have the chance to explore the city one more time on your own. You can partake in souvenir shopping downtown, or stroll through the city's many art and history museums with lovely examples of Inca and pre-Inca pottery. You can also soak in the sunshine a little while longer as you walk through the Parque del Amor or around the Plaza San Martin. As time allows, you can even hitch a bike ride south to the beautifully rich neighborhood of the Barranco District. Here, buildings burst with color, and street art pops out from nearly every angle. You will listen to melodic street buskers as you walk across the Puente de los Suspiros bridge for the best view of the city. You can enjoy a light lunch here before returning to your hotel. At the hotel, you will again meet your guide and board your private transport en route to Lima's Airport. From there, you will connect to your international flights home, surely, with plans to return soon."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -5872,7 +5948,8 @@
         "description": "In the morning, you will breathe in the fresh mountain air and listen to the swift stream of the Urubamba River from your hotel balcony. During the morning hours, you can venture into the city center and enjoy a light breakfast before shopping for souvenirs. By mid-morning, you will board the scenic train for a ride back to Cusco. Soon, you will arrive in Poroy, and from there, you will be transferred to Cusco's regional airport. You will fly to Lima before boarding your international flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -5947,7 +6024,8 @@
         "description": "At 11,000 feet, there is little atmosphere to interrupt the vibrant morning light that will flitter across the city of Cusco. After enjoying a leisurely morning, you will have a little time to explore the Spanish and Inca influences of this town before making your way to the airport for your connecting flight to Lima."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Peru",
@@ -6007,7 +6085,8 @@
         "description": "As your journey comes to a close, you can enjoy one last cup of mate de coca tea from atop your balcony or at a nearby open-aired cafe. You will breathe in the salty seaside air and let the cool breeze wash over you. By mid-morning, your private transfer will arrive at your hotel and accompany you to the Jorge Chavez International Airport, where you will connect to your international flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Peru",
@@ -6067,7 +6146,8 @@
         "description": "In the morning, you will board a luxury train that will take you from Aguas Calientes to Cusco. Soon, you will arrive in Poroy and meet your transportation that will return you to Cusco. From there, you will catch your regional flight back to Lima and then connect to your international flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Peru",
@@ -6127,7 +6207,8 @@
         "description": "Today you leave the wonders of the Andes behind and wave goodbye to the Inca Trail. Your time in Peru has brought you to spectacular heights, from beneath the grounds of the Church of San Francisco to standing above the Lost City, where it felt like even birds wouldn’t dare to fly. The exceptional sights of ruins strewn across the mountainside and orchids blossoming beneath the jungle canopy will never be less than majestic. Fly through the clouds, over the remnants of the Inca Trail, where you will always remember such great heights."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Peru",
@@ -6202,7 +6283,8 @@
         "description": "With a late-afternoon flight, you will still have time to explore. Llamas will graze beside stone ruins just north of the city, and cobbled city streets will lead to markets of incredible color and life. The museums are adequate, but the buildings that house them are superb, rich examples of both Inca and Spanish colonial architecture. The guide will have planned out the morning, following on from yesterday’s sights and ensuring you will get to see everything from elaborate churches to haunted, millennia-old relics. Late check-out will be arranged so you can freshen up before the outbound flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Peru",
@@ -6277,7 +6359,8 @@
         "description": "You will spend one final morning in the Amazon where you may wake to melodic birdsongs. You can take a walk past tangled roots and strange trees, absorbing the rainforest atmosphere for one final time. On the way back to Iquitos, you will stop at a manatee rescue center for an opportunity for some close-up encounters with the rare creatures. Then, it will be an evening flight back to Lima, where you will land and transfer to your international departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Peru",
@@ -6362,7 +6445,8 @@
         "description": "Your private transfer takes you to the airport for your departure from the continent. Natural and cultural memories compete as you soar back home and mentally argue about the trip's highlight. Machu Picchu? Or Galapagos? You’ve enjoyed two iconic experiences that reflect the ingenuity and beauty of our planet. For additional tour options, read about other Galapagos Islands tours offered by Zicasso. For traveler experiences, read the Galapagos Islands tour reviews ."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Peru",
@@ -6437,7 +6521,8 @@
         "description": "After returning to the city set at 11,000 feet above sea level, you feel well-equipped to enjoy the beauty of the Inca capital city. The sunlight washes over the cobbled streets and brings the familiar aroma of grilling corn and fresh coffee drifting from the cafes and Central Market. At breakfast, you sample the delicious tumbo , a treat that is in the passionfruit family and shares a similar tart-sweetness. Before your flight, you take the opportunity to visit Coricancha, the Temple of the Sun. The former religious center for the Inca priests was framed in gold, and now supports the church of Santo Domingo. The Inca stonework continues to impress visitors with a supportive wall reaching nearly six feet tall. The Spanish conquistadors stripped the religious center of the gold and the priests transformed the grounds into a Christian holy center to help convert locals. Your private transfer greets you in the hotel lobby when you are ready and escorts you to Alejandro Velasco Astete International Airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Peru",
@@ -6497,7 +6582,8 @@
         "description": "Alas, your trip will conclude with a final day in the nation's capital where you can get lost in the murmur of traffic and the frenzied energy of pedestrian foot traffic. You will start the morning with a scenic bike ride to the art-infused Barranco District, where culture and whimsy exude from every corner. You can enjoy a light lunch as you look out on the colorful street art and cross the Puente de los Suspiros bridge for inspiring views of the neighborhood. By mid-day, you will meet your guide once again in front of your hotel and board ground transportation bound for Lima's International Airport. One last time, you will bounce along the cobbled streets of Lima's historic downtown as you round the corner of the Plaza de Armas. You will speed along the sparkling ocean waters as you near the airport. After saying goodbye to your expert guide and travel companion, you can look back on photos of your amazing journey as you plot the next unforgettable trip the family will treasure for years to come."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Peru",
@@ -6562,7 +6648,8 @@
         "description": "Alas, all adventures must come to an end. On your final day of this tour, it would not be uncommon to feel a tinge of reluctance to leave. As the sun emerges from behind the Andean peaks and spreads its warm rays across modern structures and ancient ruins, you may be left in awe by the staggering beauty of this region. At breakfast, you can indulge in the aromas of coffee sourced from the Valle Inca or sample a local twist on a traditional breakfast favorite before leaving the Antigua boutique hotel behind. As you board your outbound flight from Cusco's main airport, you can rest assured knowing that there is still much to see and do in this corner of the world."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -6642,7 +6729,8 @@
         "description": "Today the 4x4 adventure through Peru comes to an end as you board the plane set for home. The waves wash over the sands of Miraflores, the Nazca lines stay deep in the arid sand, and Machu Picchu stands high above the sunken valley. Your adventure through Peru took you off roads, up mountains, within valleys, circling islands, and to the glittering, clear water. Your heart raced over sand dunes and your mind wandered through history. You may be heading home but there’s always another adventure waiting around the corner."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Peru",
@@ -6712,7 +6800,8 @@
         "description": "During a relaxed morning in Cusco you could visit a spa or take a final visit to the Plaza de Armas. You will be transferred to the airport in plenty of time for your domestic flight to Lima, where you will transfer to an international departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -6787,7 +6876,8 @@
         "description": "Today you will dock in Nauta and then make your way back to Iquitos. The stunning iron building designed by Gustave Eifel stands proud among the city’s history. Board your flight and watch the trees fade away and the familiar sights of home wash over you. Your journey through Peru had you cruising through mountains and rainforest, seeing colorful culture and vivacious wildlife, traversing the Andes and the Amazon. Home may be where you are headed but you know that your heart will always be in Peru. Peru vacation packages are hard to forget and you will be counting the days until your return!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -6877,7 +6967,8 @@
         "description": "Today you will make your way to the airport after a brief stop in Lima before your return journey home. Spend the morning before your departure winding along the cobblestones of Cusco one last time, memorizing the tiny alleys and vibrant galleries. Once in Lima you can enjoy a unique dining experience beside a 1,500 year-old pyramid. The decadent treats on the menu range from quinoa and corn dressed in green beneath succulent beef medallions, to fried yucca and lomo soltado , a Peruvian stir-fry. The salty crunch of the yucca and the grainy richness of the quinoa is enough of a reason to visit Huaca Pucllana; however, mixed with the scent of history from the architectural site, the experience is as unforgettable as Machu Picchu itself. After dinner you will make your way to your flight and wave goodbye to the delicacies, comforts, luxuries, and majesties of Peru, and say hello to home, never forgetting the depths in which you explored the history and culture of this country, as well as yourself."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Peru",
@@ -6952,7 +7043,8 @@
         "description": "A true treasure of the canyon is not just in its natural landscapes but also in those that inhabit that landscape. When the morning is in full swing and the mist of dawn fades away, you will venture into the cool canyon air to the Cross of the Condor. The stone cross is large and intimidating; however, it marks the spot where you will no longer be looking down into the terraced loveliness of the valley and will instead be looking up. In the Western Hemisphere, there are no larger flying birds than the condor. They can be described as elegant, graceful, and even majestic, a holy animal to the Inca, but standing beneath the condor as they glide through the air, you may not need to try and capture their majesty in a manner other than by watching. Their wingspan reaches an average of nine-feet wide as you watch them dive to the prairie below. Soon you will journey back to Arequipa where you will board your plane for home, but for now, you can enjoy the calm of the condors and the serenity of the sky. Take a look at the Machu Picchu tour operator reviews for further ideas on how to customize your trip, and read traveler reviews of their Peru vacations."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Peru",
@@ -7027,7 +7119,8 @@
         "description": "Today you will make your way to the airport and watch the waves crash along the shore of Miraflores. Your time in Peru was filled with adventure and exploration through the amazing sights from the colonial history to Incan wonders. The plane climbs higher into the air and you can almost make out the silhouette of the Andes in the distance. The lingering perfume of the altiplano is a luscious reminder of ruins, of lakes, and of your travels through the sensational history waiting to be explored. You witnessed essential Peru and dove into the life of another world that had been waiting for you."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -7097,7 +7190,8 @@
         "description": "Today you will board a flight that will take you away from the lingering mountaintops of the Andes. As you drift into the sky your first thought is of the Cloud Forest. The steps of the Inca Trail echo in your mind. The scent of the orchids that spread beneath the canopy and the cascading waterfalls that meandered through the jungle are fresh in your mind. You followed the path of history, recounting the steps of the Incas, making your way through the Sacred Valley into the magnificent Lost City of Machu Picchu, where the natural beauty of Peru was as majestic as the history that remained. If you'd like to extend your time in Peru, take a look at the Machu Picchu tour reviews for ideas on additional places to visit in Peru, and around Machu Picchu."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Peru",
@@ -7172,7 +7266,8 @@
         "description": "Today you will make your way out of Cusco where you will connect to your flight home in Lima. The sensational sights of Peru stretch across the metropolis of Lima, from the foothills of the Andes, and into the Amazon Basin. You traveled through clouds and found the Lost City of Machu Picchu. You ventured into the rainforest to see the vivacious shades of macaws and the secret wilds of the hidden Amazon. The modernity of Lima rolled through the diversity of the neighborhoods. Your time in Peru brought you more than just an adventure, it brought you an imaginative world full of memories to return to time and again."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -7237,7 +7332,8 @@
         "description": "In the early morning hours, you can enjoy a refreshing cup of cafe con leche with breakfast. You will then have a couple of hours for self-exploration along the coast or inside several local markets. Soon, you will have to return to your accommodation for your transfer to the airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -7312,7 +7408,8 @@
         "description": "Today you will wade through the waters of Amazon Basin and return to Puerto Maldonado. The calls of macaws and prehistoric grunts of howler monkeys fade into the trees. Board your flight and watch the canopy disappear below. Your time in Peru gave you the wondrous variety of the Andes and the Amazon, where the mountains rolled and the trees surrounded you. Ruins decorated hills and birds adorned the cliffs. You witnessed the wonder of Machu Picchu and the majesty of the rainforest. You ventured through Peru and discovered how diverse it truly is."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -7392,7 +7489,8 @@
         "description": "Before your return flight home, you can enjoy the fascinating history and scenery of Lima. The electric ambiance of Miraflores stems from the beautiful cliffs that are lined with glass, steel architecture, and old colonial buildings. The sea breeze sweeps across the walkways and carries hang gliders over the edges of the Pacific Ocean. When you are ready, your private transfer will meet you at the hotel and escort you to the airport, bringing an end to your fascinating adventure in Peru."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -7452,7 +7550,8 @@
         "description": "In the morning, you can enjoy a few hours of free time to stroll through the picturesque parks of Miraflores or to shop for final souvenirs in Lima's downtown area. This morning will provide you with the perfect opportunity to capture a few more lasting photos as well. Before you know it, your time in Peru will come to a close, and you will meet your guide in front of your hotel to be transferred to Lima's international airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -7517,7 +7616,8 @@
         "description": "You and your partner will awake to sweet sounds as you prepare for your return trip to Cusco. After a light breakfast, you will once again board a luxury train that will take you through the valley. When you arrive in Cusco a few hours later, you will be met by your local guide and escorted to the Cusco airport. From here, you will board a regional flight back to Lima before connecting to your international flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Peru",
@@ -7577,7 +7677,8 @@
         "description": "As the sun rises on your final day in Peru, you will travel down to the oceanfront for one last cup of coffee or mate de coca beneath the warm Peruvian sun. You and your partner will watch as the waves crash and sky gliders hover from cliffside to the sandy beaches below. Soon, you will be met in front of your hotel with private transportation to Lima's international airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Peru",
@@ -7637,7 +7738,8 @@
         "description": "On your final day in Peru, you will board a regional flight back to Lima. There, you can enjoy a few hours of shopping and relaxation as you once again take in the breathtaking ocean views. You can also sit out on the patio and enjoy one last refreshing glass of pisco sour . Then, you will meet your guide of your hotel and be whisked away to Lima's International Airport. As you look out the window of your private vehicle, you will be reminded of the enchanting memories you have created during your weeklong excursion in Peru. From the thrilling helicopter ride over Nazca and the luxurious train ride through the Sacred Valley to your private cooking class in Chinchero, and of course, your trek to Machu Picchu, your romantic Peru vacation will be complete. Even as you return home, you and your partner will surely be reminiscing over your once-in-a-lifetime experience in the weeks and months to come."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Peru",
@@ -7697,7 +7799,8 @@
         "description": "On your last day in Peru, you will return to Lima for one final day of self-guided exploration. Your morning begins with a tour of the House of Peruvian Gastronomy, where you will see how famous dishes like pachamanca and pollo a la brasa have been prepared for thousands of years. Later that day, you can choose between a visit to the National Museum of Peruvian Culture or peruse the city's Art Museum of Lima. After a light lunch along the Plaza de Armas, you can indulge in an afternoon of shopping and leisure as you return to the picturesque coastline and the distinguished neighborhood of Miraflores. Then, by late afternoon, you will meet your private ground transfer in front of your hotel, where you will be whisked away to Lima's International Airport. You will say your final goodbyes to your tour guide before boarding your flight home. As you once again look out the plane window, this time at the setting sun, you will taste the lemon-lime zest of ceviche of Lima, the crisp grilled trout of Lake Titicaca, and the delectable pisco sour of the mystical Sacred Valley. It's not a forever farewell, merely a brief parting until your return to delve further endless array of eclectic Peruvian cuisine."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -7777,7 +7880,8 @@
         "description": "From the charming urban environment of Lima to the lofty heights of the Andes, you excursion through this land has provided you with a delightful blend of leisure time and guided outings and as you awake to your final morning on this tour, a whole new appreciation for this colorful corner of South America will be yours to enjoy. After a relaxing wakeup, a comfortable transfer will arrive to ensure your timely arrival to the main airport of La Paz and your departing flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -7837,7 +7941,8 @@
         "description": "After breakfast, you can explore the town's small center and shop for souvenirs. Depending on the timing, you could also appreciate the town's namesake, Aguas Calientes, as you dip your toes into the natural hot spring waters. In the afternoon, you will say goodbye to this beautiful place as you begin your journey home. Once again, you will board a luxury train for your return trip to Cusco. Shortly, you will return to Cusco, where you will board a regional flight back to Lima. In Lima, you will connect to international flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -7932,7 +8037,8 @@
         "description": "You will depart from the Puerto Maldonado airport early the next morning and be destined for Lima. From the airport in Lima, you will connect to international flights home, and bid a final farewell to your guide as you roll towards the gate, bags in tow."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -8027,7 +8133,8 @@
         "description": "The next morning, you will give your parting goodbyes to your expert guide and catch last glimmers of the Sacred Valley's unmatched beauty as you board your luxury train car that is destined for the village of Poroy. This unique railroad ride will offer a beautiful 360-degree view from its glass ceiling and large lateral windows. The train will move across arching wood bridges, past cascading waterfalls, and through grassy green fields. Once you have come to a final halt, you will meet your private transport who will escort you to the Cusco airport. From here, you will board your regional return flight to Lima and connect to your international flight home. You can gaze out the window as you soar past the rugged Andes mountains and Lima's outstretched turquoise-blue beaches one last time. Above all else, you can recall the exhilarating adventures and moments of serenity that will provide you and your partner with unforgettable memories for years to come. They may even have you booking a trip back to Peru much sooner than you think."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Peru",
@@ -8122,7 +8229,8 @@
         "description": "Today, you will depart the Incan world after breakfast with a private transfer to Cusco’s airport."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Peru",
@@ -8217,7 +8325,8 @@
         "description": "After a light breakfast, you must say your parting goodbyes to your expert chef and the beauty of the Amazon beyond. You will board your private transport for one last look at the region's jaw-dropping landscapes before winding down narrow mountain roads as cascading streams hug the cliffside beneath you. You will snake your way through the cloud forest as the morning mist wakes sleeping foliage. Finally, you will return to Cusco where you will catch a regional flight to Lima and connect to your international flights home. You can wave to your guide out the plane window as you depart a country with a storied past, intriguing present, and hopeful future in the years to come."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Peru",
@@ -8277,7 +8386,8 @@
         "description": "Your Peruvian adventure will conclude with a brief exploration of Lima. In the morning, you will board a flight to Lima and stow luggage at your hotel in Miraflores so that you can experience your last hours of metropolitan life in Lima. For the first half of the day, your guide will lead you on a tour of the downtown area. In the afternoon, you will meet your guide in front of your hotel and transfer to the airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Peru",
@@ -8362,6 +8472,7 @@
         "description": "Today you will venture away from the desert oasis of Paracas and cruise along the cool, sweet ocean to the Ballestas Islands. The mist is refreshing and cool blowing in the breeze, while the fresh saltwater scents wraps around you. Look back at shore and see the stationary candelabra of Paracas drawn into the hillside like the Nazca Lines. The Ballestas Islands are a series of rock formations that have become a haven for wildlife along the Peruvian coast. Over the crash of waves you can hear sea lions barking. Their slick bodies lounge in the sun along the shore. Sunlight shines through the craggy holes in the rocky islands like tunnels to nowhere. Once on shore you will journey to the stunning Lagunillas located in the Paracas National Reserve. You can see the arid hills reach the corners of the sea and roll into the horizon. Climb the rocky terrain and look out into the water, the coarse earth hard against your palms. You can hear the crash of waves and the soft whisper of the breeze. Enjoy a delicious and rich lunch at San Jose in Chincha, a colonial hacienda that dates back to the 17th century. The hacienda stretches the length of a city block with arches opening the heart of the building to the outside world. The opulence of the building and the decadence of the food seems like it couldn’t have changed in almost 400 years. After lunch you will return to Lima for your flight home. From the winding eclecticism of Lima to the magical wildlife of the Amazon, the cultural sensations of Lake Titicaca to the unique lines that decorate the Nazca plain, you have traversed Peru and have seen that the city of Machu Picchu that floats in the clouds and the oasis of Paracas as it twinkles beneath the sun. The world is filled with wonders; however, none can beat the Inca-credible wonders of Peru. If you'd like to extend your Peru vacation, take a look at the trip reviews for Machu Picchu . You will get ideas and read about what other travelers enjoyed in Peru."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   }
 ]

@@ -72,7 +72,8 @@
         "description": "You’ve seen the beauty of the Albanian Riviera, walked in the footsteps of Julius Caesar, and witnessed magnificent monuments from civilisations past, but now it’s time to begin your return journey home. Alternatively, if you’d like to extend your adventure, speak to your sales representative to discuss our large range of extension options."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Albania",
@@ -137,6 +138,7 @@
         "description": ": The trip ends after breakfast at our hotel in Tirana. There are no activities planned today, so you're free to depart from Tirana at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from Tirana airport (TIA), which is around a 30-minute drive from our hotel. If you want more time in Tirana, why not extend your stay? The capital is an extremely safe and friendly city, easy to navigate, and has plenty to offer for families. Contact us to book additional accommodation pre- or post-tour."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   }
 ]

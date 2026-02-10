@@ -62,7 +62,8 @@
         "description": "After breakfast, individual transfer to Turin airport"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Italy",
@@ -117,7 +118,8 @@
         "description": "transfer to Perugia train station"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Italy",
@@ -247,7 +249,8 @@
         "description": "Unfortunately, you will depart Rome today, and the country in which you have fallen in love. From the north to south and from land to sea, this 21-day tour has delivered a balanced approach to exploring this colorful corner of Europe. Like chocolate, moderation is the best approach to taking in the vast array of cultural and historic sites contained in Italy, and the good news is that there is still so much to see for your return trip."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Italy",
@@ -367,6 +370,7 @@
         "description": "After enjoying a final breakfast from the attentive hotel staff, you will have time for one more cup of the delicious Italian espresso before departing the narrow alleys and quiet piazzas of Lecce for your return home. From the Mycenaean ruins of Sicily to the slopes of Mt. Etna, you will have seen a side of Italy that is missed by many."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

@@ -57,7 +57,8 @@
         "description": "Chisinau - Transfer to the airport for departure. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Moldova",
@@ -112,6 +113,7 @@
         "description": "Departure from Chisinau - The tour ends today after breakfast when airport transfers leave to meet onward flights. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

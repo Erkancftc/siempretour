@@ -72,7 +72,8 @@
         "description": "Your trip comes to an end today after breakfast. If you'd like to extend your stay, just get in touch with your booking agent ahead of time."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Azerbaijan",
@@ -147,7 +148,8 @@
         "description": "Nakhchivan visits – Baku (Domestic flight) – Departure from Azerbaijan - After breakfast we drive to the remarkable 14th century Garabaghlar Mausoleum in Nakhchivan’s north west, and later call in at Duzdagh’s vast therapeutic salt mines. After lunch we return to Nakhchivan city and visit Ashabi–Kahf cave sanctuary, a site of Islamic pilgrimage. There is also time to take in the city’s history museum and the carpet museum. Dinner at the local restaurant and then, transfer to Nakhchivan airport for your flight back to Baku, and onward overnight flight back home. (BLD) Note: If required, we can arrange an extra night post tour in Baku. Contact us for details."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Azerbaijan",
@@ -222,7 +224,8 @@
         "description": "At the relevant time, you'll be transferred to the international airport for your onward flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Azerbaijan",
@@ -277,7 +280,8 @@
         "description": "Departure from Baku - At a time that works for you, our representatives will meet you at your hotel and transport you to the International Airport for your departure flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Azerbaijan",
@@ -332,7 +336,8 @@
         "description": "Transfer to the airport, departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Azerbaijan",
@@ -517,7 +522,8 @@
         "description": "Our journey draws to an end in the hustle and bustle of Hong Kong. We bid our fellow travellers farewell after an epic railway adventure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Azerbaijan",
@@ -582,6 +588,7 @@
         "description": "Baku - Transfer to the airport for your flight home. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

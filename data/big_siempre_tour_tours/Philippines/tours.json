@@ -82,7 +82,8 @@
         "description": "Every adventure always has an end, but do not worry since you will be having more soon! In the morning, a driver will pick you up from your resort and head back to the airport of Busuanga where you will take your flight bound to Manila. From there, you will fly home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Philippines",
@@ -187,7 +188,8 @@
         "description": "Bid farewell to El Nido and the Philippines today as you transfer back to the airport in time for your flight home. Your return flight will arrive the same day."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Philippines",
@@ -287,7 +289,8 @@
         "description": "Departure from Manila - Transfer to the airport at a time convenient for your onward flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Philippines",
@@ -397,7 +400,8 @@
         "description": "CHECK OUT & ONWARD TRAVEL: Your amazing 17 day adventure comes to an end. You can either check out and make your way back home, stay on longer in Manila or continue your travels in the Philippines."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Philippines",
@@ -487,7 +491,8 @@
         "description": ": The trip ends after breakfast at our hotel in Manila. There are no activities planned today, so you're free to depart from Manila at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from Ninoy Aquino International Airport (MNL), which is a 30-minute drive from our hotel."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Philippines",
@@ -592,7 +597,8 @@
         "description": ": This morning, you'll be transferred to Bohol-Panglao International Airport (TAG) for your short flight back to Manila International Airport (MNL), arriving around 1pm. This is where our tour ends and the earliest your international flight can depart is 5pm."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Philippines",
@@ -697,6 +703,7 @@
         "description": "MANILA Our voyage ends in the Philippines capital of Manila. Disembark Coral Adventurer at 9:00am and bid farewell to new-found friends, the Master and crew."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   }
 ]

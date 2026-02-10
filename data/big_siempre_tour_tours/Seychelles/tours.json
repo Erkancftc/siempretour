@@ -62,7 +62,8 @@
         "description": "After an unforgettable stay, flight back to Mahe for your international flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Seychelles",
@@ -127,7 +128,8 @@
         "description": "Saturday Mahe (Victoria) Disembarkation 9:00 to 10.00 am"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Seychelles",
@@ -197,7 +199,8 @@
         "description": "Today you will arrive back home"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Seychelles",
@@ -247,7 +250,8 @@
         "description": "Wednesday: Baie St. Anne, Praslin. Disembarkation at 9:00 am after breakfast."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Seychelles",
@@ -312,7 +316,8 @@
         "description": "Saturday: Mahé (Victoria) Disembarkation after breakfast. End of the cruise in Victoria, Mahé."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Seychelles",
@@ -367,6 +372,7 @@
         "description": "Victoria, Mahé (Trip End) Final sail into Victoria, capital of the Seychelles Disembark after breakfast, with time to extend your stay in paradise"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   }
 ]

@@ -87,7 +87,8 @@
         "description": "Today you'll be met by your private driver and taken back to the airport where you will check in for your flight home to the UK."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Mauritius",
@@ -137,7 +138,8 @@
         "description": "Depart Mauritius - Following your delicious breakfast, you'll be transferred to the airport in Mauritius, where you can board your international flight back home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Mauritius",
@@ -202,7 +204,8 @@
         "description": "Set sail on a morning dolphin-watching excursion, witnessing these graceful creatures in their natural habitat. Be captivated by their playful antics and create memories that will stay with you forever. Spend the afternoon relaxing on the beach, reflecting on the incredible adventures you've experienced throughout your trip. As the sun sets, bid farewell to Mauritius."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Mauritius",
@@ -302,7 +305,8 @@
         "description": "Departure from Mauritius. Drop the car in the airport and head on your flight. We hope to see you soon!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Mauritius",
@@ -392,7 +396,8 @@
         "description": "Oh no! We are sad to see you leave! Our driver will take you to Rodrigues airport from your Boutique hotel. Once you land in Mauritius, you can connect directly back home!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Mauritius",
@@ -472,7 +477,8 @@
         "description": "Free day. Today is your last complete day and, we'll take it easy on you. You may decide to rest and enjoy the view and the natural setting of your eco-lodge, or well, grab a bike to discover the beautiful winding coastal road."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Mauritius",
@@ -567,7 +573,8 @@
         "description": "Mahébourg. Last but not least: a visit to the 1st port of Mauritius! Pass by to enjoy the last lunch before heading to the airport and, if time allows, enjoy a walk on the colorful waterfront. Car drop-off at the airport. Departure from Mauritius."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   },
   {
     "destination": "Mauritius",
@@ -652,7 +659,8 @@
         "description": "Today you will travel to the airport to fly back home. Travel time approxinmalty 40 minutes. Hotel on breakfast basis."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Mauritius",
@@ -727,7 +735,8 @@
         "description": "As your trip draws to a close, you will be transferred to the airport for your flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Mauritius",
@@ -812,7 +821,8 @@
         "description": "You arrive back in London this morning."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Mauritius",
@@ -847,7 +857,8 @@
         "description": "Return flight to London."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Mauritius",
@@ -882,6 +893,7 @@
         "description": "Return home. Take a return flight from Johannesburg to London."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   }
 ]

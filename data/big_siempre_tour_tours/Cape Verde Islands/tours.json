@@ -62,7 +62,8 @@
         "description": "Palmeira, Sal Arrive back in Palmeira early in the morning. Disembarkation takes place at around 9:00am after breakfast."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Cape Verde Islands",
@@ -137,7 +138,8 @@
         "description": "Santiago - Transfer to the airport for your flight home. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cape Verde Islands",
@@ -202,7 +204,8 @@
         "description": "Palmeira, Sal Early morning arrival at Palmeira port, Sal. Disembarkation at 9:00 am after breakfast."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Cape Verde Islands",
@@ -262,6 +265,7 @@
         "description": "Early wake up as we take our breakfast package and head to port for the ferry back to Mindelo- Sao Vicente. As we arrive in Mindelo we head to the stayover in town we a final afternoon Lunch."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

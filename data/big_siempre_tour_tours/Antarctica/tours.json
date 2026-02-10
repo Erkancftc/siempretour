@@ -67,7 +67,8 @@
         "description": "Buenos Aires: Disembark in Ushuaia and transfer to the airport for your return flight to Buenos Aires. Spend one final night in the capital before your onward journey home. If you’d like to make the most of your last night, we can recommend some wonderful places to eat- just let us know your preferences."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Polar"
   },
   {
     "destination": "Antarctica",
@@ -117,7 +118,8 @@
         "description": "Every adventure, no matter how grand, must eventually come to an end. It’s now time to disembark in Ushuaia, but with memories that will accompany you wherever your next adventure lies."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Diving"
   },
   {
     "destination": "Antarctica",
@@ -167,7 +169,8 @@
         "description": "End of Air-Cruise Today, your air-cruise officially ends. After breakfast, transfer to the Punta Arenas airport for your onward flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Polar"
   },
   {
     "destination": "Antarctica",
@@ -222,7 +225,8 @@
         "description": "Disembark and end in Ushuaia"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Antarctica",
@@ -272,7 +276,8 @@
         "description": "End Punta Arenas"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Antarctica",
@@ -327,7 +332,8 @@
         "description": "Arrive into Ushuaia this morning & disembark."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Polar"
   },
   {
     "destination": "Antarctica",
@@ -377,7 +383,8 @@
         "description": "Arrive into Ushuaia this morning & disembark."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Polar"
   },
   {
     "destination": "Antarctica",
@@ -432,7 +439,8 @@
         "description": "Ushuaia After breakfast, it’s time to disembark the Ocean Nova as your unforgettable Antarctic expedition comes to an end, leaving you with memories of a truly remarkable adventure. A morning transfer to Ushuaia Airport or downtown is included. Meals Breakfast Special information If you would like to stay longer in Ushuaia beyond today or would like to explore South America, please speak to your booking agent to discuss options. If you are flying out today, please book your flight to depart Ushuaia after midday in case of any delays caused by unfavourable weather conditions."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Polar"
   },
   {
     "destination": "Antarctica",
@@ -482,7 +490,8 @@
         "description": "Every adventure, no matter how grand, must eventually come to an end. It’s now time to disembark in Ushuaia, but with memories that will accompany you wherever your next adventure lies."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Polar"
   },
   {
     "destination": "Antarctica",
@@ -547,7 +556,8 @@
         "description": "Disembark in Ushuaia"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Antarctica",
@@ -597,7 +607,8 @@
         "description": "Transfer to airport for onward or return travel"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Polar"
   },
   {
     "destination": "Antarctica",
@@ -687,7 +698,8 @@
         "description": "Lyttelton (Christchurch) /New Zealand, arrival 6.00 hrs"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Polar"
   },
   {
     "destination": "Antarctica",
@@ -772,7 +784,8 @@
         "description": "Arrive into Ushuaia this morning & disembark."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Polar"
   },
   {
     "destination": "Antarctica",
@@ -837,7 +850,8 @@
         "description": "There and back again Every adventure, no matter how grand, must eventually come to an end. It’s now time to disembark in Ushuaia, but with memories that will accompany you wherever your next adventure lies."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Antarctica",
@@ -922,7 +936,8 @@
         "description": "Pampas: Disembark in Ushuaia and transfer to the airport for your return flight to Buenos Aires. Transfer to the serene Pampas countryside where over the next two nights you will unwind and experience the best of authentic gaucho life at a traditional estancia."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Polar"
   },
   {
     "destination": "Antarctica",
@@ -977,7 +992,8 @@
         "description": "Disembarkation in Ushuaia, Argentina After breakfast, it’s time to disembark the Ocean Nova as your unforgettable Antarctic expedition ends. You’ll have a morning transfer to Ushuaia Airport or downtown. If you’d like to extend your stay, just get in touch with your booking team ahead of time. Meals Breakfast Special information If you’re flying out today, please book your flight to depart Ushuaia after midday, in case of any delays caused by unfavourable weather conditions."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Polar"
   },
   {
     "destination": "Antarctica",
@@ -1042,7 +1058,8 @@
         "description": "Disembarkation in Ushuaia and fly to Buenos Aires"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Antarctica",
@@ -1127,7 +1144,8 @@
         "description": "Disembark in Ushuaia and fly to Buenos Aires"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Polar"
   },
   {
     "destination": "Antarctica",
@@ -1192,7 +1210,8 @@
         "description": "Disembark and end Ushuaia"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Antarctica",
@@ -1337,7 +1356,8 @@
         "description": "After breakfast, say goodbye to the Ocean Nova, your Expedition Team and fellow travellers as you disembark in Ushuaia. A morning transfer to Ushuaia Airport or downtown is included."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Antarctica",
@@ -1422,7 +1442,8 @@
         "description": "Ushuaia: As we sail back through the scenic Beagle Channel and arrive in Ushuaia in the early morning it’s sadly time to say goodbye to your crew and fellow shipmates. After breakfast you will disembark and a group transfer will be provided to the airport for onward or homeward journeys"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Antarctica",
@@ -1487,7 +1508,8 @@
         "description": "Disembarkation in Ushuaia, Argentina After breakfast, disembark the Ocean Nova as your Antarctic expedition ends. A morning transfer to Ushuaia Airport or downtown is included, but if you’d like to extend your stay, just speak to your booking agent ahead of time. Meals Breakfast Special information On the day you disembark in Ushuaia, we recommend scheduling your flights for departure after 12 noon to allow for any potential delays due to weather conditions. On this day, we've got your transfers covered! Choose between a morning transfer from the port to Ushuaia airport for your onward flight or a morning transfer from the port to Ushuaia downtown. Enjoy complimentary luggage storage for the day. If you plan to head to the airport at a later time or to your Ushuaia accommodation, it's entirely up to you and at your own expense."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Polar"
   },
   {
     "destination": "Antarctica",
@@ -1542,7 +1564,8 @@
         "description": "USHUAIA. Disembarkation. Charter flight Ushuaia to Buenos Aires."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Antarctica",
@@ -1602,7 +1625,8 @@
         "description": "Winelands: Return to Santiago and transfer to Chile’s wine region for your final nights at a boutique winery. Enjoy vineyard tours, wine tasting, and options for hiking, biking, or horseback riding amid the Andes Mountains."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Antarctica",
@@ -1662,7 +1686,8 @@
         "description": "Buenos Aires: Disembark in Ushuaia and transfer to the airport for your return flight to Buenos Aires. Spend one final night in the capital before your onward journey home. If you’d like to make the most of your last night, we can recommend some wonderful places to eat- just let us know your preferences."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Polar"
   },
   {
     "destination": "Antarctica",
@@ -1737,7 +1762,8 @@
         "description": "SANTIAGO DE CHILE AIRPORT - Your transfer will take you to Santiago airport for your departure flight. We hope you enjoyed your trip!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "Antarctica",
@@ -1822,7 +1848,8 @@
         "description": "Early this morning we will arrive in the Port of Bluff. After a final breakfast we bid farewell to our fellow voyagers and take a complimentary coach transfer to either Invercargill or Queenstown Airports. In case of unexpected delays due to weather and/or port operations we ask you not to book any onward travel until after midday from Invercargill and after 3pm from Queenstown. Note: During our voyage, circumstances may make it necessary or desirable to deviate from the proposed itinerary. This can include poor weather and opportunities for making unplanned excursions. Your Expedition Leader will keep you fully informed. Landings at the Subantarctic Islands of New Zealand are by permit only as administered by the Government of New Zealand. No landings are permitted at The Snares."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Polar"
   },
   {
     "destination": "Antarctica",
@@ -1907,6 +1934,7 @@
         "description": "After breakfast, it’s time to disembark the Ocean Nova as your unforgettable Antarctic expedition comes to an end, leaving you with memories of a truly remarkable adventure. A morning transfer to Ushuaia Airport or downtown is included."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Polar"
   }
 ]

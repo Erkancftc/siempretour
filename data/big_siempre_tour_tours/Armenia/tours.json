@@ -47,7 +47,8 @@
         "description": "Yerevan – Departure from Armenia - Bid farewell to Armenia as you are transferred to the airport or train station for your onward journey. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Armenia",
@@ -112,6 +113,7 @@
         "description": "As your incredible journey through Armenia comes to an end, it’s time to say goodbye. After breakfast at the hotel, you’ll have some free time to relax, explore the surroundings, or do any last-minute shopping. Depending on your flight schedule, we will arrange transfers to the airport. We hope you’ve enjoyed this unforgettable adventure and look forward to welcoming you on future tours. Safe travels!"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   }
 ]

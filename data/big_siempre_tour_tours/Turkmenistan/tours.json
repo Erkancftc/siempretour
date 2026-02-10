@@ -97,7 +97,8 @@
         "description": "Tour ends in Tashkent: Those on the suggested group flight will have an early morning transfer to the airport. For anyone not on the group flights, the tour will end this morning after breakfast."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Turkmenistan",
@@ -197,7 +198,8 @@
         "description": "Departure from Ashgabat - Transfer to the airport for your flight home. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Turkmenistan",
@@ -287,7 +289,8 @@
         "description": "Ashgabat - Transfer to the airport for departure. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Turkmenistan",
@@ -387,6 +390,7 @@
         "description": "Ashgabat - Transfer to the airport for departure. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

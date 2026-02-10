@@ -97,7 +97,8 @@
         "description": "DEPARTURE: Time to say good bye. We'll take you back to Supetar port (Brac), so you can take the ferry back to Split port, where our services conclude. Ferry tickets included."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Croatia",
@@ -162,7 +163,8 @@
         "description": ": Departing Lopud this morning after breakfast, we'll take the ferry back to Dubrovnik's port at Gruz and then transfer to Dubrovnik International Airport (DBV). The first ferry departs Lopud at 6.20am and the earliest your flight can depart is 10.30am. There are later scheduled ferries at 7.10am, 12.10pm and 6pm."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Croatia",
@@ -242,7 +244,8 @@
         "description": "In the morning, you can enjoy the aromas of the Adriatic Sea and the casual sounds of the city returning to life. You may hear the waves crash against the rocks or choose to stroll once more along the city walls for a farewell view over the illustrious water. Your private transfer will meet you in the hotel lobby when you are ready and escort you to the airport for your departure flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "Croatia",
@@ -337,6 +340,7 @@
         "description": "After breakfast, you will be transferred to the international airport for your homebound flight."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Honeymoon"
   }
 ]

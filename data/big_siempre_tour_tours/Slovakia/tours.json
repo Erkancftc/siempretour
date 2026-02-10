@@ -62,7 +62,8 @@
         "description": "Transfer to airport . After an early breakfast, enjoy a short 20-minutes transfer back to Bratislava international airport to take your flight back home. Alternative airport: Vienna Meals included: Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Slovakia",
@@ -127,6 +128,7 @@
         "description": "Transfer back to the airport Enjoy a smooth transfer back to your preferred airport, where your adventure comes to an end. Meals included: no meals included on this day"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   }
 ]

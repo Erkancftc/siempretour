@@ -77,7 +77,8 @@
         "description": "As the morning sun graces Papeete Port, breakfast on board , before disembarkation at 09:00a.m Our dedicated Concierge stands ready to assist with any final arrangements, ensuring your journey concludes seamlessly."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "French Polynesia",
@@ -162,7 +163,8 @@
         "description": "Return to Tahiti (Papeete) This is the end of our journey. It’s time to say Nana! (Goodbye) to your travel companions, to the Polynesian staff and Aranui guides."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "French Polynesia",
@@ -192,7 +194,8 @@
         "description": "Tahiti: Back on Tahiti, spend your last night at a comfortable 3-star hotel in Papeete, offering a standard room with continental breakfast and transfers included — a peaceful base for your explorations. Reflect on your journey through Polynesia’s islands — a voyage filled with authentic experiences, cultural richness, and serene natural beauty."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "French Polynesia",
@@ -216,7 +219,8 @@
     "meet": "",
     "whatExpect": "",
     "dayInfo": [],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "French Polynesia",
@@ -251,7 +255,8 @@
         "description": "Tahiti: One Last Glimpse of Paradise Return once more to Tahiti for your final night in the islands. Let the memories rise gently — of ocean breezes, hidden coves, and starlit dinners. Your journey may be ending, but the spirit of Polynesia stays with you — a quiet, enduring presence that lives on in your heart."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "French Polynesia",
@@ -316,7 +321,8 @@
         "description": "PAPEETE, TAHITI As the morning sun graces Papeete Port, we find ourselves at the end of our voyage. We invite you to join us for the final breakfast on board at 9AM before disembarkation. Our dedicated Concierge stands ready to assist with any final arrangements, ensuring your journey concludes seamlessly."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   },
   {
     "destination": "French Polynesia",
@@ -356,7 +362,8 @@
         "description": "Unfortunately this will be your last day day in paradise. You will be farewelled and transferred back to the airport to continue on to your next destination."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Diving"
   },
   {
     "destination": "French Polynesia",
@@ -436,6 +443,7 @@
         "description": "PAPEETE PORT/TAHITI, SOCIETY ISLANDS Breakfast on board, before disembarkation at 09:00AM"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Ship/Cruise"
   }
 ]

@@ -62,7 +62,8 @@
         "description": "Libreville - Today is spent exploring the city, visiting its markets and seeing some of the remaining examples of early colonial architecture. This evening we transfer to the airport for departure. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Cameroon",
@@ -137,7 +138,8 @@
         "description": "Douala - Drive to Douala and visit the artisans’ market before transferring to the airport for your flight home. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cameroon",
@@ -222,7 +224,8 @@
         "description": "Douala - Departure from Cameroon - Depending on your time of departure, there may be time to take a boat ride through the nearby mangrove forests and visit some local fishing villages. Tour ends with a transfer to the airport. (B) Please note that the driving times shown are approximate and can vary according to local conditions at the time of travel. They do not include the time allocated for stops along the way."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Cameroon",
@@ -287,7 +290,8 @@
         "description": "Yaounde - Transfer to the airport for your onward flight. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   },
   {
     "destination": "Cameroon",
@@ -332,6 +336,7 @@
         "description": "Home - today you will be collected from the airport and taken to the international airport in time to catch your return flight home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Safari"
   }
 ]

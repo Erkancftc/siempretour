@@ -72,7 +72,8 @@
         "description": "Hargeisa- Transfer to the airport for departure."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Djibouti",
@@ -142,7 +143,8 @@
         "description": "Addis Ababa - Fly back to Addis Ababa. The rest of the day is spent exploring the city before you transfer to the airport for your flight home. (BLD)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Djibouti",
@@ -217,7 +219,8 @@
         "description": "Hargeisa - Departure: Transfer to the Airport for your departure flight (BL)."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Djibouti",
@@ -332,6 +335,7 @@
         "description": "Hargeisa - Transfer to the airport for departure. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   }
 ]

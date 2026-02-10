@@ -4,6 +4,7 @@ async function loadTours() {
 
   const params = new URLSearchParams(window.location.search);
   const countryParam = params.get('country');
+  const categoryParam = params.get('category'); // 👈 YENİ
 
   if (!countryParam) {
     container.innerHTML =
@@ -11,14 +12,24 @@ async function loadTours() {
     return;
   }
 
-  // 🔑 URL parametresini decode et (encode ETME!)
+  // 🔑 URL parametresini decode et
   const country = decodeURIComponent(countryParam);
 
-  // ✅ Relative path (static server uyumlu)
-  const toursUrl =
-    `./data/big_siempre_tour_tours/${country}/tours.json`;
+  // 🔥 SADECE DATA SOURCE SEÇİMİ DEĞİŞİYOR
+  let toursUrl;
+
+  if (categoryParam === "Ship/Cruise") {
+    toursUrl = `./data/siempre_tour_ship_tours/${country}/tours.json`;
+  }
+  else if (categoryParam === "Safari") {
+    toursUrl = `./data/siempre_tour_safari_tours/${country}/tours.json`;
+  }
+  else {
+    toursUrl = `./data/big_siempre_tour_tours/${country}/tours.json`;
+  }
 
   console.log("COUNTRY:", country);
+  console.log("CATEGORY:", categoryParam || "ALL");
   console.log("TOURS URL:", toursUrl);
 
   try {
@@ -60,7 +71,6 @@ async function loadTours() {
       dest4.innerHTML = `${destination}`;
 
       const detailUrl = generateDetailUrl(tour.id);
-
 
       const cardHtml = `
         <div class="tour-card col-lg-4 col-md-4 mb-3">

@@ -62,7 +62,8 @@
         "description": "Your tour ends Enjoy a comfortable transfer to Krakow Airport, marking the end of your unforgettable family adventure. Meals included: Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Family"
   },
   {
     "destination": "Czech Republic",
@@ -162,7 +163,8 @@
         "description": ": Our trip ends after breakfast at our hotel in Prague. There are no activities planned today, so you're free to depart from Prague at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer today, you'll need to depart from Prague Airport (PRG)."
       }
     ],
-    "map": "images/tour-photos/Czech-republic/03/01.webp"
+    "map": "images/tour-photos/Czech-republic/03/01.webp",
+    "category": "Culture"
   },
   {
     "destination": "Czech Republic",
@@ -227,7 +229,8 @@
         "description": "In the morning, street vendors pile Lángos high on their stalls. Locals love the delectable fried flat bread, often covering the bread in cheese or garlic. The energy of the city is undeniable. You can spot glass-dome boats traversing the Danube near the House of Parliament. Across the river, the Castle continues to watch over the historic cityscape. People walk along the largest street in the city, the Grand Boulevard, and enjoy the deluxe shops and vibrant displays. After breakfast, your private transfer escorts you from your hotel to Ferihegy Airport for your flight home. You have experienced the splendor of Budapest and Prague that has bordered on the legendary. You could always extend your time in Europe and indulge in more of what the continent has to offer."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Czech Republic",
@@ -302,6 +305,7 @@
         "description": "Your final morning in Split will provide just enough time to meander down to the port so that you can enjoy a scenic stroll along the waterfront with the beautiful harbor as your backdrop. After you have had a chance to stretch your legs and enjoy a final breakfast, a transfer will ensure your timely arrival to Split's main airport for your journey home."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

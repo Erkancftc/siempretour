@@ -62,7 +62,8 @@
         "description": "Dubai-Departure On this day, the last day of your Dubai holiday, After a healthy breakfast at the hotel. Check out from the hotel at 12 noon and proceed to Dubai International Airport 3-4 hours prior to your flight time. Meal (Breakfast)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "United Arab Emirates",
@@ -122,7 +123,8 @@
         "description": "Dubai - Departure On your last day, enjoy breakfast at your hotel. Check out from your hotel by 12:00 PM and proceed to Dubai International Airport 5-6 hours before your flight departure. Meals: Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "United Arab Emirates",
@@ -182,7 +184,8 @@
         "description": "Dubai-Departure On this day, the last day of your Dubai holiday, After a healthy breakfast at the hotel. Check out from the hotel at 12 noon and proceed to Dubai International Airport 5-6 hours prior to your flight time from Abu Dhabi Hotel. Meal (Breakfast)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "United Arab Emirates",
@@ -232,7 +235,8 @@
         "description": "Dubai - Departure Enjoy your breakfast at the hotel before checking out (standard check-out time is at noon). Our driver will meet you at the hotel and escort you to Dubai International Airport for your departure. Fly back home with unforgettable memories of your time in Dubai. Meals: Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "United Arab Emirates",
@@ -297,7 +301,8 @@
         "description": "Departure Enjoy a healthy breakfast at your hotel before checking out. Afterward, proceed to Dubai International Airport for your departure. Fly back home with cherished memories from your 8 days in Dubai and Abu Dhabi. Meals: Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "United Arab Emirates",
@@ -367,7 +372,8 @@
         "description": "Departure | After a healthy breakfast at the hotel, check out from the hotel, proceed to Dubai International Airport, and fly back home with the best memories of your 09 Days in Dubai."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "United Arab Emirates",
@@ -422,7 +428,8 @@
         "description": "You'll be driven back to Dubai airport today, in time for your return flight to the UK."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Luxury"
   },
   {
     "destination": "United Arab Emirates",
@@ -502,7 +509,8 @@
         "description": "Departure Enjoy breakfast at the hotel and check out by 12:00 PM. Depending on your flight schedule, you will be transferred to Muscat Airport. MEALS: Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "United Arab Emirates",
@@ -567,6 +575,7 @@
         "description": "Departure After enjoying a healthy breakfast at the hotel, check out and proceed to Dubai International Airport. Fly back home with cherished memories of your wonderful 8 Days in Dubai. MEALS: Breakfast"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

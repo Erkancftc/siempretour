@@ -62,7 +62,8 @@
         "description": "Return to Sarajevo Airport. Other destinations would incur an extra transfer charge."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Bosnia Herzegovina",
@@ -142,6 +143,7 @@
         "description": "The trip ends this morning in Dubrovnik after breakfast. You may wish to extend your stay in the Croatian capital to further explore its cobbled streets or enjoy the beautiful coastline. Should you wish to do so, please ask your sales representative about our post-tour nights."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]

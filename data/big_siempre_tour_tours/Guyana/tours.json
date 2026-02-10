@@ -87,7 +87,8 @@
         "description": "Optional tours, transfer to airport (B) Check out at Cara Lodge is at midday (late check-out available at extra cost). Free time and transfer to Cheddi Jagan International Airport. Further tour options (extra cost depends on numbers): Hoatzin & Coastal Shield Endemics: From USD 133-517pp Birding in Georgetown’s Botanical Gardens: From USD 37-104pp Seven Curry Tour: From USD 130-202pp Please ask for more details."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Guyana",
@@ -177,7 +178,8 @@
         "description": "Georgetown – Departure from Guyana - For those that wish to explore more of Guyana’s superb nature, a trip on the Mahaica River is an early morning option (additional cost), where you may be able to spot coastal endemics such as Guyana’s national bird the Hoatzin (also known as the Stinkbird), and perhaps Blood Coloured Woodpecker amongst others. For those that wish to relax, enjoy your final hours at leisure until your transfer to the airport for your flight home. You will be able to keep your room until your departure transfer. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Guyana",
@@ -267,6 +269,7 @@
         "description": "END OF THE TRIP: Get picked up in Georgetown and transfer to Cheddi Jagan International Airport for your departing flight. Flight back to home. Optional Tours: Hoatzin & Coastal Shield Endemics 0430hrs pick up and transfer to the Mahaica River. Details at end of itinerary. Birding in Botanical Gardens 0545hrs pick up and transfer to the extensive Georgetown Botanical Gardens. Details at end of itinerary."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   }
 ]

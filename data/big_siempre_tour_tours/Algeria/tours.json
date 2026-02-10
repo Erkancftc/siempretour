@@ -72,7 +72,8 @@
         "description": ": Our tour of northern Algeria ends at our hotel in Algiers. There are no activities planned today, so you're free to depart at any time. If your flight is departing later in the day, luggage storage facilities are available at our hotel. If you'd like an airport transfer, you need to depart from Algiers International airport, also known as Houari Boumediene International Airport (ALG), which is around 30 minutes from the hotel depending on traffic. If you want to extend your time in Algeria, you may wish to consider booking our 16-day 'Ancient Algeria and the Sahara Desert' available on selected dates, which includes a week in Algeria's south, camping in the heart of the Sahara Desert."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Algeria",
@@ -162,7 +163,8 @@
         "description": "Algiers - Departure from Algeria - There’s time to relax and take stock of a remarkable trip before your transfer to the international airport for your flight back home. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Algeria",
@@ -232,7 +234,8 @@
         "description": ": Our flight back to Algiers departs in the early hours of the morning, arriving around 6am, whilst the flight timing is subject to change, at the time of publication this flight has a short scheduled stop at Tamanrasset. The trip ends here at Algiers International airport, also known as Houari Boumediene International Airport (ALG). We recommend booking onward flights from 10am onwards in case of delays. Should you wish to book a extra night's accommodation in Algiers, please get in touch."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Algeria",
@@ -282,7 +285,8 @@
         "description": "Depart Algiers - Any remaining time today will be at leisure before your transfer to the airport for your onward journey. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Algeria",
@@ -377,7 +381,8 @@
         "description": "Algiers - Transfer to the airport for departure. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   },
   {
     "destination": "Algeria",
@@ -467,7 +472,8 @@
         "description": "Djanet – Algiers - Transfer to the airport for departure, to connect with your onward flight home. (B)"
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Adventure"
   },
   {
     "destination": "Algeria",
@@ -572,6 +578,7 @@
         "description": ": Our flight back to Algiers departs in the early hours of the morning, arriving around 6am, whilst the flight timing is subject to change, at the time of publication this flight has a short scheduled stop at Tamanrasset. The trip ends here at Algiers International airport, also known as Houari Boumediene International Airport (ALG). We recommend booking onward flights from 10am onwards in case of delays. Should you wish to book a extra night's accommodation in Algiers, please get in touch."
       }
     ],
-    "map": ""
+    "map": "",
+    "category": "Culture"
   }
 ]
