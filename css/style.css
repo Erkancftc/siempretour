@@ -9908,3 +9908,77 @@ html, body {
     font-size: 12px;
   }
 }
+
+.person-counter-wrap {
+        max-width: 180px;
+      }
+      .person-counter-input {
+        height: 44px;
+        font-weight: 600;
+        font-size: 18px;
+      }
+      .person-counter-actions {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        margin-top: 10px;
+      }
+      .person-counter-btn {
+        width: 38px;
+        height: 38px;
+        border-radius: 50%;
+        border: 1px solid #111;
+        background: #fff;
+        color: #111;
+        font-size: 20px;
+        line-height: 1;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0;
+      }
+      .person-counter-btn:hover {
+        background: #111;
+        color: #fff;
+      }
+      .person-counter-btn:focus {
+        box-shadow: 0 0 0 0.2rem rgba(17, 17, 17, 0.15);
+      }
+      .person-counter-input::-webkit-outer-spin-button,
+      .person-counter-input::-webkit-inner-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+      }
+      .person-counter-input[type="number"] {
+        -moz-appearance: textfield;
+      }
+
+.booking-btn-special {
+  background: linear-gradient(135deg, #000, #2e2e2e);
+  color: #fff;
+  border: none;
+  padding: 16px;
+  font-weight: 700;
+  border-radius: 14px;
+  width: 100%;
+  transition: background 0.3s ease, opacity 0.3s ease;
+  box-shadow: none;              /* 🔥 Gölge kaldırıldı */
+}
+
+.booking-btn-special i {
+  color: #fff;
+}
+
+.booking-btn-special:hover {
+  background: linear-gradient(135deg, #111, #3a3a3a);
+  opacity: 0.95;                 /* 🔥 Hareket yok, sadece hafif fade */
+}
+
+.booking-btn-special:active {
+  opacity: 0.85;
+}
+
+.booking-btn-special:focus {
+  outline: none;
+}
+
