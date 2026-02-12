@@ -73,7 +73,7 @@ async function loadTours() {
       const detailUrl = generateDetailUrl(tour.id);
 
       const cardHtml = `
-        <div class="tour-card col-lg-4 col-md-4 mb-3">
+        <div class="tour-card col-lg-6 col-md-6 mb-4">
           <div class="pb-4 mb-0">
             <div class="ratio ratio-16x9 overflow-hidden">
               ${image ? `<img class="hover-zoom" src="${image}" alt="${alt}">` : ''}
